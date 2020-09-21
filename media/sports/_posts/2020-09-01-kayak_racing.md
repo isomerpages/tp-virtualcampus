@@ -20,8 +20,35 @@ permalink: /sports/kayak_racing/
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:julianqj@tp.edu.sg">Mr Julian Tan</a><br>
                 <br>
-                CCA <a href="https://www.instagram.com/tpkayakracingteam">Instagram</a>
             </p>
+        </td>
+    </tr>
+</table>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CEqu73AnqGz/">
+                <image src="{{site.baseurl}}/images/CCA-Kayak_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <h6 style="margin-top:0%">Join the TP Kayak Racing team!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_U1rUtHwPp/">
+                <image src="{{site.baseurl}}/images/CCA-Kayak_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <h6 style="margin-top:0%">TP Kayak Racing Men's Achievements</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_Ut7cXHP9W/">
+                <image src="{{site.baseurl}}/images/CCA-Kayak_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <h6 style="margin-top:0%">TP kayak Racing Women's Achievements</h6>    
+                </image>
+            </a>
         </td>
     </tr>
 </table>
