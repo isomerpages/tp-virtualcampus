@@ -41,5 +41,7 @@ permalink: /interest_groups/engineering_ambassadors/
                 </image>
             </a>
         </td>
+        <td style="width:33%">
+        </td>
      </tr>
 </table>
