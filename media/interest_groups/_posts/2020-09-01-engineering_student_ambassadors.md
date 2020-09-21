@@ -22,3 +22,24 @@ permalink: /interest_groups/engineering_ambassadors/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_yaN6MnlfE/">
+                <image src="{{site.baseurl}}/images/CCA_eng_ambassador_helpyr1.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Ambassador">
+                <h6 style="margin-top:0%">Helping Year Ones</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CCtWv8Jn1VJ/">
+                <image src="{{site.baseurl}}/images/CCA_eng_ambassador_subcom.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Ambassador">
+                <h6 style="margin-top:0%">Sub-Committee Recruitment</h6>
+                </image>
+            </a>
+        </td>
+     </tr>
+</table>
