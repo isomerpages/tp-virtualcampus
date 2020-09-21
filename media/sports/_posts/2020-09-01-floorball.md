@@ -21,8 +21,35 @@ permalink: /sports/floorball/
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
                 <br>
-                CCA <a href="https://www.instagram.com/tpfloorball">Instagram</a>
             </p>
+        </td>
+    </tr>
+</table>
+
+#### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_47XJuBM8X/">
+                <image src="{{site.baseurl}}/images/CCA-Floorball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
+                <h6 style="margin-top:0%">Join the TP Floorball Family!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_R63TFB9B1/">
+                <image src="{{site.baseurl}}/images/CCA-Floorball_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
+                <h6 style="margin-top:0%">TP Floorball featured in the Home of Champions campaign</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B7gO6yiB_7Y/">
+                <image src="{{site.baseurl}}/images/CCA-Floorball_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <h6 style="margin-top:0%">IVP Floorball 2020 Results</h6>    
+                </image>
+            </a>
         </td>
     </tr>
 </table>
