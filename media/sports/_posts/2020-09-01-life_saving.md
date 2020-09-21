@@ -24,3 +24,31 @@ permalink: /sports/life_saving/
         </td>
     </tr>
 </table>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CB-L_j6Hf11/">
+                <image src="{{site.baseurl}}/images/CCA-tpls_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">Meet the Year Ones!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CB2VGK2nFWr/">
+                <image src="{{site.baseurl}}/images/CCA-tpls_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">3-min Workout Challenge with visit by PCEO</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAPANhkH0N9/">
+                <image src="{{site.baseurl}}/images/CCA-tpls_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">Introduction to the Lifesaving EXCO</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
