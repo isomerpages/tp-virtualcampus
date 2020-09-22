@@ -335,7 +335,7 @@ third_nav_title: Be Involved
                 </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Information Technology</h4>
-                <a href="https://www.instagram.com/tp_itsig/" target="_blank">
+                <a href="https://www.instagram.com/itsigtp/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_itig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Information Technology Student Interest Group">
                     </image>
                 </a>
