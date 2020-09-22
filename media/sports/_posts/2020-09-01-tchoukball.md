@@ -24,3 +24,31 @@ permalink: /sports/tchoukball/
         </td>
     </tr>
 </table>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CACGOGRHF1j/">
+                <image src="{{site.baseurl}}/images/CCA-Tchoukball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
+                <h6 style="margin-top:0%">TP Tchoukball Video</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAAouk_HMc6/">
+                <image src="{{site.baseurl}}/images/CCA-Tchoukball_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
+                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Tchoukball Women's</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAAPfWEHhXV/">
+                <image src="{{site.baseurl}}/images/CCA-Tchoukball_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
+                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Tchoukball Men's</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
