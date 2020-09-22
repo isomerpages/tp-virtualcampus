@@ -23,3 +23,23 @@ permalink: /interest_groups/design_ambassadors/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CCANOWKnJ0C/">
+                    <image src="{{site.baseurl}}/images/CCA-dsa_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
+                    <h6 style="margin-top:0%">Recruitment results are out!</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+            </td>
+            <td style="width:33%"><br>
+            </td>
+        </tr>
+    </table>
+</div>
