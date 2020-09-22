@@ -26,3 +26,33 @@ permalink: /interest_groups/entrepreneurship_group/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CErBf3Sn4jh/">
+                    <image src="{{site.baseurl}}/images/CCA-tpec_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
+                    <h6 style="margin-top:0%">Register for our AGM</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CFJOeD-n6yv/">
+                    <image src="{{site.baseurl}}/images/CCA-tpec_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
+                    <h6 style="margin-top:0%">Interested in growing your business?</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CFbhOE4HpLy/">
+                    <image src="{{site.baseurl}}/images/CCA-tpec_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
+                    <h6 style="margin-top:0%">Learn more on starting your own business</h6>    
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
