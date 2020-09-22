@@ -21,3 +21,31 @@ permalink: /sports/wakeboarding/
         </td>
     </tr>
 </table>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_RoY1sH_-I/">
+                <image src="{{site.baseurl}}/images/CCA-Wakeboarding_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
+                <h6 style="margin-top:0%">Introduction to TP Wakeboarding</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CB2esdHnnUE/">
+                <image src="{{site.baseurl}}/images/CCA-Wakeboarding_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
+                <h6 style="margin-top:0%">Wakeboarding athlete feature</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CE08-aZH_Lw/">
+                <image src="{{site.baseurl}}/images/CCA-Wakeboarding_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
+                <h6 style="margin-top:0%">Wakeboarding athlete feature</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
