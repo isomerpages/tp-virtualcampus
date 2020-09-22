@@ -24,3 +24,31 @@ permalink: /sports/water_polo/
         </td>
     </tr>
 </table>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/stories/highlights/17901362797531550/">
+                <image src="{{site.baseurl}}/images/CCA-Waterpolo_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <h6 style="margin-top:0%">Resumption of F2F training</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/stories/highlights/17855255983941363/">
+                <image src="{{site.baseurl}}/images/CCA-Waterpolo_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <h6 style="margin-top:0%">Online training sessions</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CACpyXPHMjB/">
+                <image src="{{site.baseurl}}/images/CCA-Waterpolo_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <h6 style="margin-top:0%">Introduction to Water Polo EXCO</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
