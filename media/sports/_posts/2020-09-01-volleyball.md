@@ -25,3 +25,31 @@ permalink: /sports/volleyball/
         </td>
     </tr>
 </table>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/stories/highlights/17956584700324464/">
+                <image src="{{site.baseurl}}/images/CCA-Volleyball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+                <h6 style="margin-top:0%">TP Volleyball teams online training</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAUceYgHrBE/">
+                <image src="{{site.baseurl}}/images/CCA-Volleyball_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+                <h6 style="margin-top:0%">National Athlete Ajay Shergill SEA Games 2019 highlights</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_ZyoWSnBAH/">
+                <image src="{{site.baseurl}}/images/CCA-Volleyball_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+                <h6 style="margin-top:0%">Join the TP Volleyball family!</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
