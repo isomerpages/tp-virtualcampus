@@ -25,3 +25,31 @@ permalink: /sports/track_field/
         </td>
     </tr>
 </table>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CEjxJ4hHyx7/">
+                <image src="{{site.baseurl}}/images/CCA-track_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
+                <h6 style="margin-top:0%">Resumption of F2F Training</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAxQZSJnQxJ/">
+                <image src="{{site.baseurl}}/images/CCA-track_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
+                <h6 style="margin-top:0%">Team Online Training Session</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAMu6ZEHfSt/">
+                <image src="{{site.baseurl}}/images/CCA-track_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
+                <h6 style="margin-top:0%">Join the Track & Field Family!</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
