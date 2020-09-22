@@ -13,6 +13,7 @@ Our chats are anonymous.
 
 ---
 ### E-Chat & Counselling Appointment ###
+![Counselling]({{site.baseurl}}/images/BeWell-e-chat_with_counsellors.jpg)
 Learn more [here](https://calendly.com/booktpcs){:target="_blank"}
 
 ---
