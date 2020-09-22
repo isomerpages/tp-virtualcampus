@@ -21,3 +21,31 @@ permalink: /sports/ultimate_frisbee/
         </td>
     </tr>
 </table>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CA0IBb0nfwq/">
+                <image src="{{site.baseurl}}/images/CCA-Ultimate_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
+                <h6 style="margin-top:0%">Ultimate Frisbee eAGM</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAc3HYZHrb4/">
+                <image src="{{site.baseurl}}/images/CCA-Ultimate_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
+                <h6 style="margin-top:0%">Feature on National Athlete Chew Chin Ye</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_ekK2OngrW/">
+                <image src="{{site.baseurl}}/images/CCA-Ultimate_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
+                <h6 style="margin-top:0%">Join the TP Ultimate Family!</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
