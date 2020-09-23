@@ -28,3 +28,32 @@ permalink: /performing_arts/digital_media/
     </tr>
 </table>
 </div>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CDjKfMGAHsT/">
+                <image src="{{site.baseurl}}/images/CCA-DMPC_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <h6 style="margin-top:0%">Launch of DMPC website</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CACkVC1HUYd/">
+                <image src="{{site.baseurl}}/images/CCA-DMPC_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
+                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 DMPC Video</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">
+                <image src="{{site.baseurl}}/images/CCA-DMPC_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <h6 style="margin-top:0%">DMPC Flickr Page</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
+
