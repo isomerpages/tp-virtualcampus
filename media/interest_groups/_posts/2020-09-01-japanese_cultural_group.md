@@ -34,11 +34,6 @@ permalink: /interest_groups/japanese_cultural_group/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="#### Latest Happenings
-
-<table>
-    <tr>
-        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CFOuV1hnpQ8/">
                 <image src="{{site.baseurl}}/images/CCA_jcg_kinsho.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
                 <h6 style="margin-top:0%">Japan-SG Student Exchange</h6>
