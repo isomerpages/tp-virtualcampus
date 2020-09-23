@@ -31,3 +31,33 @@ permalink: /performing_arts/malay_dance/
     </tr>
 </table>
 </div>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CDqukxJBx2q/">
+                <image src="{{site.baseurl}}/images/CCA-Malaydance_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <h6 style="margin-top:0%">Collaboration with Indian Dance for NDC Performance</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CBXwYmThMka/">
+                <image src="{{site.baseurl}}/images/CCA-Malaydance_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <h6 style="margin-top:0%">Hari Raya celebration video</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CA7NGbThdHL/">
+                <image src="{{site.baseurl}}/images/CCA-Malaydance_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <h6 style="margin-top:0%">#sntchallenge</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
