@@ -29,3 +29,33 @@ permalink: /performing_arts/dikir_barat/
     </tr>
 </table>
 </div>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CBQNsxNh9Go/">
+                <image src="{{site.baseurl}}/images/CCA-DK_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <h6 style="margin-top:0%">Dikir Barat's Annual Video Raya - Batch Capal</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CBNpVNpBx98/">
+                <image src="{{site.baseurl}}/images/CCA-DK_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <h6 style="margin-top:0%">Dikir Barat's Annual Video Raya - Batch Sejati</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CBLFtGGBxWs/">
+                <image src="{{site.baseurl}}/images/CCA-DK_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <h6 style="margin-top:0%">Dikir Barat's Annual Video Raya - Batch Bunga</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
