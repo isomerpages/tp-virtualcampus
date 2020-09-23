@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  String Ensemble
-permalink: /performing_arts/dance_ensemble/
+permalink: /performing_arts/string_ensemble/
 ---
 
 <div>
