@@ -26,3 +26,33 @@ permalink: /interest_groups/toastmasters/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CFeOO4eHhn3/">
+                    <image src="{{site.baseurl}}/images/CCA-toastmasters_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
+                    <h6 style="margin-top:0%">Evaluation Workshop</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CEQYlKNnoti/">
+                    <image src="{{site.baseurl}}/images/CCA-toastmasters_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
+                    <h6 style="margin-top:0%">Winners of 7th Chapter Meeting</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CCANOWKnJ0C/">
+                    <image src="{{site.baseurl}}/images/CCA-toastmasters_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
+                    <h6 style="margin-top:0%">Chapter Meeting</h6>
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
