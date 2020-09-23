@@ -26,3 +26,31 @@ permalink: /interest_groups/green_interest_group/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CFRdM_pHVgP/">
+                <image src="{{site.baseurl}}/images/CCA_gig_oth.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
+                <h6 style="margin-top:0%">OTH Eco Garden!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CDJJ1HpHjMT/">
+                <image src="{{site.baseurl}}/images/CCA_gig_eco.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
+                <h6 style="margin-top:0%">Eco Friendly Life</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CCuvgFtHY6n/">
+                <image src="{{site.baseurl}}/images/CCA_gig_useofstraw.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
+                <h6 style="margin-top:0%">Plastic Free!</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
