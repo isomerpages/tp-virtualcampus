@@ -30,3 +30,21 @@ permalink: /interest_groups/ies_student_chapter/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CB2Bmt7HowV/">
+                <image src="{{site.baseurl}}/images/CCA_ies_wklymtg.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
+                <h6 style="margin-top:0%">Join the Bi-Weekly Meeting</h6>
+                </image>
+            </a>
+        </td>
+         <td style="width:33%">
+        </td>
+        <td style="width:33%">
+        </td>
+    </tr>
+</table>
