@@ -29,3 +29,32 @@ permalink: /performing_arts/string_ensemble/
     </tr>
 </table>
 </div>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CEJDYN_HBKg/">
+                <image src="{{site.baseurl}}/images/CCA-String_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <h6 style="margin-top:0%">String Ensemble's Home Performance</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAPpgVyAEJG/">
+                <image src="{{site.baseurl}}/images/CCA-String_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <h6 style="margin-top:0%">Life in TP String Ensemble</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAHZ0EpHsSy/">
+                <image src="{{site.baseurl}}/images/CCA-String_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <h6 style="margin-top:0%">Frequent Asked Questions about the CCA</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
+
