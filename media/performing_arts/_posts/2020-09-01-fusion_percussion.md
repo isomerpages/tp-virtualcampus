@@ -30,3 +30,33 @@ permalink: /performing_arts/fusion_percussion/
     </tr>
 </table>
 </div>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CDs24KsB1QX/">
+                <image src="{{site.baseurl}}/images/CCA-Fusion_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <h6 style="margin-top:0%">Fusion Percussion's Collaboration with Salvo Drums</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CDs2eHiB9xt/">
+                <image src="{{site.baseurl}}/images/CCA-Fusion_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <h6 style="margin-top:0%">Behind the scenes of the NDC performance</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_Pd3zPhGDO/">
+                <image src="{{site.baseurl}}/images/CCA-Fusion_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <h6 style="margin-top:0%">Introducing the Fusion Percussion Main Committee</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
