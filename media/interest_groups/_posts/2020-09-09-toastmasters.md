@@ -47,7 +47,7 @@ permalink: /interest_groups/toastmasters/
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CCANOWKnJ0C/">
+                <a href="https://www.instagram.com/p/CEQYPx3HS8G/">
                     <image src="{{site.baseurl}}/images/CCA-toastmasters_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
                     <h6 style="margin-top:0%">Chapter Meeting</h6>
                     </image>
