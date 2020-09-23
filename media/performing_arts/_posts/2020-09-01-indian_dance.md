@@ -30,3 +30,33 @@ permalink: /performing_arts/indian_dance/
     </tr>
 </table>
 </div>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CDqFnRwFjN7/">
+                <image src="{{site.baseurl}}/images/CCA-Indiandance_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <h6 style="margin-top:0%">Indian Dance NDC performance</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CC77RoClSQy/">
+                <image src="{{site.baseurl}}/images/CCA-Indiandance_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <h6 style="margin-top:0%">TP x NYP x SP #dontrushchallenge</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAKcWP-F-8Z/">
+                <image src="{{site.baseurl}}/images/CCA-Indiandance_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 video</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
