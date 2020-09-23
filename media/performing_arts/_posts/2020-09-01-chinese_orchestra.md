@@ -29,3 +29,33 @@ permalink: /performing_arts/chinese_orchestra/
     </tr>
 </table>
 </div>
+
+#### Past Activities
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CAC5-u1nr_h/">
+                <image src="{{site.baseurl}}/images/CCA-CO_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 video - TPCO</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/B_eQ56FHyDL/">
+                <image src="{{site.baseurl}}/images/CCA-CO_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">Introduction to the TPCO Main Committee</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CANAT5Tn8LJ/">
+                <image src="{{site.baseurl}}/images/CCA-CO_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">Throwback to the TPCO Sonority concert</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
+
+
