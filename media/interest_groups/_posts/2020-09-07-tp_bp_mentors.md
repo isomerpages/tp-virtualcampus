@@ -23,3 +23,33 @@ permalink: /interest_groups/tp_bp_mentors/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CAHTnmHHBcb/">
+                    <image src="{{site.baseurl}}/images/CCA-tpbpmentoring_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
+                    <h6 style="margin-top:0%">Recruitment is here!</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CBnvRLRHWnx/">
+                    <image src="{{site.baseurl}}/images/CCA-tpbpmentoring_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
+                    <h6 style="margin-top:0%">Interviews are over!</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CCC9pjrn866/">
+                    <image src="{{site.baseurl}}/images/CCA-tpbpmentoring_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
+                    <h6 style="margin-top:0%">Results are out!</h6>
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
