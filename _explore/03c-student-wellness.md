@@ -18,5 +18,4 @@ Learn more [here](https://calendly.com/booktpcs){:target="_blank"}
 
 ---
 ### Powtoon Video ###
-<iframe width="800" height="450" src="https://www.powtoon.com/embed/eCItNxp5wAk/" frameborder="0" allowfullscreen target="_blank"></iframe>
-
+[![Powtoon Video]({{site.baseurl}}/images/Powtoonvideo.jpg)](https://www.powtoon.com/c/eCItNxp5wAk/2/m){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
