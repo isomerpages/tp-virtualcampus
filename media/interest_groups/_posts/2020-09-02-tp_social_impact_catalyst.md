@@ -29,3 +29,33 @@ permalink: /interest_groups/tp_social_impact_catalyst/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CCcu1V8Axlh/">
+                    <image src="{{site.baseurl}}/images/CCA-tpsic_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
+                    <h6 style="margin-top:0%">Project Initiation Day</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CCcxFJNg-Iq/">
+                    <image src="{{site.baseurl}}/images/CCA-tpsic_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
+                    <h6 style="margin-top:0%">Annual General Meeting</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CD0f1V4AFXo/">
+                    <image src="{{site.baseurl}}/images/CCA-tpsic_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
+                    <h6 style="margin-top:0%">Bootcamp 2020</h6>
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
