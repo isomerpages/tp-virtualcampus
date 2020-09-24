@@ -32,3 +32,23 @@ permalink: /interest_groups/tp_debates/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CD03UHrHpV2/">
+                    <image src="{{site.baseurl}}/images/CCA-tpdebates_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <h6 style="margin-top:0%">Freshmen Tournament</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+            </td>
+            <td style="width:33%"><br>
+            </td>
+        </tr>
+    </table>
+</div>
