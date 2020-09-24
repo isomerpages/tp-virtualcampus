@@ -37,3 +37,33 @@ permalink: /interest_groups/tp_international_students_group/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CFGWP4FnHuv/">
+                    <image src="{{site.baseurl}}/images/CCA-tpisg_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
+                    <h6 style="margin-top:0%">Subcomm Virtual Bonding</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CFKAe4qHXk2/">
+                    <image src="{{site.baseurl}}/images/CCA-tpisg_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
+                    <h6 style="margin-top:0%">Community Service @ IMH</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CFcF7NjH5dE/">
+                    <image src="{{site.baseurl}}/images/CCA-tpisg_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
+                    <h6 style="margin-top:0%">DIY Pilot Programme</h6>
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
