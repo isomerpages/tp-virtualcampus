@@ -32,3 +32,33 @@ permalink: /interest_groups/tp_cd_lionhearters/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<div>
+    <table>
+        <tr>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CDTPVpCnYrR/">
+                    <image src="{{site.baseurl}}/images/CCA-tpcdlionhearters_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <h6 style="margin-top:0%">Test your First Aid & CPR+AED in Quiz 1</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CEIzVC0HR57/">
+                    <image src="{{site.baseurl}}/images/CCA-tpcdlionhearters_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <h6 style="margin-top:0%">What to do in non-cardic arrest situations? Take Quiz 2</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CFBG8jnHOsn/">
+                    <image src="{{site.baseurl}}/images/CCA-tpcdlionhearters_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <h6 style="margin-top:0%">Musculoskeletal injuries is on Quiz 3</h6>
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
