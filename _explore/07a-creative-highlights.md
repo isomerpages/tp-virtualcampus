@@ -15,3 +15,15 @@ A 2-day Entrepreneurship Appreciation Programme (EAP) for you to deepen your und
 **Find out [more](https://www.instagram.com/p/CFbhOE4HpLy/){:target="_blank"}**
 
 ![Entrepreneurship Appreciation Programme](/images/CCA_entrepreneurship_appreciation.JPG)
+
+---
+#### Business Skills Workshops ####
+<div style="text-align: justify">
+    <p>
+Interested to learn more about starting or growing a business? TP Entrepreneurship Club & TP Spirit of Enterprise brings to you two workshops by two guest speakers - Mr Sherman Foo, CEO of S Capital Consolidated and Ms Charmaine Lee, Digital Marketing Trainer of Sky Digital Agency.  
+          </p>
+</div>
+
+**Find out [more](https://www.instagram.com/p/CFJOeD-n6yv/){:target="_blank"}**
+
+![Business Skills Workshops](/images/CCA_entrepreneurship_businessskills.JPG)
