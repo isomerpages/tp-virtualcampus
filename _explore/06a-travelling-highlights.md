@@ -23,7 +23,7 @@ You can find out more about the student exchanges on [YouTube](https://www.youtu
 
 ### Japan-Singapore Student e-Xchange Programme ###
 
-![Japan-Singapore Student e-Xchange Programme]({{site.baseurl}}/images/BeTravelling-Japan-SG_Student_Exchange.png)
+![Japan-Singapore Student e-Xchange Programme]({{site.baseurl}}/images/CCA_jcg_kinsho.JPG)
 
 The Japan-Singapore Student e-Xchange Programme is a virtual-mobility programme, organised by TP’s Japanese Cultural Group (JCG), with the participation of Ishikawa Prefectural Kanazawa Commercial High School (KINSHO).   
 
