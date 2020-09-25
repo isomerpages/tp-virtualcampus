@@ -5,16 +5,16 @@ permalink: /be-connected/career-navigator/
 third_nav_title: Be Connected
 
 ---
-### CET Master Series Symposium 2020 ### 
+### Live Webinar: Upskilling Workforce in the 'New Normal' with Microlearning ### 
 <div style="text-align: justify">
     <p>
-Sign up for the virtual CET Master Series Symposium 2020 on 18 September 2020! Hear from industry experts and professionals as they share their insights, expertise and knowledge, and learn how you can future proof yourself amid the ongoing COVID-19 pandemic and the changes that are here to stay.
+Find out how you can upskill yourself in this 'New Normal' using mobile microlearning solutions. Happening on 30 September 2020, 8.30am. 
           </p>
 </div>
 
-**Learn [more](https://www1.np.edu.sg/cet-symposium-2020/?fbclid=IwAR3bPM9NoNxxX50gxezBNaBXMD7UXqV4qUMu90TuUBx4WHvkRIEo6lSRiFw){:target="_blank"}**
+**Learn [more](https://www.facebook.com/temasekpolyalumni/photos/a.314919538569078/3422967851097549/)**
 
-![CET Master Series Symposium 2020]({{site.baseurl}}/images/BeConnected_Alumni4.JPG)
+![Upskilling Workforce]({{site.baseurl}}/images/BeConnected_UpskillingWorkforce.JPG)
 
 ---
 ### Leveraging LinkedIn for Your Career ###
@@ -24,6 +24,6 @@ Get insightful perspectives and useful tips to build your brand/profile using Li
         </p>
 </div>
 
-**Click [here](https://www.facebook.com/watch/live/?v=660591798116873&ref=external){:target="_blank"} to know more**
+**Click [here](https://www.facebook.com/watch/live/?v=660591798116873&ref=external) to know more**
 
 ![Leveraging LinkedIn](/images/BeConnected_LinkedIn.JPG)
