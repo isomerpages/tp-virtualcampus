@@ -33,3 +33,11 @@ Opening hours: Mon – Fri (8.30 – 5.30 pm)
 
 (closed on Weekends & Public Holidays)
 
+---
+### Download Your Premium AI Chatbot ###
+
+Chat with Wysa your Wellness Buddy. Go to TP Student Intranet Announcement for the QR code to download your premium Wysa app on the Apple AppStore or Google Play today!
+
+![Wysa AI Chatbot](/images/BeAwesome_studentwellness_WYSA.JPG) 
+
+
