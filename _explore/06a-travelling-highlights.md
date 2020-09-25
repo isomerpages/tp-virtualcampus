@@ -5,18 +5,16 @@ permalink: /be-travelling/event-highlights/
 third_nav_title: Be Travelling
 
 ---
-### ASEAN Student X-change Programme ###
-![ASEAN Student X-change Programme]({{site.baseurl}}/images/BeTravelling-ASEAN_Student_Exchange.png)
+### ASEAN Student e-Xchange Programme ###
 
-The ASEAN Student e-Xchange Programme is a virtual-mobility programme in partnership with Passage2ASEAN (P2A) Association. 44 TP students have been matched with 45 students from ASEAN, and over five weeks, they will engage in weekly 45-mins e-meetings to share and discuss their respective countries and the United Nations Sustainable Development Goals (UN SDGs) while learning more from one another.
+The ASEAN Student e-Xchange Programme is a virtual-mobility programme in partnership with Passage2ASEAN (P2A) Association. 43 TP students have been matched with 65 students from ASEAN, and over five weeks, they will engage in weekly 45-mins e-meetings to share and discuss their respective countries and the United Nations Sustainable Development Goals (UN SDGs) while learning more from one another.
 
+9 Institutes of Higher Learning (IHLs) from 5 countries participated in this programme - Universitas Kristen Indonesia Paulus (Indonesia), Universitas Pembangunan Nasional "Veteran" Yogyakarta (Indonesia), Technological University Kyaukse (Myanmar), Victoria University College (Myanmar), Saint Columban College (Philippines), Chiang Mai Rajabhat University (Thailand), Rangsit University (Thailand), Duy Tan University (Vietnam) and FPT Educational Global (Vietnam).
 
-<i>"The concept of Student e-Xchange Programme is not new, given the technology to facilitate the programme has existed for years.  In light of Covid-19 pandemic, overseas student programmes have been on a standstill. Like all institutions of higher learning throughout the world, we had to re-imagine how do we conduct overseas student programmes. The ASEAN Student e-Xchange Programme is our response to the situation." </i>
+TP students engaged with their P2A counterparts, organised in groups of ten: five TP students and five P2A counterparts. Their e-exchange were held via MS Teams or any other e-platform of their choice.
 
-Through this programme, students will develop a global mindset, deepen cross-cultural skills, fostering cultural awareness and international collaboration.  Along the way; cultivating lasting friendships and at the end of the programme, the students will emerge with bigger hearts.  
+The discussion revolved around selected UN SDGs: Good health and well-being; Quality education; Reduce inequalities; and, Partnership for the goals. The common thread weaving through these UN SDG was COVID-19. 
 
-We look forward to a warm virtual hand-shake with our ASEAN counterparts. 
-<br>
-Teo Sze Cheng<br>
-Director, International Relations<br>
-Head, Centre for Transcultural Studies
+Through this programme, students will develop a global mindset, deepen cross-cultural skills, fostering cultural awareness and international collaboration.  Along the way; cultivating lasting friendships and at the end of the programme, the students will emerge with bigger hearts.
+
+** You can find out more about the student exchanges on [YouTube](https://www.youtube.com/channel/UCfhU5IoOuAsaNy0DuqlCs5g/videos){:target="_blank"}**
