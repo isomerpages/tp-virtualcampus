@@ -10,10 +10,10 @@ TP Biomedical Engineering student and also a fitness ethusiast Samoona Pun share
 
 ![Exercise with Samoona Pun](/images/BeConnected_Exercise-with-Samoona.jpg)
 
-#### [Cardio Exercise](https://www.facebook.com/watch/?v=572823250041014&extid=27TkvKv818kRUP0f)###
+#### [Cardio Exercise](https://www.facebook.com/watch/?v=572823250041014&extid=27TkvKv818kRUP0f) ###
 Focusing on burning fats and building our endurance, this 30-minute intense cardio exercise workout kickstarts the first series.
 
-#### [Upper Body Exercise](https://www.facebook.com/watch/?v=2810943835670014&extid=0pp0kPkVy8zGlTlX)###
+#### [Upper Body Exercise](https://www.facebook.com/watch/?v=2810943835670014&extid=0pp0kPkVy8zGlTlX) ###
 Session Two of our workout series with Samoona Punis focused on upper body exercises
 
 #### [Lower Body Exercise](https://www.facebook.com/watch/?v=3076317465784109&extid=WKyTBg5HJ5uDqm9w) ###
