@@ -17,6 +17,8 @@ Due to the evolving risk on COVID-19 and the temporary Circuit Breaker measure, 
 If you really feel the need to meet physically, perhaps you can drop us an email and we will contact you to explore further.
 We have moved some workshops and training online as well. Please look out for it in the student announcements. These arrangements will continue until further notification is made. We apologise for the inconvenience but appeal to you for understanding.
 
+- From Student Care
+
 ![Counselling]({{site.baseurl}}/images/BeWell-e-chat_with_counsellors.jpg)
 Make Appointment [here](https://calendly.com/booktpcs)
 
