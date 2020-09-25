@@ -14,7 +14,7 @@ Find out how you can upskill yourself in this 'New Normal' using mobile microlea
 
 **Learn [more](https://www.facebook.com/temasekpolyalumni/photos/a.314919538569078/3422967851097549/)**
 
-![Upskilling Workforce]({{site.baseurl}}/images/BeConnected_UpskillingWorkforce.JPG)
+![Upskilling Workforce](/images/BeConnected_UpskillingWorkforce.JPG)
 
 ---
 ### Leveraging LinkedIn for Your Career ###
