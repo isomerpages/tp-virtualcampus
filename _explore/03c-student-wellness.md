@@ -18,11 +18,15 @@ If you really feel the need to meet physically, perhaps you can drop us an email
 We have moved some workshops and training online as well. Please look out for it in the student announcements. These arrangements will continue until further notification is made. We apologise for the inconvenience but appeal to you for understanding.
 
 ![Counselling]({{site.baseurl}}/images/BeWell-e-chat_with_counsellors.jpg)
-Make Appointment [here](https://calendly.com/booktpcs){:target="_blank"}
+Make Appointment [here](https://calendly.com/booktpcs)
 
-Making Inquiry
+**Making Inquiry**
+
 Tel:  6780 5959
+
 Email: care@tp.edu.sg
+
 Opening hours: Mon – Fri (8.30 – 5.30 pm)
+
 (closed on Weekends & Public Holidays)
 
