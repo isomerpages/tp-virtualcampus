@@ -20,9 +20,10 @@ We have moved some workshops and training online as well. Please look out for it
 - From Student Care
 
 ![Counselling]({{site.baseurl}}/images/BeWell-e-chat_with_counsellors.jpg)
-Make Appointment [here](https://calendly.com/booktpcs)
+    
+**Make your Appointment [here](https://calendly.com/booktpcs)**
 
-**Making Inquiry**
+**For enquiry**
 
 Tel:  6780 5959
 
