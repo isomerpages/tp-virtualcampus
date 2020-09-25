@@ -20,3 +20,18 @@ The discussion revolved around selected UN SDGs: Good health and well-being; Qua
 Through this programme, students will develop a global mindset, deepen cross-cultural skills, fostering cultural awareness and international collaboration.  Along the way; cultivating lasting friendships and at the end of the programme, the students will emerge with bigger hearts.
 
 You can find out more about the student exchanges on [YouTube](https://www.youtube.com/channel/UCfhU5IoOuAsaNy0DuqlCs5g/videos){:target="_blank"}
+
+### Japan-Singapore Student e-Xchange Programme ###
+
+![Japan-Singapore Student e-Xchange Programme]({{site.baseurl}}/images/BeTravelling-Japan-SG_Student_Exchange.png)
+
+The Japan-Singapore Student e-Xchange Programme is a virtual-mobility programme, organised by TP’s Japanese Cultural Group (JCG), with the participation of Ishikawa Prefectural Kanazawa Commercial High School (KINSHO).   
+
+19 KINSHO students and 23 JCG members will be engaging from 23 October to 23 December 2020.  They will discuss Culture (including Stereotypes and expressions of culture, e.g. Anime) and even share Singapore dishes that will be given a Japanese twist.  The engagements will be in the Japanese and English languages.  
+
+In order to enhance learning, we have invited a guest speaker, Mr Markus Tan, Regional Director, North Asia, Singapore Tourism Board (see attached for his CV) to address the KINSHO students and JCG members.   
+
+He will share the attractions in Singapore (targeted at KINSHO), his culture shock in Japan, his favourite places and experiences in Japan, the tourism industry and advice for undergraduates.  Markus’ sharing will be in the Japanese and English languages.  
+
+Join us and hear what Markus has to say!
+
