@@ -69,8 +69,7 @@ contacts:
     content:
     - phone: +65 6780 4220
     - email: cfs@tp.edu.sg
-    
-   - title: Student Development & Alumni Affairs
+  - title: Student Development & Alumni Affairs
     content:
     - phone: +65 6780 5656
     - email: sdaa@tp.edu.sg 
