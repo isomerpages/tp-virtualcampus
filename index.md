@@ -26,13 +26,13 @@ sections:
         - title: Salvo Drums
           subtitle: Featured CCA
           description: Champion for DrumzOut
-          image: /images/Salvo12.jpg
-          alt: Salvo12
+          image: /images/Salvo2.jpg
+          alt: Salvo2
         - title: Salvo Drums
           subtitle: Featured CCA
           description: Arts Group of The Year
-          image: /images/Salvo13.jpg
-          alt: Salvo13
+          image: /images/Salvo3.jpg
+          alt: Salvo3
     
     - infopic:
         title: TP National Day Virtual Concert
