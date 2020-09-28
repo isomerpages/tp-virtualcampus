@@ -135,20 +135,14 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Service Ambassadors</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_saig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Service Ambassadors">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Stop Press Campus Newspaper</h4>
                 <a href="https://www.instagram.com/explore/tags/tpstoppress/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_spcnig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Stop Press Campus Newspaper">
                     </image>
                 </a>
             </td>
+        </tr>
+        <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>PATA Singapore TP Student Chapter</h4>
                 <a href="https://www.instagram.com/tp.pata/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_pataig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="PATA Singapore TP Student Chapter">
@@ -172,11 +166,7 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Product & Industrial Design</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_pidig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industrial Design Interest Group">
-                    </image>
-                </a>
+            <td style="width:33%; vertical-align:bottom; border:none">
             </td>
             <td style="width:33%; vertical-align:bottom; border:none">
             </td>
@@ -211,35 +201,9 @@ third_nav_title: Be Involved
             </td>
         </tr>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Business Process & Systems Engineering</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_bzeig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Process & Systems Engineering (BIZEN - BZE">
-                    </image>
-                </a>
-            </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Blackbox</h4>
                 <a href="https://www.instagram.com/amsaviators/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_amsig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Blackbox (AMS)">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Computer Engineering Network</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_centig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Computer Engineering Network (CENT)">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>E2Matrix</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_cepig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="E2Matrix (CEP/ELN)">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Energy Oasis</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_cerig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Energy Oasis (CER)">
                     </image>
                 </a>
             </td>
@@ -249,17 +213,9 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Integrated Facility Management</h4>
                 <a href="https://www.instagram.com/ifmclub/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_ifmig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Integrated Facility Management (IFM)">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Society of Manufacturing Engineers Club</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_mtnig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Society of Manufacturing Engineers Club (SME - MTN">
                     </image>
                 </a>
             </td>
@@ -274,23 +230,15 @@ third_nav_title: Be Involved
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>ECDE</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_echig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="ECDE Interest Group">
-                    </image>
-                </a>
-            </td>
             <td style="width:33%; vertical-align:bottom; border:none"><h4>Phychology Studies</h4>
                 <a href="https://www.instagram.com/t.psig/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_psyig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Phychology Studies Interest Group">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Social Sciences in Gerontology</h4>
-                <a href="" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_ssgig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Social Sciences in Gerontology Interest Group">
-                    </image>
-                </a>
+            <td style="width:33%; vertical-align:bottom; border:none">
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none">
             </td>
         </tr>
     </table>
