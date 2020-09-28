@@ -79,9 +79,9 @@ Check out the weekly episodes of the Adventuring With You series that takes you 
             <td style="width:33%; border:none"><a href="https://www.youtube.com/watch?v=eeW1DU05j7U" target="_blank">
                 <image src="{{site.baseurl}}/images/e-adv-day_19.webp" style="display:block;margin-left:auto;margin-right:auto;" alt=""></image></a>
             </td>
-            <td style="width:33%; border:none"><a href="" target="_blank">       
+            <td style="width:33%; border:none"><!--<a href="" target="_blank"></a>-->
             </td>
-            <td style="width:33%; border:none"><a href="" target="_blank">      
+            <td style="width:33%; border:none"><!--<a href="" target="_blank"></a>-->
             </td>
         </tr>
     </table>
