@@ -36,8 +36,8 @@ Opening hours: Mon – Fri (8.30 – 5.30 pm)
 ---
 ### Download Your Premium AI Chatbot ###
 
-Chat with Wysa your Wellness Buddy. Go to TP Student Intranet Announcement for the QR code to download your premium Wysa app on the Apple AppStore or Google Play today!
+Chat with Wysa your Wellness Buddy. Go to TP Student Intranet <a href="https://tpann.tp.edu.sg/tpann/web/audience/AllAnnouncementList.aspx?code=STUDENT" target="_blank">Announcement</a> for the QR code to download your premium Wysa app on the Apple AppStore or Google Play today!
 
-![Wysa AI Chatbot](/images/BeAwesome_studentwellness_WYSA.JPG) 
+![Wysa AI Chatbot]({{site.baseurl}}/images/BeAwesome_studentwellness_WYSA.JPG)
 
 
