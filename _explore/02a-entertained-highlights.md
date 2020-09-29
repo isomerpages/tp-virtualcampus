@@ -5,8 +5,8 @@ permalink: /be-entertained/event-highlights/
 third_nav_title: Be Entertained
 
 ---
-## **Relive the moments from our very first TP National Day Virtual Celebration**
-_SG55 X TP30_
+## **SG55 x TP30 National Day Virtual Concert**
+Relive the moments of our inaugural TP National Day Virtual Concert with your family, friend and loved ones! A night full of nostalgia, songs, dances, live interviews and a five-part short film by our TP FAM from the Temasek Arts Centre await you! 
 
 <!--
 <div class="bp-youtube">
