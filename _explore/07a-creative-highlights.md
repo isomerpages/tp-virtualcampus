@@ -5,6 +5,17 @@ permalink: /be-creative/event-highlights/
 third_nav_title: Be Creative
 
 ---
+#### Makerspace+ Home Series ####
+<div style="text-align: justify">
+    <p>
+See what your everyday things can help you during this COVID period! In this episode, find out how you can enhance your comfort of wearing face masks using simple items!
+    </p>
+</div>
+
+**Click to see the [video](https://www.facebook.com/tp.innovation.entrepreneurship/videos/337288357385126/){:target="_blank"}**
+
+![Makerspace+ Home Series](/images/BeCreative-Mask.png)
+---
 #### Entrepreneurship Appreciation Programme ####
 <div style="text-align: justify">
     <p>
