@@ -13,5 +13,7 @@ Check out their [Instagram](https://www.instagram.com/tpfitnessofficial/){:targe
 
 These workouts were also featured in the Community Care Buddy [Facebook] (https://www.facebook.com/iamaccb.sg){:target="_blank"} page created by Tribal Worldwide!
 
-![Virtual Workouts]({{site.baseurl}}/images/BeAwesome-Virtual_Workout_iamccb1.png)
-![Virtual Workouts]({{site.baseurl}}/images/BeAwesome-Virtual_Workout_iamccb2.png)
+[![Community Care Buddy]({{site.baseurl}}/images/BeAwesome-Virtual_Workout_iamccb2.png)](https://www.facebook.com/iamaccb.sg/videos/647361315911659){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}<br>
+<br>
+[![Community Care Buddy]({{site.baseurl}}/images/BeAwesome-Virtual_Workout_iamccb1.png)](https://www.facebook.com/iamaccb.sg/videos/654879775449245){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
