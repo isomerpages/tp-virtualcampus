@@ -162,7 +162,7 @@ third_nav_title: Be Involved
         <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><h4>Digital Film & Television</h4>
                 <a href="https://www.instagram.com/digitalfilmtv/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_dftig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Film & Television Interest Group">
+                    <image src="{{site.baseurl}}/images/Des_DFT.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Film & Television Interest Group">
                     </image>
                 </a>
             </td>
