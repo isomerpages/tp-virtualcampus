@@ -5,6 +5,22 @@ permalink: /be-creative/event-highlights/
 third_nav_title: Be Creative
 
 ---
+#### Make Your Own Series ####
+<div style="text-align: justify">
+    <p>
+Get creative and get your hands busy by making your own items in the comfort of your own home!
+    </p>
+</div>
+
+**[DIY Face Shield](https://www.facebook.com/tp.innovation.entrepreneurship/videos/658346008393190/){:target="_blank"}**<br>
+**[DIY Cloth Mask](https://www.facebook.com/tp.innovation.entrepreneurship/videos/327069655053683/){:target="_blank"}**<br>
+**[DIY Light Box](https://www.facebook.com/tp.innovation.entrepreneurship/videos/763892361119090){:target="_blank"}**<br>
+
+![Makerspace+ Home Series](/images/BeCreative-Mask.png)
+
+---
+
+---
 #### Makerspace+ Home Series ####
 <div style="text-align: justify">
     <p>
@@ -16,6 +32,7 @@ See what your everyday things can help you during this COVID period! In this epi
 **Click to see the second part of the [video](https://www.facebook.com/tp.innovation.entrepreneurship/videos/355455748987619/){:target="_blank"}**
 
 ![Makerspace+ Home Series](/images/BeCreative-Mask.png)
+
 ---
 #### Entrepreneurship Appreciation Programme ####
 <div style="text-align: justify">
