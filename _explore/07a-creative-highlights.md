@@ -13,10 +13,16 @@ Get creative and get your hands busy by making your own items in the comfort of 
 </div>
 
 **[DIY Face Shield](https://www.facebook.com/tp.innovation.entrepreneurship/videos/658346008393190/){:target="_blank"}**<br>
+
+![Makerspace+ Home Series](/images/BeCreative-DIY_Face_Shield.png)
+
 **[DIY Cloth Mask](https://www.facebook.com/tp.innovation.entrepreneurship/videos/327069655053683/){:target="_blank"}**<br>
+
+![Makerspace+ Home Series](/images/BeCreative-DIY_Cloth_Mask.png)
+
 **[DIY Light Box](https://www.facebook.com/tp.innovation.entrepreneurship/videos/763892361119090){:target="_blank"}**<br>
 
-![Makerspace+ Home Series](/images/BeCreative-Mask.png)
+![Makerspace+ Home Series](/images/BeCreative-DIY_Lightbox.png)
 
 ---
 
