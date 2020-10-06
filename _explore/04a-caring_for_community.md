@@ -5,6 +5,22 @@ permalink: /be-caring/caring-for-community/
 third_nav_title: Be Caring
 
 ---
+### Project Hope Train Fundraising Campaign for Children's Cancer Foundation ###
+<div style="text-align: justify">
+    <p>
+“Project Hope Train” is a project in support of the Children's Cancer Foundation Fundraising Campaign. Apart from the fundraising activities, participants also showed their support in other ways such as being involved in "Memoryville". This was an activity where past shavees from TP shared their experiences in the past year's Hair For Hope @ TP. A total of $775 were raised for the Children's Cancer Foundation during the one month campaign. 
+    </p>
+</div>
+
+**Go to these links to find out more!** 
+
+[Memoryville 1](https://www.instagram.com/p/CFHdPYiH2TN/)
+
+[Memoryville 2](https://www.instagram.com/p/CFCk0jln-Fc/)
+
+![Project Hope Train]({{site.baseurl}}/images/ProjectHopeTrain.jpg)
+
+---
 ### Project Helping Hands for Migrant Workers ###
 <div style="text-align: justify">
     <p>
