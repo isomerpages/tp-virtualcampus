@@ -26,7 +26,6 @@ Get creative and get your hands busy by making your own items in the comfort of 
 
 ---
 
----
 #### Makerspace+ Home Series ####
 <div style="text-align: justify">
     <p>
