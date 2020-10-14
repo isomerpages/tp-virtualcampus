@@ -49,7 +49,7 @@ What are the common stressors on social media, and how to practice 'safe social'
 
 ![Safe Social]({{site.baseurl}}/images/BeAwesome-Socialmedia.JPG)
 
-Infographics <Different themes on 1) Managing Academic Stress; e.g., Managing Academic Expectations 2) Building Mental resilience>
+Infographics on 1) Managing Academic Stress; e.g., Managing Academic Expectations 2) Building Mental resilience
 
 A <a href="https://studenttpedu.sharepoint.com/sites/SSCS/Home/Shared%20Documents/Forms/Thumbnail.aspx?id=%2Fsites%2FSSCS%2FHome%2FShared%20Documents%2FStudent%20Care%2FStudent%20Care%20Resources%2Fpublished%20e%2Darticles%5Ftheme%20compilation%2Epdf&parent=%2Fsites%2FSSCS%2FHome%2FShared%20Documents%2FStudent%20Care%2FStudent%20Care%20Resources">collection of published e-articles</a> containing tips and advice on building resilience.
 
