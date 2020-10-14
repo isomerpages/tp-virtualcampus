@@ -68,4 +68,4 @@ Join the Conversation to discuss what MATTERS to You.  Look out for student anno
 
 <h6>SEAL Points are awarded for participation.</h6>
 
-![Mindfulness]({{site.baseurl}}/images/BeAwesome-E-Forum.png)
+![E-Forum]({{site.baseurl}}/images/BeAwesome-E-Forum.png)
