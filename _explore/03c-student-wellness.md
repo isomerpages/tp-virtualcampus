@@ -10,7 +10,7 @@ third_nav_title: Be Awesome
     <a href="{{site.baseurl}}/be-awesome/student-wellness#counselling" class="bp-button">Counselling</a>
     <a href="{{site.baseurl}}/be-awesome/student-wellness#AIchatbot" class="bp-button">AI Wellness Chatbot</a>
     <a href="{{site.baseurl}}/be-awesome/student-wellness#resources" class="bp-button">Resources</a>
-    <a href="{{site.baseurl}}/be-awesome/student-wellness#Programmes" class="bp-button">Programmes</a>
+    <a href="{{site.baseurl}}/be-awesome/student-wellness#programmes" class="bp-button">Programmes</a>
 </div>
 
 ---
@@ -35,7 +35,7 @@ A wellness chatbot to help you to feel good about yourself while broadening your
 ![Wysa AI Chatbot]({{site.baseurl}}/images/BeAwesome_studentwellness_WYSA.JPG)
 
 ---
-## <a id="resources"></a>AI Wellness Chatbot
+## <a id="resources"></a>Resources
 
 Support your friends using 3Ls
 
@@ -43,11 +43,29 @@ Look-Listen-Link
 
 Learn the <a href="https://studenttpedu.sharepoint.com/sites/SSCS/Home/Shared%20Documents/Forms/Thumbnail.aspx?id=/sites/SSCS/Home/Shared%20Documents/Student%20Care/Student%20Care%20Resources/LookListenLink.jpg&parent=/sites/SSCS/Home/Shared%20Documents/Student%20Care/Student%20Care%20Resources" target="_blank">three simple steps</a> to support your peers-in-distress.
 
-**Latest e-Newsletter* <How to use Social Media safely and responsibly>
+**Latest e-Newsletter <How to use Social Media safely and responsibly>
 
 What are the common stressors on social media, and how to practice 'safe social'. Read <a href="https://studenttpedu.sharepoint.com/sites/SSCS/Home/Shared%20Documents/Forms/Thumbnail.aspx?id=%2Fsites%2FSSCS%2FHome%2FShared%20Documents%2FStudent%20Care%2FStudent%20Care%20Resources%2FHow%20to%20use%20Social%20Media%20Safely%20and%20Responsibly%2Epdf&parent=%2Fsites%2FSSCS%2FHome%2FShared%20Documents%2FStudent%20Care%2FStudent%20Care%20Resources">HERE</a>.
   
+Infographics <Different themes on 1) Managing Academic Stress; e.g., Managing Academic Expectations 2) Building Mental resilience>
 
-![Wysa AI Chatbot]({{site.baseurl}}/images/BeAwesome_studentwellness_WYSA.JPG)
+A <a href="https://studenttpedu.sharepoint.com/sites/SSCS/Home/Shared%20Documents/Forms/Thumbnail.aspx?id=%2Fsites%2FSSCS%2FHome%2FShared%20Documents%2FStudent%20Care%2FStudent%20Care%20Resources%2Fpublished%20e%2Darticles%5Ftheme%20compilation%2Epdf&parent=%2Fsites%2FSSCS%2FHome%2FShared%20Documents%2FStudent%20Care%2FStudent%20Care%20Resources">collection of published e-articles</a> containing tips and advice on building resilience.
 
+---
+## <a id="programmes"></a>Programmes
 
+**Let's Sit Together Mindfulness Practice (Term time - Every Tue & Thu at 1pm)
+
+People who practice mindfulness have shared it reduces stress and improves well-being, among other benefits.  Look out for student announcements. 
+
+<h6>SEAL Points are awarded for participation.</h6>
+
+![Mindfulness]({{site.baseurl}}/images/BeAwesome-Mindfulness.JPG)
+
+**E-Forum (Every Wed, 1pm – 2pm)
+
+Join the Conversation to discuss what MATTERS to You.  Look out for student announcements. 
+
+<h6>SEAL Points are awarded for participation.</h6>
+
+![Mindfulness]({{site.baseurl}}/images/BeAwesome-E-Forum.png)
