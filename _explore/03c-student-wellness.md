@@ -59,7 +59,6 @@ A <a href="https://studenttpedu.sharepoint.com/sites/SSCS/Home/Shared%20Document
 <b>Let's Sit Together Mindfulness Practice (Term time - Every Tue & Thu at 1pm)</b>
 
 People who practice mindfulness have shared it reduces stress and improves well-being, among other benefits.  Look out for student announcements. 
-
 <h4>SEAL Points are awarded for participation.</h4>
 
 ![Mindfulness]({{site.baseurl}}/images/BeAwesome-Mindfulness.JPG)
@@ -67,7 +66,6 @@ People who practice mindfulness have shared it reduces stress and improves well-
 <b>E-Forum (Every Wed, 1pm – 2pm)</b>
 
 Join the Conversation to discuss what MATTERS to You.  Look out for student announcements. 
-
 <h4>SEAL Points are awarded for participation.</h4>
 
 ![E-Forum]({{site.baseurl}}/images/BeAwesome-E-Forum.png)
