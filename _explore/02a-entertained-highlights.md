@@ -21,3 +21,8 @@ From the classical wind instruments🎷 to our modern- day electrical guitars �
 
 [![Mashup]({{site.baseurl}}/images/BeEntertained-BandxMV.JPG)](https://www.instagram.com/p/CGeH691HcyH/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
+#### TP Music Vox Weekly Jukebox Videos!🎤🎹🥁🎸####
+Winner of the All Rounded Excellence Award, French Fry Sk8ters, showcasing their song "Dear Monday"
+
+[![MV Jukebox]({{site.baseurl}}/images/BeEntertained-MVWkly.JPG)](https://www.instagram.com/p/CGmm-BiHIVX/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
