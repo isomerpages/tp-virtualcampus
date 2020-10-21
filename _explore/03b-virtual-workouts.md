@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Virtual Workouts curated by TP Fitness
+title: Virtual Workouts
 permalink: /be-awesome/virtual-workouts/
 third_nav_title: Be Awesome
 
