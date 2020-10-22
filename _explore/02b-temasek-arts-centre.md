@@ -25,5 +25,7 @@ See what goes behind the scenes of TP's <a href="https://tp-vc-prod.netlify.app/
 
 ---
 
+To see more videos like this, suscribe to the Temasek Arts Centre <a href="https://www.youtube.com/channel/UCsBvYR8QMBGml4X08t4kVQA" target="_blank">YouTube channel</a>!
+
 ### Wanna see events held in TP? Check them out here!
 [![DMPC]({{site.baseurl}}/images/DMPCBanner.jpg)](https://www.flickr.com/photos/digitalmediacrewtp/albums){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
