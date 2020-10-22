@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Event Highlights
+title: Highlights
 permalink: /be-creative/event-highlights/
 third_nav_title: Be Creative
 
