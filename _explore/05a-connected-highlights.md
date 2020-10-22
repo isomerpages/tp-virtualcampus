@@ -32,6 +32,6 @@ For those who are due for enlistment, however, many fears and worries would uneq
 Nicholas was awarded the NSF of the Year 2019 and served as Platoon Commander in the Infantry Training Institute.      
 </div>
 
-**Watch the [video](https://www.facebook.com/watch/?v=1190947567933381&extid=qpzqHagoFYC7JSF3){:target="_blank"} from **
+**Watch the [video](https://www.facebook.com/watch/?v=1190947567933381&extid=qpzqHagoFYC7JSF3){:target="_blank"} to hear Nicholas relate about his NS experience**
 
 ![NSF Video](/images/BeConnected_NSF.JPG)
