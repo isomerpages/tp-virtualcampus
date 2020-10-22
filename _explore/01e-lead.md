@@ -50,7 +50,7 @@ In addition to the Core programmes, LEAD students will be offered a wide array o
 
 Finally, Temasek LEAD offers a series of specially curated (3) Excel programmes to stretch our very best students, who have displayed outstanding achievements in the areas of academic studies, leadership roles and/or specialised talents. 
 
-For more information, please email to the team at the Centre for Character & Leadership Education<a href = "mailto: lead@tp.edu.sg">Centre for Character & Leadership Education</a>.
+For more information, please email to the team at the <a href = "mailto: lead@tp.edu.sg">Centre for Character & Leadership Education</a>.
 
 <table>
     <tr>
