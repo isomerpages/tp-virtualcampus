@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Event Highlights
+title: Highlights
 permalink: /be-connected/event-highlights/
 third_nav_title: Be Connected
 
