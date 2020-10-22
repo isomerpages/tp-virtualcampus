@@ -2,7 +2,7 @@
 layout: page
 title: Join the Alumni Family
 permalink: /be-connected/tp-alumni/
-third_nav_title: TP Alumni
+third_nav_title: Be Connected
 
 ---
 
@@ -18,6 +18,9 @@ Be a member of our alumni family by applying for the TP alumni card [here](https
 
 Do continue to stay connected with us through the following channels:
 [Facebook](https://www.facebook.com/temasekpolyalumni){:target="_blank"}
+
 [Instagram](https://www.instagram.com/temasekpolyalumni/){:target="_blank"}
+
 [LinkedIn](https://www.linkedin.com/school/temasek-polytechnic/mycompany/){:target="_blank"}
+
 [Alumni Portal](https://www.tp.edu.sg/alumni){:target="_blank"}
