@@ -16,7 +16,7 @@ For the full event details, visit the Temasek Polytechnic Students' Union [websi
 
 We wish you all the best in your running adventure!
 
-[![Virtual Workouts]({{site.baseurl}}/images/BeAwesome-TPVirtualRun.jpeg)](https://www.tpstudentsunion.com/tp-virtual-run){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+[![TP-ActiveSG]({{site.baseurl}}/images/BeAwesome-TPVirtualRun.jpeg)](https://www.tpstudentsunion.com/tp-virtual-run){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
 ### Awesome Workouts ###
