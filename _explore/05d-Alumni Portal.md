@@ -16,11 +16,8 @@ Be a member of our alumni family by applying for the TP alumni card [here](https
 
 ### Stay Connected With Us
 
-Do continue to stay connected with us through the following channels:
-[Facebook](https://www.facebook.com/temasekpolyalumni){:target="_blank"}
-
-[Instagram](https://www.instagram.com/temasekpolyalumni/){:target="_blank"}
-
-[LinkedIn](https://www.linkedin.com/school/temasek-polytechnic/mycompany/){:target="_blank"}
-
-[Alumni Portal](https://www.tp.edu.sg/alumni){:target="_blank"}
+Do continue to stay connected with us through the following channels:<br>
+[Facebook](https://www.facebook.com/temasekpolyalumni){:target="_blank"}<br>
+[Instagram](https://www.instagram.com/temasekpolyalumni/){:target="_blank"}<br>
+[LinkedIn](https://www.linkedin.com/school/temasek-polytechnic/mycompany/){:target="_blank"}<br>
+[Alumni Portal](https://www.tp.edu.sg/alumni){:target="_blank"}<br>
