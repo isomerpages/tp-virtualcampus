@@ -16,8 +16,8 @@ Relive the moments of our inaugural TP National Day Virtual Concert with your fa
 
 [![NDPVC]({{site.baseurl}}/images/NDVC.jpg)](https://youtu.be/z9bb-mYuC6I){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
-### Mashup - TP Band x TP Music Vox
-From the classical wind instruments🎷 to our modern- day electrical guitars 🎸 @temasekpolyband & @tpmusicvox joined forces to create a new form of energy with a mashup of Radioactive × Believer by Imagine Dragons.
+### Mashup - Band x Music Vox
+From the classical wind instruments🎷 to our modern- day electrical guitars 🎸 , the <a href="https://tp-vc-prod.netlify.app/performing_arts/band/">TP Band</a> and <a href="https://tp-vc-prod.netlify.app/performing_arts/music_vox/">TP Music Vox</a> joined forces to create a new form of energy with a mashup of Radioactive × Believer by Imagine Dragons.
 
 [![Mashup]({{site.baseurl}}/images/BeEntertained-BandxMV.JPG)](https://www.instagram.com/p/CGeH691HcyH/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
