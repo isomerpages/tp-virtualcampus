@@ -5,7 +5,20 @@ permalink: /be-involved/temasek-lead-programmes/
 third_nav_title: Be Involved
 
 ---
+### LEAD Core Programmes ###
 
+<h4>LEAD Heart (October Edition)</h4>
+292 LEAD students and 75 staff from various departments attended the Temasek LEAD Heart that spanned over 2 full days on 1 & 8 October with an overall satisfaction rate of 100%. In this run, 29 LEAD students stepped forward to co-create and co-organise the event with staff, in which they also served as facilitators in the breakout sessions.
+
+The event touched on pertinent community issues revolving around the needs and social stigma faced by ex-offenders (Beyond Second Chances), people with mental health conditions (Is It Okay Not To Be Okay), special needs (Walking with Autism), and lastly the issues on  environmental sustainability in Singapore (The Zero Waste Lifestyle - A Concept or Reality). 
+
+Participants were engaged in online discussions and sharing by speakers from Singapore Prison Service, Yellow Ribbon Project, National Council of Social Services, Singapore Association of Mental Health, Youth Corps Singapore, Tzu Chi Foundation, Zero Waste SG including Mr Izad Ghalid (HSS/PSY) and 2 alumni.
+
+Based on students' feedback, the highlight of the event was the Human Library segment which allowed participants to engage the speakers more intimately in smaller groups. Our students were particularly interested in issues concerning ex-offenders and people with autism.  
+
+At the end of the event, a handful of students signed up for volunteering or student-led service project initiatives. 
+
+---
 ### About Temasek LEADership Programme ###
 
 <div class="bp-youtube">
@@ -37,7 +50,7 @@ In addition to the Core programmes, LEAD students will be offered a wide array o
 
 Finally, Temasek LEAD offers a series of specially curated (3) Excel programmes to stretch our very best students, who have displayed outstanding achievements in the areas of academic studies, leadership roles and/or specialised talents. 
 
-For more information, please email to LEAD@tp.edu.sg.
+For more information, please email to the team at the Centre for Character & Leadership Education<a href = "mailto: lead@tp.edu.sg">Centre for Character & Leadership Education</a>.
 
 <table>
     <tr>
