@@ -43,8 +43,8 @@ sections:
         url: /be-entertained/event-highlights/
         alt: TPNDC
 
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+#    - resources:
+#        title: Media
+#        subtitle: Learn more
+#        button: View More
 ---
