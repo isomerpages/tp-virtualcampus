@@ -8,11 +8,17 @@ third_nav_title: Be Caring
 ### Project Hope Train Fundraising Campaign for Children's Cancer Foundation ###
 <div style="text-align: justify">
     <p>
-“Project Hope Train” is a project in support of the Children's Cancer Foundation Fundraising Campaign. Apart from the fundraising activities, participants also showed their support in other ways such as being involved in "Memoryville". This was an activity where past shavees from TP shared their experiences in the past year's Hair For Hope @ TP. A total of $775 were raised for the Children's Cancer Foundation during the one month campaign. 
+“Project Hope Train” is a project in support of the Children's Cancer Foundation Fundraising Campaign. Apart from the fundraising activities, participants also showed their support in other ways such as being involved in "Memoryville".   
+    </p>
+    <p>
+This was an activity where past shavees from TP shared their experiences in the past year's Hair For Hope @ TP.
+    </p>
+    <p>
+A total of $775 were raised for the Children's Cancer Foundation during the one month campaign.
     </p>
 </div>
 
-**Go to these links to find out more!** 
+**Check out these personal experiences of past shavees** 
 
 [Memoryville 1](https://www.instagram.com/p/CFHdPYiH2TN/)
 
@@ -24,19 +30,21 @@ third_nav_title: Be Caring
 ### Project Helping Hands for Migrant Workers ###
 <div style="text-align: justify">
     <p>
-“Project Helping Hands” is a new initiative by TP CSC aimed to raise awareness of the plight of migrant workers and at the same time instill a caring spirit in our volunteers. Special notes were posted online to encourage the migrant workers through this COVID-19 period. In addition, care packs of basic items were prepared and sent to these migrant workers in appreciate of their contributions to Singapore. 
+“Project Helping Hands” is a new initiative by <a href="https://www.instagram.com/tp_csc/" target="_blank">TP CSC</a> aimed to raise awareness of the plight of migrant workers and at the same time instill a caring spirit in our volunteers. Special notes were posted online to encourage the migrant workers through this COVID-19 period. In addition, care packs of basic items were prepared and sent to these migrant workers in appreciate of their contributions to Singapore. 
     </p>
 </div>
 
-
-**Learn [more](https://projecthelpinghands1.wixsite.com/mysite)**
+**Visit the Project Helping Hands [website](https://projecthelpinghands1.wixsite.com/mysite) to view the event updates** 
 
 ![Project Helping Hands]({{site.baseurl}}/images/BeCaring-project_helping_hands.JPG)
 
 ---
-![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)
+### Volunteering Opportunities ###
+
 <div style="text-align: justify">
     <p>
-    There are several campus-wide volunteering events organized for you contribute to the community included the Walk for Rice @ TP, 3M Step-Up Challenge @ TP and Hair For Hope @ TP. Other long term projects included Volunteering with SAMH and YEAH! (Youths Engaged Active and Healthy) Programme @ Tampines West CC.  If you have a heart for the community and keen to pay it forward, click <a href="https://www.instagram.com/p/CA79lJFnZIn/?utm_source=ig_web_copy_link" target="_blank">here</a> to find out more!
+    There are several campus-wide volunteering events organized for you contribute to the community included the Walk for Rice @ TP, 3M Step-Up Challenge @ TP and Hair For Hope @ TP. Other long term projects included Volunteering with SAMH and YEAH! (Youths Engaged Active and Healthy) Programme @ Tampines West CC. If you have a heart for the community and keen to pay it forward, click <a href="https://www.instagram.com/p/CA79lJFnZIn/?utm_source=ig_web_copy_link" target="_blank">here</a> to find out more!
     </p>
 </div>
+
+![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)
