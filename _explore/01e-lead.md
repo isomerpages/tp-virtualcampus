@@ -39,9 +39,9 @@ Students were engaged in facilitated small group discussions, as well as dialogu
     <tr>
         <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_summit.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
         </td>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
         </td>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
         </td>
     </tr>
 </table>
