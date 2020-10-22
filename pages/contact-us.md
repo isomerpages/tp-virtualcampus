@@ -2,31 +2,75 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Temasek Polytechnic
+notification: Do not go to school unless neccessary.
+
 locations:
-  - title: Main Office
+  - title: Corporate Contact Information
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - Temasek Polytechnic
+        - 21 Tampines Avenue 1
+        - Singapore 529757
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  
 contacts:
-  - title: General Enquiries & Feedback
+  - title: Full-time Courses Admissions & Enrolment
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
+    - phone: +65 6780 4201
+    - email: admissions@tp.edu.sg
+    #- other: Any text here <i>including HTML</i>
+  - title: Part-time & Short Courses Enquiries
     content:
-    - email: careers@abc.gov.sg
+    - phone: +65 6788 1212
+    - email: tsa@tp.edu.sg
+  
+  - title: Examination Matters
+    content:
+    - phone: +65 6788 2000
+    - email: examinations@tp.edu.sg
+  - title: General Enquiries
+    content:
+    - phone: +65 6788 2000
+    - email: enquiry@tp.edu.sg
+
+  - title: School of Applied Science
+    content:
+    - phone: +65 6780 5322
+    - email: AScHotline@tp.edu.sg
+  - title: School of Business
+    content:
+    - phone: +65 6780 5127
+    - email: bushotline@tp.edu.sg
+  
+  - title: School of Design
+    content:
+    - phone: +65 6780 5133
+    - email: deshotline@tp.edu.sg
+  - title: School of Engineering
+    content:
+    - phone: +65 6780 5144
+    - email: enghotline@tp.edu.sg
+  
+  - title: School of Humanities & Social Sciences
+    content:
+    - phone: +65 6780 6565
+    - email: hsshotline@tp.edu.sg
+  - title: School of Informatics & IT
+    content:
+    - phone: +65 6780 5158
+    - email: IIT@tp.edu.sg
+
+  - title: Centre for Foundation Studies
+    content:
+    - phone: +65 6780 4220
+    - email: cfs@tp.edu.sg
+  - title: Student Development & Alumni Affairs
+    content:
+    - phone: +65 6780 5656
+    - email: sdaa@tp.edu.sg 
 ---

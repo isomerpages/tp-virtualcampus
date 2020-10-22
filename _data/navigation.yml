@@ -4,14 +4,23 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/TPlogo.jpg
 
 links:
+  - title: Explore
+    collection: explore
+  #- title: About
+    #url: /about/
+  - title: The Campus
+    #collection: the-campus
+    sublinks:
+      - title: Facilities
+        url: https://apps.tp.edu.sg/vrtour/
+      - title: Our Campus
+        url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
   - title: Contact Us
     url: /contact-us/
-  - title: About
-    url: /about/
-  - title: The Campus
-    collection: the-campus
-  - title: Media
-    resource_room: true
+  
+  #- title: Media
+    #resource_room: true
+  

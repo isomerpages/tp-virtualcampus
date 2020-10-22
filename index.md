@@ -1,33 +1,48 @@
 ---
 layout: homepage
-title: Isomer Site
+title: TP Virtual Campus
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+#notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: Virtually The Place To Be
+        subtitle: Life@TP
+        background: /images/download1.jpg
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            - title: Student Portal
+              description: get to your student portal here
+              url: https://services.tp.edu.sg/
+            - title: TP Corporate Website
+              description: need anything from TP Website?
+              url: https://www.tp.edu.sg/
+    - carousel:
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Champion for Blazing Beats
+          image: /images/Salvo1.jpg  
+          alt: Salvo1
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Champion for DrumzOut
+          image: /images/Salvo2.jpg
+          alt: Salvo2
+        - title: Salvo Drums
+          subtitle: Featured CCA
+          description: Arts Group of The Year
+          image: /images/Salvo3.jpg
+          alt: Salvo3
+    
+    - infopic:
+        title: TP National Day Virtual Concert
+        subtitle: Featured Event
+        image: /images/BeEntertained-ndp2020.JPG
+        description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
+        button: learn more
+        url: /be-entertained/event-highlights/
+        alt: TPNDC
+
     - resources:
         title: Media
         subtitle: Learn more

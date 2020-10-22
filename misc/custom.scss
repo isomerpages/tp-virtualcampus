@@ -4,14 +4,24 @@
 
 @charset "utf-8";
 
-// Agency brand colors
+// GovTech brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
 
-{%- for media-color in site.colors.media-colors -%}
-  ${{- media-color.title -}}: {{- media-color.color -}};
-{%- endfor -%}
+//$media-color-one: {{- site.colors.media-colors.media-color-one -}};
+//$media-color-two: {{- site.colors.media-colors.media-color-two -}}; //releases colour
+//$media-color-three: {{- site.colors.media-colors.media-color-three -}}; //stories colour
+//$media-color-four: {{- site.colors.media-colors.media-color-four -}}; //cca colour
+//$media-color-five: {{- site.colors.media-colors.media-color-five -}};
+//$media-color-six: {{- site.colors.media-colors.media-color-six -}};
+
+$media-color-one: #49759a;
+$media-color-two: #744d9f; //releases colour
+$media-color-three: #00838f; //stories colour
+$media-color-four: #6031b6; //cca colour
+$media-color-five: #00838f;
+$media-color-six: #4372d6;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -39,14 +49,42 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $secondary !important;
   }
   &-media-color {
-    {%- for media-color in site.colors.media-colors -%}
-      &-{{- forloop.index -}} {
-        background-color: ${{- media-color.title -}};
-        &:hover {
-          background-color: darken(${{- media-color.title -}}, 10%);
-        }
+  	&-1 {
+  		background-color: $media-color-one;
+  		&:hover {
+  			background-color: darken($media-color-one, 10%);
+		  }
+  	}
+  	&-2 {
+  		background-color: $media-color-two;
+  		&:hover {
+  			background-color: darken($media-color-two, 10%);
+		  }
+  	}
+  	&-3 {
+  		background-color: $media-color-three;
+  		&:hover {
+  			background-color: darken($media-color-three, 10%);
+		  }
+  	}
+  	&-4 {
+  		background-color: $media-color-four;
+  		&:hover {
+  			background-color: darken($media-color-four, 10%);
+		  }
+  	}
+  	&-5 {
+  		background-color: $media-color-five;
+  		&:hover {
+  			background-color: darken($media-color-five, 10%);
+		  }
+  	}
+    &-6 {
+      background-color: $media-color-six;
+      &:hover {
+        background-color: darken($media-color-six, 10%);
       }
-    {%- endfor -%}
+    }
   }
   &-1{
     //background-color: $primary;
@@ -132,6 +170,14 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-menu-list a:hover {
 	color: $secondary !important;
 	border-bottom: 1px solid $secondary !important;
+}
+
+//Accordion
+
+.bp-accordion-button {
+  &.sgds-icon-minus {
+    color: $secondary;
+  }
 }
 
 // Button
@@ -286,6 +332,7 @@ $desktop: 960px + (2 * $gap) !default;
   border-bottom: 2px solid $secondary;
 }
 
+
 // CSS to be refactored
 .content img.digital-transformation-icon {
   height: 80px;
@@ -300,6 +347,7 @@ $desktop: 960px + (2 * $gap) !default;
   padding: 2rem;
   margin-top: -5rem;
   background-color: white;
+  color: #767676;
 }
 
 .tag {
@@ -313,25 +361,67 @@ $desktop: 960px + (2 * $gap) !default;
   display: none;
 }
 
+.news-content {
+  position: relative;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding: 2rem;
+  margin-top: -7.5rem;
+  background-color: white;
+  color: #767676;
+  &:hover {
+    color: white;
+  }
+}
+
+.bp-image-milestone {
+  border-bottom: solid 4px $secondary;
+}
+
 .image-card:hover {
-  .news-content {
-    background-color: darken(#ffffff, 10%);
+    .news-content {
+      background-color: darken(#ffffff, 10%);
+    }
   }
-}
-
+  
 .hero-dropdown {
-  display: flex;
-  padding-top: 1.75rem;
-  padding-bottom: 1.75rem;
+    display: flex;
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
 }
-
+  
 .is-centered {
-  margin: auto;
+    margin: auto;
+}
+  
+.is-three-fifths-mobile {
+    width: 50%;
+    @include touch() {
+        width: 100%;
+    }
+} 
+
+// Tables
+table.table-h {
+  th {
+    background-color: $secondary;
+    color: white;
+  }
+  tbody {
+    tr {
+      &:last-child {
+        &:nth-of-type(even) {
+          border-bottom: solid 4px $secondary;
+        }
+      }
+    }
+  }
 }
 
-.is-three-fifths-mobile {
-  width: 50%;
-  @include touch() {
-    width: 100%;
-  }
+.navbar-item img {
+  width: 190px;
+}
+
+.bp-hero-body {
+	background: unset;
 }

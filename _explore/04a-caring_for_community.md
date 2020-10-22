@@ -1,0 +1,42 @@
+---
+layout: page
+title: Caring for Community
+permalink: /be-caring/caring-for-community/
+third_nav_title: Be Caring
+
+---
+### Project Hope Train Fundraising Campaign for Children's Cancer Foundation ###
+<div style="text-align: justify">
+    <p>
+“Project Hope Train” is a project in support of the Children's Cancer Foundation Fundraising Campaign. Apart from the fundraising activities, participants also showed their support in other ways such as being involved in "Memoryville". This was an activity where past shavees from TP shared their experiences in the past year's Hair For Hope @ TP. A total of $775 were raised for the Children's Cancer Foundation during the one month campaign. 
+    </p>
+</div>
+
+**Go to these links to find out more!** 
+
+[Memoryville 1](https://www.instagram.com/p/CFHdPYiH2TN/)
+
+[Memoryville 2](https://www.instagram.com/p/CFCk0jln-Fc/)
+
+![Project Hope Train]({{site.baseurl}}/images/ProjectHopeTrain.jpg)
+
+---
+### Project Helping Hands for Migrant Workers ###
+<div style="text-align: justify">
+    <p>
+“Project Helping Hands” is a new initiative by TP CSC aimed to raise awareness of the plight of migrant workers and at the same time instill a caring spirit in our volunteers. Special notes were posted online to encourage the migrant workers through this COVID-19 period. In addition, care packs of basic items were prepared and sent to these migrant workers in appreciate of their contributions to Singapore. 
+    </p>
+</div>
+
+
+**Learn [more](https://projecthelpinghands1.wixsite.com/mysite)**
+
+![Project Helping Hands]({{site.baseurl}}/images/BeCaring-project_helping_hands.JPG)
+
+---
+![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)
+<div style="text-align: justify">
+    <p>
+    There are several campus-wide volunteering events organized for you contribute to the community included the Walk for Rice @ TP, 3M Step-Up Challenge @ TP and Hair For Hope @ TP. Other long term projects included Volunteering with SAMH and YEAH! (Youths Engaged Active and Healthy) Programme @ Tampines West CC.  If you have a heart for the community and keen to pay it forward, click <a href="https://www.instagram.com/p/CA79lJFnZIn/?utm_source=ig_web_copy_link" target="_blank">here</a> to find out more!
+    </p>
+</div>
