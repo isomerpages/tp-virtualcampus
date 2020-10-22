@@ -19,10 +19,10 @@ Relive the moments of our inaugural TP National Day Virtual Concert with your fa
 ### Mashup - Band x Music Vox
 From the classical wind instruments🎷 to our modern- day electrical guitars 🎸 , the <a href="https://tp-vc-prod.netlify.app/performing_arts/band/">TP Band</a> and <a href="https://tp-vc-prod.netlify.app/performing_arts/music_vox/">TP Music Vox</a> joined forces to create a new form of energy with a mashup of Radioactive × Believer by Imagine Dragons.
 
-[![Mashup]({{site.baseurl}}/images/BeEntertained-BandxMV.JPG)](https://www.instagram.com/p/CGeH691HcyH/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+[![Mashup]({{site.baseurl}}/images/BeEntertained-BandxMV.png)](https://www.instagram.com/p/CGeH691HcyH/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ### TP Music Vox Weekly Jukebox Videos!🎤🎹🥁🎸
 Winner of the All Rounded Excellence Award, French Fry Sk8ters, showcasing their song "Dear Monday"
 
-[![MV Jukebox]({{site.baseurl}}/images/BeEntertained-MVWkly.JPG)](https://www.instagram.com/p/CGmm-BiHIVX/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+[![MV Jukebox]({{site.baseurl}}/images/BeEntertained-MVWkly.png)](https://www.instagram.com/p/CGmm-BiHIVX/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
