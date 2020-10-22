@@ -5,7 +5,7 @@ permalink: /be-awesome/virtual-workouts/
 third_nav_title: Be Awesome
 
 ---
-### TP-ActiveSG Virtual Run
+### Inaugural TP-ActiveSG Virtual Run
 The first edition of TP-ActiveSG Virtual Run is here! 
 
 The event is free to join and open to all. So, gather your friends & family members to sign up by 11 November 2020, complete your respective runs, and redeem the attractive finisher tee and medal! 
@@ -16,7 +16,7 @@ For the full event details, visit the Temasek Polytechnic Students' Union [websi
 
 We wish you all the best in your running adventure!
 
-![TP-ActiveSG]({{site.baseurl}}/images/BeAwesome-TPVirtualRun.jpeg)
+[![Virtual Workouts]({{site.baseurl}}/images/BeAwesome-TPVirtualRun.jpeg)](https://www.tpstudentsunion.com/tp-virtual-run){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
 ### Awesome Workouts ###
