@@ -29,7 +29,8 @@ Wendy is currently based in Montpellier, in the southern region of France.
 For those who are due for enlistment, however, many fears and worries would unequivocally be running through your minds. If you are a pre-enlistee, hear it all from your fellow alumnus Nicholas (Diploma in Digital Film & Television, Class of 2017), as he shares his NS experiences and insights, thrills and spills! Also, take away many useful tips on how to survive your Basic Military Training (and beyond), understand the expectations, regime and rigours of NS life, and many more!
     </p>
     <p>
-Nicholas was awarded the NSF of the Year 2019 and served as Platoon Commander in the Infantry Training Institute.      
+Nicholas was awarded the NSF of the Year 2019 and served as Platoon Commander in the Infantry Training Institute.  
+    </p>
 </div>
 
 **Watch the [video](https://www.facebook.com/watch/?v=1190947567933381&extid=qpzqHagoFYC7JSF3){:target="_blank"} to hear Nicholas relate about his NS experience**
