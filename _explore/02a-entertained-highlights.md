@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-permalink: /be-entertained/events/
+permalink: /be-entertained/event highlights/
 third_nav_title: Be Entertained
 
 ---
@@ -26,4 +26,3 @@ Winner of the All Rounded Excellence Award, French Fry Sk8ters, showcasing their
 
 [![MV Jukebox]({{site.baseurl}}/images/BeEntertained-MVWkly.JPG)](https://www.instagram.com/p/CGmm-BiHIVX/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
-## Be Entertained by more TP [Arts Groups](/explore/be-involved/performing-arts/)
