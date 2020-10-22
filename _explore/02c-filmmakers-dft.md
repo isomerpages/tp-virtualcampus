@@ -8,9 +8,7 @@ third_nav_title: Be Entertained
 ### Filmmakers @ DFT - Short films from our Diploma in Digital Film & Television ###
 Laughter. Tears. Drama. Intrigue. Suspense.
 
-You are invited to join us for a journey through well-crafted and thought-provoking stories, fresh
-
-from the vivid imagination of Temasek Polytechnic’s Digital Film and Television students.
+You are invited to join us for a journey through well-crafted and thought-provoking stories, fresh from the vivid imagination of Temasek Polytechnic’s <a href="https://www.youtube.com/channel/UCsBvYR8QMBGml4X08t4kVQA" target="_blank">Digital Film and Television</a>Digital Film and Television students.
 
 ![Filmmakers@DFT]({{site.baseurl}}/images/DFTBanner.jpg)
 
@@ -22,20 +20,23 @@ Gam tries hard to compensate and make up for what her father is seeking. Her fat
 
 Everything seems to be back to normal, their hefty but routine-based equilibrium restored. Everything, and then... Nothing. Once again, Gam finds herself at a loss. Little does she know, the treasure is closer than she thinks.
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.viddsee.com/player/uaf1f" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
-
 [![Remember Me Not]({{site.baseurl}}/images/BeEntertained-DFT-Remember.JPG)](https://www.viddsee.com/video/remember-me-not/uaf1f?channel=filmmakersdft){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
 
 #### Separation (Perpisahan) - Directed by Nur Elaika Bte Zukhiruallah
+In 1969, during the racial riots in Singapore, Siti became pregnant out of wedlock at the age of 17 with her firstborn son, Joshua. Due to this, her father forced her whole family to move to Kuala Lumpur, Malaysia, to start anew. She had to give up her newborn baby and also cope with the recent death of her Chinese lover who died fighting for his life to be together with Siti. She was forced to keep this secret with herself in fear that it will bring shame to her family. She got married at the age of 20 and conceived her second son, Rahman. She tried her best to move on from the traumatising incident, but deep down her past was still haunting her. All she could do was to repent and ask God for forgiveness for her sins.
+
+After 50 years of settling in Malaysia, she receives her confirmation letter to go for her pilgrimage (Umrah) to the Holy Land but before doing so, she must find true repentance by giving up sin and asking for forgiveness for those she had done wrong especially her long lost son, Joshua. Due to this, Siti is forced to face her dark past and the consequences of being a rebellious and mischievous teenager. She soon embarks on a journey to Singapore to find him, hoping that her second son, Rahman, who is accompanying her, would understand her intentions. She faces obstacles along the way with Rahman but after knowing Rahman’s secret she realised that finding her firstborn son gave her the opportunity to strengthen her relationship with Rahman. This story tells a captivating tale of a woman’s journey in facing her past and discovering the true meaning of family, forgiveness and self-acceptance. Just like the saying goes, “every saint has a past and every sinner has a future.”
+
 [![Separation]({{site.baseurl}}/images/BeEntertained-DFT-Separation.JPG)](https://www.viddsee.com/video/separation-perpisahan/eniop?channel=filmmakersdft){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
 
 #### Gallant - Directed by Hoe Boh
+The story recounts a scene of the Japanese invasion of Singapore back in 1942, where love and family bond triumphed over fear and turned cowardice into heroism, amid terror and panic.
+
+During the 3rd day of the Japanese invasion, Jin Li and his pregnant wife An Ning attempt to flee and evacuate the war-torn country. However, things turn for the worst as the couple is separated amidst Jin Li’s cowardice – leading to An Ning’s capture by a menacing Japanese Lieutenant. Plagued with guilt and fear, Jin Li must summon his courage to rescue the one he loves.
 [![Gallant]({{site.baseurl}}/images/BeEntertained-DFT-Gallant.JPG)](https://www.viddsee.com/video/gallant/1ecs8?channel=filmmakersdft){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
