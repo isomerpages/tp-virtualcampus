@@ -8,7 +8,7 @@ third_nav_title: Be Entertained
 ### Filmmakers @ DFT - Short films from our Diploma in Digital Film & Television ###
 Laughter. Tears. Drama. Intrigue. Suspense.
 
-You are invited to join us for a journey through well-crafted and thought-provoking stories, fresh from the vivid imagination of Temasek Polytechnic’s <a href="https://www.youtube.com/channel/UCsBvYR8QMBGml4X08t4kVQA" target="_blank">Digital Film and Television</a>students.
+You are invited to join us for a journey through well-crafted and thought-provoking stories, fresh from the vivid imagination of Temasek Polytechnic’s <a href="https://www.viddsee.com/channel/filmmakersdft" target="_blank">Digital Film and Television</a>students.
 
 ![Filmmakers@DFT]({{site.baseurl}}/images/DFTBanner.jpg)
 
