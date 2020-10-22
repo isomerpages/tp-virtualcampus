@@ -22,7 +22,9 @@ Gam tries hard to compensate and make up for what her father is seeking. Her fat
 
 Everything seems to be back to normal, their hefty but routine-based equilibrium restored. Everything, and then... Nothing. Once again, Gam finds herself at a loss. Little does she know, the treasure is closer than she thinks.
 
+<div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.viddsee.com/player/uaf1f" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 [![Remember Me Not]({{site.baseurl}}/images/BeEntertained-DFT-Remember.JPG)](https://www.viddsee.com/video/remember-me-not/uaf1f?channel=filmmakersdft){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
