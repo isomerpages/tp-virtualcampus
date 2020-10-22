@@ -34,6 +34,18 @@ At the end of the event, a handful of students signed up for volunteering or stu
 Students gained a global perspective and insights to topics such as Environment & Sustainability, Digital Innovation & Economic Transformation, and Mental Wellness.
 
 Students were engaged in facilitated small group discussions, as well as dialogues with speakers from Building & Construction Authority (BCA), Development Bank of Singapore (DBS), Aquaculture Innovation Centre (AIC), and Institute of Mental Heath (IMH).
+
+<table>
+    <tr>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_summit.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        </td>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        </td>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        </td>
+    </tr>
+</table>
+
 ---
 ### About Temasek LEADership Programme ###
 
