@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Caring for You
-permalink: /be-caring/caring-for-you/
+title: Campus Care Network
+permalink: /be-caring/campus-care-network/
 third_nav_title: Be Caring
 
 ---
