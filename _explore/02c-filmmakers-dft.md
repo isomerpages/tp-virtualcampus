@@ -37,6 +37,7 @@ After 50 years of settling in Malaysia, she receives her confirmation letter to 
 The story recounts a scene of the Japanese invasion of Singapore back in 1942, where love and family bond triumphed over fear and turned cowardice into heroism, amid terror and panic.
 
 During the 3rd day of the Japanese invasion, Jin Li and his pregnant wife An Ning attempt to flee and evacuate the war-torn country. However, things turn for the worst as the couple is separated amidst Jin Li’s cowardice – leading to An Ning’s capture by a menacing Japanese Lieutenant. Plagued with guilt and fear, Jin Li must summon his courage to rescue the one he loves.
+
 [![Gallant]({{site.baseurl}}/images/BeEntertained-DFT-Gallant.JPG)](https://www.viddsee.com/video/gallant/1ecs8?channel=filmmakersdft){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
