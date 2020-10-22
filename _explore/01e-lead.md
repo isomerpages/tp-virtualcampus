@@ -7,6 +7,21 @@ third_nav_title: Be Involved
 ---
 ### LEAD Core Programmes ###
 
+<h4>LEAD Induction</h4>
+
+Need write-up from the most recent run of LEAD Induction.
+
+<table>
+    <tr>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_induction.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart"></image>       
+        </td>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction"></image>       
+        </td>
+        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        </td>
+    </tr>
+</table>
+
 <h4>LEAD Heart</h4>
 292 LEAD students and 75 staff from various departments attended the Temasek LEAD Heart that spanned over 2 full days on 1 & 8 October with an overall satisfaction rate of 100%. In this run, 29 LEAD students stepped forward to co-create and co-organise the event with staff, in which they also served as facilitators in the breakout sessions.
 
@@ -79,23 +94,3 @@ In addition to the Core programmes, LEAD students will be offered a wide array o
 Finally, Temasek LEAD offers a series of specially curated (3) Excel programmes to stretch our very best students, who have displayed outstanding achievements in the areas of academic studies, leadership roles and/or specialised talents. 
 
 For more information, please email to the team at the <a href = "mailto: lead@tp.edu.sg">Centre for Character & Leadership Education</a>.
-
-<table>
-    <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Photo 2"></image>       
-        </td>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Photo 3"></image>       
-        </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_heart.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart"></image>       
-        </td>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_induction.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction"></image>       
-        </td>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_summit.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
-        </td>
-    </tr>
-</table>
