@@ -13,20 +13,11 @@ See what goes behind the scenes of TP's <a href="https://tp-vc-prod.netlify.app/
 </div>
 
 ---
-<div class="bp-youtube">
-    <iframe width="800" height="450" style="display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/XVK6czhYq4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Dance Ensemble]({{site.baseurl}}/images/BeEntertained-TAC-DE.JPG)](https://www.youtube.com/watch?v=XVK6czhYq4A){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 -----
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVK6czhYq4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-<div class="bp-youtube">
-    <iframe width="800" height="450" style="display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/tDpTjwGP8v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+[![Malay Dance]({{site.baseurl}}/images/BeEntertained-TAC-MDG.JPG)](https://www.youtube.com/watch?v=tDpTjwGP8v8){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
 
