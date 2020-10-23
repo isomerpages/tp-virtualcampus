@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events
+title: Highlights
 permalink: /be-entertained/event highlights/
 third_nav_title: Be Entertained
 
