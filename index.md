@@ -36,16 +36,16 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
-   
-   - infopic:
+
+    - infopic:
         title: TP National Day Virtual Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ndp2020.JPG
         description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
-        button: Watch Here
-        url: /be-entertained/highlights/
+        button: learn more
+        url: /be-entertained/event-highlights/
         alt: TPNDC
-        
+
 #    - resources:
 #        title: Media
 #        subtitle: Learn more
