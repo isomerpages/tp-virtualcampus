@@ -37,7 +37,16 @@ sections:
           image: /images/Salvo3.jpg
           alt: Salvo3
     
-    - infopic:
+   - infopic:
+        title: TP National Day Virtual Concert
+        subtitle: Featured Event
+        image: /images/BeEntertained-ndp2020.JPG
+        description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
+        button: Watch Here
+        url: /be-entertained/highlights/
+        alt: TPNDC
+   
+   - infopic:
         title: TP National Day Virtual Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ndp2020.JPG
@@ -46,24 +55,14 @@ sections:
         url: /be-entertained/highlights/
         alt: TPNDC
         
-     - infopic:
+   - infopic:
         title: TP National Day Virtual Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ndp2020.JPG
         description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
         button: Watch Here
         url: /be-entertained/highlights/
-        alt: TPNDC
-        
-     - infopic:
-        title: TP National Day Virtual Concert
-        subtitle: Featured Event
-        image: /images/BeEntertained-ndp2020.JPG
-        description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
-        button: Watch Here
-        url: /be-entertained/highlights/
-        alt: TPNDC
-
+        alt: TPNDC     
 #    - resources:
 #        title: Media
 #        subtitle: Learn more
