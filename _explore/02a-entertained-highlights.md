@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Highlights
-permalink: /be-entertained/event_highlights/
+permalink: /be-entertained/highlights/
 third_nav_title: Be Entertained
 
 ---
