@@ -49,7 +49,7 @@ sections:
     - infopic:
         title: Launch of the TP Oei App
         subtitle: New Student App
-        image: /images/Homepage-TPoei.jpg
+        image: /images/Homepage-TPoei.png
         description: A new app coming your way to augment your student experience!
         button: Download here
         url: https://play.google.com/store/apps/details?id=com.involvio.tpoei.src
