@@ -42,7 +42,7 @@ sections:
         subtitle: Featured Event
         image: /images/BeEntertained-ndp2020.JPG
         description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
-        button: learn more
+        button: Learn More
         url: /be-entertained/event-highlights/
         alt: TPNDC
         
@@ -50,10 +50,19 @@ sections:
         title: Launch of the TP Oei App
         subtitle: New Student App
         image: /images/bold.jpg
-        description: New student app coming your way!
+        description: A new student app coming your way to change !
         button: Download here
         url: https://play.google.com/store/apps/details?id=com.involvio.tpoei.src
         alt: TPOEI
+    
+    - infopic:
+        title: Launch of Stories & Co
+        subtitle: For Youths, By Youths
+        image: /images/bold2.jpg
+        description: We are very excited to bring you Stories & Co., our very own news portal that features stories for youths, by youths! Just click 🖱 on the link below to watch the first story!
+        button: Stories & Co
+        url: https://www.instagram.com/p/CGgz2FJFCBq/
+        alt: Stories
 
 #    - resources:
 #        title: Media
