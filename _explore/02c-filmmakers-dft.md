@@ -41,3 +41,5 @@ During the 3rd day of the Japanese invasion, Jin Li and his pregnant wife An Nin
 [![Gallant]({{site.baseurl}}/images/BeEntertained-DFT-Gallant.JPG)](https://www.viddsee.com/video/gallant/1ecs8?channel=filmmakersdft){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
+
+Watch. Listen. Feel. Browse through the collection of short films on the <a href="https://www.viddsee.com/channel/filmmakersdft" target="_blank">Viddsee channel</a>.
