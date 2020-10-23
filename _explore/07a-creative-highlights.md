@@ -27,7 +27,6 @@ The I&ED team made a series of videos to encourage all of us to tap on easily ac
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Lightbox.png)
 
 ---
-
 #### Makerspace+ Home Series ####
 <div style="text-align: justify">
     <p>
