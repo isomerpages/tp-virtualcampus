@@ -48,7 +48,7 @@ sections:
         
     - infopic:
         title: Launch of the TP Oei App
-        subtitle: Featured
+        subtitle: New Student App
         image: /images/bold.jpg
         description: New student app coming your way!
         button: Download here
