@@ -46,6 +46,6 @@ Watch. Listen. Feel. Browse through the entire collection of short films on the 
 
 ### Radio Act!ve - Live & Loud
 
-Did you know that Temasek Polytechnic has our very own radio station? Powered by students from the <a href="https://www.instagram.com/team_cmm/" target="_blank">Diploma in Communications & Media Management</a>students, tune in now to <a href="http://radioactive.tp.edu.sg/" target="_blank">Radio Act!ve</a> to win awesome prizes, get up close and personal with your favorite stars, ride the latest trends and rock out to the biggest hits of today!
+Did you know that Temasek Polytechnic has our very own radio station? Powered by students from the <a href="https://www.instagram.com/team_cmm/" target="_blank">Diploma in Communications & Media Management</a> students, tune in now to <a href="http://radioactive.tp.edu.sg/" target="_blank">Radio Act!ve</a> to win awesome prizes, get up close and personal with your favorite stars, ride the latest trends and rock out to the biggest hits of today!
 
 [![Radioactive]({{site.baseurl}}/images/BeEntertained-Radioactive.png)](http://radioactive.tp.edu.sg/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
