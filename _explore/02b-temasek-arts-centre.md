@@ -14,8 +14,12 @@ See what goes behind the scenes of TP's <a href="https://tp-vc-prod.netlify.app/
 
 ---
 <div class="bp-youtube">
-    <iframe width="1280" height="720" style="display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/XVK6czhYq4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="800" height="450" style="display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/XVK6czhYq4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+-----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVK6czhYq4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
