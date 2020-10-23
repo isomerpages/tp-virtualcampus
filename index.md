@@ -43,7 +43,7 @@ sections:
         image: /images/BeEntertained-ndp2020.JPG
         description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
         button: Watch Here
-        url: /be-entertained//event%20highlights/
+        url: /be-entertained/highlights/
         alt: TPNDC
 
 #    - resources:
