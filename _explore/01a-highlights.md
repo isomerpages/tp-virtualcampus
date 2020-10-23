@@ -8,6 +8,12 @@ third_nav_title: Be Involved
 
 We will feature one CCA group weekly, follow this space for exciting highlights from our various CCA groups!
 
+---
+
+#### Our 1st Feature
+
+The Water Polo team achieved their first Silver medal in 12 years at the Polytechnic-ITE (POL-ITE) Games 2019! Check out how the team managed to stay fit during the pandemic!
+
 <table>
     <tr>
         <td style="width:33%"><br>
