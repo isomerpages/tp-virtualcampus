@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Featured Films by DFT
+title: TP's Film and Media Talents
 permalink: /be-entertained/digital-film-television/
 third_nav_title: Be Entertained
 
