@@ -45,6 +45,15 @@ sections:
         button: learn more
         url: /be-entertained/event-highlights/
         alt: TPNDC
+        
+    - infopic:
+        title: Launch of the TP Oei App
+        subtitle: Featured
+        image: /images/bold.jpg
+        description: New student app coming your way!
+        button: Download here
+        url: https://play.google.com/store/apps/details?id=com.involvio.tpoei.src
+        alt: TPOEI
 
 #    - resources:
 #        title: Media
