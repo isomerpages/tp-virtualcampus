@@ -57,9 +57,9 @@ sections:
     
     - infopic:
         title: Launch of Stories & Co
-        subtitle: For Youths, By Youths
+        subtitle: Student Publication
         image: /images/bold2.jpg
-        description: We are very excited to bring you Stories & Co., our very own news portal that features stories for youths, by youths! Just click 🖱 on the link below to watch the first story!
+        description: Stories & Co. is produced by the student journalists from the Diploma in Communications & Media Management from Temasek Polytechnic’s School of Business. The publication covers campus news, as well as youth-related trends and issues – for youths, by youths! Just click 🖱 on the link below to watch the first story!
         button: Stories & Co
         url: https://www.instagram.com/p/CGgz2FJFCBq/
         alt: Stories
