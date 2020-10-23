@@ -36,6 +36,7 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
+   
    - infopic:
         title: TP National Day Virtual Concert
         subtitle: Featured Event
@@ -43,7 +44,8 @@ sections:
         description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
         button: Watch Here
         url: /be-entertained/highlights/
-        alt: TPNDC     
+        alt: TPNDC
+        
 #    - resources:
 #        title: Media
 #        subtitle: Learn more
