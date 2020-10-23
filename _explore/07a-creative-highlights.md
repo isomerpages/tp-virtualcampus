@@ -11,7 +11,8 @@ third_nav_title: Be Creative
 The Innovation and Entrepreneurship Department (I&ED) helps all TP students build their enterprising skills such as overcoming the fear of failure, pushing boundaries, solving problems creatively, capitalizing on opportunities and persevering to fruition. This entrepreneurial and innovative mindset will benefit the students in life and in any career that they choose.
     </p>
     <p>
-The I&ED team made a series of videos to encourage all of us to tap on easily accessible items to get creative and get your hands busy in the comfort of your own home!        
+The I&ED team made a series of videos to encourage all of us to tap on easily accessible items to get creative and get your hands busy in the comfort of your own home!
+    </p>
 </div>
 
 **Make your own [Face Shield](https://www.facebook.com/tp.innovation.entrepreneurship/videos/658346008393190/){:target="_blank"}at home**<br>
