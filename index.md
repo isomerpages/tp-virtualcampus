@@ -64,6 +64,16 @@ sections:
         url: https://www.instagram.com/p/CGgz2FJFCBq/
         alt: Stories
 
+
+    - infopic:
+        title: TP Active-SG Virtual Run
+        subtitle: Virtual Run
+        image: /images/BeAwesome-TPVirtualRun.jpeg
+        description: Miss our Annual TP-ActiveSG Cross Country? Fret not! This year we'll be taking our cross country virtual and it will be our very FIRST EDITION OF TP-ACTIVESG VIRTUAL RUN 2020, happening from 14 Nov to 27 Nov!🏅🏅
+        button: Find out more
+        url: /be-awesome/virtual-workouts/
+        alt: Virtual Run
+        
 #    - resources:
 #        title: Media
 #        subtitle: Learn more
