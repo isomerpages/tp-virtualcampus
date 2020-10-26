@@ -9,7 +9,7 @@ third_nav_title: Be Involved
 
 <h4>LEAD Induction</h4>
 
-Need write-up from the most recent run of LEAD Induction.
+\Need write-up from the most recent run of LEAD Induction.
 
 <table>
     <tr>
