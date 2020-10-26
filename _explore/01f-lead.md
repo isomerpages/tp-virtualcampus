@@ -44,7 +44,7 @@ At the end of the event, a handful of students signed up for volunteering or stu
 
 <h4>LEAD Summit</h4>
 
-356 LEAD students attended the inaugural online Temasek LEAD Summit, one of the three core modules for the Temasek LEAD Programme, over 2 full days with an overall satisfaction rate of 99%. 
+356 LEAD students attended the inaugural online Temasek LEAD Summit, one of the three core modules for the Temasek LEAD Programme over 2 full days.
 
 Students gained a global perspective and insights to topics such as Environment & Sustainability, Digital Innovation & Economic Transformation, and Mental Wellness.
 
