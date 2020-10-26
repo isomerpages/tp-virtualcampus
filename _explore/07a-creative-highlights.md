@@ -19,7 +19,7 @@ The I&ED team made a series of videos to encourage all of us to tap on easily ac
 
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Face_Shield.png)
 
-**Stitch your own[Cloth Mask](https://www.facebook.com/tp.innovation.entrepreneurship/videos/327069655053683/){:target="_blank"}**<br>
+**Stitch your own [Cloth Mask](https://www.facebook.com/tp.innovation.entrepreneurship/videos/327069655053683/){:target="_blank"}**<br>
 
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Cloth_Mask.png)
 
