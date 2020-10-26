@@ -23,7 +23,7 @@ The LEAD Induction programme was held over 5 runs for 415 LEAD students. Partici
 </table>
 
 <h4>LEAD Heart</h4>
-292 LEAD students and 75 staff from various departments attended the Temasek LEAD Heart that spanned over 2 full days on 1 & 8 October with an overall satisfaction rate of 100%. In this run, 29 LEAD students stepped forward to co-create and co-organise the event with staff, in which they also served as facilitators in the breakout sessions.
+292 LEAD students and 75 staff from various departments attended the Temasek LEAD Heart that spanned over 2 full days on 1 & 8 October. In this run, 29 LEAD students stepped forward to co-create and co-organise the event with staff, in which they also served as facilitators in the breakout sessions.
 
 The event touched on pertinent community issues revolving around the needs and social stigma faced by ex-offenders (Beyond Second Chances), people with mental health conditions (Is It Okay Not To Be Okay), special needs (Walking with Autism), and lastly the issues on  environmental sustainability in Singapore (The Zero Waste Lifestyle - A Concept or Reality). 
 
