@@ -47,8 +47,8 @@ A total of $775 were raised for the Children's Cancer Foundation during the one 
     </p>
    
    <strong>
-   If you have a heart for the community and keen to pay it forward, click <a href="https://www.instagram.com/p/CA79lJFnZIn/?utm_source=ig_web_copy_link" target="_blank">here</a> to find out more!</strong>
-    </p>
+If you have a heart for the community and keen to pay it forward, click <a href="https://www.instagram.com/p/CA79lJFnZIn/?utm_source=ig_web_copy_link" target="_blank">here</a> to find out more!</strong>
+
 </div>
 
 ![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)
