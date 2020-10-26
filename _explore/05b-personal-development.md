@@ -5,6 +5,14 @@ permalink: /be-connected/personal-development/
 third_nav_title: Be Connected
 
 ---
+### Coping with the Travel Itch ###
+Are you looking for ways to satisfy your wanderlust, while waiting to jet off to your dream holiday destinations in a new normal, post-COVID-19 world? Join our TP alumnus (Mr Martin Gwee, Dip CMM, Class 2006) at a live webcast on our Facebook page, and hear from Martin as he shares creative ideas on how you can feed that travel bug!  
+
+**Click [here](https://www.facebook.com/314916878569344/videos/880111719190104) to know more**
+
+![Coping with the Travel Itch]({{site.baseurl}}/images/BeConnected_Travelitch.JPG)
+
+---
 ### Exercise with Samoona Pun ###
 TP Biomedical Engineering student and also a fitness ethusiast Samoona Pun shared her own workout routine for various parts of the body that could be practised easily anywhere without any equipment. Check out these videos below! 
 
