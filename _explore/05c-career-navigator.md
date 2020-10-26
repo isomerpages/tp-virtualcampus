@@ -5,16 +5,16 @@ permalink: /be-connected/career-navigator/
 third_nav_title: Be Connected
 
 ---
-### Live Webinar: Upskilling Workforce in the 'New Normal' with Microlearning ### 
+### Live Webinar: Understanding SGUnited Skills Programme ### 
 <div style="text-align: justify">
     <p>
-Find out how you can upskill yourself in this 'New Normal' using mobile microlearning solutions. Happening on 30 September 2020, 8.30am. 
-          </p>
+Join us at this live webinar on 6 Nov 2020 (Friday), 3.30pm to find out how you can benefit from the generous training and support measures under SGUS, while upskilling for the future!
+         </p>
 </div>
 
-**Learn [more](https://www.facebook.com/temasekpolyalumni/photos/a.314919538569078/3422967851097549/)**
+**Learn [more](https://www.instagram.com/p/CGyf0flHqSd/)**
 
-![Upskilling Workforce](/images/BeConnected_UpskillingWorkforce.JPG)
+![Upskilling Workforce](/images/BeConnected_SGUnited.jpg)
 
 ---
 ### Leveraging LinkedIn for Your Career ###
