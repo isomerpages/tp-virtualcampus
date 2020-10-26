@@ -8,8 +8,8 @@ third_nav_title: Be Involved
 ### LEAD Core Programmes ###
 
 <h4>LEAD Induction</h4>
+The LEAD Induction programme was held over 5 runs for 415 LEAD students. Participants used the DISC profiling tool to better understanding their own and their teammates’ personality styles. They also underwent a team activity that allowed them to re-examine themselves and their values when under stress. The programme concluded with a sharing by invited guest panellists consisting of seniors and recent graduates on their LEAD journeys.
 
-\Need write-up from the most recent run of LEAD Induction.
 
 <table>
     <tr>
