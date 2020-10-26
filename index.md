@@ -36,16 +36,7 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
-
-    - infopic:
-        title: TP National Day Virtual Concert
-        subtitle: Featured Event
-        image: /images/BeEntertained-ndp2020.JPG
-        description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
-        button: Learn More
-        url: /be-entertained/highlights/
-        alt: TPNDC
-        
+           
     - infopic:
         title: Launch of the TP Oei App
         subtitle: New Student App
@@ -64,7 +55,6 @@ sections:
         url: https://www.instagram.com/p/CGgz2FJFCBq/
         alt: Stories
 
-
     - infopic:
         title: TP Active-SG Virtual Run
         subtitle: Virtual Run
@@ -73,6 +63,15 @@ sections:
         button: Find out more
         url: /be-awesome/virtual-workouts/
         alt: Virtual Run
+   
+    - infopic:
+        title: TP National Day Virtual Concert
+        subtitle: Featured Event
+        image: /images/BeEntertained-ndp2020.JPG
+        description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
+        button: Learn More
+        url: /be-entertained/highlights/
+        alt: TPNDC
         
 #    - resources:
 #        title: Media
