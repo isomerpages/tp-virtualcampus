@@ -31,7 +31,7 @@ permalink: /sports/tchoukball/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CACGOGRHF1j/">
-                <image src="{{site.baseurl}}/images/CCA-Tchoukball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
+                <image src="{{site.baseurl}}/images/CCA-Tchoukball_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
                 <h6 style="margin-top:0%">TP Tchoukball Video</h6>
                 </image>
             </a>
