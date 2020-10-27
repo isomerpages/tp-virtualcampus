@@ -47,23 +47,23 @@ permalink: /interest_groups/global_connect_student_group/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CFUNHJan7ET/">
-                <image src="{{site.baseurl}}/images/CCA_GCC_diy.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Be a Champion of Inclusion</h6>
+            <a href="https://www.instagram.com/p/CGHrhbsntlU/">
+                <image src="{{site.baseurl}}/images/CCA_GCC_diy1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+                <h6 style="margin-top:0%">Diversity and Inclusion</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CFZPqy7nr3E/">
-                <image src="{{site.baseurl}}/images/CCA_GCC_myanmar.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+            <a href="https://www.instagram.com/p/CGOUw4nHEIU/">
+                <image src="{{site.baseurl}}/images/CCA_GCC_philippines.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
                 <h6 style="margin-top:0%">One Minute of Culture</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CFEfPDcHVvr/">
-                <image src="{{site.baseurl}}/images/CCA_GCC_religion.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Did You know?</h6>    
+            <a href="https://www.instagram.com/p/CFzfidlnkje/">
+                <image src="{{site.baseurl}}/images/CCA_GCC_UNSDG1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+                <h6 style="margin-top:0%">Did You know? Life Below Water</h6>    
                 </image>
             </a>
         </td>
