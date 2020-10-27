@@ -81,7 +81,7 @@ sections:
         title: TP National Day Virtual Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ndp2020.JPG
-        description: Re-live the Celebration of Our Nation's 55th Birthday & TP's 30th Anniversary!
+        description: Re-live the celebration of our nation's 55th birthday & TP's 30th anniversary!
         button: Learn More
         url: /be-entertained/highlights/
         alt: TPNDC
