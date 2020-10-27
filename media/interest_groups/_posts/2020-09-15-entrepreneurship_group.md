@@ -33,9 +33,9 @@ permalink: /interest_groups/entrepreneurship_group/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CErBf3Sn4jh/">
-                    <image src="{{site.baseurl}}/images/CCA-tpec_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="EG AGM Registration">
-                    <h6 style="margin-top:0%">Register for our AGM</h6>
+                <a href="https://www.instagram.com/p/CGyuRt8nqwx/">
+                    <image src="{{site.baseurl}}/images/CCA-tpec_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Amazing Race Recruiting Facilitators">
+                    <h6 style="margin-top:0%">Amazing Race on 9 Nov</h6>
                     </image>
                 </a>
             </td>
