@@ -4,7 +4,7 @@ title: TP Virtual Campus
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to the new TP Virtual Campus!
+notification: Welcome to the new TP Virtual Campus! Explore student activities from all around TP!
 sections:
     - hero:
         title: Virtually The Place To Be
