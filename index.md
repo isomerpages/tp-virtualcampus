@@ -12,10 +12,10 @@ sections:
         background: /images/download1.jpg
         key_highlights:
             - title: Student Portal
-              description: get to your student portal here
+              description: Get to your student portal here
               url: https://services.tp.edu.sg/
             - title: TP Corporate Website
-              description: need anything from TP Website?
+              description: Need anything from TP Website?
               url: https://www.tp.edu.sg/
     - carousel:
         - title: Salvo Drums
