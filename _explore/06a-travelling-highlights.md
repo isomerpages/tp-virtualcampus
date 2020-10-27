@@ -29,9 +29,9 @@ The Japan-Singapore Student e-Xchange Programme is a virtual-mobility programme,
 
 19 KINSHO students and 23 JCG members will be engaging from 23 October to 23 December 2020.  They will discuss Culture (including Stereotypes and expressions of culture, e.g. Anime) and even share Singapore dishes that will be given a Japanese twist.  The engagements will be in the Japanese and English languages.  
 
-In order to enhance learning, we have invited a guest speaker, Mr Markus Tan, Regional Director, North Asia, Singapore Tourism Board (see attached for his CV) to address the KINSHO students and JCG members.   
+In order to enhance learning, we have invited a guest speaker, Mr Markus Tan, Regional Director, North Asia, Singapore Tourism Board to address the KINSHO students and JCG members.   
 
-He will share the attractions in Singapore (targeted at KINSHO), his culture shock in Japan, his favourite places and experiences in Japan, the tourism industry and advice for undergraduates.  Markus’ sharing will be in the Japanese and English languages.  
+He shared the attractions in Singapore (targeted at KINSHO), his culture shock in Japan, his favourite places and experiences in Japan, the tourism industry and advice for undergraduates.  Markus’ sharing was in the Japanese and English languages.  
 
-**[Find out more](https://www.instagram.com/p/CFOuV1hnpQ8/)**
+**[Find out more](https://www.instagram.com/p/CGZWoU9nISv/)**
 
