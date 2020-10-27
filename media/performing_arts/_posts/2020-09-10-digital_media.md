@@ -34,7 +34,7 @@ permalink: /performing_arts/digital_media/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CDjKfMGAHsT/">
+            <a href="https://www.instagram.com/p/CB0HafsnA_A/">
                 <image src="{{site.baseurl}}/images/CCA-DMPC_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
                 <h6 style="margin-top:0%">Launch of DMPC website</h6>
                 </image>
