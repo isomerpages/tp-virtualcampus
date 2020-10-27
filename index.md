@@ -8,7 +8,7 @@ notification: Welcome to the new TP Virtual Campus!
 sections:
     - hero:
         title: Virtually The Place To Be
-        subtitle: Explore student activities from all around TP!
+        subtitle: Explore 8 exciting channels of student activities from all around TP!<br> Be Involved | Be Entertained | Be Awesome | Be Caring | Be Connected | Be Travelling | Be Creative | Be Updated
         background: /images/download1.jpg
         key_highlights:
             - title: Student Portal
