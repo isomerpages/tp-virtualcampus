@@ -40,8 +40,8 @@ permalink: /sports/inline_skating/
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAIHUfonnlO/">
-                <image src="{{site.baseurl}}/images/CCA-inlineskating_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
+            <a href="https://www.instagram.com/p/CGxHG7NHlci/">
+                <image src="{{site.baseurl}}/images/CCA-inlineskating_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
                 <h6 style="margin-top:0%">TP Inline Skate Friday Workouts</h6>    
                 </image>
             </a>
