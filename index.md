@@ -4,7 +4,7 @@ title: TP Virtual Campus
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to the new TP Virtual Campus! Explore student activities from all around TP!
+notification: Welcome to the new TP Virtual Campus!
 sections:
     - hero:
         title: Virtually The Place To Be
@@ -72,7 +72,25 @@ sections:
         button: Learn More
         url: /be-entertained/highlights/
         alt: TPNDC
-        
+
+    - hero:
+        # title: Virtually The Place To Be
+        # subtitle: Life@TP
+        # background: /images/download1.jpg
+        key_highlights:
+            - title: Be Involved
+              description: Be Involved Description
+              url: https://services.tp.edu.sg/
+            - title: Be Entertained
+              description: Be Entertained Description
+              url: https://www.tp.edu.sg/
+            - title: Be Awesome
+              description: Be Awesome Description
+              url: https://services.tp.edu.sg/
+            - title: Be Caring
+              description: Be Caring Description
+              url: https://www.tp.edu.sg/
+
 #    - resources:
 #        title: Media
 #        subtitle: Learn more
