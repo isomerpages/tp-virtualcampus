@@ -7,7 +7,7 @@ third_nav_title: Be Updated
 
 ### Stay Updated With TP
 
-For latest happenings from Singapore's most vibrant Polytechnic, follow our social media pages!
+For latest happenings from Singapore's most vibrant Polytechnic in the east, follow our social media pages!
 
 [Facebook](https://www.facebook.com/temasekpoly/){:target="_blank"}<br>
 [Instagram](https://www.instagram.com/temasekpoly/){:target="_blank"}<br>
