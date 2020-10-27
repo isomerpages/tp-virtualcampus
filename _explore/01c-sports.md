@@ -144,7 +144,7 @@ Over many years of discipline, diligence and doggedness, many of Temasek Polytec
                 </a>
             </td>
             <td style="max-width:49%; vertical-align:bottom; border:none"><br><h4>Sport Climbing</h4>
-                <a href="{{site.baseurl}}/sports/sports_climbing/">
+                <a href="{{site.baseurl}}/sports/sport_climbing/">
                     <image src="{{site.baseurl}}/images/CCA_sport_climbing.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Climbing">
                     </image>
                 </a>
