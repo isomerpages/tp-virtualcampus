@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: TP Virtual Campus
-description: Brief site description here
+description: The TP Virtual Campus is home to student activities from all across TP!
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to the new TP Virtual Campus!
