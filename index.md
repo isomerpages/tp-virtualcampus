@@ -19,29 +19,17 @@ sections:
 #              description: Need anything from TP Website?
 #              url: https://www.tp.edu.sg/
             - title: Be Involved
-              description: Be Involved Description
+              description: Want to be part of our 140 CCAs in TP?
               url: /be-involved/highlights/
             - title: Be Entertained
-              description: Be Entertained Description
+              description: Watch, listen and be entertained with content created by TP, for TP!
               url: /be-entertained/highlights/
             - title: Be Awesome
               description: Be Awesome Description
-              url: /be-entertained/highlights/
-            - title: Be Caring
-              description: Be Caring Description
-              url: /be-entertained/highlights/
-            - title: Be Connected
-              description: Be Connected Description
-              url: /be-entertained/highlights/
-            - title: Be Travelling
-              description: Be Travelling Description
-              url: /be-entertained/highlights/
-            - title: Be Creative
-              description: Be Creative Description
-              url: /be-entertained/highlights/
-            - title: Be Updated
-              description: Be Updated Description
-              url: /be-entertained/highlights/
+              url: /be-awesome/nutritional-tips/
+            - title: ...And More!
+              description: Check out the other channels to see what else is happening around campus!
+              url: /be-caring/caring-for-community/
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
