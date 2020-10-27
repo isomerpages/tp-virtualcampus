@@ -73,17 +73,6 @@ sections:
         url: /be-entertained/highlights/
         alt: TPNDC
 
-    - infopic:
-        title: Test
-        subtitle: Test Subtitle
-        # image: /images/BeEntertained-ndp2020.JPG
-        description: Test description
-        button: Button 1
-        url: /be-entertained/highlights/
-        button: Button 2
-        url: /be-entertained/highlights/
-        alt: TPNDC
-
 #    - resources:
 #        title: Media
 #        subtitle: Learn more
