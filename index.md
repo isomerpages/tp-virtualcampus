@@ -74,8 +74,8 @@ sections:
         alt: TPNDC
 
     - hero:
-        # title: Virtually The Place To Be
-        # subtitle: Life@TP
+        title: Virtually The Place To Be
+        subtitle: Life@TP
         background: /images/download1.jpg
         key_highlights:
             - title: Be Involved
