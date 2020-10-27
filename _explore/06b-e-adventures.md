@@ -5,7 +5,7 @@ permalink: /be-travelling/e-adventures/
 third_nav_title: Be Travelling
 
 ---
-The <a href="https://www.instagram.com/tpadventureclub/" target="_blank">TP Adventure Club</a> has created a series called Adventuring With You. It's a curation of videos from all around the world that will ignite the adventurous spirit in you!
+The <a href="https://www.instagram.com/tpadventureclub/" target="_blank">TP Adventure Club</a> has created a series called Adventuring With You. It's a curation of videos from all around the world that will ignite the adventurous spirit in you - all from the comfort of your own sofa!
 
 <div>
     <table>
