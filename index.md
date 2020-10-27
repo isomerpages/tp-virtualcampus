@@ -76,7 +76,7 @@ sections:
     - hero:
         # title: Virtually The Place To Be
         # subtitle: Life@TP
-        # background: /images/download1.jpg
+        background: /images/download1.jpg
         key_highlights:
             - title: Be Involved
               description: Be Involved Description
