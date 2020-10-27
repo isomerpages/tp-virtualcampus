@@ -16,7 +16,7 @@ Do continue to stay connected with us through the following channels:<br>
 [LinkedIn](https://www.linkedin.com/school/temasek-polytechnic/mycompany/){:target="_blank"}<br>
 [Alumni Portal](https://www.tp.edu.sg/alumni){:target="_blank"}<br>
 
-Explore this channel to see how our alumni have been keeping in touch with us even beyond graduation!
+Read on to see how our alumni have been keeping in touch with us even beyond graduation!
 
 ---
 
