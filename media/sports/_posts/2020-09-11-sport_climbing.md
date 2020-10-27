@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sports Climbing
-permalink: /sports/sports_climbing/
+permalink: /sports/sport_climbing/
 ---
 
 <table>
