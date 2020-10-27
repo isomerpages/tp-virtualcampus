@@ -22,10 +22,10 @@ sections:
               description: Want to be part of our 140 CCAs in TP?
               url: /be-involved/highlights/
             - title: Be Entertained
-              description: Watch, listen and be entertained with content created by TP, for TP!
+              description: Watch, listen and be entertained with content created by TP, free-of-charge!
               url: /be-entertained/highlights/
             - title: Be Awesome
-              description: Be Awesome Description
+              description: Stay physically and mentally fit with programmes curated by TP students!
               url: /be-awesome/nutritional-tips/
             - title: ...And More!
               description: Check out the other channels to see what else is happening around campus!
