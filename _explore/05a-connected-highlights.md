@@ -8,13 +8,15 @@ third_nav_title: Be Connected
 
 ### Stay Connected With Us
 
-Welcome to the TP Alumni Family! As a TP alumnus, you are part of our valued family of more than 100,000 graduates from all walks of life. We are committed to your continuous professional development and personal enrichment through a host of benefits, privileges and services, available exclusively for alumni.
+Once in TP, always in TP! Welcome to the TP Alumni Family! As a TP alumnus, you are part of our valued family of more than 100,000 graduates from all walks of life. We are committed to your continuous professional development and personal enrichment through a host of benefits, privileges and services, available exclusively for alumni.
 
 Do continue to stay connected with us through the following channels:<br>
 [Facebook](https://www.facebook.com/temasekpolyalumni){:target="_blank"}<br>
 [Instagram](https://www.instagram.com/temasekpolyalumni/){:target="_blank"}<br>
 [LinkedIn](https://www.linkedin.com/school/temasek-polytechnic/mycompany/){:target="_blank"}<br>
 [Alumni Portal](https://www.tp.edu.sg/alumni){:target="_blank"}<br>
+
+Explore this channel to see how our alumni have been keeping in touch with us even beyond graduation!
 
 ---
 
