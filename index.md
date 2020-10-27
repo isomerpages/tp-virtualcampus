@@ -8,15 +8,39 @@ notification: Welcome to the new TP Virtual Campus!
 sections:
     - hero:
         title: Virtually The Place To Be
-        subtitle: Explore 8 exciting channels of student activities from all around TP!<br> Be Involved | Be Entertained | Be Awesome | Be Caring<br>Be Connected | Be Travelling | Be Creative | Be Updated
+        subtitle: Explore 8 exciting channels of student activities from all around TP!
         background: /images/download1.jpg
         key_highlights:
-            - title: Student Portal
-              description: Get to your student portal here
-              url: https://services.tp.edu.sg/
-            - title: TP Corporate Website
-              description: Need anything from TP Website?
-              url: https://www.tp.edu.sg/
+#            - title: Student Portal
+#              description: Get to your student portal here
+#              url: https://services.tp.edu.sg/
+#            - title: TP Corporate Website
+#              description: Need anything from TP Website?
+#              url: https://www.tp.edu.sg/
+            - title: Be Involved
+              description: Be Involved Description
+              url: /be-involved/highlights/
+            - title: Be Entertained
+              description: Be Entertained Description
+              url: /be-entertained/highlights/
+            - title: Be Awesome
+              description: Be Awesome Description
+              url: /be-entertained/highlights/
+            - title: Be Caring
+              description: Be Caring Description
+              url: /be-entertained/highlights/
+            - title: Be Connected
+              description: Be Connected Description
+              url: /be-entertained/highlights/
+            - title: Be Travelling
+              description: Be Travelling Description
+              url: /be-entertained/highlights/
+            - title: Be Creative
+              description: Be Creative Description
+              url: /be-entertained/highlights/
+            - title: Be Updated
+              description: Be Updated Description
+              url: /be-entertained/highlights/
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
