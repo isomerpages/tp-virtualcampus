@@ -7,8 +7,8 @@ permalink: /
 notification: Welcome to the new TP Virtual Campus!
 sections:
     - hero:
-        title: Virtually The Place To Be
-        subtitle: Explore student activities from all around TP!
+        # title: Virtually The Place To Be
+        subtitle: Virtually The Place To Be<br>Explore student activities from all around TP!
         background: /images/download1.jpg
         key_highlights:
             - title: Student Portal
@@ -72,24 +72,6 @@ sections:
         button: Learn More
         url: /be-entertained/highlights/
         alt: TPNDC
-
-    - hero:
-        title: New Title
-        subtitle: New Subtitle
-        background: /images/download1.jpg
-        key_highlights:
-            - title: Be Involved
-              description: Be Involved Description
-              url: https://services.tp.edu.sg/
-            - title: Be Entertained
-              description: Be Entertained Description
-              url: https://www.tp.edu.sg/
-            - title: Be Awesome
-              description: Be Awesome Description
-              url: https://services.tp.edu.sg/
-            - title: Be Caring
-              description: Be Caring Description
-              url: https://www.tp.edu.sg/
 
 #    - resources:
 #        title: Media
