@@ -73,7 +73,7 @@ sections:
         subtitle: Virtual Run
         image: /images/BeAwesome-TPVirtualRun.jpeg
         description: Miss our Annual TP-ActiveSG Cross Country? Fret not! This year we'll be taking our cross country virtual and it will be our very FIRST EDITION OF TP-ACTIVESG VIRTUAL RUN 2020, happening from 14 Nov to 27 Nov!🏅🏅
-        button: Find out more
+        button: Find out more!
         url: /be-awesome/virtual-workouts/
         alt: Virtual Run
    
@@ -82,7 +82,7 @@ sections:
         subtitle: Featured Event
         image: /images/BeEntertained-ndp2020.JPG
         description: Re-live the celebration of our nation's 55th birthday & TP's 30th anniversary!
-        button: Learn More
+        button: Watch Now!
         url: /be-entertained/highlights/
         alt: TPNDC
 
