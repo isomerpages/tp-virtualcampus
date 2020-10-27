@@ -14,9 +14,9 @@ links:
   - title: The Campus
     #collection: the-campus
     sublinks:
-      - title: Facilities
+      - title: Our Very Cool 360 Tour of TP!
         url: https://www.tp.edu.sg/vrtour/
-      - title: Our Campus
+      - title: TP Campus Map
         url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
   - title: Contact Us
     url: /contact-us/
