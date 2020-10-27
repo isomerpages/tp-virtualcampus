@@ -33,5 +33,5 @@ In order to enhance learning, we have invited a guest speaker, Mr Markus Tan, Re
 
 He will share the attractions in Singapore (targeted at KINSHO), his culture shock in Japan, his favourite places and experiences in Japan, the tourism industry and advice for undergraduates.  Markus’ sharing will be in the Japanese and English languages.  
 
-[Register](https://docs.google.com/forms/d/e/1FAIpQLSfaIE-bbJmafsatYyMSGKkLldnDGetx_LTL8MoeW78_oUJwCA/viewform) and hear what Markus has to say!
+**[Find out more](https://www.instagram.com/p/CFOuV1hnpQ8/)**
 
