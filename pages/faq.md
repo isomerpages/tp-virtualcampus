@@ -78,3 +78,47 @@ With regards to students’ involvement and participation in non-TP related CCAs
 **SEAL Points will not be applicable to Polytechnic Foundation Programme students.**
 
 
+#### Sports Facilities
+**1.	What are the opening hours of Sports Facilities?**
+
+**Due to COVID-19, the facilities listed below are not open for general recreation.** 
+
+*1.	Swimming Complex*
+
+  Blk 31A
+
+  Mon to Fri: 9 am to 10 pm
+
+  Sat, Sun & Public Holidays: 8.30 am to 6 pm
+
+*2.	Gym*
+
+  Blk 29 Sports Complex
+
+  Mon to Fri: 9 am to 9 pm
+
+  Sat: 9 am to 5 pm
+
+  Closed on Sun & Public Holidays
+
+*3.	Outdoor Sports Facilities (Basketball, Futsal and Tennis Courts)*
+
+  Blk 26A
+
+  Mon to Fri: 9am to 9pm
+
+  Sat: 9am to 5pm
+
+  Closed on Sun & Public Holidays
+
+*4.	Sports Hall 2 (Badminton Courts and Table Tennis Tables)*
+
+   Blk 26A
+
+   Mon to Fri: 9am to 9pm
+
+  Sat: 9am to 5pm
+
+  Closed on Sun & Public Holidays
+
+
