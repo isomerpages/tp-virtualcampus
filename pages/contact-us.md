@@ -2,7 +2,6 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Temasek Polytechnic
 ---
 <iframe id="iframe" src="https://form.gov.sg/5f992e74f627ec001173036f" style="width:100%;height:3050px"></iframe>
 
