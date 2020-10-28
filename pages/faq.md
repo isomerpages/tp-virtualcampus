@@ -12,7 +12,7 @@ EPC (Events/Programmes/Competitions) names creation can only be done by Staff an
 
 **2. Where can I access the system?**
 
-The SEAL website can be accessed at this [link](https://internetapps.tp.edu.sg/tpseal)
+The SEAL website can be accessed at this [link](https://internetapps.tp.edu.sg/tpseal) through TP Student Portal.
 
 **3. How can I submit the participation?**
 
