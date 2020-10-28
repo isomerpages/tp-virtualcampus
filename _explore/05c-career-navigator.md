@@ -35,7 +35,7 @@ Join us at this live webinar on 6 Nov 2020 (Friday), 3.30pm to find out how you 
 ### Leveraging LinkedIn for Your Career ###
 <div style="text-align: justify">
     <p>
-Get insightful perspectives and useful tips to build your brand/profile using LinkedIn amidst these challenging times. If you missed the live webcast hosted by Mr Hosea Lai, Head of Social Impact (APAC), LinkedIn, click <strong><a href="https://www.facebook.com/watch/live/?v=660591798116873&ref=external/">here</a></strong> to watch the recording!
+Get insightful perspectives and useful tips to build your brand/profile using LinkedIn amidst these challenging times. <strong>If you missed the live webcast hosted by Mr Hosea Lai, Head of Social Impact (APAC), LinkedIn, click <a href="https://www.facebook.com/watch/live/?v=660591798116873&ref=external/">here</a> to watch the recording!</strong>
         </p>
 </div>
 
