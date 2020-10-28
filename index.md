@@ -85,6 +85,15 @@ sections:
         button: Watch Now!
         url: /be-entertained/highlights/
         alt: TPNDC
+        
+     - infopic:
+        title: Want to be featured on this Virtual Campus?
+        subtitle: Reach out to us
+        image: /images/Contact-Shoutout.JPG
+        description: Do you have something exciting, share with us!
+        button: Watch Now!
+        url: /contact-us/
+        alt: TPNDC   
 
 #    - resources:
 #        title: Media
