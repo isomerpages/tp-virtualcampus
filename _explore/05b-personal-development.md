@@ -6,9 +6,9 @@ third_nav_title: Be Connected
 
 ---
 ### Coping with the Travel Itch ###
-Are you looking for ways to satisfy your wanderlust, while waiting to jet off to your dream holiday destinations in a new normal, post-COVID-19 world? Join our TP alumnus (Mr Martin Gwee, Dip CMM, Class 2006) at a live webcast on our Facebook page, and hear from Martin as he shares creative ideas on how you can feed that travel bug!  
+Are you looking for ways to satisfy your wanderlust, while waiting to jet off to your dream holiday destinations in a new normal, post-COVID-19 world? Hear from our TP alumnus (Mr Martin Gwee, Dip CMM, Class 2006) as he shares creative ideas on how you can feed that travel bug!  
 
-**Click [here](https://www.facebook.com/314916878569344/videos/880111719190104) to know more**
+**If you have missed the live webcast, you may visit the Temasek Poly Alumni [Facebook](https://www.facebook.com/314916878569344/videos/880111719190104) to watch the recording!**
 
 ![Coping with the Travel Itch]({{site.baseurl}}/images/BeConnected_Travelitch.JPG)
 
