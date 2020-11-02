@@ -44,8 +44,8 @@ permalink: /interest_groups/tp_ambassadors/
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CHAfMgMHHgt//">
-                    <image src="{{site.baseurl}}/images/CCA-tpambassadors_IG4.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Ambassadors">
+                <a href="https://www.instagram.com/p/CHAfMgMHHgt/">
+                    <image src="{{site.baseurl}}/images/CCA-tpambassadors_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Ambassadors">
                     <h6 style="margin-top:0%">Where's the Ghost</h6>
                     </image>
                 </a>
