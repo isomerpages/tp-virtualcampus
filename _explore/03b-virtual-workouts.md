@@ -12,7 +12,7 @@ The event is free to join and open to all. So, gather your friends & family memb
 
 The number of slots for the recreational and advanced categories are limited and the registration is based on first-come first-serve. Hurry and sign up for the virtual run now! 
 
-For the full event details, visit the Temasek Polytechnic Students' Union [website](https://www.tpstudentsunion.com/learn-more){:target="_blank"} to find out more. 
+For the full event details, **visit the Temasek Polytechnic Students' Union [website](https://www.tpstudentsunion.com/learn-more){:target="_blank"}** to find out more. 
 
 We wish you all the best in your running adventure!
 
