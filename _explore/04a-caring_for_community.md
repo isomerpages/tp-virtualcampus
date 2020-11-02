@@ -50,14 +50,9 @@ A total of $775 were raised for the Children's Cancer Foundation during the one 
 ---
 ### Volunteering Opportunities ###
 
-<div style="text-align: justify">
-    <p>
-    There are several campus-wide volunteering events organized for you contribute to the community included the Walk for Rice @ TP, 3M Step-Up Challenge @ TP and Hair For Hope @ TP. Other long term projects included Volunteering with SAMH and YEAH! (Youths Engaged Active and Healthy) Programme @ Tampines West CC. 
-    </p>
+There are several campus-wide volunteering events organized for you contribute to the community included the Walk for Rice @ TP, 3M Step-Up Challenge @ TP and Hair For Hope @ TP. Other long term projects included Volunteering with SAMH and YEAH! (Youths Engaged Active and Healthy) Programme @ Tampines West CC. 
    
-   <h5>If you have a heart for the community and keen to pay it forward, click [here](/p10/csc/) to find out more!</h5>
-
-</div>
+**If you have a heart for the community and keen to pay it forward, click [here](/p10/csc/) to find out more!**
 
 ![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)
 
