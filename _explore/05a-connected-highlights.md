@@ -32,7 +32,7 @@ Wendy is currently based in Montpellier, in the southern region of France.
 
 **If you missed the live webcast, you may visit the Temasek Poly Alumni [Facebook](https://www.facebook.com/314916878569344/videos/622083055101219){:target="_blank"} to watch the recording!**
 
-![Out of Your Comfort Zone](/images/BeConnected_OutofComfort_Wendy.JPG)
+![Out of Your Comfort Zone](/images/BeConnected_OutofComfort_Wendy1.JPG)
 
 ---
 #### National Service By LTA Nicholas Gan ####
