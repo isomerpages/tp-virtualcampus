@@ -6,20 +6,6 @@ third_nav_title: Be Connected
 
 
 ---
-### Live Webinar: Understanding Enhanced Training Support Package ### 
-<div style="text-align: justify">
-    <p>
-These are challenging times for businesses, especially in sectors severely affected by COVID-19. The Enhanced Training Support Package (ETSP) was introduced as part of the Stabilisation and Support Package, and the Resilience Budget to help companies and workers tide over the economic impact of COVID-19, and position themselves for subsequent recovery.
-
-Join us at this live webinar on 30 Oct 2020 to find out how you or your company can benefit from the generous subsidies under ETSP, while upskilling for the future!
-         </p>
-</div>
-
-**Learn [more](https://www.instagram.com/p/CGbu1fvHCZG/)**
-
-![Enhanced TrainingSupport](/images/BeConnected_EnhancedTrainingSupport.jpg)
-
----
 ### Live Webinar: Understanding SGUnited Skills Programme ### 
 <div style="text-align: justify">
     <p>
@@ -30,6 +16,18 @@ Join us at this live webinar on 6 Nov 2020 (Friday), 3.30pm to find out how you 
 **Learn [more](https://www.instagram.com/p/CGyf0flHqSd/)**
 
 ![Upskilling WorkforceSG](/images/BeConnected_SGUnited.jpg)
+
+---
+### TP Opportunity Fair 2020: Breaking Limits, Pushing Boundaries ### 
+<div style="text-align: justify">
+    <p>
+Happening from 9 to 27 Nov 2020, this e-Career Fair will feature webinars from organizations in various industry sectors and they will share with you employment outlook, job opportunities and search tips. You can also attend online interviews with potential employers, chat with representatives from lifelong learning institutions and ECG counsellors on career guidance. 
+         </p>
+</div>
+
+**Learn [more](https://www.tpof.findsgjobs.com/?utm_source=tpweb&utm_medium=banner&utm_campaign=tpof2020)**
+
+![TP OF2020](/images/BeConnected_TPOF.PNG)
 
 ---
 ### Leveraging LinkedIn for Your Career ###
