@@ -6,13 +6,10 @@ third_nav_title: Be Caring
 
 ----
 ### 3M Moves @ TP ###
-<div style="text-align: justify">
-    <p>
-In support of South East Community Development Council, TP CSC has organized "3M Moves @ TP which aimed to donate 3M household products to needy families at South East District, and at the same time encourage participants to exercise for a good cause and prepare for TP-ActiveSG Virtual Run. For every 20 minutes of exercise clocked by each participant, 3M Singapore will donate one product to the beneficiaries.
-    </p>
-</div>
 
-**Find Out [More](https://www.instagram.com/p/CG_fBtZHB27/)** 
+In support of South East Community Development Council, TP CSC has organized "3M Moves @ TP which aimed to donate 3M household products to needy families at South East District, and at the same time encourage participants to exercise for a good cause and prepare for TP-ActiveSG Virtual Run. For every 20 minutes of exercise clocked by each participant, 3M Singapore will donate one product to the beneficiaries.
+
+**Find Out [More](https://www.instagram.com/p/CG_fBtZHB27/){:target="_blank"}** 
 
 ![3M Moves]({{site.baseurl}}/images/BeCaring-3mmoves.jpg)
 
