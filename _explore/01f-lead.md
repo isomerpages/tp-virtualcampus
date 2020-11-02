@@ -16,9 +16,9 @@ The LEAD Induction programme was held over 5 runs for 415 LEAD students. Partici
 
 <table>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction"></image>       
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Induction1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction1"></image>       
         </td>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Induction2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction2"></image>       
         </td>
     </tr>
 </table>
