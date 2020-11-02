@@ -166,7 +166,11 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Product & Industry Design</h4>
+                 <a href="https://www.instagram.com/tp.des.pid/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_pid.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industry Design Interest Group">
+                    </image>
+                </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none">
             </td>
