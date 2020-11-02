@@ -16,11 +16,9 @@ The LEAD Induction programme was held over 5 runs for 415 LEAD students. Partici
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_induction.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart"></image>       
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction"></image>       
         </td>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction"></image>       
-        </td>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
         </td>
     </tr>
 </table>
@@ -41,7 +39,7 @@ At the end of the event, a handful of students signed up for volunteering or stu
 
 <table>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_heart.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Photo 2"></image>       
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_photo_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Photo 2"></image>       
         </td>
         <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Heart_Oct20.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Photo 3"></image>       
         </td>
