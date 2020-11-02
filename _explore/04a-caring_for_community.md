@@ -5,6 +5,15 @@ permalink: /be-caring/caring-for-community/
 third_nav_title: Be Caring
 
 ---
+### 3M Moves @ TP ###
+
+In support of South East Community Development Council, TP CSC has organized "3M Moves @ TP which aimed to donate 3M household products to needy families at South East District, and at the same time encourage participants to exercise for a good cause and prepare for TP-ActiveSG Virtual Run. For every 20 minutes of exercise clocked by each participant, 3M Singapore will donate one product to the beneficiaries.
+
+**Find Out [More](https://www.instagram.com/p/CG_fBtZHB27/){:target="_blank"}** 
+
+![3M Moves]({{site.baseurl}}/images/BeCaring-3mmoves.jpg)
+
+---
 ### Project Hope Train Fundraising Campaign for Children's Cancer Foundation ###
 <div style="text-align: justify">
     <p>
@@ -51,3 +60,5 @@ A total of $775 were raised for the Children's Cancer Foundation during the one 
 </div>
 
 ![TP Community Service Club]({{site.baseurl}}/images/BeCaring-mid_autumn_festival.jpg)
+
+
