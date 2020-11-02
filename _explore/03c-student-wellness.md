@@ -52,7 +52,6 @@ What are the common stressors on social media, and how to practice 'safe social'
 
 Infographics on    
 1) Managing Academic Stress; e.g., Managing Academic Expectations   
-
 2) Building Mental resilience
 
 ![Safe Social]({{site.baseurl}}/images/BeAwesome-Academic_Expectations.JPG)
