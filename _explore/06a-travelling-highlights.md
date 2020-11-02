@@ -20,9 +20,7 @@ You can find out more about the student exchanges on [YouTube](https://www.youtu
 
 The Japan-Singapore Student e-Xchange Programme is a virtual-mobility programme, organised by TP’s Japanese Cultural Group (JCG), with the participation of Ishikawa Prefectural Kanazawa Commercial High School (KINSHO) held from 23 October to 23 December 2020.   
 
-19 KINSHO students and 23 JCG members would discuss Culture and even share Singapore dishes that will be given a Japanese twist.  The engagements would be in the Japanese and English languages.  
-
-Mr Markus Tan, Regional Director, North Asia from Singapore Tourism Board was invited to share the attractions in Singapore, his culture shock in Japan, his favourite places and experiences in Japan, the tourism industry and advice for undergraduates.  
+19 KINSHO students and 23 JCG members would discuss culture and share Singapore dishes that were given a Japanese twist.  The engagements would be in the Japanese and English languages. Mr Markus Tan, Regional Director, North Asia from Singapore Tourism Board was invited to share the attractions in Singapore, his culture shock in Japan, his favourite places and experiences in Japan, the tourism industry and advice for undergraduates.  
 
 **[Find out more](https://www.instagram.com/p/CGZWoU9nISv/)**
 
