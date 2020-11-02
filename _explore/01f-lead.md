@@ -8,6 +8,9 @@ third_nav_title: Be Involved
 ### LEAD Core Programmes ###
 
 <h4>LEAD Induction</h4>
+
+![LEAD Induction](/images/BeInvolved-lead_inductionlogo.png)
+
 The LEAD Induction programme was held over 5 runs for 415 LEAD students. Participants used the DISC profiling tool to better understanding their own and their teammates’ personality styles. They also underwent a team activity that allowed them to re-examine themselves and their values when under stress. The programme concluded with a sharing by invited guest panellists consisting of seniors and recent graduates on their LEAD journeys.
 
 
@@ -23,6 +26,9 @@ The LEAD Induction programme was held over 5 runs for 415 LEAD students. Partici
 </table>
 
 <h4>LEAD Heart</h4>
+
+![LEAD Heart](/images/BeInvolved-lead_heartlogo.png)
+
 292 LEAD students and 75 staff from various departments attended the Temasek LEAD Heart that spanned over 2 full days on 1 & 8 October. In this run, 29 LEAD students stepped forward to co-create and co-organise the event with staff, in which they also served as facilitators in the breakout sessions.
 
 The event touched on pertinent community issues revolving around the needs and social stigma faced by ex-offenders (Beyond Second Chances), people with mental health conditions (Is It Okay Not To Be Okay), special needs (Walking with Autism), and lastly the issues on  environmental sustainability in Singapore (The Zero Waste Lifestyle - A Concept or Reality). 
@@ -43,6 +49,8 @@ At the end of the event, a handful of students signed up for volunteering or stu
 </table>
 
 <h4>LEAD Summit</h4>
+
+![LEAD Summit](/images/BeInvolved-lead_summitlogo.png)
 
 356 LEAD students attended the inaugural online Temasek LEAD Summit, one of the three core modules for the Temasek LEAD Programme over 2 full days.
 
