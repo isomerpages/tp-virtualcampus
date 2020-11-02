@@ -10,7 +10,7 @@ Are you looking for ways to satisfy your wanderlust, while waiting to jet off to
 
 **If you have missed the live webcast, you may visit the Temasek Poly Alumni [Facebook](https://www.facebook.com/314916878569344/videos/880111719190104) to watch the recording!**
 
-![Coping with the Travel Itch]({{site.baseurl}}/images/BeConnected_Travelitch.JPG)
+![Coping with Travel Itch]({{site.baseurl}}/images/BeConnected_Travelitch.JPG)
 
 ---
 ### Exercise with Samoona Pun ###
