@@ -223,9 +223,8 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            </tr>
-            <tr>
-            </td>
+          </tr>
+          <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>G-Force</h4>
                 <a href="https://www.instagram.com/gforceael/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_aelig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="G-Force (AEL)">
