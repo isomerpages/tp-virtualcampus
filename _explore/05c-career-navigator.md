@@ -40,4 +40,4 @@ Get insightful perspectives and useful tips to build your brand/profile using Li
 </div>
 
 
-![Leveraging LinkedIn](/images/BeConnected_LinkedIn.JPG)
+![Leveraging LinkedIn](/images/BeConnected_LinkedIn.jpg)
