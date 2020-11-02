@@ -14,4 +14,6 @@ Be a member of our alumni family by applying for the TP alumni card [here](https
 
 Update your profile and stay in touch with us [here](https://form.gov.sg/#!/5eec8b9da56c390011f8583d){:target="_blank"}. 
 
+![Join the Alumni Family](/images/BeConnected_Join the Alumni Family.jpg) 
+
 ---
