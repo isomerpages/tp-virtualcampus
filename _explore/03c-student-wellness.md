@@ -22,8 +22,8 @@ You will find an array of support services and resources to help you through you
 
 **Making Inquiry and Appointment**
 
-Tel:  6780 5959
-Email: care@tp.edu.sg
+Tel:  6780 5959  
+Email: care@tp.edu.sg  
 Opening hours: Mon – Fri (8.30 – 5.30 pm) (closed on Weekends & Public Holidays)
 
 **Make appointment [here](https://bit.ly/booktpcs)**
@@ -50,8 +50,8 @@ What are the common stressors on social media, and how to practice 'safe social'
 
 ![Safe Social]({{site.baseurl}}/images/BeAwesome-Socialmedia.JPG)
 
-Infographics on 
-1) Managing Academic Stress; e.g., Managing Academic Expectations 
+Infographics on    
+1) Managing Academic Stress; e.g., Managing Academic Expectations   
 
 2) Building Mental resilience
 
