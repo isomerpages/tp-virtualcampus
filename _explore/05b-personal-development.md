@@ -16,7 +16,7 @@ Are you looking for ways to satisfy your wanderlust, while waiting to jet off to
 ### Exercise with Samoona Pun ###
 TP Biomedical Engineering student and also a fitness ethusiast Samoona Pun shared her own workout routine for various parts of the body that could be practised easily anywhere without any equipment. Check out these videos below! 
 
-![Exercise with Samoona Pun]({{site.baseurl}}/images/BeConnected_Exercise-with-Samoona.jpg)
+![Exercise with Samoona]({{site.baseurl}}/images/BeConnected_Exercise-with-Samoona.jpg)
 
 #### [Cardio Exercise](https://www.facebook.com/watch/?v=572823250041014&extid=27TkvKv818kRUP0f){:target="_blank"} ####
 Focusing on burning fats and building our endurance, this 30-minute intense cardio exercise workout kickstarts the first series.
