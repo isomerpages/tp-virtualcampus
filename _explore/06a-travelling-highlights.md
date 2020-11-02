@@ -13,6 +13,7 @@ The ASEAN Student e-Xchange Programme is a virtual-mobility programme in partner
 
 You can find out more about the student exchanges on [YouTube](https://www.youtube.com/channel/UCfhU5IoOuAsaNy0DuqlCs5g/videos){:target="_blank"}
 
+---
 ### Japan-Singapore Student e-Xchange Programme ###
 
 ![Japan-Singapore Student e-Xchange Programme]({{site.baseurl}}/images/CCA_jcg_kinsho.JPG)
@@ -25,3 +26,11 @@ Mr Markus Tan, Regional Director, North Asia from Singapore Tourism Board was in
 
 **[Find out more](https://www.instagram.com/p/CGZWoU9nISv/)**
 
+---
+### Venturing to Antartica ###
+
+![Venturing to Antartica]({{site.baseurl}}/images/BeTravelling-highlights-Antartica.PNG)
+
+A virtual sharing session by Mr David Lim, an avid adventurer on what it takes to venture out to Antartica.  
+
+**[Find out more](https://www.instagram.com/p/CGmCOSbHlU8/)**
