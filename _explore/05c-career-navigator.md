@@ -17,7 +17,7 @@ Join us at this live webinar on 30 Oct 2020 to find out how you or your company 
 
 **Learn [more](https://www.instagram.com/p/CGbu1fvHCZG/)**
 
-![Enhanced Training](/images/BeConnected_EnhancedTrainingSupport.jpg)
+![Enhanced TrainingSupport](/images/BeConnected_EnhancedTrainingSupport.jpg)
 
 ---
 ### Live Webinar: Understanding SGUnited Skills Programme ### 
@@ -29,7 +29,7 @@ Join us at this live webinar on 6 Nov 2020 (Friday), 3.30pm to find out how you 
 
 **Learn [more](https://www.instagram.com/p/CGyf0flHqSd/)**
 
-![Upskilling Workforce](/images/BeConnected_SGUnited.jpg)
+![Upskilling WorkforceSG](/images/BeConnected_SGUnited.jpg)
 
 ---
 ### Leveraging LinkedIn for Your Career ###
