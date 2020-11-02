@@ -245,15 +245,23 @@ third_nav_title: Be Involved
 <div>
     <table>
         <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Early Childhood Development & Education</h4>
+                <a href="https://www.instagram.com/sdniectp/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_ecde.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ECDE Interest Group">
+                    </image>
+                </a>
+            </td>
             <td style="width:33%; vertical-align:bottom; border:none"><h4>Psychology Studies</h4>
                 <a href="https://www.instagram.com/t.psig/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_psyig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Psychology Studies Interest Group">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none">
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Social Sciences in Gerontology Interest Group</h4>
+                 <a href="https://www.instagram.com/tpgem/?hl=en" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_gem.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="GEM Interest Group">
+                    </image>
+                </a>
             </td>
         </tr>
     </table>
