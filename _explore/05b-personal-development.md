@@ -5,10 +5,18 @@ permalink: /be-connected/personal-development/
 third_nav_title: Be Connected
 
 ---
+### Coping with the Travel Itch ###
+Are you looking for ways to satisfy your wanderlust, while waiting to jet off to your dream holiday destinations in a new normal, post-COVID-19 world? Hear from our TP alumnus (Mr Martin Gwee, Dip CMM, Class 2006) as he shares creative ideas on how you can feed that travel bug!  
+
+**If you have missed the live webcast, you may visit the Temasek Poly Alumni [Facebook](https://www.facebook.com/314916878569344/videos/880111719190104) to watch the recording!**
+
+![Coping with Travel Itch]({{site.baseurl}}/images/BeConnected_Travelitch.JPG)
+
+---
 ### Exercise with Samoona Pun ###
 TP Biomedical Engineering student and also a fitness ethusiast Samoona Pun shared her own workout routine for various parts of the body that could be practised easily anywhere without any equipment. Check out these videos below! 
 
-![Exercise with Samoona Pun]({{site.baseurl}}/images/BeConnected_Exercise-with-Samoona.jpg)
+![Exercise with Samoona]({{site.baseurl}}/images/BeConnected_Exercise-with-Samoona.jpg)
 
 #### [Cardio Exercise](https://www.facebook.com/watch/?v=572823250041014&extid=27TkvKv818kRUP0f){:target="_blank"} ####
 Focusing on burning fats and building our endurance, this 30-minute intense cardio exercise workout kickstarts the first series.

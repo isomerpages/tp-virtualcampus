@@ -22,10 +22,11 @@ You will find an array of support services and resources to help you through you
 
 **Making Inquiry and Appointment**
 
-Tel:  6780 5959
-Email: care@tp.edu.sg
+Tel:  6780 5959  
+Email: care@tp.edu.sg  
 Opening hours: Mon – Fri (8.30 – 5.30 pm) (closed on Weekends & Public Holidays)
-<To make appointment https://bit.ly/booktpcs>
+
+**Make appointment [here](https://bit.ly/booktpcs)**
 
 ---
 ## <a id="AIchatbot"></a>AI Wellness Chatbot
@@ -43,13 +44,15 @@ Look-Listen-Link
 
 Learn the <a href="https://studenttpedu.sharepoint.com/sites/SSCS/Home/Shared%20Documents/Forms/Thumbnail.aspx?id=/sites/SSCS/Home/Shared%20Documents/Student%20Care/Student%20Care%20Resources/LookListenLink.jpg&parent=/sites/SSCS/Home/Shared%20Documents/Student%20Care/Student%20Care%20Resources" target="_blank">three simple steps</a> to support your peers-in-distress.
 
-<b>Latest e-Newsletter <How to use Social Media safely and responsibly></b>
+<b>Latest e-Newsletter - How to use Social Media safely and responsibly</b>
 
 What are the common stressors on social media, and how to practice 'safe social'. Read <a href="https://studenttpedu.sharepoint.com/sites/SSCS/Home/Shared%20Documents/Forms/Thumbnail.aspx?id=%2Fsites%2FSSCS%2FHome%2FShared%20Documents%2FStudent%20Care%2FStudent%20Care%20Resources%2FHow%20to%20use%20Social%20Media%20Safely%20and%20Responsibly%2Epdf&parent=%2Fsites%2FSSCS%2FHome%2FShared%20Documents%2FStudent%20Care%2FStudent%20Care%20Resources">HERE</a>.
 
 ![Safe Social]({{site.baseurl}}/images/BeAwesome-Socialmedia.JPG)
 
-Infographics on 1) Managing Academic Stress; e.g., Managing Academic Expectations 2) Building Mental resilience
+Infographics on    
+1) Managing Academic Stress; e.g., Managing Academic Expectations   
+2) Building Mental resilience
 
 ![Safe Social]({{site.baseurl}}/images/BeAwesome-Academic_Expectations.JPG)
 

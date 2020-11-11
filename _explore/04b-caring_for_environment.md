@@ -16,4 +16,6 @@ The inaugural ECO Fest Campaign was held with a series of interesting activities
 
 ![TP Green Interest Group]({{site.baseurl}}/images/BeCaring-green_interest_grp1.jpg)
 
-Being a champion in caring for the environment and sustainability, TP Green Interest Group organized several environmental events such as beach clean-ups and hiking trips. In 2019, the group was invited to join the R.I.S.E Champion Network together with many organisations such as the National Environment Agency and National Parks Boards. Click [here](https://www.instagram.com/tpgig/){:target="_blank"} to find out more. 
+Being a champion in caring for the environment and sustainability, TP Green Interest Group organized several environmental events such as beach clean-ups and hiking trips. In 2019, the group was invited to join the R.I.S.E Champion Network together with many organisations such as the National Environment Agency and National Parks Boards. 
+
+**Click [here](/interest_groups/green_interest_group/) to find out more.** 

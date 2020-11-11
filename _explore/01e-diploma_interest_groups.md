@@ -166,7 +166,11 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Product & Industry Design</h4>
+                 <a href="https://www.instagram.com/tp.des.pid/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_pid.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industry Design Interest Group">
+                    </image>
+                </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none">
             </td>
@@ -201,12 +205,26 @@ third_nav_title: Be Involved
             </td>
         </tr>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Blackbox</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>BIZEN</h4>
+                <a href="https://www.instagram.com/eng_tpbze/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_bizen.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="BIZEN (BZE)">
+                    </image>
+                </a>
+           </td> 
+           <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Blackbox</h4>
                 <a href="https://www.instagram.com/amsaviators/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_amsig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Blackbox (AMS)">
                     </image>
                 </a>
             </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Energy Oasis</h4>
+                <a href="https://www.instagram.com/energyoasis/?hl=en" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_energyoasis.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="EnergyOasis (CER)">
+                    </image>
+                </a>
+            </td>
+          </tr>
+          <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>G-Force</h4>
                 <a href="https://www.instagram.com/gforceael/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_aelig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="G-Force (AEL)">
@@ -219,7 +237,7 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-        </tr>
+        </tr>            
     </table>
 </div>
 
@@ -230,15 +248,23 @@ third_nav_title: Be Involved
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Phychology Studies</h4>
-                <a href="https://www.instagram.com/t.psig/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_psyig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Phychology Studies Interest Group">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Early Childhood Development & Education</h4>
+                <a href="https://www.instagram.com/sdniectp/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_ecde.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ECDE Interest Group">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Psychology Studies</h4>
+                <a href="https://www.instagram.com/t.psig/" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_psyig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Psychology Studies Interest Group">
+                    </image>
+                </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none">
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Social Sciences in Gerontology Interest Group</h4>
+                 <a href="https://www.instagram.com/tpgem/?hl=en" target="_blank">
+                    <image src="{{site.baseurl}}/images/CCA_gem.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="GEM Interest Group">
+                    </image>
+                </a>
             </td>
         </tr>
     </table>

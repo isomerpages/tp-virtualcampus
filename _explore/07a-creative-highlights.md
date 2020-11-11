@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Event Highlights
+title: Highlights
 permalink: /be-creative/event-highlights/
 third_nav_title: Be Creative
 
@@ -8,24 +8,26 @@ third_nav_title: Be Creative
 #### Make Your Own Series ####
 <div style="text-align: justify">
     <p>
-Get creative and get your hands busy by making your own items in the comfort of your own home!
+The Innovation and Entrepreneurship Department (I&ED) helps all TP students build their enterprising skills such as overcoming the fear of failure, pushing boundaries, solving problems creatively, capitalizing on opportunities and persevering to fruition. This entrepreneurial and innovative mindset will benefit the students in life and in any career that they choose.
+    </p>
+    <p>
+The I&ED team made a series of videos to encourage all of us to tap on easily accessible items to get creative and get your hands busy in the comfort of your own home!
     </p>
 </div>
 
-**[DIY Face Shield](https://www.facebook.com/tp.innovation.entrepreneurship/videos/658346008393190/){:target="_blank"}**<br>
+**Make your own [Face Shield](https://www.facebook.com/tp.innovation.entrepreneurship/videos/658346008393190/){:target="_blank"}at home**<br>
 
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Face_Shield.png)
 
-**[DIY Cloth Mask](https://www.facebook.com/tp.innovation.entrepreneurship/videos/327069655053683/){:target="_blank"}**<br>
+**Stitch your own [Cloth Mask](https://www.facebook.com/tp.innovation.entrepreneurship/videos/327069655053683/){:target="_blank"}**<br>
 
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Cloth_Mask.png)
 
-**[DIY Light Box](https://www.facebook.com/tp.innovation.entrepreneurship/videos/763892361119090){:target="_blank"}**<br>
+**Create your own [Light Box](https://www.facebook.com/tp.innovation.entrepreneurship/videos/763892361119090){:target="_blank"}**<br>
 
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Lightbox.png)
 
 ---
-
 #### Makerspace+ Home Series ####
 <div style="text-align: justify">
     <p>
@@ -50,14 +52,3 @@ A 2-day Entrepreneurship Appreciation Programme (EAP) for you to deepen your und
 
 ![Entrepreneurship Appreciation Programme](/images/CCA_entrepreneurship_appreciation.JPG)
 
----
-#### Business Skills Workshops ####
-<div style="text-align: justify">
-    <p>
-Interested to learn more about starting or growing a business? TP Entrepreneurship Club & TP Spirit of Enterprise brings to you two workshops by two guest speakers - Mr Sherman Foo, CEO of S Capital Consolidated and Ms Charmaine Lee, Digital Marketing Trainer of Sky Digital Agency.  
-          </p>
-</div>
-
-**Find out [more](https://www.instagram.com/p/CFJOeD-n6yv/){:target="_blank"}**
-
-![Business Skills Workshops](/images/CCA_entrepreneurship_businessskills.JPG)

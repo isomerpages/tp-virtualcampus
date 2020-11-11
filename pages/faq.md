@@ -5,8 +5,109 @@ permalink: /faq/
 
 ### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+#### SEAL
+**1.	Who can create the event name?**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+EPC (Events/Programmes/Competitions) names creation can only be done by Staff and approved by SEAL Coordinator.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**2. Where can I access the system?**
+
+The SEAL website can be accessed at this [link](https://internetapps.tp.edu.sg/tpseal) through TP Student Portal.
+
+**3. How can I submit the participation?**
+
+Submission of participation record(s) by students can only be done with EPC code from Staff.
+
+**4. I have missed my deadline for submission, what can I do?**
+
+All CCA participation records must be submitted via the system for verification within 30 Days upon the completion of an event. As you have missed the deadline given, we regret that the system will not be able to accept your submission. However, you could seek your staff advisor’s assistance who could seek approval from Director/SDAA for extension of deadline. 
+
+**5. I have taken part in the school events, who are the SEAL coordinators to endorse my CCA participation?**
+
+Each school has appointed at least one SEAL Coordinator to assist you. They are:
+
+School/Dept | Staff Name
+------------ | -------------
+ASC | Teo Guek Ngo, Lillian
+BUS | Chang Lai Fong, Jenny
+BUS | Suraiya Bte Syed Kader
+CCD | Jaslyn Lau
+DES | Isa B Abdul Ghani
+DES | Siti Rohani Ramat
+ENG | Asyran Rahman
+ENG | Ng Yan Ting
+ENG | Sing Kar Joo, Lily
+HSS | Ong Ai Lin
+HSS | Serene Chan Soo Leng
+I&ED| Chen Yireng
+I&ED| Lau-Lim Kee Mui, Alice
+IIT | Ang Dion Xavier
+IIT | Lip Jiah Wen
+IIT | Sun Fong Sin, Theresa
+IR  | Chua Peihui, Arica
+IR  | Roderick Chia Han Kwan
+IR  | Siti Nurdiana Bte Ibrahim
+SDAA| Lai Wee Ling
+SSCS| Angelina Ong
+SSCS| Elaine Phay
+SSCS| Goh-Ong Ai Moi, May
+SSCS| Tan Hwee Hoon
+TSA | April Wong
+TSA | Johnson Ng
+
+**6. If I am a student who has been actively involved in non-TP CCA, can my involvement be recognised by TP and will it be recorded under the SEAL System?**
+
+All non-TP related CCA involvements will be recorded under SEAL system provided they could be verified and the activities must not be religious or political in nature.
+
+*Points for CCA performed outside TP will be awarded for:*
+
+*	representing an external organisation in projects, performances, events and/or competitions approved by the Polytechnic.
+
+*Points will NOT be awarded when:*
+
+* participation is solely for social interaction;
+
+With regards to students’ involvement and participation in non-TP related CCAs, the following staff can help to endorse (Endorsement should be sought prior to the events):
+
+* Appointed staffs who are in charge of a particular project that involves students' assistance
+* Care Persons who are in charge of their respective class.
+* Appointed SEAL Coordinators in the respective schools/depts
+
+**Note:** SDAA will only endorse students' participation and involvement in TP CCA groups.
+
+**SEAL Points will not be applicable to Polytechnic Foundation Programme students.**
+
+
+#### Sports Facilities
+**1.	What are the opening hours of Sports Facilities?**
+
+**Due to COVID-19, the facilities listed below are not open for general recreation.** 
+
+*1.	Swimming Complex*  
+  
+  Blk 31A  
+  Mon to Fri: 9 am to 10 pm  
+  Sat, Sun & Public Holidays: 8.30 am to 6 pm  
+
+*2.	Gym*  
+  
+  Blk 29 Sports Complex  
+  Mon to Fri: 9 am to 9 pm  
+  Sat: 9 am to 5 pm  
+  Closed on Sun & Public Holidays
+
+*3.	Outdoor Sports Facilities (Basketball, Futsal and Tennis Courts)*  
+  
+  Blk 26A  
+  Mon to Fri: 9am to 9pm  
+  Sat: 9am to 5pm  
+  Closed on Sun & Public Holidays  
+
+*4.	Sports Hall 2 (Badminton Courts and Table Tennis Tables)*  
+   
+   Blk 26A  
+   Mon to Fri: 9am to 9pm  
+   Sat: 9am to 5pm  
+   Closed on Sun & Public Holidays  
+
+

@@ -31,7 +31,7 @@ permalink: /sports/dragon_boat/
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CBC418bHg5H/">
                 <image src="{{site.baseurl}}/images/CCA-DB_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">JHistory of Dragonboat</h6>
+                <h6 style="margin-top:0%">History of Dragonboat</h6>
                 </image>
             </a>
         </td>

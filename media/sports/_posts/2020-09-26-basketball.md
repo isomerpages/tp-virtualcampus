@@ -29,7 +29,7 @@ permalink: /sports/basketball/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="hhttps://www.instagram.com/p/CAKofKNngVr/">
+            <a href="https://www.instagram.com/p/CAKofKNngVr/">
                 <image src="{{site.baseurl}}/images/CCA-Basketball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Basketball">
                 <h6 style="margin-top:0%">TP Basketball Achievements</h6>
                 </image>

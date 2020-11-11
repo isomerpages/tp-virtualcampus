@@ -1,47 +1,99 @@
 ---
 layout: homepage
 title: TP Virtual Campus
-description: Brief site description here
+description: The TP Virtual Campus is home to student activities from all across TP!
 image: /images/isomer-logo.svg
 permalink: /
-#notification: Here's a notification bar you can use!
+notification: Welcome to the new TP Virtual Campus!
 sections:
     - hero:
         title: Virtually The Place To Be
-        subtitle: Life@TP
-        background: /images/download1.jpg
+        subtitle: Explore 8 exciting channels of student activities from all around TP!
+#        background: /images/download1.jpg
+        background: /images/tp-iconic-1-dark.png
         key_highlights:
-            - title: Student Portal
-              description: get to your student portal here
-              url: https://services.tp.edu.sg/
-            - title: TP Corporate Website
-              description: need anything from TP Website?
-              url: https://www.tp.edu.sg/
+#            - title: Student Portal
+#              description: Get to your student portal here
+#              url: https://services.tp.edu.sg/
+#            - title: TP Corporate Website
+#              description: Need anything from TP Website?
+#              url: https://www.tp.edu.sg/
+            - title: Be Involved
+              description: Want to be part of our 140+ CCAs in TP?
+              url: /be-involved/highlights/
+            - title: Be Entertained
+              description: Watch, listen and be entertained with content created by TP, free-of-charge!
+              url: /be-entertained/highlights/
+            - title: Be Awesome
+              description: Stay physically and mentally fit with tips and programmes curated by TP students!
+              url: /be-awesome/nutritional-tips/
+            - title: ...And More!
+              description: Check out the other channels to see what else is happening around campus!
+              url: /be-caring/caring-for-community/
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Champion for Blazing Beats
+          description: Champion for Blazing Beats 2017
+          url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/Salvo1.jpg  
           alt: Salvo1
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Champion for DrumzOut
+          description: Champion for DrumzOut 2011
+          url: hhttps://www.instagram.com/tpsalvo/
           image: /images/Salvo2.jpg
           alt: Salvo2
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Arts Group of The Year
+          description: Arts Group of The Year 2016
+          url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
+           
+    - infopic:
+        title: Launch of the TP Oei App
+        subtitle: New Student App
+        image: /images/Homepage-TPoei.png
+        description: A new app coming your way to augment your student experience!
+        button: Download here
+        url: https://play.google.com/store/apps/details?id=com.involvio.tpoei.src
+        alt: TPOEI
     
+    - infopic:
+        title: Launch of Stories & Co
+        subtitle: Student Publication
+        image: /images/Homepage-Storiesco.png
+        description: Stories & Co. is produced by the student journalists from the Diploma in Communications & Media Management from Temasek Polytechnic’s School of Business. The publication covers campus news, as well as youth-related trends and issues – for youths, by youths! Just click 🖱 on the link below to watch the first story!
+        button: Stories & Co
+        url: https://www.instagram.com/p/CGgz2FJFCBq/
+        alt: Stories
+
+    - infopic:
+        title: TP Active-SG Virtual Run
+        subtitle: Virtual Run
+        image: /images/BeAwesome-TPVirtualRun.jpeg
+        description: Miss our Annual TP-ActiveSG Cross Country? Fret not! This year we'll be taking our cross country virtual and it will be our very FIRST EDITION OF TP-ACTIVESG VIRTUAL RUN 2020, happening from 14 Nov to 27 Nov!🏅🏅
+        button: Find out more!
+        url: /be-awesome/virtual-workouts/
+        alt: Virtual Run
+   
     - infopic:
         title: TP National Day Virtual Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ndp2020.JPG
-        description: Celebrating Our Nation's 55th Birthday & TP's 30th Anniversary!
-        button: learn more
-        url: /be-entertained/event-highlights/
+        description: Re-live the celebration of our nation's 55th birthday & TP's 30th anniversary!
+        button: Watch Now!
+        url: /be-entertained/highlights/
         alt: TPNDC
+        
+    - infopic:
+        title: Want to be featured on this Virtual Campus?
+        subtitle: Reach out to us
+        image: /images/Contact-Shoutout.JPG
+        description: Do you have something exciting, share with us!
+        button: Contact us
+        url: /contact-us/
+        alt: Shoutout   
 
 #    - resources:
 #        title: Media
