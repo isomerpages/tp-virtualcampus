@@ -260,7 +260,7 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Social Sciences in Gerontology Interest Group</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Social Sciences in Gerontology</h4>
                  <a href="https://www.instagram.com/tpgem/?hl=en" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_gem.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="GEM Interest Group">
                     </image>
