@@ -7,12 +7,10 @@ permalink: /interest_groups/engineering_makers/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_engineering_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></image></td>
+            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_engmakers1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></image></td>
             <td>
                 <p>
-                    Engineering (ENG) Makers Club aims to promote Temasek Polytechnic’s School of Engineering to secondary school students, as well as parents through school outreach activities held within and outside TP. Over time, ENG Student Ambassadors develop good people, time management and communication skills through a learning journey in this interest group.<br>
-                    <br>
-                    Ambassadors take turns to support outreach activities to promote the School of Engineering to secondary school students.<br>
+                    Engineering (ENG) Makers Club aims to encourage creativity through various hands-on workshops using basic engineering techniques such as soldering and installing of LED. <br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:hopc@TP.EDU.SG">Mr Ho Peng Ching</a><br>
                     <br>
@@ -28,16 +26,16 @@ permalink: /interest_groups/engineering_makers/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_yaN6MnlfE/">
-                <image src="{{site.baseurl}}/images/CCA_eng_ambassador_helpyr1.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Ambassador">
-                <h6 style="margin-top:0%">Helping Year Ones</h6>
+            <a href="https://www.instagram.com/p/B78VXR2nz_Z/">
+                <image src="{{site.baseurl}}/images/CCA_engmakers2.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
+                <h6 style="margin-top:0%">Design & Mill Printed Circuit Boards</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CCtWv8Jn1VJ/">
-                <image src="{{site.baseurl}}/images/CCA_eng_ambassador_subcom.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Ambassador">
-                <h6 style="margin-top:0%">Sub-Committee Recruitment</h6>
+            <a href="https://www.instagram.com/p/B7D1pyZHjv8/">
+                <image src="{{site.baseurl}}/images/CCA_engmakers3.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
+                <h6 style="margin-top:0%">In-house Designed Go-Kart</h6>
                 </image>
             </a>
         </td>
