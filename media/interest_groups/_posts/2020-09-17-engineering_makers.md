@@ -10,7 +10,7 @@ permalink: /interest_groups/engineering_makers/
             <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_engmakers1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></image></td>
             <td>
                 <p>
-                    Engineering (ENG) Makers Club aims to encourage creativity through various hands-on workshops using basic engineering techniques such as soldering and installing of LED. <br>
+                    Engineering (ENG) Makers Club aims to develop creativity in students and student by conducting various hands-on workshops to design and/or make DIY products such as souvenirs. <br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:hopc@TP.EDU.SG">Mr Ho Peng Ching</a><br>
                     <br>
