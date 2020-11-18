@@ -5,6 +5,13 @@ permalink: /be-updated/event-highlights/
 third_nav_title: Be Updated
 ---
 
+### Launch of the TP Open House 2021 Microsite
+
+Catch a glimpse of our vibrant student life in TP and learn more about our exciting campus at the TP Open House 2021!
+
+[![]({{site.baseurl}}/images/BeUpdated-TPOH2021microsite.jpg)](https://www.tp.edu.sg/joinoursquad/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
+---
 ### Stay Updated With TP
 
 For latest happenings from Singapore's most vibrant Polytechnic in the east, follow our social media pages!
