@@ -53,7 +53,7 @@ sections:
     - infopic:
         title: Poly-ITE Staff Appreciation Day 2020
         subtitle: Featured Event
-        image: /images/BeUpdated-SAD3-3.jpg
+        image: /images/BeUpdated-SAD_3.jpg
         description: Catch all the happenings of the inaugural Poly-ITE Staff Appreciation Day right here!
         button: Watch Here
         url: /be-updated/event-highlights/
