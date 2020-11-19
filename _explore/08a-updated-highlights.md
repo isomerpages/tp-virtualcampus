@@ -23,16 +23,16 @@ A video conference was held to allow Second Minister for Education Dr Maliki Osm
 
 <table>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeUpdated-SAD_2.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction1"></image>       </td>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeUpdated-SAD_9.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction2"></image>     </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeUpdated-SAD_2.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Poly-ITE SAD"></image>       </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeUpdated-SAD_9.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Poly-ITE SAD"></image>     </td>
     </tr>
 </table>
 
 
 <table>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeUpdated-SAD_7.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction1"></image>       </td>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeUpdated-SAD_1.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction2"></image>     </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeUpdated-SAD_7.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Poly-ITE SAD"></image>       </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeUpdated-SAD_1.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="Poly-ITE SAD"></image>     </td>
     </tr>
 </table>
 
