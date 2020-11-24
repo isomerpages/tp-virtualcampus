@@ -63,9 +63,9 @@ sections:
         title: Launch of the TP Oei App
         subtitle: New Student App
         image: /images/Homepage-TPoei.png
-        description: A new app coming your way to augment your student experience!
+        description: A new app to augment your student experience!
         button: Download here
-        url: https://play.google.com/store/apps/details?id=com.involvio.tpoei.src
+        url: https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#tpoei
         alt: TPOEI
     
     - infopic:
