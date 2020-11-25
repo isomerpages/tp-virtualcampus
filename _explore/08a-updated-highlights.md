@@ -7,7 +7,7 @@ third_nav_title: Be Updated
 
 ### Stay Updated With TP
 
-For latest happenings from Singapore's most vibrant Polytechnic in the east, follow our social media pages!
+Tips, trends and awesome campus life happenings, right here on our social channels! Check us out!
 
 <table>
     <tr>
