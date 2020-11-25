@@ -9,9 +9,9 @@ third_nav_title: Be Updated
 
 For latest happenings from Singapore's most vibrant Polytechnic in the east, follow our social media pages!
 
-[![]({{site.baseurl}}/images/BeUpdated-FBicon.png)](https://www.facebook.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}<br>
-[![]({{site.baseurl}}/images/BeUpdated-IGicon.png)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}<br>
-[![]({{site.baseurl}}/images/BeUpdated-Twittericon.png)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}<br>
+[![]({{site.baseurl}}/images/BeUpdated-FBicon.png)](https://www.facebook.com/temasekpoly/){:style="max-width:33%;margin-left:auto;margin-right:auto;"}{:target="_blank"}<br>
+[![]({{site.baseurl}}/images/BeUpdated-IGicon.png)](https://www.instagram.com/temasekpoly/){:style="max-width:33%;margin-left:auto;margin-right:auto;"}{:target="_blank"}<br>
+[![]({{site.baseurl}}/images/BeUpdated-Twittericon.png)](https://www.instagram.com/temasekpoly/){:style="max-width:33%;margin-left:auto;margin-right:auto;"}{:target="_blank"}<br>
 
 [![]({{site.baseurl}}/images/BeUpdated-ig_cover.jpg)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
