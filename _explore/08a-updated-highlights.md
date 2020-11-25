@@ -5,6 +5,17 @@ permalink: /be-updated/event-highlights/
 third_nav_title: Be Updated
 ---
 
+### Stay Updated With TP
+
+For latest happenings from Singapore's most vibrant Polytechnic in the east, follow our social media pages!
+
+[![]({{site.baseurl}}/images/BeUpdated-FBicon.png)](https://www.facebook.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+[![]({{site.baseurl}}/images/BeUpdated-IGicon.png)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+[![]({{site.baseurl}}/images/BeUpdated-Twittericon.png)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
+[![]({{site.baseurl}}/images/BeUpdated-ig_cover.jpg)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
+---
 ### Poly-ITE Staff Appreciation Day 2020
 
 In case you missed it, the inaugural Poly-ITE Staff Appreciation Day was organized to honour the staff across the Polytechnics and ITE. 
@@ -46,12 +57,4 @@ A video conference was held to allow Second Minister for Education Dr Maliki Osm
 Get in touch with us through our [Virtual Course Counselling](https://www.tp.edu.sg/joinoursquad/virtual-course-counselling.html){:target="_blank"} to get answers to your burning questions. 
 
 ---
-### Stay Updated With TP
 
-For latest happenings from Singapore's most vibrant Polytechnic in the east, follow our social media pages!
-
-[Facebook](https://www.facebook.com/temasekpoly/){:target="_blank"}<br>
-[Instagram](https://www.instagram.com/temasekpoly/){:target="_blank"}<br>
-[Twitter](https://twitter.com/temasekpoly?lang=en){:target="_blank"}<br>
-
-[![]({{site.baseurl}}/images/BeUpdated-ig_cover.jpg)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
