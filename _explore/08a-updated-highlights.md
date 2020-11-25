@@ -32,7 +32,6 @@ For latest happenings from Singapore's most vibrant Polytechnic in the east, fol
     </tr>
 </table>
 
-
 [![]({{site.baseurl}}/images/BeUpdated-ig_cover.jpg)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
