@@ -20,7 +20,6 @@ For latest happenings from Singapore's most vibrant Polytechnic in the east, fol
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/temasekpoly/">
                 <image src="{{site.baseurl}}/images/BeUpdated-IGicon.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IG">
-                <h6 style="margin-top:0%">Online training sessions</h6>
                 </image>
             </a>
         </td>
