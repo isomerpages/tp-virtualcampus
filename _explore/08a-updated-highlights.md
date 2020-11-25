@@ -32,7 +32,8 @@ For latest happenings from Singapore's most vibrant Polytechnic in the east, fol
     </tr>
 </table>
 
-[![]({{site.baseurl}}/images/BeUpdated-ig_cover.jpg)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
+[![]({{site.baseurl}}/images/BeUpdated-IG_cover.png)](https://www.instagram.com/temasekpoly/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
 ### Poly-ITE Staff Appreciation Day 2020
