@@ -10,7 +10,7 @@ sections:
         title: Virtually The Place To Be
         subtitle: Explore 8 exciting channels of student activities from all around TP!
 #        background: /images/download1.jpg
-        background: /images/VC_eBanner.png
+        background: /images/VC_eBanner.jpg
         key_highlights:
 #            - title: Student Portal
 #              description: Get to your student portal here
