@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Caring for Environment
-permalink: /be-caring/project-helping-hands/
+permalink: /be-caring/environment/
 third_nav_title: Be Caring
 
 ---
