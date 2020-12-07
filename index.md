@@ -50,7 +50,7 @@ sections:
           image: /images/Salvo3.jpg
           alt: Salvo3
         
-    - infopic:
+        - infopic:
         title: Poly-ITE Staff Appreciation Day 2020
         subtitle: Featured Event
         image: /images/BeUpdated-SAD_3.jpg
