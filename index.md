@@ -58,6 +58,15 @@ sections:
         button: Watch Here
         url: /be-updated/event-highlights/
         alt: SAD
+  
+       - infopic:
+        title: Temasek Student Excellence Awards 2020
+        subtitle: Featured Event
+        image: /images/Featured-TSEA2020_1.png
+        description: Be inspired by the receipients' achievements!
+        button: TSEA
+        url: https://www.tp.edu.sg/tsea2020/
+        alt: TSEA2020
         
     - infopic:
         title: Launch of the TP Oei App
