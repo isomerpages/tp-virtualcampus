@@ -5,6 +5,17 @@ permalink: /be-caring/environment/
 third_nav_title: Be Caring
 
 ---
+
+### Pass It On Channel ###
+Pass It On Channel is a sharing channel on the TP Oei app that makes giving and receiving of pre-loved items among TP students easy and free. Let us all reduce waste and save the environment. 
+
+**Check out the [TP Oei](https://sg.campuskit.io/discussions/campus_channels/72){:target="_blank"} app and pass on items that you don't need!**
+
+![Pass It On]({{site.baseurl}}/images/BeCaring-Env-PassItOn11.png)
+
+
+---
+
 ### ECO Fest Campaign ###
 The inaugural ECO Fest Campaign was held with a series of interesting activities to encourage TP Community to work towards making TP a #plasticfree campus. A photo contest on 'My Eco-Friendly Life’ was held with enthusiasm from both students and staff. 
 
@@ -13,14 +24,7 @@ The inaugural ECO Fest Campaign was held with a series of interesting activities
 ![ECO Fest Campaign]({{site.baseurl}}/images/EcoFest4.JPG)
 
 ---
-### Pass It On Channel ###
-Pass It On Channel is a sharing channel on the TP Oei app that makes giving and receiving of pre-loved items among TP students easy and free. Let us all reduce waste and save the environment. 
 
-**Check out the [TP Oei](https://sg.campuskit.io/discussions/campus_channels/72){:target="_blank"} app and pass on items that you don't need!**
-
-![Pass It On]({{site.baseurl}}/images/BeCaring-Env-PassItOn1.png)
-
----
 ![TP Green Interest Group]({{site.baseurl}}/images/BeCaring-green_interest_grp1.jpg)
 
 Being a champion in caring for the environment and sustainability, TP Green Interest Group organized several environmental events such as beach clean-ups and hiking trips. In 2019, the group was invited to join the R.I.S.E Champion Network together with many organisations such as the National Environment Agency and National Parks Boards. 
