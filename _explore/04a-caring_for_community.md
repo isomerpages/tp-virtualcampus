@@ -5,6 +5,19 @@ permalink: /be-caring/caring-for-community/
 third_nav_title: Be Caring
 
 ---
+
+### Caring SG Commuters Campaign ###
+
+The Caring SG Commuters Campaign has launched a series of inclusivity videos that showcased true life stories of vulnerable commuter receiving assistance from other commuters, and how every act of care contributes to building a caring commuting culture. Nicole, a TP student studying Law and Management was featured in this year’s video series for the campaign. In conjunction with this year’s Caring SG Commuters Campaign, an online webinar will be held on 15 December (Tuesday) from 7pm – 830pm, titled, “Be That Special Someone Today”. This webinar is part of an online series to raise awareness and understanding of the needs of vulnerable commuters on public transport, and how to offer assistance. It involves an open discussion on stories of caring commuters on public transport and engages the audience to inspire acts of care and graciousness from commuters. 
+
+**Register [Here](https://go.gov.sg/ccscwebinar){:target="_blank"}**
+
+**Find Out [More](https://www.caringcommuters.gov.sg/video){:target="_blank"}** 
+
+![Caring SG Commuters]({{site.baseurl}}/images/BeCaring-CaringSGCommuters.PNG)
+
+---
+
 ### 3M Moves @ TP ###
 
 In support of South East Community Development Council, [TP CSC](/p10/csc/) has organized "3M Moves @ TP which aimed to donate 3M household products to needy families at South East District, and at the same time encourage participants to exercise for a good cause and prepare for TP-ActiveSG Virtual Run. For every 20 minutes of exercise clocked by each participant, 3M Singapore will donate one product to the beneficiaries.
