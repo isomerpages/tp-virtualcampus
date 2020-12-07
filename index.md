@@ -50,7 +50,7 @@ sections:
           image: /images/Salvo3.jpg
           alt: Salvo3
         
-        - infopic:
+    - infopic:
         title: Poly-ITE Staff Appreciation Day 2020
         subtitle: Featured Event
         image: /images/BeUpdated-SAD_3.jpg
@@ -59,7 +59,7 @@ sections:
         url: /be-updated/event-highlights/
         alt: SAD
   
-       - infopic:
+    - infopic:
         title: Temasek Student Excellence Awards 2020
         subtitle: Featured Event
         image: /images/Featured-TSEA2020_1.png
