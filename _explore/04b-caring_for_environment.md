@@ -11,7 +11,7 @@ Pass It On Channel is a sharing channel on the TP Oei app that makes giving and 
 
 **Check out the [TP Oei](https://sg.campuskit.io/discussions/campus_channels/72){:target="_blank"} app and pass on items that you don't need!**
 
-![Pass It On]({{site.baseurl}}/images/BeCaring-Env-PassItOn11.png)
+![Pass It On]({{site.baseurl}}/images/BeCaring-Env-PassItOn11.jpg)
 
 
 ---
