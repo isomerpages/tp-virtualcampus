@@ -13,7 +13,9 @@ Pass It On Channel is a sharing channel on the TP Oei app that makes giving and 
 
 <table>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeCaring-Env-PassItOn11.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction1"></image>       
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeCaring-Env-PassItOn11.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Care for Environment"></image>       
+        </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeCaring-Env-PassItOn2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Care for Environment2"></image>       
         </td>
     </tr>
 </table>
