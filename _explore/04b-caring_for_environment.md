@@ -9,7 +9,7 @@ third_nav_title: Be Caring
 ### Pass It On Channel ###
 Pass It On Channel is a sharing channel on the TP Oei app that makes giving and receiving of pre-loved items among TP students easy and free. Let us all reduce waste and save the environment. 
 
-**Check out the [TP Oei](https://sg.campuskit.io/discussions/campus_channels/72){:target="_blank"} app and pass on items that you don't need!**
+**Check out the [TP Oei](https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#tpoei){:target="_blank"} app and pass on items that you don't need!**
 
 <table>
     <tr>
