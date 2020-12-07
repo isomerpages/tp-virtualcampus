@@ -49,15 +49,6 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
- 
-     - infopic:
-        title: Temasek Student Excellence Awards 2020
-        subtitle: Featured Event
-        image: /images/Featured-TSEA2020_1.png
-        description: Be inspired by the receipients' achievements!
-        button: TSEA
-        url: https://www.tp.edu.sg/tsea2020/
-        alt: TSEA2020
         
     - infopic:
         title: Poly-ITE Staff Appreciation Day 2020
