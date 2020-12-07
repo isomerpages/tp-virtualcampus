@@ -49,16 +49,7 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
-        
-    - infopic:
-        title: Poly-ITE Staff Appreciation Day 2020
-        subtitle: Featured Event
-        image: /images/BeUpdated-SAD_3.jpg
-        description: Find out what transpired at the inaugural Poly-ITE Staff Appreciation Day right here!
-        button: Watch Here
-        url: /be-updated/event-highlights/
-        alt: SAD
-  
+
     - infopic:
         title: Temasek Student Excellence Awards 2020
         subtitle: Featured Event
@@ -67,6 +58,15 @@ sections:
         button: TSEA
         url: https://www.tp.edu.sg/tsea2020/
         alt: TSEA2020
+
+    - infopic:
+        title: Poly-ITE Staff Appreciation Day 2020
+        subtitle: Featured Event
+        image: /images/BeUpdated-SAD_3.jpg
+        description: Find out what transpired at the inaugural Poly-ITE Staff Appreciation Day right here!
+        button: Watch Here
+        url: /be-updated/event-highlights/
+        alt: SAD
         
     - infopic:
         title: Launch of the TP Oei App
