@@ -10,7 +10,7 @@ sections:
         title: Virtually The Place To Be
         subtitle: Explore 8 exciting channels of student activities from all around TP!
 #        background: /images/download1.jpg
-        background: /images/tp-iconic-1-dark.png
+        background: /images/VC_eBanner.jpg
         key_highlights:
 #            - title: Student Portal
 #              description: Get to your student portal here
@@ -49,14 +49,32 @@ sections:
           url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
-           
+
+    - infopic:
+        title: Temasek Student Excellence Awards 2020
+        subtitle: Featured Event
+        image: /images/Featured-TSEA2020_1.png
+        description: Be inspired by the receipients' achievements!
+        button: TSEA
+        url: https://www.tp.edu.sg/tsea2020/
+        alt: TSEA2020
+
+    - infopic:
+        title: Poly-ITE Staff Appreciation Day 2020
+        subtitle: Featured Event
+        image: /images/BeUpdated-SAD_3.jpg
+        description: Find out what transpired at the inaugural Poly-ITE Staff Appreciation Day right here!
+        button: Watch Here
+        url: /be-updated/event-highlights/
+        alt: SAD
+        
     - infopic:
         title: Launch of the TP Oei App
         subtitle: New Student App
         image: /images/Homepage-TPoei.png
-        description: A new app coming your way to augment your student experience!
+        description: A new app to augment your student experience!
         button: Download here
-        url: https://play.google.com/store/apps/details?id=com.involvio.tpoei.src
+        url: https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#tpoei
         alt: TPOEI
     
     - infopic:
@@ -68,15 +86,6 @@ sections:
         url: https://www.instagram.com/p/CGgz2FJFCBq/
         alt: Stories
 
-    - infopic:
-        title: TP Active-SG Virtual Run
-        subtitle: Virtual Run
-        image: /images/BeAwesome-TPVirtualRun.jpeg
-        description: Miss our Annual TP-ActiveSG Cross Country? Fret not! This year we'll be taking our cross country virtual and it will be our very FIRST EDITION OF TP-ACTIVESG VIRTUAL RUN 2020, happening from 14 Nov to 27 Nov!🏅🏅
-        button: Find out more!
-        url: /be-awesome/virtual-workouts/
-        alt: Virtual Run
-   
     - infopic:
         title: TP National Day Virtual Concert
         subtitle: Featured Event

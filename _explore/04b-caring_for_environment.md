@@ -1,10 +1,27 @@
 ---
 layout: page
 title: Caring for Environment
-permalink: /be-caring/project-helping-hands/
+permalink: /be-caring/environment/
 third_nav_title: Be Caring
 
 ---
+
+### Pass It On Channel ###
+Pass It On Channel is a sharing channel on the TP Oei app that makes giving and receiving of pre-loved items among TP students easy and free. Let us all reduce waste and save the environment. 
+
+**Check out the [TP Oei](https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#tpoei){:target="_blank"} app and pass on items that you don't need!**
+
+<table>
+    <tr>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeCaring-Env-PassItOn11.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Care for Environment"></image>       
+        </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeCaring-Env-PassItOn2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Care for Environment2"></image>       
+        </td>
+    </tr>
+</table>
+
+---
+
 ### ECO Fest Campaign ###
 The inaugural ECO Fest Campaign was held with a series of interesting activities to encourage TP Community to work towards making TP a #plasticfree campus. A photo contest on 'My Eco-Friendly Life’ was held with enthusiasm from both students and staff. 
 
