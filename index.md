@@ -33,22 +33,31 @@ sections:
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Champion for Blazing Beats 2017
+          description: Champion for Blazing Beats
           url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/Salvo1.jpg  
           alt: Salvo1
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Champion for DrumzOut 2011
+          description: Champion for DrumzOut
           url: hhttps://www.instagram.com/tpsalvo/
           image: /images/Salvo2.jpg
           alt: Salvo2
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Arts Group of The Year 2016
+          description: Arts Group of The Year
           url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
+
+    - infopic:
+        title: TP Virtual Open House 2021
+        subtitle: Featured Event
+        image: /images/Featured-OH2021.png
+        description: Check out the wide range of activities from academic showcases to CCA sharing lined up just for you. 
+        button: TPVOH
+        url: https://www.tp.edu.sg/joinoursquad/virtual-open-house.html
+        alt: TPVOH2021
 
     - infopic:
         title: Temasek Student Excellence Awards 2020
