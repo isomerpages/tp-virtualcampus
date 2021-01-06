@@ -33,7 +33,7 @@ sections:
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Choreographed Synchonised Movements
+          description: Vibrant and Creative
           url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/Salvo1.jpg  
           alt: Salvo1
@@ -45,7 +45,7 @@ sections:
           alt: Salvo2
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Vibrant and Creative
+          description: Choreographed Synchonised Movements
           url: https://www.instagram.com/tpsalvo/
           image: /images/Salvo3.jpg
           alt: Salvo3
