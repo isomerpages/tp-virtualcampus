@@ -6,7 +6,7 @@ third_nav_title: Be Entertained
 
 ---
 ## JK & Mike @ Sports & Arts Centre
-Check out the various [Arts CCAs](/performing_arts) and super cool studios at the Sports & Arts Centre with JK & Mike. 
+Check out the various [Arts CCAs](/be-involved/performing-arts/) and super cool studios at the Sports & Arts Centre with JK & Mike. 
 
 [![SACvideo]({{site.baseurl}}/images/BeEntertained-SACvideo.PNG)](https://www.youtube.com/watch?v=vtdXDV8jcSg&feature=emb_logo){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
