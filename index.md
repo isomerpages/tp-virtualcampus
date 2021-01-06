@@ -33,13 +33,13 @@ sections:
     - carousel:
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Vibrant and Creative
+          description: Vibrant & Creative, Disciplined & Impactful
           url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
           image: /images/Salvo1.jpg  
           alt: Salvo1
         - title: Salvo Drums
           subtitle: Featured CCA
-          description: Disciplined and Impactful
+          description: Award Winning Drumming Champion
           url: hhttps://www.instagram.com/tpsalvo/
           image: /images/Salvo2.jpg
           alt: Salvo2
