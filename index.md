@@ -55,7 +55,7 @@ sections:
         subtitle: Featured Event
         image: /images/Featured-OH2021.png
         description: Check out the wide range of activities from academic showcases to CCA sharing lined up just for you. 
-        button: TPVOH
+        button: TP Virtual Open House
         url: https://www.tp.edu.sg/joinoursquad/virtual-open-house.html
         alt: TPVOH2021
 
