@@ -14,6 +14,7 @@ Watch these videos on our Sports Champions and be Inspired!
 
 **[Take the Podium: The Pursuit of Excellence by National Finswimmer](https://www.youtube.com/watch?v=KR5fxA9nfJg){:target="_blank"}**
 
+**[Home of Champions - sharing by Champion Team and Alumni](https://www.youtube.com/watch?v=nW7-AL2YaCo){:target="_blank"}**
 
 <div>
     <table>
