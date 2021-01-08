@@ -10,7 +10,7 @@ third_nav_title: Be Involved
 
 **Meet some of our finest arts youth leaders from the 14 Arts CCAs at the "Temasek Arts Centre Chatshow"!**
 
-[![TAC Chatshow](/images/BeInvolved-TACChatShow1.png)](https://www.youtube.com/watch?v=H6hoTX7b-5E&feature=youtu.be){:target="_blank"}
+[![TAC Chatshow]({{site.baseurl}}/images/BeInvolved-TACChatShow1.png)](https://www.youtube.com/watch?v=H6hoTX7b-5E&feature=youtu.be){:target="_blank"}
 
 ---
 
