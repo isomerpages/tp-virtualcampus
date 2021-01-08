@@ -5,6 +5,9 @@ permalink: /be-involved/temasek-lead-programmes/
 third_nav_title: Be Involved
 
 ---
+[![LEAD Video]({{site.baseurl}}/images/BeInvolved-LEADOHvideo.PNG)](https://www.youtube.com/watch?v=ZBHOirv1ixc&feature=youtu.be){:target="_blank"}
+
+
 ### LEAD Core Programmes ###
 
 <h4>LEAD Induction</h4>
