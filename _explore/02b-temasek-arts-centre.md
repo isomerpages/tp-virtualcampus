@@ -5,6 +5,12 @@ permalink: /be-entertained/temasek-arts-centre/
 third_nav_title: Be Entertained
 
 ---
+### Take The Stage! - Watch these Arts CCA Online Concerts ###
+Come witness the vibrancy and energy of 14 of the finest <a href="https://tp-vc-prod.netlify.app/be-involved/performing-arts/">Performing Arts Groups</a> in TP. 
+
+[![Arts CCA Concerts]({{site.baseurl}}/images/BeEntertained-TACOHvideo.PNG)](https://www.youtube.com/watch?v=PtGvShau2jI&feature=youtu.be){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
+---
 
 ### Channel Takeover
 See what goes behind the scenes of TP's <a href="https://tp-vc-prod.netlify.app/be-involved/performing-arts/">Performing Arts Groups</a>!
