@@ -6,7 +6,11 @@ third_nav_title: Be Involved
 
 ---
 
-Over many years of discipline, diligence and doggedness, many of Temasek Polytechnic’s high performing sports teams have achieved sustained results at the Polytechnic-ITE (POL-ITE) and Institute-Varsity-Polytechnic (IVP) Games. They have brought much honour and pride to TP. In addition, TP has a wide range of sports facilities that serve as venues for sports competitions and friendlies. The close proximity to the scenic and idyllic Bedok Reservoir is also an ideal backyard with ample green and blue spaces for our students to be engaged in trail running or water sports activities. Sports in TP will surely provide plenty of excitement and spectacle for athletes, fans and supporters.
+Over many years of discipline, diligence and doggedness, many of Temasek Polytechnic’s high performing sports teams have achieved sustained results at the Polytechnic-ITE (POL-ITE) and Institute-Varsity-Polytechnic (IVP) Games. They have brought much honour and pride to TP. In addition, TP has a wide range of sports facilities that serve as venues for sports competitions and friendlies. The close proximity to the scenic and idyllic Bedok Reservoir is also an ideal backyard with ample green and blue spaces for our students to be engaged in trail running or water sports activities. Sports in TP will surely provide plenty of excitement and spectacle for athletes, fans and supporters. 
+
+Watch these videos on our Sports Champions and be Inspired! 
+
+[!Balancing School and Sports]((https://www.youtube.com/watch?v=6TO_3I6w7WU){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 <div>
     <table>
