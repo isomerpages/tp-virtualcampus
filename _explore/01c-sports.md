@@ -10,7 +10,10 @@ Over many years of discipline, diligence and doggedness, many of Temasek Polytec
 
 Watch these videos on our Sports Champions and be Inspired! 
 
-![Balancing School and Sports](https://www.youtube.com/watch?v=6TO_3I6w7WU){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+![Balancing School and Sports - sharing by National Athletes](https://www.youtube.com/watch?v=6TO_3I6w7WU){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
+
+
 
 <div>
     <table>
