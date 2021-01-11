@@ -5,6 +5,11 @@ permalink: /be-involved/temasek-lead-programmes/
 third_nav_title: Be Involved
 
 ---
+### Temasek LEADership Programme - Developing You to Become Future Leaders ###
+
+[![LEAD Video](/images/BeInvolved-LEADOHvideo.PNG)](https://www.youtube.com/watch?v=ZBHOirv1ixc&feature=youtu.be){:target="_blank"}
+
+
 ### LEAD Core Programmes ###
 
 <h4>LEAD Induction</h4>
@@ -68,7 +73,7 @@ Students were engaged in facilitated small group discussions, as well as dialogu
 </table>
 
 ---
-### About Temasek LEADership Programme ###
+### More About Temasek LEADership Programme ###
 
 <div class="bp-youtube">
     <iframe width="560" height="315" style="display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/XKqE11UnsSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

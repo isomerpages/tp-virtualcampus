@@ -8,6 +8,12 @@ third_nav_title: Be Involved
 
 Temasek Polytechnic offers our students exciting opportunities for leadership development through our P10 Clubs (Students' Union and 9 Constituent Clubs), CCAs and Interest Groups. Serve, lead and make a positive impact to the student community, and in the process stretch and hone your leadership skills and develop competencies in the non-academic domains, as you create a fun, caring and vibrant campus that you will be proud of.
 
+**Find out more from TP Students' Union - Managed by Students for Students**
+
+[![TPSU Sharing]({{site.baseurl}}/images/BeInvolved-TPSUSharing.png)](https://www.youtube.com/watch?v=nV-4sHZ6l_c){:target="_blank"}
+
+---
+
 
 ## Our P10 Clubs
 

@@ -5,6 +5,12 @@ permalink: /be-entertained/highlights/
 third_nav_title: Be Entertained
 
 ---
+## JK & Mike @ Sports & Arts Centre
+Check out the various [Arts CCAs](/be-involved/performing-arts/) and super cool studios at the Sports & Arts Centre with JK & Mike. 
+
+[![SACvideo]({{site.baseurl}}/images/BeEntertained-SACvideo.PNG)](https://www.youtube.com/watch?v=vtdXDV8jcSg&feature=emb_logo){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
+---
 ## **SG55 x TP30 National Day Virtual Concert**
 Relive the moments of our inaugural TP National Day Virtual Concert with your family, friend and loved ones! A night full of nostalgia, songs, dances, live interviews and a five-part short film by our TP FAM from the <a href="https://www.youtube.com/channel/UCsBvYR8QMBGml4X08t4kVQA" target="_blank">Temasek Arts Centre</a> await you! 
 
