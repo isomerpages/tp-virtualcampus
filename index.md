@@ -51,6 +51,15 @@ sections:
           alt: Salvo3
 
     - infopic:
+        title: Electric Dreams Online Concert
+        subtitle: Featured Event
+        image: /images/BeEntertained-ElectricDreams1.jpg
+        description: Grab your tix now for an excitement-filled evening of the best music and dance that is sure to raise your spirits and donate to CCN at the same time!
+        button: Electric Dreams
+        url: https://electricdreams.peatix.com/view
+        alt: Electric Dreams
+
+    - infopic:
         title: TP Virtual Open House 2021
         subtitle: Featured Event
         image: /images/Featured-OH2021.png
