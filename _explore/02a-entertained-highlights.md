@@ -10,7 +10,7 @@ third_nav_title: Be Entertained
 
 Temasek Polytechnic is proud to present the much-awaited online concert, Electric Dreams, with eleven different arts groups coming together to present an excitement-filled evening of the best music and dance that is sure to raise your spirits! 
 
-Additionally, through this online celebration of youthful spirit, we will be raising funds for Temasek Polytechnic's Campus Care Network (CCN) as we party and showcase our amazing talents on your screens! Launched in 1991, TP CCN aims to create a family-like environment, and maintain a caring culture, through various initiatives like fund-raising for students in need.
+Additionally, through this online celebration of youthful spirit, we will be raising funds for Temasek Polytechnic's Campus Care Network (CCN) as we party and showcase our amazing talents on your screens! Launched in 1991, TP [CCN](be-caring/campus-care-network/) aims to create a family-like environment, and maintain a caring culture, through various initiatives like fund-raising for students in need.
 
 Get your tickets now in the link below, at only $2 for a good cause today! 
 
