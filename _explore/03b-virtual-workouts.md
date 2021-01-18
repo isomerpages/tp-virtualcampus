@@ -8,15 +8,9 @@ third_nav_title: Be Awesome
 ### Inaugural TP-ActiveSG Virtual Run
 The first edition of TP-ActiveSG Virtual Run is here! 
 
-The event is free to join and open to all. So, gather your friends & family members to sign up by 11 November 2020, complete your respective runs, and redeem the attractive finisher tee and medal! 
+The first edition of the TP-ActiveSG Virtual Run was held in Nov 2020 and more than 2,000 TP staff, students, alumni and even public participated in both recreational and advanced categories. Each runner was given exclusive finisher t-shirt, towel and medal.  
 
-The number of slots for the recreational and advanced categories are limited and the registration is based on first-come first-serve. Hurry and sign up for the virtual run now! 
-
-For the full event details, **visit the Temasek Polytechnic Students' Union [website](https://www.tpstudentsunion.com/learn-more){:target="_blank"}** to find out more. 
-
-We wish you all the best in your running adventure!
-
-(Update: We received 2,105 signups after the closure of registration. Thank you for your active participation!)
+**Visit the Temasek Polytechnic Students' Union [website](https://www.tpstudentsunion.com/learn-more){:target="_blank"}** to find out more. 
 
 [![TP-ActiveSG]({{site.baseurl}}/images/BeAwesome-TPVirtualRun.jpeg)](https://www.tpstudentsunion.com/tp-virtual-run){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
