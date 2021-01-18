@@ -4,6 +4,16 @@ title: Career Navigator
 permalink: /be-connected/career-navigator/
 third_nav_title: Be Connected
 
+---
+### Realise Your Entrepreneurship Dreams in the F&B Industry ###
+Turn your hawker dreams into reality and hone your hawkerpreneurship skills through classroom-based training, apprenticeship opportunities and mentorship offered by experienced hawkers! This 12-month programme by the National Environment Agency, SkillsFuture Singapore and Temasek Polytechnic to launch our new Work-Study Post-Diploma (Certificate in Hawkerpreneurship), is open to all recent graduates from the polytechnics and the Institute of Technical Education.
+
+Application closes on **7 February 2021**. 
+
+**Find out [more](https://www.instagram.com/p/CKDsKjlnCSO/) today!** 
+
+![NEA F&B](/images/BeConnected_FNB.png)
+
 
 ---
 ### Live Webinar: Understanding SGUnited Skills Programme ### 
