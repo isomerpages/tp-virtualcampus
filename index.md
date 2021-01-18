@@ -54,9 +54,9 @@ sections:
         title: Electric Dreams Online Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ElectricDreams1.jpg
-        description: Grab your tix now for an excitement-filled evening of the best music and dance that is sure to raise your spirits and donate to CCN at the same time!
+        description: Catch the excitement-filled online concert of the best music and dance that is sure to raise your spirits!
         button: Electric Dreams
-        url: https://electricdreams.peatix.com/view
+        url: https://www.youtube.com/watch?v=afTmefWjtiY&feature=youtu.be
         alt: Electric Dreams
 
     - infopic:
