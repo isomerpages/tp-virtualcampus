@@ -8,9 +8,8 @@ third_nav_title: Be Caring
 
 ### Caring SG Commuters Campaign ###
 
-The Caring SG Commuters Campaign has launched a series of inclusivity videos that showcased true life stories of vulnerable commuter receiving assistance from other commuters, and how every act of care contributes to building a caring commuting culture. Nicole, a TP student studying Law and Management was featured in this year’s video series for the campaign. In conjunction with this year’s Caring SG Commuters Campaign, an online webinar will be held on 15 December (Tuesday) from 7pm – 830pm, titled, “Be That Special Someone Today”. This webinar is part of an online series to raise awareness and understanding of the needs of vulnerable commuters on public transport, and how to offer assistance. It involves an open discussion on stories of caring commuters on public transport and engages the audience to inspire acts of care and graciousness from commuters. 
+The Caring SG Commuters Campaign has launched a series of inclusivity videos that showcased true life stories of vulnerable commuter receiving assistance from other commuters, and how every act of care contributes to building a caring commuting culture. Nicole, a TP student studying Law and Management was featured in this year’s video series for the campaign. In conjunction with this year’s Caring SG Commuters Campaign, an online webinar was held on 15 December (Tuesday), titled, “Be That Special Someone Today”. This webinar was part of an online series to raise awareness and understanding of the needs of vulnerable commuters on public transport, and how to offer assistance. It involved an open discussion on stories of caring commuters on public transport and engages the audience to inspire acts of care and graciousness from commuters. 
 
-**Register [Here](https://go.gov.sg/ccscwebinar){:target="_blank"}**  
 **Find Out [More](https://www.caringcommuters.gov.sg/video){:target="_blank"}** 
 
 ![Caring SG Commuters]({{site.baseurl}}/images/BeCaring-CaringSGCommuters.PNG)
@@ -19,11 +18,11 @@ The Caring SG Commuters Campaign has launched a series of inclusivity videos tha
 
 ### Virtual Walk For Rice @ TP ###
 
-[TP CSC](/p10/csc/) is supporting South East CDC to bring the virtual "Walk for Rice @ TP" to YOU. This campaign encourages our TP Community to give back during this season of giving by walking for a good cause. For every 300m achieved, South East CDC's NTUC Fairprice will donate 1 bowl of white rice, 1 bowl of brown rice, and 1 bowl of instant oatmeal to needy families in the South East District.
+[TP CSC](/p10/csc/) supported South East CDC with a virtual "Walk for Rice @ TP" in the month of Dec 2020. This campaign encourages our TP Community to give back during the season of giving by walking for a good cause. For every 300m achieved, South East CDC's NTUC Fairprice donated 1 bowl of white rice, 1 bowl of brown rice, and 1 bowl of instant oatmeal to needy families in the South East District.
 
-Simply track your distance covered (minimum 300m) and time taken, route map and date using the strava app. Send a screenshot with these details together with your particulars and submit to this [link](https://docs.google.com/forms/d/e/1FAIpQLScF0QzTiutXdL1Wb7NFB22CLa6OgNfkxYb3OtIpWB46-3KLSQ/viewform){:target="_blank"}
+In total, TP Community collectively clocked in 2,647,71km which translated to 8,825 bowls of white rice, 8,825 bowls of brown rice and 8,825 bowls of instant oatmeal. Thank you to all who have contributed to this good cause. 
 
-**Find Out [More](https://www.instagram.com/p/CIAwnG3HZId/){:target="_blank"}** 
+**Find Out [More](https://www.instagram.com/p/CKJ6ax4H6ql/){:target="_blank"}** 
 
 ![Walk For Rice]({{site.baseurl}}/images/BeCaring-WFR-Banner.jpg)
 
@@ -31,7 +30,7 @@ Simply track your distance covered (minimum 300m) and time taken, route map and 
 
 ### 3M Moves @ TP ###
 
-In support of South East Community Development Council, [TP CSC](/p10/csc/) organized "3M Moves @ TP which aimed to donate 3M household products to needy families at South East District, and at the same time encourage participants to exercise for a good cause and prepare for TP-ActiveSG Virtual Run. For every 20 minutes of exercise clocked by each participant, 3M Singapore will donate one product to the beneficiaries.
+In support of South East Community Development Council, [TP CSC](/p10/csc/) organized "3M Moves @ TP which aimed to donate 3M household products to needy families at South East District, and at the same time encourage participants to exercise for a good cause and prepare for TP-ActiveSG Virtual Run. For every 20 minutes of exercise clocked by each participant, 3M Singapore donated one product to the beneficiaries. TP Community collectively clocked in 2,005 minutes of exercises which translated to 100 products for donation.
 
 **Find Out [More](https://www.instagram.com/p/CG_fBtZHB27/){:target="_blank"}** 
 
