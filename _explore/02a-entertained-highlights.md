@@ -12,7 +12,7 @@ Temasek Polytechnic presented the much-awaited online concert, Electric Dreams, 
 
 Additionally, through this online celebration of youthful spirit, funds were raised for Temasek Polytechnic's Campus Care Network (CCN) as we partied and showcased our amazing talents virtually! Launched in 1991, TP [CCN](/be-caring/campus-care-network/) aims to create a family-like environment, and maintain a caring culture, through various initiatives like fund-raising for students in need.
 
-**Watch the online concert recording [here](https://www.youtube.com/watch?v=afTmefWjtiY&feature=youtu.be)!**  :smile:
+**Watch the online concert recording [here](https://www.youtube.com/watch?v=afTmefWjtiY&feature=youtu.be)!**
 
 ---
 ## JK & Mike @ Sports & Arts Centre
