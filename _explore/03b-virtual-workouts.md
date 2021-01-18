@@ -6,7 +6,6 @@ third_nav_title: Be Awesome
 
 ---
 ### Inaugural TP-ActiveSG Virtual Run
-The first edition of TP-ActiveSG Virtual Run is here! 
 
 The first edition of the TP-ActiveSG Virtual Run was held in Nov 2020 and more than 2,000 TP staff, students, alumni and even public participated in both recreational and advanced categories. Each runner was given exclusive finisher t-shirt, towel and medal.  
 
