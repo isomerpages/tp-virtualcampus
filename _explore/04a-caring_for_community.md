@@ -6,6 +6,17 @@ third_nav_title: Be Caring
 
 ---
 
+### Toy from the Heart - Toy Donation Drive ###
+
+Donate pre-loved or new educational toys towards the Metta Welfare Association (Metta), and bring joy to pre-school children from less privileged families today. Donation drive happening this week from **19 to 22 Jan 2021** at the Plaza outside TP Library. 
+
+**Find Out [More](https://www.instagram.com/p/CJ8SfvyHx4Z/){:target="_blank"}**
+
+![Toy Donationa Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
+
+
+---
+
 ### Caring SG Commuters Campaign ###
 
 The Caring SG Commuters Campaign has launched a series of inclusivity videos that showcased true life stories of vulnerable commuter receiving assistance from other commuters, and how every act of care contributes to building a caring commuting culture. Nicole, a TP student studying Law and Management was featured in this year’s video series for the campaign. In conjunction with this year’s Caring SG Commuters Campaign, an online webinar was held on 15 December (Tuesday), titled, “Be That Special Someone Today”. This webinar was part of an online series to raise awareness and understanding of the needs of vulnerable commuters on public transport, and how to offer assistance. It involved an open discussion on stories of caring commuters on public transport and engages the audience to inspire acts of care and graciousness from commuters. 
