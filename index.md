@@ -96,14 +96,14 @@ sections:
         alt: TPOEI
     
     - infopic:
-       title: Launch of Stories & Co
+        title: Launch of Stories & Co
         subtitle: Student Publication
         image: /images/Homepage-Storiesco.png
         description: Stories & Co. is produced by the student journalists from the Diploma in Communications & Media Management from Temasek Polytechnic’s School of Business. The publication covers campus news, as well as youth-related trends and issues – for youths, by youths! Just click 🖱 on the link below to watch the first story!
         button: Stories & Co
         url: https://www.instagram.com/p/CGgz2FJFCBq/
         alt: Stories
-      
+       
     - infopic:
         title: Want to be featured on this Virtual Campus?
         subtitle: Reach out to us
@@ -117,5 +117,4 @@ sections:
 #        title: Media
 #        subtitle: Learn more
 #        button: View More
-
 ---
