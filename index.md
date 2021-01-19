@@ -103,16 +103,7 @@ sections:
         button: Stories & Co
         url: https://www.instagram.com/p/CGgz2FJFCBq/
         alt: Stories
-
-#    - infopic:
-#        title: TP National Day Virtual Concert
-#        subtitle: Featured Event
-#        image: /images/BeEntertained-ndp2020.JPG
-#        description: Re-live the celebration of our nation's 55th birthday & TP's 30th anniversary!
-#        button: Watch Now!
-#        url: /be-entertained/highlights/
-#        alt: TPNDC
-        
+      
     - infopic:
         title: Want to be featured on this Virtual Campus?
         subtitle: Reach out to us
