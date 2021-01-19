@@ -95,14 +95,14 @@ sections:
         url: https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#tpoei
         alt: TPOEI
     
-#    - infopic:
-#       title: Launch of Stories & Co
-#        subtitle: Student Publication
-#        image: /images/Homepage-Storiesco.png
-#        description: Stories & Co. is produced by the student journalists from the Diploma in Communications & Media Management from Temasek Polytechnic’s School of Business. The publication covers campus news, as well as youth-related trends and issues – for youths, by youths! Just click 🖱 on the link below to watch the first story!
-#        button: Stories & Co
-#        url: https://www.instagram.com/p/CGgz2FJFCBq/
-#        alt: Stories
+    - infopic:
+       title: Launch of Stories & Co
+        subtitle: Student Publication
+        image: /images/Homepage-Storiesco.png
+        description: Stories & Co. is produced by the student journalists from the Diploma in Communications & Media Management from Temasek Polytechnic’s School of Business. The publication covers campus news, as well as youth-related trends and issues – for youths, by youths! Just click 🖱 on the link below to watch the first story!
+        button: Stories & Co
+        url: https://www.instagram.com/p/CGgz2FJFCBq/
+        alt: Stories
 
 #    - infopic:
 #        title: TP National Day Virtual Concert
