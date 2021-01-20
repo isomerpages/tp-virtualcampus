@@ -29,6 +29,6 @@ The Japan-Singapore Student e-Xchange Programme is a virtual-mobility programme,
 
 ![Venturing to Antartica]({{site.baseurl}}/images/BeTravelling-highlights-Antartica.PNG)
 
-Organized by TP Adventure Club, this is a virtual sharing session by Mr David Lim, an avid adventurer on what it takes to venture out to Antartica.  
+Organized by TP Adventure Club, Mr David Lim, an avid adventurer shared on what it takes to venture out to Antartica.  
 
-**[Find out more](https://www.instagram.com/p/CGmCOSbHlU8/)**
+**Check out [TP Adventure Club](/p10/ac/) to find out more!**

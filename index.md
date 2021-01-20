@@ -54,9 +54,9 @@ sections:
         title: Electric Dreams Online Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ElectricDreams1.jpg
-        description: Grab your tix now for an excitement-filled evening of the best music and dance that is sure to raise your spirits and donate to CCN at the same time!
+        description: Catch the excitement-filled online concert of the best music and dance that is sure to raise your spirits!
         button: Electric Dreams
-        url: https://electricdreams.peatix.com/view
+        url: https://www.youtube.com/watch?v=afTmefWjtiY&feature=youtu.be
         alt: Electric Dreams
 
     - infopic:
@@ -103,16 +103,7 @@ sections:
         button: Stories & Co
         url: https://www.instagram.com/p/CGgz2FJFCBq/
         alt: Stories
-
-    - infopic:
-        title: TP National Day Virtual Concert
-        subtitle: Featured Event
-        image: /images/BeEntertained-ndp2020.JPG
-        description: Re-live the celebration of our nation's 55th birthday & TP's 30th anniversary!
-        button: Watch Now!
-        url: /be-entertained/highlights/
-        alt: TPNDC
-        
+       
     - infopic:
         title: Want to be featured on this Virtual Campus?
         subtitle: Reach out to us
