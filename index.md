@@ -60,15 +60,6 @@ sections:
         alt: Electric Dreams
 
     - infopic:
-        title: TP Virtual Open House 2021
-        subtitle: Featured Event
-        image: /images/Featured-OH2021.png
-        description: Check out the wide range of activities from academic showcases to CCA sharing lined up just for you. 
-        button: TP Virtual Open House
-        url: https://www.tp.edu.sg/joinoursquad/virtual-open-house.html
-        alt: TPVOH2021
-
-    - infopic:
         title: Temasek Student Excellence Awards 2020
         subtitle: Featured Event
         image: /images/Featured-TSEA2020_1.png
