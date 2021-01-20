@@ -67,14 +67,3 @@ A video conference was held to allow Second Minister for Education Dr Maliki Osm
     </tr>
 </table>
 
----
-### Launch of the TP Open House 2021 Microsite
-
-[Catch a glimpse of our vibrant student life in TP and learn more about our exciting campus at the TP Open House 2021!](https://www.tp.edu.sg/joinoursquad/){:target="_blank"}<br>
-
-[![]({{site.baseurl}}/images/BeUpdated-TPOH2021microsite.jpg)](https://www.tp.edu.sg/joinoursquad/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
-
-Get in touch with us through our [Virtual Course Counselling](https://www.tp.edu.sg/joinoursquad/virtual-course-counselling.html){:target="_blank"} to get answers to your burning questions. 
-
----
-
