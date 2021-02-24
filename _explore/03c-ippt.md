@@ -24,9 +24,5 @@ Kudos to all our NS men and women for putting themselves at the frontline and se
 </div>
 
 ----
-<div class="bp-youtube">
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmindefsg%2Fvideos%2F399254024426877%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
-</div>
+[![SAFFB]({{site.baseurl}}/images/BeAwesome-NSCovid1.PNG)](https://fb.watch/3RW6n-Jbmx/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
