@@ -12,8 +12,9 @@ It may seem daunting just at the thought of having to undergo the 18 weeks of in
 
 [![iFIT]({{site.baseurl}}/images/BeAwesome-iFIT.jpg)](https://www.tp.edu.sg/landing/students/student-life/ippt-ns-prep.html){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
+
 ---
-### Our National Service
+### Our Singapore Armed Forces
 
 Kudos to all our NS men and women for putting themselves at the frontline and serving our Nation. Here's a video in appreciation of their efforts. 
 
@@ -24,5 +25,8 @@ Kudos to all our NS men and women for putting themselves at the frontline and se
 </div>
 
 ----
+
+Defending our nation round the clock in the midst of this pandemic with enhanced health and safety measures put in place. Watch how they did it!
+
 [![SAFFB]({{site.baseurl}}/images/BeAwesome-NSCovid1.PNG)](https://fb.watch/3RW6n-Jbmx/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
