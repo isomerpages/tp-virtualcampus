@@ -17,8 +17,6 @@ It may seem daunting just at the thought of having to undergo the 18 weeks of in
 
 Kudos to all our NS men and women for putting themselves at the frontline and serving our Nation. Here's a video in appreciation of their efforts. 
 
-![NSCovid]({{site.baseurl}}/images/BeAwesomeNSCovid2.PNG)
-
 <div class="bp-youtube">
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/g7ffrSTNtAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
