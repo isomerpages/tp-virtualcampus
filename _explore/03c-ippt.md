@@ -30,5 +30,6 @@ Defending our nation round the clock in the midst of this pandemic with enhanced
 [![SAFFB]({{site.baseurl}}/images/BeAwesome-NSCovid1.PNG)](https://fb.watch/3RW6n-Jbmx/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
+Read this article on how SAF Basic Military Training is being carried out in the midst of COVID-19. 
 
 [![Pioneer]({{site.baseurl}}/images/BeAwesome-NSCovid3.PNG)](https://www.mindef.gov.sg/web/portal/pioneer/article/feature-article-detail/ops-and-training/2020-Q4/01oct20_news1?fbclid=IwAR03am7W6U2-4fpaZPezrnbfS9mXdJJeKOkpnSQlcx8HfUU2_c_G1uE-mWo){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
