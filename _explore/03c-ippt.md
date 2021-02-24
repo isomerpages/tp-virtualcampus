@@ -24,9 +24,11 @@ Kudos to all our NS men and women for putting themselves at the frontline and se
 
 </div>
 
-----
-
+---
 Defending our nation round the clock in the midst of this pandemic with enhanced health and safety measures put in place. Watch how they did it!
 
 [![SAFFB]({{site.baseurl}}/images/BeAwesome-NSCovid1.PNG)](https://fb.watch/3RW6n-Jbmx/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
+---
+
+[![Pioneer]({{site.baseurl}}/images/BeAwesome-NSCovid3.PNG)](https://www.mindef.gov.sg/web/portal/pioneer/article/feature-article-detail/ops-and-training/2020-Q4/01oct20_news1?fbclid=IwAR03am7W6U2-4fpaZPezrnbfS9mXdJJeKOkpnSQlcx8HfUU2_c_G1uE-mWo){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
