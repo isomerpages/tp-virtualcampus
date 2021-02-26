@@ -8,13 +8,24 @@ third_nav_title: Be Awesome
 
 ### Awesomely Ready for National Service
 
-It may seem daunting just at the thought of having to undergo the 18 weeks of intensive Basic Military Training (BMT) as a new recruit. But fret not, check out these resources to help you overcome the challenges ahead. 
+It may seem daunting just at the thought of having to undergo the 9 weeks of intensive Basic Military Training (BMT) as a new recruit. But fret not, check out these resources to help you overcome the challenges ahead. 
 
-The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week training programme to help you improve your IPPT performance. Get ready to sweat it out by following the training routine in the video below!
+---
+# IPPT Training Resources
+
+If you are medically graded PES A or B1, you will enjoy an 8-week reduction in your full-time NS duration if you attain 61 points or more from the three Pre-Enlistee IPPT stations (with a minimum of 1 point from each station). Otherwise, you are required to undergo an additional 8-week Physical Training Phase (PTP) enlistment. 
+
+The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week training programme to beast it up in your IPPT! Go hard or go home!
 
 <div class="bp-youtube">
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/TtPpU1wEuOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<div class="bp-youtube">
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/0ho5USfcvUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
