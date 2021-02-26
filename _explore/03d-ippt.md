@@ -5,12 +5,6 @@ permalink: /be-awesome/ippt/
 third_nav_title: Be Awesome
 
 ---
-
-### Awesomely Ready for National Service
-
-It may seem daunting just at the thought of having to undergo the 9 weeks of intensive Basic Military Training (BMT) as a new recruit. But fret not, check out these resources to help you overcome the challenges ahead. 
-
----
 # IPPT Training Resources
 
 If you are medically graded PES A or B1, you will enjoy an 8-week reduction in your full-time NS duration if you attain 61 points or more from the three Pre-Enlistee IPPT stations (with a minimum of 1 point from each station). Otherwise, you are required to undergo an additional 8-week Physical Training Phase (PTP) enlistment. 
@@ -29,6 +23,13 @@ The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/0ho5USfcvUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+---
+### NS - How It Began vs How It's Going
+
+How NS all started!
+
+[![NSstart]({{site.baseurl}}/images/BeAwesome-NSstart.png)](https://www.channelnewsasia.com/news/video-on-demand/the-beginning){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
 ### Our Singapore Armed Forces
