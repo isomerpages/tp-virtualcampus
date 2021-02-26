@@ -30,7 +30,7 @@ Kudos to all our NS men and women for putting themselves at the frontline and se
 </div>
 
 ---
-Defending our nation round the clock in the midst of this pandemic with enhanced health and safety measures put in place. Watch how they did it!
+Defending our nation round the clock in the midst of this COVID-19 pandemic with enhanced health and safety measures put in place. Watch how they did it!
 
 [![SAFFB]({{site.baseurl}}/images/BeAwesome-NSCovid1.PNG)](https://fb.watch/3RW6n-Jbmx/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
