@@ -27,9 +27,13 @@ The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week
 ---
 ### NS - How It Began vs How It's Going
 
-How NS all started!
+<h3>How NS all started!</h3>
 
 [![NSstart]({{site.baseurl}}/images/BeAwesome-NSstart.png)](https://www.channelnewsasia.com/news/video-on-demand/the-beginning){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
+
+<h3>How It's Going</h3>
+
+[![NSstart]({{site.baseurl}}/images/BeAwesome-NSgoing.png)](https://www.mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2020-Q1/02jan20_news1){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
 ---
 ### Our Singapore Armed Forces
