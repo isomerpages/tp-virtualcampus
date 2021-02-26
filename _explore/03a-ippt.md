@@ -14,7 +14,7 @@ The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week
 
 <div class="bp-youtube">
 
-<iframe width="1280" height="720" src="https://youtu.be/TtPpU1wEuOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/TtPpU1wEuOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
