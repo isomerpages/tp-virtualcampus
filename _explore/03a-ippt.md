@@ -10,7 +10,7 @@ third_nav_title: Be Awesome
 
 It may seem daunting just at the thought of having to undergo the 18 weeks of intensive Basic Military Training (BMT) as a new recruit. But fret not, check out these resources to help you overcome the challenges ahead. 
 
-The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week training programme to help you improve your IPPT performance.
+The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week training programme to help you improve your IPPT performance. Get ready to sweat it out by following the training routine in the video below!
 
 <div class="bp-youtube">
 
