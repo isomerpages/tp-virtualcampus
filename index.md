@@ -51,6 +51,15 @@ sections:
           alt: Salvo3
 
     - infopic:
+        title: IPPT & NS Prep
+        subtitle: IPPT Training
+        image: /images/BeAwesome-iFIT.png
+        description: Resources to improve IPPT performance and preparation for National Service
+        button: IPPT & NS Prep
+        url: https://tp-vc-staging.netlify.app/be-awesome/ippt/
+        alt: IPPT & NS Prep
+    
+    - infopic:
         title: Electric Dreams Online Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ElectricDreams1.jpg
@@ -63,7 +72,7 @@ sections:
         title: Temasek Student Excellence Awards 2020
         subtitle: Featured Event
         image: /images/Featured-TSEA2020_1.png
-        description: Be inspired by the receipients' achievements!
+        description: Be inspired by the recipients' achievements!
         button: TSEA
         url: https://www.tp.edu.sg/tsea2020/
         alt: TSEA2020
