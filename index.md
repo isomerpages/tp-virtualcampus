@@ -19,7 +19,7 @@ sections:
 #              description: Need anything from TP Website?
 #              url: https://www.tp.edu.sg/
             - title: Be Involved
-              description: Want to be part of our 140+ CCAs in TP? Sign up for CCA now!
+              description: Sign up for CCA now!
               url: /be-involved/highlights/
             - title: Be Entertained
               description: Watch, listen and be entertained with content created by TP, free-of-charge!
