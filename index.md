@@ -9,6 +9,8 @@ sections:
     - hero:
         title: Virtually The Place To Be
         subtitle: Explore 8 exciting channels of student activities from all around TP!
+        button: Sign Up for CCA
+        url: /be-involved/highlights/
 #        background: /images/download1.jpg
         background: /images/VC_eBanner.jpg
         key_highlights:
