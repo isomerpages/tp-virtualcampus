@@ -9,6 +9,8 @@ sections:
     - hero:
         title: Virtually The Place To Be
         subtitle: Explore 8 exciting channels of student activities from all around TP!
+        button: Sign Up for CCA
+        url: /be-involved/highlights/
 #        background: /images/download1.jpg
         background: /images/VC_eBanner.jpg
         key_highlights:
@@ -19,7 +21,7 @@ sections:
 #              description: Need anything from TP Website?
 #              url: https://www.tp.edu.sg/
             - title: Be Involved
-              description: Want to be part of our 140+ CCAs in TP?
+              description: Wanna be part of our 140+ CCAs in TP?
               url: /be-involved/highlights/
             - title: Be Entertained
               description: Watch, listen and be entertained with content created by TP, free-of-charge!
@@ -51,6 +53,15 @@ sections:
           alt: Salvo3
 
     - infopic:
+        title: IPPT & NS Prep
+        subtitle: IPPT Training
+        image: /images/BeAwesome-iFIT.png
+        description: Resources to improve IPPT performance and preparation for National Service
+        button: IPPT & NS Prep
+        url: https://tp-vc-staging.netlify.app/be-awesome/ippt/
+        alt: IPPT & NS Prep
+    
+    - infopic:
         title: Electric Dreams Online Concert
         subtitle: Featured Event
         image: /images/BeEntertained-ElectricDreams1.jpg
@@ -63,7 +74,7 @@ sections:
         title: Temasek Student Excellence Awards 2020
         subtitle: Featured Event
         image: /images/Featured-TSEA2020_1.png
-        description: Be inspired by the receipients' achievements!
+        description: Be inspired by the recipients' achievements!
         button: TSEA
         url: https://www.tp.edu.sg/tsea2020/
         alt: TSEA2020
