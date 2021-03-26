@@ -14,6 +14,7 @@ permalink: /interest_groups/green_interest_group/
                     <br>
                     Come be part of us. Be Green. JOIN TPGIG.
                     <br>
+                    <br>
                     <b>Achievements:</b><br>
                     In 2019, TPGIG joined the R.I.S.E Champion Network together with organisations such as the National Environment Agency and National Parks Boards.<br>
                     <br>
