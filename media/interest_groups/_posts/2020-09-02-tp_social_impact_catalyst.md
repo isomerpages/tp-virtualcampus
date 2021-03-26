@@ -22,7 +22,7 @@ permalink: /interest_groups/tp_social_impact_catalyst/
                     <b>Meeting Day:</b><br>
                     Biweekly online or offline meeting and monthly regular event for members and subcommittees<br>
                     <br>
-                    <b>CCA Staff Advisors:</b> <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng</a> and Mr Ng Shin Leong</a><br>
+                    <b>CCA Staff Advisors:</b> <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng</a> and Mr Ng Shin Leong<br>
                     <br>
                     <a href="https://www.instagram.com/tp.sic">Instagram</a>
                     <br>
