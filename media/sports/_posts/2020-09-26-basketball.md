@@ -11,8 +11,9 @@ permalink: /sports/basketball/
             <p>
                 Competitive basketball is another popular team sport in which two competing teams of 5 players play on a rectangle court to try and outscore each other through the basketball hoops at opposing ends. TP Men’s and Women’s Basketball teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Games annually.<br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2019: Silver (Men’s Team) & Bronze (Women’s Team)<br>
-                IVP Games 2020: 4th (Men’s Team)<br>
+                <ul>
+                   <li>POL-ITE Games 2019: Silver (Men’s Team) & Bronze (Women’s Team)</li>
+                   <li>IVP Games 2020: 4th (Men’s Team)</li>
                 <br>
                 <b>Training Days:</b><br>
                 Monday & Wednesday, 7pm<br>
