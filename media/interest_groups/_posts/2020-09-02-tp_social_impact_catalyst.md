@@ -16,6 +16,7 @@ permalink: /interest_groups/tp_social_impact_catalyst/
                     <br>
                     <b>Achievements:</b><br>
                     TP-SIC won the 2nd runner-up for the Business Challenge Competition in February 2021, which was organised by the Innovation & Entrepreneurship Department in TP.<br>
+                    <br>
                     In December 2019, TP-SIC & MINDS MYG (Moment of Intellectual Disability of Singapore) jointly organised a Christmas Celebration event for the PWIDs (Persons With Intellectual Disability).<br>
                     <br>
                     <b>Meeting Day:</b><br>
