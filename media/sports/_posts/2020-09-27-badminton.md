@@ -10,7 +10,6 @@ permalink: /sports/badminton/
         <td>
             <p>
                 Another common and popular racquet sport, badminton requires aerobic stamina, agility, strength, speed and precision. The common forms of the game are "singles" (with one player per side) and "doubles" (with two players per side). TP Badminton Teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Badminton Games annually.<br>
-            </p>
                 <br>                
                 <b>Achievements:</b><br>
                 <br>
@@ -18,6 +17,7 @@ permalink: /sports/badminton/
                    <li>POL-ITE Games 2019: Bronze (Men’s Team) & 4th (Women’s Team)</li>
                    <li>IVP Games 2020: Bronze (Women’s Team)</li>
                 </ul>
+            </p>
             <p>
                 <b>Training Days:</b><br>
                 Monday & Thursday, 6.30 to 8.30pm<br>
