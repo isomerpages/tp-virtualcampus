@@ -23,10 +23,12 @@ permalink: /interest_groups/global_connect_student_group/
                     Participating students can expect to be involved in the following:<br>
                 </p>
                     <ul>
-                        <li>Community engagements targeting the UN SDGs</li>
                         <li>National Integration Council's award-winning D.I.Y (Diversity. Inclusion. You.) programmes</li>
-                        <li>Passage 2 ASEAN student exchange programmes with ASEAN university students (overseas and local)</li>
-                        <li>Participation in inter-polytechnic events such as Workplace Integration In Action and Cross-Cultural Symposium</li>
+                        <li>Passage 2 ASEAN student e-exchange programmes with ASEAN university students</li>
+                        <li>World Vision Youth for Change Conference</li>
+                        <li>Youth Model ASEAN Conference</li>
+                        <li>Community engagements targeting the UN SDGs</li>
+                        <li>Inter-polytechnic events such as Workplace Integration In Action and Cross-Cultural Symposium</li>
                         <li>Leadership development</li>
                     </ul>
                 <p>
