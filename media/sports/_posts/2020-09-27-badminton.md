@@ -17,7 +17,7 @@ permalink: /sports/badminton/
                    <li>POL-ITE Games 2019: Bronze (Men’s Team) & 4th (Women’s Team)</li>
                    <li>IVP Games 2020: Bronze (Women’s Team)</li>
                 </ul>
-            <br>
+                <br>
                 <b>Training Days:</b><br>
                 Monday & Thursday, 6.30 to 8.30pm<br>
                 <br>
