@@ -15,11 +15,11 @@ permalink: /interest_groups/japanese_cultural_group/
                     <b>Achievements:</b><br>
                     We have partnered these organisations and have been involved in their various events:<br>
                 </p>
-                    <ol>
+                    <ul>
                         <li>Ishikawa Prefecture Kanazawa Commercial High School, taking part in an e-exchange programme with their students</li>
                         <li>Japanese Association of Singapore (JAS), taking part in their annual Sports Carnival and Natsu Matsuri (summer festival)</li>
                         <li>Kochi Prefecture, taking part in their National High School Manga Championships (Manga Koshien) in Kochi, Japan</li>
-                    </ol>
+                    </ul>
                 <p>
                     <b>CCA Staff Advisor:</b> <a href="mailto:chanlj@tp.edu.sg">Mr Leslie Chan</a><br>
                     <br>
