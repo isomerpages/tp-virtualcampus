@@ -16,7 +16,7 @@ permalink: /interest_groups/toastmasters/
                     2nd runner up in the S1/S4 District 80 Table Topics Contest (2020)<br>
                     <br>
                     <b>Training Day:</b><br>
-                    2nd and 4th Friday, 6.30pm to 9.30pm<br>
+                    2nd and 4th Friday of the month, 6.30pm to 9.30pm<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:deneshs@tp.edu.sg">Mr S. Denesh</a><br>
                     <br>
