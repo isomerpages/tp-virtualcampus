@@ -10,7 +10,7 @@ permalink: /interest_groups/green_interest_group/
             <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_green_interest_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group"></image></td>
             <td>
                 <p>
-                    TP Green Interest Group (TPGIG) is the CCA for students who want to contribute to the environment. The events organised include beach clean-ups, talks and learning journeys — all with the aim of having fun while being involved and responsible for the environment. In addition, TPGIG works in close relation with the TP Eco-Campus Committee to better the environment in our school. Hence, students will have opportunities for their eco-ideas to be implemented in the whole of TP; Young Voices Matter. Remember we have just one home – Earth. Let’s take care of her.<br>
+                    TP Green Interest Group (TPGIG) is the CCA for students who want to contribute to the environment. The events organised include beach clean-ups, talks and learning journeys — all with the aim of having fun while being involved and responsible for the environment. In addition, TPGIG works in close relation with the TP Eco-Campus Committee to better the environment in our school. Hence, students will have opportunities for their eco-ideas to be implemented in the whole of TP; Young Voices Matter. Remember we have just one home – Earth. Let’s take care of her.
                     <br>
                     Come be part of us. Be Green. JOIN TPGIG.
                     <br>
