@@ -13,7 +13,7 @@ permalink: /interest_groups/toastmasters/
                     TP Toastmasters (TPTM) is a non-profit educational organisation that teaches public speaking and leadership skills to members. In line with our motto “Where Leaders are made”, the TPTM trains members to build on their confidence and conquer their fear of public speaking through giving prepared speeches and evaluations. Good communication skills are also instilled through networking opportunities with other Toastmasters clubs in Singapore.<br>
                     <br>
                     <b>Achievements:</b><br>
-                    2nd runner up in the Area contest (March 2019)<br>
+                    2nd runner up in the S1/S4 District 80 Table Topics Contest (2020)<br>
                     <br>
                     <b>Training Day:</b><br>
                     2nd and 4th Friday, 6.30pm to 9.30pm<br>
