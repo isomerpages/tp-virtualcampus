@@ -8,7 +8,7 @@ third_nav_title: Be Involved
 ### Temasek LEAD Summit - In Conversation With Professor Kishore Mahbubani ###
 <b>Has China Won? Implications of the China-US Relationship on Singapore</b>
 
-We were honoured and delighted to have Professor Kishore Mahbubani, Distinguished Fellow at the Asia Research Institute, National University of Singapore to share with us his valuable insights on the China-US Relationship and how it affects Singapore are countries around the world.
+We were honoured and delighted to have Professor Kishore Mahbubani, Distinguished Fellow at the Asia Research Institute, National University of Singapore to share with us his valuable insights on the China-US Relationship and how it affects Singapore and countries around the world.
 
 The keynote address started with a poll with the following questions:
 
