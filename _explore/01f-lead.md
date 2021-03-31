@@ -6,14 +6,35 @@ third_nav_title: Be Involved
 
 ---
 ### Temasek LEADership Programme - Developing You to Become Future Leaders ###
+<b>Has China Won? Implications of the China-US Relationship on Singapore</b>
+
+We were honoured and delighted to have Professor Kishore Mahbubani, Distinguished Fellow at the Asia Research Institute, National University of Singapore to share with us his valuable insights on the China-US Relationship and how it affects Singapore are countries around the world.
+
+The keynote address started with a poll with the following questions:
+
+1.	Who started the China-US geopolitical contest?
+2.	Who is taking the right course in managing this geopolitical contest?
+3.	Who is likely to win the contest?
+4.	Whose side should Singapore take in this contest?
+
+Professor Mahbubani shared deep insights based on the given theme and covered the following issues:
+
+•	Structural causes of the China-US geopolitical contest
+•	The mistakes made by China and US that have aggravated the geopolitical contest
+•	Who will win the geopolitical contest
+•	How do other countries view this contest, and what are the positions they are going to take
+•	What can we do to avoid this geopolitical contest
+
+Professor Mahbubani closed up the session by sharing his thoughts on the difference in cultures across different nations and how it affects decision-making, finding a balance on individual rights and collective responsibilities, appreciation for ASEAN, and finally advice on risk taking for Singapore youth.
+
+---
+### Temasek LEADership Programme - Developing You to Become Future Leaders ###
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZBHOirv1ixc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 </div>
 
-[![LEAD Video](/images/BeInvolved-LEADOHvideo.PNG)](https://www.youtube.com/watch?v=ZBHOirv1ixc&feature=youtu.be){:target="_blank"}
-
-
+---
 ### LEAD Core Programmes ###
 
 <h4>LEAD Induction</h4>
@@ -77,35 +98,3 @@ Students were engaged in facilitated small group discussions, as well as dialogu
 </table>
 
 ---
-### More About Temasek LEADership Programme ###
-
-<div class="bp-youtube">
-    <iframe width="560" height="315" style="display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/XKqE11UnsSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-At Temasek Polytechnic, we believe that talent is to be nurtured and every student must be given opportunities to achieve their personal best.
-
-The Temasek LEADership Programme (Temasek LEAD) is an inclusive talent development programme for high-performing students. LEAD students can look forward to an amazing journey of self-discovery and enjoy exciting experiences that will take them beyond the classroom and academic pursuits. These include overseas academic exchanges, community service projects, local and overseas adventure expeditions, and more.
-
-Temasek LEAD aims to develop LEAD students into future leaders with VISION, CHARACTER and HEART. Our unique approach is crafted to stretch the potential of our high-performing students. In Temasek LEAD, students can expect to embark on an exciting journey of self-discovery and holistic development to attain the following 4 key areas of leadership:
-
-<h4>Personal Leadership</h4>
-LEAD students will be developed to become effective leaders by raising their self-awareness, helping them understand their leadership profile and providing them with opportunities to lead from their strengths. Students will be provided opportunities to learn essential skills such as effective communication, planning and organising, problem solving, decision making and situational adaptability.
-
-<h4>Team Leadership</h4>
-LEAD students will be offered practice and experiential platforms to lead in challenging situations. They will acquire skills to organise teams, strengthen their awareness of teamwork and group dynamics, develop team resilience, conflict management and negotiation skills, emotional intelligence, and collaboration strategies. Exciting outdoor adventure programmes, including caving and white water rafting in various countries, will develop their capabilities to overcome team challenges.
-
-h4>Community Leadership</h4>
-LEAD students are given platforms to be actively engaged in leading service learning initiatives, both locally and overseas. The programme aims to groom compassionate leaders with a heart for others, who think beyond themselves and their immediate teams, to be socially responsible citizens, and to serve and care for their community.
-
-<h4>Global Perspectives</h4>
-Finally, LEAD students are provided opportunities to engage global and local government agencies, non-governmental organisations, industries, and educational institutions. They will develop 21st century competencies, such as critical and inventive thinking, global awareness and cross-cultural skills, change readiness, and an enterprising spirit; and be groomed to be adaptable future-oriented leaders. LEAD students can look forward to participating in immersive and intellectual symposiums such as those organised by the United Nations, local and overseas universities and agencies, as well as engagements with government officials, industry and thought leaders, and exchanges with peers across the world.
-
-<h4>How Are The Programmes Run?</h4>
-LEAD students will engage themselves in their leadership journey through a suite of programmes that are run in 3 main categories. These programmes are highly funded, with some overseas programmes funded as much as 90%. The (1) Core programmes ensure that participants are exposed to and developed in the 4 key areas of leadership espoused by Temasek LEAD.
-
-In addition to the Core programmes, LEAD students will be offered a wide array of (2) Elective programmes, which would allow them the freedom to pursue leadership areas that match their personal needs and interests. 
-
-Finally, Temasek LEAD offers a series of specially curated (3) Excel programmes to stretch our very best students, who have displayed outstanding achievements in the areas of academic studies, leadership roles and/or specialised talents. 
-
-For more information, please email to the team at the <a href = "mailto: lead@tp.edu.sg">Centre for Character & Leadership Education</a>.
