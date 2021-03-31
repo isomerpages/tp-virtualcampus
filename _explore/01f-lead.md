@@ -27,6 +27,8 @@ Professor Mahbubani shared deep insights based on the given theme and covered th
 
 Professor Mahbubani closed up the session by sharing his thoughts on the difference in cultures across different nations and how it affects decision-making, finding a balance on individual rights and collective responsibilities, appreciation for ASEAN, and finally advice on risk taking for Singapore youth.
 
+<a href="https://youtu.be/dca3nQVgud8" target="_blank">Watch all the insightful views from Professor Mahbubani here!</a>
+
 <table>
     <tr>
         <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit1"></image>       
