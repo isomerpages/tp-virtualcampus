@@ -5,7 +5,7 @@ permalink: /be-involved/temasek-lead-programmes/
 third_nav_title: Be Involved
 
 ---
-### Temasek LEADership Programme - Developing You to Become Future Leaders ###
+### Temasek LEAD Summit - In Conversation With Professor Kishore Mahbubani ###
 <b>Has China Won? Implications of the China-US Relationship on Singapore</b>
 
 We were honoured and delighted to have Professor Kishore Mahbubani, Distinguished Fellow at the Asia Research Institute, National University of Singapore to share with us his valuable insights on the China-US Relationship and how it affects Singapore are countries around the world.
@@ -19,14 +19,28 @@ The keynote address started with a poll with the following questions:
 
 Professor Mahbubani shared deep insights based on the given theme and covered the following issues:
 
-•	Structural causes of the China-US geopolitical contest
-•	The mistakes made by China and US that have aggravated the geopolitical contest
-•	Who will win the geopolitical contest
-•	How do other countries view this contest, and what are the positions they are going to take
-•	What can we do to avoid this geopolitical contest
+•	Structural causes of the China-US geopolitical contest<br>
+•	The mistakes made by China and US that have aggravated the geopolitical contest <br>
+•	Who will win the geopolitical contest <br>
+•	How do other countries view this contest, and what are the positions they are going to take<br>
+•	What can we do to avoid this geopolitical contest<br>
 
 Professor Mahbubani closed up the session by sharing his thoughts on the difference in cultures across different nations and how it affects decision-making, finding a balance on individual rights and collective responsibilities, appreciation for ASEAN, and finally advice on risk taking for Singapore youth.
 
+<table>
+    <tr>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit1"></image>       
+        </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit2"></image>       
+        </td>
+    </tr>
+    <tr>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit3"></image>       
+        </td>
+        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit4"></image>       
+        </td>
+    </tr>
+</table>
 ---
 ### Temasek LEADership Programme - Developing You to Become Future Leaders ###
 
