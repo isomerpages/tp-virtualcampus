@@ -15,9 +15,12 @@ permalink: /sports/field_hockey/
                 POL-ITE Games 2019: 4th (Men’s Team) & Silver (Women’s Team)<br>
                 <br>
                 <b>Training Days:</b><br>
-                Monday & Wednesday, 7pm (Women’s)<br>
-                Tuesday & Thursday, 7pm (Men’s)<br>
-                <br>
+                <ul>
+                    <li>Monday & Wednesday, 7pm (Women’s)</li>
+                    <li>Tuesday & Thursday, 7pm (Men’s)</li>
+                </ul>
+            </p>
+            <p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tphockey_rays">Instagram</a>
