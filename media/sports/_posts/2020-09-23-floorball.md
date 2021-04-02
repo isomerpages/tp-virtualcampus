@@ -23,9 +23,11 @@ permalink: /sports/floorball/
                     <li>Tuesday, 7pm</li>
                     <li>Saturday, 9am</li>
                 </ul>
-                </p>
+              </p>
+              <p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
                 <br>
+              </p>
         </td>
     </tr>
 </table>
