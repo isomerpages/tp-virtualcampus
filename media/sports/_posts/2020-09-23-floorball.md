@@ -26,7 +26,6 @@ permalink: /sports/floorball/
                 </p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
                 <br>
-            </p>
         </td>
     </tr>
 </table>
