@@ -13,8 +13,8 @@ permalink: /sports/table_tennis/
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>POL-ITE Games 2019: 4th (Men’s Team) & Bronze (Women’s Team)</li>
-                    <li>IVP Games 2020: 4th (Women’s Team)</li>
+                 <li>POL-ITE Games 2019: 4th (Men’s Team) & Bronze (Women’s Team)</li>
+                 <li>IVP Games 2020: 4th (Women’s Team)</li>
                 </ul>
             </p>
             <p>
