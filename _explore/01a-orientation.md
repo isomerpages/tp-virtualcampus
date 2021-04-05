@@ -25,3 +25,11 @@ Find out who will emerge victorious at the Temasek Spectacular Virtual Concert!
 
 ![FOP2021]({{site.baseurl}}/images/BeInvolved-FriendshipgamesSquare.png)
 
+---
+### Temasek Spectacular Virtual Concert 2021
+
+Save the date - 16 April, 3pm! The Temasek Spectacular is back, bigger and better! Find out the winners of the Temasek Friendship Games, watch snippets of the TikTok Cheers from the academic schools and test your knowledge as a TP-ian and stand a chance to win up to $2,500 of CapitaVouchers!
+
+Watch this space - Livestream link coming to you!
+
+![FOP2021]({{site.baseurl}}/images/BeInvolved-SpectacularSquare.png)
