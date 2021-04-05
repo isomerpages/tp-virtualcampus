@@ -78,7 +78,16 @@ sections:
         button: Catch Them Live
         url: https://www.tp.edu.sg/tsea2020/
         alt: Artsfest
-       
+    
+    - infopic:
+        title: CCA Virtual Fair 2021
+        subtitle: Sign up for CCAs!
+        image: /images/Infopic-CCAvf.jpg
+        description: Discover your interests with over 100 CCAs! Share with us what you want to join!
+        button: CCA Virtual Fair
+        url: https://www.tp.edu.sg/tsea2020/
+        alt: Artsfest
+        
     - infopic:
         title: Want to be featured on this Virtual Campus?
         subtitle: Reach out to us
