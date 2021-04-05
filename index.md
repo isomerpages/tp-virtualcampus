@@ -56,7 +56,7 @@ sections:
         title: Temasek Spectacular Virtual Concert 2021
         subtitle: Freshmen Orientation Programme
         image: /images/Infopic-TemasekSpectacular.png
-        description: A performance showcase of epic proportions! Win CapitaVouchers! Catch the groovy TikTok Cheers!
+        description: A performance showcase of epic proportions - Relive the Friendship Games, catch the groovy TikTok videos and stand a chance to win up to $100 of CapitaVouchers!
         button: Catch it Live
         url: https://tp-vc-staging.netlify.app/be-awesome/ippt/
         alt: Virtual Concert
