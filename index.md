@@ -76,7 +76,7 @@ sections:
         image: /images/Infopic-Artsfest2021.png
         description: Don't miss The First Ever Temasek Polytechnic's Online Arts Festival!
         button: Catch Them Live
-        url: https://www.tp.edu.sg/tsea2020/
+        url: /be-entertained/artsfest/
         alt: Artsfest
     
     - infopic:
