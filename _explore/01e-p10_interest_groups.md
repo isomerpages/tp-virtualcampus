@@ -12,8 +12,11 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
 
 [![TPSU Sharing]({{site.baseurl}}/images/BeInvolved-TPSUSharing.png)](https://www.youtube.com/watch?v=nV-4sHZ6l_c){:target="_blank"}
 
----
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nV-4sHZ6l_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+---
 
 ## Our P10 Clubs
 
