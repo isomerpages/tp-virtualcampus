@@ -20,6 +20,10 @@ Check out the various [Arts CCAs](/be-involved/performing-arts/) and super cool 
 
 [![SACvideo]({{site.baseurl}}/images/BeEntertained-SACvideo.PNG)](https://www.youtube.com/watch?v=vtdXDV8jcSg&feature=emb_logo){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vtdXDV8jcSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+</div>
+
 ---
 ## **SG55 x TP30 National Day Virtual Concert**
 Relive the moments of our inaugural TP National Day Virtual Concert with your family, friend and loved ones! A night full of nostalgia, songs, dances, live interviews and a five-part short film by our TP FAM from the <a href="https://www.youtube.com/channel/UCsBvYR8QMBGml4X08t4kVQA" target="_blank">Temasek Arts Centre</a> await you! 
