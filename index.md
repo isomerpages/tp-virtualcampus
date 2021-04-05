@@ -58,7 +58,7 @@ sections:
         image: /images/Infopic-TemasekSpectacular.png
         description: A performance showcase of epic proportions - Relive the Friendship Games, catch the groovy TikTok videos and stand a chance to win over $2,500 worth of CapitaVouchers!
         button: Catch it Live
-        url: https://tp-vc-staging.netlify.app/be-awesome/ippt/
+        url: https://tp-vc-staging.netlify.app/be-involved/freshmenorientation/
         alt: Virtual Concert
     
     - infopic:
@@ -67,7 +67,7 @@ sections:
         image: /images/Infopic-FriendshipGamesDB.png
         description: Watch the schools paddle their way to victory!
         button: Paddles Up
-        url: https://www.youtube.com/watch?v=afTmefWjtiY&feature=youtu.be
+        url: https://tp-vc-staging.netlify.app/be-involved/freshmenorientation/
         alt: Dragon Boat
 
     - infopic:
