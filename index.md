@@ -58,7 +58,7 @@ sections:
         image: /images/Infopic-TemasekSpectacular.png
         description: A performance showcase of epic proportions - Relive the Friendship Games, catch the groovy TikTok videos and stand a chance to win over $2,500 worth of CapitaVouchers!
         button: Catch it Live
-        url: https://tp-vc-staging.netlify.app/be-involved/freshmenorientation/
+        url: /be-involved/freshmenorientation/
         alt: Virtual Concert
     
     - infopic:
@@ -67,7 +67,7 @@ sections:
         image: /images/Infopic-FriendshipGamesDB.png
         description: Watch the schools paddle their way to victory!
         button: Paddles Up
-        url: https://tp-vc-staging.netlify.app/be-involved/freshmenorientation/
+        url: /be-involved/freshmenorientation/
         alt: Dragon Boat
 
     - infopic:
@@ -85,8 +85,8 @@ sections:
         image: /images/Infopic-CCAvf.jpg
         description: Discover your interests with our >100 CCAs! Share with us what you want to join!
         button: CCA Virtual Fair
-        url: https://www.tp.edu.sg/tsea2020/
-        alt: Artsfest
+        url: /be-involved/ccavirtualfair
+        alt: virtualfair
         
     - infopic:
         title: Want to be featured on this Virtual Campus?
