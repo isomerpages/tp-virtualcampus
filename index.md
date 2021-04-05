@@ -83,7 +83,7 @@ sections:
         title: CCA Virtual Fair 2021
         subtitle: Sign up for CCAs!
         image: /images/Infopic-CCAvf.jpg
-        description: Discover your interests with our >100 CCAs! Share with us what you want to join!
+        description: Discover your interests with our 140+ CCAs! Share with us what you want to join!
         button: CCA Virtual Fair
         url: /be-involved/ccavirtualfair
         alt: virtualfair
