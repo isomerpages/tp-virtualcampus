@@ -12,7 +12,7 @@ sections:
         button: Sign Up for CCA
         url: /be-involved/highlights/
 #        background: /images/download1.jpg
-        background: /images/VC_eBanner.jpg
+        background: /images/Homepage-FOPBanner.png
         key_highlights:
 #            - title: Student Portal
 #              description: Get to your student portal here
