@@ -16,6 +16,12 @@ Check out the highlights below and see you at FOP 2021!
 
 ![FOP2021]({{site.baseurl}}/images/BeInvolved-FOPschedule2021.png)
 
-
-
 ---
+### Temasek Friendship Games 2021 Dragonboating
+
+The Temasek Friendship Games foster camaraderie and friendly competition among our student community. What better way to beat the year-round tropical heat than with a unique and safe dragonboat experience at Bedok Reservoir!
+
+Find out who will emerge victorious at the Temasek Spectacular Virtual Concert!
+
+![FOP2021]({{site.baseurl}}/images/BeInvolved-FriendshipgamesSquare.png)
+
