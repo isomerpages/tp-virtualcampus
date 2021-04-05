@@ -18,12 +18,9 @@ Additionally, through this online celebration of youthful spirit, funds were rai
 ## JK & Mike @ Sports & Arts Centre
 Check out the various [Arts CCAs](/be-involved/performing-arts/) and super cool studios at the Sports & Arts Centre with JK & Mike. 
 
-[![SACvideo]({{site.baseurl}}/images/BeEntertained-SACvideo.PNG)](https://www.youtube.com/watch?v=vtdXDV8jcSg&feature=emb_logo){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
-
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtdXDV8jcSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 </div>
-
 
 ---
 ## **SG55 x TP30 National Day Virtual Concert**
