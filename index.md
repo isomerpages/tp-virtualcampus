@@ -9,8 +9,8 @@ sections:
     - hero:
 #        title: Virtually The Place To Be
 #        subtitle: Explore 8 exciting channels of student activities from all around TP!
-        button: More Excitement This Way!
-        url: /be-involved/highlights/
+#        button: More Excitement This Way!
+#        url: /be-involved/highlights/
 #        background: /images/download1.jpg
         background: /images/Homepage-FOPBanner.png
         key_highlights:
