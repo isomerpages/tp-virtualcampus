@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Highlights
+title: Freshmen Orientation Programme 2021
 permalink: /be-involved/freshmenorientation/
 third_nav_title: Be Involved
 ---
