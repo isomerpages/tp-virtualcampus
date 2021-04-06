@@ -1,5 +1,4 @@
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 layout: homepage
 title: TP Virtual Campus
 description: The TP Virtual Campus is home to student activities from all across TP!
