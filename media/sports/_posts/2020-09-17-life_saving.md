@@ -17,7 +17,7 @@ permalink: /sports/life_saving/
                 <b>Training Days:</b><br>
                 Monday, 6.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:darrent@tp.edu.sg">Mr Darren Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Peter_Tan@tp.edu.sg">Mr Peter Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tplsst">Instagram</a>
             </p>

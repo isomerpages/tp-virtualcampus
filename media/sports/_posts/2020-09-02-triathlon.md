@@ -12,9 +12,12 @@ permalink: /sports/triathlon/
                 Triathlon is a multi-sport event with three continuous endurance components. The most common are swimming, cycling and running over various distances. Triathletes compete for the fastest overall completion time. TP Triathlon team competes in external competitions annually.<br>
                 <br>
                 <b>Training Days:</b><br>
-                Monday, 6.30pm (Running)<br>
-                Wednesday, 6.30pm (Swimming)<br>
-                <br>
+                <ul>
+                    <li>Monday, 6.30pm (Running)</li>
+                    <li>Wednesday, 6.30pm (Swimming)</li>
+                </ul>
+              </p>
+              <p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:darrent@tp.edu.sg">Mr Darren Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tptriathlon">Instagram</a>

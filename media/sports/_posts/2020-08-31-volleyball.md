@@ -12,9 +12,12 @@ permalink: /sports/volleyball/
                 Volleyball is played by two teams of six players, separated by a net. By grounding a ball on the other team's court, each team tries to score points. The ball is usually played with the hands or arms, but players can contact the ball with any part of the body. Techniques used in volleyball include spiking and blocking, passing, setting, and specialised player positions and offensive and defensive structures. TP Volleyball (Men & Women) teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Volleyball Games annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2019: Gold (Men’s) & Gold (Women’s)<br>
-                IVP Games 2020: Gold (Men’s)<br>
-                <br>
+                <ul>
+                    <li>POL-ITE Games 2019: Gold (Men’s) & Gold (Women’s)</li>
+                    <li>IVP Games 2020: Gold (Men’s)</li>
+                </ul>
+            </p>
+            <p>
                 <b>Training Days:</b><br>
                 Wednesday & Friday, 6.30pm<br>
                 <br>

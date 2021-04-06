@@ -7,12 +7,12 @@ permalink: /
 notification: Welcome to the new TP Virtual Campus!
 sections:
     - hero:
-        title: Virtually The Place To Be
-        subtitle: Explore 8 exciting channels of student activities from all around TP!
-        button: Sign Up for CCA
-        url: /be-involved/highlights/
+#        title: Virtually The Place To Be
+#        subtitle: Explore 8 exciting channels of student activities from all around TP!
+#        button: More Excitement This Way!
+#        url: /be-involved/highlights/
 #        background: /images/download1.jpg
-        background: /images/VC_eBanner.jpg
+        background: /images/Homepage-FOPBanner-edit3.png
         key_highlights:
 #            - title: Student Portal
 #              description: Get to your student portal here
@@ -32,80 +32,62 @@ sections:
             - title: ...And More!
               description: Check out the other channels to see what else is happening around campus!
               url: /be-caring/caring-for-community/
-    - carousel:
-        - title: Salvo Drums
-          subtitle: Featured CCA
-          description: Vibrant & Creative, Disciplined & Impactful
-          url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
-          image: /images/Salvo1.jpg  
-          alt: Salvo1
-        - title: Salvo Drums
-          subtitle: Featured CCA
-          description: Award Winning Drumming Champion
-          url: hhttps://www.instagram.com/tpsalvo/
-          image: /images/Salvo2.jpg
-          alt: Salvo2
-        - title: Salvo Drums
-          subtitle: Featured CCA
-          description: Choreographed Synchonised Movements
-          url: https://www.instagram.com/tpsalvo/
-          image: /images/Salvo3.jpg
-          alt: Salvo3
+#    - carousel:
+#        - title: Salvo Drums
+#          subtitle: Featured CCA
+#          description: Vibrant & Creative, Disciplined & Impactful
+#          url: https://tp-vc-prod.netlify.app/performing_arts/salvo_drums/
+#          image: /images/Salvo1.jpg  
+#          alt: Salvo1
+#        - title: Salvo Drums
+#          subtitle: Featured CCA
+#          description: Award Winning Drumming Champion
+#          url: hhttps://www.instagram.com/tpsalvo/
+#          image: /images/Salvo2.jpg
+#          alt: Salvo2
+#        - title: Salvo Drums
+#          subtitle: Featured CCA
+#          description: Choreographed Synchonised Movements
+#          url: https://www.instagram.com/tpsalvo/
+#          image: /images/Salvo3.jpg
+#          alt: Salvo3
 
     - infopic:
-        title: IPPT & NS Prep
-        subtitle: IPPT Training
-        image: /images/BeAwesome-iFIT.png
-        description: Resources to improve IPPT performance and preparation for National Service
-        button: IPPT & NS Prep
-        url: https://tp-vc-staging.netlify.app/be-awesome/ippt/
-        alt: IPPT & NS Prep
+        title: Temasek Spectacular Virtual Concert 2021
+        subtitle: Freshmen Orientation Programme
+        image: /images/Infopic-TemasekSpectacular.png
+        description: A performance showcase of epic proportions - Relive the Friendship Games, catch the groovy TikTok videos and stand a chance to win over $2,500 worth of CapitaVouchers!
+        button: Catch it Live
+        url: /be-involved/freshmenorientation/#spectacular
+        alt: Virtual Concert
     
     - infopic:
-        title: Electric Dreams Online Concert
-        subtitle: Featured Event
-        image: /images/BeEntertained-ElectricDreams1.jpg
-        description: Catch the excitement-filled online concert of the best music and dance that is sure to raise your spirits!
-        button: Electric Dreams
-        url: https://www.youtube.com/watch?v=afTmefWjtiY&feature=youtu.be
-        alt: Electric Dreams
+        title: Temasek Friendship Games 2021 Dragonboating
+        subtitle: Freshmen Orientation Programme
+        image: /images/Infopic-FriendshipGamesDB.png
+        description: Watch the schools paddle their way to victory!
+        button: Paddles Up
+        url: /be-involved/freshmenorientation/
+        alt: Dragon Boat
 
     - infopic:
-        title: Temasek Student Excellence Awards 2020
-        subtitle: Featured Event
-        image: /images/Featured-TSEA2020_1.png
-        description: Be inspired by the recipients' achievements!
-        button: TSEA
-        url: https://www.tp.edu.sg/tsea2020/
-        alt: TSEA2020
-
+        title: Temasek Arts Festival 2021
+        subtitle: Concerts Galore
+        image: /images/Infopic-Artsfest2021.png
+        description: Don't miss The First Ever Temasek Polytechnic's Online Arts Festival!
+        button: Catch Them Live
+        url: /be-entertained/artsfest/
+        alt: Artsfest
+    
     - infopic:
-        title: Poly-ITE Staff Appreciation Day 2020
-        subtitle: Featured Event
-        image: /images/BeUpdated-SAD_3.jpg
-        description: Find out what transpired at the inaugural Poly-ITE Staff Appreciation Day right here!
-        button: Watch Here
-        url: /be-updated/event-highlights/
-        alt: SAD
+        title: CCA Virtual Fair 2021
+        subtitle: Sign up for CCAs!
+        image: /images/Infopic-CCAvf.jpg
+        description: Discover your interests with our 140+ CCAs! Share with us what you want to join!
+        button: CCA Virtual Fair
+        url: /be-involved/ccavirtualfair
+        alt: virtualfair
         
-    - infopic:
-        title: Launch of the TP Oei App
-        subtitle: New Student App
-        image: /images/Homepage-TPoei.png
-        description: A new app to augment your student experience!
-        button: Download here
-        url: https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#tpoei
-        alt: TPOEI
-    
-    - infopic:
-        title: Launch of Stories & Co
-        subtitle: Student Publication
-        image: /images/Homepage-Storiesco.png
-        description: Stories & Co. is produced by the student journalists from the Diploma in Communications & Media Management from Temasek Polytechnic’s School of Business. The publication covers campus news, as well as youth-related trends and issues – for youths, by youths! Just click 🖱 on the link below to watch the first story!
-        button: Stories & Co
-        url: https://www.instagram.com/p/CGgz2FJFCBq/
-        alt: Stories
-       
     - infopic:
         title: Want to be featured on this Virtual Campus?
         subtitle: Reach out to us

@@ -15,9 +15,12 @@ permalink: /sports/kayak_racing/
                 POL-ITE Games 2019: Silver (Men’s Team) & Gold (Women’s Team)<br>
                 <br>
                 <b>Training Days:</b><br>
-                Monday and Wednesday, 6.30pm<br>
-                Saturday, 7am (Bedok Reservoir)<br>
-                <br>
+                <ul>
+                    <li>Monday and Wednesday, 6.30pm</li>
+                    <li>Saturday, 7am (Bedok Reservoir)</li>
+                </ul>
+            </p>
+            <p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:julianqj@tp.edu.sg">Mr Julian Tan</a><br>
                 <br>
             </p>

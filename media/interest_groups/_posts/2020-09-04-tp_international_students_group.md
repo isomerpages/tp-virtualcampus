@@ -18,7 +18,8 @@ permalink: /interest_groups/tp_international_students_group/
                         <li>Week of Welcome for international freshmen</li>
                         <li>National Integration Council's award-winning Global Community Day</li>
                         <li>D.I.Y (Diversity. Inclusion. You.) programme</li>
-                        <li>Chingay Parade</li>
+                        <li>Campus Care Network (CCN) Day</li>
+                        <li>Local Festivals and Celebrations</li>
                         <li>Community Service</li>
                         <li>Leadership development</li>
                         <li>Inter-polytechnic events such as One Heart, Youth Model ASEAN Conference, Cross-Cultural Symposium, Workplace Integration In Action</li>

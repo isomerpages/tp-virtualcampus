@@ -18,7 +18,7 @@ permalink: /interest_groups/tp_iprs_student_chapter/
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:kinghar@tp.edu.sg">Ms Lily Lim</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:kinghar@tp.edu.sg">Ms Lily Lim</a> and <a href="mailto:Elaine_GC_LIM@TP.EDU.SG">Ms Elaine Lim</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tp_iprs">Instagram</a>
                 </p>

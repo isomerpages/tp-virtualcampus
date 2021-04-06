@@ -10,10 +10,13 @@ permalink: /interest_groups/green_interest_group/
             <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_green_interest_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group"></image></td>
             <td>
                 <p>
-                    Are you interested to do your part for the environment? Come join the TP Green Interest Group (GIG). At TPGIG, we organise environmental events such as beach clean-ups and hiking trips. These are just some of the events that we do; if you have any event ideas to promote environmental protection or are interested in taking part in our events, we welcome you to our team!<br>
+                    TP Green Interest Group (TPGIG) is the CCA for students who want to contribute to the environment. The events organised include beach clean-ups, talks and learning journeys — all with the aim of having fun while being involved and responsible for the environment. In addition, TPGIG works in close relation with the TP Eco-Campus Committee to better the environment in our school. Hence, students will have opportunities for their eco-ideas to be implemented in the whole of TP; Young Voices Matter. Remember we have just one home – Earth. Let’s take care of her.<br>
+                    <br>
+                    Come be part of us. Be Green. JOIN TPGIG.
+                    <br>
                     <br>
                     <b>Achievements:</b><br>
-                    In 2019, we were invited to join the R.I.S.E Champion Network together with many organisations such as the National Environment Agency and National Parks Boards. Through this, we met like-minded organisations that we could learn and collaborate with.<br>
+                    In 2019, TPGIG joined the R.I.S.E Champion Network together with organisations such as the National Environment Agency and National Parks Boards.<br>
                     <br>
                     <b>Meeting Day:</b><br>
                     Event basis<br>

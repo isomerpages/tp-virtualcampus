@@ -12,10 +12,15 @@ permalink: /interest_groups/tp_spirit_of_enterprise/
                 <p>
                     TP-Spirit Of Enterprise (SOE) Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
                     <br>
-                    We co-create a TP marketplace to influence fellow students to embark on an innovation and entrepreneurial journey. There are sharing sessions and workshops as well as networking sessions with Spirit of Enterprise's mentors and industry start-ups to develop entrepreneurship capabilities.<br>
+                    We also train the executive committee to organise entrepreneurship webinars and workshops as well as networking sessions with Spirit of Enterprise's mentors and industry start-ups to develop entrepreneurship capabilities.<br>
+                    <br>
+                </p>
+                <p>
+                   <b>Achievements:</b><br>
+                   School of Business and School of IIT have co-created a TP marketplace (a ‘sandbox’ on Mobile Commerce) to influence fellow students to embark on an innovation and entrepreneurial journey.<br>
                     <br>
                     <b>Meeting Day:</b><br>
-                    Wednesday<br>
+                    Event basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:johnlow@tp.edu.sg">Mr John Low</a><br>
                     <br>
