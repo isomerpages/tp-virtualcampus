@@ -7,9 +7,8 @@ third_nav_title: Be Entertained
 ---
 ## Temasek Arts Festival
 
-At TP, we recognize the importance of honing the myriad of aspiring student artistes and enrich their experience by instilling campus vibrancy. The first ever Temasek Arts Festival features an array of exciting live stream performances from our freshest Performing Arts talents!
-
-Watch this space for the live stream links!
+<h4>The First Ever Temasek Polytechnic’s Online Arts Festival! Nightly Videos & Livestream Concerts Featuring The Freshest Arts Talents!</h4>
+ 
+<h4>Watch this space as your concert "tickets" appear as links on the event day!</h4>
 
 ![ArtsFest]({{site.baseurl}}/images/BeEntertained-Artsfest.png)
-
