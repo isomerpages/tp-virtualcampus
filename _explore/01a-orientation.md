@@ -7,8 +7,8 @@ third_nav_title: Be Involved
 ---
 <div style="margin:2%; text-align:center">
     <a href="{{site.baseurl}}/be-involved/freshmenorientation/#welcome" class="bp-button">Welcome, Freshmen</a>
-    <a href="{{site.baseurl}}/be-involved/freshmenorientation/#spectacular" class="bp-button">Temasek Spectacular Virtual Concert 2021</a>
-    <a href="{{site.baseurl}}/be-involved/diploma_interest_groups#friendshipgames" class="bp-button">Temasek Friendship Games 2021 Dragonboating</a>
+    <a href="{{site.baseurl}}/be-involved/freshmenorientation/#spectacular" class="bp-button">Temasek Spectacular</a>
+    <a href="{{site.baseurl}}/be-involved/diploma_interest_groups#friendshipgames" class="bp-button">Temasek Friendship Games</a>
 </div>
 
 #### <a id="welcome"></a>Welcome, Freshmen!
