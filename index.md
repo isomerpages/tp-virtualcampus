@@ -12,7 +12,7 @@ sections:
 #        button: More Excitement This Way!
 #        url: /be-involved/highlights/
 #        background: /images/download1.jpg
-        background: /images/Homepage-FOPBanner-edit2.png
+        background: /images/Homepage-FOPBanner-edit3.png
         key_highlights:
 #            - title: Student Portal
 #              description: Get to your student portal here
