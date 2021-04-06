@@ -24,7 +24,7 @@ Let Music Vox and their esteemed collaborators “rock your world” with their 
  
 Concert link will be posted here on Fri 9 Apr 2021.
 
-<b>Around The World: Temasek Polytechnic Chinese Orchestra Recital</b>
+<b>Around The World: Temasek Polytechnic Chinese Orchestra Recital: Travelogue</b>
 <b>Mon 12 Apr 2021 8pm</b>
 
 Temasek Polytechnic Chinese Orchestra’s first virtual recital will be an exciting showcase of traditional Chinese music and more. Catch these talented musicians as they bring you music from “around the world"!
