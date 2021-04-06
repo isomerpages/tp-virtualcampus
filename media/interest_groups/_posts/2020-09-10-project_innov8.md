@@ -30,23 +30,23 @@ permalink: /interest_groups/project_innov8/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CDIVTWNppAz/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">Chase your Dream Webinar</h6>
+                <a href="https://www.instagram.com/p/CKK7hu6H0w-/">
+                    <image src="{{site.baseurl}}/images/CCA-projectinnov8_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <h6 style="margin-top:0%">Project Pouch Collaboration</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CDQDMP8laua/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">Thanks for attending the webinar</h6>
+                <a href="https://www.instagram.com/p/CEYiTHSHqOW/">
+                    <image src="{{site.baseurl}}/images/CCA-projectinnov8_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <h6 style="margin-top:0%">Innovation Awareness</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CFRKruAl7DI/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">Interested in growing your business?</h6>
+                <a href="https://www.instagram.com/p/CHW5HZwnPvh/">
+                    <image src="{{site.baseurl}}/images/CCA-projectinnov8_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <h6 style="margin-top:0%">SG Sustainable Products</h6>
                     </image>
                 </a>
             </td>
