@@ -58,7 +58,7 @@ sections:
         image: /images/Infopic-TemasekSpectacular.png
         description: A performance showcase of epic proportions - Relive the Friendship Games, catch the groovy TikTok videos and stand a chance to win over $2,500 worth of CapitaVouchers!
         button: Catch it Live
-        url: /be-involved/freshmenorientation/
+        url: /be-involved/freshmenorientation/#spectacular
         alt: Virtual Concert
     
     - infopic:
