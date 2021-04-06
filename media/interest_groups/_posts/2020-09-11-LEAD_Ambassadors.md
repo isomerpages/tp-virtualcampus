@@ -7,7 +7,7 @@ permalink: /interest_groups/lead_ambassadors/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_japanese_cultural_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group"></image></td>
+            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA-Lead_Ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors"></image></td>
             <td>
                 <p>
                     The LEAD Ambassadors provides LEAD students with the following:<br>
