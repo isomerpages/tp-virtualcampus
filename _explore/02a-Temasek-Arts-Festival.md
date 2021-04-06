@@ -7,9 +7,9 @@ third_nav_title: Be Entertained
 ---
 ## Temasek Arts Festival
 
-<h4>The First Ever Temasek Polytechnic’s Online Arts Festival! Nightly Videos & Livestream Concerts Featuring The Freshest Arts Talents!</h4>
+<h5>The First Ever Temasek Polytechnic’s Online Arts Festival! Nightly Videos & Livestream Concerts Featuring The Freshest Arts Talents!</h5>
  
-<h4>Watch this space as your concert "tickets" appear as links on the event day!</h4>
+<h5>Watch this space as your concert "tickets" appear as links on the event day!</h5>
 
 ![ArtsFest]({{site.baseurl}}/images/BeEntertained-Artsfest.png)
 
