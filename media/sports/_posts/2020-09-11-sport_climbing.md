@@ -17,7 +17,7 @@ permalink: /sports/sport_climbing/
                 <b>Training Days:</b><br>
                 Tuesday & Thursday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:edwink@tp.edu.sg">Mr Edwin Khong</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhd Haffiz Amin</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/teamtpsc">Instagram</a>
             </p>
