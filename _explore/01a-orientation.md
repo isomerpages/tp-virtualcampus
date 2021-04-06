@@ -41,7 +41,7 @@ The Temasek Friendship Games foster camaraderie and friendly competition among o
 
 Find out who will emerge victorious at the Temasek Spectacular Virtual Concert!
 
-Relive the excitement and energy of the past year's Temasek Regatta by visiting the <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums/72157690880913613" target="_blank">Digital Media & Production Crew albums</a>
+Relive the excitement and energy of the past year's Temasek Regatta by visiting the <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums/72157690880913613" target="_blank">Digital Media & Production Crew's Flickr album</a>
 
 ![FOP2021]({{site.baseurl}}/images/BeInvolved-FriendshipgamesSquare.png)
 
