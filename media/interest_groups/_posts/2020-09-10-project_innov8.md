@@ -7,10 +7,10 @@ permalink: /interest_groups/project_innov8/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_nyaa_challenge.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></image></td>
+            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></image></td>
             <td>
                 <p>
-                    The National Youth Achievement Award (NYAA) is a prestigious award that is recognised in many countries including Singapore. TP NYAA Challenge Interest Group aims to help Gold Award Participants (GAPs) in the completion of the NYAA (Gold) by organising activities that meet the following criteria:<br>
+                    It is about cultivating innovation culture among TP students, from all schools.Pi8 strive in sparking creativity, transformative thinking, collaboration, turning ideas into valued reality that will impact learning journey and society. Activity range from simple, fun to challenging, complex, real life innovation yet allow creative expression towards value creation without worry of failure.<br>
                 </p>
                     <ol>
                         <li>Healthy Living</li>
