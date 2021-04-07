@@ -164,9 +164,9 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
                     </image>
                 </a>
             </td>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>NYAA Challenge</h4>
-                <a href="{{site.baseurl}}/interest_groups/nyaa_challenge/">
-                    <image src="{{site.baseurl}}/images/CCA_nyaa_challenge.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>LEAD Ambassadors</h4>
+                <a href="{{site.baseurl}}/interest_groups/LEAD_Ambassadors/">
+                    <image src="{{site.baseurl}}/images/CCA-Lead_Ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                     </image>
                 </a>
             </td>
