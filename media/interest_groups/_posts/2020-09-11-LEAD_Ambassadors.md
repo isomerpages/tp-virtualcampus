@@ -18,6 +18,7 @@ permalink: /interest_groups/lead_ambassadors/
                         <li>Coordinate with LEAD Alumni for possible collaborations</li>
                     </ol>
                 </p>
+                <p>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Edwin_Khong@tp.edu.sg">Mr Edwin Khong</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tp.lead/">Instagram</a>
