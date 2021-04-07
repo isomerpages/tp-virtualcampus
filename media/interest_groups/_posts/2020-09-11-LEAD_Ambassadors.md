@@ -34,7 +34,7 @@ permalink: /interest_groups/lead_ambassadors/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CMPFA6in4YV/">
-                <image src="{{site.baseurl}}/images/CCA-Lead_Ambassadors_IG1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <image src="{{site.baseurl}}/images/CCA-Lead_Ambassadors_IG11.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                 <h6 style="margin-top:0%">Temasek LEAD Summit</h6>
                 </image>
             </a>
