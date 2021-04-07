@@ -172,6 +172,20 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
             </td>
         </tr>
         <tr>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>NYAA Challenge</h4>
+                <a href="{{site.baseurl}}/interest_groups/nyaa_challenge/">
+                    <image src="{{site.baseurl}}/images/CCA_nyaa_challenge.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
+                    </image>
+                </a>
+            </td>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Project Innov8</h4>
+                <a href="{{site.baseurl}}/interest_groups/project_innov8/">
+                    <image src="{{site.baseurl}}/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Toastmasters</h4>
                 <a href="{{site.baseurl}}/interest_groups/toastmasters/">
                     <image src="{{site.baseurl}}/images/CCA_toastmasters.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
