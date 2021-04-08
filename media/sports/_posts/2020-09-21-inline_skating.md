@@ -14,7 +14,7 @@ permalink: /sports/inline_skating/
                 <b>Training Days:</b><br>
                 Tuesday & Friday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:limap@tp.edu.sg">Ms Celine Clare Lim</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:tan_yeuan_huei@tp.edu.sg">Mr Tan Yeuan Huei</a> and <a href="mailto:limap@tp.edu.sg">Ms Celine Clare Lim</a><br>
                 <br>
             </p>
         </td>

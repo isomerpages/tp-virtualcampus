@@ -22,7 +22,7 @@ third_nav_title: Be Entertained
 
 Let Music Vox and their esteemed collaborators “rock your world” with their brand of music in this inaugural livestream concert! Music Vox will also be launching their debut EP on Spotify. Check out the amazing music videos. Not to be missed! 
  
-Concert link will be posted here on Fri 9 Apr 2021.
+Watch the concert <a href="https://vimeo.com/534288370" target="_blank">LIVE!</a> 
 
 <b>Around The World: Temasek Polytechnic Chinese Orchestra Recital: Travelogue</b><br>
 <b>Mon 12 Apr 2021 8pm</b>
