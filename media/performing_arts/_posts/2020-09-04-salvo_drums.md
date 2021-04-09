@@ -13,13 +13,19 @@ permalink: /performing_arts/salvo_drums/
                 The Salvo Drums brings to life any stage with their performances using the world’s most ancient instrument – the drum, specifically, the 24-season drums. Teamwork, with disciplined training, plays a vital role for the drummers in displaying their powerful percussive strokes in choreographed synchronised movements. Salvo Drums has also experimented through a variety of themes to enhance the vibrancy and creativity of its performances, immersing the audience with different experiences.<br>
                 <br>
                 <b>Achievements:</b><br>
-                Champion for Blazing Beats (2017)<br>
-                Champion for DrumzOut (2011)<br>
-                <br>
+                <ul>
+                    <li>Champion for Blazing Beats (2017)</li>
+                    <li>Champion for DrumzOut (2011)</li>
+                </ul>
+            </p>
+            <p>
                 <b>Training Days:</b><br>
-                Tuesday & Thursday, 6.30pm to 9.30pm<br>
-                Saturday, 9am to 5pm (Seniors)<br>
-                <br>
+                <ul>
+                    <li>Tuesday & Thursday, 6.30pm to 9.30pm</li>
+                    <li>Saturday, 9am to 5pm (Seniors)</li>
+                </ul>
+            </p>
+            <p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpsalvo">Instagram</a>
