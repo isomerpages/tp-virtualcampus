@@ -22,13 +22,13 @@ Calling all Pet Owners! Want to know how you can be more considerate as a pet ow
 
 **Find Out [More](https://www.instagram.com/p/CKxNsdKnVgV/){:target="_blank"}**
 
-![Love Our Animals]({{site.baseurl}}/images/BeCaring-LoveAnimals.png)
+![Toy Donation Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
 
 ---
 
 ### Toy from the Heart - Toy Donation Drive ###
 
-TP Community collectively donated more than 650 pre-loved or new educational toys over a 4-day period in Jan 2021 towards the Metta Welfare Association (Metta), and brought joy to pre-school children from less privileged families today. 
+TP Community collectively donated more than 650 pre-loved or new educational toys over a 4-day period in Jan 2021 and brought joy to pre-school children from less privileged families under the Metta Welfare Association (Metta).
 
 **Find Out [More](https://www.instagram.com/p/CKiPt2bnMcK/){:target="_blank"}**
 
