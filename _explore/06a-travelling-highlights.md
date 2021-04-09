@@ -5,6 +5,15 @@ permalink: /be-travelling/event-highlights/
 third_nav_title: Be Travelling
 
 ---
+### Virtual Adventure Challenge 2021 ###
+
+![Virtual Adventure Challenge]({{site.baseurl}}/images/BeTravelling-highlights-AdventureChallenge.PNG)
+
+This inaugural virtual cycling adventure challenge has been extended to give you more time to cycle and trek your way to victory.  
+
+**Sign up now with [TP Adventure Club](/p10/ac/)!**
+
+---
 ### ASEAN Student e-Xchange Programme ###
 
 ![ASEAN Student e-Xchange Programme]({{site.baseurl}}/images/BeTravelling-ASEAN_Student_Exchange.png)
