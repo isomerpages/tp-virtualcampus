@@ -27,7 +27,6 @@ permalink: /performing_arts/chinese_orchestra/
                 </ul>
             </p>
             <p>
-                <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpchineseorchestra">Instagram</a>
