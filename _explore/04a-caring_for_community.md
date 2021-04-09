@@ -6,6 +6,16 @@ third_nav_title: Be Caring
 
 ---
 
+### Love Our Animals ###
+
+Calling all Pet Owners! Want to know how you can be more considerate as a pet owner and make the environment a pleasant one for everyone? 
+
+**Find Out [More](https://www.instagram.com/p/CKxNsdKnVgV/){:target="_blank"}**
+
+![Toy Donationa Drive]({{site.baseurl}}/images/BeCaring-LoveAnimals.png)
+
+---
+
 ### Toy from the Heart - Toy Donation Drive ###
 
 TP Community collectively donated more than 650 pre-loved or new educational toys over a 4-day period in Jan 2021 towards the Metta Welfare Association (Metta), and brought joy to pre-school children from less privileged families today. 
