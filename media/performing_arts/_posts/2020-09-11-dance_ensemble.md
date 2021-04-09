@@ -44,23 +44,23 @@ permalink: /performing_arts/dance_ensemble/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CFUNIl9HBun/">
-                <image src="{{site.baseurl}}/images/CCA-TPDE_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">Pyjama Night production appreciation</h6>
+            <a href="https://www.instagram.com/p/CNKlKcYnUgq/">
+                <image src="{{site.baseurl}}/images/CCA-TPDE_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <h6 style="margin-top:0%">“PLAY” is a 6-part video series</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CC8TIAOnkzS/">
-                <image src="{{site.baseurl}}/images/CCA-TPDE_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">TPDE Fundraiser</h6>
+            <a href="https://www.instagram.com/p/CNSMUFOntMa/">
+                <image src="{{site.baseurl}}/images/CCA-TPDE_IG5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <h6 style="margin-top:0%">"PLAY" collaborator - Dikir Barat</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/stories/highlights/17861586109871863/">
-                <image src="{{site.baseurl}}/images/CCA-TPDE_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">#TPDEGameFace challenge</h6>    
+            <a href="https://www.instagram.com/p/CNSMbOEHMMg/">
+                <image src="{{site.baseurl}}/images/CCA-TPDE_IG6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <h6 style="margin-top:0%">"PLAY" collaborator - Digital Media & Production Crew</h6>    
                 </image>
             </a>
         </td>
