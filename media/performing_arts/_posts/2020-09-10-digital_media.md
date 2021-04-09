@@ -13,10 +13,13 @@ permalink: /performing_arts/digital_media/
                 Digital Media & Production Crew forms the backbone of all performing arts groups by providing extensive technical support. Other than providing the essentials such as lighting, sound, video, stage management, photography, videography and front-of-house, they also organise campus-wide events such as the annual DREAMS Concert.<br>
                 <br>
                 <b>Achievements:</b><br>
-                Canon Photomarathon 2020 - 2nd place for the student category<br>
-                Canon Photomarathon 2019 - 3rd place for the student category<br>
-                NSMen Video Competition 2019 - Merit<br>
-                <br>
+                <ul>
+                <li>Canon Photomarathon 2020 - 2nd place for the student category</li>
+                <li>Canon Photomarathon 2019 - 3rd place for the student category</li>
+                <li>NSMen Video Competition 2019 - Merit</li>
+                </ul>
+            </p>
+            <p>
                 <b>Training Days:</b><br>
                 Thursday, 7pm to 9pm<br>
                 <br>
