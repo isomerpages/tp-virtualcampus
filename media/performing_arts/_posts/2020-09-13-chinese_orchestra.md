@@ -25,6 +25,8 @@ permalink: /performing_arts/chinese_orchestra/
                     <li>Wednesday (Combined), 7pm to 9pm</li>
                     <li>Friday (Sectionals), 7pm to 9pm</li>
                 </ul>
+            </p>
+            <p>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
                 <br>
