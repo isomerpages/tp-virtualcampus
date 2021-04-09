@@ -6,6 +6,16 @@ third_nav_title: Be Caring
 
 ---
 
+### Listen II - Mental Wellness Roadshow ###
+
+We have received many encouraging words from our fellow TP students in our Community Board during "Listen II", a mental wellness roadshow. Check out the posts on our TP CSC instagram to read some of the submissions from our very own TP Community! We hope that these words of encouragements would inspire you to press on for life's challenges!
+
+**Find Out [More](https://www.instagram.com/p/CLDrqe6n8en/){:target="_blank"}**
+
+![Listen II]({{site.baseurl}}/images/BeCaring-ListenII.png)
+
+---
+
 ### Love Our Animals ###
 
 Calling all Pet Owners! Want to know how you can be more considerate as a pet owner and make the environment a pleasant one for everyone? 
