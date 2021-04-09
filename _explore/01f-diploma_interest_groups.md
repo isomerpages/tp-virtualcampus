@@ -197,9 +197,9 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Bioengenes</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>BioENGenes</h4>
                 <a href="https://www.instagram.com/tpbme/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_bmeig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Bioengenes Interest Group (BME)">
+                    <image src="{{site.baseurl}}/images/CCA_bmeig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="BioENGenes Interest Group (BME)">
                     </image>
                 </a>
             </td>
