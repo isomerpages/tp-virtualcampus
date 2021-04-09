@@ -11,7 +11,7 @@ third_nav_title: Be Entertained
  
 <h5>Watch this space as your concert "tickets" appear as links on the event day!</h5>
 
-![ArtsFest]({{site.baseurl}}/images/BeEntertained-Artsfest.png)
+![ArtsFest]({{site.baseurl}}/images/BeEntertained-ArtsfestQR.png)
 
 ---
 ## Festival Programme
