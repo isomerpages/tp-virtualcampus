@@ -12,7 +12,7 @@ Calling all Pet Owners! Want to know how you can be more considerate as a pet ow
 
 **Find Out [More](https://www.instagram.com/p/CKxNsdKnVgV/){:target="_blank"}**
 
-![Toy Donationa Drive]({{site.baseurl}}/images/BeCaring-LoveAnimals.png)
+![Love Our Animals]({{site.baseurl}}/images/BeCaring-LoveAnimals.png)
 
 ---
 
@@ -22,7 +22,7 @@ TP Community collectively donated more than 650 pre-loved or new educational toy
 
 **Find Out [More](https://www.instagram.com/p/CKiPt2bnMcK/){:target="_blank"}**
 
-![Toy Donationa Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
+![Toy Donation Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
 
 
 ---
