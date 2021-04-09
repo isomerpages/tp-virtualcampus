@@ -22,7 +22,7 @@ Calling all Pet Owners! Want to know how you can be more considerate as a pet ow
 
 **Find Out [More](https://www.instagram.com/p/CKxNsdKnVgV/){:target="_blank"}**
 
-![Toy Donation Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
+![Love Our Animals]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
 
 ---
 
