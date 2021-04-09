@@ -21,18 +21,6 @@ Turn your hawker dreams into reality and hone your hawkerpreneurship skills thro
 ![NEA F&B](/images/BeConnected_FNB.png)
 
 ---
-### Live Webinar: Understanding SGUnited Skills Programme ### 
-<div style="text-align: justify">
-    <p>
-Join us at this live webinar on 6 Nov 2020 (Friday), 3.30pm to find out how you can benefit from the generous training and support measures under SGUS, while upskilling for the future!
-         </p>
-</div>
-
-**Learn [more](https://www.instagram.com/p/CGyf0flHqSd/)**
-
-![Upskilling WorkforceSG](/images/BeConnected_SGUnited.jpg)
-
----
 ### Leveraging LinkedIn for Your Career ###
 <div style="text-align: justify">
     <p>
