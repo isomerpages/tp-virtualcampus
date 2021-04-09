@@ -44,9 +44,9 @@ permalink: /performing_arts/dance_ensemble/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CNKlKcYnUgq/">
+            <a href="https://www.instagram.com/p/CIE_ytenron/">
                 <image src="{{site.baseurl}}/images/CCA-TPDE_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">“PLAY” is a 6-part video series</h6>
+                <h6 style="margin-top:0%">Breaking Pointé Vol. 6 - The Finalists</h6>
                 </image>
             </a>
         </td>
