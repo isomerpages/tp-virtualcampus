@@ -8,9 +8,9 @@ third_nav_title: Be Caring
 
 ### Toy from the Heart - Toy Donation Drive ###
 
-Donate pre-loved or new educational toys towards the Metta Welfare Association (Metta), and bring joy to pre-school children from less privileged families today. Donation drive happening this week from **19 to 22 Jan 2021** at the Plaza outside TP Library. 
+TP Community collectively donated more than 650 pre-loved or new educational toys over a 4-day period in Jan 2021 towards the Metta Welfare Association (Metta), and brought joy to pre-school children from less privileged families today. 
 
-**Find Out [More](https://www.instagram.com/p/CJ8SfvyHx4Z/){:target="_blank"}**
+**Find Out [More](https://www.instagram.com/p/CKiPt2bnMcK/){:target="_blank"}**
 
 ![Toy Donationa Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
 
