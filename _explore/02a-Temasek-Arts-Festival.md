@@ -29,7 +29,7 @@ Watch the concert <a href="https://vimeo.com/534288370" target="_blank">LIVE!</a
 
 Temasek Polytechnic Chinese Orchestra’s first virtual recital will be an exciting showcase of traditional Chinese music and more. Catch these talented musicians as they bring you music from “around the world"!
 
-Concert link will be posted here on Mon 12 Apr 2021.
+Watch the concert <a href="https://www.youtube.com/watch?v=MKM3g2s_lgs" target="_blank">LIVE!</a>
 
 <b>Teatrofest 2021: The Garden, Genesis & The Red Thread</b><br>
 <b>Tue 13 Apr 2021 8pm</b>
