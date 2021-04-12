@@ -6,7 +6,7 @@ third_nav_title: Be Involved
 ---
 ### CCA Virtual Fair 2021
 
-<image src="{{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
+<image src="{{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="CCAvf">
     
 Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count.
 
