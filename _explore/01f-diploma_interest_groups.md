@@ -191,21 +191,21 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Ashrae Student Branch</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>Architectural Technology & Building Services</h4>
                 <a href="https://www.instagram.com/tpgbs_ashrae/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_gbsig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Ashrae Student Branch (GBS)">
+                    <image src="{{site.baseurl}}/images/CCA_gbsig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Architectural Technology & Building Services (GBS)">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Bioengenes</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>BioENGenes</h4>
                 <a href="https://www.instagram.com/tpbme/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_bmeig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Bioengenes Interest Group (BME)">
+                    <image src="{{site.baseurl}}/images/CCA_bmeig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="BioENGenes Interest Group (BME)">
                     </image>
                 </a>
             </td>
         </tr>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>BIZEN</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Business Process & Systems Engineering</h4>
                 <a href="https://www.instagram.com/eng_tpbze/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_bizen.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="BIZEN (BZE)">
                     </image>
@@ -217,17 +217,17 @@ third_nav_title: Be Involved
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Energy Oasis</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Clean Energy</h4>
                 <a href="https://www.instagram.com/energyoasis/?hl=en" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_energyoasis.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="EnergyOasis (CER)">
+                    <image src="{{site.baseurl}}/images/CCA_energyoasis.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Clean Energy (CER)">
                     </image>
                 </a>
             </td>
           </tr>
           <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>G-Force</h4>
+            <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Avionix</h4>
                 <a href="https://www.instagram.com/gforceael/" target="_blank">
-                    <image src="{{site.baseurl}}/images/CCA_aelig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="G-Force (AEL)">
+                    <image src="{{site.baseurl}}/images/CCA_aelig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Avionix (AEL)">
                     </image>
                 </a>
             </td>

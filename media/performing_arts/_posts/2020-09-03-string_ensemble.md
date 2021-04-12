@@ -13,13 +13,15 @@ permalink: /performing_arts/string_ensemble/
                 The String Ensemble performs pieces from a range of genres, from classical to modern pop music. A string instrument’s sound and timbre can greatly vary depending on how it is played, thus this allows for many possibilities when it comes to music arrangement and ways for members to express themselves.<br>
                 <br>
                 <b>Achievements:</b><br>
-                National Day Concert (2019)<br>
-                Magical Autumn @OTH (2019)<br>
-                DREAMS XI (2019)<br>
-                Sunset Showcase: Temasek Unplugged (2019)<br>
-                <br>
-                <b>Training Days:</b><br>
-                Monday, 7pm to 9pm<br>
+                <ul>
+                    <li>National Day Concert (2019)</li>
+                    <li>Magical Autumn @OTH (2019)</li>
+                    <li>DREAMS XI (2019)</li>
+                    <li>Sunset Showcase: Temasek Unplugged (2019)</li>
+                </ul>
+            </p>
+            <p>
+                <b>Training Days:</b> Monday, 7pm to 9pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
                 <br>

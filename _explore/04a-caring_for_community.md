@@ -6,13 +6,33 @@ third_nav_title: Be Caring
 
 ---
 
+### Listen II - Mental Wellness Roadshow ###
+
+We have received many encouraging words from our fellow TP students in our Community Board during "Listen II", a mental wellness roadshow. Check out the posts on our TP CSC instagram to read some of the submissions from our very own TP Community! We hope that these words of encouragements would inspire you to press on for life's challenges!
+
+**Find Out [More](https://www.instagram.com/p/CLDrqe6n8en/){:target="_blank"}**
+
+![Listen II]({{site.baseurl}}/images/BeCaring-ListenII.png)
+
+---
+
+### Love Our Animals ###
+
+Calling all Pet Owners! Want to know how you can be more considerate as a pet owner and make the environment a pleasant one for everyone? 
+
+**Find Out [More](https://www.instagram.com/p/CKxNsdKnVgV/){:target="_blank"}**
+
+![Love Our Animals]({{site.baseurl}}/images/BeCaring-LoveAnimals.png)
+
+---
+
 ### Toy from the Heart - Toy Donation Drive ###
 
-Donate pre-loved or new educational toys towards the Metta Welfare Association (Metta), and bring joy to pre-school children from less privileged families today. Donation drive happening this week from **19 to 22 Jan 2021** at the Plaza outside TP Library. 
+TP Community collectively donated more than 650 pre-loved or new educational toys over a 4-day period in Jan 2021 and brought joy to pre-school children from less privileged families under the Metta Welfare Association (Metta).
 
-**Find Out [More](https://www.instagram.com/p/CJ8SfvyHx4Z/){:target="_blank"}**
+**Find Out [More](https://www.instagram.com/p/CKiPt2bnMcK/){:target="_blank"}**
 
-![Toy Donationa Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
+![Toy Donation Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
 
 
 ---

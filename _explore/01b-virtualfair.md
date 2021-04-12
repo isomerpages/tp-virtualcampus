@@ -6,6 +6,8 @@ third_nav_title: Be Involved
 ---
 ### CCA Virtual Fair 2021
 
+![FOP2021]({{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg)
+    
 Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count.
 
 Life as a TP student can be as thrilling, colourful and exciting as you want it to be! Join us to discover the infectious Team Temasek spirit through over 140 diverse CCAs, ranging from the performing arts, sports, academic clubs, adventure, community service, to entrepreneurship – and lots more! 
@@ -39,7 +41,7 @@ Find out more about our CCAs by exploring the various tabs on the left. Or, sign
         </td>
         <td style="width:50%"><br>
             <a href="https://tp-vc-staging.netlify.app/be-involved/diploma_interest_groups">
-                <image src="{{site.baseurl}}/images/BeInvolved-ClubsIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
+                <image src="{{site.baseurl}}/images/BeInvolved-DipIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
                 <h6 style="margin-top:0%">School/Diploma Interest Groups</h6>
                 </image>
             </a>

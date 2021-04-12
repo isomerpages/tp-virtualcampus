@@ -13,16 +13,22 @@ permalink: /performing_arts/malay_dance/
                 TP Malay Dance Group is also called Kesenian Si Anak Tari (Seni Nak Tari or SNT). SNT takes pride in promoting the arts and providing high-quality traditional and contemporary performances. Featuring both traditional and contemporary styles, SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various genres portrayed.<br>
                 <br>
                 <b>Achievements:</b><br>
-                TP Concert Champion (2019)<br>
-                TP National Day Concert (2019)<br>
-                Pesta Raya @ Esplanade (2019)<br>
-                Bangsawan Tajul Gaspar @ OTH (2019)<br>
-                Champion for Persada Juara Tari (2018)<br>
-                <br>
+                <ul>
+                    <li>TP Concert Champion (2019)</li>
+                    <li>TP National Day Concert (2019)</li>
+                    <li>Pesta Raya @ Esplanade (2019)</li>
+                    <li>Bangsawan Tajul Gaspar @ OTH (2019)</li>
+                    <li>Champion for Persada Juara Tari (2018)</li>
+                </ul>
+            </p>
+            <p>
                 <b>Training Days:</b><br>
-                Monday & Tuesday, 6:30pm to 9:30pm<br>
-                Additional training days on Thursday & Saturday, nearing show day<br>
-                <br>
+                <ul>
+                    <li>Monday & Tuesday, 6:30pm to 9:30pm</li>
+                    <li>Additional training days on Thursday & Saturday, nearing show day</li>
+                </ul>
+            </p>
+            <p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:chrislee@tp.edu.sg">Mr Xris Li</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/keseniansianaktari">Instagram</a>
@@ -37,16 +43,16 @@ permalink: /performing_arts/malay_dance/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CDqukxJBx2q/">
-                <image src="{{site.baseurl}}/images/CCA-Malaydance_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
-                <h6 style="margin-top:0%">Collaboration with Indian Dance for NDC Performance</h6>
+            <a href="https://www.instagram.com/p/CKBuFVqBC3s/">
+                <image src="{{site.baseurl}}/images/CCA-Malaydance_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <h6 style="margin-top:0%">Electric Dreams with Malay Dance</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CBXwYmThMka/">
-                <image src="{{site.baseurl}}/images/CCA-Malaydance_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
-                <h6 style="margin-top:0%">Hari Raya celebration video</h6>
+            <a href="https://www.instagram.com/p/CDqukxJBx2q/">
+                <image src="{{site.baseurl}}/images/CCA-Malaydance_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <h6 style="margin-top:0%">Collaboration with Indian Dance for NDC Performance</h6>
                 </image>
             </a>
         </td>

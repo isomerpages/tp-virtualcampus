@@ -20,6 +20,19 @@ Read on to see how our alumni have been keeping in touch with us even beyond gra
 
 ---
 
+#### Taking the Unconventional Path! ####
+<div style="text-align: justify">
+    <p>
+Tune in to the 2nd of 5 Finds Thrift Market's Instagram Live series on 11 April 2021 (Sunday) at 2.30pm. Featuring entrepreneurs such as Twitch Streamer & Mentor and many more!
+    </p>
+</div>
+
+**Check out [here](https://www.facebook.com/temasekpolyalumni/photos/3972113716182957){:target="_blank"} for more details**
+
+![Unconventional Path](/images/BeConnected_Highlights_Unconventional.PNG)
+
+---
+
 #### Out of Your Comfort Zone By Alumna Ms Wendy Yee ####
 <div style="text-align: justify">
     <p>
