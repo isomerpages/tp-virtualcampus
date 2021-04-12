@@ -6,6 +6,8 @@ third_nav_title: Be Involved
 ---
 ### CCA Virtual Fair 2021
 
+<image src="{{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
+    
 Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count.
 
 Life as a TP student can be as thrilling, colourful and exciting as you want it to be! Join us to discover the infectious Team Temasek spirit through over 140 diverse CCAs, ranging from the performing arts, sports, academic clubs, adventure, community service, to entrepreneurship – and lots more! 
