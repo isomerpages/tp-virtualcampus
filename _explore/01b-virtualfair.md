@@ -41,7 +41,7 @@ Find out more about our CCAs by exploring the various tabs on the left. Or, sign
         </td>
         <td style="width:50%"><br>
             <a href="https://tp-vc-staging.netlify.app/be-involved/diploma_interest_groups">
-                <image src="{{site.baseurl}}/images/BeInvolved-ClubsIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
+                <image src="{{site.baseurl}}/images/BeInvolved-DipIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
                 <h6 style="margin-top:0%">School/Diploma Interest Groups</h6>
                 </image>
             </a>
