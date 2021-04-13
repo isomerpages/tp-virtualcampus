@@ -36,7 +36,7 @@ Watch the concert <a href="https://www.youtube.com/watch?v=MKM3g2s_lgs" target="
 
 Known for their great stage presence, convincing portrayals and wonderful characterisations, the talents from Teatro take their stage prowess and light up your screens! Watch them shine in 3 screen playlets entitled The Garden, Genesis & The Red Thread.
 
-Concert link will be posted here on Tue 13 Apr 2021.
+Watch the concert <a href="https://www.youtube.com/watch?v=hlMP24WJVIw" target="_blank">LIVE!</a>
 
 <b>Dwi-Rasa: Indian Dance Group & Malay Dance Group</b><br>
 <b>Wed 14 Apr 2021 8pm</b>
