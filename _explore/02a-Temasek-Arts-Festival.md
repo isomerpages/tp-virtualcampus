@@ -43,7 +43,7 @@ Watch the concert <a href="https://www.youtube.com/watch?v=hlMP24WJVIw" target="
 
 Dwi-Rasa is a Sanskrit word meaning Two Emotions. Let your emotions be uplifted by Indian Dance Group with their dance performance, Aaruyirae and be enchanted by the Malay Dance Group’s piece entitled Berkebaya Biru. Simply beautiful!
 
-Concert link will be posted here on Wed 14 Apr 2021.
+Watch the concert <a href="https://youtu.be/hkGV43FYpTM" target="_blank">LIVE!</a>
 
 <b>PLAY The Series: Experimental Collective</b><br>
 <b>Thu 15 Apr 2021 8pm</b>
