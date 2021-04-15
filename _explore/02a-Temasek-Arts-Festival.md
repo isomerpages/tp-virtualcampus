@@ -50,11 +50,11 @@ Watch the concert <a href="https://youtu.be/hkGV43FYpTM" target="_blank">LIVE!</
 
 PLAY is a 6-part video series helmed by Temasek Polytechnic Dance Ensemble (TPDE), in which TPDE “plays” with various Arts Groups from Temasek Arts Centre in a collaborative experiment to showcase human connection through the different eras. An amazing event you don’t want to miss!
 
-Concert link will be posted here on Thur 15 Apr 2021.
+Watch the concert <a href="https://youtu.be/uPutWi3LQoM" target="_blank">LIVE!</a>
 
 <b>Temasek Spectacular 2021: Freshmen Concert</b><br>
 <b>Fri 16 Apr 2021 3pm</b>
 
 Pre-Covid years, the Temasek Spectacular was a concert that the Freshmen will get to attend after they had spent the day in the sun, cheering and paddling at the Regatta! This year, for the first time, Temasek Spectacular 2021 will be an online, livestream concert and will be made available for everyone to watch. Look out for quizzes and lots of CapitaVouchers to be worn by Freshmen and Juniors!
 
-Concert link will be posted here on Fri 16 Apr 2021.
+Watch the concert <a href="https://vimeo.com/535755304" target="_blank">LIVE!</a>
