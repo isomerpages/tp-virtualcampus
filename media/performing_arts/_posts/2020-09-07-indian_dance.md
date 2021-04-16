@@ -23,7 +23,7 @@ permalink: /performing_arts/indian_dance/
             <p>
                 <b>Training Days:</b><br>
                 <ul>
-                    <li>Wednesday & Friday, 7pm to 9pm</li>
+                    <li>Wednesday & Friday, 6pm to 9pm</li>
                     <li>Additional training days, nearing show day</li>
                 </ul>
             </p>
