@@ -30,7 +30,7 @@ Check out the highlights below and see you at FOP 2021!
 
 <b>Save the date - 16 April, 3pm!</b> The Temasek Spectacular is back, bigger and better! Find out the winners of the Temasek Friendship Games, watch snippets of the TikTok Cheers from the academic schools and test your knowledge as a TP-ian and stand a chance to win up to $2,500 of CapitaVouchers!
 
-Watch this space - Livestream link coming to you!
+Watch the concert <a href="https://vimeo.com/535755304" target="_blank">LIVE!</a>
 
 ![SpectacularConcert]({{site.baseurl}}/images/BeInvolved-SpectacularSquare.png)
 
