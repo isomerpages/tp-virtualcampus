@@ -178,9 +178,23 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
                     </image>
                 </a>
             </td>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Peer Supporters-in-Action</h4>
+                <a href="{{site.baseurl}}/interest_groups/peer_supporters_in_action/">
+                    <image src="{{site.baseurl}}/images/CCA-TPPIA.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Project Innov8</h4>
                 <a href="{{site.baseurl}}/interest_groups/project_innov8/">
                     <image src="{{site.baseurl}}/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    </image>
+                </a>
+            </td>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>SENvocates</h4>
+                <a href="{{site.baseurl}}/interest_groups/senvocates/">
+                    <image src="{{site.baseurl}}/images/CCCA-SENvocates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates">
                     </image>
                 </a>
             </td>
