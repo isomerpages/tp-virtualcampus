@@ -53,11 +53,20 @@ sections:
 #          alt: Salvo3
 
     - infopic:
+        title: CCA Virtual Fair 2021
+        subtitle: Sign up for CCAs!
+        image: /images/Infopic-CCAvf.jpg
+        description: Discover your interests with our 140+ CCAs! Share with us what you want to join!
+        button: Sign up for CCAs!
+        url: /be-involved/ccavirtualfair
+        alt: virtualfair
+        
+    - infopic:
         title: Temasek Spectacular Virtual Concert 2021
         subtitle: Freshmen Orientation Programme
         image: /images/Infopic-TemasekSpectacular.png
         description: A performance showcase of epic proportions - Relive the Friendship Games, catch the groovy TikTok videos and stand a chance to win over $2,500 worth of CapitaVouchers!
-        button: Catch it Live
+        button: Relive the Excitement!
         url: /be-involved/freshmenorientation/#spectacular
         alt: Virtual Concert
     
@@ -75,19 +84,10 @@ sections:
         subtitle: Concerts Galore
         image: /images/Infopic-Artsfest2021.png
         description: Don't miss The First Ever Temasek Polytechnic's Online Arts Festival!
-        button: Catch Them Live
+        button: Watch These Concerts
         url: /be-entertained/artsfest/
-        alt: Artsfest
-    
-    - infopic:
-        title: CCA Virtual Fair 2021
-        subtitle: Sign up for CCAs!
-        image: /images/Infopic-CCAvf.jpg
-        description: Discover your interests with our 140+ CCAs! Share with us what you want to join!
-        button: CCA Virtual Fair
-        url: /be-involved/ccavirtualfair
-        alt: virtualfair
-        
+        alt: Artsfest 
+       
     - infopic:
         title: Want to be featured on this Virtual Campus?
         subtitle: Reach out to us
