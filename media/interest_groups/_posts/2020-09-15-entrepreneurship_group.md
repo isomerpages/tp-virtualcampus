@@ -18,7 +18,7 @@ permalink: /interest_groups/entrepreneurship_group/
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:leecm@tp.edu.sg">Mr Thomas Lee</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong</a> and <a href="mailto:Alice_LAU-LIM@TP.EDU.SG">Ms Alice Lau</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpec_enspire">Instagram</a>
                 </p>
