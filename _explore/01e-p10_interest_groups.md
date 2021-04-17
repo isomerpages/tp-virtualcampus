@@ -122,7 +122,7 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
                     </image>
                 </a>
             </td>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Makers Club</h4>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Makers Group</h4>
                 <a href="{{site.baseurl}}/interest_groups/engineering_makers/">
                     <image src="{{site.baseurl}}/images/CCA_engmakers1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers">
                     </image>
