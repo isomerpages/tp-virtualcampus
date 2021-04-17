@@ -56,8 +56,8 @@ sections:
         title: CCA Virtual Fair 2021
         subtitle: Sign up for CCAs!
         image: /images/Infopic-CCAvf.jpg
-        description: Discover your interests with our 140+ CCAs! Share with us what you want to join!
-        button: Sign up for CCAs!
+        description: Keen to channel the Team Temasek spirit and make your days on campus count? Check out this exciting event to find out more about the diverse CCAs offered in TP!
+        button: CCA Virtual Fair 2021
         url: /be-involved/ccavirtualfair
         alt: virtualfair
         
