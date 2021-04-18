@@ -12,7 +12,7 @@ sections:
 #        button: More Excitement This Way!
 #        url: /be-involved/highlights/
 #        background: /images/download1.jpg
-        background: /images/BeInvolved-CCAvirtualfairbanner.jpg
+        background: /images/Homepage-CCAvirtualfairbanner.png
         key_highlights:
 #            - title: Student Portal
 #              description: Get to your student portal here
