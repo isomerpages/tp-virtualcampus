@@ -22,7 +22,7 @@ permalink: /performing_arts/dikir_barat/
             <p>
                 <b>Training Days:</b><br>
                 <ul>    
-                    <li>Monday & Wednesday, 6.30pm to 9.30pm</li>
+                    <li>Monday & Wednesday, 6pm to 9pm</li>
                     <li>Additional training days, nearing show day</li>
                 </ul>
             </p>

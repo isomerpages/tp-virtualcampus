@@ -24,8 +24,8 @@ permalink: /performing_arts/malay_dance/
             <p>
                 <b>Training Days:</b><br>
                 <ul>
-                    <li>Monday & Tuesday, 6:30pm to 9:30pm</li>
-                    <li>Additional training days on Thursday & Saturday, nearing show day</li>
+                    <li>Monday & Tuesday, 6pm to 9pm</li>
+                    <li>Additional training days nearing show day</li>
                 </ul>
             </p>
             <p>

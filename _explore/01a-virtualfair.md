@@ -17,14 +17,14 @@ Find out more about our CCAs by exploring the various tabs on the left. Or, sign
 <table>
     <tr>
         <td style="width:50%"><br>
-            <a href="https://tp-vc-staging.netlify.app/be-involved/performing-arts/">
+            <a href="https://forms.office.com/r/GGf2E5d8et">
                 <image src="{{site.baseurl}}/images/BeInvolved-PerformingArtsShowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
                 <h6 style="margin-top:0%">Performing Arts (28 April)</h6>
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="https://tp-vc-staging.netlify.app/be-involved/sports/">
+            <a href="https://forms.office.com/r/MiyLVg5ftn">
                 <image src="{{site.baseurl}}/images/BeInvolved-Sportsshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
                 <h6 style="margin-top:0%">Sports (29 April)</h6>
                 </image>
@@ -33,14 +33,14 @@ Find out more about our CCAs by exploring the various tabs on the left. Or, sign
     </tr>
     <tr>
         <td style="width:50%"><br>
-            <a href="https://tp-vc-staging.netlify.app/be-involved/p10-interest-groups/">
+            <a href="https://forms.office.com/r/5mkaYhuytt">
                 <image src="{{site.baseurl}}/images/BeInvolved-ClubsIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
                 <h6 style="margin-top:0%">Clubs & Interest Groups (30 April)</h6>
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="https://tp-vc-staging.netlify.app/be-involved/diploma_interest_groups">
+            <a href="https://forms.office.com/r/FyEXbDzMMK">
                 <image src="{{site.baseurl}}/images/BeInvolved-DipIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
                 <h6 style="margin-top:0%">School/Diploma Interest Groups</h6>
                 </image>
