@@ -29,4 +29,4 @@ Watch the chat recordings at the School of Applied Science’s [YouTube](https:/
 
 Catch this series at TP VWC’s [YouTube](https://www.youtube.com/channel/UC6ZdE4cqXBj39EFGcY6LqSQ/videos?app=desktop) channel today!
 
-![VET Video Series](/images/BeConnected_FNB.png)
+![VET Video Series](/images/BeConnected_buzz_ASC3.png)
