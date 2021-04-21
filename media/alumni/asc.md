@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  TP-Spirit of Enterprise
-permalink: /interest_groups/tp_spirit_of_enterprise/
+title:  School of Applied Science
+permalink: /alumni/school_of_applied_science/
 ---
