@@ -22,6 +22,8 @@ Through a series of exciting online live chats held from 20-26 November 2020, Ap
 Watch the chat recordings at the School of Applied Science’s [YouTube](https://www.youtube.com/channel/UCXtXxcKj3SM-kKb3PXt_TVw/videos?app=desktop) channel! 
 
 ![ASC Webinar Series](/images/BeConnected_buzz_ASC2.png)
+<br>*(Photo Credit: @tp_asc)*
+
 
 ---
 ### VET Video Series: “Dear Younger Me” ###
