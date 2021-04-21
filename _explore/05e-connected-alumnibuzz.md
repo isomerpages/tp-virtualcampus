@@ -16,19 +16,19 @@ Check out how our alumni from across TP have been staying connected with us, exp
         <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Applied Science</h4>
                 <a href="{{site.baseurl}}/alumni/school_of_applied_science/">
-                    <image src="{{site.baseurl}}/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="ASC">
+                    <image src="{{site.baseurl}}/images/BeConnected_buzz_ASC.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="ASC">
                     </image>
                 </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Business</h4>
                 <a href="{{site.baseurl}}/alumni/school_of_business/">
-                    <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS">
+                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS">
                     </image>
                 </a>
             </td>
         <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Design</h4>
                 <a href="{{site.baseurl}}/alumni/school_of_design/">
-                    <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="DES">
+                    <image src="{{site.baseurl}}/images/BeConnected_buzz_DES.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="DES">
                     </image>
                 </a>
             </td>
