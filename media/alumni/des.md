@@ -33,7 +33,7 @@ The next time you swing by DES, remember to pose for your #OOTDs against these l
          </tr>
     </table>
 </div>
-<br>*(Photo Credit: @temasekpoly.design)*
+*(Photo Credit: @temasekpoly.design)*
 
 ---
 ### “Very Momentary Exhibition 1.5” by Lee Wei Lieh ###
