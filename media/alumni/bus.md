@@ -2,7 +2,7 @@
 layout: post
 title:  School of Business
 permalink: /alumni/school_of_business/
----
+
 ---
 ### BUS Alumni Webinar Series ###
 BUS alumni from all walks of life were treated to two interesting webinars in January 2021, which were organised exclusively for them! 
