@@ -33,5 +33,25 @@ Check out how our alumni from across TP have been staying connected with us, exp
                 </a>
             </td>
         </tr>
+        <tr>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Engineering</h4>
+                <a href="{{site.baseurl}}/p10/ac/">
+                    <image src="{{site.baseurl}}/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG">
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Humanities & Social Sciences</h4>
+                <a href="{{site.baseurl}}/p10/ascsc/">
+                    <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="HSS">
+                    </image>
+                </a>
+            </td>
+        <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Informatics & IT</h4>
+                <a href="{{site.baseurl}}/p10/ascsc/">
+                    <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="IIT">
+                    </image>
+                </a>
+            </td>
+        </tr>
     </table>
 </div>       
