@@ -15,7 +15,7 @@ Check out how our alumni from across TP have been staying connected with us, exp
     <table>
         <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Applied Science</h4>
-                <a href="{{site.baseurl}}/p10/ac/">
+                <a href="{{site.baseurl}}/alumni/school_of_applied_science/">
                     <image src="{{site.baseurl}}/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="ASC">
                     </image>
                 </a>
