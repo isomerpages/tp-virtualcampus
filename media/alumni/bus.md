@@ -19,11 +19,10 @@ At this webinar, data analytics expert – Benjamin Yang (MKG, 2001) – shared 
     <table>
         <tr>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS1" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">
-                    </image>
+                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">                                       </image>
             </td>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS1" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">
+                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">
                     </image>
             </td>
          </tr>
