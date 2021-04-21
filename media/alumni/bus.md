@@ -28,7 +28,7 @@ At this webinar, data analytics expert – Benjamin Yang (MKG, 2001) – shared 
          </tr>
     </table>
 </div>
-<br>*(Photo Credit: tpbizschool)*
+*(Photo Credit: tpbizschool)*
 
 ---
 ### BUS Alumni @ Singapore Food Festival 2020 ###
