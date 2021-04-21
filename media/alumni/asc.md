@@ -11,7 +11,7 @@ The panellists shared the thrills and spills of their educational and career jou
  
 It was definitely a nice way for our alumni to reconnect/contribute, and for the students to benefit from their experienced seniors!
 
-![New Frontier](/images/BeConnected_Career_NewFrontier.PNG)
+![PHS Alumni](/images/BeConnected_buzz_ASC1.jpg)
 
 ---
 ### ASC Webinar Series ###
