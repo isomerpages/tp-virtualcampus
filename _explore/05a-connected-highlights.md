@@ -23,7 +23,7 @@ Read on to see how our alumni have been keeping in touch with us even beyond gra
 #### Adulting: All About Finance ####
 <div style="text-align: justify">
     <p>
-We invite you to tune in to the last of Five Finds Thrift Market’s Instagram Live series on 24 April 2021 (Saturday) at 2.30pm! Get some great insights and useful tips on financial planning and literacy, ranging from savings, investments and lots more. Check out here for more details!
+We invite you to tune in to the last of Five Finds Thrift Market’s Instagram Live series on 24 April 2021 (Saturday) at 2.30pm! Get some great insights and useful tips on financial planning and literacy, ranging from savings, investments and lots more.
     </p>
 </div>
 
