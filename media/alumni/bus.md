@@ -12,7 +12,7 @@ BUS alumni from all walks of life were treated to two interesting webinars in Ja
 Not sure how to get the most bang for your buck for your next hotel staycation? At this webinar, Grace Kiong (HTM, 2005), Head butler of Raffles Hotel, addressed many burning questions on this topic, where she also shared lots of useful tips on how her fellow alumni can make their staycations count! 
 
 **Webinar 2: Leveraging Data Analytics for Good Customer Experience (29 January 2021)**
- 
+
 At this webinar, data analytics expert – Benjamin Yang (MKG, 2001) – shared his expertise on how to leverage data to integrate all aspects of the customer experience in the omni-channel approach. Benjamin is also the Managing Director of Novitee, and an internationally sought-after F&B Profit Strategist.
 
 <div>
