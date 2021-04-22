@@ -11,20 +11,17 @@ Are you keen to find out how you can leverage LinkedIn to build meaningful profe
 ![New Frontier](/images/BeConnected_Career_SuccesLinkedIn.jpg)
 
 ---
-### Realise Your Entrepreneurship Dreams in the F&B Industry ###
-Turn your hawker dreams into reality and hone your hawkerpreneurship skills through classroom-based training, apprenticeship opportunities and mentorship offered by experienced hawkers! This 12-month programme by the National Environment Agency, SkillsFuture Singapore and Temasek Polytechnic to launch our new Work-Study Post-Diploma (Certificate in Hawkerpreneurship), was open to all recent graduates from the polytechnics and the Institute of Technical Education.
+### Realise Your Hawkerpreneurship Dreams At TP ###
+Live your passion. Our TP alumnus, Samuel Chiang (ENG, Class of 2018), paid testimony to this adage when he decided to enroll in the TP Work-Study Certificate in Hawkerpreneurship to kickstart his young and bold hawkerpreneur journey! 
 
-**Find out [more](https://www.instagram.com/p/CKDsKjlnCSO/) today!** 
+**Find out [more](https://www.facebook.com/314916878569344/posts/3969068669820795/) today!** 
 
-![NEA F&B](/images/BeConnected_FNB.png)
+![Hawkerpreneurship Dreams](/images/BeConnected_Career_FNB.png)
 
 ---
-### Leveraging LinkedIn for Your Career ###
-<div style="text-align: justify">
-    <p>
-Get insightful perspectives and useful tips to build your brand/profile using LinkedIn amidst these challenging times. <strong>If you missed the live webcast hosted by Mr Hosea Lai, Head of Social Impact (APAC), LinkedIn, click <a href="https://www.facebook.com/watch/live/?v=660591798116873&ref=external/">here</a> to watch the recording!</strong>
-        </p>
-</div>
+### Bolster Your Future With The SGUnited Skills Programme ###
+After many years of job stability, would you pivot yourself for a mid-career switch to a totally new sector? Our TP alumnus, Darrek Lau, took the leap of faith and did just that!
 
+When COVID-19 struck and dealt a drastic blow to his earnings, Darrek decided to enrol in the TP SGUnited Skills (SGUS) Upskill Software Development Programme. [Read on](https://www.facebook.com/314916878569344/posts/3990296881031307/) and be inspired by Darrek’s resolve to upskill for the future!
 
-![Leveraging LinkedIn](/images/BeConnected_LinkedIn.jpg)
+![SGUnited Skills](/images/BeConnected_Career_SGUnited.jpg)
