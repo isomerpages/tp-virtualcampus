@@ -12,8 +12,10 @@ permalink: /performing_arts/indian_dance/
             <p>
                 Temasek Polytechnic (TP) Indian Dance Group (IDG) trains in the various dance forms such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance forms. IDG's members do their own choreography and have been featured at various major events. IDG promotes and showcases its colourful and enthralling dance forms and charming performances, leaving the audience asking for more.<br>
                 <br>
-                <b>Achievements:</b><br>
+                <b>Achievements/Features:</b><br>
                 <ul>
+                    <li>Temasek Arts Festival – Dwi-Rasa: Aariyire (2021)</li>
+                    <li>TP National Day Celebrations Concert (Collaboration with Malay Dance Group, 2020)</li>
                     <li>Pongal Celebration for Indian Heritage Centre (2020)</li>
                     <li>Avidya (2019)</li>
                     <li>Kalinga (2019)</li>
@@ -23,7 +25,7 @@ permalink: /performing_arts/indian_dance/
             <p>
                 <b>Training Days:</b><br>
                 <ul>
-                    <li>Wednesday & Friday, 6pm to 9pm</li>
+                    <li>Wednesday & Friday, 6pm to 9pm (On-campus/Online)</li>
                     <li>Additional training days, nearing show day</li>
                 </ul>
             </p>
