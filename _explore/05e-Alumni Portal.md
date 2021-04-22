@@ -18,6 +18,6 @@ App members can look forward to a suite of benefits, privileges and services, in
 
 Don’t miss out on these great deals! Update your particulars with us here [NOW](https://form.gov.sg/#!/5eec8b9da56c390011f8583d){:target="_blank"} to enjoy access to the app!
 
-*(*Details of how to download and activate your TP Oei app will be released in due course. Stay tuned for more updates!)*
+<i>(*Details of how to download and activate your TP Oei app will be released in due course. Stay tuned for more updates!)</i>
 
 ![Join the Alumni Family](/images/BeConnected_Join the Alumni Family.jpg)
