@@ -5,6 +5,12 @@ permalink: /be-connected/personal-development/
 third_nav_title: Be Connected
 
 ---
+### Legacy Beyond You
+Life may sometimes be unpredictable, but you can still make sound preparations in the event of unforeseen circumstances. Check out some useful tips on estate planning in this [Facebook Live webcast](https://www.facebook.com/watch/live/?v=711055356397120&ref=watch_permalink) by our TP alumnus, Mr Shaun Chong (Estate Planner, PreceptsGroup International), and learn how to protect your loved ones at critical milestones of your life journey!
+
+![Legacy Beyond You]({{site.baseurl}}/images/BeConnected_LegacyBeyondYou.png)
+
+---
 ### Coping with the Travel Itch ###
 Are you looking for ways to satisfy your wanderlust, while waiting to jet off to your dream holiday destinations in a new normal, post-COVID-19 world? Hear from our TP alumnus (Mr Martin Gwee, Dip CMM, Class 2006) as he shares creative ideas on how you can feed that travel bug!  
 
