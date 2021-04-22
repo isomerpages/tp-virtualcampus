@@ -23,3 +23,6 @@ It was definitely an enriching and inspiring session for the students, and a hea
     </table>
 </div>
 *(Photo Credit: School of IIT)*
+
+---
+**Back to [Alumni Buzz](/be-connected/alumnibuzz/)**
