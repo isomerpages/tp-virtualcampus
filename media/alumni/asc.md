@@ -6,9 +6,9 @@ permalink: /alumni/school_of_applied_science/
 ---
 ### Sharing by Pharmaceutical Science Alumni ###
 On 7 November 2020, students from the Diploma in Pharmaceutical Science (PHS) attended a virtual panel discussion featuring five alumni. These alumni had graduated from different cohorts but shared one thing in common: they are all currently pursuing their passion in pharmaceutical science, through either work or studies.
- 
+
 The panellists shared the thrills and spills of their educational and career journeys after graduating from TP, as well as useful tips on how to survive (and even excel in) Pharmacy 101. The fruitful exchanges that transpired during Q&A also paid testimony to the success of the session. 
- 
+
 It was definitely a nice way for our alumni to reconnect/contribute, and for the students to benefit from their experienced seniors!
 
 ![PHS Alumni](/images/BeConnected_buzz_ASC1.jpg)
