@@ -23,3 +23,6 @@ It was definitely an inspiring and stimulating session, especially for the gradu
 
 ![PSY Alumni](/images/BeConnected_buzz_HSS1.png)
 <br>*(Photo Credit: @hss_sc)*
+
+---
+**Back to [Alumni Buzz](/be-connected/alumnibuzz/)**
