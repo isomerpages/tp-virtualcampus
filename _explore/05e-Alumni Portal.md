@@ -5,7 +5,6 @@ permalink: /be-connected/tp-alumni/
 third_nav_title: Be Connected
 
 ---
-
 ### TP Alumni Membership & Services
 
 As a TP alumnus, you are part of our valued family of more than 100,000 graduates from all walks of life. We are committed to your continuous professional development and personal enrichment through a host of benefits, privileges and services, available exclusively for alumni.
@@ -23,4 +22,3 @@ Don’t miss out on these great deals! Update your particulars with us here [NOW
 
 ![Join the Alumni Family](/images/BeConnected_Join the Alumni Family.jpg) 
 
----
