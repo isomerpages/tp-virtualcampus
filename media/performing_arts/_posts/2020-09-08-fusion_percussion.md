@@ -14,20 +14,15 @@ permalink: /performing_arts/fusion_percussion/
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
+                    <li>"World Drum Night 4: Even When No One Sees" (2018)</li>
                     <li>"In-Youthful-Company” @ Esplanade Waterfront (2019)</li>
                     <li>Pink Ribbon Walk Breast Cancer Foundation (2019)</li>
                     <li>Sunset Showcase: Jiving Jamboree (2019)</li>
-                    <li>"World Drum Night 4: Even When No One Sees" (2018)</li>
                 </ul>
             </p>
             <p>
-                <b>Training Days:</b><br>
-                <ul>
-                    <li>Wednesday & Thursday, 6.30pm to 9.30pm</li>
-                    <li>Occasionally Saturday, 11am to 4pm</li>
-                 </ul>
-            </p>
-            <p>
+                <b>Training Days:</b> Tuesday & Thursday, 6.00pm to 9.00pm<br>
+                <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/fusionpercussion">Instagram</a>
