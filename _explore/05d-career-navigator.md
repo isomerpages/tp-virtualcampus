@@ -5,12 +5,10 @@ permalink: /be-connected/career-navigator/
 third_nav_title: Be Connected
 
 ---
-### New Frontier 2021 - Is Formal Education a Pre-requisite for a Deep Tech Career? ###
-As many trailblazers have shown, formal technical education is just one of the pathways to a career in #DeepTech. However, how essential is the paper chase? STATE YOUR STAND in this debate <Is Formal Education a Pre-requisite for a Deep Tech Career?> with industry practitioners and leaders from local educational institutions. REGISTER for #SGInnovateNewFrontier now!
+### Networking Your Way To Success Through LinkedIn ###
+Are you keen to find out how you can leverage LinkedIn to build meaningful professional connections, and nurture positive relationships for your career development? Gain useful insights and tips from our alumna, Ms Nas Rahim (Talent & Learning Account Manager, LinkedIn), at this [Facebook Live webcast](https://www.facebook.com/temasekpolyalumni/videos/1521214548071467)!
 
-**Find out [more](https://www.facebook.com/SGINNOVATESingapore/photos/a.1684340488544897/2780669892245279/) today!** 
-
-![New Frontier](/images/BeConnected_Career_NewFrontier.PNG)
+![New Frontier](/images/BeConnected_Career_SuccesLinkedIn.jpg)
 
 ---
 ### Realise Your Entrepreneurship Dreams in the F&B Industry ###
