@@ -8,11 +8,11 @@ permalink: /alumni/services/
     <table>
         <tr>
             <td style="width:30%"><br>
-                    <image src="{{site.baseurl}}/images/Merchant_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Merchant Service1">                                       </image>
+                    <image src="{{site.baseurl}}/images/Merchant_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Merchant Service2">                                       </image>
             </td>
             <td style="width:70%"><br>
                 <h4>Alumni Name</h4>
-                <h5>School, Year</h4>
+                <h5>School, Year</h5>
             </td>
          </tr>
     </table>
