@@ -14,6 +14,7 @@ Sample layout below
     <table>
         <tr>
             <td style="width:49%"><br>
+                <a href="/alumni/services/">
                     <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">                                       </image>
             </td>
             <td style="width:49%"><br>
