@@ -23,3 +23,17 @@ It was definitely an inspiring and stimulating session, especially for the gradu
 
 ![PSY Alumni](/images/BeConnected_buzz_HSS1.png)
 <br>*(Photo Credit: @hss_sc)*
+
+---
+### 7th Psychology Studies Student Conference 2021 ###
+Around 170 students, alumni and industry partners attended the 7th Psychology Studies Student Conference, which was held on 19 February 2021. 
+
+This was an annual showcase of student projects based on close collaborations between the diploma staff, students and industry partners. These collaborations provide a platform for students to apply what they have learnt to real world projects. Though they had graduated from TP, our alumni participants also benefitted from the industry insights shared by the panel of sectoral experts. 
+
+This year’s conference was held online on [YouTube](https://www.youtube.com/watch?app=desktop&v=HhKpe4EAWSo&feature=youtu.be), with breakout sessions on Microsoft Teams. You can view the Conference e-Booklet [here](https://www.tp.edu.sg/content/dam/tp-web/files/flipbook/cabss/index.html?page=1). 
+
+![PSY Student Conference](/images/BeConnected_buzz_HSS2.png)
+<br>*(Photo Credit: School of HSS)*
+
+---
+**Back to [Alumni Buzz](/be-connected/alumnibuzz/)**

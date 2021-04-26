@@ -12,8 +12,10 @@ permalink: /performing_arts/malay_dance/
             <p>
                 TP Malay Dance Group is also called Kesenian Si Anak Tari (Seni Nak Tari or SNT). SNT takes pride in promoting the arts and providing high-quality traditional and contemporary performances. Featuring both traditional and contemporary styles, SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various genres portrayed.<br>
                 <br>
-                <b>Achievements:</b><br>
+                <b>Achievements/Features:</b><br>
                 <ul>
+                    <li>Temasek Arts Festival - Dwi-Rasa: Berkebaya Biru (2021)</li>
+                    <li>TP National Day Celebrations Concert (Collaboration with Indian Dance Group, 2020)</li>
                     <li>TP Concert Champion (2019)</li>
                     <li>TP National Day Concert (2019)</li>
                     <li>Pesta Raya @ Esplanade (2019)</li>
@@ -24,8 +26,9 @@ permalink: /performing_arts/malay_dance/
             <p>
                 <b>Training Days:</b><br>
                 <ul>
-                    <li>Monday & Tuesday, 6pm to 9pm</li>
-                    <li>Additional training days nearing show day</li>
+                    <li>Monday & Tuesday, 6pm to 9pm(On-campus)</li>
+                    <li>Monday & Tuesday, 7.45pm to 9.45pm (Online)</li>
+                    <li>Trainings may alternate between physical and online. There may be additional trainings closer to performance day.</li>
                 </ul>
             </p>
             <p>

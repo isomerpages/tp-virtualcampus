@@ -23,7 +23,7 @@ permalink: /performing_arts/chinese_orchestra/
                 <b>Training Days:</b><br>
                 <ul>
                     <li>Wednesday (Combined), 7pm to 9pm</li>
-                    <li>Friday (Sectionals), 7pm to 9pm</li>
+                    <li>Thursday & Friday (Sectionals), 7pm to 9pm</li>
                 </ul>
             </p>
             <p>

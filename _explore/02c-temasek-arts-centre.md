@@ -6,7 +6,7 @@ third_nav_title: Be Entertained
 
 ---
 ### Take The Stage! - Watch these Arts CCA Online Concerts
-Come witness the vibrancy and energy of 14 of the finest <a href="https://tp-vc-prod.netlify.app/be-involved/performing-arts/">Performing Arts Groups</a> in TP with these specially curated videos!
+Come witness the vibrancy and energy of 14 of the finest [Performing Arts Groups](/be-involved/performing-arts/) in TP with these specially curated videos!
 
 [![Arts CCA Concerts]({{site.baseurl}}/images/BeEntertained-TACOHvideo.PNG)](https://www.youtube.com/watch?v=PtGvShau2jI&feature=youtu.be){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
 

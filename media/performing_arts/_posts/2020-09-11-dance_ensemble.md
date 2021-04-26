@@ -24,9 +24,9 @@ permalink: /performing_arts/dance_ensemble/
             <p>
                 <b>Training Days:</b><br>
                 <ul>
-                <li>Modern: Tuesday, 6pm to 8pm (Juniors), 8pm to 10pm (Seniors)</li>
-                <li>Hip Hop: Wednesday, 6pm to 8pm (Juniors , 8pm to 10pm (Seniors)</li>
-                <li>Breakin’: Thursday, 6pm to 8pm (Juniors), 8pm to 10pm (Seniors)</li>
+                <li>Modern: Tuesday, 6pm to 9pm</li>
+                <li>Hip Hop: Wednesday, 6pm to 9pm</li>
+                <li>Breakin’: Thursday, 6pm to 9pm</li>
                 </ul>
             </p>
             <p>

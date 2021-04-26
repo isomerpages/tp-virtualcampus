@@ -14,14 +14,14 @@ permalink: /performing_arts/string_ensemble/
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>National Day Concert (2019)</li>
+                    <li>National Day Virtual Concert (2020)</li>
                     <li>Magical Autumn @OTH (2019)</li>
                     <li>DREAMS XI (2019)</li>
                     <li>Sunset Showcase: Temasek Unplugged (2019)</li>
                 </ul>
             </p>
             <p>
-                <b>Training Days:</b> Monday, 7pm to 9pm<br>
+                <b>Training Days:</b> Monday or Tuesday, 7pm to 9pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
                 <br>

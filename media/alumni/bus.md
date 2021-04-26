@@ -39,3 +39,6 @@ We are proud of the co-founders of [Kausmo](https://www.instagram.com/kausmosg/?
 This was definitely a delectable session not to be missed. Check out the masterclass video [here](https://www.youtube.com/watch?app=desktop&v=6Tyn4Wp7bG8)! 
 
 ![Singapore Food Fest](/images/BeConnected_buzz_BUS3.png)
+
+---
+**Back to [Alumni Buzz](/be-connected/alumnibuzz/)**

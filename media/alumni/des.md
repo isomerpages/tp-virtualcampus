@@ -45,3 +45,6 @@ Read more about Wei Lieh’s inspirations [here](https://www.timeout.com/singapo
 
 ![Very Small Exhibition](/images/BeConnected_buzz_DES5.png)
 <br>*(Photo Credit: @temasekpoly.design)*
+
+---
+**Back to [Alumni Buzz](/be-connected/alumnibuzz/)**

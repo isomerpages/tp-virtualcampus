@@ -57,4 +57,4 @@ PLAY is a 6-part video series helmed by Temasek Polytechnic Dance Ensemble (TPDE
 
 Pre-Covid years, the Temasek Spectacular was a concert that the Freshmen will get to attend after they had spent the day in the sun, cheering and paddling at the Regatta! This year, for the first time, Temasek Spectacular 2021 will be an online, livestream concert and will be made available for everyone to watch. Look out for quizzes and lots of CapitaVouchers to be worn by Freshmen and Juniors!
 
-<a href="https://vimeo.com/535755304" target="_blank">Watch the concert again!</a>
+The recording of the Temasek Spectacular Virtual Concert 2021 is being processed. Please check back here again soon to relive the action!
