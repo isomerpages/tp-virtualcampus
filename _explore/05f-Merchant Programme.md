@@ -16,6 +16,7 @@ Sample layout below
             <td style="width:49%"><br>
                 <a href="/alumni/services/">
                     <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">                                       </image>
+                 </a>
             </td>
             <td style="width:49%"><br>
                     <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">
