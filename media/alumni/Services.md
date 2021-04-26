@@ -11,8 +11,8 @@ permalink: /alumni/services/
                     <image src="{{site.baseurl}}/images/Merchant_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Merchant Service1">                                       </image>
             </td>
             <td style="width:70%"><br>
-                <h4 style="margin-top:0%">Alumni Name</h6>
-                <br><h5 style="margin-top:0%">School, Year</h6>
+                <h4>Alumni Name</h4>
+                <br><h5>School, Year</h4>
             </td>
          </tr>
     </table>
@@ -25,8 +25,8 @@ permalink: /alumni/services/
                     <image src="{{site.baseurl}}/images/Merchant_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Merchant Service2">                                       </image>
             </td>
             <td style="width:70%"><br>
-                <h4 style="margin-top:0%">Alumni Name</h6>
-                <br><h5 style="margin-top:0%">School, Year</h6>
+                <h4>Alumni Name</h4>
+                <br><h5>School, Year</h5>
             </td>
          </tr>
     </table>
