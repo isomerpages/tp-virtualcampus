@@ -8,7 +8,9 @@ permalink: /alumni/services/
     <table>
         <tr>
             <td style="width:30%"><br>
+                <a href="https://www.instagram.com/p/CDIVTWNppAz/">
                     <image src="{{site.baseurl}}/images/Merchant_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Merchant Service2">                                       </image>
+                <a>
             </td>
             <td style="width:70%"><br>
                 <h4>Alumni Name</h4>
@@ -23,7 +25,9 @@ permalink: /alumni/services/
     <table>
         <tr>
             <td style="width:30%"><br>
+                <a href="https://www.instagram.com/p/CDIVTWNppAz/">
                     <image src="{{site.baseurl}}/images/Merchant_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Merchant Service2">                                       </image>
+                <a>
             </td>
             <td style="width:70%"><br>
                 <h4>Alumni Name</h4>
