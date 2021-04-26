@@ -12,7 +12,7 @@ permalink: /alumni/services/
             </td>
             <td style="width:70%"><br>
                 <h4>Alumni Name</h4>
-                <br><h5>School, Year</h4>
+                <h5>School, Year</h4>
             </td>
          </tr>
     </table>
@@ -26,7 +26,7 @@ permalink: /alumni/services/
             </td>
             <td style="width:70%"><br>
                 <h4>Alumni Name</h4>
-                <br><h5>School, Year</h5>
+                <h5>School, Year</h5>
             </td>
          </tr>
     </table>
