@@ -38,7 +38,7 @@ Sample layout below
             </td>
             <td style="width:49%"><br>
                 <a href="/alumni/services/">
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services">
+                    <image src="{{site.baseurl}}/images/Merchant-Services.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services">
                     </image>
                 </a>
             </td>
