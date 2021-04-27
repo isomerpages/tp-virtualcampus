@@ -14,13 +14,15 @@ Sample layout below
     <table>
         <tr>
             <td style="width:49%"><br>
-                <a href="/alumni/services/">
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">                                       </image>
+                <a href="/alumni/diningdelights/">
+                    <image src="{{site.baseurl}}/images/Merchant-DiningDelights.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights">                                       </image>
                  </a>
             </td>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">
+                <a href="/alumni/lifestyle/">
+                    <image src="{{site.baseurl}}/images/Merchant-Lifestyle.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle">
                     </image>
+                </a>
             </td>
          </tr>
     </table>
@@ -30,11 +32,15 @@ Sample layout below
     <table>
         <tr>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">                                       </image>
+                <a href="/alumni/retailtherapy/">
+                    <image src="{{site.baseurl}}/images/Merchant-RetailTherapy.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy">                                       </image>
+                </a>
             </td>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">
+                <a href="/alumni/services/">
+                    <image src="{{site.baseurl}}/images/BeConnected_buzz_BUS2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services">
                     </image>
+                </a>
             </td>
          </tr>
     </table>
