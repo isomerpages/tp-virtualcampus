@@ -81,7 +81,7 @@ permalink: /alumni/services/
             </td>
             <td style="width:65%"><br>
                 <h3 style="margin-top:0%">Refine Define</h3>
-                <h5 style="margin-top:0%"><i>By alumnus Emilyn Cheong (DES)</i></h5>
+                <h5 style="margin-top:0%"><i>By alumna Emilyn Cheong (DES)</i></h5>
             </td>
          </tr>
         <tr>
