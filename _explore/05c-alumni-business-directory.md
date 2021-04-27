@@ -7,7 +7,7 @@ third_nav_title: Be Connected
 ---
 ### TP Alumni Business Directory
 
-Check out what our entrepreneurial alumni have been busy setting up since they left TP!
+Check out what our entrepreneurial alumni have been busy setting up since they graduated from TP!
 
 <div>
     <table>
