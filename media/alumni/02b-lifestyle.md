@@ -43,7 +43,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://dancersdreamstudio.com/">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-DancerDreamStudio.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle4">                                       </image>
+                <image src="{{site.baseurl}}/images/MerchantLifetyle-DancerDreamStudio.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle4">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
