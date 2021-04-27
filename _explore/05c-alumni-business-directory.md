@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Merchant Programme
-permalink: /be-connected/merchant-programme/
+title: Alumni Business Directory
+permalink: /be-connected/alumni-business-directory/
 third_nav_title: Be Connected
 
 ---
-### TP Alumni Merchant Programme
+### TP Alumni Business Directory
 words... 
 
 Sample layout below
