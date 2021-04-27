@@ -14,7 +14,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">Botart</h4>
-                <h5 style="margin-top:0%">By alumni Timothy Chia (BUS) & Shaun Tan (ASC)</h5>
+                <h5 style="margin-top:0%"><i>By alumni Timothy Chia (BUS) & Shaun Tan (ASC)</i></h5>
             </td>
          </tr>
     </table>
@@ -30,7 +30,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">Brotherbird Coffeehouse</h4>
-                <h5 style="margin-top:0%">By alumnus Yeo Chern Yu (BUS)</h5>
+                <h5 style="margin-top:0%"><i>By alumnus Yeo Chern Yu (BUS)</i></h5>
             </td>
          </tr>
     </table>
@@ -46,7 +46,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">Eleven Strands</h4>
-                <h5 style="margin-top:0%">By alumnus Terence Chuah (BUS)    </h5>
+                <h5 style="margin-top:0%"><i>By alumnus Terence Chuah (BUS)</i></h5>
             </td>
          </tr>
     </table>
@@ -62,7 +62,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">Fatcat Ice Cream Bar</h4>
-                <h5 style="margin-top:0%">By alumnus Charles Tan (BUS)</h5>
+                <h5 style="margin-top:0%"><i>By alumnus Charles Tan (BUS)</i></h5>
             </td>
          </tr>
     </table>
@@ -78,7 +78,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">Hatter Street Bakehouse & Café</h4>
-                <h5 style="margin-top:0%">By alumnus Jeremy Han (ASC)</h5>
+                <h5 style="margin-top:0%"><i>By alumnus Jeremy Han (ASC)</i></h5>
             </td>
          </tr>
     </table>
@@ -94,7 +94,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">Lau Wang Claypot Delights</h4>
-                <h5 style="margin-top:0%">By alumnus Low Mark Jeremy (ASC)</h5>
+                <h5 style="margin-top:0%"><i>By alumnus Low Mark Jeremy (ASC)</i></h5>
             </td>
          </tr>
     </table>
@@ -110,7 +110,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">One Prawn Noodle</h4>
-                <h5 style="margin-top:0%">By alumnus Gwyneth Ang (BUS)</h5>
+                <h5 style="margin-top:0%"><i>By alumnus Gwyneth Ang (BUS)</i></h5>
             </td>
          </tr>
     </table>
@@ -126,7 +126,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">South Union Park</h4>
-                <h5 style="margin-top:0%">By alumnus Terence Chuah (BUS)</h5>
+                <h5 style="margin-top:0%"><i>By alumnus Terence Chuah (BUS)</i></h5>
             </td>
          </tr>
     </table>
@@ -142,7 +142,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">The Burning Oak</h4>
-                <h5 style="margin-top:0%">By alumna Yvette Chua (BUS)</h5>
+                <h5 style="margin-top:0%"><i>By alumna Yvette Chua (BUS)</i></h5>
             </td>
          </tr>
     </table>
@@ -158,7 +158,7 @@ permalink: /alumni/diningdelights/
             </td>
             <td style="width:70%"><br>
                 <h4 style="margin-top:0%">The Populus Coffee & Food Co.</h4>
-                <h5 style="margin-top:0%">By alumnus Kang Yi Yang (BUS)</h5>
+                <h5 style="margin-top:0%"><i>By alumnus Kang Yi Yang (BUS)</i></h5>
             </td>
          </tr>
     </table>
