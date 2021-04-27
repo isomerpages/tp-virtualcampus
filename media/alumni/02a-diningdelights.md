@@ -119,3 +119,6 @@ permalink: /alumni/diningdelights/
          </tr>
     </table>
 </div>
+
+---
+**Back to [Alumni Business Directory](/be-connected/alumni-business-directory/)**
