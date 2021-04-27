@@ -4,6 +4,7 @@ title:  Dining Delights
 permalink: /alumni/diningdelights/
 
 ---
+
 <div>
     <table>
         <tr>
@@ -17,7 +18,7 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumni Timothy Chia (BUS) & Shaun Tan (ASC)</i></h5>
             </td>
          </tr>
-----
+---
         <tr>
             <td style="width:35%"><br>
                 <a href="https://brotherbird.sg/">
