@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alumni Business Directory
+title: Alumni Business
 permalink: /be-connected/alumni-business-directory/
 third_nav_title: Be Connected
 
