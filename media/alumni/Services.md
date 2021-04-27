@@ -13,13 +13,12 @@ permalink: /alumni/services/
                 </a>
             </td>
             <td style="width:70%"><br>
-                <h4>Alumni Name</h4>
-                <h5>School, Year</h5>
+                <h4 style="margin-top:0%">Alumni Name</h4>
+                <h5 style="margin-top:0%">School, Year</h5>
             </td>
          </tr>
     </table>
 </div>
-
 ----
 <div>
     <table>
