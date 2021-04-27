@@ -14,7 +14,7 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">Botart</h2>
+                <h3 style="margin-top:0%">Botart</h3>
                 <h5 style="margin-top:0%"><i>By alumni Timothy Chia (BUS) & Shaun Tan (ASC)</i></h5>
             </td>
          </tr>
@@ -25,7 +25,7 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">Brotherbird Coffeehouse</h2>
+                <h3 style="margin-top:0%">Brotherbird Coffeehouse</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Yeo Chern Yu (BUS)</i></h5>
             </td>
          </tr>
@@ -36,7 +36,7 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">Eleven Strands</h2>
+                <h3 style="margin-top:0%">Eleven Strands</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Terence Chuah (BUS)</i></h5>
             </td>
          </tr>
@@ -47,7 +47,7 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">Fatcat Ice Cream Bar</h2>
+                <h3 style="margin-top:0%">Fatcat Ice Cream Bar</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Charles Tan (BUS)</i></h5>
             </td>
          </tr>
@@ -58,8 +58,8 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">Hatter Street Bakehouse & Café</h2>
-                <h5 style="margin-top:0%"><i>By alumnus Jeremy Han (ASC)</i></h5>
+                <h3 style="margin-top:0%">Hatter Street Bakehouse & Café</h3>
+                <h5 style="margin-top:0%"><i>By alumna Yvette Chua (BUS)</i></h5>
             </td>
          </tr>
         <tr>
@@ -69,7 +69,7 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">Lau Wang Claypot Delights</h2>
+                <h3 style="margin-top:0%">Lau Wang Claypot Delights</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Low Mark Jeremy (ASC)</i></h5>
             </td>
          </tr>
@@ -80,7 +80,7 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">One Prawn Noodle</h2>
+                <h3 style="margin-top:0%">One Prawn Noodle</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Gwyneth Ang (BUS)</i></h5>
             </td>
          </tr>
@@ -91,7 +91,7 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">South Union Park</h2>
+                <h3 style="margin-top:0%">South Union Park</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Terence Chuah (BUS)</i></h5>
             </td>
          </tr>
@@ -102,8 +102,8 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">The Burning Oak</h2>
-                <h5 style="margin-top:0%"><i>By alumna Yvette Chua (BUS)</i></h5>
+                <h3 style="margin-top:0%">The Burning Oak</h3>
+                <h5 style="margin-top:0%"><i>By alumnus Jeremy Han (ASC)</i></h5>
             </td>
          </tr>
         <tr>
@@ -113,7 +113,7 @@ permalink: /alumni/diningdelights/
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h2 style="margin-top:0%">The Populus Coffee & Food Co.</h2>
+                <h3 style="margin-top:0%">The Populus Coffee & Food Co.</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Kang Yi Yang (BUS)</i></h5>
             </td>
          </tr>
