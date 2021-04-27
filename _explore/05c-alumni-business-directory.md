@@ -6,9 +6,6 @@ third_nav_title: Be Connected
 
 ---
 ### TP Alumni Business Directory
-words... 
-
-Sample layout below
 
 <div>
     <table>
