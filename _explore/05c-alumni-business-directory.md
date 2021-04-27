@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Alumni Business
+title: Alumni Businesses
 permalink: /be-connected/alumni-business-directory/
 third_nav_title: Be Connected
 
 ---
 ### TP Alumni Business Directory
+
+Check out what our entrepreneurial alumni have been busy setting up since they left TP!
 
 <div>
     <table>
