@@ -18,7 +18,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumni Timothy Chia (BUS) & Shaun Tan (ASC)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="https://brotherbird.sg/">
@@ -30,7 +29,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumnus Yeo Chern Yu (BUS)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/elevenstrands/">
@@ -42,7 +40,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumnus Terence Chuah (BUS)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="http://fatcat.sg/">
@@ -54,7 +51,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumnus Charles Tan (BUS)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.hatterstreet.com/">
@@ -66,7 +62,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumnus Jeremy Han (ASC)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.lauwangclaypot.com/">
@@ -78,7 +73,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumnus Low Mark Jeremy (ASC)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.oneprawnnoodle.com/">
@@ -90,7 +84,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumnus Gwyneth Ang (BUS)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/southunionpark/">
@@ -102,7 +95,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumnus Terence Chuah (BUS)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/the.burning.oak.singapore/">
@@ -114,7 +106,6 @@ permalink: /alumni/diningdelights/
                 <h5 style="margin-top:0%"><i>By alumna Yvette Chua (BUS)</i></h5>
             </td>
          </tr>
----
         <tr>
             <td style="width:35%"><br>
                 <a href="https://thepopulus.cafe/">
