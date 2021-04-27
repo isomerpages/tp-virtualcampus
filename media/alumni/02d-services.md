@@ -10,7 +10,7 @@ permalink: /alumni/services/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.caymangh.com/">
-                <image src="{{site.baseurl}}/images/MerchantServices-CaymanManagementConsultants.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services1">                                       </image>
+                <image src="{{site.baseurl}}/images/MerchantServices-CaymanManagementConsultants.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services1">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
