@@ -54,11 +54,11 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://klarra.com/">
-                <image src="{{site.baseurl}}/images/MerchantRetail-KLARRA.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy5">                                       </image>
+                <image src="{{site.baseurl}}/images/MerchantRetail-KLARRA.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy5">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Houze</h3>
+                <h3 style="margin-top:0%">KLARRA</h3>
                 <h5 style="margin-top:0%"><i>By alumna Beatrice Tan (BUS)</i></h5>
             </td>
          </tr>
