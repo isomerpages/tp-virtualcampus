@@ -43,7 +43,7 @@ permalink: /alumni/services/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://handsonklay.com/">
-                <image src="{{site.baseurl}}/images/MerchantServices-HandsOnKlay.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services4">                                       </image>
+                <image src="{{site.baseurl}}/images/MerchantServices-HandsOnKlay.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services4">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
