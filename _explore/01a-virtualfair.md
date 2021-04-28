@@ -3,8 +3,15 @@ layout: page
 title: CCA Virtual Fair 2021
 permalink: /be-involved/ccavirtualfair
 third_nav_title: Be Involved
+
 ---
 ### CCA Virtual Fair 2021
+
+#FOMO? It is not too late! Join us at the Virtual Fair (Arts) using the links even if you did not sign up. See you tonight!
+
+![CCAvfarts]({{site.baseurl}}/images/BeInvolved-CCAvfartssharing.png)
+
+---
 
 ![FOP2021]({{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg)
     
