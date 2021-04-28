@@ -54,7 +54,7 @@ This is a new award to recognise students who have been actively involved in the
     <font color="blue"><li><b>Change Readiness & Adaptability:</b> Demonstrating outstanding adaptability, creativity and innovation in overcoming challenges</li></font>
  </ol>
 </p>
-<i>(*Projects/activities need not be extensive in magnitude/scale/reach, but should be meaningful or impactful to the team, TP and/or the community. Due to COVID-19 restrictions, those conducted via digital means will also be considered.)</i><br>
+<font color="blue"><i>(*Projects/activities need not be extensive in magnitude/scale/reach, but should be meaningful or impactful to the team, TP and/or the community. Due to COVID-19 restrictions, those conducted via digital means will also be considered.)</i></font><br>
 
 <i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
 
