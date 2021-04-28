@@ -17,8 +17,8 @@ Do take a moment to uplift your students’ spirits, and give them a pat on the 
 
 Nominate them for the TSEA today! 
 
-<b>Announcement</b>
-Nominations for the TSEA are open from now till 31 May 2021 (Monday), 11.59pm. Please refer to the full list of awards, as well as the eligibility criteria, nomination process and submission forms/links below.
+<b>Announcement</b><br>
+Nominations for the TSEA are open <b><u>from now till 31 May 2021 (Monday), 11.59pm</u></b>. Please refer to the full list of awards, as well as the eligibility criteria, nomination process and submission forms/links below.
 
 For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
 
