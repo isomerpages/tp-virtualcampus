@@ -47,12 +47,15 @@ This is a new award to recognise students who have been actively involved in the
  <p>
  <b><font color="blue">Celebrating Efforts Despite COVID-19</font></b><br>
  <br>
-<font color="blue">In view of the extraordinary circumstances in AY2020/2021, please also describe/include contributions from the students in <b>one or more</b> of the following areas:</font>
+  <font color="blue">In view of the extraordinary circumstances in AY2020/2021, please also describe/include contributions from the students in <b>one or more</b> of the following areas:</font>
+</p>
+<p>
+  <ol>
+    <font color="blue"><li><b>Contribution & Leadership:</b> Contributing to the organising of meaningful projects/activities* or leading his/her CCA group during the pandemic; or</li></font>
+    <font color="blue"><li><b>Maintaining Team Spirit:</b> Remaining positive; inspiring and rallying the group/team to remain active together despite the tough season; or</li></font>
+    <font color="blue"><li><b>Change Readiness & Adaptability:</b> Demonstrating outstanding adaptability, creativity and innovation in overcoming challenges</li></font>
+ </ol>
  </p>
-
-
- 
- 
  
  ### Nomination
 Please submit your nominations via the prescribed form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="mailto:tsea@tp.edu.sg">here</a>.
