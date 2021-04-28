@@ -56,7 +56,7 @@ This is a new award to recognise students who have been actively involved in the
  </ol>
 </p>
 <font color="blue"><i>(*Projects/activities need not be extensive in magnitude/scale/reach, but should be meaningful or impactful to the team, TP and/or the community. Due to COVID-19 restrictions, those conducted via digital means will also be considered.)</i></font><br>
-
+<br>
 <i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
 
 ### Nomination
