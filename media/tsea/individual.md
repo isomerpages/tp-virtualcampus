@@ -11,6 +11,7 @@ permalink: /tsea/individual/
 <ul>
   <li>Certificate</li>
  </ul>
+
 ### Criteria
 In view of the COVID-19 situation, this new award will replace the CCA Merit Award (Individual) for 2021. It is awarded to students who have been actively involved in their respective CCAs over the past academic year (AY2020/2021) and have met the following requirements:
 <ul>
