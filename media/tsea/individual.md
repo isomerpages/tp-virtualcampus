@@ -55,9 +55,11 @@ This is a new award to recognise students who have been actively involved in the
     <font color="blue"><li><b>Maintaining Team Spirit:</b> Remaining positive; inspiring and rallying the group/team to remain active together despite the tough season; or</li></font>
     <font color="blue"><li><b>Change Readiness & Adaptability:</b> Demonstrating outstanding adaptability, creativity and innovation in overcoming challenges</li></font>
  </ol>
- </p>
+</p>
+<i>(*Projects/activities need not be extensive in magnitude/scale/reach, but should be meaningful or impactful to the team, TP and/or the community. Due to COVID-19 restrictions, those conducted via digital means will also be considered.)</i><br>
+
+<i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
+
  
- ### Nomination
-Please submit your nominations via the prescribed form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="mailto:tsea@tp.edu.sg">here</a>.
-
-
+### Nomination
+Please submit your nominations via the official online form <a href="mailto:tsea@tp.edu.sg">here</a>.
