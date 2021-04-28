@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temasek Student Excellence Awards 2021
-permalink: /be-involved/tsea2021
+permalink: /be-involved/tsea2021/
 third_nav_title: Be Involved
 
 ---
