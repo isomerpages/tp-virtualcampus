@@ -44,7 +44,7 @@ This is a new award to recognise students who have been actively involved in the
     <li>Displayed exemplary artistic merit / sportsmanship / leadership and conduct in their CCAs</li>
  </ul>
  
- ### <span style="color:blue">Celebrating Efforts Despite COVID-19</span>
+ ### <font color="blue">Celebrating Efforts Despite COVID-19</font> ###
  
  
  
