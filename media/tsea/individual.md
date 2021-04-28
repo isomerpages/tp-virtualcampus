@@ -5,7 +5,13 @@ permalink: /tsea/individual/
 
 ---
 
-### <u><i>(NEW!)</i> CCA Dedication Award (Individual)</u>
+<div style="margin:2%; text-align:center">
+    <a href="{{site.baseurl}}/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions</a>
+    <a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofdes" class="bp-button">School of DES</a>
+</div>
+
+### <a id="ccadedication"></a><u><i>(NEW!)</i> CCA Dedication Award (Individual)</u>
 
 ### The Award
 <ul>
@@ -25,7 +31,7 @@ In view of the COVID-19 situation, this new award will replace the CCA Merit Awa
 Please submit your nominations via the prescribed form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="mailto:tsea@tp.edu.sg">here</a>. 
 
 ---
-### <u><i>(NEW!)</i> Outstanding CCA Contributions Award (Individual)</u>
+### <a id="outstandingcca"></a><u><i>(NEW!)</i> Outstanding CCA Contributions Award (Individual)</u>
 
 ### The Award
 <ul>
