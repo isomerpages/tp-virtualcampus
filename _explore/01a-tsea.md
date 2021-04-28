@@ -34,7 +34,7 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CDQDMP8laua/">
+                <a href="/tsea/selection/">
                     <image src="{{site.baseurl}}/images/tsea-selection.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Selection">
                     <h5 style="margin-top:0%">Selection</h5>
                     </image>
