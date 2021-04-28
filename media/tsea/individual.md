@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Individual Awards
-permalink: /tsea/individual-cca-dedication/
+permalink: /tsea/individual/
 
 ---
 ### <i>(NEW!)</i> CCA Dedication Award (Individual)
