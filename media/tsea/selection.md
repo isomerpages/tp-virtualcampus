@@ -19,3 +19,8 @@ permalink: /tsea/selection/
     <li>The Polytechnic reserves the right not to award any of the awards if no suitable candidates are identified.</li>
    </ul>
 
+---
+**[Back to TSEA](/be-involved/tsea2021/)<br>
+**[Go to Individual Awards](/tsea/individual/)<br>
+**[Go to Group/Team Awards](/tsea/group/)<br>
+**[Go to FAQ](/tsea/faq/)
