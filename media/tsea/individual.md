@@ -4,7 +4,7 @@ title:  Individual Awards
 permalink: /tsea/individual/
 
 ---
-### <i>(NEW!)</i> CCA Dedication Award (Individual)
+### <u><i>(NEW!)</i> CCA Dedication Award (Individual)</u>
 
 ### The Award
 <ul>
