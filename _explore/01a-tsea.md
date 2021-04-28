@@ -5,7 +5,7 @@ permalink: /be-involved/tsea2021
 third_nav_title: Be Involved
 
 ---
-### CCA Virtual Fair 2021
+### Temasek Student Excellence Awards 2021
 
 The Temasek Student Excellence Awards (TSEA) are presented annually to recognise the inspiring achievements and outstanding contributions of students in non-academic areas, such as arts, sports, leadership, service, entrepreneurship and character excellence.
 
