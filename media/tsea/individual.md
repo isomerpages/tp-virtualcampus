@@ -50,7 +50,7 @@ This is a new award to recognise students who have been actively involved in the
 </p>
 <p>
   <ol>
-    <font color="blue"><li><b>Contribution & Leadership:</b> Contributing to the organising of meaningful projects/activities* or leading his/her CCA group during the pandemic; or</li></font>
+    <font color="blue"><li><b>Contribution & Leadership:</b> Contributing to the organising of meaningful projects/activities<b>* or</b> leading his/her CCA group during the pandemic; or</li></font>
     <font color="blue"><li><b>Maintaining Team Spirit:</b> Remaining positive; inspiring and rallying the group/team to remain active together despite the tough season; or</li></font>
     <font color="blue"><li><b>Change Readiness & Adaptability:</b> Demonstrating outstanding adaptability, creativity and innovation in overcoming challenges</li></font>
  </ol>
@@ -104,7 +104,7 @@ This is only applicable to final-year students (AY2020/2021) who have been activ
 </p>
 <p>
   <ol>
-    <font color="blue"><li><b>Contribution & Leadership:</b> Contributing to the organising of meaningful projects/activities* <b>or</b> leading his/her CCA group during the pandemic; or</li></font>
+    <font color="blue"><li><b>Contribution & Leadership:</b> Contributing to the organising of meaningful projects/activities<b>* or</b> leading his/her CCA group during the pandemic; or</li></font>
     <font color="blue"><li><b>Maintaining Team Spirit:</b> Remaining positive; inspiring and rallying the group/team to remain active together despite the tough season; or</li></font>
     <font color="blue"><li><b>Change Readiness & Adaptability:</b> Demonstrating outstanding adaptability, creativity and innovation in overcoming challenges</li></font>
  </ol>
