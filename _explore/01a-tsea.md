@@ -27,7 +27,7 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CDIVTWNppAz/">
+                <a href="/tsea/nomination/">
                     <image src="{{site.baseurl}}/images/tsea-nomination.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Nomination">
                     <h5 style="margin-top:0%">Nomination</h5>
                     </image>
