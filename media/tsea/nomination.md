@@ -14,3 +14,7 @@ For the Outstanding CCA Contributions Awards (Individual & Group/Team), Individu
 Only nominations submitted through the email accounts of TP staff will be accepted. Nominations sent from a student/nominee's email address are deemed as not supported by TP staff, and will hence not be accepted.
 
 It is the TP staff’s responsibility to verify the accuracy of all information, including the nominees’ SEAL records, before submitting their nominations. 
+
+---
+**[Back to TSEA](/be-involved/tsea2021/)
+**[Go to Selection](/tsea/selection/)
