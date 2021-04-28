@@ -41,7 +41,7 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CFRKruAl7DI/">
+                <a href="/tsea/individual/">
                     <image src="{{site.baseurl}}/images/tsea-individual.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Individual Awards">
                     <h5 style="margin-top:0%">Individual Awards</h5>
                     </image>
