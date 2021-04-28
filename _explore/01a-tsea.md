@@ -28,21 +28,21 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CDIVTWNppAz/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Nomination">
+                    <image src="{{site.baseurl}}/images/tsea-nomination.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Nomination">
                     <h5 style="margin-top:0%">Nomination</h5>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CDQDMP8laua/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Selection">
+                    <image src="{{site.baseurl}}/images/tsea-selection.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Selection">
                     <h5 style="margin-top:0%">Selection</h5>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CFRKruAl7DI/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Individual Awards">
+                    <image src="{{site.baseurl}}/images/tsea-individual.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Individual Awards">
                     <h5 style="margin-top:0%">Individual Awards</h5>
                     </image>
                 </a>
@@ -51,14 +51,14 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CDIVTWNppAz/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Group/Team Awards">
+                    <image src="{{site.baseurl}}/images/tsea-group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Group/Team Awards">
                     <h5 style="margin-top:0%">Group/Team Awards</h5>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CDQDMP8laua/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="FAQ">
+                    <image src="{{site.baseurl}}/images/tsea-faq.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="FAQ">
                     <h5 style="margin-top:0%">FAQ</h5>
                     </image>
                 </a>
