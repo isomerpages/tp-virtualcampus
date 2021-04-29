@@ -154,7 +154,7 @@ This is awarded to students of outstanding character, who exemplify key values 
 Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
 
 ---
-### <a id="youngentrepreneur"></a><b>Promising Young Entrepreneur Award</b>
+### <a id="youngentrepreneur"></a><b>Promising Young Entrepreneur Award (Individual)</b>
 
 ### The Award
 <ul>
@@ -182,7 +182,7 @@ This is awarded to entrepreneurial students and fresh graduates* whose businesse
 Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
 
 ---
-### <a id="communityexcellence"></a><b>Community Service Excellence Award</b>
+### <a id="communityexcellence"></a><b>Community Service Excellence Award (Individual)</b>
 
 ### The Award
 <ul>
@@ -207,7 +207,7 @@ This is awarded to students who have demonstrated commitment to advance the welf
 Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
 
 ---
-### <a id="serviceexcellence"></a><b>Service Excellence Award</b>
+### <a id="serviceexcellence"></a><b>Service Excellence Award (Individual)</b>
 
 ### The Award
 <ul>
@@ -260,7 +260,7 @@ Please submit your nominations via the official online form <a href="https://for
 ---
 <div style="margin:2%; text-align:center">
     <a href="{{site.baseurl}}/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions</a>
+    <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions Award</a>
     <a href="{{site.baseurl}}/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
     <a href="{{site.baseurl}}/tsea/individual#characterexcellence" class="bp-button">Character Excellence Award</a>
     <a href="{{site.baseurl}}/tsea/individual#youngentrepreneur" class="bp-button">Promising Young Entrepreneur Award</a>
