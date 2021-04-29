@@ -7,7 +7,7 @@ permalink: /tsea/individual/
 
 <div style="margin:2%; text-align:center">
     <a href="{{site.baseurl}}/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions</a>
+    <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions Award</a>
     <a href="{{site.baseurl}}/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
     <a href="{{site.baseurl}}/tsea/individual#characterexcellence" class="bp-button">Character Excellence Award</a>
     <a href="{{site.baseurl}}/tsea/individual#youngentrepreneur" class="bp-button">Promising Young Entrepreneur Award</a>
