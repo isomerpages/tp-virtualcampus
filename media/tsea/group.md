@@ -13,7 +13,7 @@ permalink: /tsea/group/
 </div>
 
 ---
-### <a id="outstandingccagrp"></a><u><i>(NEW!)</i> Outstanding CCA Contributions Award (Group/Team)</u>
+### <a id="outstandingccagrp"></a><b>(NEW!) Outstanding CCA Contributions Award (Group/Team)</b>
 
 ### The Award
 <ul>
