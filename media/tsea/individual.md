@@ -16,7 +16,7 @@ permalink: /tsea/individual/
     <a href="{{site.baseurl}}/tsea/individual#outstandingcoach" class="bp-button">Outstanding Coach/Instructor Award</a>
 </div>
 
-### <a id="outstandingcca"></a><b>(NEW!) CCA Dedication Award (Individual)</b>
+### <a id="ccadedication"></a><b>(NEW!) CCA Dedication Award (Individual)</b>
 
 ### The Award
 <ul>
@@ -36,7 +36,7 @@ In view of the COVID-19 situation, this new award will replace the CCA Merit Awa
 Please submit your nominations via the prescribed form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="mailto:tsea@tp.edu.sg">here</a>. 
 
 ---
-### <a id="outstandingcca"></a><u><i>(NEW!)</i> Outstanding CCA Contributions Award (Individual)</u>
+### <a id="outstandingcca"></a><b>(NEW!) Outstanding CCA Contributions Award (Individual)</b>
 
 ### The Award
 <ul>
