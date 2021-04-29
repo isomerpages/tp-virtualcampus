@@ -45,7 +45,7 @@ This is a new award to recognise TP-registered CCA groups who have been actively
 Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>. 
 
 ---
-### <a id="youngentrepreneur"></a><b>Promising Young Entrepreneur Award (Group/Team)</b>
+### <a id="youngentrepreneurgrp"></a><b>Promising Young Entrepreneur Award (Group/Team)</b>
 
 ### The Award
 <ul>
@@ -98,7 +98,7 @@ This is awarded to groups of students who have demonstrated commitment to advanc
 Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.
 
 ---
-### <a id="serviceexcellencegrp"></a><b>Service Excellence Award (Individual)</b>
+### <a id="serviceexcellencegrp"></a><b>Service Excellence Award (Group/Team)</b>
 
 ### The Award
 <ul>
