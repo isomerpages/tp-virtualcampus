@@ -37,7 +37,4 @@ No, please submit your nominations by <b><u>31 May 2021 (Monday), 11.59pm.</u></
 
 ---
 
-**[Back to TSEA](/be-involved/tsea2021/)<br>
-**[Go to Individual Awards](/tsea/individual/)<br>
-**[Go to Group/Team Awards](/tsea/group/)<br>
-**[Go to Selection](/tsea/selection/)<br>
+[[TSEA Main Page]](/be-involved/tsea2021/)  [[Nomination]](/tsea/nomination)  [[Selection]](/tsea/selection/)  [[Individual Awards]](/tsea/individual)  [[Group/Team Awards]](/tsea/group)
