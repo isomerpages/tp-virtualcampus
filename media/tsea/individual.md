@@ -33,7 +33,9 @@ In view of the COVID-19 situation, this new award will replace the CCA Merit Awa
  </ul>
 
 ### Nomination
-Please submit your nominations via the prescribed form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="mailto:tsea@tp.edu.sg">here</a>. 
+Please submit your nominations via the prescribed form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="mailto:tsea@tp.edu.sg">here</a>.<br>
+<br>
+[Back to Top](/tsea/individual/)
 
 ---
 ### <a id="outstandingcca"></a><b>(NEW!) Outstanding CCA Contributions Award (Individual)</b>
@@ -129,7 +131,9 @@ This is only applicable to final-year students (AY2020/2021) who have been activ
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.<br>
+<br>
+[Back to Top](/tsea/individual/)
 
 ---
 ### <a id="characterexcellence"></a><b>Character Excellence Award</b>
@@ -153,7 +157,9 @@ This is awarded to students of outstanding character, who exemplify key values 
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.<br>
+<br>
+[Back to Top](/tsea/individual/)
 
 ---
 ### <a id="youngentrepreneur"></a><b>Promising Young Entrepreneur Award (Individual)</b>
@@ -181,7 +187,9 @@ This is awarded to entrepreneurial students and fresh graduates* whose businesse
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.<br>
+<br>
+[Back to Top](/tsea/individual/)
 
 ---
 ### <a id="communityexcellence"></a><b>Community Service Excellence Award (Individual)</b>
@@ -206,7 +214,9 @@ This is awarded to students who have demonstrated commitment to advance the welf
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.<br>
+<br>
+[Back to Top](/tsea/individual/)
 
 ---
 ### <a id="serviceexcellence"></a><b>Service Excellence Award (Individual)</b>
@@ -231,7 +241,9 @@ This is awarded to students who have demonstrated a high level of commitment to 
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.<br>
+<br>
+[Back to Top](/tsea/individual/)
 
 ---
 ### <a id="outstandingcoach"></a><b>Outstanding Coach/Instructor Award</b>
@@ -257,20 +269,12 @@ This is awarded to an officially-appointed TP coach or instructor who has demons
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a7afecb390011501f2b">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a7afecb390011501f2b">here</a>.<br>
+<br>
+[Back to Top](/tsea/individual/)
 
 ---
-<div style="margin:2%; text-align:center">
-    <a href="{{site.baseurl}}/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#characterexcellence" class="bp-button">Character Excellence Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#youngentrepreneur" class="bp-button">Promising Young Entrepreneur Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#communityexcellence" class="bp-button">Community Service Excellence Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#serviceexcellence" class="bp-button">Service Excellence Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#outstandingcoach" class="bp-button">Outstanding Coach/Instructor Award</a>
-</div>
-<br>
+
 **[Back to TSEA](/be-involved/tsea2021/)<br>
 **[Go to Group/Team Awards](/tsea/group/)<br>
 **[Go to Selection](/tsea/selection/)<br>
