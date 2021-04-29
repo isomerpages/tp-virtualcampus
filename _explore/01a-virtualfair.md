@@ -13,14 +13,28 @@ third_nav_title: Be Involved
 
 ![CCAvfsports]({{site.baseurl}}/images/BeInvolved-CCAvfsports2.png)
 
-<h1>Combined Sessions</h1>
+<h3>Combined Sessions</h3>
 
-<a href="https://tinyurl.com/SportsVFLink1" target="_blank">Session 1</a> - Kayak Racing, Swimming & Lifesaving, Table Tennis, Triathlon, Water Polo
-<a href="https://tinyurl.com/SportsVFLink2" target="_blank">Session 2</a> - Aikido, Karate, Judo, Silat
-<a href="https://tinyurl.com/SportsVFLink3" target="_blank">Session 3</a> - Handball, Inline Skating, Tennis, TP Fitness
-<a href="https://tinyurl.com/SportsVFLink4" target="_blank">Session 4</a> - Rugby, Touch Football
-<a href="https://tinyurl.com/SportsVFLink5" target="_blank">Session 5</a> - Dragon Boat, Mindsports
-<a href="https://tinyurl.com/SportsVFLink6" target="_blank">Session 6</a> - 10-pin Bowling, Hockey, Wakeboarding
+<a href="https://tinyurl.com/SportsVFLink1" target="_blank">Session 1</a> - Kayak Racing, Swimming & Lifesaving, Table Tennis, Triathlon, Water Polo<br>
+<a href="https://tinyurl.com/SportsVFLink2" target="_blank">Session 2</a> - Aikido, Karate, Judo, Silat <br>
+<a href="https://tinyurl.com/SportsVFLink3" target="_blank">Session 3</a> - Handball, Inline Skating, Tennis, TP Fitness<br>
+<a href="https://tinyurl.com/SportsVFLink4" target="_blank">Session 4</a> - Rugby, Touch Football<br>
+<a href="https://tinyurl.com/SportsVFLink5" target="_blank">Session 5</a> - Dragon Boat, Mindsports<br>
+<a href="https://tinyurl.com/SportsVFLink6" target="_blank">Session 6</a> - 10-pin Bowling, Hockey, Wakeboarding<br>
+
+<h3>Individual Sessions</h3>
+<a href="https://tinyurl.com/TPArcheryvf" target="_blank">Archery</a><br>
+<a href="https://tinyurl.com/TPBadmintonvf" target="_blank">Badminton</a><br>
+<a href="https://tinyurl.com/TPBasketballvf" target="_blank">Basketball</a><br>
+<a href="https://tinyurl.com/TPFloorballvf" target="_blank">Floorball</a><br>
+<a href="https://tinyurl.com/TPNetballvf" target="_blank">Netball</a><br>
+<a href="https://tinyurl.com/TPSoccervf" target="_blank">Soccer</a><br>
+<a href="https://tinyurl.com/TPClimbingvf" target="_blank">Sport Climbing</a><br>
+<a href="https://tinyurl.com/TPTKDvf" target="_blank">Taekwondo</a><br>
+<a href="https://tinyurl.com/Tchoukballvf" target="_blank">Tchoukball</a><br>
+<a href="https://tinyurl.com/TnFvf" target="_blank">Track & Field</a><br>
+<a href="https://tinyurl.com/TPUFvf" target="_blank">Ultimate Frisbee</a><br>
+<a href="https://tinyurl.com/TPVolleyballvf" target="_blank">Volleyball</a><br>
 
 ---
 
