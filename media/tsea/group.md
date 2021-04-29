@@ -4,7 +4,19 @@ title:  Group Awards
 permalink: /tsea/group/
 
 ---
-### <i>(NEW!)</i> Outstanding CCA Contribution Award (Group/Team)
+
+<div style="margin:2%; text-align:center">
+    <a href="{{site.baseurl}}/tsea/individual#outstandingccagrp" class="bp-button">Outstanding CCA Contributions (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#characterexcellence" class="bp-button">Character Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#youngentrepreneur" class="bp-button">Promising Young Entrepreneur Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#communityexcellence" class="bp-button">Community Service Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#serviceexcellence" class="bp-button">Service Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#outstandingcoach" class="bp-button">Outstanding Coach/Instructor Award</a>
+</div>
+
+---
+### <a id="outstandingccagrp"></a><u><i>(NEW!)</i> Outstanding CCA Contributions Award (Group/Team)</u>
 
 ### The Award
 <ul>
@@ -13,13 +25,27 @@ permalink: /tsea/group/
  </ul>
 
 ### Criteria
-In view of the COVID-19 situation, this new award will replace the CCA Merit Award (Individual) for 2021. It is awarded to students who have been actively involved in their respective CCAs over the past academic year (AY2020/2021) and have met the following requirements:
-<ul>
-    <li>Students of TP involved in TP-registered CCA groups</li>
-    <li>No Category 1 disciplinary record or serious academic-related offence</li>
-    <li>Maintained a good level of attendance/involvement in CCA training and/or related activities for the year</li>
-    <li>Displayed good artistic merit / sportsmanship / leadership and conduct in their CCAs</li>
- </ul>
+This is a new award to recognise TP-registered CCA groups who have been actively involved in their respective CCA activities over the past academic year (AY2020/2021), and who have made excellent contributions despite the pandemic. 
  
- ### Nomination
-Please submit your nominations via the prescribed form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="mailto:tsea@tp.edu.sg">here</a>. 
+ <p>
+ <b><font color="blue">Celebrating Efforts Despite COVID-19</font></b><br>
+ <br>
+  <font color="blue">In view of the extraordinary circumstances in AY2020/2021, please also describe/include contributions from the students in <b>one or more</b> of the following areas:</font>
+</p>
+<p>
+  <ol>
+    <font color="blue"><li><b>Contribution & Leadership:</b> Contributing to the organising of meaningful projects/activities<b>* or</b> leading his/her CCA group during the pandemic; or</li></font>
+    <font color="blue"><li><b>Maintaining Team Spirit:</b> Remaining positive; inspiring and rallying the group/team to remain active together despite the tough season; or</li></font>
+    <font color="blue"><li><b>Change Readiness & Adaptability:</b> Demonstrating outstanding adaptability, creativity and innovation in overcoming challenges</li></font>
+ </ol>
+</p>
+<p>
+  <font color="blue"><i>(*Projects/activities need not be extensive in magnitude/scale/reach, but should be meaningful or impactful to the team, TP and/or the community. Due to COVID-19 restrictions, those conducted via digital means will also be considered.)</i></font><br>
+<br>
+  <i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
+</p>
+
+### Nomination
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>. 
+
+
