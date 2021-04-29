@@ -8,7 +8,7 @@ permalink: /tsea/individual/
 <div style="margin:2%; text-align:center">
     <a href="{{site.baseurl}}/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
     <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions</a>
-    <a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofdes" class="bp-button">School of DES</a>
+    <a href="{{site.baseurl}}/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
 </div>
 
 ### <a id="ccadedication"></a><u><i>(NEW!)</i> CCA Dedication Award (Individual)</u>
@@ -71,7 +71,7 @@ This is a new award to recognise students who have been actively involved in the
 Please submit your nominations via the official online form <a href="mailto:tsea@tp.edu.sg">here</a>.
 
 ---
-### <b>Temasek CCA Gold Award</b>
+### <a id="ccagold"></a><b>Temasek CCA Gold Award</b>
 
 ### The Award
 <ul>
