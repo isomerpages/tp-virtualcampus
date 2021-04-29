@@ -7,9 +7,11 @@ third_nav_title: Be Involved
 ---
 ### CCA Virtual Fair 2021
 
-#FOMO? It is not too late! Join us at the Virtual Fair (Arts) using the links even if you did not sign up. See you tonight!
+#FOMO? It is not too late! Join us at the Virtual Fair (Sports) using the links even if you did not sign up. See you tonight!
 
-![CCAvfarts]({{site.baseurl}}/images/BeInvolved-CCAvfartssharing.png)
+![CCAvfsports]({{site.baseurl}}/images/BeInvolved-CCAvfsports1.png)
+
+![CCAvfsports]({{site.baseurl}}/images/BeInvolved-CCAvfsports2.png)
 
 ---
 
