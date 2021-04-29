@@ -16,18 +16,6 @@ Only nominations submitted through the email accounts of TP staff will be accept
 It is the TP staff’s responsibility to verify the accuracy of all information, including the nominees’ SEAL records, before submitting their nominations. 
 
 ---
-.button {
-  font: bold 11px Arial;
-  text-decoration: none;
-  background-color: #EEEEEE;
-  color: #333333;
-  padding: 2px 6px 2px 6px;
-  border-top: 1px solid #CCCCCC;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  border-left: 1px solid #CCCCCC;
-}
-<a href="/be-involved/tsea2021/" class="button">Back to TSEA</a><br>
 
 **[Back to TSEA](/be-involved/tsea2021/)<br>
 **[Go to Selection](/tsea/selection/)
