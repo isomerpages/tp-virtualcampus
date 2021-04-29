@@ -31,7 +31,8 @@ No, this award is only applicable to an external, officially-appointed TP coach 
 
 The TSEA Secretariat will send you an acknowledgement email within 3 working days upon receiving your nomination. Please email <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> if no acknowledgement email was received.
 
-<br>
+---
+
 **[Back to TSEA](/be-involved/tsea2021/)<br>
 **[Go to Individual Awards](/tsea/individual/)<br>
 **[Go to Group/Team Awards](/tsea/group/)<br>
