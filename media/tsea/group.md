@@ -12,7 +12,6 @@ permalink: /tsea/group/
     <a href="{{site.baseurl}}/tsea/individual#serviceexcellencegrp" class="bp-button">Service Excellence Award (Group/Team)</a>
 </div>
 
----
 ### <a id="outstandingccagrp"></a><b>(NEW!) Outstanding CCA Contributions Award (Group/Team)</b>
 
 ### The Award
