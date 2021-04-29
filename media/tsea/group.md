@@ -6,10 +6,10 @@ permalink: /tsea/group/
 ---
 
 <div style="margin:2%; text-align:center">
-    <a href="{{site.baseurl}}/tsea/individual#outstandingccagrp" class="bp-button">Outstanding CCA Contributions (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/individual#youngentrepreneurgrp" class="bp-button">Promising Young Entrepreneur Award (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/individual#communityexcellencegrp" class="bp-button">Community Service Excellence Award (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/individual#serviceexcellencegrp" class="bp-button">Service Excellence Award (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/group#outstandingccagrp" class="bp-button">Outstanding CCA Contributions (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/group#youngentrepreneurgrp" class="bp-button">Promising Young Entrepreneur Award (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/group#communityexcellencegrp" class="bp-button">Community Service Excellence Award (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/group#serviceexcellencegrp" class="bp-button">Service Excellence Award (Group/Team)</a>
 </div>
 
 ### <a id="outstandingccagrp"></a><b>(NEW!) Outstanding CCA Contributions Award (Group/Team)</b>
@@ -125,10 +125,10 @@ Please submit your nominations via the official online form <a href="https://for
 ---
 
 <div style="margin:2%; text-align:center">
-    <a href="{{site.baseurl}}/tsea/individual#outstandingccagrp" class="bp-button">Outstanding CCA Contributions (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/individual#youngentrepreneurgrp" class="bp-button">Promising Young Entrepreneur Award (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/individual#communityexcellencegrp" class="bp-button">Community Service Excellence Award (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/individual#serviceexcellencegrp" class="bp-button">Service Excellence Award (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/group#outstandingccagrp" class="bp-button">Outstanding CCA Contributions (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/group#youngentrepreneurgrp" class="bp-button">Promising Young Entrepreneur Award (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/group#communityexcellencegrp" class="bp-button">Community Service Excellence Award (Group/Team)</a>
+    <a href="{{site.baseurl}}/tsea/group#serviceexcellencegrp" class="bp-button">Service Excellence Award (Group/Team)</a>
 </div>
 <br>
 **[Back to TSEA](/be-involved/tsea2021/)<br>
