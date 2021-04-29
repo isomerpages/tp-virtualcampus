@@ -15,5 +15,5 @@ permalink: /tsea/nomination/
 
 ---
 
-[[TSEA Main Page]](/be-involved/tsea2021/)  [[Nomination]](/tsea/nomination)  [[Selection]](/tsea/selection/)  [[Individual Awards]](/tsea/individual)  [[Group/Team Awards]](/tsea/group)  [[FAQ]](/tsea/faq)
+[[TSEA Main Page]](/be-involved/tsea2021/)  [[Selection]](/tsea/selection/)  [[Individual Awards]](/tsea/individual)  [[Group/Team Awards]](/tsea/group)  [[FAQ]](/tsea/faq)
 
