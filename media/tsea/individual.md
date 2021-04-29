@@ -16,7 +16,7 @@ permalink: /tsea/individual/
     <a href="{{site.baseurl}}/tsea/individual#outstandingcoach" class="bp-button">Outstanding Coach/Instructor Award</a>
 </div>
 
-### <a id="outstandingcca"></a>(NEW!) CCA Dedication Award (Individual)
+### <a id="outstandingcca"></a><b>(NEW!) CCA Dedication Award (Individual)</b>
 
 ### The Award
 <ul>
