@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Group Awards
+title:  Group/Team Awards
 permalink: /tsea/group/
 
 ---
