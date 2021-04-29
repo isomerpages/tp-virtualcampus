@@ -9,6 +9,11 @@ permalink: /tsea/individual/
     <a href="{{site.baseurl}}/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
     <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions</a>
     <a href="{{site.baseurl}}/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#characterexcellence" class="bp-button">Character Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#youngentrepreneur" class="bp-button">Promising Young Entrepreneur Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#communityexcellence" class="bp-button">Community Service Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#serviceexcellence" class="bp-button">Service Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#outstandingcoach" class="bp-button">Outstanding Coach/Instructor Award</a>
 </div>
 
 ### <a id="ccadedication"></a><u><i>(NEW!)</i> CCA Dedication Award (Individual)</u>
@@ -68,7 +73,7 @@ This is a new award to recognise students who have been actively involved in the
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="mailto:tsea@tp.edu.sg">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>.
 
 ---
 ### <a id="ccagold"></a><b>Temasek CCA Gold Award</b>
@@ -101,7 +106,7 @@ This is only applicable to final-year students (AY2020/2021) who have been activ
   <li>Brought honour and contributed to the Polytechnic</li>
   <li>Been a recipient of a CCA Merit Award</li>
 </ul>
-<i>(*We recognise that the achievements/contributions of students in their final year may have been affected due to COVID-19. In view of the constraints, the TSEA Secretariat will consider the students’ achievements/contributions during their <b><i>first two years in TP.</i></b>)</i>
+<i>(*We recognise that the achievements/contributions of students in their final year may have been affected due to COVID-19. In view of the constraints, the TSEA Secretariat will consider the students’ achievements/contributions during their <b><i>first two years in TP.</i></b>)</i><br>
 <br>
 <p>
 <b><font color="blue">Celebrating Efforts Despite COVID-19</font></b><br>
@@ -122,4 +127,144 @@ This is only applicable to final-year students (AY2020/2021) who have been activ
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="mailto:tsea@tp.edu.sg">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+
+---
+### <a id="characterexcellence"></a><b>Character Excellence Award</b>
+
+### The Award
+<ul>
+  <li>Certificate</li>
+  <li>Trophy</li>
+ </ul>
+
+### Criteria
+This is awarded to students of outstanding character, who exemplify key values such as integrity, respect, responsibility, resilience, compassion and meet the following requirements:
+<p>
+<ul>
+    <li>Students of TP</li>
+    <li>No Category 1 disciplinary record or serious academic-related offence</li>
+</ul>
+</p>
+<p>
+    <i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
+</p>
+
+### Nomination
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+
+---
+### <a id="youngentrepreneur"></a><b>Promising Young Entrepreneur Award</b>
+
+### The Award
+<ul>
+  <li>Certificate</li>
+  <li>Trophy</li>
+ </ul>
+
+### Criteria
+This is awarded to entrepreneurial students and fresh graduates* whose businesses exhibit excellent growth or high potential for growth and scalability. Nominees should also meet the following requirements:
+<p>
+<ul>
+    <li>Articulate clear visions and missions for the businesses</li>
+    <li>Demonstrate great commitment to develop and scale the businesses</li>
+    <li>Manage academic studies while being involved in the entrepreneurial pursuits</li>
+    <li>Have no Category 1 disciplinary record or serious academic-related offence</li>  
+</ul>
+</p>
+<p>
+    <i>*“Fresh graduates” refer to graduates who graduated not more than 1 year ago.</i>
+    <br>
+    <i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
+</p>
+
+### Nomination
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+
+---
+### <a id="communityexcellence"></a><b>Community Service Excellence Award</b>
+
+### The Award
+<ul>
+  <li>Certificate</li>
+  <li>Trophy</li>
+ </ul>
+
+### Criteria
+This is awarded to students who have demonstrated commitment to advance the welfare of their community at large, and/or who have made significant contributions to this community over the past academic year (AY2020/2021). <i>(N/B: Beneficiaries may be within or external to TP).</i> Nominees should also meet the following requirements:
+<p>
+<ul>
+    <li>Students of TP</li>
+    <li>No Category 1 disciplinary record or serious academic-related offence.</li>
+</ul>
+</p>
+<p>
+   <br>
+   <i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
+</p>
+
+### Nomination
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+
+---
+### <a id="serviceexcellence"></a><b>Service Excellence Award</b>
+
+### The Award
+<ul>
+  <li>Certificate</li>
+  <li>Trophy</li>
+ </ul>
+
+### Criteria
+This is awarded to students who have demonstrated a high level of commitment to supporting TP activities, and who have made significant contributions to the wider TP community over the past academic year (AY2020/2021). Nominees should also meet the following requirements:
+<p>
+<ul>
+    <li>Students of TP</li>
+    <li>No Category 1 disciplinary record or serious academic-related offence.</li>
+</ul>
+</p>
+<p>
+   <br>
+   <i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
+</p>
+
+### Nomination
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+
+---
+### <a id="outstandingcoach"></a><b>Outstanding Coach/Instructor Award</b>
+
+### The Award
+<ul>
+  <li>Certificate</li>
+  <li>Trophy</li>
+ </ul>
+
+### Criteria
+This is awarded to an officially-appointed TP coach or instructor who has demonstrated all of the following over the past academic year (AY2020/2021):
+<p>
+<ul>
+    <li>Clear evidence of consistent achievements and performance</li>
+    <li>Proven student and team management skills</li>
+    <li>Strong commitment to TP</li>
+</ul>
+</p>
+<p>
+   <br>
+   <i>(Note: Shortlisted nominees may be required to attend a selection interview.)</i>
+</p>
+
+### Nomination
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
+
+---
+<div style="margin:2%; text-align:center">
+    <a href="{{site.baseurl}}/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions</a>
+    <a href="{{site.baseurl}}/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#characterexcellence" class="bp-button">Character Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#youngentrepreneur" class="bp-button">Promising Young Entrepreneur Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#communityexcellence" class="bp-button">Community Service Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#serviceexcellence" class="bp-button">Service Excellence Award</a>
+    <a href="{{site.baseurl}}/tsea/individual#outstandingcoach" class="bp-button">Outstanding Coach/Instructor Award</a>
+</div>
