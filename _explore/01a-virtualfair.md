@@ -13,6 +13,15 @@ third_nav_title: Be Involved
 
 ![CCAvfsports]({{site.baseurl}}/images/BeInvolved-CCAvfsports2.png)
 
+<h1>Combined Sessions</h1>
+
+<a href="https://tinyurl.com/SportsVFLink1" target="_blank">Session 1</a> - Kayak Racing, Swimming & Lifesaving, Table Tennis, Triathlon, Water Polo
+<a href="https://tinyurl.com/SportsVFLink2" target="_blank">Session 2</a> - Aikido, Karate, Judo, Silat
+<a href="https://tinyurl.com/SportsVFLink3" target="_blank">Session 3</a> - Handball, Inline Skating, Tennis, TP Fitness
+<a href="https://tinyurl.com/SportsVFLink4" target="_blank">Session 4</a> - Rugby, Touch Football
+<a href="https://tinyurl.com/SportsVFLink5" target="_blank">Session 5</a> - Dragon Boat, Mindsports
+<a href="https://tinyurl.com/SportsVFLink6" target="_blank">Session 6</a> - 10-pin Bowling, Hockey, Wakeboarding
+
 ---
 
 ![FOP2021]({{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg)
