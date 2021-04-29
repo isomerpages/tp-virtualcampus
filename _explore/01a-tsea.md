@@ -50,14 +50,14 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
         </tr>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CDIVTWNppAz/">
+                <a href="/tsea/group/">
                     <image src="{{site.baseurl}}/images/tsea-group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Group/Team Awards">
                     <h5 style="margin-top:0%">Group/Team Awards</h5>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CDQDMP8laua/">
+                <a href="/tsea/faq/">
                     <image src="{{site.baseurl}}/images/tsea-faq.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="FAQ">
                     <h5 style="margin-top:0%">FAQ</h5>
                     </image>
