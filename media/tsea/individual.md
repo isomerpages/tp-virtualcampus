@@ -75,7 +75,7 @@ This is a new award to recognise students who have been actively involved in the
 ### Nomination
 Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>.<br>
 <br>
-<a id="ccadedication"></a><i>Back to Top</i>
+[Back to Top](/tsea/individual/)
 
 ---
 ### <a id="ccagold"></a><b>Temasek CCA Gold Award</b>
