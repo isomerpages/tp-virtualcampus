@@ -90,7 +90,7 @@ This is only applicable to final-year students (AY2020/2021) who have been activ
 <ul>
     <li>Students of TP involved in TP-registered CCA groups</li>
     <li>No Category 1 disciplinary record or serious academic-related offence</li>
-    <li>Maintained a good level of attendance/involvement in CCA training and/or related activities for the year</li>
+    <li>Maintained a good level of attendance/involvement in CCA training and/or related activities</li>
     <li>Attained at least an "Excellent" grade in SEAL</li>
     <li>Displayed exemplary artistic merit / sportsmanship / leadership and conduct in their CCAs</li>
     <li>Significantly contributed to the organisation of events/projects or led/trained students</li>
