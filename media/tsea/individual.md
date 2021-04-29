@@ -275,7 +275,4 @@ Please submit your nominations via the official online form <a href="https://for
 
 ---
 
-**[Back to TSEA](/be-involved/tsea2021/)<br>
-**[Go to Group/Team Awards](/tsea/group/)<br>
-**[Go to Selection](/tsea/selection/)<br>
-**[Go to FAQ](/tsea/faq/)
+[[TSEA Main Page]](/be-involved/tsea2021/)  [[Nomination]](/tsea/nomination)  [[Selection]](/tsea/selection/)  [[Group/Team Awards]](/tsea/group)  [[FAQ]](/tsea/faq)
