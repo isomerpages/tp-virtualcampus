@@ -13,6 +13,8 @@ third_nav_title: Be Involved
 
 ![CCAvfsports]({{site.baseurl}}/images/BeInvolved-CCAvfsports2.png)
 
+If the QR code does not work for you, please click on the links below to join in from your laptop. 
+
 <h3>Combined Sessions</h3>
 
 <a href="https://tinyurl.com/SportsVFLink1" target="_blank">Session 1</a> - Kayak Racing, Swimming & Lifesaving, Table Tennis, Triathlon, Water Polo<br>
