@@ -5,7 +5,7 @@ permalink: /terms-of-use/
 ### Terms of Use
 
 1. Thank you for visiting Temasek Polytechnic's Website (this Website). By accessing and using this Website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
- 
+
 **General**
 
 2. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
