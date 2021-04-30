@@ -16,16 +16,18 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 <p>
   <ul>
     <li><b>(NEW!) CCA Dedication Award (Individual)</b></li><br>
-Submit your nominations to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="./images/TSEA2021-CCADedication(Individual)NominationForm.xlsx" download>here</a>.
-
-  <li><b>(NEW!) Outstanding CCA Contributions Award (Individual)</b></li><br>
-Submit your nominations <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>.
-
-<li><b>Temasek CCA Gold Award</b></li>
-<li><b>Character Excellence Award</b></li>
-<li><b>Promising Young Entrepreneur Award</b></li>
-<li><b>Community Service Excellence Award</b></li>
-<li><b>Service Excellence Award</b></li>
+    Submit your nominations to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="./images/TSEA2021-CCADedication(Individual)NominationForm.xlsx" download>here</a>.<br>
+  </ul>
+  <ul>
+    <li><b>(NEW!) Outstanding CCA Contributions Award (Individual)</b></li><br>
+  Submit your nominations <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>.<br>
+  </ul>
+  <ul>
+    <li><b>Temasek CCA Gold Award</b></li>
+    <li><b>Character Excellence Award</b></li>
+    <li><b>Promising Young Entrepreneur Award</b></li>
+    <li><b>Community Service Excellence Award</b></li>
+    <li><b>Service Excellence Award</b></li>
 </ul>
 </p>
 <p>
