@@ -35,7 +35,7 @@ The TSEA Secretariat will send you an acknowledgement email <b><u>within 3 worki
 
 No, please submit your nominations by <b><u>31 May 2021 (Monday), 11.59pm.</u></b> Late submissions will strictly not be accepted.
 
-![try]({{site.baseurl}}/images/tp-jobs.pdf)
+<a href="./images/tp-jobs.pdf" download>try download</a>
 
 ---
 
