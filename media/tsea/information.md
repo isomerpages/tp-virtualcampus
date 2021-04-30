@@ -4,6 +4,7 @@ title:  Award Information
 permalink: /tsea/information/
 
 ---
+### General Information
 <ul>
   <li>Nominations for the TSEA are open from now till <b>31 May 2021 (Monday), 11.59pm</b>. Nominations received after the deadline will strictly not be accepted.</li>
   <li>Only TP CCAs registered with the Student Development & Alumni Affairs Department are eligible for the TSEA.</li>
@@ -13,7 +14,6 @@ permalink: /tsea/information/
   <li>It is the TP staff’s responsibility to verify the accuracy of all information, including the nominees’ SEAL records, before submitting their nominations.</li> 
 </ul>
 
----
 ### Selection
    <ul>
     <li>All forms must clearly indicate the nominated Award Category. However, the Selection Panel will make the final decision for the category that is most applicable.
