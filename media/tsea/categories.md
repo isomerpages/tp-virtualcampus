@@ -41,20 +41,14 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 
 <h3>Award Categories</h3>
 
-<p>
-  <ul>
-    <li><b>(NEW!) Outstanding CCA Contributions Award (Group/Team)</b></li>
- <h5>Submit your nominations <a href="https://form.gov.sg/#!/6082a495fad0230011d22a55">here</a>.</h5><br>
-   </ul>
-</p>
-<p>
-  <ul>
-    <li><b>Promising Young Entrepreneur Award</b></li>
-    <li><b>Community Service Excellence Award</b></li>
-    <li><b>Service Excellence Award</b></li>
-</ul>
-</p>
-<h4>Submit your nominations <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.</h4>
+<b>(NEW!) Outstanding CCA Contributions Award (Group/Team)</b><br>
+Submit your nominations <a href="https://form.gov.sg/#!/6082a495fad0230011d22a55">here</a>.<br>
+
+<b>Promising Young Entrepreneur Award</b><br>
+<b>Community Service Excellence Award</b><br>
+<b>Service Excellence Award</b><br>
+
+Submit your nominations <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.
 
 ---
 
