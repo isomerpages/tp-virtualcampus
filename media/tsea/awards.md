@@ -16,7 +16,8 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 <p>
   <ul>
     <li><b>(NEW!) CCA Dedication Award (Individual)</b></li>
-    Submit your nominations to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. The nomination form can be downloaded <a href="./images/TSEA2021-CCADedication(Individual)NominationForm.xlsx" download>here</a>.<br>
+    Submit your nominations to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>. 
+    The nomination form can be downloaded <a href="./images/TSEA2021-CCADedication(Individual)NominationForm.xlsx" download>here</a>.<br>
   </ul>
   <ul>
     <li><b>(NEW!) Outstanding CCA Contributions Award (Individual)</b></li>
@@ -31,10 +32,10 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 </ul>
 </p>
 <p>
-Submit your nominations <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.
-
-<b>Outstanding Coach/Instructor Award</b>
-Submit your nominations <a href="https://form.gov.sg/#!/60828a7afecb390011501f2b">here</a>.
+Submit your nominations <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.<br>
+  <ul>
+    <li><b>Outstanding Coach/Instructor Award</b></ul>
+    Submit your nominations <a href="https://form.gov.sg/#!/60828a7afecb390011501f2b">here</a>.<br>
 
 ---
 
