@@ -32,11 +32,12 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 </ul>
 </p>
 <p>
-Submit your nominations <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.<br>
+<h4>Submit your nominations <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.</h4><br>
   <ul>
-    <li><b>Outstanding Coach/Instructor Award</b></ul>
+  <li><b>Outstanding Coach/Instructor Award</b></li>
     Submit your nominations <a href="https://form.gov.sg/#!/60828a7afecb390011501f2b">here</a>.<br>
-
+  </ul>
+  
 ---
 
 ### Group/Team Awards
