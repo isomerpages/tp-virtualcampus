@@ -7,7 +7,7 @@ third_nav_title: Be Involved
 ---
 ### CCA Virtual Fair 2021
 
-#FOMO? It is not too late! Join us at the Virtual Fair (CLubs & Interest Groups) using the links even if you did not sign up. See you tonight!
+#FOMO? It is not too late! Join us at the Virtual Fair (Clubs & Interest Groups) using the links even if you did not sign up. See you tonight!
 
 ![CCAvfClubs]({{site.baseurl}}/images/BeInvolved-CCAvfclubs.jpg)
 
