@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Awards
+title:  Awards Categories 
 permalink: /tsea/awards/
 
 ---
