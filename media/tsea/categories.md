@@ -46,16 +46,19 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 
 The full eligibility criteria and nomination links can be downloaded <a href="./images/TSEA2021-Group-TeamAwardsInfo.pdf" download>here</a>. Or, click below for quick access to the links!
 
-<h3>Award Categories</h3>
+#### Award Categories
 
-<b>(NEW!) Outstanding CCA Contributions Award (Group/Team)</b><br>
-Submit your nominations <a href="https://form.gov.sg/#!/6082a495fad0230011d22a55">here</a>.<br>
+**1. (NEW!) Outstanding CCA Contributions Award (Group/Team)**
 
-<b>Promising Young Entrepreneur Award</b><br>
-<b>Community Service Excellence Award</b><br>
-<b>Service Excellence Award</b><br>
+  Submit your nominations <a href="https://form.gov.sg/#!/6082a495fad0230011d22a55">here</a>.<br>
 
-Submit your nominations <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.
+**2. Promising Young Entrepreneur Award**
+
+**3. Community Service Excellence Award**
+
+**4. Service Excellence Award**
+
+  Submit your nominations <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.
 
 ---
 
