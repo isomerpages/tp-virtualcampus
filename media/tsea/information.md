@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Nomination
-permalink: /tsea/nomination/
+title:  Award Information
+permalink: /tsea/information/
 
 ---
 <ul>
@@ -15,5 +15,4 @@ permalink: /tsea/nomination/
 
 ---
 
-[[TSEA Main Page]](/be-involved/tsea2021/)  [[Selection]](/tsea/selection/)  [[Individual Awards]](/tsea/individual)  [[Group/Team Awards]](/tsea/group)  [[FAQ]](/tsea/faq)
-
+[[TSEA Main Page]](/be-involved/tsea2021/)  [[Award Categories]](/tsea/categories/)
