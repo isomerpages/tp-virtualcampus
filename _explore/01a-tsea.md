@@ -27,14 +27,14 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
     <table>
         <tr>
             <td style="width:49%"><br>
-                <a href="/tsea/nomination/">
+                <a href="/tsea/information/">
                     <image src="{{site.baseurl}}/images/tsea-selection.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Award Information">
                     <h5 style="margin-top:0%">Award Information</h5>
                     </image>
                 </a>
             </td>
             <td style="width:49%"><br>
-                <a href="/tsea/awards/">
+                <a href="/tsea/categories/">
                     <image src="{{site.baseurl}}/images/tsea-individual.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Award Categories">
                     <h5 style="margin-top:0%">Award Categories</h5>
                     </image>
