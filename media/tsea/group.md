@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Group Awards
+title:  Group/Team Awards
 permalink: /tsea/group/
 
 ---
@@ -42,7 +42,9 @@ This is a new award to recognise TP-registered CCA groups who have been actively
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/6082a495fad0230011d22a55">here</a>. 
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/6082a495fad0230011d22a55">here</a>.<br> 
+<br>
+[Back to Top](/tsea/group/)
 
 ---
 ### <a id="youngentrepreneurgrp"></a><b>Promising Young Entrepreneur Award (Group/Team)</b>
@@ -70,7 +72,9 @@ This is awarded to groups of entrepreneurial students / fresh graduates* whose b
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.<br>
+<br>
+[Back to Top](/tsea/group/)
 
 ---
 ### <a id="communityexcellencegrp"></a><b>Community Service Excellence Award (Group/Team)</b>
@@ -82,7 +86,7 @@ Please submit your nominations via the official online form <a href="https://for
  </ul>
 
 ### Criteria
-This is awarded to groups of students who have demonstrated commitment to advance the welfare of their community at large, and/or who have made significant contributions to this community over the past academic year (AY2020/2021). <i>(N/B: Beneficiaries may be within or external to TP).</i> Nominees should also meet the following requirements:
+This is awarded to groups of students who have demonstrated commitment to advance the welfare of their community at large, and/or who have made significant contributions to this community over the past academic year (AY2020/2021). <i>(N/B: Beneficiaries may be within or external to TP).</i> Nominees should also meet the following requirements:
 <p>
 <ul>
     <li>Students of TP</li>
@@ -95,7 +99,9 @@ This is awarded to groups of students who have demonstrated commitment to advanc
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.<br>
+<br>
+[Back to Top](/tsea/group/)
 
 ---
 ### <a id="serviceexcellencegrp"></a><b>Service Excellence Award (Group/Team)</b>
@@ -120,18 +126,10 @@ This is awarded to groups of students who have demonstrated a high level of comm
 </p>
 
 ### Nomination
-Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.
+Please submit your nominations via the official online form <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.<br>
+<br>
+[Back to Top](/tsea/group/)
 
 ---
 
-<div style="margin:2%; text-align:center">
-    <a href="{{site.baseurl}}/tsea/group#outstandingccagrp" class="bp-button">Outstanding CCA Contributions (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/group#youngentrepreneurgrp" class="bp-button">Promising Young Entrepreneur Award (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/group#communityexcellencegrp" class="bp-button">Community Service Excellence Award (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/group#serviceexcellencegrp" class="bp-button">Service Excellence Award (Group/Team)</a>
-</div>
-<br>
-**[Back to TSEA](/be-involved/tsea2021/)<br>
-**[Go to Individual Awards](/tsea/individual/)<br>
-**[Go to Selection](/tsea/selection/)<br>
-**[Go to FAQ](/tsea/faq/)
+[[TSEA Main Page]](/be-involved/tsea2021/)  [[Nomination]](/tsea/nomination)  [[Selection]](/tsea/selection/)  [[Individual Awards]](/tsea/individual)  [[FAQ]](/tsea/faq)

@@ -29,11 +29,12 @@ No, this award is only applicable to an external, officially-appointed TP coach 
 
 <h3>How do I know whether my nomination form has been received?</h3>
 
-The TSEA Secretariat will send you an acknowledgement email within 3 working days upon receiving your nomination. Please email <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> if no acknowledgement email was received.
+The TSEA Secretariat will send you an acknowledgement email <b><u>within 3 working days</u></b> upon receiving your nomination. Please email <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> if no acknowledgement email was received.
+
+<h3>Can the nomination deadline be extended?</h3>
+
+No, please submit your nominations by <b><u>31 May 2021 (Monday), 11.59pm.</u></b> Late submissions will strictly not be accepted.
 
 ---
 
-**[Back to TSEA](/be-involved/tsea2021/)<br>
-**[Go to Individual Awards](/tsea/individual/)<br>
-**[Go to Group/Team Awards](/tsea/group/)<br>
-**[Go to Selection](/tsea/selection/)<br>
+[[TSEA Main Page]](/be-involved/tsea2021/)  [[Nomination]](/tsea/nomination)  [[Selection]](/tsea/selection/)  [[Individual Awards]](/tsea/individual)  [[Group/Team Awards]](/tsea/group)

@@ -7,36 +7,24 @@ third_nav_title: Be Involved
 ---
 ### CCA Virtual Fair 2021
 
-#FOMO? It is not too late! Join us at the Virtual Fair (Sports) using the links even if you did not sign up. See you tonight!
+#FOMO? It is not too late! Join us at the Virtual Fair (Clubs & Interest Groups) using the links even if you did not sign up. See you tonight!
 
-![CCAvfsports]({{site.baseurl}}/images/BeInvolved-CCAvfsports1.png)
-
-![CCAvfsports]({{site.baseurl}}/images/BeInvolved-CCAvfsports2.png)
+![CCAvfClubs]({{site.baseurl}}/images/BeInvolved-CCAvfclubs.jpg)
 
 If the QR code does not work for you, please click on the links below to join in from your laptop. 
 
 <h3>Combined Sessions</h3>
 
-<a href="https://tinyurl.com/SportsVFLink1" target="_blank">Session 1</a> - Kayak Racing, Swimming & Lifesaving, Table Tennis, Triathlon, Water Polo<br>
-<a href="https://tinyurl.com/SportsVFLink2" target="_blank">Session 2</a> - Aikido, Karate, Judo, Silat <br>
-<a href="https://tinyurl.com/SportsVFLink3" target="_blank">Session 3</a> - Handball, Inline Skating, Tennis, TP Fitness<br>
-<a href="https://tinyurl.com/SportsVFLink4" target="_blank">Session 4</a> - Rugby, Touch Football<br>
-<a href="https://tinyurl.com/SportsVFLink5" target="_blank">Session 5</a> - Dragon Boat, Mindsports<br>
-<a href="https://tinyurl.com/SportsVFLink6" target="_blank">Session 6</a> - 10-pin Bowling, Hockey, Wakeboarding<br>
+<a href="https://tinyurl.com/SDAAIGvf" target="_blank">Session 1</a> - Debates, NYAA Challenge, Toastmasters, CD-Lionhearters<br>
+<a href="https://tinyurl.com/DeptIGvf" target="_blank">Session 2</a> - Green Interest Group, Global Connect Students Group, International Students Group, Japanese Cultural Group, Peer Supporters-in-Action (6pm, 6.30pm, 7pm only) <br>
+<a href="https://tinyurl.com/DeptIGvf" target="_blank">Session 3</a> - TP Social Impact Catalyst, Project Innov8, Senvocates (6pm, 6.30pm, 7pm, 7.30pm, 8pm)<br>
+<a href="https://tinyurl.com/DeptIGvf" target="_blank">Session 4</a> - Entrepreneurship Group (7pm, 7.30pm only)<br>
 
 <h3>Individual Sessions</h3>
-<a href="https://tinyurl.com/TPArcheryvf" target="_blank">Archery</a><br>
-<a href="https://tinyurl.com/TPBadmintonvf" target="_blank">Badminton</a><br>
-<a href="https://tinyurl.com/TPBasketballvf" target="_blank">Basketball</a><br>
-<a href="https://tinyurl.com/TPFloorballvf" target="_blank">Floorball</a><br>
-<a href="https://tinyurl.com/TPNetballvf" target="_blank">Netball</a><br>
-<a href="https://tinyurl.com/TPSoccervf" target="_blank">Soccer</a><br>
-<a href="https://tinyurl.com/TPClimbingvf" target="_blank">Sport Climbing</a><br>
-<a href="https://tinyurl.com/TPTKDvf" target="_blank">Taekwondo</a><br>
-<a href="https://tinyurl.com/Tchoukballvf" target="_blank">Tchoukball</a><br>
-<a href="https://tinyurl.com/TnFvf" target="_blank">Track & Field</a><br>
-<a href="https://tinyurl.com/TPUFvf" target="_blank">Ultimate Frisbee</a><br>
-<a href="https://tinyurl.com/TPVolleyballvf" target="_blank">Volleyball</a><br>
+<a href="https://tinyurl.com/TPSUvf" target="_blank">Students' Union</a><br>
+<a href="https://tinyurl.com/TPACvf" target="_blank">Adventure Club</a><br>
+<a href="https://tinyurl.com/TPCSCvf" target="_blank">Community Service Club</a><br>
+<a href="https://tinyurl.com/TPSCvf" target="_blank">Sports Club</a><br>
 
 ---
 
