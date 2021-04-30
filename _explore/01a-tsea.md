@@ -26,43 +26,20 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
 <div>
     <table>
         <tr>
-            <td style="width:33%"><br>
+            <td style="width:49%"><br>
                 <a href="/tsea/nomination/">
-                    <image src="{{site.baseurl}}/images/tsea-nomination.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Nomination">
-                    <h5 style="margin-top:0%">Nomination</h5>
+                    <image src="{{site.baseurl}}/images/tsea-selection.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Award Information">
+                    <h5 style="margin-top:0%">Award Information</h5>
                     </image>
                 </a>
             </td>
-            <td style="width:33%"><br>
-                <a href="/tsea/selection/">
-                    <image src="{{site.baseurl}}/images/tsea-selection.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Selection">
-                    <h5 style="margin-top:0%">Selection</h5>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="/tsea/individual/">
-                    <image src="{{site.baseurl}}/images/tsea-individual.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Individual Awards">
-                    <h5 style="margin-top:0%">Individual Awards</h5>
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:33%"><br>
-                <a href="/tsea/group/">
-                    <image src="{{site.baseurl}}/images/tsea-group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Group/Team Awards">
-                    <h5 style="margin-top:0%">Group/Team Awards</h5>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="/tsea/faq/">
-                    <image src="{{site.baseurl}}/images/tsea-faq.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="FAQ">
-                    <h5 style="margin-top:0%">FAQ</h5>
+            <td style="width:49%"><br>
+                <a href="/tsea/awards/">
+                    <image src="{{site.baseurl}}/images/tsea-individual.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Award Categories">
+                    <h5 style="margin-top:0%">Award Categories</h5>
                     </image>
                 </a>
             </td>
          </tr>
-    </table>
+     </table>
 </div>
