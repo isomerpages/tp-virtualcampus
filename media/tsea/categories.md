@@ -23,9 +23,13 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
   Submit your nominations <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>.<br>
 
 **3. Temasek CCA Gold Award**
+
 **4. Character Excellence Award**
+
 **5. Promising Young Entrepreneur Award**
+
 **6. Community Service Excellence Award**
+
 **7. Service Excellence Award**
 
   Submit your nominations <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.<br>
