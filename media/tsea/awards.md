@@ -37,22 +37,29 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
   <li><b>Outstanding Coach/Instructor Award</b></li>
     Submit your nominations <a href="https://form.gov.sg/#!/60828a7afecb390011501f2b">here</a>.<br>
   </ul>
-  
+</p>
+
 ---
 
 ### Group/Team Awards
 
 Have an outstanding group of students who deserves to be nominated for any of these Group/Team Award categories? Submit your nomination today!
 
-The full eligibility criteria and nomination links can be downloaded here. Or, click below for quick access to the links!
+The full eligibility criteria and nomination links can be downloaded <a href="./images/TSEA2021-Group-TeamAwardsInfo.pdf" download>here</a>. Or, click below for quick access to the links!
 
-Award Categories
+<h3>Award Categories<h3>
 
-(NEW!) Outstanding CCA Contributions Award (Group/Team)
-Submit your nominations here.
-
-Promising Young Entrepreneur Award 
-Community Service Excellence Award 
-Service Excellence Award 
-Submit your nominations here.
-
+<p>
+  <ul>
+    <li><b>(NEW!) Outstanding CCA Contributions Award (Group/Team)</b></li>
+ Submit your nominations <a href="https://form.gov.sg/#!/6082a495fad0230011d22a55">here</a>.<br>
+   </ul>
+</p>
+<p>
+  <ul>
+    <li><b>Promising Young Entrepreneur Award</b></li>
+    <li><b>Community Service Excellence Award</b></li>
+    <li><b>Service Excellence Award</b></li>
+</ul>
+</p>
+<h4>Submit your nominations <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.</h4>
