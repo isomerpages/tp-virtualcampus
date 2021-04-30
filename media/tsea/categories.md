@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Awards Categories 
-permalink: /tsea/awards/
+permalink: /tsea/categories/
 
 ---
 
@@ -63,3 +63,7 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 </ul>
 </p>
 <h4>Submit your nominations <a href="https://form.gov.sg/#!/60828a260f169a0011a6848f">here</a>.</h4>
+
+---
+
+[[TSEA Main Page]](/be-involved/tsea2021/)  [[Award Information]](/tsea/information/)
