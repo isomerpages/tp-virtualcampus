@@ -14,5 +14,24 @@ permalink: /tsea/information/
 </ul>
 
 ---
+### Selection
+   <ul>
+    <li>All forms must clearly indicate the nominated Award Category. However, the Selection Panel will make the final decision for the category that is most applicable.
+</li>
+    <li>Selection is based on a set of pre-determined criteria, which includes amongst other things, standard of achievement, attendance, level of contribution, scale and number of projects, and demonstration of artistic merit, leadership skills and sportsmanship.
+</li>
+    <li>The selection of nominees will be left to the Selection Panel, and the decision of the Panel is final. Neither direct communication nor appeals will be entertained.</li>
+  </ul>
+  
+### Conditions
+   <ul>
+    <li>The award may be withdrawn from the recipient, should inaccurate facts or information be provided at the time of nomination.</li>
+    <li>The Polytechnic reserves the right not to award any of the awards if no suitable candidates are identified.</li>
+   </ul>
+<br>
 
+<b>Didn’t manage to find what you were looking for? Refer to a list of FAQs <a href="./images/TSEA2021-FAQs.pdf" download>here</a>!<b><br>
+For further enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
+
+---
 [[TSEA Main Page]](/be-involved/tsea2021/)  [[Award Categories]](/tsea/categories/)
