@@ -25,9 +25,9 @@ permalink: /terms-of-use/
 **Disclaimer of Warranties and Liability**
 
 7. The Contents of this Website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, TP does not warrant and hereby disclaims any warranty:
-
-* as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Website;
-* that the Contents available through this Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server is and will be free of all viruses and/or other harmful elements.
+   * as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Website;
+   
+   * that the Contents available through this Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server is and will be free of all viruses and/or other harmful elements.
  
 8. TP shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Website.
  
