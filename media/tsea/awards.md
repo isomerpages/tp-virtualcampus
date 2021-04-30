@@ -43,11 +43,11 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 
 ### Group/Team Awards
 
-Have an outstanding group of students who deserves to be nominated for any of these Group/Team Award categories? Submit your nomination today!
+<b>Have an outstanding group of students who deserves to be nominated for any of these Group/Team Award categories? Submit your nomination today!</b>
 
 The full eligibility criteria and nomination links can be downloaded <a href="./images/TSEA2021-Group-TeamAwardsInfo.pdf" download>here</a>. Or, click below for quick access to the links!
 
-<h3>Award Categories<h3>
+<h3>Award Categories</h3>
 
 <p>
   <ul>
