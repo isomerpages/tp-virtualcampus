@@ -30,9 +30,7 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
     <li><b>Community Service Excellence Award</b></li>
     <li><b>Service Excellence Award</b></li>
 </ul>
-</p>
-<p>
-<h5>Submit your nominations <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.</h5><br>
+    <h5>Submit your nominations <a href="https://form.gov.sg/#!/60828a4e0f169a0011a684ae">here</a>.</h5><br>
   <ul>
   <li><b>Outstanding Coach/Instructor Award</b></li>
     <h5>Submit your nominations <a href="https://form.gov.sg/#!/60828a7afecb390011501f2b">here</a>.</h5><br>
