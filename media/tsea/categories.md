@@ -11,16 +11,13 @@ permalink: /tsea/categories/
 
 The full eligibility criteria and nomination links can be downloaded [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-IndividualAwardsInfo.pdf). Or, click below for quick access to the links!
 
-
 #### Award Categories
 
 **1. (NEW!) CCA Dedication Award (Individual)**
 
   Submit your nominations to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.<br>
-  The nomination form can be downloaded <a href="./images/TSEA2021-CCADedication(Individual)NominationForm.xlsx" download>here</a>.<br>
-  
- 
-  
+  The nomination form can be downloaded [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-CCADedication(Individual)NominationForm.xlsx).<br>
+    
 **2. (NEW!) Outstanding CCA Contributions Award (Individual)**
 
   Submit your nominations <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>.<br>
@@ -47,7 +44,7 @@ The full eligibility criteria and nomination links can be downloaded [here](http
 
 <b>Have an outstanding group of students who deserves to be nominated for any of these Group/Team Award categories? Submit your nomination today!</b>
 
-The full eligibility criteria and nomination links can be downloaded <a href="./images/TSEA2021-Group-TeamAwardsInfo.pdf" download>here</a>. Or, click below for quick access to the links!
+The full eligibility criteria and nomination links can be downloaded [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-Group-TeamAwardsInfo.pdf). Or, click below for quick access to the links!
 
 #### Award Categories
 
