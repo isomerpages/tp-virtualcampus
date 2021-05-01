@@ -13,6 +13,8 @@ The full eligibility criteria and nomination links can be downloaded <a href="./
 
 <p><a href="/images/TSEA2021-IndividualAwardsInfo.pdf" download>Click to Download</a></p>
 
+<p><a id="raw-url" href="https://raw.githubusercontent.com/github-tp-vc/images/master/TSEA2021-IndividualAwardsInfo.pdf">Download FILE</a></p>
+
 #### Award Categories
 
 **1. (NEW!) CCA Dedication Award (Individual)**
