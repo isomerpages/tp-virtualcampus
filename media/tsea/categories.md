@@ -11,7 +11,7 @@ permalink: /tsea/categories/
 
 The full eligibility criteria and nomination links can be downloaded <a href="./images/TSEA2021-IndividualAwardsInfo.pdf" download>here</a>. Or, click below for quick access to the links!
 
-[downloadhere](/images/attachment/TSEA2021-IndividualAwardsInfo.pdf)
+[downloadhere](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-IndividualAwardsInfo.pdf)
 
 #### Award Categories
 
