@@ -21,7 +21,7 @@ sections:
 #              description: Need anything from TP Website?
 #              url: https://www.tp.edu.sg/
             - title: Be Involved
-              description: Sign up for the CCA Virtual Fair 2021 NOW!
+              description: Wanna be part of our 140+ CCAs in TP?
               url: /be-involved/ccavirtualfair
             - title: Be Entertained
               description: Watch, listen and be entertained with content created by TP, free-of-charge!
