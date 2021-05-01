@@ -32,7 +32,7 @@ permalink: /tsea/information/
    </ul>
 <br>
 
-<b>Didn’t manage to find what you were looking for? Refer to a list of FAQs <a href="./images/TSEA2021-FAQs.pdf" download>here</a>!<b><br>
+<b>Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-FAQs.pdf)!<b><br>
 For further enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
 
 ---
