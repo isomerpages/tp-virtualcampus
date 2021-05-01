@@ -11,13 +11,17 @@ permalink: /tsea/categories/
 
 The full eligibility criteria and nomination links can be downloaded <a href="./images/TSEA2021-Individual Awards(1).pdf" download>here</a>. Or, click below for quick access to the links!
 
+<p>Open a PDF file <a href="/images/TSEA2021-Individual Awards(1).pdf">example</a>.</p>
+
 #### Award Categories
 
 **1. (NEW!) CCA Dedication Award (Individual)**
 
   Submit your nominations to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.<br>
   The nomination form can be downloaded <a href="./images/TSEA2021-CCADedication(Individual)NominationForm.xlsx" download>here</a>.<br>
+  
  
+  
 **2. (NEW!) Outstanding CCA Contributions Award (Individual)**
 
   Submit your nominations <a href="https://form.gov.sg/#!/60828a0317dde80011316ad5">here</a>.<br>
