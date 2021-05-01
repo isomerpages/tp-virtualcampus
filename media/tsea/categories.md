@@ -9,9 +9,9 @@ permalink: /tsea/categories/
 
 <b>Have an outstanding student or coach/instructor who deserves to be nominated for any of these Individual Award categories? Submit your nomination today!</b>
 
-The full eligibility criteria and nomination links can be downloaded <a href="./images/TSEA2021-Individual Awards(1).pdf" download>here</a>. Or, click below for quick access to the links!
+The full eligibility criteria and nomination links can be downloaded <a href="./images/TSEA2021-IndividualAwardsInfo.pdf" download>here</a>. Or, click below for quick access to the links!
 
-<p>Open a PDF file <a href="/images/TSEA2021-Individual Awards(1).pdf">example</a>.</p>
+<p>Open a PDF file <a href="/images/TSEA2021-IndividualAwardsInfo.pdf">example</a>.</p>
 
 #### Award Categories
 
