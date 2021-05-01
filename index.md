@@ -22,7 +22,7 @@ sections:
 #              url: https://www.tp.edu.sg/
             - title: Be Involved
               description: Wanna be part of our 140+ CCAs in TP?
-              url: /be-involved/ccavirtualfair
+              url: /be-involved/tsea2021
             - title: Be Entertained
               description: Watch, listen and be entertained with content created by TP, free-of-charge!
               url: /be-entertained/highlights/
