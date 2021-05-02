@@ -11,7 +11,7 @@ permalink: /tsea/categories/
 
 <b>Step 1:</b> Download and read the eligibility criteria for all Individual Awards [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-IndividualAwardsInfo.pdf).
 
-<b>Step 2:</b>Submit your nomination by <b>31 May 2021, 11.59pm</b>. Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.
+<b>Step 2:</b> Submit your nomination by <b>31 May 2021, 11.59pm</b>. Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.
 
 #### Award Categories
 
@@ -70,9 +70,9 @@ permalink: /tsea/categories/
 
 <b>Have an outstanding group of students who deserves to be nominated for any of these Group/Team Award categories? Submit your nomination today!</b>
 
-<b>Step 1:</b> Download and read the eligibility criteria for all Individual Awards [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-Group-TeamAwardsInfo.pdf).
+<b>Step 1:</b> Download and read the eligibility criteria for all Group/Team Awards [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-Group-TeamAwardsInfo.pdf).
 
-<b>Step 2:</b>Submit your nomination by <b>31 May 2021, 11.59pm</b>. Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.
+<b>Step 2:</b> Submit your nomination by <b>31 May 2021, 11.59pm</b>. Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.
 
 #### Award Categories
 
