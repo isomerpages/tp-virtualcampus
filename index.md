@@ -12,7 +12,7 @@ sections:
 #        button: More Excitement This Way!
 #        url: /be-involved/highlights/
 #        background: /images/download1.jpg
-        background: /images/Homepage-TSEAbanner.jpg
+        background: /images/Homepage-TSEAbanner2.png
         key_highlights:
 #            - title: Student Portal
 #              description: Get to your student portal here
