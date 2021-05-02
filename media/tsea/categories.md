@@ -7,7 +7,7 @@ permalink: /tsea/categories/
 
 ### Individual Awards
 
-<b>Have an outstanding student who deserves to be nominated for any of these Individual Award categories? Submit your nomination today!</b>
+<b>Have an outstanding candidate who deserves to be nominated for any of these Individual Award categories? Submit your nomination today!</b>
 
 <b>Step 1:</b> Download and read the eligibility criteria for all Individual Awards [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/TSEA2021-IndividualAwardsInfo.pdf).
 
