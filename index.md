@@ -12,7 +12,7 @@ sections:
 #        button: More Excitement This Way!
 #        url: /be-involved/highlights/
 #        background: /images/download1.jpg
-        background: /images/Homepage-CCAvirtualfairbanner.png
+        background: /images/Homepage-TSEAbanner2.png
         key_highlights:
 #            - title: Student Portal
 #              description: Get to your student portal here
@@ -21,8 +21,8 @@ sections:
 #              description: Need anything from TP Website?
 #              url: https://www.tp.edu.sg/
             - title: Be Involved
-              description: Sign up for the CCA Virtual Fair 2021 NOW!
-              url: /be-involved/ccavirtualfair
+              description: Wanna be part of our 140+ CCAs in TP?
+              url: /be-involved/tsea2021
             - title: Be Entertained
               description: Watch, listen and be entertained with content created by TP, free-of-charge!
               url: /be-entertained/highlights/
@@ -52,14 +52,22 @@ sections:
 #          image: /images/Salvo3.jpg
 #          alt: Salvo3
 
+#    - infopic:
+#        title: CCA Virtual Fair 2021
+#        subtitle: Sign up for CCAs!
+#        image: /images/Infopic-CCAvf.jpg
+#        description: Keen to channel the Team Temasek spirit and make your days on campus count? Check out this exciting event to find out more about the diverse CCAs offered in TP!
+#        button: CCA Virtual Fair 2021
+#        url: /be-involved/ccavirtualfair
+#        alt: virtualfair
     - infopic:
-        title: CCA Virtual Fair 2021
-        subtitle: Sign up for CCAs!
-        image: /images/Infopic-CCAvf.jpg
-        description: Keen to channel the Team Temasek spirit and make your days on campus count? Check out this exciting event to find out more about the diverse CCAs offered in TP!
-        button: CCA Virtual Fair 2021
-        url: /be-involved/ccavirtualfair
-        alt: virtualfair
+        title: Temasek Student Excellence Awards 2021
+        subtitle: Award Nomination
+        image: /images/Infopic-TSEA2021.jpg
+        description: Celebrate your students’ contributions, passion and spirit. Inspire them to continue the good fight. Nominate them for the TSEA today! 
+        button: TSEA 2021
+        url: /be-involved/tsea2021
+        alt: TSEA2021
         
     - infopic:
         title: Temasek Spectacular Virtual Concert 2021
