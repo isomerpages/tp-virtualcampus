@@ -14,6 +14,7 @@ To all enthusiastic students who had signed up for CCAs and attended the Virtual
 * [Performing Arts](/be-involved/performing-arts/)<br>
 * [Sports](/be-involved/sports/)<br>
 * [P10 & Interest Groups](/be-involved/p10-interest-groups/)<br>
+* [Diploma Interest Groups](/be-involved/diploma_interest_groups)<br>
     
     
 Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count.
@@ -25,37 +26,35 @@ Discover your passion. Unleash your creativity. Forge lasting friendships. Make 
 
 Life as a TP student can be as thrilling, colourful and exciting as you want it to be! Join us to discover the infectious Team Temasek spirit through over 140 diverse CCAs, ranging from the performing arts, sports, academic clubs, adventure, community service, to entrepreneurship – and lots more! 
 
-Find out more about our CCAs by exploring the various tabs on the left. Or, sign up for our virtual showcase sessions below to find out more! 
-
-(The Virtual Fair links will be sent to participants via email after registration. <b>Please register by 26 April 2021.</b>)
+Find out more about our CCAs by exploring the various tabs on the left. Or, go to the links below to find out more! 
 
 <table>
     <tr>
         <td style="width:50%"><br>
-            <a href="https://forms.office.com/r/GGf2E5d8et">
+            <a href="/be-involved/performing-arts/">
                 <image src="{{site.baseurl}}/images/BeInvolved-PerformingArtsShowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
-                <h6 style="margin-top:0%">Performing Arts (28 April)</h6>
+                <h6 style="margin-top:0%">Performing Arts</h6>
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="https://forms.office.com/r/MiyLVg5ftn">
+            <a href="/be-involved/sports/">
                 <image src="{{site.baseurl}}/images/BeInvolved-Sportsshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
-                <h6 style="margin-top:0%">Sports (29 April)</h6>
+                <h6 style="margin-top:0%">Sports</h6>
                 </image>
             </a>
         </td>
     </tr>
     <tr>
         <td style="width:50%"><br>
-            <a href="https://forms.office.com/r/5mkaYhuytt">
+            <a href="/be-involved/p10-interest-groups/">
                 <image src="{{site.baseurl}}/images/BeInvolved-ClubsIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
-                <h6 style="margin-top:0%">Clubs & Interest Groups (30 April)</h6>
+                <h6 style="margin-top:0%">Clubs & Interest Groups</h6>
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="https://forms.office.com/r/FyEXbDzMMK">
+            <a href="/be-involved/diploma_interest_groups">
                 <image src="{{site.baseurl}}/images/BeInvolved-DipIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
                 <h6 style="margin-top:0%">School/Diploma Interest Groups</h6>
                 </image>
