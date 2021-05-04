@@ -7,28 +7,15 @@ third_nav_title: Be Involved
 ---
 ### CCA Virtual Fair 2021
 
-#FOMO? It is not too late! Join us at the Virtual Fair (Clubs & Interest Groups) using the links even if you did not sign up. See you tonight!
-
-![CCAvfClubs]({{site.baseurl}}/images/BeInvolved-CCAvfclubs.jpg)
-
-If the QR code does not work for you, please click on the links below to join in from your laptop. 
-
-<h3>Combined Sessions</h3>
-
-<a href="https://tinyurl.com/SDAAIGvf" target="_blank">Session 1</a> - Debates, NYAA Challenge, Toastmasters, CD-Lionhearters<br>
-<a href="https://tinyurl.com/DeptIGvf" target="_blank">Session 2</a> - Green Interest Group, Global Connect Students Group, International Students Group, Japanese Cultural Group, Peer Supporters-in-Action (6pm, 6.30pm, 7pm only) <br>
-<a href="https://tinyurl.com/DeptIGvf" target="_blank">Session 3</a> - TP Social Impact Catalyst, Project Innov8, Senvocates (6pm, 6.30pm, 7pm, 7.30pm, 8pm)<br>
-<a href="https://tinyurl.com/DeptIGvf" target="_blank">Session 4</a> - Entrepreneurship Group (7pm, 7.30pm only)<br>
-
-<h3>Individual Sessions</h3>
-<a href="https://tinyurl.com/TPSUvf" target="_blank">Students' Union</a><br>
-<a href="https://tinyurl.com/TPACvf" target="_blank">Adventure Club</a><br>
-<a href="https://tinyurl.com/TPCSCvf" target="_blank">Community Service Club</a><br>
-<a href="https://tinyurl.com/TPSCvf" target="_blank">Sports Club</a><br>
-
----
-
 ![FOP2021]({{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg)
+    
+To all enthusiastic students who had signed up for CCAs and attended the Virtual Fair last week, you will be contacted within the next 2 weeks for follow up sessions. For a start, most of the sessions maybe conducted virtually. Students who have missed the sign up for the Virtual Fair, fear not! You may contact the Advisors and CCA group student leaders directly to register your interest. Contact information of the CCA groups can be found via the links below: 
+
+* [Performing Arts](/be-involved/performing-arts/)<br>
+* [Sports](/be-involved/sports/)<br>
+* [P10 & Interest Groups](/be-involved/p10-interest-groups/)<br>
+* [Diploma Interest Groups](/be-involved/diploma_interest_groups)<br>
+    
     
 Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count.
 
@@ -39,37 +26,35 @@ Discover your passion. Unleash your creativity. Forge lasting friendships. Make 
 
 Life as a TP student can be as thrilling, colourful and exciting as you want it to be! Join us to discover the infectious Team Temasek spirit through over 140 diverse CCAs, ranging from the performing arts, sports, academic clubs, adventure, community service, to entrepreneurship – and lots more! 
 
-Find out more about our CCAs by exploring the various tabs on the left. Or, sign up for our virtual showcase sessions below to find out more! 
-
-(The Virtual Fair links will be sent to participants via email after registration. <b>Please register by 26 April 2021.</b>)
+Find out more about our CCAs by exploring the various tabs on the left. Or, go to the links below to find out more! 
 
 <table>
     <tr>
         <td style="width:50%"><br>
-            <a href="https://forms.office.com/r/GGf2E5d8et">
+            <a href="/be-involved/performing-arts/">
                 <image src="{{site.baseurl}}/images/BeInvolved-PerformingArtsShowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
-                <h6 style="margin-top:0%">Performing Arts (28 April)</h6>
+                <h6 style="margin-top:0%">Performing Arts</h6>
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="https://forms.office.com/r/MiyLVg5ftn">
+            <a href="/be-involved/sports/">
                 <image src="{{site.baseurl}}/images/BeInvolved-Sportsshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
-                <h6 style="margin-top:0%">Sports (29 April)</h6>
+                <h6 style="margin-top:0%">Sports</h6>
                 </image>
             </a>
         </td>
     </tr>
     <tr>
         <td style="width:50%"><br>
-            <a href="https://forms.office.com/r/5mkaYhuytt">
+            <a href="/be-involved/p10-interest-groups/">
                 <image src="{{site.baseurl}}/images/BeInvolved-ClubsIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
-                <h6 style="margin-top:0%">Clubs & Interest Groups (30 April)</h6>
+                <h6 style="margin-top:0%">Clubs & Interest Groups</h6>
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="https://forms.office.com/r/FyEXbDzMMK">
+            <a href="/be-involved/diploma_interest_groups">
                 <image src="{{site.baseurl}}/images/BeInvolved-DipIGshowcase.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
                 <h6 style="margin-top:0%">School/Diploma Interest Groups</h6>
                 </image>
