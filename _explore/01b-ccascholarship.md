@@ -13,7 +13,8 @@ The CCA Scholarship Scholarships are awarded to students who have contributed si
 
 We are happy to announce that the CCA Scholarship are now open for applications! In view of the COVID-19 situation, the Secretariat has also modified some of our usual scholarship categories to facilitate your applications.
 
-<b>Announcement</b><br>
-Applications for the CCA Scholarships are open <b><u>from now till 7 June 2021 (Monday), 11.59pm</u></b>. Please refer the eligibility criteria and nomination process in the attached PDF.
+<b>Application Period</b><br>
+Applications for the CCA Scholarships are open <b><u>from now till 7 June 2021 (Monday), 11.59pm</u></b>. The eligibility criteria and application process can be downloaded [here](https://github.com/isomerpages/tp-vc/raw/staging/images/attachment/ccascholarshipcriteria.pdf).<br>
 
 For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
+
