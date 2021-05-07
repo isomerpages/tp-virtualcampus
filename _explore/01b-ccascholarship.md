@@ -9,7 +9,7 @@ third_nav_title: Be Involved
 
 ![CCAScholarship2021](/images/ccascholarship-image.jpg)
 
-The CCA Scholarship Scholarships are awarded to students who have contributed significantly to CCAs in the Polytechnic. Significant CCA contributions are taken into consideration in the selection process.
+The CCA Scholarship Scholarships are awarded to students who have contributed significantly to CCAs in the Polytechnic.
 
 2020 has been an unprecedented year for our students and CCA groups. However, despite the curveballs that the pandemic has thrown, they have remained resilient and positive, made significant efforts to keep their CCA groups alive, and devised creative workarounds in ways previously unimaginable. In the process, they were also engaged and exposed to new skills and learning opportunities. 
 
