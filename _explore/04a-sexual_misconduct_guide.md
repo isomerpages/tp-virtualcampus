@@ -8,7 +8,7 @@ third_nav_title: Be Caring
 
 ### Sexual Misconduct Support Guide
 
-![Listen II]({{site.baseurl}}/images/BeCaring-Sexualmisconduct.png)
+![Misconduct]({{site.baseurl}}/images/BeCaring-Sexualmisconduct.png)
 
 No one expects to meet with sexual misconduct incidents. Unfortunately, such incidents do happen sometimes. Student Support & Career Services has recently developed this guide as a resource to students in TP. 
 
