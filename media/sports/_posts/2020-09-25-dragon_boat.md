@@ -29,23 +29,23 @@ permalink: /sports/dragon_boat/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CBC418bHg5H/">
-                <image src="{{site.baseurl}}/images/CCA-DB_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">History of Dragonboat</h6>
+            <a href="https://www.instagram.com/p/COe1LvQHoFt/">
+                <image src="{{site.baseurl}}/images/CCA-tpdb-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <h6 style="margin-top:0%">TPDB – Online Orientation</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAsWISWnMWr/">
-                <image src="{{site.baseurl}}/images/CCA-DB_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">Fun facts about TP Dragonboat</h6>
+            <a href="https://www.instagram.com/p/CN4mko3HGen/">
+                <image src="{{site.baseurl}}/images/CCA-tpdb-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <h6 style="margin-top:0%">Temasek Polytechnic DragonBoat CCA virtual fair</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAmUvjeHkkr/">
-                <image src="{{site.baseurl}}/images/CCA-DB_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">Debunking misconceptions about the sport</h6>    
+            <a href="https://www.instagram.com/p/CFOYwXQn7Kx/">
+                <image src="{{site.baseurl}}/images/CCA-tpdb-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <h6 style="margin-top:0%">Temasek Poly Dragon Boat Women – Join our family today!</h6>    
                 </image>
             </a>
         </td>

@@ -34,9 +34,9 @@ permalink: /sports/volleyball/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/stories/highlights/17956584700324464/">
-                <image src="{{site.baseurl}}/images/CCA-Volleyball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
-                <h6 style="margin-top:0%">TP Volleyball teams online training</h6>
+            <a href="https://www.instagram.com/tv/CODLHiJHOf0/">
+                <image src="{{site.baseurl}}/images/CCA-volleyball-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+                <h6 style="margin-top:0%">Join Temasek Polytechnic Volleyball now!</h6>
                 </image>
             </a>
         </td>

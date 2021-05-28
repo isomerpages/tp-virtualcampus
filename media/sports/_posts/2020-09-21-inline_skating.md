@@ -26,16 +26,16 @@ permalink: /sports/inline_skating/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CCnvR8ZnzUe/">
-                <image src="{{site.baseurl}}/images/CCA-inlineskating_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
-                <h6 style="margin-top:0%">How to service your skates</h6>
+            <a href="https://www.instagram.com/p/COUbZKWno-F/">
+                <image src="{{site.baseurl}}/images/CCA-inline-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
+                <h6 style="margin-top:0%">Introducing Main Committee AY21/22</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CBwzn4dHFvM/">
-                <image src="{{site.baseurl}}/images/CCA-inlineskating_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
-                <h6 style="margin-top:0%">TP Inline Skate team building</h6>
+            <a href="https://www.instagram.com/p/COQF6whnvZA/">
+                <image src="{{site.baseurl}}/images/CCA-inline-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
+                <h6 style="margin-top:0%">A Guide to Join Us!</h6>
                 </image>
             </a>
         </td>

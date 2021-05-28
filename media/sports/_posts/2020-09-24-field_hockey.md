@@ -34,23 +34,23 @@ permalink: /sports/field_hockey/
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/COKKODJnpLf/">
+                <image src="{{site.baseurl}}/images/CCA-fh-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <h6 style="margin-top:0%">Join Men’s Hockey Team!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/COKKDhNHNWx/">
+                <image src="{{site.baseurl}}/images/CCA-fh-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <h6 style="margin-top:0%">Join TP Women’s Hockey Team!</h6>    
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CAFyWQKBC9t/">
                 <image src="{{site.baseurl}}/images/CCA-Hockey_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
                 <h6 style="margin-top:0%">Join the TP Hockey Family!</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAC9ckYBALT/">
-                <image src="{{site.baseurl}}/images/CCA-Hockey_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
-                <h6 style="margin-top:0%">How to sign up for TP Hockey?</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B-rH8bDnmuC/">
-                <image src="{{site.baseurl}}/images/CCA-Hockey_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
-                <h6 style="margin-top:0%">Hockey featured in TP's Home of Champions campaign</h6>    
                 </image>
             </a>
         </td>
