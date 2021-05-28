@@ -41,9 +41,16 @@ permalink: /performing_arts/chinese_orchestra/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CJut_YlnnKL/">
-                <image src="{{site.baseurl}}/images/CCA-CO_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">Home of the Arts. Join Our Squad! - TPCO</h6>
+            <a href="https://www.instagram.com/p/COej86MncWR">
+                <image src="{{site.baseurl}}/images/CCA-tpco-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">Introducing our Main Committee of AY 2122!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CNjt21HH5pP">
+                <image src="{{site.baseurl}}/images/CCA-tpco-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">Temasek Polytechnic Chinese Orchestra Recital Travelogue</h6>    
                 </image>
             </a>
         </td>
@@ -54,14 +61,5 @@ permalink: /performing_arts/chinese_orchestra/
                 </image>
             </a>
         </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CANAT5Tn8LJ/">
-                <image src="{{site.baseurl}}/images/CCA-CO_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">Throwback to the TPCO Sonority concert</h6>    
-                </image>
-            </a>
-        </td>
     </tr>
 </table>
-
-

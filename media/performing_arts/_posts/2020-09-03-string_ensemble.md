@@ -37,6 +37,13 @@ permalink: /performing_arts/string_ensemble/
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CJvNvWfHTDc/">
+                <image src="{{site.baseurl}}/images/CCA-se-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <h6 style="margin-top:0%">Join our squad now!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CEJDYN_HBKg/">
                 <image src="{{site.baseurl}}/images/CCA-String_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
                 <h6 style="margin-top:0%">String Ensemble's Home Performance</h6>
@@ -50,13 +57,5 @@ permalink: /performing_arts/string_ensemble/
                 </image>
             </a>
         </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAHZ0EpHsSy/">
-                <image src="{{site.baseurl}}/images/CCA-String_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
-                <h6 style="margin-top:0%">Frequent Asked Questions about the CCA</h6>    
-                </image>
-            </a>
-        </td>
     </tr>
 </table>
-
