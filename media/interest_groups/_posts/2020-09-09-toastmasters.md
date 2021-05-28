@@ -33,23 +33,23 @@ permalink: /interest_groups/toastmasters/
     <table>
         <tr>
             <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CO-Ej20H-12/">
+                    <image src="{{site.baseurl}}/images/CCA-toast-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
+                    <h6 style="margin-top:0%">1st Chapter Meeting of AY21/22</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CNj8dotHV3R/">
+                    <image src="{{site.baseurl}}/images/CCA-toast-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
+                    <h6 style="margin-top:0%">15th Chapter Meeting AY20/21 </h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CFeOO4eHhn3/">
                     <image src="{{site.baseurl}}/images/CCA-toastmasters_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
                     <h6 style="margin-top:0%">Evaluation Workshop</h6>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CEQYlKNnoti/">
-                    <image src="{{site.baseurl}}/images/CCA-toastmasters_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
-                    <h6 style="margin-top:0%">Winners of 7th Chapter Meeting</h6>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CEQYPx3HS8G/">
-                    <image src="{{site.baseurl}}/images/CCA-toastmasters_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
-                    <h6 style="margin-top:0%">Chapter Meeting</h6>
                     </image>
                 </a>
             </td>

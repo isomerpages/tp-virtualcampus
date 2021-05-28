@@ -28,6 +28,13 @@ permalink: /interest_groups/engineering_ambassadors/
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CJ8xpgHHwiR/">
+                <image src="{{site.baseurl}}/images/CCA-esa-ig3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Ambassador">
+                <h6 style="margin-top:0%">Engineering Student Ambassador Subcommittee Recruitment</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/B_yaN6MnlfE/">
                 <image src="{{site.baseurl}}/images/CCA_eng_ambassador_helpyr1.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Ambassador">
                 <h6 style="margin-top:0%">Helping Year Ones</h6>
@@ -40,8 +47,6 @@ permalink: /interest_groups/engineering_ambassadors/
                 <h6 style="margin-top:0%">Sub-Committee Recruitment</h6>
                 </image>
             </a>
-        </td>
-        <td style="width:33%">
         </td>
      </tr>
 </table>

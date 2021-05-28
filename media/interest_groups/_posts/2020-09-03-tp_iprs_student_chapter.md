@@ -33,16 +33,16 @@ permalink: /interest_groups/tp_iprs_student_chapter/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CDtlbEJH1bg/">
-                    <image src="{{site.baseurl}}/images/CCA-tpiprs_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
-                    <h6 style="margin-top:0%">Collaboration with Advisory Singapore</h6>
+                <a href="https://www.instagram.com/p/CORqP3JHVax/">
+                    <image src="{{site.baseurl}}/images/CCA-tpiprs-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
+                    <h6 style="margin-top:0%">Join us as TPIPRS exco</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CD7sOZDHpSt/">
-                    <image src="{{site.baseurl}}/images/CCA-tpiprs_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
-                    <h6 style="margin-top:0%">A Student's Secret Weapon Webinar</h6>
+                <a href="https://www.instagram.com/p/CORZvHandCO/">
+                    <image src="{{site.baseurl}}/images/CCA-tpiprs-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
+                    <h6 style="margin-top:0%">4 reasons to join TP-IPRS</h6>
                     </image>
                 </a>
             </td>

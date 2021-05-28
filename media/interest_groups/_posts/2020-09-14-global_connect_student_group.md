@@ -49,23 +49,23 @@ permalink: /interest_groups/global_connect_student_group/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CGHrhbsntlU/">
-                <image src="{{site.baseurl}}/images/CCA_GCC_diy1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Diversity and Inclusion</h6>
+            <a href="https://www.instagram.com/p/CPF_06nntYu/">
+                <image src="{{site.baseurl}}/images/CCA-gcsg-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+                <h6 style="margin-top:0%">DIY Online June 2021</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CGOUw4nHEIU/">
-                <image src="{{site.baseurl}}/images/CCA_GCC_philippines.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">One Minute of Culture</h6>
+            <a href="https://www.instagram.com/p/COh9-yuH04S/">
+                <image src="{{site.baseurl}}/images/CCA-gcsg-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+                <h6 style="margin-top:0%">Diversity And Inclusion: Ageism in the Workplace</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CFzfidlnkje/">
-                <image src="{{site.baseurl}}/images/CCA_GCC_UNSDG1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Did You know? Life Below Water</h6>    
+            <a href="https://www.instagram.com/p/COac1VDHny8/">
+                <image src="{{site.baseurl}}/images/CCA-gcsg-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+                <h6 style="margin-top:0%">Executive Committee AY2021/22</h6>    
                 </image>
             </a>
         </td>
