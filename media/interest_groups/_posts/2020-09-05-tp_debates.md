@@ -39,9 +39,9 @@ permalink: /interest_groups/tp_debates/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CNmwka2H_HM/">
-                    <image src="{{site.baseurl}}/images/CCA-tpD-ig2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
-                    <h6 style="margin-top:0%">TP Phase 3 Opens</h6>
+                <a href="https://www.instagram.com/p/CPf0sbZHYuc">
+                    <image src="{{site.baseurl}}/images/CCA-tpD-ig7.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <h6 style="margin-top:0%">Debates Meeting in Phase 3</h6>
                     </image>
                 </a>
             </td>

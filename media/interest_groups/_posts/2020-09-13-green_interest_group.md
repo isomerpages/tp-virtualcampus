@@ -51,7 +51,7 @@ permalink: /interest_groups/green_interest_group/
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COHp3OFnAF-/">
                 <image src="{{site.baseurl}}/images/CCA-gig-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
-                <h6 style="margin-top:0%">TPGIG MAINCOMM Y21/22</h6>    
+                <h6 style="margin-top:0%">TPGIG MAINCOMM AY21/22</h6>    
                 </image>
             </a>
         </td>
