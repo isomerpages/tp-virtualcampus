@@ -21,11 +21,6 @@ colors:
       color: '#00838f'
 
 
-collections:
-  the-campus:
-    output: true
-  explore:
-    output: true
 
 resources_name: media
 
@@ -47,10 +42,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://tp-vc-staging.netlify.app
+prod: https://tp-vc-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
