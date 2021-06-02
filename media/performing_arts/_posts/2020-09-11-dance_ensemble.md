@@ -44,23 +44,23 @@ permalink: /performing_arts/dance_ensemble/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CIE_ytenron/">
-                <image src="{{site.baseurl}}/images/CCA-TPDE_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">Breaking Pointé Vol. 6 - The Finalists</h6>
+            <a href="https://www.instagram.com/p/COhwxBzHu4D/">
+                <image src="{{site.baseurl}}/images/CCA-tpde-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <h6 style="margin-top:0%">TPDE Auditions 2021</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CNSMUFOntMa/">
-                <image src="{{site.baseurl}}/images/CCA-TPDE_IG5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">"PLAY" collaborator - Dikir Barat</h6>
+            <a href="https://www.instagram.com/p/CNkb4cRH3UO/">
+                <image src="{{site.baseurl}}/images/CCA-tpde-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <h6 style="margin-top:0%">PLAY: "PRESENT"</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CNSMbOEHMMg/">
-                <image src="{{site.baseurl}}/images/CCA-TPDE_IG6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">"PLAY" collaborator - Digital Media & Production Crew</h6>    
+            <a href="https://www.instagram.com/p/CNjvQDpn4el/">
+                <image src="{{site.baseurl}}/images/CCA-tpde-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <h6 style="margin-top:0%">PLAY: "MAYAN"</h6>    
                 </image>
             </a>
         </td>

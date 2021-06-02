@@ -1,0 +1,45 @@
+collections:
+  explore:
+    output: true
+    order:
+      - be-involved/.keep
+      - be-involved/temasek-student-excellence-awards-2021.md
+      - be-involved/cca-scholarship-2021.md
+      - be-involved/cca-virtual-fair-2021.md
+      - be-involved/freshmen-orientation-programme-2021.md
+      - be-involved/performing-arts.md
+      - be-involved/sports.md
+      - be-involved/p10-interest-groups.md
+      - be-involved/diploma-interest-groups.md
+      - be-involved/temasek-lead.md
+      - be-entertained/.keep
+      - be-entertained/temasek-arts-festival-2021.md
+      - be-entertained/highlights.md
+      - be-entertained/temasek-arts-centre.md
+      - be-entertained/tp-s-film-and-media-talents.md
+      - be-awesome/.keep
+      - be-awesome/virtual-workouts.md
+      - be-awesome/nutritional-tips.md
+      - be-awesome/student-wellness.md
+      - be-awesome/ippt-ns-prep.md
+      - be-caring/.keep
+      - be-caring/caring-for-community.md
+      - be-caring/caring-for-environment.md
+      - be-caring/campus-care-network.md
+      - be-caring/sexual-misconduct-guide.md
+      - be-connected/.keep
+      - be-connected/highlights.md
+      - be-connected/alumni-buzz.md
+      - be-connected/alumni-businesses.md
+      - be-connected/personal-development.md
+      - be-connected/career-navigator.md
+      - be-connected/join-the-alumni-family.md
+      - be-travelling/.keep
+      - be-travelling/highlights.md
+      - be-travelling/e-adventures.md
+      - be-creative/.keep
+      - be-creative/highlights.md
+      - be-creative/entrepreneurship-success-stories.md
+      - be-updated/.keep
+      - be-updated/highlights.md
+      - be-updated/tp30.md

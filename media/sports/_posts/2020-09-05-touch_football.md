@@ -34,6 +34,13 @@ permalink: /sports/touch_football/
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/COXHyPJHWC5/">
+                <image src="{{site.baseurl}}/images/CCA-tfb-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
+                <h6 style="margin-top:0%">Who is TPIRANHAS?</h6>    
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/B_4LtlvHj63/">
                 <image src="{{site.baseurl}}/images/CCA-Touch_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
                 <h6 style="margin-top:0%">Why You Should Join Touch Football?</h6>
@@ -44,13 +51,6 @@ permalink: /sports/touch_football/
             <a href="https://www.instagram.com/p/B_jSix2H8Sv/">
                 <image src="{{site.baseurl}}/images/CCA-Touch_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
                 <h6 style="margin-top:0%">Touch Football team's achievements</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_WjzEAHzKR/">
-                <image src="{{site.baseurl}}/images/CCA-Touch_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Touch Football</h6>    
                 </image>
             </a>
         </td>

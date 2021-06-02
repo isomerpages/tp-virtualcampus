@@ -33,23 +33,23 @@ permalink: /interest_groups/nyaa_challenge/
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/COVULpRn9X6/">
+                <image src="{{site.baseurl}}/images/CCA-nyaa-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
+                <h6 style="margin-top:0%">Join Our Amazing Family</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CMgfmFgnw6S/">
+                <image src="{{site.baseurl}}/images/CCA-nyaa-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
+                <h6 style="margin-top:0%">Discussion on Alcohol & Drugs</h6>    
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CE_GRIcnNJf/">
                 <image src="{{site.baseurl}}/images/CCA_nyaa_gold_briefing.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
                 <h6 style="margin-top:0%">NYAA Gold Briefing</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CEn2AYKnxxQ/">
-                <image src="{{site.baseurl}}/images/CCA_nyaa_stress_mgt.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
-                <h6 style="margin-top:0%">Well, Fare Enough!</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CDWFLWmnQet/">
-                <image src="{{site.baseurl}}/images/CCA_nyaa_tcs_sustain.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
-                <h6 style="margin-top:0%">TCS Sustainathon 2020</h6>    
                 </image>
             </a>
         </td>

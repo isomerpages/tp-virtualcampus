@@ -31,23 +31,23 @@ permalink: /sports/sport_climbing/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/stories/highlights/17866582777911563/">
-                <image src="{{site.baseurl}}/images/CCA-Sportclimbing_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">Social distancing during F2F training</h6>
+            <a href="https://www.instagram.com/p/COfnQMbnZsQ/">
+                <image src="{{site.baseurl}}/images/CCA-tpsc-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
+                <h6 style="margin-top:0%">Meet the EXCOs!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CACQZSUnmf5/">
-                <image src="{{site.baseurl}}/images/CCA-Sportclimbing_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Sport Climbing</h6>
+            <a href="https://www.instagram.com/p/COZaOy-HJI5/">
+                <image src="{{site.baseurl}}/images/CCA-tpsc-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
+                <h6 style="margin-top:0%">Training Days</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B-rH8bDnmuC/">
-                <image src="{{site.baseurl}}/images/CCA-Sportclimbing_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">Introduction to the TP Sport Climbing team</h6>    
+            <a href="https://www.instagram.com/p/CNzl1IpnhKT/">
+                <image src="{{site.baseurl}}/images/CCA-tpsc-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
+                <h6 style="margin-top:0%">TP Virtual CCA Fair 2021</h6>    
                 </image>
             </a>
         </td>

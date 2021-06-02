@@ -30,23 +30,23 @@ permalink: /interest_groups/tp_ambassadors/
     <table>
         <tr>
             <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/COKCd8Hn0tt">
+                    <image src="{{site.baseurl}}/images/CCA-tpa-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Ambassadors">
+                    <h6 style="margin-top:0%">What is TP Ambassadors?</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CGPbNOiHcdP">
+                    <image src="{{site.baseurl}}/images/CCA-tpa-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Ambassadors">
+                    <h6 style="margin-top:0%">#StressBuster Tips</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CEL96cNnELL/">
                     <image src="{{site.baseurl}}/images/CCA-tpambassadors_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Ambassadors">
                     <h6 style="margin-top:0%">Here are some study tips!</h6>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CEtC0GJn5Pv/">
-                    <image src="{{site.baseurl}}/images/CCA-tpambassadors_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Ambassadors">
-                    <h6 style="margin-top:0%">Happy Teachers' Day!</h6>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CHAfMgMHHgt/">
-                    <image src="{{site.baseurl}}/images/CCA-tpambassadors_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Ambassadors">
-                    <h6 style="margin-top:0%">Where's the Ghost</h6>
                     </image>
                 </a>
             </td>

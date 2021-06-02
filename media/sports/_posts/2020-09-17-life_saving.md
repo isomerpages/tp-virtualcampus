@@ -30,23 +30,23 @@ permalink: /sports/life_saving/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CB-L_j6Hf11/">
-                <image src="{{site.baseurl}}/images/CCA-tpls_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
-                <h6 style="margin-top:0%">Paddle Training!</h6>
+            <a href="https://www.instagram.com/p/CPNIyGCHrr7/">
+                <image src="{{site.baseurl}}/images/CCA-ls-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">Freshie Bonding</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CB2VGK2nFWr/">
-                <image src="{{site.baseurl}}/images/CCA-tpls_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
-                <h6 style="margin-top:0%">3-min Workout Challenge with visit by PCEO</h6>
+            <a href="https://www.instagram.com/p/CPHvk-OHJnc/">
+                <image src="{{site.baseurl}}/images/CCA-ls-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">Introducing Life Saving Exco 2021</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAPANhkH0N9/">
-                <image src="{{site.baseurl}}/images/CCA-tpls_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
-                <h6 style="margin-top:0%">Introduction to the Lifesaving EXCO</h6>    
+            <a href="https://www.instagram.com/p/CN6d2xFnxbL/">
+                <image src="{{site.baseurl}}/images/CCA-ls-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">Why Join TPLSST?</h6>
                 </image>
             </a>
         </td>

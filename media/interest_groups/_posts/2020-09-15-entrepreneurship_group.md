@@ -33,23 +33,23 @@ permalink: /interest_groups/entrepreneurship_group/
     <table>
         <tr>
             <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/COrpavjnYIW">
+                    <image src="{{site.baseurl}}/images/CCA-ec-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Introducing Management Committee AY2021/2022">
+                    <h6 style="margin-top:0%">Introducing Management Committee AY2021/2022</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/COOtkFiHjj4/">
+                    <image src="{{site.baseurl}}/images/CCA-ec-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPEC Recruitment">
+                    <h6 style="margin-top:0%">TPEC Recruitment</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CGyuRt8nqwx/">
                     <image src="{{site.baseurl}}/images/CCA-tpec_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Amazing Race Recruiting Facilitators">
                     <h6 style="margin-top:0%">Amazing Race on 9 Nov</h6>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CFJOeD-n6yv/">
-                    <image src="{{site.baseurl}}/images/CCA-tpec_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="EG Business Growing">
-                    <h6 style="margin-top:0%">Interested in growing your business?</h6>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CFbhOE4HpLy/">
-                    <image src="{{site.baseurl}}/images/CCA-tpec_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="EG Start Business">
-                    <h6 style="margin-top:0%">Learn more on starting your own business</h6>    
                     </image>
                 </a>
             </td>

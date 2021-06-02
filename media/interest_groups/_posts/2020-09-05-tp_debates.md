@@ -39,15 +39,25 @@ permalink: /interest_groups/tp_debates/
     <table>
         <tr>
             <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CPf0sbZHYuc">
+                    <image src="{{site.baseurl}}/images/CCA-tpD-ig7.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <h6 style="margin-top:0%">Debates Meeting in Phase 3</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/COfig7yHHTY/">
+                    <image src="{{site.baseurl}}/images/CCA-tpD-ig3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <h6 style="margin-top:0%">TP Debates Orientation</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CD03UHrHpV2/">
                     <image src="{{site.baseurl}}/images/CCA-tpdebates_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
                     <h6 style="margin-top:0%">Freshmen Tournament</h6>
                     </image>
                 </a>
-            </td>
-            <td style="width:33%"><br>
-            </td>
-            <td style="width:33%"><br>
             </td>
         </tr>
     </table>

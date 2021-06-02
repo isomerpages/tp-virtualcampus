@@ -30,23 +30,23 @@ permalink: /interest_groups/project_innov8/
     <table>
         <tr>
             <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/CN6LGlDnI5s/">
+                    <image src="{{site.baseurl}}/images/CCA-pi8-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <h6 style="margin-top:0%">KIN, A wallet created by local designers</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
+                <a href="https://www.instagram.com/p/COOlFeIng7C/">
+                    <image src="{{site.baseurl}}/images/CCA-pi8-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <h6 style="margin-top:0%">Join us!</h6>
+                    </image>
+                </a>
+            </td>
+            <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CKK7hu6H0w-/">
                     <image src="{{site.baseurl}}/images/CCA-projectinnov8_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">Project Pouch Collaboration</h6>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CEYiTHSHqOW/">
-                    <image src="{{site.baseurl}}/images/CCA-projectinnov8_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-                    <h6 style="margin-top:0%">Innovation Awareness</h6>
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CHW5HZwnPvh/">
-                    <image src="{{site.baseurl}}/images/CCA-projectinnov8_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-                    <h6 style="margin-top:0%">SG Sustainable Products</h6>
                     </image>
                 </a>
             </td>

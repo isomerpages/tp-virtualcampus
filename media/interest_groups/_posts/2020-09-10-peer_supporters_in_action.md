@@ -27,3 +27,31 @@ permalink: /interest_groups/peer_supporters_in_action/
         </tr>
     </table>
 </div>
+
+#### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CPAf8Umnrgn/">
+                <image src="{{site.baseurl}}/images/CCA-psia-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
+                <h6 style="margin-top:0%">e-Forum #2 Group Work</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/COSSY4Gjhve/">
+                <image src="{{site.baseurl}}/images/CCA-psia-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
+                <h6 style="margin-top:0%">Recruiting Now!</h6>    
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CONIWYZDxuN/">
+                <image src="{{site.baseurl}}/images/CCA-psia-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
+                <h6 style="margin-top:0%">The Start of PSIA</h6>
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>

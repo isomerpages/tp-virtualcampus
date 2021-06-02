@@ -30,23 +30,23 @@ permalink: /sports/taekwondo/
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CPITfI4HllV">
+                <image src="{{site.baseurl}}/images/CCA-tkd-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
+                <h6 style="margin-top:0%">Bon Voyage AY21/22 TKD Exco Members </h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/tv/CNz0tj2Hgr9">
+                <image src="{{site.baseurl}}/images/CCA-tkd-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
+                <h6 style="margin-top:0%">2021 TP Martial Arts Video shoot!</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CACzPmjn7nm/">
                 <image src="{{site.baseurl}}/images/CCA-Taekwondo_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
                 <h6 style="margin-top:0%">Team Taekwondo CCA Recruitment Drive video</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/stories/highlights/17865901693785887/">
-                <image src="{{site.baseurl}}/images/CCA-Taekwondo_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
-                <h6 style="margin-top:0%">Team Taekwondo First Online Training</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CACtayfHGtp/">
-                <image src="{{site.baseurl}}/images/CCA-Taekwondo_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Taekwondo</h6>    
                 </image>
             </a>
         </td>

@@ -40,27 +40,25 @@ permalink: /performing_arts/salvo_drums/
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/COW0iWgn-Kj/">
+                <image src="{{site.baseurl}}/images/CCA-sd-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
+                <h6 style="margin-top:0%">Introductory Workshop</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/COW0XWYnpxM/">
+                <image src="{{site.baseurl}}/images/CCA-sd-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
+                <h6 style="margin-top:0%">Introducing Main Committee AY21/22</h6>    
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CJutTnDHzfB/">
                 <image src="{{site.baseurl}}/images/CCA-Salvo_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
                 <h6 style="margin-top:0%">Home of the Arts. Join Our Squad!</h6>
                 </image>
             </a>
         </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAR-qCGHv5Y/">
-                <image src="{{site.baseurl}}/images/CCA-Salvo_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
-                <h6 style="margin-top:0%">Join the TP Salvo Drums family!</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAAI_gAHyK-/">
-                <image src="{{site.baseurl}}/images/CCA-Salvo_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
-                <h6 style="margin-top:0%">Preview of the Salvo Drums experience</h6>    
-                </image>
-            </a>
-        </td>
     </tr>
 </table>
-
-

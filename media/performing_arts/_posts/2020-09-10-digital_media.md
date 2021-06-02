@@ -37,16 +37,16 @@ permalink: /performing_arts/digital_media/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CB0HafsnA_A/">
-                <image src="{{site.baseurl}}/images/CCA-DMPC_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
-                <h6 style="margin-top:0%">Launch of DMPC website</h6>
+            <a href="https://www.instagram.com/p/COErQ91nnU5/">
+                <image src="{{site.baseurl}}/images/CCA-dmpc-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <h6 style="margin-top:0%">Peek into what we do!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CACkVC1HUYd/">
-                <image src="{{site.baseurl}}/images/CCA-DMPC_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 DMPC Video</h6>
+            <a href="https://www.instagram.com/p/CJvDjrkHd0f/">
+                <image src="{{site.baseurl}}/images/CCA-dmpc-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
+                <h6 style="margin-top:0%">Join our squad now!</h6>
                 </image>
             </a>
         </td>
@@ -59,4 +59,3 @@ permalink: /performing_arts/digital_media/
         </td>
     </tr>
 </table>
-

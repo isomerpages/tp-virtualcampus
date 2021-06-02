@@ -44,27 +44,25 @@ permalink: /performing_arts/indian_dance/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CDqFnRwFjN7/">
-                <image src="{{site.baseurl}}/images/CCA-Indiandance_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
-                <h6 style="margin-top:0%">Indian Dance NDC performance</h6>
+            <a href="https://www.instagram.com/p/COkP8QDFDLR/">
+                <image src="{{site.baseurl}}/images/CCA-id-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <h6 style="margin-top:0%">Introducing Main Committee AY21/22</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CC77RoClSQy/">
-                <image src="{{site.baseurl}}/images/CCA-Indiandance_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
-                <h6 style="margin-top:0%">TP x NYP x SP #dontrushchallenge</h6>
+            <a href="https://www.instagram.com/p/CNm9OEQlxLQ/">
+                <image src="{{site.baseurl}}/images/CCA-id-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <h6 style="margin-top:0%">AARUYIRE, A Tale of New Beginning</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAKcWP-F-8Z/">
-                <image src="{{site.baseurl}}/images/CCA-Indiandance_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 video</h6>    
+            <a href="https://www.instagram.com/p/CN6Kguigkq5/">
+                <image src="{{site.baseurl}}/images/CCA-id-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <h6 style="margin-top:0%">TP Virtual CCA Fair 2021</h6>    
                 </image>
             </a>
         </td>
     </tr>
 </table>
-
-
