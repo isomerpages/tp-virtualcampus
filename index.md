@@ -25,6 +25,14 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: COVID-19 Vaccination Exercise
+      subtitle: Vaccination Exercise
+      description: Find out more on how you can protect yourself against COVID-19
+      button: Infographic
+      url: /covid/explore/be-caring/permalink
+      alt: vaccination
+      image: /images/syringe-5882593_1920.jpg
+  - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
       image: /images/Infopic-TSEA2021.jpg
@@ -67,12 +75,4 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: COVID-19 Vaccination Exercise
-      subtitle: Vaccination Exercise
-      description: Find out more on how you can protect yourself against COVID-19
-      button: Infographic
-      url: /covid/explore/be-caring/permalink
-      alt: vaccination
-      image: /images/syringe-5882593_1920.jpg
 ---
