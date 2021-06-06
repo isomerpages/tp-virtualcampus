@@ -74,4 +74,5 @@ sections:
       button: Infographic
       url: /covid/explore/be-caring/permalink
       alt: vaccination
+      image: /images/syringe-5882593_1920.jpg
 ---
