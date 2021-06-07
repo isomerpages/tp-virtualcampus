@@ -3,7 +3,7 @@ title: COVID-19 Vaccination Exercise for 12 & above
 permalink: /covid/explore/be-caring/permalink
 third_nav_title: Be Caring
 ---
-### Protect Yourself Against COVID-19
+### Protect Yourself and Your Loved Ones Against COVID-19
 
 ![Vaccinate](/images/BeCaring_Covid-19Vaccinate.png)
 
