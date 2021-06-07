@@ -15,7 +15,7 @@ In view of the COVID-19 situation, the TSEA Secretariat has modified some of our
 <b>Announcement</b><br>
 Nominations for the TSEA are now closed. Thank you for your active support in nominating deserving students who have made a difference despite all the odds! Results will be released by September 2021, so do watch this space for more updates.
 
-For the full list of awards and their eligibility criteria, click [here](/images/attachment/Tseaattachment/TSEA2021AwardsInfo.pdf ).  
+For the full list of awards and their eligibility criteria, click [here](/files/tsea/TSEA2021AwardsInfo.pdf ).  
 
 Didn't manage to find what you were looking for? Refer to a list of FAQs [here](/files/tsea/TSEA2021-FAQs.pdf)!
 
