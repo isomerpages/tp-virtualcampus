@@ -27,8 +27,9 @@ sections:
   - infopic:
       title: COVID-19 Vaccination Exercise
       subtitle: Vaccination Exercise
-      description: Find out more on how you can protect yourself against COVID-19
-      button: Infographic
+      description: Find out how you can protect yourself and your loved ones against
+        COVID-19
+      button: Do your part!
       url: /covid/explore/be-caring/permalink
       alt: vaccination
       image: /images/syringe-5882593_1920.jpg
