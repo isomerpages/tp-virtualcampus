@@ -15,7 +15,9 @@ In view of the COVID-19 situation, the TSEA Secretariat has modified some of our
 <b>Announcement</b><br>
 Nominations for the TSEA are now closed. Thank you for your active support in nominating deserving students who have made a difference despite all the odds! Results will be released by September 2021, so do watch this space for more updates.
 
-Please refer to the full list of awards, as well as the eligibility criteria, click [here](/images/attachment/Tseaattachment/TSEA2021AwardsInfo.pdf ).  Didn't manage to find what you were looking for? Refer to a list of FAQs [here](/images/attachment/Tseaattachment/TSEA2021-FAQs.pdf ).
+For the full list of awards and their eligibility criteria, click [here](/images/attachment/Tseaattachment/TSEA2021AwardsInfo.pdf ).  
+
+Didn't manage to find what you were looking for? Refer to a list of FAQs [here](/images/attachment/Tseaattachment/TSEA2021-FAQs.pdf ).
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
 
