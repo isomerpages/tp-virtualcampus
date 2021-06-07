@@ -17,7 +17,7 @@ Nominations for the TSEA are now closed. Thank you for your active support in no
 
 For the full list of awards and their eligibility criteria, click [here](/images/attachment/Tseaattachment/TSEA2021AwardsInfo.pdf ).  
 
-Didn't manage to find what you were looking for? Refer to a list of FAQs [here](/images/attachment/Tseaattachment/TSEA2021-FAQs.pdf )!
+Didn't manage to find what you were looking for? Refer to a list of FAQs [here](/files/tsea/TSEA2021-FAQs.pdf)!
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
 
