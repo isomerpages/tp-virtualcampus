@@ -3,7 +3,6 @@ layout: page
 title: Temasek Student Excellence Awards 2021
 permalink: /be-involved/tsea2021/
 third_nav_title: Be Involved
-
 ---
 ### Temasek Student Excellence Awards 2021
 
@@ -11,35 +10,15 @@ The Temasek Student Excellence Awards (TSEA) are presented annually to recognise
 
 2020 has been an unprecedented year for our students and CCA groups. However, despite the curveballs that the pandemic has thrown, they have remained resilient and positive, made significant efforts to keep their CCA groups alive, and devised creative workarounds in ways previously unimaginable. In the process, they were also engaged and exposed to new skills and learning opportunities. 
 
-We are happy to announce that nominations for the TSEA are now open! In view of the COVID-19 situation, the TSEA Secretariat has also modified some of our usual award categories to facilitate your nominations. Nonetheless, the spirit of TSEA remains in celebrating excellent student contributions. 
-
-Do take a moment to uplift your students’ spirits, and give them a pat on the back for their amazing dedication, selfless sacrifice and inspiring leadership. 
-
-Nominate them for the TSEA today! 
+In view of the COVID-19 situation, the TSEA Secretariat has modified some of our usual award categories to facilitate your nominations. Nonetheless, the spirit of TSEA remains in celebrating excellent student contributions. 
 
 <b>Announcement</b><br>
-Nominations for the TSEA are open <b><u>from now till 31 May 2021 (Monday), 11.59pm</u></b>. Please refer to the full list of awards, as well as the eligibility criteria, nomination process and submission forms/links below.
+Nominations for the TSEA are now closed. Thank you for your active support in nominating deserving students who have made a difference despite all the odds! Results will be released by September 2021, so do watch this space for more updates.
 
-For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
+For the full list of awards and their eligibility criteria, click [here](/files/tsea/TSEA2021AwardsInfo.pdf ).  
 
----
-<div>
-    <table>
-        <tr>
-            <td style="width:49%"><br>
-                <a href="/tsea/information/">
-                    <image src="{{site.baseurl}}/images/tsea-selection.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Award Information">
-                    <h5 style="margin-top:0%">Award Information</h5>
-                    </image>
-                </a>
-            </td>
-            <td style="width:49%"><br>
-                <a href="/tsea/categories/">
-                    <image src="{{site.baseurl}}/images/tsea-individual.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Award Categories">
-                    <h5 style="margin-top:0%">Award Categories</h5>
-                    </image>
-                </a>
-            </td>
-         </tr>
-     </table>
-</div>
+Didn't manage to find what you were looking for? Refer to a list of FAQs [here](/files/tsea/TSEA2021-FAQs.pdf)!
+
+If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
+
+See you next year!
