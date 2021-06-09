@@ -18,6 +18,6 @@ Applicants may be contacted for more information or requested to attend intervie
 
 Successful applicants will be notified via email by September 2021. 
 
-For more information on the selection process and conditions of CCA Scholarships, please download from [here](/files/tsea/ccascholarshipcriteria.pdf).
+For more information on the selection process and conditions of CCA Scholarship, please download from [here](/files/tsea/ccascholarshipcriteria.pdf).
 
 For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
