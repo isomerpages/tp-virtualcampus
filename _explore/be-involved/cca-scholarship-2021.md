@@ -19,7 +19,6 @@ Applicants may be contacted for more information and the shortlisted applicants 
 
 Successful applicants will be notified via email in September 2021. 
 
-For more information on the eligibility criteria and application process  for CCA Scholarship 2021, please download from [here](/images/attachment/ccascholarshipcriteria.pdf).
+For more information on the eligibility criteria and application process  for CCA Scholarship 2021, please download from [here](/files/tsea/ccascholarshipcriteria.pdf).
 
 For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
-
