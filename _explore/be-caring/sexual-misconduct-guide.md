@@ -3,9 +3,7 @@ layout: page
 title: Sexual Misconduct Guide
 permalink: /be-caring/sexual-misconduct/
 third_nav_title: Be Caring
-
 ---
-
 ### Sexual Misconduct Support Guide
 
 ![Misconduct](/images/BeCaring-Sexualmisconduct.png)
@@ -14,4 +12,4 @@ No one expects to meet with sexual misconduct incidents. Unfortunately, such inc
 
 This guide also includes some information for peers to support peers who have experienced a sexual misconduct incident.
 
-You may find this resource [here](/images/attachment/TP_Sexual_Misconduct_Guide_For_Students.pdf).
+You may find this resource [here](/files/TP_Sexual_Misconduct_Guide_For_Students.pdf).
