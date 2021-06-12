@@ -3,9 +3,7 @@ layout: page
 title: Student Wellness
 permalink: /be-awesome/student-wellness/
 third_nav_title: Be Awesome
-
 ---
-
 <div style="margin:2%; text-align:center">
     <a href="{{site.baseurl}}/be-awesome/student-wellness#counselling" class="bp-button">Counselling</a>
     <a href="{{site.baseurl}}/be-awesome/student-wellness#AIchatbot" class="bp-button">AI Wellness Chatbot</a>
@@ -68,9 +66,9 @@ People who practice mindfulness have shared it reduces stress and improves well-
 
 ![Mindfulness]({{site.baseurl}}/images/BeAwesome-Mindfulness.JPG)
 
-<b>E-Forum (Every Wed, 1pm – 2pm)</b>
+<b>E-Forum (Alternate Wed, 1pm – 2pm)</b>
 
-Join the Conversation to discuss what MATTERS to You.  Look out for student announcements. 
+Join the Conversation to discuss what MATTERS to You. Look out for student announcements via TP Oei.
 <h4>SEAL Points are awarded for participation.</h4>
 
 ![E-Forum]({{site.baseurl}}/images/BeAwesome-E-Forum.png)
