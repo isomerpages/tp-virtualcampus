@@ -3,7 +3,6 @@ layout: page
 title: Highlights
 permalink: /be-entertained/highlights/
 third_nav_title: Be Entertained
-
 ---
 ## Electric Dreams - Online Concert
 ![ElectricDreams]({{site.baseurl}}/images/BeEntertained-ElectricDreams1.jpg)
@@ -45,5 +44,4 @@ From the classical wind instruments🎷 to our modern- day electrical guitars �
 ### Music Vox Weekly Jukebox Videos!🎤🎹🥁🎸
 We have our first band and the winner of the All Rounded Excellence Award, French Fry Sk8ters, showcasing their song "Dear Monday". "Dear Monday" is a motivational song to chase the Monday blues away. It incorporates a hint of humour and cheeseburger to bring some laughter to the table. Hope you enjoy! 
 
-[![MV Jukebox]({{site.baseurl}}/images/BeEntertained-MVWkly.png)](https://www.instagram.com/p/CGmm-BiHIVX/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
-
+[![MV Jukebox]({{site.baseurl}}/images/BeEntertained-MVWkly.png)](https://www.instagram.com/tpmusicvox/channel/){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}
