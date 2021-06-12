@@ -63,10 +63,10 @@ A <a href="https://studenttpedu.sharepoint.com/sites/SSCS/Home/Shared%20Document
 
 People who practice mindfulness have shared it reduces stress and improves well-being, among other benefits. Look out for student announcements via TP Oei.
 <h4>SEAL Points are awarded for participation.</h4>
-![Mindfulness Practice](/images/Mindfulness_Practice.png)
+![Mindfulness Practice](/images/Mindfulness_Practice.png =250x)
 
 <b>[E-Forum ](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328SjRz33NBKRCtD9jL8F2z3hUMlhPNFhFR1o5UkdOSk1ITkxXUVcxVEZSTC4u)(Alternate Wed, 1pm – 2pm)</b>
 
 Join the Conversation to discuss what MATTERS to You. Look out for student announcements via TP Oei.
 <h4>SEAL Points are awarded for participation.</h4>
-![E-Forum](/images/E-Forum.png)
+![E-Forum](/images/E-Forum.png =250x)
