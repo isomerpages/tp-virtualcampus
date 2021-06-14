@@ -3,9 +3,7 @@ layout: page
 title: Diploma Interest Groups
 permalink: /be-involved/diploma_interest_groups
 third_nav_title: Be Involved
-
 ---
-
 <div style="margin:2%; text-align:center">
     <a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofasc" class="bp-button">School of ASC</a>
     <a href="{{site.baseurl}}/be-involved/diploma_interest_groups#schoolofbus" class="bp-button">School of BUS</a>
@@ -186,7 +184,7 @@ third_nav_title: Be Involved
     <table>
         <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><h4>Airborne Group</h4>
-                <a href="https://www.instagram.com/aegairborne/" target="_blank">
+                <a href="https://www.instagram.com/eng_aegairborne/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_aegig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Airborne Group (AEG)">
                     </image>
                 </a>
@@ -218,7 +216,7 @@ third_nav_title: Be Involved
                 </a>
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Clean Energy</h4>
-                <a href="https://www.instagram.com/energyoasis/?hl=en" target="_blank">
+                <a href="https://www.instagram.com/tpcleanenergy.ig/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_energyoasis.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Clean Energy (CER)">
                     </image>
                 </a>
@@ -226,7 +224,7 @@ third_nav_title: Be Involved
           </tr>
           <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><br><h4>Avionix</h4>
-                <a href="https://www.instagram.com/gforceael/" target="_blank">
+                <a href="https://www.instagram.com/tpavionix/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_aelig.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Avionix (AEL)">
                     </image>
                 </a>
@@ -249,7 +247,7 @@ third_nav_title: Be Involved
     <table>
         <tr>
             <td style="width:33%; vertical-align:bottom; border:none"><h4>Early Childhood Development & Education</h4>
-                <a href="https://www.instagram.com/sdniectp/" target="_blank">
+                <a href="https://www.instagram.com/tpecde/" target="_blank">
                     <image src="{{site.baseurl}}/images/CCA_ecde.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ECDE Interest Group">
                     </image>
                 </a>
