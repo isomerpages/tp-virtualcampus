@@ -66,10 +66,10 @@ People who practice mindfulness have shared it reduces stress and improves well-
 <div>
     <table>
         <tr>
-            <td style="width:50%"><br>
-               <img src="/images/Mindfulness_Practice.png" alt="Mindfulness Practice">
+            <td style="width:49%"><br>
+							<image src="/images/Mindfulness_Practice.png" alt="Mindfulness Practice"></image>
             </td>
-            <td style="width:50%"><br>
+            <td style="width:49%"><br>
                 </td>
         </tr>
     </table>
@@ -90,6 +90,3 @@ Join the Conversation to discuss what MATTERS to You. Look out for student annou
         </tr>
     </table>
 </div>
-
-
-
