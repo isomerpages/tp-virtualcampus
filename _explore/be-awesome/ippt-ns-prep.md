@@ -17,11 +17,6 @@ The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week
 </div>
 <br>
 <br>
-<div class="bp-youtube">
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/0ho5USfcvUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 ---
 ### IPPT Exemption
