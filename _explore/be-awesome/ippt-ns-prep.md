@@ -3,7 +3,6 @@ layout: page
 title: IPPT & NS Prep
 permalink: /be-awesome/ippt/
 third_nav_title: Be Awesome
-
 ---
 # IPPT Training Resources
 
@@ -23,6 +22,12 @@ The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/0ho5USfcvUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+---
+### IPPT Exemption
+If you are medically graded PES B (except B1), C or E, you are not required to take the Pre-Enlistee IPPT as you go through a modified basic training programme. Thus, you do not qualify for the 8-week reduction in your full-time NS duration.
+
+Submit your IPPT exemption by clicking on this <a href="https://forms.office.com/r/rBsU2iBk0H" target="_blank">link</a>.
 
 ---
 ### NS - How It Began vs How It's Going
