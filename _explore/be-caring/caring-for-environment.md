@@ -13,7 +13,7 @@ Calling all aspiring filmmakers and environmental enthusiasts to participate a v
 
 A *virtual briefing workshop* will be held on **17 July 2021, 10.00 am to 11.00 am**, conducted by Prof Mark Terry, Executive Director, Youth Climate Report, York University of Canada.
 
-To register for the workshop, please send an email to : **nyaac@singnet.com.sg**. A link will be sent to you for the zoom virtual workshop.
+To register for the workshop, please send an email to: **[nyaac@singnet.com.sg](mailto:nyaac@singnet.com.sg)**. A link will be sent to you for the zoom virtual workshop.
 
 For details on the competition rules, please refer to [here](/files/BeCaring-EnvirCompetition%20Rules.pdf).
 
