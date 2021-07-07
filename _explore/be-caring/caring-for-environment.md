@@ -5,17 +5,24 @@ permalink: /be-caring/environment/
 third_nav_title: Be Caring
 ---
 ### #NEXTGEN VIDEO CHALLENGE COMPETITION 2021-TELLING THE CLIMATE CHANGE STORY ###
-Calling all aspiring filmmakers and environmental enthusiasts to participate a video competition - **#NEXTGEN VIDEO CHALLENGE COMPETITION 2021 - TELLING THE CLIMATE CHANGE STORY**, on the climate change story based on one of the four topics below:
+Calling all aspiring filmmakers and environmental enthusiasts to PARTICIPATE in the **#NEXTGEN VIDEO CHALLENGE COMPETITION 2021 - TELLING THE CLIMATE CHANGE STORY**. Create a video  on the climate change story based on one of the four topics below:
 * **Climate Change and Community: How Are We Responding?**
 * **Climate Impacts on Urban Environments**
 * **Nature-based Solutions for Sustainable Management**
 * **Protecting and Restoring Ecosystems**
 
+**Attractive Prizes to be won!**
+* First Prize: US$1,000
+* Second Prize: US$800
+* Third Prize: US$500
+
+No entry fee required! Each participant will receive a certificate of participation. The **top 3 entries will be featured in World News Day 2021 show**. The top 20 entries will automatically be included in the Youth Climate Report 2021 at the COP26 in Glasgow, Scotland in November.
+
 A *virtual briefing workshop* will be held on **17 July 2021, 10.00 am to 11.00 am**, conducted by Prof Mark Terry, Executive Director, Youth Climate Report, York University of Canada.
 
-To register for the workshop, please send an email to: **[nyaac@singnet.com.sg](mailto:nyaac@singnet.com.sg)**. A link will be sent to you for the zoom virtual workshop.
+To register for the workshop, please send an email to: **[nyaac@singnet.com.sg](mailto:nyaac@singnet.com.sg)**. 
 
-For details on the competition rules, please refer to [here](/files/BeCaring-EnvirCompetition%20Rules.pdf).
+Closing date for submission of video: 16 Aug 2021. For details on the competition rules, please refer to [here](/files/BeCaring-EnvirCompetition%20Rules.pdf).
 
 This competition is organised by the NYAA, UNE SEAYEN, Youth Climate Report and WAN-IFRA World Editors Forum.
 
