@@ -21,7 +21,7 @@ You will find an array of support services and resources to help you through you
 **Making Inquiry and Appointment**
 
 Tel:  6780 5959  
-Email: care@tp.edu.sg  
+Email: <a href="mailto:care@tp.edu.sg">care@tp.edu.sg</a> <br>
 Opening hours: Mon – Fri (8.30 – 5.30 pm) (closed on Weekends & Public Holidays)
 
 **Make appointment [here](https://bit.ly/booktpcs)**
