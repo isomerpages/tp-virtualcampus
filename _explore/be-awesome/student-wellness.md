@@ -37,19 +37,20 @@ A wellness chatbot to help you to feel good about yourself while broadening your
 ## <a id="resources"></a>Resources
 * Support your friends using 3Ls
 	* Look-Listen-Link
-* Learn the <a href="https://drive.google.com/file/d/1aM-MNicYy7pk9SYWroed9vCzDIlxznf3/view" target="_blank">three simple steps</a> to support your peers-in-distress.
-* A <a href="https://drive.google.com/drive/folders/1hiDBwadgy7YTYyf4z4UdWwNH2DcgsZZs" target="_blank">collection of published e-articles</a> containing tips and advice on building resilience.
+* Learn the three simple <a href="https://drive.google.com/file/d/1aM-MNicYy7pk9SYWroed9vCzDIlxznf3/view" target="_blank">steps</a> to support your peers-in-distress.
+* A collection of published <a href="https://drive.google.com/drive/folders/1hiDBwadgy7YTYyf4z4UdWwNH2DcgsZZs" target="_blank"> e-articles</a> containing tips and advice on building resilience.
 
 ---
 ## <a id="programmes"></a>Programmes
 
-<b>[Mindfulness Practice](https://teams.microsoft.com/l/team/19%3a7129bed9c2514403b61e391fa39b10e9%40thread.tacv2/conversations?groupId=74bc2baa-fe0b-4ccb-9f1d-f42b762de2cc&tenantId=25a99bf0-8e72-472a-ae50-adfbdf0df6f1) (Term time - Every Wed at 12.30pm)</b>
+<b>[Mindfulness Practice](https://teams.microsoft.com/l/team/19%3a7129bed9c2514403b61e391fa39b10e9%40thread.tacv2/conversations?groupId=74bc2baa-fe0b-4ccb-9f1d-f42b762de2cc&tenantId=25a99bf0-8e72-472a-ae50-adfbdf0df6f1) <br>(Term time - Every Wed at 12.30pm)</b>
 
 People who practice mindfulness have shared it reduces stress and improves well-being, among other benefits. Look out for student announcements via TP Oei on how to join.
 
 ![Mindfulness Practice](/images/Mindfulness_Term_Jun2021.png)
 
-<b>[E-Forum](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328SjRz33NBKRCtD9jL8F2z3hUMlhPNFhFR1o5UkdOSk1ITkxXUVcxVEZSTC4u) (Alternate Wed, 1pm – 2pm)</b>
+<b>[E-Forum](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328SjRz33NBKRCtD9jL8F2z3hUMlhPNFhFR1o5UkdOSk1ITkxXUVcxVEZSTC4u)<br>
+(Alternate Wed, 1pm – 2pm)</b>
 
 Join the Conversation to discuss what MATTERS to You. Look out for student announcements via TP Oei on the forum topic.  SEAL Points are awarded for participation. 
 
