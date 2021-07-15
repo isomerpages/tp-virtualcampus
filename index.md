@@ -25,11 +25,14 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
-      title: TP National Day Virtual Concert
-      subtitle: cELEBRATE WITH US
-      description: Infopic description
-      button: Button Text
+      title: TP National Day 2021 Celebrations
+      subtitle: Together Our Singapore Spirit
+      description: Activities from traveling exhibition, flags competition, 56-hour
+        climbathon, original TP national day song to TP National Day Virtual
+        Concert awaits you!
+      button: check out
       alt: Image alt text
+      url: /be-involved/freshmenorientation/#spectacular
   - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
