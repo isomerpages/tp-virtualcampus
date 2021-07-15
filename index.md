@@ -25,15 +25,6 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
-      title: Temasek Spectacular Virtual Concert 2021
-      subtitle: Freshmen Orientation Programme
-      image: /images/Infopic-TemasekSpectacular.png
-      description: A performance showcase of epic proportions - Relive the Friendship
-        Games and catch the groovy TikTok videos!
-      button: Relive the Excitement!
-      url: /be-involved/freshmenorientation/#spectacular
-      alt: Virtual Concert
-  - infopic:
       title: "'Ke-Makkah' Travelling Exhibition"
       subtitle: TP NDC Fringe Event
       description: "Happening now at TP Library, this travelling exhibition tells the
@@ -43,6 +34,15 @@ sections:
       alt: Image alt text
       url: /be-entertained/tpndc
       image: /images/BeEntertained-NDC-Exhibition.png
+  - infopic:
+      title: Temasek Spectacular Virtual Concert 2021
+      subtitle: Freshmen Orientation Programme
+      image: /images/Infopic-TemasekSpectacular.png
+      description: A performance showcase of epic proportions - Relive the Friendship
+        Games and catch the groovy TikTok videos!
+      button: Relive the Excitement!
+      url: /be-involved/freshmenorientation/#spectacular
+      alt: Virtual Concert
   - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
