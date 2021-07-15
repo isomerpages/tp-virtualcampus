@@ -3,9 +3,9 @@ title: National Day Celebrations 2021
 permalink: /be-entertained/tpndc
 third_nav_title: Be Entertained
 ---
-## TP National Day Celebrations - Fringe Events
+## TP National Day Celebrations Fringe Events
 
-<h3>'Ke-Makkah'  - a collaboration with Malay Heritage and TP Library</h3>
+<h3>'Ke-Makkah'  - a Malay Heritage and TP Library collaboration</h3>
 
 As part of the TP National Day Celebrations Fringe Events, this travelling exhibition reimagines the interior of a nineteenth century
 kapal haji on its way to Makkah from Singapore to tell the story of Singapore and Kampong Gelam’s significance within the Hajj pilgrimage industry. 
@@ -28,3 +28,12 @@ So stay tuned!
 **Concert Link:** Watch this space!
 
 ![OriginalNDC](/images/BeEntertained-NDC-OriginalSong.png)
+
+---
+<h3>Flags Competition</h3>
+
+Make a guess on the total number of National Flags at the TP Plaza and stand a chance to win xxx. 
+
+Submit your entries on xxx by xxx. 
+
+Winning entries will be announced during the TP National Day Concert 2021. 
