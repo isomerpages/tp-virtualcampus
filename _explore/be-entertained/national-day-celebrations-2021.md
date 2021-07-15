@@ -36,4 +36,4 @@ Make a guess on the total number of National Flags at the TP Plaza and stand a c
 
 Submit your entries on xxx by xxx. 
 
-Winning entries will be announced during the TP National Day Concert 2021. 
+Winning entries will be announced during the TP National Day Concert 2021.
