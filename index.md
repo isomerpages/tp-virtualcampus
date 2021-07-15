@@ -37,8 +37,9 @@ sections:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
       image: /images/Infopic-TSEA2021.jpg
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
+      description: Thank you for your active support in nominating deserving students
+        who have made a difference despite all the odds! Results will be
+        released by September 2021.
       button: TSEA 2021
       url: /be-involved/tsea2021
       alt: TSEA2021
