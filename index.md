@@ -25,15 +25,24 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
-      title: TP National Day 2021 Celebrations
-      subtitle: Together Our Singapore Spirit
-      description: Activities from traveling exhibition, flags competition, 56-hour
-        climbathon, original TP national day song to TP National Day Virtual
-        Concert awaits you!
+      title: Temasek Spectacular Virtual Concert 2021
+      subtitle: Freshmen Orientation Programme
+      image: /images/Infopic-TemasekSpectacular.png
+      description: A performance showcase of epic proportions - Relive the Friendship
+        Games and catch the groovy TikTok videos!
+      button: Relive the Excitement!
+      url: /be-involved/freshmenorientation/#spectacular
+      alt: Virtual Concert
+  - infopic:
+      title: "'Ke-Makkah' Travelling Exhibition"
+      subtitle: TP NDC Fringe Event
+      description: "Happening now at TP Library, this travelling exhibition tells the
+        story of S'pore & Kampong Gelam's significance within the Haji
+        pilgrimage history. "
       button: check out
       alt: Image alt text
       url: /be-entertained/tpndc
-      image: /images/BeEntertained-NDPlogo.PNG
+      image: /images/BeEntertained-NDC-Exhibition.png
   - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
@@ -44,15 +53,6 @@ sections:
       button: TSEA 2021
       url: /be-involved/tsea2021
       alt: TSEA2021
-  - infopic:
-      title: Temasek Spectacular Virtual Concert 2021
-      subtitle: Freshmen Orientation Programme
-      image: /images/Infopic-TemasekSpectacular.png
-      description: A performance showcase of epic proportions - Relive the Friendship
-        Games and catch the groovy TikTok videos!
-      button: Relive the Excitement!
-      url: /be-involved/freshmenorientation/#spectacular
-      alt: Virtual Concert
   - infopic:
       title: Temasek Friendship Games 2021 Dragonboating
       subtitle: Freshmen Orientation Programme
