@@ -25,6 +25,12 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: TP National Day Virtual Concert
+      subtitle: cELEBRATE WITH US
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
       image: /images/Infopic-TSEA2021.jpg
@@ -76,10 +82,4 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: TP National Day Virtual Concert
-      subtitle: cELEBRATE WITH US
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
