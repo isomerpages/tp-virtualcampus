@@ -30,7 +30,7 @@ sections:
       description: "Happening now at TP Library, this travelling exhibition tells the
         story of S'pore & Kampong Gelam's significance within the Haji
         pilgrimage history. "
-      button: check out
+      button: Find Out More
       alt: Image alt text
       url: /be-entertained/tpndc
       image: /images/BeEntertained-NDC-Exhibition.png
