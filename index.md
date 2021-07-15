@@ -32,7 +32,7 @@ sections:
         Concert awaits you!
       button: check out
       alt: Image alt text
-      url: /be-involved/freshmenorientation/#spectacular
+      url: /be-entertained/tpndc
   - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
