@@ -26,4 +26,3 @@ So stay tuned!
 **Concert Date:**  5 Aug 2021, Thursday  
 **Time:** 8pm to 9pm  
 **Concert Link:** Watch this space!
-
