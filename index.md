@@ -33,6 +33,7 @@ sections:
       button: check out
       alt: Image alt text
       url: /be-entertained/tpndc
+      image: /images/BeEntertained-NDPlogo.PNG
   - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
