@@ -3,7 +3,6 @@ layout: page
 title: Freshmen Orientation Programme 2021
 permalink: /be-involved/freshmenorientation/
 third_nav_title: Be Involved
-
 ---
 <div style="margin:2%; text-align:center">
     <a href="{{site.baseurl}}/be-involved/freshmenorientation/#welcome" class="bp-button">Welcome, Freshmen</a>
@@ -28,9 +27,8 @@ Check out the highlights below and see you at FOP 2021!
 ---
 ### <a id="spectacular"></a>Temasek Spectacular Virtual Concert 2021
 
-<b>Save the date - 16 April, 3pm!</b> The Temasek Spectacular is back, bigger and better! Find out the winners of the Temasek Friendship Games, watch snippets of the TikTok Cheers from the academic schools and test your knowledge as a TP-ian and stand a chance to win up to $2,500 of CapitaVouchers!
+Relive the Friendship Games, catch the groovy TikTok Cheers from the academic schools and test your knowledge as a TP-ian with the Temasek Spectacular Virtual Concert 2021 [video](https://www.youtube.com/watch?v=1YClN40nEYc)!
 
-The recording of the Temasek Spectacular Virtual Concert 2021 is being processed. Please check back here again soon to relive the action!
 
 ![SpectacularConcert]({{site.baseurl}}/images/BeInvolved-SpectacularSquare.png)
 
