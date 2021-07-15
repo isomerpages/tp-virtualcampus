@@ -15,3 +15,15 @@ Through the profiles of passengers and crew onboard, the exhibition will introdu
  Check out this exhibition from now till 23 July at our TP Library, level 2. 
 
 ![TravellingExhibition](/images/BeInvolved-NDC-LIB.jpg)
+
+---
+<h3>An Original National Day Song - by TP Music Vox</h3>
+
+If you have shared with us how YOU feel about Singapore and what makes this place YOUR HOME, join us for the TP National Day Celebrations 2021! With your heart-felt responses, TP Music Vox has composed an original National Day Song which will be performed during the concert. 
+
+So stay tuned!
+
+**Concert Date:**  5 Aug 2021, Thursday  
+**Time:** 8pm to 9pm  
+**Concert Link:** Watch this space!
+
