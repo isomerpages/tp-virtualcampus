@@ -48,8 +48,7 @@ sections:
       subtitle: Freshmen Orientation Programme
       image: /images/Infopic-TemasekSpectacular.png
       description: A performance showcase of epic proportions - Relive the Friendship
-        Games, catch the groovy TikTok videos and stand a chance to win over
-        $2,500 worth of CapitaVouchers!
+        Games and catch the groovy TikTok videos!
       button: Relive the Excitement!
       url: /be-involved/freshmenorientation/#spectacular
       alt: Virtual Concert
