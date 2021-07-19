@@ -25,9 +25,9 @@ third_nav_title: Be Entertained
          <td>Happening now until 23 July, this travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. Check it out at TP Library Level 2. </td>
       </tr>
       <tr>
-         <td>??</td>
-				<td>Flag Contest</td>
-         <td>Count the number of Singapore Flags at TP Plaza and stand a chance to win xxx! Winners to be announced on 5 Aug at TP National Day Concert.</td>
+         <td>From 26 July</td>
+				<td>Put the Flags out!</td>
+         <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! Winners to be announced on 5 Aug at TP National Day Concert. Check out TP IG for details. </td>
       </tr>
 		   <tr>
          <td>23 July - 8 August</td>
