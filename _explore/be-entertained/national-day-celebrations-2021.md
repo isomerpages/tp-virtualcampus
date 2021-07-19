@@ -21,7 +21,8 @@ third_nav_title: Be Entertained
    <tbody>
       <tr>
          <td>12 - 23 Jul</td>
-         <td>'Ke-Makkah' - A Travelling Exhibition in TP Library</td>
+         <td>'Ke-Makkah' - A Travelling Exhibition in TP Library
+				 <a href="{{site.baseurl}}/be-entertained/tpndc/#travellingLib" class="bp-button">Travelling LIB</a></td>
          <td>Happening now until 23 July, this travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. Check it out at TP Library Level 2. </td>
       </tr>
       <tr>
@@ -54,7 +55,7 @@ third_nav_title: Be Entertained
 	</h4>
 
 ---
-<h3>'Ke-Makkah'  - a Malay Heritage and TP Library collaboration</h3>
+<h3><a id="travellingLib"></a>'Ke-Makkah'  - a Malay Heritage and TP Library collaboration</h3>
 
 As part of the TP National Day Celebrations Fringe Events, this travelling exhibition reimagines the interior of a nineteenth century
 kapal haji on its way to Makkah from Singapore to tell the story of Singapore and Kampong Gelam’s significance within the Hajj pilgrimage industry. 
