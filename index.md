@@ -25,6 +25,15 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: TP National Day Celebration 2021
+      subtitle: Not to be Missed!
+      description: Count down to the Celebration with all the fun activities lined up
+        for you!
+      button: Come Celebrate with Us
+      url: /be-entertained/tpndc
+      image: /images/BeInvolved-NDCEvent3a.jpg
+      alt: Image alt text
+  - infopic:
       title: "'Ke-Makkah' Travelling Exhibition"
       subtitle: TP NDC Fringe Event
       description: "Happening now at TP Library, this travelling exhibition tells the
@@ -86,13 +95,4 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: TP National Day Celebration 2021
-      subtitle: Not to be Missed!
-      description: Count down to the Celebration with all the fun activities lined up
-        for you!
-      button: Come Celebrate with Us
-      url: /be-entertained/tpndc
-      image: /images/BeInvolved-NDCEvent3a.jpg
-      alt: Image alt text
 ---
