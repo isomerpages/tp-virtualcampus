@@ -34,22 +34,12 @@ third_nav_title: Be Entertained
          <td>Show some Love for Team Singapore Olympics</td>
          <td>Check out the well wishes videos on our CCAs IGs</td>
       </tr>
-      <tr>
-         <td>26 July - 6 August</td>
-         <td>Climbathon</td>
-         <td>Celebrate our Nation's 56th birthday with this 56-hour challenge and climb the TP Library Staircase. Participants to come in national colours and post your photos on IG and tag @temasekpoly & on TP Oei. Priority given to Sports & Wellness classes.</td>
-      </tr>
-		   <tr>
+        <tr>
          <td>1 - 31 August</td>
          <td>Vote for your Favourite National Day Songs</td>
          <td>From 1 to 31 August, Radioactive will be playing 8 National Day songs. Students are invited to vote for their favourite songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
       </tr>
-      <tr>
-         <td>Week of 2 August</td>
-         <td>Trivia, Competitions & Well-wishes for Singapore</td>
-         <td>???</td>
-      </tr>
-		   <tr>
+       <tr>
          <td>5 Aug</td>
          <td>TP National Day Celebration</td>
          <td>Through the eyes of 4 friends, audiences get to discover and understand what makes us stand together as One People in this year's TP National Day Concert 2021. </td>
