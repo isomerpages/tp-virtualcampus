@@ -34,6 +34,8 @@ So stay tuned!
 
 
 | Date | Activity | About |
-| -------- | -------- | -------- |
-| 12 - 23 July     |'Ke-Makkah' - A Travelling Exhibition in TP Library    | Happening now until 23 July, this travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. Check it out at TP Library Level 2. |
+| -------- | -------- | ------------- |
+|**12 - 23 July** |'Ke-Makkah' - A Travelling Exhibition in TP Library    | Happening now until 23 July, this travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. Check it out at TP Library Level 2. |
+| xxxx| xxxxx| xxxxxxx|
+|yyyy| yyyy| yyyy|
 
