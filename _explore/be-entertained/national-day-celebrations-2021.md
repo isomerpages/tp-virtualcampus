@@ -30,10 +30,10 @@ So stay tuned!
 ![OriginalNDC](/images/BeEntertained-NDC-OriginalSong.png)
 
 ---
-<h3>Flags Competition</h3>
+### Counting Down to the Celebration!
 
-Make a guess on the total number of National Flags at the TP Plaza and stand a chance to win xxx. 
 
-Submit your entries on xxx by xxx. 
+| Date | Activity | About |
+| -------- | -------- | -------- |
+| 12 - 23 July     |'Ke-Makkah' - A Travelling Exhibition in TP Library    | Happening now until 23 July, this travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. Check it out at TP Library Level 2. |
 
-Winning entries will be announced during the TP National Day Concert 2021.
