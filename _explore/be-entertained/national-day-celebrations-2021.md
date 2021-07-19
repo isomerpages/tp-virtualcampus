@@ -7,6 +7,8 @@ third_nav_title: Be Entertained
 
 ### Counting Down to the Celebration!
 
+![TPNDC]({{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg)
+
 <h4>
 <table>
    <thead>
@@ -23,13 +25,13 @@ third_nav_title: Be Entertained
          <td>Happening now until 23 July, this travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. Check it out at TP Library Level 2. </td>
       </tr>
       <tr>
-         <td>data11</td>
+         <td>??</td>
 				<td>Flag Contest</td>
          <td>Count the number of Singapore Flags at TP Plaza and stand a chance to win xxx! Winners to be announced on 5 Aug at TP National Day Concert.</td>
       </tr>
 		   <tr>
          <td>23 July - 8 August</td>
-         <td>Well wishes for Team Singapore at the Olympics</td>
+         <td>Show some Love for Team Singapore Olympics</td>
          <td>Check out the well wishes videos on our CCAs IGs</td>
       </tr>
       <tr>
