@@ -3,7 +3,7 @@ title: National Day Celebrations 2021
 permalink: /be-entertained/tpndc
 third_nav_title: Be Entertained
 ---
-## TP National Day Celebrations
+## TP National Day Celebration
 
 ### Counting Down to the Celebration!
 
