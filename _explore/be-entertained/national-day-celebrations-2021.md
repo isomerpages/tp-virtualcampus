@@ -7,7 +7,7 @@ third_nav_title: Be Entertained
 
 ### Counting Down to the Celebration!
 
-![TPNDC]({{site.baseurl}}/images/BeInvolved-CCAvirtualfairbanner.jpg)
+![TPNDC](/images/BeInvolved-NDCEvent3a.jpg)
 
 <h4>
 <table>
