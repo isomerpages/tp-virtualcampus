@@ -49,23 +49,23 @@ So stay tuned!
       </tr>
       <tr>
          <td>data11</td>
-         <td>data12</td>
-         <td>data13</td>
+				<td>Flag Contest</td>
+         <td>Count the number of Singapore Flags at TP Plaza and stand a chance to win xxx! Winners to be announced on 5 Aug at TP National Day Concert.</td>
       </tr>
 		   <tr>
-         <td>12 - 23 July</td>
-         <td>data2</td>
-         <td>data3</td>
+         <td>23 July - 8 August</td>
+         <td>Well wishes for Team Singapore at the Olympics</td>
+         <td>Check out the well wishes videos on our CCAs IGs</td>
       </tr>
       <tr>
-         <td>data11</td>
-         <td>data12</td>
-         <td>data13</td>
+         <td>26 July - 6 August</td>
+         <td>Climbathon</td>
+         <td>Celebrate our Nation's 56th birthday with this 56-hour challenge and climb the TP Library Staircase. Participants to come in national colours and post your photos on IG and tag @temasekpoly & on TP Oei. Priority given to Sports & Wellness classes.</td>
       </tr>
 		   <tr>
-         <td>12 - 23 July</td>
-         <td>data2</td>
-         <td>data3</td>
+         <td>1 - 31 August</td>
+         <td>Vote for your Favourite National Day Songs</td>
+         <td>From 1 to 31 August, Radioactive will be playing 8 National Day songs. Students are invited to vote for their favourite songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
       </tr>
       <tr>
          <td>data11</td>
@@ -85,4 +85,3 @@ So stay tuned!
    </tbody>
 </table>
 	</h4>
-
