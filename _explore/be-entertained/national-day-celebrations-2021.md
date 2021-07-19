@@ -20,22 +20,22 @@ third_nav_title: Be Entertained
    </thead>
    <tbody>
       <tr>
-         <td>12 - 23 July</td>
+         <td>12 - 23 Jul</td>
          <td>'Ke-Makkah' - A Travelling Exhibition in TP Library</td>
          <td>Happening now until 23 July, this travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. Check it out at TP Library Level 2. </td>
       </tr>
       <tr>
-         <td>From 26 July</td>
+         <td>From 26 Jul</td>
 				<td>Put the Flags out!</td>
          <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! Winners to be announced on 5 Aug at TP National Day Concert. Check out TP IG for details. </td>
       </tr>
 		   <tr>
-         <td>23 July - 8 August</td>
+         <td>23 Jul - 8 Aug</td>
          <td>Show some Love for Team Singapore Olympics</td>
          <td>Check out the well wishes videos on our CCAs IGs</td>
       </tr>
         <tr>
-         <td>1 - 31 August</td>
+         <td>1 - 31 Aug</td>
          <td>Vote for your Favourite National Day Songs</td>
          <td>From 1 to 31 August, Radioactive will be playing 8 National Day songs. Students are invited to vote for their favourite songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
       </tr>
