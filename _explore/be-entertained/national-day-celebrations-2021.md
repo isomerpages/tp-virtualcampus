@@ -78,9 +78,9 @@ So stay tuned!
          <td>Through the eyes of 4 friends, audiences get to discover and understand what makes us stand together as One People in this year's TP National Day Concert 2021. </td>
       </tr>
       <tr>
-         <td>data11</td>
-         <td>data12</td>
-         <td>data13</td>
+         <td></td>
+         <td>National Song by MusicVox- Finale</td>
+         <td>This year's finale item is an original National Day Song composed by TP Music Vox with contributions from TP students, staff, alumni and community. A song not to be missed.</td>
       </tr>
    </tbody>
 </table>
