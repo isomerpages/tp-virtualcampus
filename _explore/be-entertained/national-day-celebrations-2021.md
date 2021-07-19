@@ -32,3 +32,57 @@ So stay tuned!
 ---
 ### Counting Down to the Celebration!
 
+<h4>
+<table>
+   <thead>
+      <tr>
+         <th>Date</th>
+         <th>Activity</th>
+         <th>About</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>12 - 23 July</td>
+         <td>'Ke-Makkah' - A Travelling Exhibition in TP Library</td>
+         <td>Happening now until 23 July, this travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. Check it out at TP Library Level 2. </td>
+      </tr>
+      <tr>
+         <td>data11</td>
+         <td>data12</td>
+         <td>data13</td>
+      </tr>
+		   <tr>
+         <td>12 - 23 July</td>
+         <td>data2</td>
+         <td>data3</td>
+      </tr>
+      <tr>
+         <td>data11</td>
+         <td>data12</td>
+         <td>data13</td>
+      </tr>
+		   <tr>
+         <td>12 - 23 July</td>
+         <td>data2</td>
+         <td>data3</td>
+      </tr>
+      <tr>
+         <td>data11</td>
+         <td>data12</td>
+         <td>data13</td>
+      </tr>
+		   <tr>
+         <td>12 - 23 July</td>
+         <td>data2</td>
+         <td>data3</td>
+      </tr>
+      <tr>
+         <td>data11</td>
+         <td>data12</td>
+         <td>data13</td>
+      </tr>
+   </tbody>
+</table>
+	</h4>
+
