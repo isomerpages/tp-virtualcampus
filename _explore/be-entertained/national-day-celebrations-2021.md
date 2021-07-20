@@ -34,7 +34,7 @@ third_nav_title: Be Entertained
 		   <tr>
          <td>23 Jul - 8 Aug</td>
          <td>Show some Love for Team Singapore Olympics
-				 <a href="{{site.baseurl}}/be-entertained/tpndc/#olympics" class="bp-button">Here's how you can do it!</a></td>
+				 <a href="{{site.baseurl}}/be-entertained/tpndc/#olympics" class="bp-button">Show your Love!</a></td>
          <td>Post your well-wishes to Team Singapore by 23 July</td>
       </tr>
         <tr>
