@@ -79,7 +79,7 @@ Count how many SG flags there are on the plaza, drop your answer on the IG conte
 * Fill in your details in the LINK IN BIO to stand a chance for a giveaway
 * Contest open to all TP Staff and Current Students 
 
-
+![Flags](/images/BeInvolved-NDC-LIB.jpg)
 
 ---
 <h3><a id="originalsong"></a>An Original National Day Song - by TP Music Vox</h3>
