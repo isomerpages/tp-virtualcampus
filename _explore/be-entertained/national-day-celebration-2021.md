@@ -74,7 +74,9 @@ Through the profiles of passengers and crew onboard, the exhibition will introdu
 
 <b>Contest</b>: Win 1x pair of JBL Headphones + Mystery Prizes Giveaway
 
-Count how many SG flags there are on the plaza, drop your answer on the IG contest post (from Monday 26 July!) in the comments section AND fill up the link in bio! That’s right—we’re ringing in National Day 2021 with some awesome giveaways! <b>#TogetherOurSGSpirit #temasekpoly</b>
+Count how many SG flags there are on the plaza, drop your answer on the IG contest post in the comments section **AND** fill up the link in bio! 
+
+That’s right—we’re ringing in National Day 2021 with some awesome giveaways! <b>#TogetherOurSGSpirit #temasekpoly</b>
 
 * Winner for JBL headphones announced on Aug 5th during TP’s National Day Concert
 * Fill in your details in the LINK IN BIO to stand a chance for a giveaway
