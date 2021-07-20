@@ -26,17 +26,17 @@ third_nav_title: Be Entertained
       </tr>
       <tr>
          <td>From 26 Jul</td>
-				<td><a href="flags">Put the Flags out!</a></td>
+				<td><a href="#flags">Put the Flags out!</a></td>
          <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! </td>
       </tr>
 		   <tr>
          <td>23 Jul - 8 Aug</td>
-				 <td><a href="olympics">Show some Love for Team Singapore Olympics</a></td>
+				 <td><a href="#olympics">Show some Love for Team Singapore Olympics</a></td>
          <td>Post your well-wishes to Team Singapore by 23 July</td>
       </tr>
         <tr>
          <td>1 - 31 Aug</td>
-					<td><a href="vote">Vote for your Favourite National Day Songs</a></td>
+					<td><a href="#vote">Vote for your Favourite National Day Songs</a></td>
          <td>Vote for your favourite National Day songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
       </tr>
        <tr>
@@ -46,7 +46,7 @@ third_nav_title: Be Entertained
       </tr>
       <tr>
          <td></td>
-				<td><a href="originalsong">National Song by MusicVox</a></td>
+				<td><a href="#originalsong">National Song by MusicVox</a></td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
    </tbody>
