@@ -112,7 +112,6 @@ Pick your most loved song and the top 4 songs voted will be played 'LIVE' during
 
 ![Vote](/images/BeEntertained-NDC-QRvote1.png)
 
-
 ---
 <h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
 
