@@ -3,7 +3,6 @@ title: National Day Celebration 2021
 permalink: /be-entertained/tpndc
 third_nav_title: Be Entertained
 ---
-
 ## TP National Day Celebration
 
 ### Count Down to the Celebration!
@@ -22,7 +21,7 @@ third_nav_title: Be Entertained
    <tbody>
       <tr>
          <td>12 - 23 Jul</td>
-         <td>'Ke-Makkah' - A Travelling Exhibition in TP Library
+         <td>'Ke-Makkah' - A Travelling Exhibition in TP Library   
 				 <a href="{{site.baseurl}}/be-entertained/tpndc/#travellingLib" class="bp-button">Visit LIB</a></td>
          <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. </td>
       </tr>
