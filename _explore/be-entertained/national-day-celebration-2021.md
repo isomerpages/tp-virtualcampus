@@ -110,7 +110,7 @@ Pick your most loved song and the top 4 songs voted will be played 'LIVE' during
 
 **Start VOTING now!**
 
-![VoteYourFavouriteSong](/images/BeEntertained-NDC-QRvote.png)
+![Vote](/images/BeEntertained-NDC-QRvote1.png)
 
 
 ---
