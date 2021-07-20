@@ -68,6 +68,19 @@ Through the profiles of passengers and crew onboard, the exhibition will introdu
 ![TravellingExhibition](/images/BeInvolved-NDC-LIB.jpg)
 
 ---
+<h3><a id="flags"></a>Put the Flags out!</h3>
+
+<b>Contest</b>: Win 1x pair of JBL Headphones + Mystery Prizes Giveaway
+
+Count how many SG flags there are on the plaza, drop your answer on the IG contest post (from Monday 26 July!) in the comments section AND fill up the link in bio! That’s right—we’re ringing in National Day 2021 with some awesome giveaways! <b>#TogetherOurSGSpirit #temasekpoly</b>
+
+
+* Winner for JBL headphones announced on Aug 5th during TP’s National Day Concert
+* Fill in your details in the LINK IN BIO to stand a chance for a giveaway
+* Contest open to all TP Staff and Current Students 
+
+
+---
 <h3><a id="originalsong"></a>An Original National Day Song - by TP Music Vox</h3>
 
 If you have shared with us how YOU feel about Singapore and what makes this place YOUR HOME, join us for the TP National Day Celebrations 2021! With your heart-felt responses, TP Music Vox has composed an original National Day Song which will be performed during the concert. 
