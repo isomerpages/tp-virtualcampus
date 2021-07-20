@@ -34,16 +34,6 @@ sections:
       image: /images/BeInvolved-NDCEvent3a.jpg
       alt: Image alt text
   - infopic:
-      title: "'Ke-Makkah' Travelling Exhibition"
-      subtitle: TP NDC Fringe Event
-      description: "Happening now at TP Library, this travelling exhibition tells the
-        story of S'pore & Kampong Gelam's significance within the Haji
-        pilgrimage history. "
-      button: Find Out More
-      alt: Image alt text
-      url: /be-entertained/tpndc
-      image: /images/BeEntertained-NDC-Exhibition.png
-  - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
       image: /images/Infopic-TSEA2021.jpg
