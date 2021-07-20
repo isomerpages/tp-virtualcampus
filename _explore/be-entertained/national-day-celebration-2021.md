@@ -89,15 +89,17 @@ That’s right—we’re ringing in National Day 2021 with some awesome giveaway
 </div>
 
 ---
-<h3><a id="olympics"></a>Show some love for Team Singapore Olympians</h3>
+<h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
 
-Cheer on our Team Singapore athletes as they prepare for the Olympics and Paralympics in Tokyo, Japan. Our athletes have invested a lot of time, effort, sweat and tears in their journey to Olympic qualification. Show them some love as they do Singapore proud!
+Cheer on our Team Singapore athletes as they prepare for the Olympics and Paralympics in Tokyo, Japan. Our athletes have invested a lot of time, effort, sweat and tears in their journey to Olympic qualification. 
+
+**Show them some love as they do Singapore proud!**
  
-Here's how you can do it:
+**Here's how you can do it:**
 
-* Step 1: Create your well wishes message to Team Singapore. Signs should be A3 size and words should be visible on camera (Add creativity, make it fun )  
-* Step 2: Film yourself with the sign for 15 seconds (Happy faces )  
-* Step 3: Post your video clip on Instagram with the hashtag #OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly
+* Step 1: Create your well wishes message to Team Singapore. Signs should be A3 size and words should be visible on camera (Add creativity, make it fun)  
+* Step 2: Film yourself with the sign for 15 seconds (Happy faces)  
+* Step 3: Post your video clip on Instagram with the hashtag **#OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly**
  
 Videos should be posted by **Friday, 23 July**, in time for the Olympics.
 
