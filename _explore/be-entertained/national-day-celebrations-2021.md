@@ -29,7 +29,7 @@ third_nav_title: Be Entertained
          <td>From 26 Jul</td>
 				<td>Put the Flags out!
 				<a href="{{site.baseurl}}/be-entertained/tpndc/#flags" class="bp-button">Found out more!</a></td>
-         <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! Winners to be announced on 5 Aug at TP National Day Concert. Check out TP IG for details. </td>
+         <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! Winners to be announced on 5 Aug at TP National Day Concert.</td>
       </tr>
 		   <tr>
          <td>23 Jul - 8 Aug</td>
@@ -48,8 +48,8 @@ third_nav_title: Be Entertained
       </tr>
       <tr>
          <td></td>
-         <td>National Song by MusicVox- Finale
-				<a href="{{site.baseurl}}/be-entertained/tpndc/#originalsong" class="bp-button">Finale Song by TP Music Vox</a></td>
+         <td>National Song by MusicVox
+				<a href="{{site.baseurl}}/be-entertained/tpndc/#originalsong" class="bp-button">Finale Song</a></td>
          <td>This year's finale item is an original National Day Song composed by TP Music Vox with contributions from TP students, staff, alumni and community. A song not to be missed.</td>
       </tr>
    </tbody>
@@ -74,7 +74,6 @@ Through the profiles of passengers and crew onboard, the exhibition will introdu
 <b>Contest</b>: Win 1x pair of JBL Headphones + Mystery Prizes Giveaway
 
 Count how many SG flags there are on the plaza, drop your answer on the IG contest post (from Monday 26 July!) in the comments section AND fill up the link in bio! That’s right—we’re ringing in National Day 2021 with some awesome giveaways! <b>#TogetherOurSGSpirit #temasekpoly</b>
-
 
 * Winner for JBL headphones announced on Aug 5th during TP’s National Day Concert
 * Fill in your details in the LINK IN BIO to stand a chance for a giveaway
