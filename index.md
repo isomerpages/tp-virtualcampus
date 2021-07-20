@@ -15,7 +15,7 @@ sections:
         - title: Be Entertained
           description: Watch, listen and be entertained with content created by TP,
             free-of-charge!
-          url: /be-entertained/highlights/
+          url: /be-entertained/tpndc
         - title: Be Awesome
           description: Stay physically and mentally fit with tips and programmes curated
             by TP students!
