@@ -5,7 +5,7 @@ third_nav_title: Be Entertained
 ---
 ## TP National Day Celebration
 
-### Counting Down to the Celebration!
+### Count Down to the Celebration!
 
 ![TPNDC](/images/BeInvolved-NDCEvent3a.jpg)
 
