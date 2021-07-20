@@ -26,8 +26,7 @@ third_nav_title: Be Entertained
       </tr>
       <tr>
          <td>From 26 Jul</td>
-				<td>Put the Flags out!
-				<a href="{{site.baseurl}}/be-entertained/tpndc/#flags" class="bp-button">Found out more!</a></td>
+				<td><a href="flags">Put the Flags out!</a></td>
          <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! </td>
       </tr>
 		   <tr>
