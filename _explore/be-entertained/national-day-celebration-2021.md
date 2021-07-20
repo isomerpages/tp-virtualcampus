@@ -120,7 +120,9 @@ Pick your most loved song and the top 4 songs voted will be played 'LIVE' during
 ---
 <h3><a id="originalsong"></a>An Original National Day Song - by TP Music Vox</h3>
 
-If you have shared with us how YOU feel about Singapore and what makes this place YOUR HOME, join us for the TP National Day Celebrations 2021! With your heart-felt responses, TP Music Vox has composed an original National Day Song which will be performed during the concert. 
+If you have shared with us how YOU feel about Singapore and what makes this place YOUR HOME, join us for the TP National Day Celebrations 2021! 
+
+With your heart-felt responses, TP Music Vox has composed an original National Day Song which will be performed during the concert. 
 
 So stay tuned!
 
