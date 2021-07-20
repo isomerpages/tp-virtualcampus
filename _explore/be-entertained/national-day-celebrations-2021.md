@@ -47,8 +47,9 @@ third_nav_title: Be Entertained
       </tr>
       <tr>
          <td></td>
-         <td>National Song by MusicVox- Finale</td>
-         <td><a href="{{site.baseurl}}/be-entertained/tpndc/#originalsong" class="bp-button">Finale Song by TP Music Vox</a></td>
+         <td>National Song by MusicVox- Finale
+				<a href="{{site.baseurl}}/be-entertained/tpndc/#originalsong" class="bp-button">Finale Song by TP Music Vox</a></td>
+         <td>This year's finale item is an original National Day Song composed by TP Music Vox with contributions from TP students, staff, alumni and community. A song not to be missed.</td>
       </tr>
    </tbody>
 </table>
