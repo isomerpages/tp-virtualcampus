@@ -22,7 +22,7 @@ third_nav_title: Be Entertained
       <tr>
          <td>12 - 23 Jul</td>
          <td>'Ke-Makkah' - A Travelling Exhibition in TP Library</td>
-         <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. <a href="{{site.baseurl}}/be-entertained/tpndc/#travellingLib" class="bp-button">Visit LIB</a></td>
+         <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library. <a href="#travellingLib">Visit LIB</a></td>
       </tr>
       <tr>
          <td>From 26 Jul</td>
