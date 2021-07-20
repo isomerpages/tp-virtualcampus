@@ -34,12 +34,13 @@ third_nav_title: Be Entertained
 		   <tr>
          <td>23 Jul - 8 Aug</td>
          <td>Show some Love for Team Singapore Olympics
-				 <a href="{{site.baseurl}}/be-entertained/tpndc/#olympics" class="bp-button">Show your Love!</a></td>
+				 <a href="{{site.baseurl}}/be-entertained/tpndc/#olympics" class="bp-button">Show your Love</a></td>
          <td>Post your well-wishes to Team Singapore by 23 July</td>
       </tr>
         <tr>
          <td>1 - 31 Aug</td>
-         <td>Vote for your Favourite National Day Songs</td>
+         <td>Vote for your Favourite National Day Songs
+					 <a href="{{site.baseurl}}/be-entertained/tpndc/#olympics" class="bp-button">Vote Now!</a></td>
          <td>From 1 to 31 August, Radioactive will be playing 8 National Day songs. Students are invited to vote for their favourite songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
       </tr>
        <tr>
@@ -98,6 +99,12 @@ Here's how you can do it:
 * Step 3: Post your video clip on Instagram with the hashtag #OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly
  
 Videos should be posted by **Friday, 23 July**, in time for the Olympics.
+
+---
+<h3><a id="vote"></a>Vote for Your Favourite National Day Song!</h3>
+
+
+
 
 ---
 <h3><a id="originalsong"></a>An Original National Day Song - by TP Music Vox</h3>
