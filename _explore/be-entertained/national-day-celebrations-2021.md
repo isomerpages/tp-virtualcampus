@@ -86,6 +86,20 @@ Count how many SG flags there are on the plaza, drop your answer on the IG conte
 </div>
 
 ---
+<h3><a id="olympians"></a>Show some love for Team Singapore Olympians</h3>
+
+Cheer on our Team Singapore athletes as they prepare for the Olympics and Paralympics in Tokyo, Japan. Our athletes have invested a lot of time, effort, sweat and tears in their journey to Olympic qualification. Show them some love as they do Singapore proud!
+ 
+Here's how you can do it:
+
+Step 1: Create your well wishes message to Team Singapore. Signs should be A3 size and words should be visible on camera (Add creativity, make it fun )
+Step 2: Film yourself with the sign for 15 seconds (Happy faces )
+Step 3: Post your video clip on Instagram with the hashtag #OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly
+ 
+Videos should be posted by Friday, 23 July, in time for the Olympics.
+
+
+---
 <h3><a id="originalsong"></a>An Original National Day Song - by TP Music Vox</h3>
 
 If you have shared with us how YOU feel about Singapore and what makes this place YOUR HOME, join us for the TP National Day Celebrations 2021! With your heart-felt responses, TP Music Vox has composed an original National Day Song which will be performed during the concert. 
