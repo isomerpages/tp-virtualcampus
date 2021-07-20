@@ -35,7 +35,7 @@ third_nav_title: Be Entertained
          <td>Post your well-wishes to Team Singapore by 23 July</td>
       </tr>
         <tr>
-         <td>1 - 3 Aug</td>
+         <td>By 5 Aug</td>
 					<td><a href="#vote">Vote for your Favourite National Day Songs</a></td>
          <td>Vote for your favourite National Day songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
       </tr>
