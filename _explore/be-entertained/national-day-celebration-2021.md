@@ -116,7 +116,7 @@ Pick your most loved song and the top 4 songs voted will be played 'LIVE' during
 ---
 <h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
 
-Through the eyes of 4 friends, audiences discovers Singapore's lesser-known places, cruisines, communities and what make us stand together as One People in this specially curated National Day Concert. 
+Through the eyes of 4 friends, audiences discover Singapore's lesser-known places, cruisines, communities and what make us stand together as One People in this specially curated National Day Concert. 
 
 As part of the finale, TP Music Vox has composed an original National Day Song which will be performed during the concert. This song is composed with lyrics from TP students, staff, alumni and community. 
 
