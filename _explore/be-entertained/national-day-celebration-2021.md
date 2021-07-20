@@ -93,7 +93,7 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
  
 **Here's how you can do it:**
 
-* Step 1: Create your well wishes message to Team Singapore. Signs should be A3 size and words should be visible on camera (Add creativity, make it fun )  
+* Step 1: Create your well wishes message to Team Singapore. Signs should be A3 size and words should be visible on camera (Add creativity, make it fun 😂)  
 * Step 2: Film yourself with the sign for 15 seconds (Happy faces 😊)  
 * Step 3: Post your video clip on Instagram with the hashtag **#OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly**
  
