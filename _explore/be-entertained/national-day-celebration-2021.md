@@ -41,12 +41,12 @@ third_nav_title: Be Entertained
       </tr>
        <tr>
          <td>5 Aug</td>
-         <td>TP National Day Celebration</td>
+				 <td><a href="#tpndc">TP National Day Celebration</a></td>
          <td>Catch this year's TP National Day Celebration at 8pm! </td>
       </tr>
       <tr>
          <td></td>
-				<td><a href="#originalsong">National Song by MusicVox</a></td>
+				<td>National Song by MusicVox</td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
    </tbody>
@@ -114,18 +114,16 @@ Pick your most loved song and the top 4 songs voted will be played 'LIVE' during
 
 
 ---
-<h3><a id="originalsong"></a>An Original National Day Song - by TP Music Vox</h3>
+<h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
 
-If you have shared with us how YOU feel about Singapore and what makes this place YOUR HOME, join us for the TP National Day Celebrations 2021! 
+Through the eyes of 4 friends, audiences discovers Singapore's lesser-known places, cruisines, communities and what make us stand together as One People in this specially curated National Day Concert. 
 
-With your heart-felt responses, TP Music Vox has composed an original National Day Song which will be performed during the concert. 
+As part of the finale, TP Music Vox has composed an original National Day Song which will be performed during the concert. This song is composed with lyrics from TP students, staff, alumni and community. 
 
-So stay tuned!
+Stay tuned!
 
 **Concert Date:**  5 Aug 2021, Thursday  
 **Time:** 8pm to 9pm  
 **Concert Link:** Watch this space!
-
-![OriginalNDC](/images/BeEntertained-NDC-OriginalSong.png)
 
 <a href="#top">Back to top</a>
