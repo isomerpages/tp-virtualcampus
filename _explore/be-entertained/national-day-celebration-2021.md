@@ -25,17 +25,17 @@ third_nav_title: Be Entertained
 				<td><a href="#travellingLib">'Ke-Makkah' - A Travelling Exhibition in TP Library</a></td>
          <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library.</td>
       </tr>
+			 <tr>
+         <td>By 23 Jul</td>
+				 <td><a href="#olympics">Show some Love for Team Singapore Olympics</a></td>
+         <td>Post your well-wishes to Team Singapore by 23 July</td>
+      </tr>
       <tr>
          <td>From 26 Jul</td>
 				<td><a href="#flags">Put the Flags out!</a></td>
          <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! </td>
       </tr>
 		   <tr>
-         <td>By 23 Jul</td>
-				 <td><a href="#olympics">Show some Love for Team Singapore Olympics</a></td>
-         <td>Post your well-wishes to Team Singapore by 23 July</td>
-      </tr>
-        <tr>
          <td>By 5 Aug</td>
 					<td><a href="#vote">Vote for your Favourite National Day Songs</a></td>
          <td>Vote for your favourite National Day songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
