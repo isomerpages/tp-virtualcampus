@@ -67,6 +67,10 @@ Through the profiles of passengers and crew onboard, the exhibition will introdu
 
 ![TravellingExhibition](/images/BeInvolved-NDC-LIB.jpg)
 
+
+<a href="#top">Back to top</a>
+
+
 ---
 <h3><a id="flags"></a>Put the Flags out!</h3>
 
@@ -86,6 +90,8 @@ That’s right—we’re ringing in National Day 2021 with some awesome giveaway
 
 </div>
 
+<a href="#top">Back to top</a>
+
 ---
 <h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
 
@@ -101,6 +107,9 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
  
 Videos should be posted by **Friday, 23 July**, in time for the Olympics.
 
+<a href="#top">Back to top</a>
+
+
 ---
 <h3><a id="vote"></a>Vote for Your Favourite National Day Song!</h3>
 
@@ -113,6 +122,9 @@ Pick your most loved song and the top 4 songs voted will be played 'LIVE' during
 **Start VOTING now!**
 
 ![Vote](/images/BeEntertained-NDC-QRvote1.png)
+
+
+<a href="#top">Back to top</a>
 
 ---
 <h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
