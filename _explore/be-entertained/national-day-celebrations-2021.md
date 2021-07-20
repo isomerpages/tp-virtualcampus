@@ -103,7 +103,13 @@ Videos should be posted by **Friday, 23 July**, in time for the Olympics.
 ---
 <h3><a id="vote"></a>Vote for Your Favourite National Day Song!</h3>
 
-Here's a little fun thing to do as we gear up to celebrate National Day! For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2021, we have started a poll to choose your favourite National Day song! Pick your most loved song and the top 4 songs voted will be played 'LIVE' during the concert on 5th August at 8pm. Start VOTING now!
+Here's a little fun thing to do as we gear up to celebrate National Day! 
+
+For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2021, we have started a poll to choose your favourite National Day song!
+
+Pick your most loved song and the top 4 songs voted will be played 'LIVE' during the concert on 5 August at 8pm. 
+
+**Start VOTING now!**
 
 ![VoteYourFavouriteSong](/images/BeEntertained-NDC-QRvote.png)
 
