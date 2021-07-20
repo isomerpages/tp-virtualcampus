@@ -20,7 +20,7 @@ third_nav_title: Be Entertained
    </thead>
    <tbody>
       <tr>
-         <td>12 - 23 Jul</td>
+         <td><a id="top"></a>12 - 23 Jul</td>
 				<td><a href="#travellingLib">'Ke-Makkah' - A Travelling Exhibition in TP Library</a></td>
          <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library.</td>
       </tr>
@@ -127,3 +127,5 @@ So stay tuned!
 **Concert Link:** Watch this space!
 
 ![OriginalNDC](/images/BeEntertained-NDC-OriginalSong.png)
+
+<a href="#top">Back to top</a>
