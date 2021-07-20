@@ -30,7 +30,7 @@ third_nav_title: Be Entertained
          <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! </td>
       </tr>
 		   <tr>
-         <td>23 Jul - 8 Aug</td>
+         <td>By 23 Jul</td>
 				 <td><a href="#olympics">Show some Love for Team Singapore Olympics</a></td>
          <td>Post your well-wishes to Team Singapore by 23 July</td>
       </tr>
