@@ -31,14 +31,12 @@ third_nav_title: Be Entertained
       </tr>
 		   <tr>
          <td>23 Jul - 8 Aug</td>
-         <td>Show some Love for Team Singapore Olympics
-				 <a href="{{site.baseurl}}/be-entertained/tpndc/#olympics" class="bp-button">Show your Love</a></td>
+				 <td><a href="olympics">Show some Love for Team Singapore Olympics</a></td>
          <td>Post your well-wishes to Team Singapore by 23 July</td>
       </tr>
         <tr>
          <td>1 - 31 Aug</td>
-         <td>Vote for your Favourite National Day Songs
-					 <a href="{{site.baseurl}}/be-entertained/tpndc/#olympics" class="bp-button">Vote Now!</a></td>
+					<td><a href="vote">Vote for your Favourite National Day Songs</a></td>
          <td>Vote for your favourite National Day songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
       </tr>
        <tr>
@@ -48,8 +46,7 @@ third_nav_title: Be Entertained
       </tr>
       <tr>
          <td></td>
-         <td>National Song by MusicVox
-				<a href="{{site.baseurl}}/be-entertained/tpndc/#originalsong" class="bp-button">Finale Song</a></td>
+				<td><a href="originalsong">National Song by MusicVox</a></td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
    </tbody>
