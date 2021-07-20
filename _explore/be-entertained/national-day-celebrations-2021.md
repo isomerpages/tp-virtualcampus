@@ -41,18 +41,18 @@ third_nav_title: Be Entertained
          <td>1 - 31 Aug</td>
          <td>Vote for your Favourite National Day Songs
 					 <a href="{{site.baseurl}}/be-entertained/tpndc/#olympics" class="bp-button">Vote Now!</a></td>
-         <td>From 1 to 31 August, Radioactive will be playing 8 National Day songs. Students are invited to vote for their favourite songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
+         <td>Vote for your favourite National Day songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
       </tr>
        <tr>
          <td>5 Aug</td>
          <td>TP National Day Celebration</td>
-         <td>Through the eyes of 4 friends, audiences get to discover and understand what makes us stand together as One People in this year's TP National Day Concert 2021. </td>
+         <td>Catch this year's TP National Day Celebration at 8pm! </td>
       </tr>
       <tr>
          <td></td>
          <td>National Song by MusicVox
 				<a href="{{site.baseurl}}/be-entertained/tpndc/#originalsong" class="bp-button">Finale Song</a></td>
-         <td>This year's finale item is an original National Day Song composed by TP Music Vox with contributions from TP students, staff, alumni and community. A song not to be missed.</td>
+         <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
    </tbody>
 </table>
