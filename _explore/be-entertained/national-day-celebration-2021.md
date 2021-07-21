@@ -26,9 +26,9 @@ third_nav_title: Be Entertained
          <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library.</td>
       </tr>
 			 <tr>
-         <td>By 23 Jul</td>
+         <td>By 5 Aug</td>
 				 <td><a href="#olympics">Show some Love for Team Singapore Olympics</a></td>
-         <td>Post your well-wishes to Team Singapore by 23 July</td>
+         <td>Post your well-wishes to Team Singapore by 5 Aug</td>
       </tr>
        <tr>
          <td>By 5 Aug</td>
@@ -79,7 +79,7 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
 * Step 2: Film yourself with the sign for 15 seconds (Happy faces 😊)  
 * Step 3: Post your video clip on Instagram with the hashtag **#OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly**
  
-Videos should be posted by **Friday, 23 July**, in time for the Olympics.
+Videos should be posted by **Thursday, 5 August**.
 
 <a href="#top">Back to top</a>
 
