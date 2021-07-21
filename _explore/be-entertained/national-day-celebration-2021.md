@@ -103,11 +103,11 @@ Pick your most loved song and the top 4 songs voted will be played 'LIVE' during
 ---
 <h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
 
-In line with this year's National Day Parade 2021 theme: "Together Our Singapore Spirit",   a TP National Day Concert will be held virtually to celebrate our Nation's 56th Birthday. 
+Through the eyes of 4 friends; namely Sasha The Influencer, Ting Ting The Foodie, Alex The Gamer and Theresa The Woke Person and with the help of the audiences, they will discover Singapore’s lesser-known places, cuisines, communities and what make us stand together as One People in this specially curated National Day Online Concert.
 
-As part of the finale, TP Music Vox has composed an original National Day Song which will be performed during the concert. This song is composed with lyrics from TP students, staff, alumni and community. 
+As part of the finale, TP Music Vox has composed an original TP National Day Song! This song is composed with lyrics from TP students, staff, alumni and community. 
 
-Stay tuned!
+**Make sure you stay tuned and catch the show on 5 August 2021 at 8pm!**
 
 **Concert Date:**  5 Aug 2021, Thursday  
 **Time:** 8pm to 9pm  
