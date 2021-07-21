@@ -25,7 +25,7 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
-      title: TP National Day Celebration 2021
+      title: TP National Day Concert 2021
       subtitle: Not to be Missed!
       description: Count down to the Celebration with all the fun activities lined up
         for you!
