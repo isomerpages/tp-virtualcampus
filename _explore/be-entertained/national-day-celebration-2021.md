@@ -30,12 +30,7 @@ third_nav_title: Be Entertained
 				 <td><a href="#olympics">Show some Love for Team Singapore Olympics</a></td>
          <td>Post your well-wishes to Team Singapore by 23 July</td>
       </tr>
-      <tr>
-         <td>From 26 Jul</td>
-				<td><a href="#flags">Put the Flags out!</a></td>
-         <td>Count the number of SG Flags there are at TP Plaza and stand a chance to win 1x pair of JBL Headphones + Mystery Prizes Giveaway! </td>
-      </tr>
-		   <tr>
+       <tr>
          <td>By 5 Aug</td>
 					<td><a href="#vote">Vote for your Favourite National Day Songs</a></td>
          <td>Vote for your favourite National Day songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
@@ -70,27 +65,6 @@ Through the profiles of passengers and crew onboard, the exhibition will introdu
 
 <a href="#top">Back to top</a>
 
-
----
-<h3><a id="flags"></a>Put the Flags out!</h3>
-
-<b>Contest</b>: Win 1x pair of JBL Headphones + Mystery Prizes Giveaway
-
-Count how many SG flags there are on the plaza, drop your answer on the IG contest post in the comments section **AND** fill up the link in bio! 
-
-That’s right—we’re ringing in National Day 2021 with some awesome giveaways! <b>#TogetherOurSGSpirit #temasekpoly</b>
-
-* Winner for JBL headphones announced on Aug 5th during TP’s National Day Concert
-* Fill in your details in the LINK IN BIO to stand a chance for a giveaway
-* Contest open to all TP Staff and Current Students 
-
-<div class="bp-youtube">
-
-<<iframe width="560" height="315" src="https://www.youtube.com/embed/Wia1JS0375o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-<a href="#top">Back to top</a>
 
 ---
 <h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
