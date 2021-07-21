@@ -64,7 +64,7 @@ sections:
       title: Temasek Arts Festival 2021
       subtitle: Concerts Galore
       image: /images/Infopic-Artsfest2021.png
-      description: Don't miss The First Ever Temasek Polytechnic's Online Arts Festival!
+      description: The First Ever Temasek Polytechnic's Online Arts Festival!
       button: Watch These Concerts
       url: /be-entertained/artsfest/
       alt: Artsfest
