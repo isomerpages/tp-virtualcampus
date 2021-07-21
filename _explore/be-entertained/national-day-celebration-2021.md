@@ -42,7 +42,7 @@ third_nav_title: Be Entertained
       </tr>
       <tr>
          <td></td>
-				<td>National Song by MusicVox</td>
+				<td>National Day Song by MusicVox</td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
 		 </font>
