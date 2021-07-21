@@ -15,7 +15,7 @@ sections:
         - title: Be Entertained
           description: Watch, listen and be entertained with content created by TP,
             free-of-charge!
-          url: /be-entertained/highlights/
+          url: /be-entertained/tpndc
         - title: Be Awesome
           description: Stay physically and mentally fit with tips and programmes curated
             by TP students!
@@ -25,20 +25,21 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
-      title: COVID-19 Vaccination Exercise
-      subtitle: Vaccination Exercise
-      description: Find out how you can protect yourself and your loved ones against
-        COVID-19
-      button: Do your part!
-      url: /covid/explore/be-caring/permalink
-      alt: vaccination
-      image: /images/syringe-5882593_1920.jpg
+      title: TP National Day Concert 2021
+      subtitle: Not to be Missed!
+      description: Count down to the Celebration with all the fun activities lined up
+        for you!
+      button: Come Celebrate with Us
+      url: /be-entertained/tpndc
+      image: /images/BeInvolved-NDCEvent3a.jpg
+      alt: Image alt text
   - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
       image: /images/Infopic-TSEA2021.jpg
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
+      description: Thank you for your active support in nominating deserving students
+        who have made a difference despite all the odds! Results will be
+        released by September 2021.
       button: TSEA 2021
       url: /be-involved/tsea2021
       alt: TSEA2021
@@ -47,8 +48,7 @@ sections:
       subtitle: Freshmen Orientation Programme
       image: /images/Infopic-TemasekSpectacular.png
       description: A performance showcase of epic proportions - Relive the Friendship
-        Games, catch the groovy TikTok videos and stand a chance to win over
-        $2,500 worth of CapitaVouchers!
+        Games and catch the groovy TikTok videos!
       button: Relive the Excitement!
       url: /be-involved/freshmenorientation/#spectacular
       alt: Virtual Concert
@@ -64,10 +64,19 @@ sections:
       title: Temasek Arts Festival 2021
       subtitle: Concerts Galore
       image: /images/Infopic-Artsfest2021.png
-      description: Don't miss The First Ever Temasek Polytechnic's Online Arts Festival!
+      description: The First Ever Temasek Polytechnic's Online Arts Festival!
       button: Watch These Concerts
       url: /be-entertained/artsfest/
       alt: Artsfest
+  - infopic:
+      title: COVID-19 Vaccination Exercise
+      subtitle: Vaccination Exercise
+      description: Find out how you can protect yourself and your loved ones against
+        COVID-19
+      button: Do your part!
+      url: /covid/explore/be-caring/permalink
+      alt: vaccination
+      image: /images/syringe-5882593_1920.jpg
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us

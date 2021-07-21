@@ -3,17 +3,15 @@ layout: page
 title: Temasek Arts Festival 2021
 permalink: /be-entertained/artsfest/
 third_nav_title: Be Entertained
-
 ---
 ## Temasek Arts Festival
 
 <h5>The First Ever Temasek Polytechnic’s Online Arts Festival! Nightly Videos & Livestream Concerts Featuring The Freshest Arts Talents!</h5>
  
-<h5>Watch this space as your concert "tickets" appear as links on the event day!</h5>
 
 ![ArtsFest]({{site.baseurl}}/images/BeEntertained-ArtsfestQR.png)
 
----
+
 ## Festival Programme
 
 <b> Music Vox Virtual Annual Concert 2021</b><br> 
@@ -55,6 +53,6 @@ PLAY is a 6-part video series helmed by Temasek Polytechnic Dance Ensemble (TPDE
 <b>Temasek Spectacular 2021: Freshmen Concert</b><br>
 <b>Fri 16 Apr 2021 3pm</b>
 
-Pre-Covid years, the Temasek Spectacular was a concert that the Freshmen will get to attend after they had spent the day in the sun, cheering and paddling at the Regatta! This year, for the first time, Temasek Spectacular 2021 will be an online, livestream concert and will be made available for everyone to watch. Look out for quizzes and lots of CapitaVouchers to be worn by Freshmen and Juniors!
+Pre-Covid years, the Temasek Spectacular was a concert that the Freshmen will get to attend after they had spent the day in the sun, cheering and paddling at the Regatta! This year, for the first time, Temasek Spectacular 2021 was held online and made available for everyone to watch. 
 
-The recording of the Temasek Spectacular Virtual Concert 2021 is being processed. Please check back here again soon to relive the action!
+Check out the  [video](https://www.youtube.com/watch?v=1YClN40nEYc) to relive the action!
