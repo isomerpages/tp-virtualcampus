@@ -91,7 +91,7 @@ Videos should be posted by **Thursday, 5 August**.
 
 For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2021, we have started a poll to choose your favourite National Day song! These "lesser-known" songs might not get a lot of airplay but have a listen to these lovely ditties. 
 
-Pick your most loved song and the top 3 songs voted will be played 'LIVE' during the concert on 5 August at 8pm. 
+Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
 
 **Start VOTING now!**
 
