@@ -93,7 +93,7 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 
 Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
 
-**Start VOTING now!**
+**Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
 ![vote](/images/BeEntertained-NDC-QRvote.jpeg)
 
