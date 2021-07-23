@@ -27,13 +27,13 @@ third_nav_title: Be Entertained
       </tr>
 			 <tr>
          <td>By 5 Aug</td>
-				 <td><a href="#olympics">Show some Love for Team Singapore Olympics</a></td>
+				 <td><a href="#olympics">Show some Love for Team Singapore Olympians</a></td>
          <td>Post your well-wishes to Team Singapore by 5 Aug</td>
       </tr>
        <tr>
          <td>By 5 Aug</td>
 					<td><a href="#vote">Vote for your Favourite National Day Songs</a></td>
-         <td>Vote for your favourite National Day songs and the top 4 most favourite songs will be performed during the TP National Day Concert.</td>
+         <td>Let’s give the “not-so-familiar” National Day songs a listen! Vote for your favourite National Day song and the top 3 most favourite “lesser-known” songs will be performed during the TP National Day Concert..</td>
       </tr>
        <tr>
          <td>5 Aug</td>
@@ -87,11 +87,11 @@ Videos should be posted by **Thursday, 5 August**.
 ---
 <h3><a id="vote"></a>Vote for Your Favourite National Day Song!</h3>
 
-Here's a little fun thing to do as we gear up to celebrate National Day! 
+**Here's a little fun thing to do as we gear up to celebrate National Day!** 
 
-For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2021, we have started a poll to choose your favourite National Day song!
+For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2021, we have started a poll to choose your favourite National Day song! These "lesser-known" songs might not get a lot of airplay but have a listen to these lovely ditties. 
 
-Pick your most loved song and the top 4 songs voted will be played 'LIVE' during the concert on 5 August at 8pm. 
+Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
 
 **Start VOTING now!**
 
