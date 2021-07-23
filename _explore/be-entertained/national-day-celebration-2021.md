@@ -13,9 +13,9 @@ third_nav_title: Be Entertained
 <table>
    <thead>
       <tr>
-         <th style=font-size:28px>Date</th>
-          <th style=font-size:28px>Activity</th>
-           <th style=font-size:28px>About</th>
+         <th>Date</th>
+          <th>Activity</th>
+           <th About</th>
       </tr>
    </thead>
    <tbody>
