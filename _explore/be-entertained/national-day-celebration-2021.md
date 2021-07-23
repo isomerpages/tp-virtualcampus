@@ -27,7 +27,7 @@ third_nav_title: Be Entertained
       </tr>
 			 <tr>
          <td>By 5 Aug</td>
-				 <td><a href="#olympics">Show some Love for Team Singapore Olympics</a></td>
+				 <td><a href="#olympics">Show some Love for Team Singapore Olympians</a></td>
          <td>Post your well-wishes to Team Singapore by 5 Aug</td>
       </tr>
        <tr>
