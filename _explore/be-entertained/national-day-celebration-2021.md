@@ -19,8 +19,7 @@ third_nav_title: Be Entertained
       </tr>
    </thead>
    <tbody>
-     <font size="2"> 
-		 <tr>
+			 <tr>
          <td><a id="top"></a>12 - 23 Jul</td>
 				<td><a href="#travellingLib">'Ke-Makkah' - A Travelling Exhibition in TP Library</a></td>
          <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library.</td>
@@ -45,8 +44,7 @@ third_nav_title: Be Entertained
 				<td>National Day Song by MusicVox</td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
-		 </font>
-   </tbody>
+	   </tbody>
 </table>
 	</h4>
 
