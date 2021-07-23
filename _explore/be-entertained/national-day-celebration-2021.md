@@ -95,7 +95,7 @@ Pick your most loved song and the top 3 songs voted will be played during the co
 
 **Start VOTING now!**
 
-![Vote](/images/BeEntertained-NDC-QRvote1.png)
+![Vote](/images/BeEntertained-NDC-QRvote.jpeg)
 
 
 <a href="#top">Back to top</a>
