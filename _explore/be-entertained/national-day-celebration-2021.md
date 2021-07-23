@@ -14,14 +14,13 @@ third_nav_title: Be Entertained
    <thead>
       <tr>
          <th>Date</th>
-         <th>Activity</th>
-         <th>About</th>
+          <th>Activity</th>
+           <th> About</th>
       </tr>
    </thead>
    <tbody>
-     <font size="2"> 
-		 <tr>
-         <td><a id="top"></a>12 - 23 Jul</td>
+				 <tr>
+				 <td><a id="top"></a>12 - 23 Jul</td>
 				<td><a href="#travellingLib">'Ke-Makkah' - A Travelling Exhibition in TP Library</a></td>
          <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library.</td>
       </tr>
@@ -45,8 +44,7 @@ third_nav_title: Be Entertained
 				<td>National Day Song by MusicVox</td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
-		 </font>
-   </tbody>
+	   </tbody>
 </table>
 	</h4>
 
@@ -93,9 +91,9 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 
 Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
 
-**Start VOTING now!**
+**Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
-![Vote](/images/BeEntertained-NDC-QRvote1.png)
+![vote](/images/BeEntertained-NDC-QRvote.jpeg)
 
 
 <a href="#top">Back to top</a>
