@@ -15,7 +15,7 @@ third_nav_title: Be Entertained
       <tr>
          <th>Date</th>
           <th>Activity</th>
-           <th About</th>
+           <th> About</th>
       </tr>
    </thead>
    <tbody>
