@@ -110,6 +110,6 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 
 **Concert Date:**  5 Aug 2021, Thursday  
 **Time:** 8pm to 9pm  
-**Concert Link:** Watch this space!
+**Concert Link:** [ https://vimeo.com/event/1158273]( https://vimeo.com/event/1158273)
 
 <a href="#top">Back to top</a>
