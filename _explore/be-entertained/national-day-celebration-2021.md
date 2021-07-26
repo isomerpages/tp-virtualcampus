@@ -8,7 +8,7 @@ third_nav_title: Be Entertained
 
 ### Count Down to the Celebration!
 
-![TPNDC](/images/BeInvolved-NDCEvent3a.jpg)
+![TPNDC](/images/BeEntertained-NDCMain.png)
 
 <h4>
 <table>
