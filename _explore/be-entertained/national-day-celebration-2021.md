@@ -25,6 +25,11 @@ third_nav_title: Be Entertained
 				<td><a href="#travellingLib">'Ke-Makkah' - A Travelling Exhibition in TP Library</a></td>
          <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library.</td>
       </tr>
+		 <tr>
+         <td>By 3 Aug</td>
+				 <td><a href="#contest">National Day Giveaway Contest</a></td>
+         <td>Stand a chance to win an awesome pair of JBL headphones 🎧. Share with us your FAV #throwback ND moment 🎆+ what you loved most about it</td>
+      </tr>
 			 <tr>
          <td>By 5 Aug</td>
 				 <td><a href="#olympics">Show some Love for Team Singapore Olympians</a></td>
@@ -64,6 +69,16 @@ Through the profiles of passengers and crew onboard, the exhibition will introdu
 
 <a href="#top">Back to top</a>
 
+---
+<h3><a id="contest"></a>National Day Giveaway Contest</h3>
+
+Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
+
+Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—>  instagram.com/p/CR01myMHdgX and bit.ly/TPNDG21 and stand a chance to win an awesome pair of JBL headphones 🎧 ! #TogetherOurSGSpirit #temasekpoly
+ 
+Submission due by **Tuesday, 3 August**.
+
+<a href="#top">Back to top</a>
 
 ---
 <h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
