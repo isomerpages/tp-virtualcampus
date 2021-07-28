@@ -20,6 +20,7 @@ third_nav_title: Be Entertained
       </tr>
    </thead>
    <tbody>
+			 <tr>
 				  <td>By 3 Aug</td>
 				 <td><a href="#contest">National Day Giveaway Contest</a></td>
          <td>Stand a chance to win an awesome pair of JBL headphones 🎧. Share with us your FAV #throwback ND moment 🎆+ what you loved most about it</td>
@@ -122,6 +123,6 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 
 ![Alt text for image on Isomer site](/images/BeEntertained-NDCbistro.png)
 
- [Order Now!](https://bistrolabnationalday.questionpro.com/)
+ [**Order Now!**](https://bistrolabnationalday.questionpro.com/)
 
 <a href="#top">Back to top</a>
