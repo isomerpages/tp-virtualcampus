@@ -103,9 +103,9 @@ Pick your most loved song and the top 3 songs voted will be played during the co
 3. [In A Heartbeat](https://youtu.be/VIgoiKKa9_E) – Sylvia Ratonel
 4. [My Island Home](https://youtu.be/Hx10V0syxXw) – Kaira Gong
 5. [Shine For Singapore](https://youtu.be/GzxCnqozyK8) – Hady Mirza
-6. One United People – Stefanie Sun
-7. Tomorrow’s Here Today – 53A
-8. Where I Belong – Tanya Chua
+6. [One United People](https://youtu.be/Nqi8zKh2a7k) – Stefanie Sun
+7. [Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A
+8. [Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
 
 ![vote](/images/BeEntertained-NDC-QRvote.jpeg)
 
