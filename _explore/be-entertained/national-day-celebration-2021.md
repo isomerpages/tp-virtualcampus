@@ -101,8 +101,8 @@ Pick your most loved song and the top 3 songs voted will be played during the co
 1. [Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En & Taufik Batisah
 2. [What Do You See](https://youtu.be/GKAMTOx0nNw) – Electrico
 3. [In A Heartbeat](https://youtu.be/VIgoiKKa9_E) – Sylvia Ratonel
-4. My Island Home – Kaira Gong
-5. Shine For Singapore – Hady Mirza
+4. [My Island Home](https://youtu.be/Hx10V0syxXw) – Kaira Gong
+5. [Shine For Singapore](https://youtu.be/GzxCnqozyK8) – Hady Mirza
 6. One United People – Stefanie Sun
 7. Tomorrow’s Here Today – 53A
 8. Where I Belong – Tanya Chua
