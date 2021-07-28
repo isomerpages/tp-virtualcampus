@@ -76,6 +76,8 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
  
 Videos should be posted by **Thursday, 5 August**.
 
+![Alt text for image on Isomer site](/images/BeEntertained-NDColympics.png)
+
 <a href="#top">Back to top</a>
 
 
