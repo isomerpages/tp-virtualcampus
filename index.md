@@ -25,13 +25,13 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
-      title: TP National Day Concert 2021
+      title: TP National Day Celebration 2021
       subtitle: Not to be Missed!
       description: Count down to the Celebration with all the fun activities lined up
         for you!
       button: Come Celebrate with Us
       url: /be-entertained/tpndc
-      image: /images/BeInvolved-NDCEvent3a.jpg
+      image: /images/BeEntertained-NDCMain.png
       alt: Image alt text
   - infopic:
       title: Temasek Student Excellence Awards 2021

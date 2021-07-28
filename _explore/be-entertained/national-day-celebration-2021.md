@@ -3,11 +3,12 @@ title: National Day Celebration 2021
 permalink: /be-entertained/tpndc
 third_nav_title: Be Entertained
 ---
+<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 ## TP National Day Celebration
 
 ### Count Down to the Celebration!
 
-![TPNDC](/images/BeInvolved-NDCEvent3a.jpg)
+![TPNDC](/images/BeEntertained-NDCMain.png)
 
 <h4>
 <table>
@@ -19,10 +20,10 @@ third_nav_title: Be Entertained
       </tr>
    </thead>
    <tbody>
-				 <tr>
-				 <td><a id="top"></a>12 - 23 Jul</td>
-				<td><a href="#travellingLib">'Ke-Makkah' - A Travelling Exhibition in TP Library</a></td>
-         <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library.</td>
+			 <tr>
+				  <td>By 3 Aug</td>
+				 <td><a href="#contest">National Day Giveaway Contest</a></td>
+         <td>Stand a chance to win an awesome pair of JBL headphones 🎧. Share with us your FAV #throwback ND moment 🎆+ what you loved most about it</td>
       </tr>
 			 <tr>
          <td>By 5 Aug</td>
@@ -44,25 +45,27 @@ third_nav_title: Be Entertained
 				<td>National Day Song by MusicVox</td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
-	   </tbody>
+			<tr>
+         <td>By 5 Aug</td>
+				 <td><a href="#bistro">Bistro Lab National Day Special</a></td>
+         <td>Savour the ethnic iconic flavours of Singapore with National Day Special order by TP Bistro Lab </td>
+      </tr>
+	 	   </tbody>
 </table>
 	</h4>
 
 ---
-<h3><a id="travellingLib"></a>'Ke-Makkah'  - a Malay Heritage and TP Library collaboration</h3>
+<h3><a id="contest"></a>National Day Giveaway Contest</h3>
 
-As part of the TP National Day Celebrations Fringe Events, this travelling exhibition reimagines the interior of a nineteenth century
-kapal haji on its way to Makkah from Singapore to tell the story of Singapore and Kampong Gelam’s significance within the Hajj pilgrimage industry. 
+Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
 
-Through the profiles of passengers and crew onboard, the exhibition will introduce the various occupations, backgrounds and trades that were essential to this industry. The travelling exhibition will be held in conjunction with Racial Harmony Day, Hari Raya Haji and pre-National Day period.
+Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—> [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
  
- Check out this exhibition from now till 23 July at our TP Library, level 2. 
+Submission due by **Tuesday, 3 August**.
 
-![TravellingExhibition](/images/BeInvolved-NDC-LIB.jpg)
-
+![Alt text for image on Isomer site](/images/BeEntertained-NDCcontest.png)
 
 <a href="#top">Back to top</a>
-
 
 ---
 <h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
@@ -78,6 +81,8 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
 * Step 3: Post your video clip on Instagram with the hashtag **#OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly**
  
 Videos should be posted by **Thursday, 5 August**.
+
+![Alt text for image on Isomer site](/images/BeEntertained-NDColympics.png)
 
 <a href="#top">Back to top</a>
 
@@ -109,6 +114,15 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 
 **Concert Date:**  5 Aug 2021, Thursday  
 **Time:** 8pm to 9pm  
-**Concert Link:** Watch this space!
+**Concert Link:** [ https://vimeo.com/event/1158273]( https://vimeo.com/event/1158273)
+
+<a href="#top">Back to top</a>
+
+---
+<h3><a id="bistro"></a>Bistro Lab National Day Special</h3>
+
+![Alt text for image on Isomer site](/images/BeEntertained-NDCbistro.png)
+
+ [**Order Now!**](https://bistrolabnationalday.questionpro.com/)
 
 <a href="#top">Back to top</a>
