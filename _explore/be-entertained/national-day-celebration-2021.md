@@ -103,7 +103,7 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 7. [Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A
 8. [Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
 
-#### **Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm.** 
+#### Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
 
 **Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
