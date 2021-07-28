@@ -94,7 +94,16 @@ Videos should be posted by **Thursday, 5 August**.
 
 For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2021, we have started a poll to choose your favourite National Day song! These "lesser-known" songs might not get a lot of airplay but have a listen to these lovely ditties. 
 
-Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
+1. [Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En & Taufik Batisah
+2. [What Do You See](https://youtu.be/GKAMTOx0nNw) – Electrico
+3. [In A Heartbeat](https://youtu.be/VIgoiKKa9_E) – Sylvia Ratonel
+4. [My Island Home](https://youtu.be/Hx10V0syxXw) – Kaira Gong
+5. [Shine For Singapore](https://youtu.be/GzxCnqozyK8) – Hady Mirza
+6. [One United People](https://youtu.be/Nqi8zKh2a7k) – Stefanie Sun
+7. [Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A
+8. [Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
+
+##### Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
 
 **Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
