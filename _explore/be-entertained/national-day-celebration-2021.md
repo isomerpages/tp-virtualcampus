@@ -20,13 +20,7 @@ third_nav_title: Be Entertained
       </tr>
    </thead>
    <tbody>
-				 <tr>
-				 <td><a id="top"></a>12 - 23 Jul</td>
-				<td><a href="#travellingLib">'Ke-Makkah' - A Travelling Exhibition in TP Library</a></td>
-         <td>This travelling exhibition is a collaboration by Malay Heritage Centre and TP Library.</td>
-      </tr>
-		 <tr>
-         <td>By 3 Aug</td>
+				  <td>By 3 Aug</td>
 				 <td><a href="#contest">National Day Giveaway Contest</a></td>
          <td>Stand a chance to win an awesome pair of JBL headphones 🎧. Share with us your FAV #throwback ND moment 🎆+ what you loved most about it</td>
       </tr>
@@ -53,21 +47,6 @@ third_nav_title: Be Entertained
 	   </tbody>
 </table>
 	</h4>
-
----
-<h3><a id="travellingLib"></a>'Ke-Makkah'  - a Malay Heritage and TP Library collaboration</h3>
-
-As part of the TP National Day Celebrations Fringe Events, this travelling exhibition reimagines the interior of a nineteenth century
-kapal haji on its way to Makkah from Singapore to tell the story of Singapore and Kampong Gelam’s significance within the Hajj pilgrimage industry. 
-
-Through the profiles of passengers and crew onboard, the exhibition will introduce the various occupations, backgrounds and trades that were essential to this industry. The travelling exhibition will be held in conjunction with Racial Harmony Day, Hari Raya Haji and pre-National Day period.
- 
- Check out this exhibition from now till 23 July at our TP Library, level 2. 
-
-![TravellingExhibition](/images/BeInvolved-NDC-LIB.jpg)
-
-
-<a href="#top">Back to top</a>
 
 ---
 <h3><a id="contest"></a>National Day Giveaway Contest</h3>
