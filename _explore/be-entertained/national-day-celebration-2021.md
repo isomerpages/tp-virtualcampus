@@ -78,6 +78,8 @@ Share with us your FAV #throwback ND moment 🎆+ what you loved most about it r
  
 Submission due by **Tuesday, 3 August**.
 
+![Alt text for image on Isomer site](/images/BeEntertained-NDCcontest.png)
+
 <a href="#top">Back to top</a>
 
 ---
