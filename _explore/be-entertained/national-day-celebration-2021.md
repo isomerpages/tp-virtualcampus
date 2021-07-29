@@ -144,7 +144,38 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 ---
 <h3><a id="cca"></a>Celebrating National Day with CCA groupsl</h3>
 
-
+<div>
+    <table>
+        <tr>
+             <td style="width:49%; vertical-align:bottom; border:none"><h4>Applied Science Studies Club</h4>
+                <a href="{{site.baseurl}}/p10/ascsc/">
+                    <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
+                    </image>
+                </a>
+            </td>
+           <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Studies Club</h4>
+                <a href="{{site.baseurl}}/p10/dsc/">
+                    <image src="{{site.baseurl}}/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
+                    </image>
+                </a>
+            </td>
+			</tr>
+			<tr>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Studies Club</h4>
+                <a href="{{site.baseurl}}/p10/esc/">
+                    <image src="{{site.baseurl}}/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
+                    </image>
+                </a>
+            </td>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Student Ambassador</h4>
+                <a href="{{site.baseurl}}/p10/hsssc/">
+                    <image src="{{site.baseurl}}/images/CCA_hsssc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Humanities & Social Sciences Studies Club">
+                    </image>
+                </a>
+            </td>
+             </tr>
+    </table>
+</div>
 
 
 
