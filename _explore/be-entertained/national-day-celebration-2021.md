@@ -168,8 +168,8 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
                 </a>
             </td>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Student Ambassador</h4>
-                <a href="{{site.baseurl}}/p10/hsssc/">
-                    <image src="{{site.baseurl}}/images/CCA_hsssc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Humanities & Social Sciences Studies Club">
+               <a href="{{site.baseurl}}/interest_groups/design_ambassadors/">
+                    <image src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
                     </image>
                 </a>
             </td>
