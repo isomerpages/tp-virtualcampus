@@ -52,7 +52,7 @@ third_nav_title: Be Entertained
       </tr>
 		 <tr>
          <td></td>
-				 <td><a href="#cca">Celebrating Nation's Birthday </a></td>
+				 <td><a href="#cca">Celebrating National Day by CCA groups </a></td>
          <td>Check out what our CCA groups are doing to celebration our Nation's 56th Birthday </td>
       </tr>
 	 	   </tbody>
