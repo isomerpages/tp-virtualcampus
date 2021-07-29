@@ -68,7 +68,7 @@ Share with us your FAV #throwback ND moment 🎆+ what you loved most about it r
  
 Submission due by **Tuesday, 3 August**.
 
-![Alt text for image on Isomer site](/images/BeEntertained-NDCcontest.png)
+![NDC Contest](/images/BeEntertained-NDCcontest.png)
 
 <a href="#top">Back to top</a>
 
@@ -87,7 +87,7 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
  
 Videos should be posted by **Thursday, 5 August**.
 
-![Alt text for image on Isomer site](/images/BeEntertained-NDColympics.png)
+![Team Singapore](/images/BeEntertained-NDColympics.png)
 
 <a href="#top">Back to top</a>
 
@@ -148,7 +148,7 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
     <table>
         <tr>
              <td style="width:49%; vertical-align:bottom; border:none"><h4>Applied Science Studies Club</h4>
-                <a href="{{site.baseurl}}/p10/ascsc/">
+                <a href="{{site.baseurl}}/p10/ascsc/#ascNDC">
                     <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
                     </image>
                 </a>
