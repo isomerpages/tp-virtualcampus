@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Design Student Ambassadors
+title: Design Student Ambassadors
 permalink: /interest_groups/design_ambassadors/
 ---
-
 <div>
     <table>
         <tr>
@@ -23,6 +22,10 @@ permalink: /interest_groups/design_ambassadors/
         </tr>
     </table>
 </div>
+
+### Celebrating our Nation’s 56th Birthday
+
+
 
 #### Latest Happenings
 
