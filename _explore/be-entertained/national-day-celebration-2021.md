@@ -52,8 +52,8 @@ third_nav_title: Be Entertained
       </tr>
 		 <tr>
          <td></td>
-				 <td><a href="#cca">Celebrating National Day by CCA groups </a></td>
-         <td>Check out what our CCA groups are doing to celebration our Nation's 56th Birthday </td>
+				 <td><a href="#cca">Celebrating National Day with CCA groups </a></td>
+         <td>Check out what our CCA groups are doing to celebrate our Nation's 56th Birthday </td>
       </tr>
 	 	   </tbody>
 </table>
@@ -142,10 +142,13 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 <a href="#top">Back to top</a>
 
 ---
-<h3><a id="cca"></a>Celebrating National Day by CCA groupsl</h3>
+<h3><a id="cca"></a>Celebrating National Day with CCA groupsl</h3>
 
-![Alt text for image on Isomer site](/images/BeEntertained-NDCbistro.png)
 
- [**Order Now!**](https://bistrolabnationalday.questionpro.com/)
+
+
+
+
+
 
 <a href="#top">Back to top</a>
