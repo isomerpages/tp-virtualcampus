@@ -25,7 +25,13 @@ permalink: /interest_groups/design_ambassadors/
 
 ### Celebrating our Nation’s 56th Birthday
 
+<div class="bp-youtube">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6h4Quz-gk6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+Watch our Design Student Ambassadors' well wishes to our Team Singapore athletes as they compete in the Olympics and Paralympics in Tokyo, Japan. 
 
 #### Latest Happenings
 
