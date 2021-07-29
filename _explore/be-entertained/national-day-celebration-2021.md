@@ -154,7 +154,7 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
                 </a>
             </td>
            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Studies Club</h4>
-                <a href="{{site.baseurl}}/p10/dsc/">
+                <a href="{{site.baseurl}}/p10/dsc/#dscNDC">
                     <image src="{{site.baseurl}}/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
                     </image>
                 </a>
@@ -162,13 +162,13 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 			</tr>
 			<tr>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Studies Club</h4>
-                <a href="{{site.baseurl}}/p10/esc/">
+                <a href="{{site.baseurl}}/p10/esc/#engNDC">
                     <image src="{{site.baseurl}}/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
                     </image>
                 </a>
             </td>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Student Ambassador</h4>
-               <a href="{{site.baseurl}}/interest_groups/design_ambassadors/">
+               <a href="{{site.baseurl}}/interest_groups/design_ambassadors/#dsaNDC">
                     <image src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
                     </image>
                 </a>
