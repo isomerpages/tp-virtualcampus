@@ -50,6 +50,11 @@ third_nav_title: Be Entertained
 				 <td><a href="#bistro">Bistro Lab National Day Special</a></td>
          <td>Savour the ethnic iconic flavours of Singapore with National Day Special order by TP Bistro Lab </td>
       </tr>
+		 <tr>
+         <td></td>
+				 <td><a href="#cca">Celebrating Nation's Birthday </a></td>
+         <td>Check out what our CCA groups are doing to celebration our Nation's 56th Birthday </td>
+      </tr>
 	 	   </tbody>
 </table>
 	</h4>
@@ -122,7 +127,7 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 **Make sure you stay tuned and catch the show on 5 August 2021 at 8pm!**
 
 **Concert Date:**  5 Aug 2021, Thursday  
-**Time:** 8pm to 9pm  
+**Time:** 7.30pm to 9pm  
 **Concert Link:** [ https://vimeo.com/event/1158273]( https://vimeo.com/event/1158273)
 
 <a href="#top">Back to top</a>
