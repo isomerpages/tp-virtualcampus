@@ -142,7 +142,7 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 <a href="#top">Back to top</a>
 
 ---
-<h3><a id="cca"></a>Celebrating National Day with CCA groupsl</h3>
+<h3><a id="cca"></a>Celebrating National Day with CCA groups</h3>
 
 <div>
     <table>
