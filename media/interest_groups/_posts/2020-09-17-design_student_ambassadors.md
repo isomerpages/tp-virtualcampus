@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Design Student Ambassadors
+title: Design Student Ambassadors
 permalink: /interest_groups/design_ambassadors/
 ---
-
 <div>
     <table>
         <tr>
@@ -23,6 +22,16 @@ permalink: /interest_groups/design_ambassadors/
         </tr>
     </table>
 </div>
+
+<h3><a id="dsaNDC"></a>Celebrating our Nation's 56th Birthday</h3>
+
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6h4Quz-gk6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+Watch our Design Student Ambassadors' well wishes to our Team Singapore athletes as they compete in the Olympics and Paralympics in Tokyo, Japan. 
 
 #### Latest Happenings
 

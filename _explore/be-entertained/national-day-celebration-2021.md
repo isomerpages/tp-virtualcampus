@@ -38,7 +38,7 @@ third_nav_title: Be Entertained
        <tr>
          <td>5 Aug</td>
 				 <td><a href="#tpndc">TP National Day Celebration</a></td>
-         <td>Catch this year's TP National Day Celebration at 8pm! </td>
+         <td>Catch this year's TP National Day Celebration at 7.30pm! </td>
       </tr>
       <tr>
          <td></td>
@@ -49,6 +49,11 @@ third_nav_title: Be Entertained
          <td>By 5 Aug</td>
 				 <td><a href="#bistro">Bistro Lab National Day Special</a></td>
          <td>Savour the ethnic iconic flavours of Singapore with National Day Special order by TP Bistro Lab </td>
+      </tr>
+		 <tr>
+         <td></td>
+				 <td><a href="#cca">Celebrating National Day with CCA groups </a></td>
+         <td>Check out what our CCA groups are doing to celebrate our Nation's 56th Birthday </td>
       </tr>
 	 	   </tbody>
 </table>
@@ -61,9 +66,12 @@ Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) ou
 
 Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—> [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
  
-Submission due by **Tuesday, 3 August**.
+Submission due by **Tuesday, 3 August**. 
 
-![Alt text for image on Isomer site](/images/BeEntertained-NDCcontest.png)
+Results will be announced during the TP National Day Concert on 5 Aug at 7.30pm. <br>
+Stay tuned!
+
+![NDC Contest](/images/BeEntertained-NDCcontest.png)
 
 <a href="#top">Back to top</a>
 
@@ -82,7 +90,7 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
  
 Videos should be posted by **Thursday, 5 August**.
 
-![Alt text for image on Isomer site](/images/BeEntertained-NDColympics.png)
+![Team Singapore](/images/BeEntertained-NDColympics.png)
 
 <a href="#top">Back to top</a>
 
@@ -103,7 +111,7 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 7. [Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A
 8. [Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
 
-##### Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
+##### Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 7.30pm. 
 
 **Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
@@ -119,10 +127,10 @@ Through the eyes of 4 friends; namely Sasha The Influencer, Ting Ting The Foodie
 
 As part of the finale, TP Music Vox has composed an original TP National Day Song! This song is composed with lyrics from TP students, staff, alumni and community. 
 
-**Make sure you stay tuned and catch the show on 5 August 2021 at 8pm!**
+**Make sure you stay tuned and catch the show on 5 August 2021 at 7.30pm!**
 
 **Concert Date:**  5 Aug 2021, Thursday  
-**Time:** 8pm to 9pm  
+**Time:** 7.30pm to 9pm  
 **Concert Link:** [ https://vimeo.com/event/1158273]( https://vimeo.com/event/1158273)
 
 <a href="#top">Back to top</a>
@@ -133,5 +141,48 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 ![Alt text for image on Isomer site](/images/BeEntertained-NDCbistro.png)
 
  [**Order Now!**](https://bistrolabnationalday.questionpro.com/)
+
+<a href="#top">Back to top</a>
+
+---
+<h3><a id="cca"></a>Celebrating National Day with CCA groups</h3>
+
+<div>
+    <table>
+        <tr>
+             <td style="width:49%; vertical-align:bottom; border:none"><h4>Applied Science Studies Club</h4>
+                <a href="{{site.baseurl}}/p10/ascsc/#ascNDC">
+                    <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
+                    </image>
+                </a>
+            </td>
+           <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Studies Club</h4>
+                <a href="{{site.baseurl}}/p10/dsc/#dscNDC">
+                    <image src="{{site.baseurl}}/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
+                    </image>
+                </a>
+            </td>
+			</tr>
+			<tr>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Studies Club</h4>
+                <a href="{{site.baseurl}}/p10/esc/#engNDC">
+                    <image src="{{site.baseurl}}/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
+                    </image>
+                </a>
+            </td>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Student Ambassador</h4>
+               <a href="{{site.baseurl}}/interest_groups/design_ambassadors/#dsaNDC">
+                    <image src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
+                    </image>
+                </a>
+            </td>
+             </tr>
+    </table>
+</div>
+
+
+
+
+
 
 <a href="#top">Back to top</a>
