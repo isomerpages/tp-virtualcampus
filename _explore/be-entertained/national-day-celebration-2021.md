@@ -66,7 +66,10 @@ Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) ou
 
 Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—> [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
  
-Submission due by **Tuesday, 3 August**.
+Submission due by **Tuesday, 3 August**. 
+
+Results will be announced during the TP National Day Concert on 5 Aug at 7.30pm. <br>
+Stay tuned!
 
 ![NDC Contest](/images/BeEntertained-NDCcontest.png)
 
