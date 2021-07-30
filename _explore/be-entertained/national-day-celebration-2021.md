@@ -38,7 +38,7 @@ third_nav_title: Be Entertained
        <tr>
          <td>5 Aug</td>
 				 <td><a href="#tpndc">TP National Day Celebration</a></td>
-         <td>Catch this year's TP National Day Celebration at 8pm! </td>
+         <td>Catch this year's TP National Day Celebration at 7.30pm! </td>
       </tr>
       <tr>
          <td></td>
@@ -108,7 +108,7 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 7. [Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A
 8. [Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
 
-##### Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 8pm. 
+##### Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 7.30pm. 
 
 **Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
@@ -124,7 +124,7 @@ Through the eyes of 4 friends; namely Sasha The Influencer, Ting Ting The Foodie
 
 As part of the finale, TP Music Vox has composed an original TP National Day Song! This song is composed with lyrics from TP students, staff, alumni and community. 
 
-**Make sure you stay tuned and catch the show on 5 August 2021 at 8pm!**
+**Make sure you stay tuned and catch the show on 5 August 2021 at 7.30pm!**
 
 **Concert Date:**  5 Aug 2021, Thursday  
 **Time:** 7.30pm to 9pm  
