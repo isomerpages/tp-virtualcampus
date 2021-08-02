@@ -130,7 +130,12 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 **Make sure you stay tuned and catch the show on 5 August 2021 at 7.30pm!**
 
 **Concert Date:**  5 Aug 2021, Thursday  
-**Time:** 7.30pm to 9pm  
+**Time:** 7.30pm to 9pm
+* 7.30pm – Celebrations Begin!
+* 7.35pm – TP’s Original Short Film: The Times We Shared
+* 8.00pm – Concert Segment: TP Talents TakeOver! 
+* 8.45pm – TP’s Original Short Film: Ixora Flower<br>
+
 **Concert Link:** [ https://vimeo.com/event/1158273]( https://vimeo.com/event/1158273)
 
 <a href="#top">Back to top</a>
