@@ -46,7 +46,7 @@ third_nav_title: Be Entertained
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
 			<tr>
-         <td>By 5 Aug</td>
+         <td></td>
 				 <td><a href="#bistro">Bistro Lab National Day Special</a></td>
          <td>Savour the ethnic iconic flavours of Singapore with National Day Special order by TP Bistro Lab </td>
       </tr>
@@ -115,7 +115,7 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 
 **Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
-![vote](/images/BeEntertained-NDC-QRvote.jpeg)
+![vote](/images/BeEntertained-NDC-vote.jpg)
 
 
 <a href="#top">Back to top</a>
@@ -143,7 +143,7 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 ---
 <h3><a id="bistro"></a>Bistro Lab National Day Special</h3>
 
-![Alt text for image on Isomer site](/images/BeEntertained-NDCbistro.png)
+![bistro](/images/BeEntertained-NDCbistro.png)
 
  [**Order Now!**](https://bistrolabnationalday.questionpro.com/)
 
