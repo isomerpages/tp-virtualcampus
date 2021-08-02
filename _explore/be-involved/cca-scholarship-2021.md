@@ -5,7 +5,6 @@ permalink: /be-involved/ccascholarship2021/
 third_nav_title: Be Involved
 ---
 ### CCA Scholarship 2021 - Open for Application
-<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 
 ![CCAScholarship2021](/images/ccascholarship-image.jpg)
 
