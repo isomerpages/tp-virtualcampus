@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_Vaccinate4.png
+      background: /images/Home-NDC.png
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
