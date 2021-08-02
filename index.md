@@ -34,6 +34,15 @@ sections:
       image: /images/BeEntertained-NDCMain.png
       alt: Image alt text
   - infopic:
+      title: 2021 ciNE65 Movie Makers Awards
+      subtitle: AWARDS
+      description: "TP Design took home the Inter-School Challenge Trophy🏆 at the
+        2021 ciNE65 Movie Makers Awards.  "
+      button: FIND OUT MORE
+      url: /be-entertained/digital-film-television/
+      image: /images/ciNE65_awards_students.png
+      alt: ciNE65 Movie Makers Awards
+  - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination
       image: /images/Infopic-TSEA2021.jpg
