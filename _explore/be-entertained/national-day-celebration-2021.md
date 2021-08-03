@@ -50,15 +50,15 @@ third_nav_title: Be Entertained
 				<td>National Day Song by MusicVox</td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
-			<tr>
-         <td></td>
-				 <td><a href="#bistro">Bistro Lab National Day Special</a></td>
-         <td>Savour the ethnic iconic flavours of Singapore with National Day Special order by TP Bistro Lab </td>
-      </tr>
-		 <tr>
+			 <tr>
          <td></td>
 				 <td><a href="#cca">Celebrating National Day with CCA groups </a></td>
          <td>Check out what our CCA groups are doing to celebrate our Nation's 56th Birthday </td>
+      </tr>
+		 <tr>
+         <td></td>
+				 <td><a href="#bistro">Bistro Lab National Day Special</a></td>
+         <td>Savour the ethnic iconic flavours of Singapore with National Day Special order by TP Bistro Lab </td>
       </tr>
 	 	   </tbody>
 </table>
@@ -158,15 +158,6 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 <a href="#top">Back to top</a>
 
 ---
-<h3><a id="bistro"></a>Bistro Lab National Day Special</h3>
-
-![bistro](/images/BeEntertained-NDCbistro.png)
-
- [**Order Now!**](https://bistrolabnationalday.questionpro.com/)
-
-<a href="#top">Back to top</a>
-
----
 <h3><a id="cca"></a>Celebrating National Day with CCA groups</h3>
 
 <div>
@@ -203,8 +194,18 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 </div>
 
 
+<a href="#top">Back to top</a>
 
+---
+<h3><a id="bistro"></a>Bistro Lab National Day Special</h3>
 
+![bistro](/images/BeEntertained-NDCbistro.png)
 
+ [**Order Now!**](https://bistrolabnationalday.questionpro.com/)
 
 <a href="#top">Back to top</a>
+
+
+
+
+
