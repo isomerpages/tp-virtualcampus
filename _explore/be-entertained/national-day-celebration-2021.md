@@ -129,7 +129,7 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 **Make sure you stay tuned and catch the show on 5 August 2021 at 7.30pm!**
 
 **Concert Date:**  5 Aug 2021, Thursday  
-**Time:** 7.30pm to 9pm
+**Time:** From 7.30pm 
 * 7.30pm – DFT Short Film Feature #1: The Times We Shared
 * 8.00pm – National Day Concert 2021 – Streaming Live from TP!
 * 8.35pm – Singapore Pledge & National Anthem
