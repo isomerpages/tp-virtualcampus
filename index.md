@@ -36,8 +36,8 @@ sections:
   - infopic:
       title: 2021 ciNE65 Movie Makers Awards
       subtitle: AWARDS
-      description: "TP Design took home the Inter-School Challenge Trophy🏆 at the
-        2021 ciNE65 Movie Makers Awards.  "
+      description: Congratulations to TP Design for winning the 2021 ciNE65
+        Inter-School Challenge Trophy🏆!
       button: FIND OUT MORE
       url: /be-entertained/digital-film-television/
       image: /images/ciNE65_awards_students.png
