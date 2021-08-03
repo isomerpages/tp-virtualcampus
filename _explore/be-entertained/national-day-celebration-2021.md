@@ -96,7 +96,7 @@ Check out the video from Team Temasek!
 
 </div>
 
-![Team Singapore](/images/BeEntertained-NDColympics.png)
+![Alt text for image on Isomer site](/images/BeEntertained-NDC-Olympic1.jpg)
 
 <a href="#top">Back to top</a>
 
