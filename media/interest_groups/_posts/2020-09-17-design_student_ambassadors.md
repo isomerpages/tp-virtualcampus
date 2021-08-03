@@ -31,7 +31,7 @@ permalink: /interest_groups/design_ambassadors/
 
 </div>
 
-Watch our Design Student Ambassadors' well wishes to our Team Singapore athletes as they compete in the Olympics and Paralympics in Tokyo, Japan. 
+Watch our Design Student Ambassadors' well wishes to Singapore's Birthday!
 
 #### Latest Happenings
 
