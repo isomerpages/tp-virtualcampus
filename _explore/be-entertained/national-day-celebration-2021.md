@@ -9,6 +9,12 @@ third_nav_title: Be Entertained
 
 ![TPNDC](/images/BeEntertained-NDCMain.png)
 
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/03yYKHRsdCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h4>
 <table>
    <thead>
