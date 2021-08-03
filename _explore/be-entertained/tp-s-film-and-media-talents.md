@@ -3,9 +3,16 @@ layout: page
 title: TP's Film and Media Talents
 permalink: /be-entertained/digital-film-television/
 third_nav_title: Be Entertained
+---
+### DES won at 2021 ciNE65 Movie Makers Awards
+TP Design took home the Inter-School Challenge Trophy🏆  at the 2021 ciNE65 Movie Makers Awards. Organised by Nexus, MINDEF’s national education resource arm, ciNE65 is a biennial short film competition for budding film enthusiasts to share and reflect what Singapore means to them. It also serves as a unique platform to recognise and nurture film-making talents, thereby contributing towards the development of local short films. Our students also took home the Overall Best Film🏅, Best Cinematography🏅, Best Editing🏅 and Favourite Film award🏅 for the student category! ⁣🎬
+
+Congrats to the Diploma in Digital Film & Television. !! 👏👏👏🏼  ciNE65 is the largest national platform for film students and budding filmmakers to share short films on our Singapore story. Well Done DFT!!
+
+![2021 ciNE65 Movie Makers Awards](/images/ciNE65_Movie_Makers_Awards.png)
 
 ---
-### Filmmakers @ DFT - Short films from our Diploma in Digital Film & Television ###
+### Filmmakers @ DFT - Short films from our Diploma in Digital Film & Television
 Laughter. Tears. Drama. Intrigue. Suspense.
 
 You are invited to join us for a journey through well-crafted and thought-provoking stories, fresh from the vivid imagination of Temasek Polytechnic’s <a href="https://www.viddsee.com/channel/filmmakersdft" target="_blank">Digital Film and Television</a>students.

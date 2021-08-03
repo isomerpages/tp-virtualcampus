@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_Vaccinate4.png
+      background: /images/Home-NDC11.png
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
@@ -33,6 +33,15 @@ sections:
       url: /be-entertained/tpndc
       image: /images/BeEntertained-NDCMain.png
       alt: Image alt text
+  - infopic:
+      title: 2021 ciNE65 Movie Makers Awards
+      subtitle: AWARDS
+      description: Congratulations to TP Design for winning the 2021 ciNE65
+        Inter-School Challenge Trophy🏆!
+      button: FIND OUT MORE
+      url: /be-entertained/digital-film-television/
+      image: /images/ciNE65_awards_students.png
+      alt: ciNE65 Movie Makers Awards
   - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Nomination

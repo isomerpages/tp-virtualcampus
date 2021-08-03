@@ -3,7 +3,6 @@ title: National Day Celebration 2021
 permalink: /be-entertained/tpndc
 third_nav_title: Be Entertained
 ---
-<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 ## TP National Day Celebration
 
 ### Count Down to the Celebration!
@@ -46,7 +45,7 @@ third_nav_title: Be Entertained
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
 			<tr>
-         <td>By 5 Aug</td>
+         <td></td>
 				 <td><a href="#bistro">Bistro Lab National Day Special</a></td>
          <td>Savour the ethnic iconic flavours of Singapore with National Day Special order by TP Bistro Lab </td>
       </tr>
@@ -90,7 +89,14 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
  
 Videos should be posted by **Thursday, 5 August**.
 
-![Team Singapore](/images/BeEntertained-NDColympics.png)
+Check out the video from Team Temasek! 
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6h4Quz-gk6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+![Alt text for image on Isomer site](/images/BeEntertained-NDC-Olympic1.jpg)
 
 <a href="#top">Back to top</a>
 
@@ -115,7 +121,7 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 
 **Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
-![vote](/images/BeEntertained-NDC-QRvote.jpeg)
+![vote](/images/BeEntertained-NDC-vote.jpg)
 
 
 <a href="#top">Back to top</a>
@@ -123,22 +129,32 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 ---
 <h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
 
+![NDC](/images/BeEntertained-NDCshow1.png)
+
 Through the eyes of 4 friends; namely Sasha The Influencer, Ting Ting The Foodie, Alex The Gamer and Theresa The Woke Person and with the help of the audiences, they will discover Singapore’s lesser-known places, cuisines, communities and what make us stand together as One People in this specially curated National Day Online Concert.
 
 As part of the finale, TP Music Vox has composed an original TP National Day Song! This song is composed with lyrics from TP students, staff, alumni and community. 
 
 **Make sure you stay tuned and catch the show on 5 August 2021 at 7.30pm!**
 
-**Concert Date:**  5 Aug 2021, Thursday  
-**Time:** 7.30pm to 9pm  
+**Date:**  5 Aug 2021, Thursday  
+**Time:** From 7.30pm <br>
 **Concert Link:** [ https://vimeo.com/event/1158273]( https://vimeo.com/event/1158273)
+
+| **TIME** | **EVENT** |
+| -------- | -------- | 
+| 7.30PM | **DFT Short Film Feature #1: The Times We Shared**<br>Based on our student’s true experience, this story of a 9-year-old Chinese girl and her Malay classmate is a reminder that true friendship and sincerity know no boundaries |
+| 8.00PM| **National Day Concert 2021 – Streaming Live from TP!**<br>Featuring music and dance in a simple, heartfelt short story called ROJAK, produced by 224 arts students. Catch additional performances by Music Vox as well as our very own attempt at a TP Original National Day Song entitled “Spread The Light”, built on lyric ideas contributed by the TP student and alumni family! |
+|8.35PM| **Singapore Pledge & National Anthem**<br>Performed by the TP family and filmed on campus.|
+|8.40PM| **DFT Short Film Feature #2: Ixora Flower**<br>Based on a historical event, the fire of Bukit Ho Swee, the story tells about human struggles and triumphs that made us who we are today.|
+|9.10PM| END|
 
 <a href="#top">Back to top</a>
 
 ---
 <h3><a id="bistro"></a>Bistro Lab National Day Special</h3>
 
-![Alt text for image on Isomer site](/images/BeEntertained-NDCbistro.png)
+![bistro](/images/BeEntertained-NDCbistro.png)
 
  [**Order Now!**](https://bistrolabnationalday.questionpro.com/)
 
