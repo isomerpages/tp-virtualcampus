@@ -7,13 +7,15 @@ third_nav_title: Be Entertained
 
 ### Count Down to the Celebration!
 
-![TPNDC](/images/BeEntertained-NDCMain.png)
+Little teaser to what you can expect at our very own National Day Celebrations!
 
 <div class="bp-youtube">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/03yYKHRsdCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+![TPNDC](/images/BeEntertained-NDCMain.png)
 
 <h4>
 <table>
