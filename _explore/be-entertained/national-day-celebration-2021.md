@@ -90,6 +90,11 @@ Cheer on our Team Singapore athletes as they prepare for the Olympics and Paraly
 Videos should be posted by **Thursday, 5 August**.
 
 Check out the video from Team Temasek! 
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6h4Quz-gk6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 ![Team Singapore](/images/BeEntertained-NDColympics.png)
 
