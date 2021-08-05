@@ -154,23 +154,6 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 
 <a href="#top">Back to top</a>
 
-
----
-<h3><a id="contest"></a>National Day Giveaway Contest</h3>
-
-Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
-
-Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—> [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
- 
-Submission due by **Tuesday, 3 August**. 
-
-Results will be announced during the TP National Day Concert on 5 Aug at 7.30pm. <br>
-Stay tuned!
-
-![NDC Contest](/images/BeEntertained-NDCcontest.png)
-
-<a href="#top">Back to top</a>
-
 ---
 <h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
 
@@ -193,9 +176,26 @@ Check out the video from Team Temasek!
 
 </div>
 
-![Alt text for image on Isomer site](/images/BeEntertained-NDC-Olympic1.jpg)
+![Team Singapore](/images/BeEntertained-NDC-Olympic1.jpg)
 
 <a href="#top">Back to top</a>
+
+---
+<h3><a id="contest"></a>National Day Giveaway Contest</h3>
+
+Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
+
+Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—> [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
+ 
+Submission due by **Tuesday, 3 August**. 
+
+Results will be announced during the TP National Day Concert on 5 Aug at 7.30pm. <br>
+Stay tuned!
+
+![NDC Contest](/images/BeEntertained-NDCcontest.png)
+
+<a href="#top">Back to top</a>
+
 
 ---
 <h3><a id="bistro"></a>Bistro Lab National Day Special</h3>
