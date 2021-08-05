@@ -27,22 +27,7 @@ Little teaser to what you can expect at our very own National Day Celebrations!
       </tr>
    </thead>
    <tbody>
-			 <tr>
-				  <td>By 3 Aug</td>
-				 <td><a href="#contest">National Day Giveaway Contest</a></td>
-         <td>Stand a chance to win an awesome pair of JBL headphones 🎧. Share with us your FAV #throwback ND moment 🎆+ what you loved most about it</td>
-      </tr>
-			 <tr>
-         <td>By 5 Aug</td>
-				 <td><a href="#olympics">Show some Love for Team Singapore Olympians</a></td>
-         <td>Post your well-wishes to Team Singapore by 5 Aug</td>
-      </tr>
-       <tr>
-         <td>By 5 Aug</td>
-					<td><a href="#vote">Vote for your Favourite National Day Songs</a></td>
-         <td>Let’s give the “not-so-familiar” National Day songs a listen! Vote for your favourite National Day song and the top 3 most favourite “lesser-known” songs will be performed during the TP National Day Concert..</td>
-      </tr>
-       <tr>
+			<tr>
          <td>5 Aug</td>
 				 <td><a href="#tpndc">TP National Day Celebration</a></td>
          <td>Catch this year's TP National Day Celebration at 7.30pm! </td>
@@ -52,12 +37,27 @@ Little teaser to what you can expect at our very own National Day Celebrations!
 				<td>National Day Song by MusicVox</td>
          <td>An original National Day Song not to be missed - composed by TP Music Vox with contributions from TP community.</td>
       </tr>
+		  <tr>
+         <td>By 5 Aug</td>
+					<td><a href="#vote">Vote for your Favourite National Day Songs</a></td>
+         <td>Check out the 4 National Day songs currently currently at the top of charts! Vote Now for your favourite National Day song. Top songs will be performed during the TP National Day Concert..</td>
+      </tr>
 			 <tr>
          <td></td>
 				 <td><a href="#cca">Celebrating National Day with CCA groups </a></td>
          <td>Check out what our CCA groups are doing to celebrate our Nation's 56th Birthday </td>
+      </tr> 
+				 <tr>
+         <td>By 5 Aug</td>
+				 <td><a href="#olympics">Show some Love for Team Singapore Olympians</a></td>
+         <td>Post your well-wishes to Team Singapore by 5 Aug</td>
       </tr>
-		 <tr>
+		  <tr>
+				  <td></td>
+				 <td><a href="#contest">National Day Giveaway Contest</a></td>
+         <td>Stand a chance to win an awesome pair of JBL headphones 🎧. Share with us your FAV #throwback ND moment 🎆+ what you loved most about it</td>
+      </tr>
+        	 <tr>
          <td></td>
 				 <td><a href="#bistro">Bistro Lab National Day Special</a></td>
          <td>Savour the ethnic iconic flavours of Singapore with National Day Special order by TP Bistro Lab </td>
