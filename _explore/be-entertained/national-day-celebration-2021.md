@@ -149,7 +149,7 @@ Dateline is 9 August!
 
 <h4>National Day Trivia by 9 August 2021, Monday -  TP LEAD Ambassadors</h4>
 	
-![Alt text for image on Isomer site](/images/BeEntertained-NDCLEAD1.png)
+![National Day Trivia](/images/BeEntertained-NDCLEAD1.png)
 
 Stand a chance to **win Bistro Lab voucher**s when you attempt the LEAD Ambassadors National Day Trivia which will be held from 4 August, till 9 August, 12pm!! 🎁🥇
 
