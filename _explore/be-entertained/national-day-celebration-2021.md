@@ -126,7 +126,7 @@ Have a listen to these lovely ditties.
 Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
  Sign up by scanning the QR code or clicking [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&qrcode=true)!
- ![Virtual Workout](/images/BeEntertained-NDCTPSC1.jpg)
+ ![Virtual Workout](/images/BeEntertained-NDCTPSC.jpg)
 
 <h4>National Day Bingo Challenge by 9 August 2021, Monday -  TP Students' Union</h4>
 	
