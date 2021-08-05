@@ -138,7 +138,20 @@ Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
 **Stand a chance to win Bistro Lab vouchers!**
 
+Here is how to participate:
+	
+1. Head over to **@tpsuonline** on Instagram and repost the National Day Bingo Challenge after marking off the boxes that applies to you! (1 bingo = 1 entry)<br>
 
+
+2. Tag @tpsuonline in your story  (make sure that your account is not set as private)
+	
+	For additional entries
+	1. Follow @tpsuonline on Instagram
+	2. Like our Bingo post on Instagram
+	3. Tag 3 friends from TP
+	(capped at 5 entries per person)
+	
+	Dateline is 9 August! 10 lucky winners will walk away with Bistro Lab vouchers!
 
 
 </p>
