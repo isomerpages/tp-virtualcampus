@@ -122,11 +122,11 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
  Sign up by scanning the QR code or clicking [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&qrcode=true)!
-![Alt text for image on Isomer site](/images/BeEntertained-NDCTPSC.png)
+![Virtual Workout](/images/BeEntertained-NDCTPSC.png)
 
 <h4>National Day Bingo Challenge by 9 August 2021, Monday -  TP Students' Union</h4>
 	
-![TPSU Bingo Challenge](/images/BeEntertained-NDCTPSU.png)
+![Bingo Challenge](/images/BeEntertained-NDCTPSU1.png)
 
 **Stand a chance to win Bistro Lab vouchers!**
 
@@ -149,7 +149,7 @@ Dateline is 9 August!
 
 <h4>National Day Trivia by 9 August 2021, Monday -  TP LEAD Ambassadors</h4>
 	
-![National Day Trivia](/images/BeEntertained-NDCLEAD.png)
+![Alt text for image on Isomer site](/images/BeEntertained-NDCLEAD1.png)
 
 Stand a chance to **win Bistro Lab voucher**s when you attempt the LEAD Ambassadors National Day Trivia which will be held from 4 August, till 9 August, 12pm!! 🎁🥇
 
