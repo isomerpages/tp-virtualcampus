@@ -96,18 +96,15 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 
 <h4>Check out our top 4 voted songs for tonight's National Day Concert.</h4>
 
-![vote songs](/images/BeEntertained-voteresults.png)
+**Top of the Charts**
+
+[In A Heartbeat](https://youtu.be/VIgoiKKa9_E) – Sylvia Ratonel<br>
+[Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En & Taufik Batisah<br>
+[Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A<br>
+[Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
+
 
 **Continue to send in your [vote](https://www.menti.com/arspjsmhjb) for your most loved song and the top 3 songs voted will be played tonight during the TP National Day concert at 7.30pm.**
-
-1. [Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En & Taufik Batisah
-2. [What Do You See](https://youtu.be/GKAMTOx0nNw) – Electrico
-3. [In A Heartbeat](https://youtu.be/VIgoiKKa9_E) – Sylvia Ratonel
-4. [My Island Home](https://youtu.be/Hx10V0syxXw) – Kaira Gong
-5. [Shine For Singapore](https://youtu.be/GzxCnqozyK8) – Hady Mirza
-6. [One United People](https://youtu.be/Nqi8zKh2a7k) – Stefanie Sun
-7. [Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A
-8. [Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
 
 ![vote](/images/BeEntertained-NDC-vote.jpg)
 
