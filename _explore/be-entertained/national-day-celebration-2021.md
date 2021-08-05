@@ -145,7 +145,7 @@ Here is how to participate:
 
 2. Tag @tpsuonline in your story  (make sure that your account is not set as private)
 	
-**For additional entries**
+**For additional entries:**
 
 * Follow @tpsuonline on Instagram
 * Like our Bingo post on Instagram
