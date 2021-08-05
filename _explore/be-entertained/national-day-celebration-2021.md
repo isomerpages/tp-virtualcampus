@@ -98,11 +98,11 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 
 ![vote songs](/images/BeEntertained-voteresults.png)
 
-We have started a poll to choose your favourite National Day song. 
+
 
 **Continue to send in your [vote](https://www.menti.com/arspjsmhjb) for your most loved song and the top 3 songs voted will be played tonight during the TP National Day concert at 7.30pm.**
 
-Have a listen to these lovely ditties. 
+
 
 1. [Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En & Taufik Batisah
 2. [What Do You See](https://youtu.be/GKAMTOx0nNw) – Electrico
