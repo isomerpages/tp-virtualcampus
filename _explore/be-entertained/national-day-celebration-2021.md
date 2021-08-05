@@ -125,6 +125,8 @@ Have a listen to these lovely ditties.
 
 * <h4>Virtual workout on 7 August at 10am - TP Sports Club</h4>
 
+Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
+
  Sign up by scanning the QR code or clicking [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&qrcode=true)!
  ![Virtual Workout](/images/BeEntertained-NDCTPSC1.jpg)
 
