@@ -123,17 +123,20 @@ Have a listen to these lovely ditties.
 
 <br>
 
+<p>
+	
 * <h4>Virtual workout on 7 August at 10am - TP Sports Club</h4>
 
 Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
  Sign up by scanning the QR code or clicking [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&qrcode=true)!
  ![Virtual Workout](/images/BeEntertained-NDCTPSC1.jpg)
+</p>
 
 <p>
-	
-* <h4>National Day Bingo Challenge by 9 August 2021 -  TP Students' Union</h4>
 
+* <h4>National Day Bingo Challenge by 9 August 2021-  TP Students' Union</h4>
+	
 ![TPSU Bingo Challenge](/images/BeEntertained-NDCTPSU.png)
 
 **Stand a chance to win Bistro Lab vouchers!**
@@ -141,7 +144,6 @@ Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 Here is how to participate:
 	
 1. Head over to **@tpsuonline** on Instagram and repost the National Day Bingo Challenge after marking off the boxes that applies to you! (1 bingo = 1 entry)<br>
-
 
 2. Tag @tpsuonline in your story  (make sure that your account is not set as private)
 	
@@ -156,8 +158,9 @@ Dateline is 9 August!
 
 **10 lucky winners will walk away with Bistro Lab vouchers!**
 
-
 </p>
+
+
 
 <div>
     <table>
