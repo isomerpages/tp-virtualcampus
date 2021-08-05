@@ -144,7 +144,7 @@ Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
 Here is how to participate:
 	
-1. Head over to **@tpsuonline** on Instagram and repost the National Day Bingo Challenge after marking off the boxes that applies to you! (1 bingo = 1 entry)<br>
+1. Head over to **[@tpsuonline](https://www.instagram.com/tpsuonline/)** on Instagram and repost the National Day Bingo Challenge after marking off the boxes that applies to you! (1 bingo = 1 entry)<br>
 
 2. Tag @tpsuonline in your story  (make sure that your account is not set as private)
 	
