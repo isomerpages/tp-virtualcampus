@@ -133,6 +133,7 @@ Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
  ![Virtual Workout](/images/BeEntertained-NDCTPSC1.jpg)
 </p>
 
+<br>
 <p>
 
 * <h4>National Day Bingo Challenge by 9 August 2021-  TP Students' Union</h4>
@@ -159,9 +160,26 @@ Dateline is 9 August!
 **10 lucky winners will walk away with Bistro Lab vouchers!**
 
 </p>
+<br>
+<p>
 
+* <h4>National Day Trivia by 9 August 2021-  TP LEAD Ambassadors</h4>
+	
+![National Day Trivia](/images/BeEntertained-NDCLEAD.png)
 
+Stand a chance to **win Bistro Lab voucher**s when you attempt the LEAD Ambassadors National Day Trivia which will be held from 4 August, till 9 August, 12pm!! 🎁🥇
 
+How much do you know about Singapore? 🧐 Find out now with just a few clicks away❣️
+
+This 5-day trivia event would test your knowledge on topics about Singapore, from food to landmarks! 🌈🚂
+
+Each day a different form will open, so do remember to check out [https://linktr.ee/LeadAmbassadors](https://linktr.ee/LeadAmbassadors) from now to 8 August at 12pm daily✔️
+
+Results of the winners will be released by 13 August !👀
+
+</p>
+
+<h3>Check out more activities done by our CCA groups below!</h3>
 <div>
     <table>
         <tr>
