@@ -132,9 +132,14 @@ Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
 <p>
 	
-* <h4>Virtual workout on 7 August at 10am - TP Sports Club</h4>
+* <h4>National Day Bingo Challenge by 9 August 2021 -  TP Students' Union</h4>
 
-Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
+![TPSU Bingo Challenge](/images/BeEntertained-NDCTPSU.png)
+
+**Stand a chance to win Bistro Lab vouchers!**
+
+
+
 
 </p>
 
