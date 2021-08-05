@@ -40,7 +40,7 @@ Little teaser to what you can expect at our very own National Day Celebrations!
 		  <tr>
          <td>By 5 Aug</td>
 					<td><a href="#vote">Vote for your Favourite National Day Songs</a></td>
-         <td>Check out the 4 National Day songs currently currently at the top of charts! Vote Now for your favourite National Day song. Top songs will be performed during the TP National Day Concert..</td>
+         <td>Check out the 4 National Day songs currently at the top of charts! Vote Now for your favourite National Day song. Top songs will be performed during the TP National Day Concert..</td>
       </tr>
 			 <tr>
          <td></td>
