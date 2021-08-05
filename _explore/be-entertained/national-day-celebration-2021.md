@@ -67,47 +67,29 @@ Little teaser to what you can expect at our very own National Day Celebrations!
 	</h4>
 
 ---
-<h3><a id="contest"></a>National Day Giveaway Contest</h3>
+<h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
 
-Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
+![NDC](/images/BeEntertained-NDCshow1.png)
 
-Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—> [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
- 
-Submission due by **Tuesday, 3 August**. 
+Through the eyes of 4 friends; namely Sasha The Influencer, Ting Ting The Foodie, Alex The Gamer and Theresa The Woke Person and with the help of the audiences, they will discover Singapore’s lesser-known places, cuisines, communities and what make us stand together as One People in this specially curated National Day Online Concert.
 
-Results will be announced during the TP National Day Concert on 5 Aug at 7.30pm. <br>
-Stay tuned!
+As part of the finale, TP Music Vox has composed an original TP National Day Song! This song is composed with lyrics from TP students, staff, alumni and community. 
 
-![NDC Contest](/images/BeEntertained-NDCcontest.png)
+**Make sure you stay tuned and catch the show on 5 August 2021 at 7.30pm!**
 
-<a href="#top">Back to top</a>
+**Date:**  5 Aug 2021, Thursday  
+**Time:** From 7.30pm <br>
+**Concert Link:** [https://bit.ly/TPNDC21]( https://bit.ly/TPNDC21)
 
----
-<h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
-
-Cheer on our Team Singapore athletes as they prepare for the Olympics and Paralympics in Tokyo, Japan. Our athletes have invested a lot of time, effort, sweat and tears in their journey to Olympic qualification. 
-
-**Show them some love as they do Singapore proud!**
- 
-**Here's how you can do it:**
-
-* Step 1: Create your well wishes message to Team Singapore. Signs should be A3 size and words should be visible on camera (Add creativity, make it fun 😂)  
-* Step 2: Film yourself with the sign for 15 seconds (Happy faces 😊)  
-* Step 3: Post your video clip on Instagram with the hashtag **#OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly**
- 
-Videos should be posted by **Thursday, 5 August**.
-
-Check out the video from Team Temasek! 
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6h4Quz-gk6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-![Alt text for image on Isomer site](/images/BeEntertained-NDC-Olympic1.jpg)
+| **TIME** | **EVENT** |
+| -------- | -------- | 
+| 7.30PM | **DFT Short Film Feature #1: The Times We Shared**<br>Based on our student’s true experience, this story of a 9-year-old Chinese girl and her Malay classmate is a reminder that true friendship and sincerity know no boundaries |
+| 8.00PM| **National Day Concert 2021 – Streaming Live from TP!**<br>Featuring music and dance in a simple, heartfelt short story called ROJAK, produced by 224 arts students. Catch additional performances by Music Vox as well as our very own attempt at a TP Original National Day Song entitled “Spread The Light”, built on lyric ideas contributed by the TP student and alumni family! |
+|8.35PM| **Singapore Pledge & National Anthem**<br>Performed by the TP family and filmed on campus.|
+|8.40PM| **DFT Short Film Feature #2: Ixora Flower**<br>Based on a historical event, the fire of Bukit Ho Swee, the story tells about human struggles and triumphs that made us who we are today.|
+|9.10PM| END|
 
 <a href="#top">Back to top</a>
-
 
 ---
 <h3><a id="vote"></a>Vote for Your Favourite National Day Song!</h3>
@@ -131,31 +113,6 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 
 ![vote](/images/BeEntertained-NDC-vote.jpg)
 
-
-<a href="#top">Back to top</a>
-
----
-<h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
-
-![NDC](/images/BeEntertained-NDCshow1.png)
-
-Through the eyes of 4 friends; namely Sasha The Influencer, Ting Ting The Foodie, Alex The Gamer and Theresa The Woke Person and with the help of the audiences, they will discover Singapore’s lesser-known places, cuisines, communities and what make us stand together as One People in this specially curated National Day Online Concert.
-
-As part of the finale, TP Music Vox has composed an original TP National Day Song! This song is composed with lyrics from TP students, staff, alumni and community. 
-
-**Make sure you stay tuned and catch the show on 5 August 2021 at 7.30pm!**
-
-**Date:**  5 Aug 2021, Thursday  
-**Time:** From 7.30pm <br>
-**Concert Link:** [https://bit.ly/TPNDC21]( https://bit.ly/TPNDC21)
-
-| **TIME** | **EVENT** |
-| -------- | -------- | 
-| 7.30PM | **DFT Short Film Feature #1: The Times We Shared**<br>Based on our student’s true experience, this story of a 9-year-old Chinese girl and her Malay classmate is a reminder that true friendship and sincerity know no boundaries |
-| 8.00PM| **National Day Concert 2021 – Streaming Live from TP!**<br>Featuring music and dance in a simple, heartfelt short story called ROJAK, produced by 224 arts students. Catch additional performances by Music Vox as well as our very own attempt at a TP Original National Day Song entitled “Spread The Light”, built on lyric ideas contributed by the TP student and alumni family! |
-|8.35PM| **Singapore Pledge & National Anthem**<br>Performed by the TP family and filmed on campus.|
-|8.40PM| **DFT Short Film Feature #2: Ixora Flower**<br>Based on a historical event, the fire of Bukit Ho Swee, the story tells about human struggles and triumphs that made us who we are today.|
-|9.10PM| END|
 
 <a href="#top">Back to top</a>
 
@@ -195,6 +152,48 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
     </table>
 </div>
 
+<a href="#top">Back to top</a>
+
+
+---
+<h3><a id="contest"></a>National Day Giveaway Contest</h3>
+
+Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
+
+Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—> [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
+ 
+Submission due by **Tuesday, 3 August**. 
+
+Results will be announced during the TP National Day Concert on 5 Aug at 7.30pm. <br>
+Stay tuned!
+
+![NDC Contest](/images/BeEntertained-NDCcontest.png)
+
+<a href="#top">Back to top</a>
+
+---
+<h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
+
+Cheer on our Team Singapore athletes as they prepare for the Olympics and Paralympics in Tokyo, Japan. Our athletes have invested a lot of time, effort, sweat and tears in their journey to Olympic qualification. 
+
+**Show them some love as they do Singapore proud!**
+ 
+**Here's how you can do it:**
+
+* Step 1: Create your well wishes message to Team Singapore. Signs should be A3 size and words should be visible on camera (Add creativity, make it fun 😂)  
+* Step 2: Film yourself with the sign for 15 seconds (Happy faces 😊)  
+* Step 3: Post your video clip on Instagram with the hashtag **#OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly**
+ 
+Videos should be posted by **Thursday, 5 August**.
+
+Check out the video from Team Temasek! 
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6h4Quz-gk6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+![Alt text for image on Isomer site](/images/BeEntertained-NDC-Olympic1.jpg)
 
 <a href="#top">Back to top</a>
 
