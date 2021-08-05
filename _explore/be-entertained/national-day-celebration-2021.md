@@ -45,12 +45,12 @@ Little teaser to what you can expect at our very own National Day Celebrations!
 			 <tr>
          <td></td>
 				 <td><a href="#cca">Celebrating National Day with CCA groups </a></td>
-         <td>Check out what our CCA groups are doing to celebrate our Nation's 56th Birthday </td>
+         <td>Check out what our CCA groups are doing to celebrate our Nation's 56th Birthday! </td>
       </tr> 
 				 <tr>
          <td>By 5 Aug</td>
 				 <td><a href="#olympics">Show some Love for Team Singapore Olympians</a></td>
-         <td>Post your well-wishes to Team Singapore by 5 Aug</td>
+         <td>Post your well-wishes to Team Singapore by 5 Aug.</td>
       </tr>
 		  <tr>
 				  <td></td>
