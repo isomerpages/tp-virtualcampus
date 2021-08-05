@@ -121,14 +121,12 @@ Have a listen to these lovely ditties.
 ---
 <h3><a id="cca"></a>Celebrating National Day with CCA groups</h3>
 
-
 <h4>Virtual workout on 7 August at 10am - TP Sports Club</h4>
 
 Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
  Sign up by scanning the QR code or clicking [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&qrcode=true)!
  ![Virtual Workout](/images/BeEntertained-NDCTPSC1.jpg)
-
 
 <h4>National Day Bingo Challenge by 9 August 2021-  TP Students' Union</h4>
 	
@@ -153,7 +151,6 @@ Dateline is 9 August!
 
 **10 lucky winners will walk away with Bistro Lab vouchers!**
 
-
 <h4>National Day Trivia by 9 August 2021-  TP LEAD Ambassadors</h4>
 	
 ![National Day Trivia](/images/BeEntertained-NDCLEAD.png)
@@ -167,7 +164,6 @@ This 5-day trivia event would test your knowledge on topics about Singapore, fro
 Each day a different form will open, so do remember to check out [https://linktr.ee/LeadAmbassadors](https://linktr.ee/LeadAmbassadors) from now to 8 August at 12pm daily✔️
 
 Results of the winners will be released by 13 August !👀
-
 
 
 <h3>Check out more activities done by our CCA groups below!</h3>
