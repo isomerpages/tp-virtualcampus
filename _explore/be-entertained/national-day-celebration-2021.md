@@ -96,7 +96,7 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 
 <h4>Check out our top 4 voted songs for tonight's National Day Concert.</h4>
 
-**Top of the Charts**
+<br>
 
 [In A Heartbeat](https://youtu.be/VIgoiKKa9_E) – Sylvia Ratonel<br>
 [Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En & Taufik Batisah<br>
