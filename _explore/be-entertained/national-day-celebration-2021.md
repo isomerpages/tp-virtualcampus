@@ -96,6 +96,8 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 
 <h4>Check out our top 4 voted songs for tonight's National Day Concert.</h4>
 
+![vote songs](/images/BeEntertained-voteresults.png)
+
 We have started a poll to choose your favourite National Day song. 
 
 **Continue to send in your [vote](https://www.menti.com/arspjsmhjb) for your most loved song and the top 3 songs voted will be played tonight during the TP National Day concert at 7.30pm.**
