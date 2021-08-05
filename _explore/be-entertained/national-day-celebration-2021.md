@@ -94,9 +94,13 @@ As part of the finale, TP Music Vox has composed an original TP National Day Son
 ---
 <h3><a id="vote"></a>Vote for Your Favourite National Day Song!</h3>
 
-**Here's a little fun thing to do as we gear up to celebrate National Day!** 
+<h4>Check out our top 4 voted songs for tonight's National Day Concert.</h4>
 
-For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2021, we have started a poll to choose your favourite National Day song! These "lesser-known" songs might not get a lot of airplay but have a listen to these lovely ditties. 
+We have started a poll to choose your favourite National Day song. 
+
+**Continue to send in your [vote](https://www.menti.com/arspjsmhjb) for your most loved song and the top 3 songs voted will be played tonight during the TP National Day concert at 7.30pm.**
+
+Have a listen to these lovely ditties. 
 
 1. [Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En & Taufik Batisah
 2. [What Do You See](https://youtu.be/GKAMTOx0nNw) – Electrico
@@ -106,10 +110,6 @@ For this year's Temasek Polytechnic's National Day Celebrations Online Concert 2
 6. [One United People](https://youtu.be/Nqi8zKh2a7k) – Stefanie Sun
 7. [Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A
 8. [Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
-
-##### Pick your most loved song and the top 3 songs voted will be played during the concert on 5 August at 7.30pm. 
-
-**Start [VOTING](https://www.menti.com/arspjsmhjb) now!**
 
 ![vote](/images/BeEntertained-NDC-vote.jpg)
 
