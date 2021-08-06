@@ -5,36 +5,13 @@ third_nav_title: Be Entertained
 ---
 ## TP National Day Celebration
 
+<h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
+
 Did you miss our #TPFAM coming together to celebrate National Day? Re-watch the concert here!
 
 <div class="bp-youtube">
 <iframe src="https://player.vimeo.com/video/578402170?title=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-
----
-<h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
-
-![NDC](/images/BeEntertained-NDCshow1.png)
-
-Through the eyes of 4 friends; namely Sasha The Influencer, Ting Ting The Foodie, Alex The Gamer and Theresa The Woke Person and with the help of the audiences, they will discover Singapore’s lesser-known places, cuisines, communities and what make us stand together as One People in this specially curated National Day Online Concert.
-
-As part of the finale, TP Music Vox has composed an original TP National Day Song! This song is composed with lyrics from TP students, staff, alumni and community. 
-
-**Make sure you stay tuned and catch the show on 5 August 2021 at 7.30pm!**
-
-**Date:**  5 Aug 2021, Thursday  
-**Time:** From 7.30pm <br>
-**Concert Link:** [https://bit.ly/TPNDC21]( https://bit.ly/TPNDC21)
-
-| **TIME** | **EVENT** |
-| -------- | -------- | 
-| 7.30PM | **DFT Short Film Feature #1: The Times We Shared**<br>Based on our student’s true experience, this story of a 9-year-old Chinese girl and her Malay classmate is a reminder that true friendship and sincerity know no boundaries |
-| 8.00PM| **National Day Concert 2021 – Streaming Live from TP!**<br>Featuring music and dance in a simple, heartfelt short story called ROJAK, produced by 224 arts students. Catch additional performances by Music Vox as well as our very own attempt at a TP Original National Day Song entitled “Spread The Light”, built on lyric ideas contributed by the TP student and alumni family! |
-|8.35PM| **Singapore Pledge & National Anthem**<br>Performed by the TP family and filmed on campus.|
-|8.40PM| **DFT Short Film Feature #2: Ixora Flower**<br>Based on a historical event, the fire of Bukit Ho Swee, the story tells about human struggles and triumphs that made us who we are today.|
-|9.10PM| END|
-
-<a href="#top">Back to top</a>
 
 ---
 <h3><a id="vote"></a>Vote for Your Favourite National Day Song!</h3>
