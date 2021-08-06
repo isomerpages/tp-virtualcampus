@@ -5,6 +5,13 @@ third_nav_title: Be Entertained
 ---
 ## TP National Day Celebration
 
+Did you miss our #TPFAM coming together to celebrate National Day? Re-watch the concert here!
+
+<div class="bp-youtube">
+<iframe src="https://player.vimeo.com/video/578402170?title=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
 ### Count Down to the Celebration!
 
 Little teaser to what you can expect at our very own National Day Celebrations!
