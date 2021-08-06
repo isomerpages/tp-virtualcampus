@@ -5,6 +5,12 @@ third_nav_title: Be Entertained
 ---
 ## TP National Day Celebration
 
+Did you miss our #TPFAM coming together to celebrate National Day? Re-watch the concert here!
+
+<iframe src="https://player.vimeo.com/video/578402170?title=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/578402170">TP National Day Concert 2021</a> from <a href="https://vimeo.com/temasekartscentre">Temasek Arts Centre</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+---
 ### Count Down to the Celebration!
 
 Little teaser to what you can expect at our very own National Day Celebrations!
