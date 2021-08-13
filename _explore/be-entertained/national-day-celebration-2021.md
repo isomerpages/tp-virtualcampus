@@ -10,16 +10,18 @@ third_nav_title: Be Entertained
 Did you miss our #TPFAM coming together to celebrate National Day? Re-watch the concert here!
 
 <div class="bp-youtube">
-<iframe src="https://player.vimeo.com/video/578402170?title=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 </div>
 
 ---
-<h3><a id="vote"></a>Vote for Your Favourite National Day Song!</h3>
+<h3>Check out these past activities below in the lead up to TP National Day Celebration!</h3>
 
-<h4>Check out our top 4 voted songs for tonight's National Day Concert.</h4>
+<h4><a id="vote"></a>Vote for Your Favourite National Day Song!</h4>
+
+Check out our top 4 voted songs for tonight's National Day Concert.
 
 [In A Heartbeat](https://youtu.be/VIgoiKKa9_E) – Sylvia Ratonel<br>
-[Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En & Taufik Batisah<br>
+[Reach Out For The Skies](https://youtu.be/ic3SXtPzeMQ) – Rui En &amp; Taufik Batisah<br>
 [Tomorrow’s Here Today](https://youtu.be/rwoJuT76nb8) – 53A<br>
 [Where I Belong](https://youtu.be/jUf-5W6AKes) – Tanya Chua
 
@@ -38,7 +40,7 @@ Did you miss our #TPFAM coming together to celebrate National Day? Re-watch the 
 
 Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
- Sign up by scanning the QR code or clicking [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&qrcode=true)!
+ Sign up by scanning the QR code or clicking [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&amp;qrcode=true)!
 ![Virtual Workout](/images/BeEntertained-NDCTPSC.png)
 
 <h4>National Day Bingo Challenge by 9 August 2021, Monday -  TP Students' Union</h4>
@@ -82,35 +84,35 @@ Results of the winners will be released by 13 August !👀
 <h3>Check out more activities done by our CCA groups below!</h3>
 <div>
     <table>
-        <tr>
+        <tbody><tr>
              <td style="width:49%; vertical-align:bottom; border:none"><h4>Applied Science Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/ascsc/#ascNDC">
-                    <image src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
-                    </image>
+                    <img alt="Applied Science Studies Club" style="display:block;margin-left:auto;margin-right:auto;" src="{{site.baseurl}}/images/CCA_ascsc.jpg">
+                    
                 </a>
             </td>
            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/dsc/#dscNDC">
-                    <image src="{{site.baseurl}}/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
-                    </image>
+                    <img alt="Design Studies Club" style="display:block;margin-left:auto;margin-right:auto;" src="{{site.baseurl}}/images/CCA_dsc.jpg">
+                    
                 </a>
             </td>
 			</tr>
 			<tr>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/esc/#engNDC">
-                    <image src="{{site.baseurl}}/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
-                    </image>
+                    <img alt="Engineering Studies Club" style="display:block;margin-left:auto;margin-right:auto;" src="{{site.baseurl}}/images/CCA_esc.jpg">
+                    
                 </a>
             </td>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Student Ambassador</h4>
                <a href="{{site.baseurl}}/interest_groups/design_ambassadors/#dsaNDC">
-                    <image src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
-                    </image>
+                    <img alt="Design Student Ambassadors" style="display:block;margin-left:auto;margin-right:auto;" src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg">
+                    
                 </a>
             </td>
              </tr>
-    </table>
+    </tbody></table>
 </div>
 
 <a href="#top">Back to top</a>
@@ -133,7 +135,7 @@ Videos should be posted by **Thursday, 5 August**.
 Check out the video from Team Temasek! 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6h4Quz-gk6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 </div>
 
@@ -146,7 +148,7 @@ Check out the video from Team Temasek!
 
 Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
 
-Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—> [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
+Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—&gt; [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
  
 Submission due by **Tuesday, 3 August**. 
 
