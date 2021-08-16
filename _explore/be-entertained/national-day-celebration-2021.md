@@ -8,7 +8,6 @@ third_nav_title: Be Entertained
 <h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
 
 Did you miss our #TPFAM coming together to celebrate National Day? Re-watch the concert here!
-
 <div class="bp-youtube">
 
 </div>
@@ -87,13 +86,13 @@ Results of the winners will be released by 13 August !👀
         <tbody><tr>
              <td style="width:49%; vertical-align:bottom; border:none"><h4>Applied Science Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/ascsc/#ascNDC">
-                    <img src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
+                    <img alt="Applied Science Studies Club" style="display:block;margin-left:auto;margin-right:auto;" src="{{site.baseurl}}/images/CCA_ascsc.jpg">
                     
                 </a>
             </td>
            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/dsc/#dscNDC">
-                    <img src="{{site.baseurl}}/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
+                    <img alt="Design Studies Club" style="display:block;margin-left:auto;margin-right:auto;" src="{{site.baseurl}}/images/CCA_dsc.jpg">
                     
                 </a>
             </td>
@@ -101,13 +100,13 @@ Results of the winners will be released by 13 August !👀
 			<tr>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/esc/#engNDC">
-                    <img src="{{site.baseurl}}/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
+                    <img alt="Engineering Studies Club" style="display:block;margin-left:auto;margin-right:auto;" src="{{site.baseurl}}/images/CCA_esc.jpg">
                     
                 </a>
             </td>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Student Ambassador</h4>
                <a href="{{site.baseurl}}/interest_groups/design_ambassadors/#dsaNDC">
-                    <img src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
+                    <img alt="Design Student Ambassadors" style="display:block;margin-left:auto;margin-right:auto;" src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg">
                     
                 </a>
             </td>
