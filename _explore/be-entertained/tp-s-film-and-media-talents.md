@@ -14,4 +14,6 @@ Congrats to the Diploma in Digital Film & Television. !! 👏👏👏🏼  ciNE6
 ### In High Regard
 For this April semester AY2021/22, the CMM Audio Production subject team collaborated with MediaCorp to design a podcast assignment titled **‘In High Regard’** where students share about who inspires them.
 The top 8 pieces of work were selected by MediaCorp to pioneer their new series ‘Student Podcast Features’, which showcases clips produced by media and broadcasting students from Mediacorp's educational institute partners all across Singapore.
-The 8 episodes of the podcast are now LIVE on meListen and you can listen to them at https://bit.ly/CMMonMeListen or also on Spotify at https://bit.ly/CMMonSpotify.
+The 8 episodes of the podcast are now LIVE on [meListen](https://bit.ly/CMMonMeListen) and also on [Spotify](https://bit.ly/CMMonSpotify).
+
+![Alt text for image on Isomer site](/images/BeEntertained-CMMpodcast.jpg)
