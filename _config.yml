@@ -1,5 +1,5 @@
 title: TP Virtual Campus
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://virtualcampus.tp.edu.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon.png
 
 # Site colors
