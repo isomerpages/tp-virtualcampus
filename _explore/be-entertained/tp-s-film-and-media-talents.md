@@ -4,6 +4,17 @@ title: TP's Film and Media Talents
 permalink: /be-entertained/digital-film-television/
 third_nav_title: Be Entertained
 ---
+### Viddsee Juree Awards Singapore 2021: In Competition
+3 films from Temasek Polytechnic have been selected as finalists in this year's Viddsee Juree Awards Singapore 2021, an annual festival of short films that celebrates and supports filmmaker communities in Asia.
+
+**1m Apart**
+
+**Missed Calls**
+
+**Booking**
+
+Help them win by liking their videos!
+
 ### DES won at 2021 ciNE65 Movie Makers Awards
 TP Design took home the Inter-School Challenge Trophy🏆  at the 2021 ciNE65 Movie Makers Awards. Organised by Nexus, MINDEF’s national education resource arm, ciNE65 is a biennial short film competition for budding film enthusiasts to share and reflect what Singapore means to them. It also serves as a unique platform to recognise and nurture film-making talents, thereby contributing towards the development of local short films. Our students also took home the Overall Best Film🏅, Best Cinematography🏅, Best Editing🏅 and Favourite Film award🏅 for the student category! ⁣🎬
 
