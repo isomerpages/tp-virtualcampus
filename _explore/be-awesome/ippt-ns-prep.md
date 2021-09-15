@@ -6,7 +6,7 @@ third_nav_title: Be Awesome
 ---
 # IPPT Training Resources
 
-If you are medically graded PES A or B1, enjoy an additional 8 weeks of freedom if you attain 61 points or more from the three Pre-Enlistees IPPT stations (with a minimum 1 point from each station). 
+If you are medically graded PES A or B1, enjoy an additional 8 weeks of freedom if you attain 61 points or more from the three Pre-Enlistees IPPT stations (with a minimum 1 point from each station).
 
 The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week training programme to beast it up in your IPPT! Go hard or go home!
 
@@ -22,7 +22,7 @@ The Student Development & Alumni Affairs (SDAA) Department has designed a 4-week
 ### IPPT Exemption
 If you are medically graded PES B (except B1), C or E, you are not required to take the Pre-Enlistee IPPT as you go through a modified basic training programme. Thus, you do not qualify for the 8-week reduction in your full-time NS duration.
 
-Submit your IPPT exemption by clicking on this <a href="https://forms.office.com/r/rBsU2iBk0H" target="_blank">link</a>.
+Submit your [IPPT exemption](https://forms.office.com/r/rBsU2iBk0H).
 
 ---
 ### NS - How It Began vs How It's Going
@@ -38,7 +38,7 @@ Submit your IPPT exemption by clicking on this <a href="https://forms.office.com
 ---
 ### Our Singapore Armed Forces
 
-Kudos to all our NS men and women for putting themselves at the frontline and serving our Nation. Here's a video in appreciation of their efforts. 
+Kudos to all our NS men and women for putting themselves at the frontline and serving our Nation. Here's a video in appreciation of their efforts.
 
 <div class="bp-youtube">
 

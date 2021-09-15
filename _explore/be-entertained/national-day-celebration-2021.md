@@ -39,21 +39,21 @@ Check out our top 4 voted songs for tonight's National Day Concert.
 
 Fun exercises, National Day Dance Video Remix and Lucky Draw awaits you!
 
- Sign up by scanning the QR code or clicking [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&amp;qrcode=true)!
+ Sign up by scanning the QR code or [RSVP now](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328a342mpfOnpPpjmgibpAV45UMVMxUlNNUUVKSFlZVTdTS0ZEWEhaMzJSVS4u&amp;qrcode=true)!
 ![Virtual Workout](/images/BeEntertained-NDCTPSC.png)
 
 <h4>National Day Bingo Challenge by 9 August 2021, Monday -  TP Students' Union</h4>
-	
+
 ![Bingo Challenge](/images/BeEntertained-NDCTPSU1.png)
 
 **Stand a chance to win Bistro Lab vouchers!**
 
 Here is how to participate:
-	
+
 1. Head over to **[@tpsuonline](https://www.instagram.com/tpsuonline/)** on Instagram and repost the National Day Bingo Challenge after marking off the boxes that applies to you! (1 bingo = 1 entry)<br>
 
 2. Tag @tpsuonline in your story  (make sure that your account is not set as private)
-	
+
 **For additional entries:**
 
 * Follow @tpsuonline on Instagram
@@ -61,12 +61,12 @@ Here is how to participate:
 * Tag 3 friends from TP (capped at 5 entries per person)
 <br>
 
-Dateline is 9 August! 
+Dateline is 9 August!
 
 **10 lucky winners will walk away with Bistro Lab vouchers!**
 
 <h4>National Day Trivia by 9 August 2021, Monday -  TP LEAD Ambassadors</h4>
-	
+
 ![National Day Trivia](/images/BeEntertained-NDCLEAD1.png)
 
 Stand a chance to **win Bistro Lab voucher**s when you attempt the LEAD Ambassadors National Day Trivia which will be held from 4 August, till 9 August, 12pm!! 🎁🥇
@@ -87,13 +87,13 @@ Results of the winners will be released by 13 August !👀
              <td style="width:49%; vertical-align:bottom; border:none"><h4>Applied Science Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/ascsc/#ascNDC">
                     <img src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
-                    
+
                 </a>
             </td>
            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/dsc/#dscNDC">
                     <img src="{{site.baseurl}}/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
-                    
+
                 </a>
             </td>
 			</tr>
@@ -101,13 +101,13 @@ Results of the winners will be released by 13 August !👀
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Studies Club</h4>
                 <a href="{{site.baseurl}}/p10/esc/#engNDC">
                     <img src="{{site.baseurl}}/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
-                    
+
                 </a>
             </td>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Student Ambassador</h4>
                <a href="{{site.baseurl}}/interest_groups/design_ambassadors/#dsaNDC">
                     <img src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
-                    
+
                 </a>
             </td>
              </tr>
@@ -119,19 +119,19 @@ Results of the winners will be released by 13 August !👀
 ---
 <h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
 
-Cheer on our Team Singapore athletes as they prepare for the Olympics and Paralympics in Tokyo, Japan. Our athletes have invested a lot of time, effort, sweat and tears in their journey to Olympic qualification. 
+Cheer on our Team Singapore athletes as they prepare for the Olympics and Paralympics in Tokyo, Japan. Our athletes have invested a lot of time, effort, sweat and tears in their journey to Olympic qualification.
 
 **Show them some love as they do Singapore proud!**
- 
+
 **Here's how you can do it:**
 
 * Step 1: Create your well wishes message to Team Singapore. Signs should be A3 size and words should be visible on camera (Add creativity, make it fun 😂)  
 * Step 2: Film yourself with the sign for 15 seconds (Happy faces 😊)  
 * Step 3: Post your video clip on Instagram with the hashtag **#OneTeamSG #TPSupportsTeamSG; Tag @sgolympics @teamsingapore @temasekpoly**
- 
+
 Videos should be posted by **Thursday, 5 August**.
 
-Check out the video from Team Temasek! 
+Check out the video from Team Temasek!
 <div class="bp-youtube">
 
 
@@ -147,9 +147,9 @@ Check out the video from Team Temasek!
 
 Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
 
-Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—&gt; [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/)  and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
- 
-Submission due by **Tuesday, 3 August**. 
+Share with us your FAV #throwback ND moment 🎆+ what you loved most about it right here—&gt; [instagram.com/p/CR01myMHdgX](https://www.instagram.com/p/CR01myMHdgX/) and [bit.ly/TPNDG21](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328SpPXyip9RNIgWn2YZaGPP9UNERPS05QMDY5TVZFUDQ4R0JBNDlNVDQ4UC4u) and **stand a chance to win an awesome pair of JBL headphones** 🎧 ! [#TogetherOurSGSpirit](https://www.instagram.com/explore/tags/togetheroursgspirit/) [#temasekpoly](https://www.instagram.com/explore/tags/temasekpoly/)
+
+Submission due by **Tuesday, 3 August**.
 
 Results will be announced during the TP National Day Concert on 5 Aug at 7.30pm. <br>
 Stay tuned!
