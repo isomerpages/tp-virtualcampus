@@ -8,11 +8,17 @@ third_nav_title: Be Entertained
 3 films from Temasek Polytechnic have been selected as finalists in this year's Viddsee Juree Awards Singapore 2021, an annual festival of short films that celebrates and supports filmmaker communities in Asia.
 
 **1m Apart**
-<iframe width="560" height="315" src="https://www.viddsee.com/player/0r06k" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.viddsee.com/player/0r06k" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 **Missed Calls**
-<iframe width="560" height="315" src="https://www.viddsee.com/player/1jxzw" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.viddsee.com/player/1jxzw" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 **Booking**
-<iframe width="560" height="315" src="https://www.viddsee.com/player/l4b4s" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.viddsee.com/player/l4b4s" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 Help them win by liking their videos!
 
