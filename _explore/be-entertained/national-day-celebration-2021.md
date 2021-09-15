@@ -5,7 +5,7 @@ third_nav_title: Be Entertained
 ---
 ## TP National Day Celebration
 
-<h3><a id="tpndc"></a>TP National Day Concert 2021</h3>
+<h3>TP National Day Concert 2021</h3>
 
 Did you miss our #TPFAM coming together to celebrate National Day? Re-watch the concert here!
 <div class="bp-youtube">
@@ -15,7 +15,7 @@ Did you miss our #TPFAM coming together to celebrate National Day? Re-watch the 
 ---
 <h3>Check out these past activities below in the lead up to TP National Day Celebration!</h3>
 
-<h4><a id="vote"></a>Vote for Your Favourite National Day Song!</h4>
+<h4>Vote for Your Favourite National Day Song!</h4>
 
 Check out our top 4 voted songs for tonight's National Day Concert.
 
@@ -33,7 +33,7 @@ Check out our top 4 voted songs for tonight's National Day Concert.
 <a href="#top">Back to top</a>
 
 ---
-<h3><a id="cca"></a>Celebrating National Day with CCA groups</h3>
+<h3>Celebrating National Day with CCA groups</h3>
 
 <h4>Virtual workout on 7 August 2021, Saturday at 10am - TP Sports Club</h4>
 
@@ -117,7 +117,7 @@ Results of the winners will be released by 13 August !👀
 <a href="#top">Back to top</a>
 
 ---
-<h3><a id="olympics"></a>Show Some Love for Team Singapore Olympians</h3>
+<h3>Show Some Love for Team Singapore Olympians</h3>
 
 Cheer on our Team Singapore athletes as they prepare for the Olympics and Paralympics in Tokyo, Japan. Our athletes have invested a lot of time, effort, sweat and tears in their journey to Olympic qualification.
 
@@ -143,7 +143,7 @@ Check out the video from Team Temasek!
 <a href="#top">Back to top</a>
 
 ---
-<h3><a id="contest"></a>National Day Giveaway Contest</h3>
+<h3>National Day Giveaway Contest</h3>
 
 Do you remember your BEST AUG 9 MEMORY 🇸🇬✨ spending National Day (ND) outdoors/indoors, celebrating moments together with your fav bunch?
 
@@ -160,7 +160,7 @@ Stay tuned!
 
 
 ---
-<h3><a id="bistro"></a>Bistro Lab National Day Special</h3>
+<h3>Bistro Lab National Day Special</h3>
 
 ![bistro](/images/BeEntertained-NDCbistro.png)
 
