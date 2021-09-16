@@ -17,7 +17,9 @@ third_nav_title: Be Entertained
 [![Booking](/images/Booking.png)](https://www.viddsee.com/video/booking/l4b4s?channel=juree&edition=singapore2021&playlist=in-competition){:target="_blank"}{:rel="noreferrer"}
 
 
-Help them win by liking their videos!
+#### Help them win by liking their videos!
+
+---
 
 ### DES won at 2021 ciNE65 Movie Makers Awards
 TP Design took home the Inter-School Challenge Trophy🏆  at the 2021 ciNE65 Movie Makers Awards. Organised by Nexus, MINDEF’s national education resource arm, ciNE65 is a biennial short film competition for budding film enthusiasts to share and reflect what Singapore means to them. It also serves as a unique platform to recognise and nurture film-making talents, thereby contributing towards the development of local short films. Our students also took home the Overall Best Film🏅, Best Cinematography🏅, Best Editing🏅 and Favourite Film award🏅 for the student category! ⁣🎬
