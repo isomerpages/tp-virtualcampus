@@ -26,7 +26,6 @@ sections:
           url: /be-caring/caring-for-community/
   - infopic:
       title: TP National Day Celebration 2021
-      subtitle: Not to be Missed!
       description: Missed the TP National Day Concert?
       button: Catch the show here
       url: /be-entertained/tpndc
