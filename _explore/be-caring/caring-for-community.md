@@ -12,7 +12,7 @@ We have received many encouraging words from our fellow TP students in our Commu
 
 **Find Out [More](https://www.instagram.com/p/CLDrqe6n8en/){:target="_blank"}{:rel="noreferrer"}**
 
-![Listen II]({{site.baseurl}}/images/BeCaring-ListenII.png)
+![Listen II](/images/BeCaring-ListenII.png)
 
 ---
 
@@ -22,7 +22,7 @@ Calling all Pet Owners! Want to know how you can be more considerate as a pet ow
 
 **Find Out [More](https://www.instagram.com/p/CKxNsdKnVgV/){:target="_blank"}{:rel="noreferrer"}**
 
-![Love Our Animals]({{site.baseurl}}/images/BeCaring-LoveAnimals.png)
+![Love Our Animals](/images/BeCaring-LoveAnimals.png)
 
 ---
 
@@ -32,7 +32,7 @@ TP Community collectively donated more than 650 pre-loved or new educational toy
 
 **Find Out [More](https://www.instagram.com/p/CKiPt2bnMcK/){:target="_blank"}{:rel="noreferrer"}**
 
-![Toy Donation Drive]({{site.baseurl}}/images/BeCaring-ToysDonate.png)
+![Toy Donation Drive](/images/BeCaring-ToysDonate.png)
 
 
 ---
@@ -43,7 +43,7 @@ The Caring SG Commuters Campaign has launched a series of inclusivity videos tha
 
 **Find Out [More](https://www.caringcommuters.gov.sg/video){:target="_blank"}{:rel="noreferrer"}**
 
-![Caring SG Commuters]({{site.baseurl}}/images/BeCaring-CaringSGCommuters.PNG)
+![Caring SG Commuters](/images/BeCaring-CaringSGCommuters.PNG)
 
 ---
 
@@ -55,7 +55,7 @@ In total, TP Community collectively clocked in 2,647,71km which translated to 8,
 
 **Find Out [More](https://www.instagram.com/p/CKJ6ax4H6ql/){:target="_blank"}{:rel="noreferrer"}**
 
-![Walk For Rice]({{site.baseurl}}/images/BeCaring-WFR-Banner.jpg)
+![Walk For Rice](/images/BeCaring-WFR-Banner.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ In support of South East Community Development Council, [TP CSC](/p10/csc/) orga
 
 **Find Out [More](https://www.instagram.com/p/CG_fBtZHB27/){:target="_blank"}{:rel="noreferrer"}**
 
-![3M Moves]({{site.baseurl}}/images/BeCaring-3mmoves.jpg)
+![3M Moves](/images/BeCaring-3mmoves.jpg)
 
 ---
 
@@ -88,7 +88,7 @@ A total of $775 were raised for the Children's Cancer Foundation during the one 
 
 [Memoryville 2](https://www.instagram.com/p/CFCk0jln-Fc/)
 
-![Project Hope Train]({{site.baseurl}}/images/ProjectHopeTrain.jpg)
+![Project Hope Train](/images/ProjectHopeTrain.jpg)
 
 ---
 
