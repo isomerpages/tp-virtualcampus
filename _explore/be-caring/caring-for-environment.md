@@ -48,7 +48,7 @@ Pass It On Channel is a sharing channel on the TP Oei app that makes giving and 
 ### ECO Fest Campaign ###
 The inaugural ECO Fest Campaign was held with a series of interesting activities to encourage TP Community to work towards making TP a #plasticfree campus. A photo contest on 'My Eco-Friendly Life’ was held with enthusiasm from both students and staff.
 
-**Learn about the [ECO Fest Campaign]**(https://www.instagram.com/p/CCm7zaGHYBL){:target="_blank"}{:rel="noreferrer"}
+**Learn about the [ECO Fest Campaign](https://www.instagram.com/p/CCm7zaGHYBL){:target="_blank"}{:rel="noreferrer"}**
 
 ![ECO Fest Campaign](/images/EcoFest4.JPG)
 
