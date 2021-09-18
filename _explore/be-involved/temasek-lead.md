@@ -6,7 +6,7 @@ third_nav_title: Be Involved
 
 ---
 ### Temasek LEAD Summit - In Conversation With Professor Kishore Mahbubani ###
-<b>Has China Won? Implications of the China-US Relationship on Singapore</b>
+**Has China Won? Implications of the China-US Relationship on Singapore**
 
 We were honoured and delighted to have Professor Kishore Mahbubani, Distinguished Fellow at the Asia Research Institute, National University of Singapore to share with us his valuable insights on the China-US Relationship and how it affects Singapore and countries around the world.
 
@@ -27,19 +27,19 @@ Professor Mahbubani shared deep insights based on the given theme and covered th
 
 Professor Mahbubani closed up the session by sharing his thoughts on the difference in cultures across different nations and how it affects decision-making, finding a balance on individual rights and collective responsibilities, appreciation for ASEAN, and finally advice on risk taking for Singapore youth.
 
-<a href="https://youtu.be/dca3nQVgud8" target="_blank">Watch all the insightful views from Professor Mahbubani here!</a>
+[Watch all the insightful views from Professor Mahbubani here!](https://youtu.be/dca3nQVgud8){:target="_blank"}{:rel="noopener"}
 
 <table>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit1"></image>       
+        <td style="width:50%"><image src="/images/BeInvolved-LEADsummitKishore1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit1"></image>       
         </td>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit2"></image>       
+        <td style="width:50%"><image src="/images/BeInvolved-LEADsummitKishore2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit2"></image>       
         </td>
     </tr>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit3"></image>       
+        <td style="width:50%"><image src="/images/BeInvolved-LEADsummitKishore3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit3"></image>       
         </td>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEADsummitKishore4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit4"></image>       
+        <td style="width:50%"><image src="/images/BeInvolved-LEADsummitKishore4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit4"></image>       
         </td>
     </tr>
 </table>
@@ -63,9 +63,9 @@ The LEAD Induction programme was held over 5 runs for 415 LEAD students. Partici
 
 <table>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Induction1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction1"></image>       
+        <td style="width:50%"><image src="/images/BeInvolved-LEAD_Induction1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction1"></image>       
         </td>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Induction2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction2"></image>       
+        <td style="width:50%"><image src="/images/BeInvolved-LEAD_Induction2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Induction2"></image>       
         </td>
     </tr>
 </table>
@@ -76,19 +76,19 @@ The LEAD Induction programme was held over 5 runs for 415 LEAD students. Partici
 
 292 LEAD students and 75 staff from various departments attended the Temasek LEAD Heart that spanned over 2 full days on 1 & 8 October. In this run, 29 LEAD students stepped forward to co-create and co-organise the event with staff, in which they also served as facilitators in the breakout sessions.
 
-The event touched on pertinent community issues revolving around the needs and social stigma faced by ex-offenders (Beyond Second Chances), people with mental health conditions (Is It Okay Not To Be Okay), special needs (Walking with Autism), and lastly the issues on  environmental sustainability in Singapore (The Zero Waste Lifestyle - A Concept or Reality). 
+The event touched on pertinent community issues revolving around the needs and social stigma faced by ex-offenders (Beyond Second Chances), people with mental health conditions (Is It Okay Not To Be Okay), special needs (Walking with Autism), and lastly the issues on  environmental sustainability in Singapore (The Zero Waste Lifestyle - A Concept or Reality).
 
 Participants were engaged in online discussions and sharing by speakers from Singapore Prison Service, Yellow Ribbon Project, National Council of Social Services, Singapore Association of Mental Health, Youth Corps Singapore, Tzu Chi Foundation, Zero Waste SG including Mr Izad Ghalid (HSS/PSY) and 2 alumni.
 
 Based on students' feedback, the highlight of the event was the Human Library segment which allowed participants to engage the speakers more intimately in smaller groups. Our students were particularly interested in issues concerning ex-offenders and people with autism.  
 
-At the end of the event, a handful of students signed up for volunteering or student-led service project initiatives. 
+At the end of the event, a handful of students signed up for volunteering or student-led service project initiatives.
 
 <table>
     <tr>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_heart1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart1"></image>       
+        <td style="width:50%"><image src="/images/BeInvolved-lead_heart1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart1"></image>       
         </td>
-        <td style="width:50%"><image src="{{site.baseurl}}/images/BeInvolved-lead_heart2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart2"></image>       
+        <td style="width:50%"><image src="/images/BeInvolved-lead_heart2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart2"></image>       
         </td>
     </tr>
 </table>
@@ -105,11 +105,11 @@ Students were engaged in facilitated small group discussions, as well as dialogu
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        <td style="width:33%"><image src="/images/BeInvolved-LEAD_Summit_3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
         </td>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        <td style="width:33%"><image src="/images/BeInvolved-LEAD_Summit_1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
         </td>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/BeInvolved-LEAD_Summit_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
+        <td style="width:33%"><image src="/images/BeInvolved-LEAD_Summit_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit"></image>       
         </td>
     </tr>
 </table>
