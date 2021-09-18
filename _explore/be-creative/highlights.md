@@ -15,15 +15,15 @@ The I&ED team made a series of videos to encourage all of us to tap on easily ac
     </p>
 </div>
 
-**Make your own [Face Shield](https://www.facebook.com/tp.innovation.entrepreneurship/videos/658346008393190/){:target="_blank"}at home**<br>
+**Make your own [Face Shield](https://www.facebook.com/tp.innovation.entrepreneurship/videos/658346008393190/){:target="_blank"}{:rel="noreferrer"}at home**<br>
 
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Face_Shield.png)
 
-**Stitch your own [Cloth Mask](https://www.facebook.com/tp.innovation.entrepreneurship/videos/327069655053683/){:target="_blank"}**<br>
+**Stitch your own [Cloth Mask](https://www.facebook.com/tp.innovation.entrepreneurship/videos/327069655053683/){:target="_blank"}{:rel="noreferrer"}**<br>
 
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Cloth_Mask.png)
 
-**Create your own [Light Box](https://www.facebook.com/tp.innovation.entrepreneurship/videos/763892361119090){:target="_blank"}**<br>
+**Create your own [Light Box](https://www.facebook.com/tp.innovation.entrepreneurship/videos/763892361119090){:target="_blank"}{:rel="noreferrer"}**<br>
 
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Lightbox.png)
 
@@ -35,8 +35,8 @@ See what your everyday things can help you during this COVID period! In this epi
     </p>
 </div>
 
-**Click to see the first part of the [video](https://www.facebook.com/tp.innovation.entrepreneurship/videos/337288357385126/){:target="_blank"}**<br>
-**Click to see the second part of the [video](https://www.facebook.com/tp.innovation.entrepreneurship/videos/355455748987619/){:target="_blank"}**
+**Click to see the first part of the [video](https://www.facebook.com/tp.innovation.entrepreneurship/videos/337288357385126/){:target="_blank"}{:rel="noreferrer"}**<br>
+**Click to see the second part of the [video](https://www.facebook.com/tp.innovation.entrepreneurship/videos/355455748987619/){:target="_blank"}{:rel="noreferrer"}**
 
 ![Makerspace+ Home Series](/images/BeCreative-Mask.png)
 
@@ -44,11 +44,10 @@ See what your everyday things can help you during this COVID period! In this epi
 #### Entrepreneurship Appreciation Programme ####
 <div style="text-align: justify">
     <p>
-A 2-day Entrepreneurship Appreciation Programme (EAP) for you to deepen your understanding in starting a small business through various fun activities, workshops and insightful sharing by our alumnus entrepreneur! The highlight of this event is the visitation to Pollinate@BLOCK71, a joint Polytechnic start-up incubator, to observe and mingle with the incubatees there! 
+A 2-day Entrepreneurship Appreciation Programme (EAP) for you to deepen your understanding in starting a small business through various fun activities, workshops and insightful sharing by our alumnus entrepreneur! The highlight of this event is the visitation to Pollinate@BLOCK71, a joint Polytechnic start-up incubator, to observe and mingle with the incubatees there!
           </p>
 </div>
 
-**Find out [more](https://www.instagram.com/p/CFbhOE4HpLy/){:target="_blank"}**
+**Find out [more](https://www.instagram.com/p/CFbhOE4HpLy/){:target="_blank"}{:rel="noreferrer"}**
 
 ![Entrepreneurship Appreciation Programme](/images/CCA_entrepreneurship_appreciation.JPG)
-
