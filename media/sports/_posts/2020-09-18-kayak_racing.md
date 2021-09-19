@@ -6,7 +6,7 @@ permalink: /sports/kayak_racing/
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_kayak_racing.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing"></image></td>
+        <td style="width:33%"><image src="/images/CCA_kayak_racing.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing"></image></td>
         <td>
             <p>
                 Kayak racing is a water sport growing in popularity. The first kayaks were made of driftwood and animal skins by the natives of Asia and North America. Modern kayaks are made of metal, fiberglass and rubber, making them stronger, more durable and portable. TP Kayak Racing team competes in the Polytechnic-ITE (POL-ITE) Canoe Sprints and external competitions annually.<br>
@@ -34,21 +34,21 @@ permalink: /sports/kayak_racing/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COXD5nynfTS/">
-                <image src="{{site.baseurl}}/images/CCA-kayak-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <image src="/images/CCA-kayak-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
                 <h6 style="margin-top:0%">Join the TPKRT Family!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN4jOmnHPOI/">
-                <image src="{{site.baseurl}}/images/CCA-kayak-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <image src="/images/CCA-kayak-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
                 <h6 style="margin-top:0%">TP Virtual CCA Fair 2021</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CEqu73AnqGz/">
-                <image src="{{site.baseurl}}/images/CCA-Kayak_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <image src="/images/CCA-Kayak_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
                 <h6 style="margin-top:0%">Join the TP Kayak Racing team!</h6>
                 </image>
             </a>

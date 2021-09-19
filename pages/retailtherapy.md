@@ -10,7 +10,7 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="http://www.activecoolfashion.com/">
-                <image src="{{site.baseurl}}/images/MerchantRetail-ActivecoolFashion.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy1">                                       </image>
+                <image src="/images/MerchantRetail-ActivecoolFashion.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy1">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -21,7 +21,7 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://affordablewines.com.sg/">
-                <image src="{{site.baseurl}}/images/MerchantRetail-AffordableWines.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy2">                          </image>
+                <image src="/images/MerchantRetail-AffordableWines.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy2">                          </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -32,7 +32,7 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://biiltpc.com/">
-                <image src="{{site.baseurl}}/images/MerchantRetail-BIILT.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy3">                                       </image>
+                <image src="/images/MerchantRetail-BIILT.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy3">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -43,7 +43,7 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.houze.com.sg/">
-                <image src="{{site.baseurl}}/images/MerchantRetail-Houze.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy4">                                       </image>
+                <image src="/images/MerchantRetail-Houze.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy4">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -54,7 +54,7 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://klarra.com/">
-                <image src="{{site.baseurl}}/images/MerchantRetail-KLARRA.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy5">                                       </image>
+                <image src="/images/MerchantRetail-KLARRA.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy5">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -65,7 +65,7 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.retronalogue.com">
-                <image src="{{site.baseurl}}/images/MerchantRetail-Retronalogue.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy6">                                       </image>
+                <image src="/images/MerchantRetail-Retronalogue.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy6">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -76,7 +76,7 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://thekettlegourmet.com/">
-                <image src="{{site.baseurl}}/images/MerchantRetail-TheKettleGourmet.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy7">                                       </image>
+                <image src="/images/MerchantRetail-TheKettleGourmet.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy7">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -87,7 +87,7 @@ permalink: /alumni/retailtherapy/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://shop.woofwaggers.com/">
-                <image src="{{site.baseurl}}/images/MerchantRetail-WoofWaggers.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy8">                                       </image>
+                <image src="/images/MerchantRetail-WoofWaggers.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Retail Therapy8">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>

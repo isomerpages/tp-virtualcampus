@@ -7,7 +7,7 @@ permalink: /interest_groups/lead_ambassadors/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA-Lead_Ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors"></image></td>
+            <td style="width:33%"><image src="/images/CCA-Lead_Ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors"></image></td>
             <td>
                 <p>
                     The LEAD Ambassadors provides LEAD students with the following:<br>
@@ -34,21 +34,21 @@ permalink: /interest_groups/lead_ambassadors/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CMjWYqeH_oz/">
-                <image src="{{site.baseurl}}/images/CCA-la-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <image src="/images/CCA-la-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                 <h6 style="margin-top:0%">Contemporary Art Goes Online</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CNbXquQHIxN/">
-                <image src="{{site.baseurl}}/images/CCA-la-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <image src="/images/CCA-la-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                 <h6 style="margin-top:0%">TP LEAD Graduation 2021</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CO2SLjBnUeq/">
-                <image src="{{site.baseurl}}/images/CCA-la-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <image src="/images/CCA-la-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                 <h6 style="margin-top:0%">LEAD Annual General Meeting</h6>    
                 </image>
             </a>

@@ -6,14 +6,14 @@ permalink: /tsea/individual/
 ---
 
 <div style="margin:2%; text-align:center">
-    <a href="{{site.baseurl}}/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#characterexcellence" class="bp-button">Character Excellence Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#youngentrepreneur" class="bp-button">Promising Young Entrepreneur Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#communityexcellence" class="bp-button">Community Service Excellence Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#serviceexcellence" class="bp-button">Service Excellence Award</a>
-    <a href="{{site.baseurl}}/tsea/individual#outstandingcoach" class="bp-button">Outstanding Coach/Instructor Award</a>
+    <a href="/tsea/individual#ccadedication" class="bp-button">CCA Dedication Award</a>
+    <a href="/tsea/individual#outstandingcca" class="bp-button">Outstanding CCA Contributions Award</a>
+    <a href="/tsea/individual#ccagold" class="bp-button">Temasek CCA Gold Award</a>
+    <a href="/tsea/individual#characterexcellence" class="bp-button">Character Excellence Award</a>
+    <a href="/tsea/individual#youngentrepreneur" class="bp-button">Promising Young Entrepreneur Award</a>
+    <a href="/tsea/individual#communityexcellence" class="bp-button">Community Service Excellence Award</a>
+    <a href="/tsea/individual#serviceexcellence" class="bp-button">Service Excellence Award</a>
+    <a href="/tsea/individual#outstandingcoach" class="bp-button">Outstanding Coach/Instructor Award</a>
 </div>
 
 ### <a id="ccadedication"></a><b>(NEW!) CCA Dedication Award (Individual)</b>

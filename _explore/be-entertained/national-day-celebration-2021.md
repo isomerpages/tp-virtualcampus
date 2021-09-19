@@ -85,28 +85,28 @@ Results of the winners will be released by 13 August !👀
     <table>
         <tbody><tr>
              <td style="width:49%; vertical-align:bottom; border:none"><h4>Applied Science Studies Club</h4>
-                <a href="{{site.baseurl}}/p10/ascsc/#ascNDC">
-                    <img src="{{site.baseurl}}/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
+                <a href="/p10/ascsc/#ascNDC">
+                    <img src="/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
 
                 </a>
             </td>
            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Studies Club</h4>
-                <a href="{{site.baseurl}}/p10/dsc/#dscNDC">
-                    <img src="{{site.baseurl}}/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
+                <a href="/p10/dsc/#dscNDC">
+                    <img src="/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
 
                 </a>
             </td>
 			</tr>
 			<tr>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Studies Club</h4>
-                <a href="{{site.baseurl}}/p10/esc/#engNDC">
-                    <img src="{{site.baseurl}}/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
+                <a href="/p10/esc/#engNDC">
+                    <img src="/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
 
                 </a>
             </td>
             <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Student Ambassador</h4>
-               <a href="{{site.baseurl}}/interest_groups/design_ambassadors/#dsaNDC">
-                    <img src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
+               <a href="/interest_groups/design_ambassadors/#dsaNDC">
+                    <img src="/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
 
                 </a>
             </td>

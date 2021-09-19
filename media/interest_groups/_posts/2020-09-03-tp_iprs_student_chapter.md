@@ -7,7 +7,7 @@ permalink: /interest_groups/tp_iprs_student_chapter/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_tp_iprs_student_chapter.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter"></image></td>
+            <td style="width:33%"><image src="/images/CCA_tp_iprs_student_chapter.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter"></image></td>
             <td>
                 <p>
                     We are an industry-based interest group that seeks to create greater awareness of public relations and the industry among TP students. We also aim to equip TP students with the necessary public relations skills and provide opportunities for exposure to the industry through mentorship programmes and talks.<br>
@@ -34,21 +34,21 @@ permalink: /interest_groups/tp_iprs_student_chapter/
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CORqP3JHVax/">
-                    <image src="{{site.baseurl}}/images/CCA-tpiprs-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
+                    <image src="/images/CCA-tpiprs-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
                     <h6 style="margin-top:0%">Join us as TPIPRS exco</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CORZvHandCO/">
-                    <image src="{{site.baseurl}}/images/CCA-tpiprs-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
+                    <image src="/images/CCA-tpiprs-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
                     <h6 style="margin-top:0%">4 reasons to join TP-IPRS</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CEtD4vuHfEX/">
-                    <image src="{{site.baseurl}}/images/CCA-tpiprs_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
+                    <image src="/images/CCA-tpiprs_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
                     <h6 style="margin-top:0%">Happy Teachers' Day!</h6>
                     </image>
                 </a>

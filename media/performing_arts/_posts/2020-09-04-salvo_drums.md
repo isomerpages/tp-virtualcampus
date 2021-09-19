@@ -7,7 +7,7 @@ permalink: /performing_arts/salvo_drums/
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_salvo_drums.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums"></image></td>
+        <td style="width:33%"><image src="/images/CCA_salvo_drums.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums"></image></td>
         <td>
             <p>
                 The Salvo Drums brings to life any stage with their performances using the world’s most ancient instrument – the drum, specifically, the 24-season drums. Teamwork, with disciplined training, plays a vital role for the drummers in displaying their powerful percussive strokes in choreographed synchronised movements. Salvo Drums has also experimented through a variety of themes to enhance the vibrancy and creativity of its performances, immersing the audience with different experiences.<br>
@@ -41,21 +41,21 @@ permalink: /performing_arts/salvo_drums/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COW0iWgn-Kj/">
-                <image src="{{site.baseurl}}/images/CCA-sd-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
+                <image src="/images/CCA-sd-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
                 <h6 style="margin-top:0%">Introductory Workshop</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COW0XWYnpxM/">
-                <image src="{{site.baseurl}}/images/CCA-sd-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
+                <image src="/images/CCA-sd-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
                 <h6 style="margin-top:0%">Introducing Main Committee AY21/22</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CJutTnDHzfB/">
-                <image src="{{site.baseurl}}/images/CCA-Salvo_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
+                <image src="/images/CCA-Salvo_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
                 <h6 style="margin-top:0%">Home of the Arts. Join Our Squad!</h6>
                 </image>
             </a>

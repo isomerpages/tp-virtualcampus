@@ -6,7 +6,7 @@ permalink: /sports/field_hockey/
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_field_hockey.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></image></td>
+        <td style="width:33%"><image src="/images/CCA_field_hockey.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></image></td>
         <td>
             <p>
                 Field hockey is played on natural grass and artificial turf with a small, hard ball. The game is popular in numerous parts of the world, particularly in Europe, Asia, Australia and New Zealand. In Singapore, the sport is very well supported at the secondary and tertiary levels. TP Hockey teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) Hockey Games annually.<br>
@@ -35,21 +35,21 @@ permalink: /sports/field_hockey/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COKKODJnpLf/">
-                <image src="{{site.baseurl}}/images/CCA-fh-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <image src="/images/CCA-fh-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
                 <h6 style="margin-top:0%">Join Men’s Hockey Team!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COKKDhNHNWx/">
-                <image src="{{site.baseurl}}/images/CCA-fh-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <image src="/images/CCA-fh-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
                 <h6 style="margin-top:0%">Join TP Women’s Hockey Team!</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CAFyWQKBC9t/">
-                <image src="{{site.baseurl}}/images/CCA-Hockey_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <image src="/images/CCA-Hockey_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
                 <h6 style="margin-top:0%">Join the TP Hockey Family!</h6>
                 </image>
             </a>

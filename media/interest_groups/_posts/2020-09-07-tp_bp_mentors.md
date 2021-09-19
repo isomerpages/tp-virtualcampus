@@ -7,7 +7,7 @@ permalink: /interest_groups/tp_bp_mentors/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_tp_bp_mentors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentors"></image></td>
+            <td style="width:33%"><image src="/images/CCA_tp_bp_mentors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentors"></image></td>
             <td>
                 <p>
                     TP-BP Mentors is a group of students who are passionate about sharing their knowledge and facilitating the learning of the younger children. They currently provide weekly tutoring sessions to children in the schools and family service centres under the worldwide BP (British Petroleum) International Mentoring initiative. Besides this, they also organise interactive games and activities for the children to build their self-esteem and instill confidence in them.<br>
@@ -31,21 +31,21 @@ permalink: /interest_groups/tp_bp_mentors/
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CAHTnmHHBcb/">
-                    <image src="{{site.baseurl}}/images/CCA-tpbpmentoring_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
+                    <image src="/images/CCA-tpbpmentoring_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
                     <h6 style="margin-top:0%">Recruitment is here!</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CBnvRLRHWnx/">
-                    <image src="{{site.baseurl}}/images/CCA-tpbpmentoring_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
+                    <image src="/images/CCA-tpbpmentoring_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
                     <h6 style="margin-top:0%">Interviews are over!</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CCC9pjrn866/">
-                    <image src="{{site.baseurl}}/images/CCA-tpbpmentoring_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
+                    <image src="/images/CCA-tpbpmentoring_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-BP Mentoring">
                     <h6 style="margin-top:0%">Results are out!</h6>
                     </image>
                 </a>

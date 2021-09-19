@@ -6,7 +6,7 @@ permalink: /sports/wakeboarding/
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_wakeboarding.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding"></image></td>
+        <td style="width:33%"><image src="/images/CCA_wakeboarding.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding"></image></td>
         <td>
             <p>
                 Towed by a motorboat, a wakeboarder rides a wakeboard over the surface of a body of water. It combines water skiing, snow boarding and surfing techniques. In competitive wakeboarding, the athlete performs a variety of tricks with names, ranging from the Moby Dick to the Scarecrow.<br>
@@ -28,21 +28,21 @@ permalink: /sports/wakeboarding/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/tv/COJ7bdXn7kk/">
-                <image src="{{site.baseurl}}/images/CCA-wb-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
+                <image src="/images/CCA-wb-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
                 <h6 style="margin-top:0%">Join TP Wakeboard!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CB2esdHnnUE/">
-                <image src="{{site.baseurl}}/images/CCA-Wakeboarding_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
+                <image src="/images/CCA-Wakeboarding_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
                 <h6 style="margin-top:0%">Wakeboarding athlete feature</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/B_RoY1sH_-I/">
-                <image src="{{site.baseurl}}/images/CCA-Wakeboarding_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
+                <image src="/images/CCA-Wakeboarding_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
                 <h6 style="margin-top:0%">Introduction to TP Wakeboarding</h6>
                 </image>
             </a>

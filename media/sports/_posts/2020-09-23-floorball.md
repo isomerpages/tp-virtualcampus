@@ -6,7 +6,7 @@ permalink: /sports/floorball/
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_floorball.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball"></image></td>
+        <td style="width:33%"><image src="/images/CCA_floorball.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball"></image></td>
         <td>
             <p>
                 Developed in Scandinavia in the 1970s, floorball is a fast-paced sport played indoors with ’plastic’ sticks and a ball. Playing the stick above the waist is also against the rules, making it a relatively safe sport. Each game comprises three periods of 15 minutes and involves five players and a goalkeeper with rotating substitutions. TP Floorball teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Floorball Games annually.<br>
@@ -38,21 +38,21 @@ permalink: /sports/floorball/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN4VxEshY-7">
-                <image src="{{site.baseurl}}/images/CCA-floorball-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
+                <image src="/images/CCA-floorball-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
                 <h6 style="margin-top:0%">Temasek Polytechnic Women’s Floorball Recruitment</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN4U76whgVh">
-                <image src="{{site.baseurl}}/images/CCA-floorball-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
+                <image src="/images/CCA-floorball-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
                 <h6 style="margin-top:0%">Temasek Polytechnic Men’s Floorball Recruitment</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/B_47XJuBM8X/">
-                <image src="{{site.baseurl}}/images/CCA-Floorball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
+                <image src="/images/CCA-Floorball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
                 <h6 style="margin-top:0%">Join the TP Floorball Family!</h6>
                 </image>
             </a>

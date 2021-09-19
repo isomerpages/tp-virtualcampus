@@ -10,7 +10,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://botart.sg/">
-                <image src="{{site.baseurl}}/images/MerchantDining-Botart.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights1">                                       </image>
+                <image src="/images/MerchantDining-Botart.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights1">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -21,7 +21,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://brotherbird.sg/">
-                <image src="{{site.baseurl}}/images/MerchantDining-BrotherbirdCoffeeHouse.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights2">                          </image>
+                <image src="/images/MerchantDining-BrotherbirdCoffeeHouse.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights2">                          </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -32,7 +32,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/elevenstrands/">
-                <image src="{{site.baseurl}}/images/MerchantDining-ElevenStrands.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights3">                                       </image>
+                <image src="/images/MerchantDining-ElevenStrands.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights3">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -43,7 +43,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="http://fatcat.sg/">
-                <image src="{{site.baseurl}}/images/MerchantDining-FatcatIceCreamBar.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights4">                                       </image>
+                <image src="/images/MerchantDining-FatcatIceCreamBar.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights4">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -54,7 +54,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.hatterstreet.com/">
-                <image src="{{site.baseurl}}/images/MerchantDining-HatterStreetBakehouseCafe.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights5">                                       </image>
+                <image src="/images/MerchantDining-HatterStreetBakehouseCafe.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights5">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -65,7 +65,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.lauwangclaypot.com/">
-                <image src="{{site.baseurl}}/images/MerchantDining-LauWangClaypotDelights.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights6">                                       </image>
+                <image src="/images/MerchantDining-LauWangClaypotDelights.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights6">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -76,7 +76,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.oneprawnnoodle.com/">
-                <image src="{{site.baseurl}}/images/MerchantDining-OnePrawnNoodle.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights7">                                       </image>
+                <image src="/images/MerchantDining-OnePrawnNoodle.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights7">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -87,7 +87,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/southunionpark/">
-                <image src="{{site.baseurl}}/images/MerchantDining-SouthUnionPark.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights8">                                       </image>
+                <image src="/images/MerchantDining-SouthUnionPark.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights8">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -98,7 +98,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/the.burning.oak.singapore/">
-                <image src="{{site.baseurl}}/images/MerchantDining-TheBurningOak.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights9">                                       </image>
+                <image src="/images/MerchantDining-TheBurningOak.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights9">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -109,7 +109,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://thepopulus.cafe/">
-                <image src="{{site.baseurl}}/images/MerchantDining-ThePopulusCoffeeFood.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights10">                                       </image>
+                <image src="/images/MerchantDining-ThePopulusCoffeeFood.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights10">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>

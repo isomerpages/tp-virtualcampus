@@ -7,7 +7,7 @@ permalink: /performing_arts/dance_ensemble/
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_dance_ensemble.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble"></image></td>
+        <td style="width:33%"><image src="/images/CCA_dance_ensemble.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble"></image></td>
         <td>
             <p>
                 TP Dance Ensemble (TPDE) comprises 3 main dance genres; Hip Hop, Modern Dance & Breakin’. Modern Dance is a dance form developed from classical ballet in the early 20th century, shedding the classical ballet technique, costume and shoes. Hip Hop is a popular dance style involving energetic & funky street dance. Breakin’ includes a multitude of different floorwork & explosive movements. Dance Ensemble’s Hip Hop, Modern Dance & Breakin’ are under the tutelage of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.<br>
@@ -45,21 +45,21 @@ permalink: /performing_arts/dance_ensemble/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COhwxBzHu4D/">
-                <image src="{{site.baseurl}}/images/CCA-tpde-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <image src="/images/CCA-tpde-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                 <h6 style="margin-top:0%">TPDE Auditions 2021</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CNkb4cRH3UO/">
-                <image src="{{site.baseurl}}/images/CCA-tpde-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <image src="/images/CCA-tpde-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                 <h6 style="margin-top:0%">PLAY: "PRESENT"</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CNjvQDpn4el/">
-                <image src="{{site.baseurl}}/images/CCA-tpde-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <image src="/images/CCA-tpde-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                 <h6 style="margin-top:0%">PLAY: "MAYAN"</h6>    
                 </image>
             </a>

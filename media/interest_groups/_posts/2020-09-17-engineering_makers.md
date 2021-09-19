@@ -7,7 +7,7 @@ permalink: /interest_groups/engineering_makers/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_engmakers1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></image></td>
+            <td style="width:33%"><image src="/images/CCA_engmakers1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></image></td>
             <td>
                 <p>
                     Engineering (ENG) Makers Group aims to develop creativity in students and student maker coaches by conducting various hands-on workshops to teach participants designing and/or making DIY products. It conducts outreach activities and workshops at secondary schools.<br>
@@ -29,21 +29,21 @@ permalink: /interest_groups/engineering_makers/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COhvLxfHEvM/">
-                <image src="{{site.baseurl}}/images/CCA-emg-ig3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
+                <image src="/images/CCA-emg-ig3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
                 <h6 style="margin-top:0%">Join us in our loT Workshop!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/B78VXR2nz_Z/">
-                <image src="{{site.baseurl}}/images/CCA_engmakers2.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
+                <image src="/images/CCA_engmakers2.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
                 <h6 style="margin-top:0%">Design & Mill Printed Circuit Boards</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/B7D1pyZHjv8/">
-                <image src="{{site.baseurl}}/images/CCA_engmakers3.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
+                <image src="/images/CCA_engmakers3.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
                 <h6 style="margin-top:0%">In-house Designed Go-Kart</h6>
                 </image>
             </a>

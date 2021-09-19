@@ -13,10 +13,10 @@ It was definitely an enriching and inspiring session for the students, and a hea
     <table>
         <tr>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_IIT1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IIT alumni">                                       </image>
+                    <image src="/images/BeConnected_buzz_IIT1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IIT alumni">                                       </image>
             </td>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_IIT2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IIT alumni">
+                    <image src="/images/BeConnected_buzz_IIT2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IIT alumni">
                     </image>
             </td>
          </tr>

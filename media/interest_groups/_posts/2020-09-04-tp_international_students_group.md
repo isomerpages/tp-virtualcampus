@@ -7,7 +7,7 @@ permalink: /interest_groups/tp_international_students_group/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_tp_international_students_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group"></image></td>
+            <td style="width:33%"><image src="/images/CCA_tp_international_students_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group"></image></td>
             <td>
                 <p>
                     Temasek Polytechnic International Students Group (TPISG) is a student interest group under the International Students Office to meet the Emotional, Social and Practical Needs of our international students and helping them to integrate in the local community. Regular programmes for international and local students are organised to promote friendship, greater awareness and understanding of different countries and their cultures. If you are interested in making friends and engaging with our international and local students through an exciting range of programmes to raise awareness of the rich cultural diversity in TP, join us!<br>
@@ -46,21 +46,21 @@ permalink: /interest_groups/tp_international_students_group/
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CPAzcyPnBlI/">
-                    <image src="{{site.baseurl}}/images/CCA-tpisg-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
+                    <image src="/images/CCA-tpisg-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
                     <h6 style="margin-top:0%">Introducing Main Committee AY21/22</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/COQGStnHLTC/">
-                    <image src="{{site.baseurl}}/images/CCA-tpisg-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
+                    <image src="/images/CCA-tpisg-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
                     <h6 style="margin-top:0%">Philippines-Singapore Students E-xchange Programme </h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CFcF7NjH5dE/">
-                    <image src="{{site.baseurl}}/images/CCA-tpisg_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
+                    <image src="/images/CCA-tpisg_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
                     <h6 style="margin-top:0%">DIY Pilot Programme</h6>
                     </image>
                 </a>

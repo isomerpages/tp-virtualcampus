@@ -7,7 +7,7 @@ permalink: /interest_groups/project_innov8/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></image></td>
+            <td style="width:33%"><image src="/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></image></td>
             <td>
                 <p>
                     It is about cultivating innovation culture among TP students, from all schools. Project Innov8 strives in sparking creativity, transformative thinking, collaboration, turning ideas into valued reality that will impact learning journey and society. Activities range from simple, fun to challenging, complex, real life innovation yet allow creative expression towards value creation without worry of failure.<br>
@@ -31,21 +31,21 @@ permalink: /interest_groups/project_innov8/
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CN6LGlDnI5s/">
-                    <image src="{{site.baseurl}}/images/CCA-pi8-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <image src="/images/CCA-pi8-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">KIN, A wallet created by local designers</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/COOlFeIng7C/">
-                    <image src="{{site.baseurl}}/images/CCA-pi8-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <image src="/images/CCA-pi8-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">Join us!</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CKK7hu6H0w-/">
-                    <image src="{{site.baseurl}}/images/CCA-projectinnov8_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <image src="/images/CCA-projectinnov8_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">Project Pouch Collaboration</h6>
                     </image>
                 </a>
