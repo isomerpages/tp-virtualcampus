@@ -29,7 +29,7 @@ Opening hours: Mon – Fri (8.30 – 5.30 pm) (closed on Weekends & Public Holid
 ---
 ## <a id="AIchatbot"></a>AI Wellness Chatbot
 
-A wellness chatbot to help you to feel good about yourself while broadening your coping repertoire. Being a virtual coach, Wysa listens without any judgement. [Download](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328SjRz33NBKRCtD9jL8F2z3hUM0JIVkxEWlE2WDlES0pMMExPU05ZM0NUSi4u){:target="_blank"}{:rel="noreferrer"} the Wysa App!
+A wellness chatbot to help you to feel good about yourself while broadening your coping repertoire. Being a virtual coach, Wysa listens without any judgement. [Download](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328SjRz33NBKRCtD9jL8F2z3hUM0JIVkxEWlE2WDlES0pMMExPU05ZM0NUSi4u){:target="_blank"}{:rel="noopener"} the Wysa App!
 
 ![Wysa AI Chatbot](/images/BeAwesome-WYSA.JPG)
 
@@ -37,8 +37,8 @@ A wellness chatbot to help you to feel good about yourself while broadening your
 ## <a id="resources"></a>Resources
 * Support your friends using 3Ls
 	* Look-Listen-Link
-* Learn the three simple [steps](https://drive.google.com/file/d/1aM-MNicYy7pk9SYWroed9vCzDIlxznf3/view){:target="_blank"}{:rel="noreferrer"} to support your peers-in-distress.
-* A collection of published [e-articles](https://drive.google.com/drive/folders/1hiDBwadgy7YTYyf4z4UdWwNH2DcgsZZs){:target="_blank"}{:rel="noreferrer"} containing tips and advice on building resilience.
+* Learn the three simple [steps](https://drive.google.com/file/d/1aM-MNicYy7pk9SYWroed9vCzDIlxznf3/view){:target="_blank"}{:rel="noopener"} to support your peers-in-distress.
+* A collection of published [e-articles](https://drive.google.com/drive/folders/1hiDBwadgy7YTYyf4z4UdWwNH2DcgsZZs){:target="_blank"}{:rel="noopener"} containing tips and advice on building resilience.
 
 ---
 ## <a id="programmes"></a>Programmes

@@ -7,13 +7,13 @@ third_nav_title: Be Entertained
 ### Take The Stage! - Watch these Arts CCA Online Concerts
 Come witness the vibrancy and energy of 14 of the finest [Performing Arts Groups](/be-involved/performing-arts/) in TP with these specially curated videos!
 
-[![Arts CCA Concerts](/images/BeEntertained-TACOHvideo.PNG)](https://www.youtube.com/watch?v=PtGvShau2jI&feature=youtu.be){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noreferrer"}
+[![Arts CCA Concerts](/images/BeEntertained-TACOHvideo.PNG)](https://www.youtube.com/watch?v=PtGvShau2jI&feature=youtu.be){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
 
 ---
 ### Temasek Arts Centre Virtual Tour - Training in Progress
 Are you curious to know how the arts CCAs train at the Temasek Arts Centre to achieve their high energy performances, and make wonderful new friends? Catch this!
 
-[![TAC Virtual Tour](/images/BeEntertained-TACVirtualTour.PNG)](https://www.youtube.com/watch?v=RTeCCLhEA1E&feature=youtu.be){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noreferrer"}
+[![TAC Virtual Tour](/images/BeEntertained-TACVirtualTour.PNG)](https://www.youtube.com/watch?v=RTeCCLhEA1E&feature=youtu.be){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
 
 ---
 ## Electric Dreams - Online Concert
@@ -41,15 +41,15 @@ See what goes behind the scenes of TP's [Performing Arts Groups](/be-involved/pe
 </div>
 
 ---
-[![Dance Ensemble](/images/BeEntertained-TAC-DE.JPG)](https://www.youtube.com/watch?v=XVK6czhYq4A){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noreferrer"}
+[![Dance Ensemble](/images/BeEntertained-TAC-DE.JPG)](https://www.youtube.com/watch?v=XVK6czhYq4A){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
 
 -----
 
-[![Malay Dance](/images/BeEntertained-TAC-MDG.JPG)](https://www.youtube.com/watch?v=tDpTjwGP8v8){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noreferrer"}
+[![Malay Dance](/images/BeEntertained-TAC-MDG.JPG)](https://www.youtube.com/watch?v=tDpTjwGP8v8){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
 
 ---
 
-To see more videos like this, subscribe to the Temasek Arts Centre [YouTube channel](https://www.youtube.com/c/TemasekArtsCentre/videos){:target="_blank"}{:rel="noreferrer"}!
+To see more videos like this, subscribe to the Temasek Arts Centre [YouTube channel](https://www.youtube.com/c/TemasekArtsCentre/videos){:target="_blank"}{:rel="noopener"}!
 
 ### Wanna see events held in TP? Check them out here!
-[![DMPC](/images/DMPCBanner.jpg)](https://www.flickr.com/photos/digitalmediacrewtp/albums){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noreferrer"}
+[![DMPC](/images/DMPCBanner.jpg)](https://www.flickr.com/photos/digitalmediacrewtp/albums){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}

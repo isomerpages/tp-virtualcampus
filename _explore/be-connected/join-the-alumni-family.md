@@ -16,7 +16,7 @@ Available for all full-time and part-time graduates, you will get to enjoy **fre
 
 App members can look forward to a suite of benefits, privileges and services, including access to exclusive merchant deals/offers, as well as the booking of selected facilities on campus for recreational use.  
 
-Don’t miss out on these great deals! Update your particulars with us here [NOW](https://form.gov.sg/#!/5eec8b9da56c390011f8583d){:target="_blank"}{:rel="noreferrer"} to enjoy access to the app!
+Don’t miss out on these great deals! Update your particulars with us here [NOW](https://form.gov.sg/#!/5eec8b9da56c390011f8583d){:target="_blank"}{:rel="noopener"} to enjoy access to the app!
 
 <i>(*Details of how to download and activate your TP Oei app will be released in due course. Stay tuned for more updates!)</i>
 

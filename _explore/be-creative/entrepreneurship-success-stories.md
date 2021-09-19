@@ -12,7 +12,7 @@ Over the years, TP has produced many successful entrepreneurs. View the stories 
           </p>
 </div>      
 
-[![BOLD](/images/BOLD.jpg)](https://www.tp.edu.sg/content/dam/tp-web/files/flipbook/BOLD/index.html){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noreferrer"}
+[![BOLD](/images/BOLD.jpg)](https://www.tp.edu.sg/content/dam/tp-web/files/flipbook/BOLD/index.html){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
 
 ### BOLD 2
-[![BOLD 2](/images/BOLD2.jpg)](https://www.tp.edu.sg/content/dam/tp-web/files/flipbook/BOLD2/index.html){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noreferrer"}
+[![BOLD 2](/images/BOLD2.jpg)](https://www.tp.edu.sg/content/dam/tp-web/files/flipbook/BOLD2/index.html){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
