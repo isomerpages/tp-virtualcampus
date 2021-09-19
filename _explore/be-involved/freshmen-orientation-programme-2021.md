@@ -6,7 +6,7 @@ third_nav_title: Be Involved
 ---
 <div style="margin:2%; text-align:center">
      <a href="/be-involved/freshmenorientation/#spectacular" class="bp-button">Temasek Spectacular</a>
-    <a href="/be-involved/diploma_interest_groups#friendshipgames" class="bp-button">Temasek Friendship Games</a>
+    <a href="/be-involved/freshmenorientation#friendshipgames" class="bp-button">Temasek Friendship Games</a>
 </div>
 
 ---
