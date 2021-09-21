@@ -7,7 +7,7 @@ permalink: /interest_groups/senvocates/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA-SENvocates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></image></td>
+            <td style="width:33%"><image src="/images/CCA-SENvocates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></image></td>
             <td>
                 <p>
                     SENvocates is a CCA interest group dedicated to:<br>
@@ -38,14 +38,14 @@ permalink: /interest_groups/senvocates/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COSg2RKrJ5z/">
-                <image src="{{site.baseurl}}/images/CCA-SEN-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
+                <image src="/images/CCA-SEN-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
                 <h6 style="margin-top:0%">Join us!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COC4XUTrgRW/">
-                <image src="{{site.baseurl}}/images/CCA-SEN-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
+                <image src="/images/CCA-SEN-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
                 <h6 style="margin-top:0%">Introducing SENvocates!</h6>    
                 </image>
             </a>

@@ -6,7 +6,7 @@ permalink: /interest_groups/design_ambassadors/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors"></image></td>
+            <td style="width:33%"><image src="/images/CCA_design_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors"></image></td>
             <td>
                 <p>
                     The Design Student Ambassadors are the face and voice of our School of Design student body. They represent our student body in all outward facing events and activities such as Open House, Design Show, Graduation Show, Outreach programmes etc. They help to usher, guide and lead school tours too.<br>
@@ -40,14 +40,14 @@ Watch our Design Student Ambassadors' well wishes to Singapore's Birthday!
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/tv/CKYYnKMnLfl/">
-                    <image src="{{site.baseurl}}/images/CCA-dsa-ig2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
+                    <image src="/images/CCA-dsa-ig2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
                     <h6 style="margin-top:0%">A Day in the Life of a Design Student</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CCANOWKnJ0C/">
-                    <image src="{{site.baseurl}}/images/CCA-dsa_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
+                    <image src="/images/CCA-dsa_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
                     <h6 style="margin-top:0%">Recruitment results are out!</h6>
                     </image>
                 </a>

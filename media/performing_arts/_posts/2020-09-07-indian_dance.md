@@ -7,7 +7,7 @@ permalink: /performing_arts/indian_dance/
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_indian_dance.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Indian Dance"></image></td>
+        <td style="width:33%"><image src="/images/CCA_indian_dance.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Indian Dance"></image></td>
         <td>
             <p>
                 Temasek Polytechnic (TP) Indian Dance Group (IDG) trains in the various dance forms such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance forms. IDG's members do their own choreography and have been featured at various major events. IDG promotes and showcases its colourful and enthralling dance forms and charming performances, leaving the audience asking for more.<br>
@@ -45,21 +45,21 @@ permalink: /performing_arts/indian_dance/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COkP8QDFDLR/">
-                <image src="{{site.baseurl}}/images/CCA-id-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <image src="/images/CCA-id-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">Introducing Main Committee AY21/22</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CNm9OEQlxLQ/">
-                <image src="{{site.baseurl}}/images/CCA-id-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <image src="/images/CCA-id-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">AARUYIRE, A Tale of New Beginning</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN6Kguigkq5/">
-                <image src="{{site.baseurl}}/images/CCA-id-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <image src="/images/CCA-id-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">TP Virtual CCA Fair 2021</h6>    
                 </image>
             </a>

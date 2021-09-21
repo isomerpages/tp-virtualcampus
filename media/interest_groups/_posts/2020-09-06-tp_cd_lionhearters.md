@@ -7,7 +7,7 @@ permalink: /interest_groups/tp_cd_lionhearters/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_tp_cd_lionhearters.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters"></image></td>
+            <td style="width:33%"><image src="/images/CCA_tp_cd_lionhearters.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters"></image></td>
             <td>
                 <p>
                     The Civil Defence (CD) Lionhearters Club members are youth volunteers under the Singapore Civil Defence Force. This groups provides an avenue for tertiary students to be engaged in civil defence, emergency preparedness and humanitarian missions. Some of the activities that members can look forward to include:<br>
@@ -40,21 +40,21 @@ permalink: /interest_groups/tp_cd_lionhearters/
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/COZLgOVHyAc/">
-                    <image src="{{site.baseurl}}/images/CCA-cd-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <image src="/images/CCA-cd-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
                     <h6 style="margin-top:0%">Main Committee Recruitment AY21/22</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CG0BAO8nS_w/">
-                    <image src="{{site.baseurl}}/images/CCA-cd-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <image src="/images/CCA-cd-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
                     <h6 style="margin-top:0%">Fire safety and First Aid Kit in Quiz 5 </h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CF08RMTnGPR">
-                    <image src="{{site.baseurl}}/images/CCA-cd-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <image src="/images/CCA-cd-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
                     <h6 style="margin-top:0%">Respiratory Problems and Burn Injuries in Quiz 4</h6>
                     </image>
                 </a>

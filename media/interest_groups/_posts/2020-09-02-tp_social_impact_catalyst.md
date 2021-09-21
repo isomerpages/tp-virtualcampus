@@ -7,7 +7,7 @@ permalink: /interest_groups/tp_social_impact_catalyst/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_tp_social_impact_catalyst.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst"></image></td>
+            <td style="width:33%"><image src="/images/CCA_tp_social_impact_catalyst.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst"></image></td>
             <td>
                 <p>
                     TP-SIC aims to catalyse young leaders of tomorrow through entrepreneurship and innovation to build impactful and sustainable solutions for the world.<br>
@@ -42,21 +42,21 @@ permalink: /interest_groups/tp_social_impact_catalyst/
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CO9Z6EWnu7P/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsic-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
+                    <image src="/images/CCA-tpsic-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
                     <h6 style="margin-top:0%">Virtual Sustainability Competition</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/COhpkp9H6kG/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsic-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
+                    <image src="/images/CCA-tpsic-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
                     <h6 style="margin-top:0%">Recruitment Drive AY21/22</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CONLPHBnxM2/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsic-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
+                    <image src="/images/CCA-tpsic-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
                     <h6 style="margin-top:0%">Interested in joining TPSIC?</h6>
                     </image>
                 </a>

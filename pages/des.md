@@ -15,19 +15,19 @@ The next time you swing by DES, remember to pose for your #OOTDs against these l
     <table>
         <tr>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_DES1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES Murals 1">                                       </image>
+                    <image src="/images/BeConnected_buzz_DES1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES Murals 1">                                       </image>
             </td>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_DES2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES Murals 2">
+                    <image src="/images/BeConnected_buzz_DES2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES Murals 2">
                     </image>
             </td>
          </tr>
       <tr>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_DES3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES Murals 3">                                       </image>
+                    <image src="/images/BeConnected_buzz_DES3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES Murals 3">                                       </image>
             </td>
             <td style="width:49%"><br>
-                    <image src="{{site.baseurl}}/images/BeConnected_buzz_DES4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES Murals 4">
+                    <image src="/images/BeConnected_buzz_DES4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES Murals 4">
                     </image>
             </td>
          </tr>

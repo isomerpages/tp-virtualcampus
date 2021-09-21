@@ -7,7 +7,7 @@ permalink: /interest_groups/tp_spirit_of_enterprise/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_tp_spirit_of_enterprise.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></image></td>
+            <td style="width:33%"><image src="/images/CCA_tp_spirit_of_enterprise.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></image></td>
             <td>
                 <p>
                     TP-Spirit Of Enterprise (SOE) Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
@@ -38,21 +38,21 @@ permalink: /interest_groups/tp_spirit_of_enterprise/
         <tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/COr-HckhYIp/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
+                    <image src="/images/CCA-tpsoe-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
                     <h6 style="margin-top:0%">SOE-TP Student Chapter Recruitment</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CFRKruAl7DI/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
+                    <image src="/images/CCA-tpsoe_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
                     <h6 style="margin-top:0%">Interested in growing your business?</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CDQDMP8laua/">
-                    <image src="{{site.baseurl}}/images/CCA-tpsoe_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
+                    <image src="/images/CCA-tpsoe_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
                     <h6 style="margin-top:0%">Thanks for attending the webinar</h6>
                     </image>
                 </a>

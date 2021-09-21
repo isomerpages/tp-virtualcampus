@@ -7,7 +7,7 @@ permalink: /interest_groups/japanese_cultural_group/
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_japanese_cultural_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group"></image></td>
+            <td style="width:33%"><image src="/images/CCA_japanese_cultural_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group"></image></td>
             <td>
                 <p>
                     At Japanese Cultural Group, we promote Japanese culture and inculcate life skills such as cooking, events management and people management, in a fun and interactive way. Our activities are wide and varied in areas such as Anime and Manga, Arts and Entertainment, Cuisine, Publicity and Research. There is certainly something for you with our numerous unique events and weekly sessions.<br>
@@ -36,21 +36,21 @@ permalink: /interest_groups/japanese_cultural_group/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COvHqheHE0t/">
-                <image src="{{site.baseurl}}/images/CCA-jcg-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <image src="/images/CCA-jcg-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
                 <h6 style="margin-top:0%">Life after JCG</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CKqdD-JnTL3/">
-                <image src="{{site.baseurl}}/images/CCA-jcg-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <image src="/images/CCA-jcg-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
                 <h6 style="margin-top:0%">Japanese Melon</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CGulRHBnArY/">
-                <image src="{{site.baseurl}}/images/CCA_jcg_summer.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <image src="/images/CCA_jcg_summer.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
                 <h6 style="margin-top:0%">Japanese Summer Festival</h6>
                 </image>
             </a>

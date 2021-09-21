@@ -6,7 +6,7 @@ permalink: /sports/triathlon/
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_triathlon.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon"></image></td>
+        <td style="width:33%"><image src="/images/CCA_triathlon.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon"></image></td>
         <td>
             <p>
                 Triathlon is a multi-sport event with three continuous endurance components. The most common are swimming, cycling and running over various distances. Triathletes compete for the fastest overall completion time. TP Triathlon team competes in external competitions annually.<br>
@@ -32,21 +32,21 @@ permalink: /sports/triathlon/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN9pVtanc1R">
-                <image src="{{site.baseurl}}/images/CCA-triathlon-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
+                <image src="/images/CCA-triathlon-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
                 <h6 style="margin-top:0%">Recruitment Drive 2021 – TP Triathlon</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CAFCC7gH1FC/">
-                <image src="{{site.baseurl}}/images/CCA-Triathlon_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
+                <image src="/images/CCA-Triathlon_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
                 <h6 style="margin-top:0%">Join the TP Triathlon Family!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CACH8TNHeIh/">
-                <image src="{{site.baseurl}}/images/CCA-Triathlon_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
+                <image src="/images/CCA-Triathlon_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
                 <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Triathlon</h6>
                 </image>
             </a>

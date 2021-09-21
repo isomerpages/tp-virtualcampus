@@ -10,7 +10,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.adlerhostel.com/">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-AdlerHostel.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle1">                                       </image>
+                <image src="/images/MerchantLifetyle-AdlerHostel.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle1">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -21,7 +21,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.asmara.sg/">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-Asmara.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle2">                          </image>
+                <image src="/images/MerchantLifetyle-Asmara.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle2">                          </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -32,7 +32,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="http://www.believermusic.com">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-BelieverMusic.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle3">                                       </image>
+                <image src="/images/MerchantLifetyle-BelieverMusic.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle3">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -43,7 +43,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://dancersdreamstudio.com/">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-DancerDreamStudio.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle4">                                       </image>
+                <image src="/images/MerchantLifetyle-DancerDreamStudio.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle4">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -54,7 +54,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.citizenadventures.com/geylang-adventures">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-GeylangAdventures.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle5">                                       </image>
+                <image src="/images/MerchantLifetyle-GeylangAdventures.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle5">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -65,7 +65,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://mastfitness.com/">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-MastFitness.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle6">                                       </image>
+                <image src="/images/MerchantLifetyle-MastFitness.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle6">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -76,7 +76,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://weescollection.com">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-WeeCollection.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle7">                                       </image>
+                <image src="/images/MerchantLifetyle-WeeCollection.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle7">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -87,7 +87,7 @@ permalink: /alumni/lifestyle/
         <tr>
             <td style="width:35%"><br>
                 <a href="http://www.worldofwatches2.com">
-                <image src="{{site.baseurl}}/images/MerchantLifetyle-WorldofWatches2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle8">                                       </image>
+                <image src="/images/MerchantLifetyle-WorldofWatches2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle8">                                       </image>
                 </a>
             </td>
             <td style="width:65%"><br>

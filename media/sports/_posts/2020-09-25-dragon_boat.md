@@ -6,7 +6,7 @@ permalink: /sports/dragon_boat/
 
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_dragon_boat.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dragon Boat"></image></td>
+        <td style="width:33%"><image src="/images/CCA_dragon_boat.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dragon Boat"></image></td>
         <td>
             <p>
                 Originating from China, dragon boat racing is a human-powered boat sport. For competitive events, dragon boats are generally rigged with decorative and colorful Chinese dragon heads and tails. In races, there are 18-20 people in a standard boat, and 8-10 in a small boat, excluding steersperson and the drummer. The dragon boat races are the highlight of Week Zero activities in our annual Temasek Polytechnic Regatta. TP Dragon Boat Teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) Dragon Boat Race and external competitions annually.<br>
@@ -30,21 +30,21 @@ permalink: /sports/dragon_boat/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COe1LvQHoFt/">
-                <image src="{{site.baseurl}}/images/CCA-tpdb-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <image src="/images/CCA-tpdb-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
                 <h6 style="margin-top:0%">TPDB – Online Orientation</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN4mko3HGen/">
-                <image src="{{site.baseurl}}/images/CCA-tpdb-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <image src="/images/CCA-tpdb-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
                 <h6 style="margin-top:0%">Temasek Polytechnic DragonBoat CCA virtual fair</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CFOYwXQn7Kx/">
-                <image src="{{site.baseurl}}/images/CCA-tpdb-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <image src="/images/CCA-tpdb-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
                 <h6 style="margin-top:0%">Temasek Poly Dragon Boat Women – Join our family today!</h6>    
                 </image>
             </a>

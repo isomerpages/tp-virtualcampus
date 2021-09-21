@@ -1,6 +1,7 @@
 title: TP Virtual Campus
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://virtualcampus.tp.edu.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon.png
+resources_name: media
 
 # Site colors
 colors:
@@ -20,9 +21,6 @@ colors:
     - title: media-color-six
       color: '#00838f'
 
-
-
-resources_name: media
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

@@ -26,12 +26,10 @@ sections:
           url: /be-caring/caring-for-community/
   - infopic:
       title: TP National Day Celebration 2021
-      subtitle: Not to be Missed!
-      description: Count down to the Celebration with all the fun activities lined up
-        for you!
-      button: Come Celebrate with Us
+      description: Missed the TP National Day Concert?
+      button: Catch the show here
       url: /be-entertained/tpndc
-      image: /images/BeEntertained-NDCMain.png
+      image: /images/BeEntertained-NDCshow1.png
       alt: Image alt text
   - infopic:
       title: 2021 ciNE65 Movie Makers Awards

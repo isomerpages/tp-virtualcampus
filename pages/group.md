@@ -6,10 +6,10 @@ permalink: /tsea/group/
 ---
 
 <div style="margin:2%; text-align:center">
-    <a href="{{site.baseurl}}/tsea/group#outstandingccagrp" class="bp-button">Outstanding CCA Contributions (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/group#youngentrepreneurgrp" class="bp-button">Promising Young Entrepreneur Award (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/group#communityexcellencegrp" class="bp-button">Community Service Excellence Award (Group/Team)</a>
-    <a href="{{site.baseurl}}/tsea/group#serviceexcellencegrp" class="bp-button">Service Excellence Award (Group/Team)</a>
+    <a href="/tsea/group#outstandingccagrp" class="bp-button">Outstanding CCA Contributions (Group/Team)</a>
+    <a href="/tsea/group#youngentrepreneurgrp" class="bp-button">Promising Young Entrepreneur Award (Group/Team)</a>
+    <a href="/tsea/group#communityexcellencegrp" class="bp-button">Community Service Excellence Award (Group/Team)</a>
+    <a href="/tsea/group#serviceexcellencegrp" class="bp-button">Service Excellence Award (Group/Team)</a>
 </div>
 
 ### <a id="outstandingccagrp"></a><b>(NEW!) Outstanding CCA Contributions Award (Group/Team)</b>

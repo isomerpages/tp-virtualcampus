@@ -7,7 +7,7 @@ permalink: /performing_arts/malay_dance/
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="{{site.baseurl}}/images/CCA_malay_dance.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance"></image></td>
+        <td style="width:33%"><image src="/images/CCA_malay_dance.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance"></image></td>
         <td>
             <p>
                 TP Malay Dance Group is also called Kesenian Si Anak Tari (Seni Nak Tari or SNT). SNT takes pride in promoting the arts and providing high-quality traditional and contemporary performances. Featuring both traditional and contemporary styles, SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various genres portrayed.<br>
@@ -47,21 +47,21 @@ permalink: /performing_arts/malay_dance/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN9ExjdhQGV/">
-                <image src="{{site.baseurl}}/images/CCA-md-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <image src="/images/CCA-md-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                 <h6 style="margin-top:0%">Upcoming Events!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN1U0EbBM3w/">
-                <image src="{{site.baseurl}}/images/CCA-md-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <image src="/images/CCA-md-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                 <h6 style="margin-top:0%">Introducing Main Committee AY21/22</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CNor_Fkh9nz/">
-                <image src="{{site.baseurl}}/images/CCA-md-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <image src="/images/CCA-md-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                 <h6 style="margin-top:0%">Berkebaya Biru – Empowerment of women through beauty and aesthetics</h6>    
                 </image>
             </a>

@@ -5,8 +5,8 @@ permalink: /be-involved/freshmenorientation/
 third_nav_title: Be Involved
 ---
 <div style="margin:2%; text-align:center">
-     <a href="{{site.baseurl}}/be-involved/freshmenorientation/#spectacular" class="bp-button">Temasek Spectacular</a>
-    <a href="{{site.baseurl}}/be-involved/diploma_interest_groups#friendshipgames" class="bp-button">Temasek Friendship Games</a>
+     <a href="/be-involved/freshmenorientation/#spectacular" class="bp-button">Temasek Spectacular</a>
+    <a href="/be-involved/freshmenorientation#friendshipgames" class="bp-button">Temasek Friendship Games</a>
 </div>
 
 ---
@@ -15,7 +15,7 @@ third_nav_title: Be Involved
 Relive the Friendship Games, catch the groovy TikTok Cheers from the academic schools and test your knowledge as a TP-ian with the Temasek Spectacular Virtual Concert 2021 [video](https://www.youtube.com/watch?v=1YClN40nEYc)!
 
 
-![SpectacularConcert]({{site.baseurl}}/images/BeInvolved-SpectacularSquare.png)
+![SpectacularConcert](/images/BeInvolved-SpectacularSquare.png)
 
 ---
 ### <a id="friendshipgames"></a>Temasek Friendship Games 2021 Dragonboating
@@ -24,8 +24,8 @@ The Temasek Friendship Games foster camaraderie and friendly competition among o
 
 Find out who will emerge victorious at the Temasek Spectacular Virtual Concert!
 
-Relive the excitement and energy of the past year's Temasek Regatta by visiting the <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums/72157690880913613" target="_blank">Digital Media & Production Crew's Flickr album</a>
+Relive the excitement and energy of the past year's Temasek Regatta by visiting the [Digital Media & Production Crew's Flickr album](https://www.flickr.com/photos/digitalmediacrewtp/albums/72157690880913613){:target="_blank"}{:rel="noopener"}
 
-![FOP2021]({{site.baseurl}}/images/BeInvolved-FriendshipgamesSquare.png)
+![FOP2021](/images/BeInvolved-FriendshipgamesSquare.png)
 
 ---
