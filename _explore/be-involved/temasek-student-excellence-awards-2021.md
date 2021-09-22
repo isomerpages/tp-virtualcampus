@@ -7,7 +7,8 @@ third_nav_title: Be Involved
 ### Temasek Student Excellence Awards 2021
 
 ![Alt text for image on Isomer site](/images/tseabanner.png)
-Heartiest congratulations to all our recipients of the **Temasek Student Excellence Awards (TSEA) 2021**!
+
+#### Heartiest congratulations to all our recipients of the **Temasek Student Excellence Awards (TSEA) 2021**!
 
 The TSEA are presented annually to recognise the outstanding contributions of students in non-academic areas, such as arts, sports, leadership, service, entrepreneurship and character excellence. While 2020 has been an unprecedented year, our students have remained resilient and positive, made significant efforts to keep our campus vibrant, and devised creative workarounds in ways previously unimaginable. They were also quick to adapt and agile enough to continue a legacy of excellence, despite the curveballs thrown by the pandemic.
 
