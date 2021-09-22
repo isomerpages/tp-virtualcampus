@@ -6,19 +6,16 @@ third_nav_title: Be Involved
 ---
 ### Temasek Student Excellence Awards 2021
 
-The Temasek Student Excellence Awards (TSEA) are presented annually to recognise the inspiring achievements and outstanding contributions of students in non-academic areas, such as arts, sports, leadership, service, entrepreneurship and character excellence.
+Heartiest congratulations to all our recipients of the **Temasek Student Excellence Awards (TSEA) 2021**!
 
-2020 has been an unprecedented year for our students and CCA groups. However, despite the curveballs that the pandemic has thrown, they have remained resilient and positive, made significant efforts to keep their CCA groups alive, and devised creative workarounds in ways previously unimaginable. In the process, they were also engaged and exposed to new skills and learning opportunities.
+The TSEA are presented annually to recognise the outstanding contributions of students in non-academic areas, such as arts, sports, leadership, service, entrepreneurship and character excellence. While 2020 has been an unprecedented year, our students have remained resilient and positive, made significant efforts to keep our campus vibrant, and devised creative workarounds in ways previously unimaginable. They were also quick to adapt and agile enough to continue a legacy of excellence, despite the curveballs thrown by the pandemic.
 
-In view of the COVID-19 situation, the TSEA Secretariat has modified some of our usual award categories to facilitate your nominations. Nonetheless, the spirit of TSEA remains in celebrating excellent student contributions.
+This year, we honour <u>**259 students**</u> across the Higher Award categories (Individual and Group/Team). In addition, <u>**1,549 students**</u> will receive the CCA Dedication Awards.
 
-<b>Announcement</b><br>
-Nominations for the TSEA are now closed. Thank you for your active support in nominating deserving students who have made a difference despite all the odds! Results will be released by September 2021, so do watch this space for more updates.
+Let’s salute them for their sacrifice, strength and spirit. Join us at the Award Ceremony and celebrate virtually with our deserving recipients from across all of TP!
 
-View the full list of [awards and their eligibility criteria](/files/tsea/TSEA2021AwardsInfo.pdf).  
-
-Didn't manage to find what you were looking for? Refer to a list of [FAQs](/files/tsea/TSEA2021-FAQs.pdf)!
+Date: 25 September 2021 (Saturday)
+Time: 3pm
+Livestream Link: [https://vimeo.com/604754932](https://vimeo.com/604754932)
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
-
-See you next year!
