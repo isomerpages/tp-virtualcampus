@@ -16,8 +16,8 @@ This year, we honour<b> <u>259 students</u></b> across the Higher Award categori
 
 Let’s salute them for their sacrifice, strength and spirit. Join us at the Award Ceremony and celebrate virtually with our deserving recipients from across all of TP!
 
-Date: 25 September 2021 (Saturday)
-Time: 3pm
-Livestream Link: [https://vimeo.com/604754932](https://vimeo.com/604754932)
+<b>Date: 25 September 2021 (Saturday)</b>  
+<b>Time: 3pm</b>  
+<b>Livestream Link: [https://vimeo.com/604754932](https://vimeo.com/604754932)</b>
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
