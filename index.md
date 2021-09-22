@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home-NDC11.png
+      background: /images/tseabanner3.png
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
@@ -25,6 +25,16 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: Temasek Student Excellence Awards 2021
+      subtitle: Award Ceremony
+      image: /images/tseabanner.png
+      description: Heartiest congratulations to all our recipients of the Temasek
+        Student Excellence Awards (TSEA) 2021! Join us for the Awards Ceremony
+        on 25 Sep, Sat at 3pm
+      button: Watch here
+      url: /be-involved/tsea2021
+      alt: TSEA2021
+  - infopic:
       title: TP National Day Celebration 2021
       description: Missed the TP National Day Concert?
       button: Catch the show here
@@ -40,16 +50,6 @@ sections:
       url: /be-entertained/digital-film-television/
       image: /images/ciNE65_awards_students.png
       alt: ciNE65 Movie Makers Awards
-  - infopic:
-      title: Temasek Student Excellence Awards 2021
-      subtitle: Award Nomination
-      image: /images/Infopic-TSEA2021.jpg
-      description: Thank you for your active support in nominating deserving students
-        who have made a difference despite all the odds! Results will be
-        released by September 2021.
-      button: TSEA 2021
-      url: /be-involved/tsea2021
-      alt: TSEA2021
   - infopic:
       title: Temasek Spectacular Virtual Concert 2021
       subtitle: Freshmen Orientation Programme
