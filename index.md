@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/tseabanner1.jpg
+      background: /images/tseabanner2.png
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
