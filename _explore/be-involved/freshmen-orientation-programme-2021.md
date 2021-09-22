@@ -26,6 +26,6 @@ Find out who will emerge victorious at the Temasek Spectacular Virtual Concert!
 
 Relive the excitement and energy of the past year's Temasek Regatta by visiting the [Digital Media & Production Crew's Flickr album](https://www.flickr.com/photos/digitalmediacrewtp/albums/72157690880913613){:target="_blank"}{:rel="noopener"}
 
-![FOP2021](/images/BeInvolved-FriendshipgamesSquare.png)
+![Friendship Games2021](/images/BeInvolved-FriendshipgamesSquare.png)
 
 ---
