@@ -6,7 +6,7 @@ third_nav_title: Be Involved
 ---
 ### Temasek Student Excellence Awards 2021
 
-![Alt text for image on Isomer site](/images/tseabanner.png)
+![tsea ceremony](/images/tseabanner.png)
 
 #### Heartiest congratulations to all our recipients of the **Temasek Student Excellence Awards (TSEA) 2021**!
 
