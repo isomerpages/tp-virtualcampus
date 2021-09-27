@@ -28,9 +28,9 @@ sections:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Ceremony
       image: /images/tseabanner.png
-      description: Heartiest congratulations to all our recipients of the Temasek
-        Student Excellence Awards (TSEA) 2021! Join us for the Awards Ceremony
-        on 25 Sep, Sat at 3pm
+      description: "Heartiest congratulations to all our recipients of the Temasek
+        Student Excellence Awards (TSEA) 2021! Catch a recording of Ceremony
+        here. "
       button: Watch here
       url: /be-involved/tsea2021
       alt: TSEA2021
