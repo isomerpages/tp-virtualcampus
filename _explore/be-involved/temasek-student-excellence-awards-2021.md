@@ -14,10 +14,9 @@ The TSEA are presented annually to recognise the outstanding contributions of st
 
 This year, we honour<b> <u>259 students</u></b> across the Higher Award categories (Individual and Group/Team). In addition, <b><u>1,549 students</u></b> will receive the CCA Dedication Awards.
 
-Let’s salute them for their sacrifice, strength and spirit. Join us at the Award Ceremony and celebrate virtually with our deserving recipients from across all of TP!
+Let’s salute them for their sacrifice, strength and spirit. Catch a recording of the Award Ceremony and celebrate virtually with our deserving recipients from across all of TP!
 
-<b>Date: 25 September 2021 (Saturday)</b>  
-<b>Time: 3pm</b>  
-<b>Livestream Link: [https://vimeo.com/604754932](https://vimeo.com/604754932)</b>
+
+<b>[Watch](https://vimeo.com/604754932) Now!</b>
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
