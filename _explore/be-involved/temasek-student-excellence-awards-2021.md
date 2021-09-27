@@ -16,7 +16,6 @@ This year, we honour<b> <u>259 students</u></b> across the Higher Award categori
 
 Let’s salute them for their sacrifice, strength and spirit. Catch a recording of the Award Ceremony and celebrate virtually with our deserving recipients from across all of TP!
 
-
 <b>[Watch](https://vimeo.com/604754932) Now!</b>
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
