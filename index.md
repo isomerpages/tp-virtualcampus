@@ -49,7 +49,7 @@ sections:
       button: Catch the show here
       url: /be-entertained/tpndc
       image: /images/BeEntertained-NDCshow1.png
-      alt: Image alt text
+      alt: National Day Celebration 2021
   - infopic:
       title: 2021 ciNE65 Movie Makers Awards
       subtitle: AWARDS
