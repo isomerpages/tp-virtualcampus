@@ -15,7 +15,7 @@ We are honoured to have **His Excellency [Peter Guschelbauer](https://www.bmeia.
 <table>
     <tr>
         <td style="width:33%"><br>
-              <image src="/images/BeInvolved-LeadEUGOH.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="QRcode">
+              <image src="/images/BeInvolved-LeadEUGOH1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="QRcode">
                  </image>
         </td>
         <td style="width:33%"><br>
