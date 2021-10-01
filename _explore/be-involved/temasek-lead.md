@@ -24,7 +24,18 @@ Venue: Email will be sent to confirmed registrants
 
 Register [here](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328bwwAd0fhRxEhHsQyxN2mNRUREFLSzlZVU1LWFVaQjdFVVBHUUxSQUM2Mi4u&fsw=0) or scan this QR code now!
 
-
+<table>
+    <tr>
+        <td style="width:33%"><br>
+              <image src="/images/BeInvolved-LeadEUQRcode.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+                 </image>
+        </td>
+        <td style="width:33%"><br>
+           </td>
+        <td style="width:33%"><br>
+        </td>
+    </tr>
+</table>
 
 **Registration closes on <u>6 October</u> or when slots are taken up.**
 
