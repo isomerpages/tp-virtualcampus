@@ -3,6 +3,17 @@ layout: page
 title: Temasek LEAD
 permalink: /be-involved/temasek-lead-programmes/
 third_nav_title: Be Involved
+---
+### Global Experience Programme (EU Comes to TP): Dialogue with Austrian Ambassador ###
+
+
+
+The Global Experience Programme is a thematic programme within LEAD. The objectives of the Global Experience Programme are to broaden the minds of our LEAD students on regional and global issues affecting Singapore and to develop and expose LEAD students to critical thinking and leadership perspectives.
+
+Themed “EU comes to your School”, this initiative by the Ambassadors and diplomats from the EU and its member states based in Singapore, is to visit education institutions to give talks about the EU, touching on topics such as the EU's history, institutions, and their growing role in the face of the global health crisis.  
+
+We are honoured to have His Excellency [Peter Guschelbauer](https://www.bmeia.gv.at/en/austrian-embassy-singapore/about-us/the-ambassador/), Ambassador, Austrian Embassy Singapore, speak to us about the EU and its relations with ASEAN as well as global issues such as climate change. Students will also have a chance to dialogue with the Ambassador. 
+
 
 ---
 ### Temasek LEAD Summit - In Conversation With Professor Kishore Mahbubani ###
