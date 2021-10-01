@@ -12,6 +12,8 @@ Themed **“EU comes to your School”**, this initiative by the Ambassadors and
 
 We are honoured to have **His Excellency [Peter Guschelbauer](https://www.bmeia.gv.at/en/austrian-embassy-singapore/about-us/the-ambassador/)**, Ambassador, Austrian Embassy Singapore, speak to us about the EU and its relations with ASEAN as well as global issues such as climate change. Students will also have a chance to dialogue with the Ambassador. 
 
+
+
 The Global Experience Programme is a thematic programme within LEAD. The objectives of the Global Experience Programme are to broaden the minds of our LEAD students on regional and global issues affecting Singapore and to develop and expose LEAD students to critical thinking and leadership perspectives.
 
 ##### Event Details
@@ -38,10 +40,6 @@ Register [here](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeu
 </table>
 
 **Registration closes on <u>6 October</u> or when slots are taken up.**
-
-
-
-
 
 
 ---
