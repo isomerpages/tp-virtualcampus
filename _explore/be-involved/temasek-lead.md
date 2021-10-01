@@ -3,6 +3,55 @@ layout: page
 title: Temasek LEAD
 permalink: /be-involved/temasek-lead-programmes/
 third_nav_title: Be Involved
+---
+### Global Experience Programme (EU Comes to TP): Dialogue with Austrian Ambassador ###
+
+![EU Comes to TP](/images/BeInvolved-LeadEUbanner.jpg)
+
+Themed **“EU comes to your School”**, this initiative by the Ambassadors and diplomats from the EU and its member states based in Singapore, is to visit education institutions to give talks about the EU, touching on topics such as the EU's history, institutions, and their growing role in the face of the global health crisis.  
+
+We are honoured to have **His Excellency [Peter Guschelbauer](https://www.bmeia.gv.at/en/austrian-embassy-singapore/about-us/the-ambassador/)**, Ambassador, Austrian Embassy Singapore, speak to us about the EU and its relations with ASEAN as well as global issues such as climate change. Students will also have a chance to dialogue with the Ambassador. 
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+              <image src="/images/BeInvolved-LeadEUGOH1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="QRcode">
+                 </image>
+        </td>
+        <td style="width:33%"><br>
+           </td>
+        <td style="width:33%"><br>
+        </td>
+    </tr>
+</table>
+
+The Global Experience Programme is a thematic programme within LEAD. The objectives of the Global Experience Programme are to broaden the minds of our LEAD students on regional and global issues affecting Singapore and to develop and expose LEAD students to critical thinking and leadership perspectives.
+
+##### Event Details
+
+Date: **08 October 2021, Saturday**  
+Time: 10am to 11.30am  
+Venue: Email will be sent to confirmed registrants
+
+#### Sign-up
+
+Register [here](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328bwwAd0fhRxEhHsQyxN2mNRUREFLSzlZVU1LWFVaQjdFVVBHUUxSQUM2Mi4u&fsw=0) or scan this QR code now!
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+              <image src="/images/BeInvolved-LeadEUQRcode.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="QRcode">
+                 </image>
+        </td>
+        <td style="width:33%"><br>
+           </td>
+        <td style="width:33%"><br>
+        </td>
+    </tr>
+</table>
+
+**Registration closes on <u>6 October</u> or when slots are taken up.**
+
 
 ---
 ### Temasek LEAD Summit - In Conversation With Professor Kishore Mahbubani ###

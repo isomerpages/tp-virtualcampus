@@ -25,6 +25,15 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: "EU Comes to TP: Dialogue with Austrian Ambassador"
+      subtitle: Global Experience Programme
+      description: "Join us for a morning conversation with His Excellency Peter
+        Gushcelbauer, Ambassador, Austrian Embassy. "
+      button: Dialogue Session Details
+      url: /be-involved/temasek-lead-programmes/
+      image: /images/BeInvolved-LeadEUbanner.jpg
+      alt: EU Comes to TP
+  - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Ceremony
       image: /images/tseabanner.png
@@ -40,7 +49,7 @@ sections:
       button: Catch the show here
       url: /be-entertained/tpndc
       image: /images/BeEntertained-NDCshow1.png
-      alt: Image alt text
+      alt: National Day Celebration 2021
   - infopic:
       title: 2021 ciNE65 Movie Makers Awards
       subtitle: AWARDS
@@ -75,15 +84,6 @@ sections:
       button: Watch These Concerts
       url: /be-entertained/artsfest/
       alt: Artsfest
-  - infopic:
-      title: COVID-19 Vaccination Exercise
-      subtitle: Vaccination Exercise
-      description: Find out how you can protect yourself and your loved ones against
-        COVID-19
-      button: Do your part!
-      url: /covid/explore/be-caring/permalink
-      alt: vaccination
-      image: /images/syringe-5882593_1920.jpg
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
