@@ -27,7 +27,7 @@ Register [here](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeu
 <table>
     <tr>
         <td style="width:33%"><br>
-              <image src="/images/BeInvolved-LeadEUQRcode.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+              <image src="/images/BeInvolved-LeadEUQRcode.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="QRcode">
                  </image>
         </td>
         <td style="width:33%"><br>
