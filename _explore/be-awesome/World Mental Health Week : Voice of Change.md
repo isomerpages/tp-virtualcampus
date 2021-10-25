@@ -9,6 +9,7 @@ third_nav_title: Be Awesome
 Mental health is a prevalent topic that is increasingly important, especially amid Covid19. As part of World Mental Health Month in October, PSiA is organizing World Mental Health Week in collaboration with PSIG to raise awareness on mental health in Temasek Polytechnic.
 
 There are 3 parts to World Mental Health Week happening from **24 October 2021 to 31 October 2021**: <br>
+
 Social Media Campaign, Info-Sharing Session cum Workshop, and Online Virtual Reality (VR) Collaboration with Ang Mo Kio Family Service Centre (AMKFSC) and Samaritans of Singapore (SOS). These will last 8 days. 
 
 **Part 1: Social Media Campaign (on Instagram and TP Oei)**<br>
