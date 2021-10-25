@@ -92,4 +92,12 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: World Mental Health Week
+      subtitle: Voice of Change
+      description: Happening 24 Oct to 31 Oct 2021
+      button: Check out these activities
+      url: /explore/be-awesome/worldmentalhealthwk
+      image: /images/BeAwesome-WorldMentalHealth.jpg
+      alt: Image alt text
 ---
