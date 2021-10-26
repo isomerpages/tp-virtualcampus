@@ -10,7 +10,9 @@ Lace up your shoes, we are back! TP will be partnering with North-East Community
 
 This year’s Virtual Challenge is a flexible and convenient event where you can run, walk or even cycle at your own pace and space. 
 
-You can also do it alone or with a family member or friend (not more than 2!). Your $5 participation fee will go entirely to TP Campus Care Network (CCN) which provides financial aid to TP needy students. 
+You can also do it alone or **with a family member or friend** (not more than 2!). 
+
+**Your $5 participation fee will go entirely to TP Campus Care Network (CCN) which provides financial aid to TP needy students**. 
 
 In addition, NECDC will match the total amount of entry fee collected from the participants. Complete the distance within the race period and earn attractive race entitlements (exclusive finisher tee and microfiber sports towel and e-certificate) while helping out for a good cause.
 
