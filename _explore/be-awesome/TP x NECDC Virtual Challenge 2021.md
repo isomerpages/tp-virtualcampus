@@ -20,6 +20,6 @@ Don’t miss this unique opportunity to contribute to TP CCN and get fit in the 
 
 [TP Staff & Students](https://bit.ly/3Cb6DGH)
 
-[TP Alumni & Member of Public](https://bit.ly/3CbdIXT)
+[TP Alumni & Members of Public](https://bit.ly/3CbdIXT)
 
 For enquiry, please reach us at virtualchallengeenquiries2021@gmail.com.
