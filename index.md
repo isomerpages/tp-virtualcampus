@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/tseabanner3.png
+      background: /images/VC_eBanner.jpg
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
@@ -24,6 +24,14 @@ sections:
           description: Check out the other channels to see what else is happening around
             campus!
           url: /be-caring/caring-for-community/
+  - infopic:
+      title: World Mental Health Week
+      subtitle: Voice of Change
+      description: Bringing awareness on mental health from 24 Oct to 31 Oct 2021
+      button: Campaign details
+      url: /explore/be-awesome/worldmentalhealthwk
+      image: /images/BeAwesome-WorldMentalHealth.jpg
+      alt: Image alt text
   - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
