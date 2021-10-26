@@ -25,6 +25,14 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: TP-NECDC Virtual Challenge 2021
+      subtitle: WE ARE BACK!
+      description: Run, walk or cycle with your family and friends! All for a good cause!
+      button: SIGN UP HERE
+      url: /explore/be-awesome/virtualchallenge2021
+      image: /images/tpnecdcvc2021.png
+      alt: Image alt text
+  - infopic:
       title: World Mental Health Week
       subtitle: Voice of Change
       description: Bringing awareness on mental health from 24 Oct to 31 Oct 2021
