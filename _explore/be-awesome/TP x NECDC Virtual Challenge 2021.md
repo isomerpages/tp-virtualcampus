@@ -3,7 +3,7 @@ title: TP x NECDC Virtual Challenge 2021
 permalink: /explore/be-awesome/virtualchallenge2021
 third_nav_title: Be Awesome
 ---
-#### TP-NECDC Virtual Challenge 2021 Registration
+### Register for the TP-NECDC Virtual Challenge 2021
 ![Alt text for image on Isomer site](/images/tpnecdcvc2021.png)
 
 Lace up your shoes, we are back! TP will be partnering with North-East Community Development Council (NECDC) to organise the TP-NECDC Virtual Challenge 2021.
@@ -16,6 +16,8 @@ In addition, NECDC will match the total amount of entry fee collected from the p
 
 Don’t miss this unique opportunity to contribute to TP CCN and get fit in the process. Sign up now by scanning the QR codes or simply click the links below:
 
+[TP Staff & Students](https://bit.ly/3Cb6DGH)
 
+[TP Alumni & Member of Public](https://bit.ly/3CbdIXT)
 
-For enquiry, please reach us at virtualchallengeenquiries2021@gmail.com
+For enquiry, please reach us at virtualchallengeenquiries2021@gmail.com. 
