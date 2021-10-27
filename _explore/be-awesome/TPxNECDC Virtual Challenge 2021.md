@@ -50,8 +50,10 @@ Scan the QR code below to download the Adobe Reader app for iOS or Android phone
 | ![AdobeiOS](/images/Adobereader-iOS.png) | ![AdobeAndroid](/images/Adobereader-Android.png) |
 
 ---
-### Step 3: Setting Up Your Submitting Your Results
+### Step 3: Record Your Activity with Strava and Submission of Activity Details
 
-Watch the video tutorial for a step-by-step guide to recording their activity with Strava and submitting their activity details.
+Watch the video tutorial below for a step-by-step guide to recording their activity with Strava and submitting their activity details.
+
+You may download the activity submission template [here](http://shorturl.at/jvM45).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dqYEHeHTxV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
