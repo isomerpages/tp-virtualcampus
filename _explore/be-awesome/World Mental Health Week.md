@@ -3,8 +3,6 @@ title: World Mental Health Week
 permalink: /explore/be-awesome/worldmentalhealthwk
 third_nav_title: Be Awesome
 ---
-
-
 # World Mental Health Week - Voice of Change
 ![World Mental Health Week](/images/BeAwesome-WorldMentalHealth.jpg)
 
