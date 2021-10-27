@@ -27,3 +27,13 @@ For enquiries, please reach us at virtualchallengeenquiries2021@gmail.com.
 
 Registration ends: **Monday, 15 Nov 2021**
 
+---
+### Step 2a: Download Strava App
+
+Strava is a mobile app with a built-in GPS that allows you to track your run, walk or cycle. 
+
+Scan the QR code below to download the Strava app for iOS or Android phones!
+
+|**iOS** | **Android** | 
+| -------- | -------- |
+| ![StravaiOS](/images/BeAwesome-stravaios.png)   | ![StravaAndroid](/images/BeAwesome-Strava-Android.png)   |
