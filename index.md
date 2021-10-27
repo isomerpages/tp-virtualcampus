@@ -33,6 +33,14 @@ sections:
       image: /images/tpnecdcvc2021.png
       alt: Virtual Challenge
   - infopic:
+      title: Want to be featured on this Virtual Campus?
+      subtitle: Reach out to us
+      image: /images/Contact-Shoutout.jpg
+      description: Do you have something exciting, share with us!
+      button: Contact us
+      url: /contact-us/
+      alt: Shoutout
+  - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
       description: "Join us for a morning conversation with His Excellency Peter
@@ -92,14 +100,6 @@ sections:
       button: Watch These Concerts
       url: /be-entertained/artsfest/
       alt: Artsfest
-  - infopic:
-      title: Want to be featured on this Virtual Campus?
-      subtitle: Reach out to us
-      image: /images/Contact-Shoutout.jpg
-      description: Do you have something exciting, share with us!
-      button: Contact us
-      url: /contact-us/
-      alt: Shoutout
   - infopic:
       title: World Mental Health Week
       subtitle: Voice of Change
