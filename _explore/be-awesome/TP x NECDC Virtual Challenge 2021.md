@@ -24,4 +24,4 @@ Don’t miss this unique opportunity to contribute to TP CCN and get fit in the 
 
 For enquiry, please reach us at virtualchallengeenquiries2021@gmail.com.
 
-Registration ends by: 15 Nov 2021, Mon
+Registration ends by: **15 Nov 2021, Mon**
