@@ -40,9 +40,10 @@ Scan the QR code below to download the Strava app for iOS or Android phones!
 
 ### Step 2b: Download Adobe Reader
 
-Adobe Reader is required to submit your race results. 
+Adobe Reader is required to upload and submit your race results. 
+
+Scan the QR code below to download the Adobe Reader app for iOS or Android phones!
 
 | **iOS** | **Android** |
 | -------- | -------- |
 | ![Alt text for image on Isomer site](/images/Adobereader-iOS.png)   | ![Alt text for image on Isomer site](/images/Adobereader-Android.png)   |
-
