@@ -34,6 +34,9 @@ Strava is a mobile app with a built-in GPS that allows you to track your run, wa
 
 Scan the QR code below to download the Strava app for iOS or Android phones!
 
-|**iOS** | **Android** | 
+
+
+| **iOS** | **Android** |
 | -------- | -------- |
-| ![StravaiOS](/images/BeAwesome-stravaios.png)   | ![StravaAndroid](/images/BeAwesome-Strava-Android.png)   |
+| ![Strava iOS](/images/BeAwesome-stravaios.png)| ![Alt text for image on Isomer site](/images/BeAwesome-Strava-Android.png)|
+
