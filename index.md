@@ -31,7 +31,7 @@ sections:
       button: SIGN UP HERE
       url: /explore/be-awesome/virtualchallenge2021
       image: /images/tpnecdcvc2021.png
-      alt: Image alt text
+      alt: TP-NECDC Virtual Challenge
   - infopic:
       title: World Mental Health Week
       subtitle: Voice of Change
