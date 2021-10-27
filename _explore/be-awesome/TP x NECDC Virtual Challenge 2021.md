@@ -3,7 +3,7 @@ title: TP x NECDC Virtual Challenge 2021
 permalink: /explore/be-awesome/virtualchallenge2021
 third_nav_title: Be Awesome
 ---
-### Register for the TP-NECDC Virtual Challenge 2021
+### Step 1: Register for the TP-NECDC Virtual Challenge 2021
 
 ![TP-NECDC Virtual Challenge](/images/tpnecdcvc2021.png)
 
@@ -26,3 +26,19 @@ Don’t miss this unique opportunity to contribute to TP CCN and get fit in the 
 For enquiries, please reach us at virtualchallengeenquiries2021@gmail.com.
 
 Registration ends by: **15 Nov 2021, Mon**
+
+### Step 2: Download Strava App & Adobe Reader
+
+Strava is a mobile app with a built-in GPS that allows you to track your run, walk or cycle. 
+
+
+
+|**iOS** | **Android** | 
+| -------- | -------- |
+| ![Alt text for image on Isomer site](/images/BeAwesome-stravaios.png)   | ![Alt text for image on Isomer site](/images/BeAwesome-Strava-Android.png)   | 
+
+
+
+
+
+
