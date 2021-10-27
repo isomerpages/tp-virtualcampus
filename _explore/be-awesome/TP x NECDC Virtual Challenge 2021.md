@@ -4,7 +4,11 @@ permalink: /explore/be-awesome/virtualchallenge2021
 third_nav_title: Be Awesome
 ---
 ### Register for the TP-NECDC Virtual Challenge 2021
-
+```
+<button class="mdc-button mdc-button--raised mdc-ripple-upgraded" data-id="anima-widget" style="--mdc-ripple-fg-size:43px; --mdc-ripple-fg-scale:2.10917; --mdc-ripple-fg-translate-start:13px, -5.09375px; --mdc-ripple-fg-translate-end:14.6094px, -3.5px;">
+* <span class="mdc-button__ripple"></span> <span class="mdc-button__label">NEXT</span>
+</button>
+```
 ![TP-NECDC Virtual Challenge](/images/tpnecdcvc2021.png)
 
 Lace up your shoes, we are back! TP will be partnering with North-East Community Development Council (NECDC) to organise the TP-NECDC Virtual Challenge 2021.
