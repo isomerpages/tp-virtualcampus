@@ -33,13 +33,13 @@ sections:
       image: /images/tpnecdcvc2021.png
       alt: Virtual Challenge
   - infopic:
-      title: Want to be featured on this Virtual Campus?
-      subtitle: Reach out to us
-      image: /images/Contact-Shoutout.jpg
-      description: Do you have something exciting, share with us!
-      button: Contact us
-      url: /contact-us/
-      alt: Shoutout
+      title: World Mental Health Week
+      subtitle: Voice of Change
+      description: Bringing awareness on mental health from 24 Oct to 31 Oct 2021
+      button: Join us
+      url: /explore/be-awesome/world-mental-health
+      image: /images/BeAwesome-WorldMentalHealth.jpg
+      alt: World Mental Health
   - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
@@ -101,11 +101,11 @@ sections:
       url: /be-entertained/artsfest/
       alt: Artsfest
   - infopic:
-      title: World Mental Health Week
-      subtitle: Voice of Change
-      description: Bringing awareness on mental health from 24 Oct to 31 Oct 2021
-      button: Join us
-      url: /explore/be-awesome/world-mental-health
-      image: /images/BeAwesome-WorldMentalHealth.jpg
-      alt: World Mental Health
+      title: Want to be featured on this Virtual Campus?
+      subtitle: Reach out to us
+      image: /images/Contact-Shoutout.jpg
+      description: Do you have something exciting, share with us!
+      button: Contact us
+      url: /contact-us/
+      alt: Shoutout
 ---
