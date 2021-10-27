@@ -100,4 +100,12 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: TP-NECDC Virtual Challenge 2021
+      subtitle: We are Back!
+      description: Run, walk or cycle with your family and friends! All for a good cause!
+      button: Sign Up Here
+      url: explore/be-awesome/virtualchallenge2021
+      image: /images/tpnecdcvc2021.png
+      alt: TP-NECDC Virtual Challenge
 ---
