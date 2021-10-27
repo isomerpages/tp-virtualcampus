@@ -31,14 +31,8 @@ Registration ends by: **15 Nov 2021, Mon**
 
 Strava is a mobile app with a built-in GPS that allows you to track your run, walk or cycle. 
 
-
+Scan the QR code below to download the app for iOS or Android phones!
 
 |**iOS** | **Android** | 
 | -------- | -------- |
-| ![Alt text for image on Isomer site](/images/BeAwesome-stravaios.png)   | ![Alt text for image on Isomer site](/images/BeAwesome-Strava-Android.png)   | 
-
-
-
-
-
-
+| ![Alt text for image on Isomer site](/images/BeAwesome-stravaios.png)   | ![Alt text for image on Isomer site](/images/BeAwesome-Strava-Android.png)   |
