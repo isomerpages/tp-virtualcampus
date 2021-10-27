@@ -35,8 +35,16 @@ Strava is a mobile app with a built-in GPS that allows you to track your run, wa
 Scan the QR code below to download the Strava app for iOS or Android phones!
 
 
-
 | **iOS** | **Android** |
 | -------- | -------- |
 | ![Strava iOS](/images/BeAwesome-stravaios.png)| ![Alt text for image on Isomer site](/images/BeAwesome-Strava-Android.png)|
 
+### Step 2b: Download Adobe Reader
+
+Adobe Reader is required to upload and submit your race results. 
+
+Scan the QR code below to download the Adobe Reader app for iOS or Android phones!
+
+| **iOS** | **Android** |
+| -------- | -------- |
+| ![AdobeiOS](/images/Adobereader-iOS.png) | ![AdobeAndroid](/images/Adobereader-Android.png) |
