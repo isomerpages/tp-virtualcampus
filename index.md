@@ -25,6 +25,14 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: TP x NECDC Virtual Challenge
+      subtitle: We are Back!
+      description: Run, Walk or even Cycle with your family and friends
+      button: Sign up here
+      url: /explore/be-awesome/tp-necdc
+      image: /images/tpnecdcvc2021.png
+      alt: Virtual Challenge
+  - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
       description: "Join us for a morning conversation with His Excellency Peter
@@ -92,12 +100,4 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: TP x NECDC Virtual Challenge
-      subtitle: We are Back!
-      description: Run, Walk or even Cycle with your family and friends
-      button: Sign up here
-      url: /explore/be-awesome/tp-necdc
-      image: /images/tpnecdcvc2021.png
-      alt: Virtual Challenge
 ---
