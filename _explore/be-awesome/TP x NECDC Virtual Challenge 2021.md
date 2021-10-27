@@ -27,12 +27,22 @@ For enquiries, please reach us at virtualchallengeenquiries2021@gmail.com.
 
 Registration ends by: **15 Nov 2021, Mon**
 
-### Step 2: Download Strava App & Adobe Reader
+### Step 2a: Download Strava App
 
 Strava is a mobile app with a built-in GPS that allows you to track your run, walk or cycle. 
 
-Scan the QR code below to download the app for iOS or Android phones!
+Scan the QR code below to download the Strava app for iOS or Android phones!
 
 |**iOS** | **Android** | 
 | -------- | -------- |
 | ![Alt text for image on Isomer site](/images/BeAwesome-stravaios.png)   | ![Alt text for image on Isomer site](/images/BeAwesome-Strava-Android.png)   |
+
+
+### Step 2b: Download Adobe Reader
+
+Adobe Reader is required to submit your race results. 
+
+| **iOS** | **Android** |
+| -------- | -------- |
+| ![Alt text for image on Isomer site](/images/Adobereader-iOS.png)   | ![Alt text for image on Isomer site](/images/Adobereader-Android.png)   |
+
