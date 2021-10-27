@@ -25,14 +25,6 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
-      title: World Mental Health Week
-      subtitle: Voice of Change
-      description: Bringing awareness on mental health from 24 Oct to 31 Oct 2021
-      button: Campaign details
-      url: /explore/be-awesome/worldmentalhealthwk
-      image: /images/BeAwesome-WorldMentalHealth.jpg
-      alt: World Mental Health Week
-  - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
       description: "Join us for a morning conversation with His Excellency Peter
