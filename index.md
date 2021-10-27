@@ -39,7 +39,7 @@ sections:
       button: Campaign details
       url: /explore/be-awesome/worldmentalhealthwk
       image: /images/BeAwesome-WorldMentalHealth.jpg
-      alt: Image alt text
+      alt: World Mental Health Week
   - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
