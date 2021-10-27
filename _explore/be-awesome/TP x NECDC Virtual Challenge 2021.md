@@ -23,6 +23,6 @@ Don’t miss this unique opportunity to contribute to TP CCN and get fit in the 
 
 [TP Alumni & Members of Public](https://bit.ly/3CbdIXT)
 
-For enquiry, please reach us at virtualchallengeenquiries2021@gmail.com.
+For enquiries, please reach us at virtualchallengeenquiries2021@gmail.com.
 
 Registration ends by: **15 Nov 2021, Mon**
