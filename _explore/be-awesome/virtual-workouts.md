@@ -3,7 +3,6 @@ layout: page
 title: Virtual Workouts
 permalink: /be-awesome/virtual-workouts/
 third_nav_title: Be Awesome
-
 ---
 ### Inaugural TP-ActiveSG Virtual Run
 
