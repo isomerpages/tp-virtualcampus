@@ -62,11 +62,3 @@ Please click on the respective links below to submit your activity results:
 
 [TP Staff & Students](http://shorturl.at/tzNXZ)<br>
 [TP Alumni & Members of Public](http://shorturl.at/cpDX8)
-=======
-permalink: /explore/be-awesome/virtualchallenge2021
-third_nav_title: Be Awesome
----
-### TP-NECDC Virtual Challenge 2021
-![Alt text for image on Isomer site](/images/tpnecdcvirtualchallenge2021.png)
-
-Lace up your shoes!
