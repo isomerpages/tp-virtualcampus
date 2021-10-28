@@ -25,13 +25,21 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: TP x NECDC Virtual Challenge
+      subtitle: We are Back!
+      description: Run, Walk or even Cycle with your family and friends
+      button: Sign up here
+      url: /explore/be-awesome/tp-necdc
+      image: /images/tpnecdcvc2021.png
+      alt: Virtual Challenge
+  - infopic:
       title: World Mental Health Week
       subtitle: Voice of Change
       description: Bringing awareness on mental health from 24 Oct to 31 Oct 2021
-      button: Campaign details
-      url: /explore/be-awesome/worldmentalhealthwk
+      button: Join us
+      url: /explore/be-awesome/world-mental-health
       image: /images/BeAwesome-WorldMentalHealth.jpg
-      alt: Image alt text
+      alt: World Mental Health
   - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme

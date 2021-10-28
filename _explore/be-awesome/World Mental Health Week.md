@@ -1,9 +1,9 @@
 ---
-title: "World Mental Health Week : Voice of Change"
-permalink: /explore/be-awesome/worldmentalhealthwk
+title: World Mental Health Week
+permalink: /explore/be-awesome/world-mental-health
 third_nav_title: Be Awesome
 ---
-# World Mental Health Week: Voice of Change
+## World Mental Health Week - Voice of Change
 ![World Mental Health Week](/images/BeAwesome-WorldMentalHealth.jpg)
 
 Mental health is a prevalent topic that is increasingly important, especially amid Covid19. As part of World Mental Health Month in October, TP Peer Supporters-In-Action (PSiA) is organizing World Mental Health Week in collaboration with TP Psychology Studies Interest Group (PSIG) to raise awareness on mental health in Temasek Polytechnic.
