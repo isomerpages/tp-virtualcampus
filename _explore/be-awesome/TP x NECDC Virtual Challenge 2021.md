@@ -61,4 +61,4 @@ The activity submission template can be found [here](http://shorturl.at/jvM45).
 Please click on the respective links below to submit your activity results:
 
 [TP Staff & Students](http://shorturl.at/tzNXZ)<br>
-[TP Alumni & Members of Public](http://shorturl.at/cpDX8)
+[TP Alumni & Members of Public](https://bit.ly/3nR6Hpc)
