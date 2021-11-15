@@ -3,7 +3,7 @@ links:
   - title: Explore
     collection: explore
   - title: Specialist Services
-    url: /specialistservices
+    collection: specialist-services
   - title: Getting Around TP
     sublinks:
       - title: Our Very Cool 360 VR Tour of TP!
@@ -16,5 +16,3 @@ links:
         url: https://www.tp.edu.sg/
   - title: Contact Us
     url: /contact-us/
-  - title: Specialist Services
-    collection: specialist-services
