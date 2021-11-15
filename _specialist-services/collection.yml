@@ -2,4 +2,5 @@ collections:
   specialist-services:
     output: true
     order:
+      - Projects/Upcoming Projects.md
       - Projects/.keep
