@@ -16,3 +16,5 @@ links:
         url: https://www.tp.edu.sg/
   - title: Contact Us
     url: /contact-us/
+  - title: Specialist Services
+    collection: specialist-services
