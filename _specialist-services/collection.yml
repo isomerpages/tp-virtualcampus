@@ -1,4 +1,5 @@
 collections:
   specialist-services:
     output: true
-    order: []
+    order:
+      - Projects/.keep
