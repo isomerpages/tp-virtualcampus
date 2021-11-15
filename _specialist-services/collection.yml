@@ -2,6 +2,7 @@ collections:
   specialist-services:
     output: true
     order:
+      - Athlete Services/.keep
       - Projects/Completed Projects.md
       - Projects/Upcoming Projects.md
       - Projects/.keep
