@@ -2,6 +2,7 @@ collections:
   specialist-services:
     output: true
     order:
+      - Resources/.keep
       - Testing and Services/.keep
       - Meet The Team/.keep
       - Athlete Services/.keep
