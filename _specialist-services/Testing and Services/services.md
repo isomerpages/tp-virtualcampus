@@ -1,6 +1,6 @@
 ---
 title: Services
-permalink: /testing-and-services/services/
+permalink: /specialist-services/testing-and-services/services/
 third_nav_title: Testing and Services
 ---
 We offer the following services that some sports teams have found beneficial:

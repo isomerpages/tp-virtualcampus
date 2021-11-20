@@ -1,6 +1,6 @@
 ---
 title: Testing and Services
-permalink: /testing-and-services/
+permalink: /specialist-services/testing-and-services/
 third_nav_title: Testing and Services
 ---
 Perfomance testing and monitoring can allowed the athlete or team to know where he/she is in relation to himself/herself or by comparing with other athletes who plays in a similar role/capacity.  

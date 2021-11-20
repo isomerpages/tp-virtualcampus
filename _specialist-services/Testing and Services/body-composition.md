@@ -1,6 +1,6 @@
 ---
 title: Body Composition
-permalink: /testing-and-services/bodycomp/
+permalink: /specialist-services/testing-and-services/bodycomp/
 third_nav_title: Testing and Services
 ---
 This test is done using a Bioelectrical Impedance Analysis (BIA) machine that runs small electrical currents through the body. Various bodily tissues (e.g. muscle, fat, bone, etc.) have different electrical conductivity due to variation in water content hence the small electrical current passes through the tissues at different speeds.

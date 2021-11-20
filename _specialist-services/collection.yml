@@ -4,19 +4,19 @@ collections:
     order:
       - Athlete Services/.keep
       - Meet The Team/.keep
-      - Meet-The-Team/About Us.md
-      - Meet-The-Team/who-we-are.md
+      - Meet The Team/About Us.md
+      - Meet The Team/who-we-are.md
       - Projects/.keep
       - Projects/Upcoming Projects.md
       - Projects/Completed Projects.md
       - Testing and Services/.keep
-      - testing-and-services/body-composition.md
-      - testing-and-services/anaerobic-test-rast.md
-      - testing-and-services/aerobic-test.md
-      - testing-and-services/lower-body-power.md
-      - testing-and-services/upper-body-power.md
-      - testing-and-services/agility-test.md
-      - testing-and-services/services.md
+      - Testing and Services/body-composition.md
+      - Testing and Services/anaerobic-test-rast.md
+      - Testing and Services/aerobic-test.md
+      - Testing and Services/lower-body-power.md
+      - Testing and Services/upper-body-power.md
+      - Testing and Services/agility-test.md
+      - Testing and Services/services.md
       - Resources/.keep
       - Resources/workshops.md
       - Resources/Mental Skills Training.md

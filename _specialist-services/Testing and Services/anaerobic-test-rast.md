@@ -1,6 +1,6 @@
 ---
 title: Anaerobic Test (RAST)
-permalink: /testing-and-services/rast/
+permalink: /specialist-services/testing-and-services/rast/
 third_nav_title: Testing and Services
 ---
 RAST, a Running-Based Anaerobic Sprint test was designed to measure anaerobic power and capacity. The test involves six sprints over a 35-meter distance, with a 10-second recovery between each sprint.

@@ -1,6 +1,6 @@
 ---
 title: Strength & Conditioning
-permalink: Resources/snc
+permalink: /specialist-services/Resources/snc
 third_nav_title: Resources
 ---
 Can one be strong and big yet fast and flexible?

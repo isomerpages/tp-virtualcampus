@@ -1,6 +1,6 @@
 ---
 title: Recovery
-permalink: Resources/recovery
+permalink: /specialist-services/Resources/recovery
 third_nav_title: Resources
 ---
 Recovery, the often forgotten element that is key to adaptation and improvement in performance!  

@@ -1,6 +1,6 @@
 ---
 title: Mental Skills Training
-permalink: Resources/mental-skills
+permalink: /specialist-services/Resources/mental-skills
 third_nav_title: Resources
 ---
 “*The thing about the game at this level [MLB] is that there is very little difference in physical skills between players; the real difference between them is upstairs. It is what is ‘in your head’ that makes the difference*. ~ Cletis “Clete” Boyer

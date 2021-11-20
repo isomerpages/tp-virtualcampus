@@ -1,6 +1,6 @@
 ---
 title: Lower Body Power
-permalink: /testing-and-services/vertjump/
+permalink: /specialist-services/testing-and-services/vertjump/
 third_nav_title: Testing and Services
 ---
 This test for lower body power involves using the Vertec device which measures the displacement between the standing height and vertical jump height.  
