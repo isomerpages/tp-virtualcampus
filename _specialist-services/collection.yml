@@ -2,10 +2,25 @@ collections:
   specialist-services:
     output: true
     order:
-      - Resources/.keep
-      - Testing and Services/.keep
-      - Meet The Team/.keep
       - Athlete Services/.keep
+      - Meet The Team/.keep
+      - Meet-The-Team/About Us.md
+      - Meet-The-Team/who-we-are.md
       - Projects/.keep
-      - Projects/Completed Projects.md
       - Projects/Upcoming Projects.md
+      - Projects/Completed Projects.md
+      - Testing and Services/.keep
+      - testing-and-services/body-composition.md
+      - testing-and-services/anaerobic-test-rast.md
+      - testing-and-services/aerobic-test.md
+      - testing-and-services/lower-body-power.md
+      - testing-and-services/upper-body-power.md
+      - testing-and-services/agility-test.md
+      - testing-and-services/services.md
+      - Resources/.keep
+      - Resources/workshops.md
+      - Resources/Mental Skills Training.md
+      - Resources/Nutrition.md
+      - Resources/Recovery.md
+      - Resources/Periodisation.md
+      - Resources/Strength & Conditioning.md
