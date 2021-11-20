@@ -2,6 +2,7 @@ collections:
   specialist-services:
     output: true
     order:
+      - Athlete Services/Example Title.md
       - Athlete Services/.keep
       - Meet The Team/.keep
       - Meet The Team/About Us.md
