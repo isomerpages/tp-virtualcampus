@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Athlete Services/.keep
-      - Meet The Team/.keep
-      - Meet The Team/About Us.md
-      - Meet The Team/who-we-are.md
+      - Athlete Testing & Services/.keep
+      - Athlete Testing & Services/About Us.md
+      - Athlete Testing & Services/who-we-are.md
       - Projects/.keep
       - Projects/Upcoming Projects.md
       - Projects/Completed Projects.md
