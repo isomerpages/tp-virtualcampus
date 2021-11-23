@@ -9,15 +9,15 @@ collections:
       - Sports Projects/.keep
       - Sports Projects/Upcoming Projects.md
       - Sports Projects/Completed Projects.md
-      - Testing and Services/.keep
-      - Testing and Services/testing-and-services.md
-      - Testing and Services/body-composition.md
-      - Testing and Services/anaerobic-test-rast.md
-      - Testing and Services/aerobic-test.md
-      - Testing and Services/lower-body-power.md
-      - Testing and Services/upper-body-power.md
-      - Testing and Services/agility-test.md
-      - Testing and Services/services.md
+      - Performance Measurement/.keep
+      - Performance Measurement/testing-and-services.md
+      - Performance Measurement/body-composition.md
+      - Performance Measurement/anaerobic-test-rast.md
+      - Performance Measurement/aerobic-test.md
+      - Performance Measurement/lower-body-power.md
+      - Performance Measurement/upper-body-power.md
+      - Performance Measurement/agility-test.md
+      - Performance Measurement/services.md
       - Resources/.keep
       - Resources/workshops.md
       - Resources/Mental Skills Training.md
