@@ -6,9 +6,9 @@ collections:
       - Athlete Testing & Services/.keep
       - Athlete Testing & Services/About Us.md
       - Athlete Testing & Services/who-we-are.md
-      - Projects/.keep
-      - Projects/Upcoming Projects.md
-      - Projects/Completed Projects.md
+      - Sports Projects/.keep
+      - Sports Projects/Upcoming Projects.md
+      - Sports Projects/Completed Projects.md
       - Testing and Services/.keep
       - Testing and Services/testing-and-services.md
       - Testing and Services/body-composition.md
