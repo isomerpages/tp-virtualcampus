@@ -1,18 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/TPlogo.jpg
-
 links:
   - title: Explore
     collection: explore
-  #- title: About
-    #url: /about/
+  - title: Specialist Services
+    collection: specialist-services
   - title: Getting Around TP
-    #collection: the-campus
     sublinks:
       - title: Our Very Cool 360 VR Tour of TP!
         url: https://www.tp.edu.sg/vrtour/
@@ -24,7 +16,3 @@ links:
         url: https://www.tp.edu.sg/
   - title: Contact Us
     url: /contact-us/
-  
-  #- title: Media
-    #resource_room: true
-  

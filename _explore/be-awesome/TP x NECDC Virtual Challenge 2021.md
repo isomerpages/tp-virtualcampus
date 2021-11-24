@@ -25,7 +25,7 @@ Don’t miss this unique opportunity to contribute to TP CCN and get fit in the 
 
 For enquiries, please reach us at virtualchallengeenquiries2021@gmail.com.
 
-Registration ends: **Monday, 15 Nov 2021**
+Registration ends: **Sunday, 28 Nov 2021**
 
 ---
 ### Step 2a: Download Strava App
@@ -54,11 +54,11 @@ Scan the QR code below to download the Adobe Reader app for iOS or Android phone
 
 Watch the video tutorial below for a step-by-step guide to recording their activity with Strava and submitting their activity details.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dqYEHeHTxV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/igD9g-6dKVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The activity submission template can be found [here](http://shorturl.at/jvM45).
 
 Please click on the respective links below to submit your activity results:
 
-[TP Staff & Students](http://shorturl.at/tzNXZ)<br>
-[TP Alumni & Members of Public](https://bit.ly/3nR6Hpc)
+[TP Staff & Students](http://shorturl.at/tzNXZ) **(by 30 November 2021)**<br>
+[TP Alumni & Members of Public](https://bit.ly/3nR6Hpc) **(by 31 December 2021)**
