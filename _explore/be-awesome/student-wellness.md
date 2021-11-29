@@ -9,6 +9,7 @@ third_nav_title: Be Awesome
     <a href="/be-awesome/student-wellness#AIchatbot" class="bp-button">AI Wellness Chatbot</a>
     <a href="/be-awesome/student-wellness#resources" class="bp-button">Resources</a>
     <a href="/be-awesome/student-wellness#programmes" class="bp-button">Programmes</a>
+		<a href="/be-awesome/student-wellness#tppsia" class="bp-button">TP PSiA </a>
 </div>
 
 ---
@@ -68,7 +69,7 @@ Join the Conversation to discuss what MATTERS to You. Look out for student annou
 
 ---
 ## <a id="TPPSiA"></a>TP PSiA 
-Student Care is happy to introduce the formation of  PSiA  [Peer Supporters in-Action] , a new student interest group. This team of dedicated students came together with a common goal to create better awareness of the importance of mental health issues faced by the students.           
+Student Care is happy to introduce the formation of PSiA [Peer Supporters in-Action], a new student interest group. This team of dedicated students came together with a common goal to create better awareness of the importance of mental health issues faced by the students.           
 
 They hope to help create a safe and supportive environment in TP where students feel secure and comfortable sharing their experiences with one another. More details and activities can be found at IG at tp.psia [https://www.instagram.com/tp.psia/](https://www.instagram.com/tp.psia/)
 
