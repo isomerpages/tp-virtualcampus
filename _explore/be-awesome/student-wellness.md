@@ -9,6 +9,7 @@ third_nav_title: Be Awesome
     <a href="/be-awesome/student-wellness#AIchatbot" class="bp-button">AI Wellness Chatbot</a>
     <a href="/be-awesome/student-wellness#resources" class="bp-button">Resources</a>
     <a href="/be-awesome/student-wellness#programmes" class="bp-button">Programmes</a>
+		<a href="/be-awesome/student-wellness#tppsia" class="bp-button">TP PSiA </a>
 </div>
 
 ---
@@ -43,15 +44,33 @@ A wellness chatbot to help you to feel good about yourself while broadening your
 ---
 ## <a id="programmes"></a>Programmes
 
-<b>[Mindfulness Practice](https://teams.microsoft.com/l/team/19%3a7129bed9c2514403b61e391fa39b10e9%40thread.tacv2/conversations?groupId=74bc2baa-fe0b-4ccb-9f1d-f42b762de2cc&tenantId=25a99bf0-8e72-472a-ae50-adfbdf0df6f1) <br>(Term time - Every Wed at 12.30pm)</b>
+<b>[Mindfulness Practice](https://for.edu.sg/mindfulness) <br>(Every Tue, 12noon to 12.30pm, [MS Teams](https://for.edu.sg/mindfulness))</b>
 
 People who practice mindfulness have shared it reduces stress and improves well-being, among other benefits. Look out for student announcements via TP Oei on how to join.
 
 ![Mindfulness Practice](/images/Mindfulness_Term_Jun2021.png)
 
-<b>[E-Forum](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328SjRz33NBKRCtD9jL8F2z3hUMlhPNFhFR1o5UkdOSk1ITkxXUVcxVEZSTC4u)<br>
-(Alternate Wed, 1pm – 2pm)</b>
+<b>[E-Forum](https://for.edu.sg/tp-swp)<br>
+(Every Fortnightly, Wed, 1pm – 2pm, [MS Teams](https://for.edu.sg/tp-swp))</b>
 
 Join the Conversation to discuss what MATTERS to You. Look out for student announcements via TP Oei on the forum topic.  SEAL Points are awarded for participation.
 
+| **E-Forum Dates** | **Topic** |
+| -------- | -------- |
+| 10/11/2021 | Procrastination | 
+| 24/11/2021 | Self-Esteem |
+| 08/12/2021 | Understanding Anxiety |
+| 22/12/2021 | Burnout |
+| 05/01/2022 | Managing Group Relationships |
+| 19/01/2022 | Managing Expectation (self and others) |
+| 09/02/2022 | Managing Exam Stress |
+
 ![E-Forum](/images/e-forum-General.png)
+
+---
+## <a id="tppsia"></a>TP PSiA 
+Student Care is happy to introduce the formation of PSiA [Peer Supporters in-Action], a new student interest group. This team of dedicated students came together with a common goal to create better awareness of the importance of mental health issues faced by the students.           
+
+They hope to help create a safe and supportive environment in TP where students feel secure and comfortable sharing their experiences with one another. More details and activities can be found at IG at tp.psia [https://www.instagram.com/tp.psia/](https://www.instagram.com/tp.psia/)
+
+Check out the latest series of interviews with all TP counsellors via the IG too.
