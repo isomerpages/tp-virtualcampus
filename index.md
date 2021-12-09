@@ -43,8 +43,8 @@ sections:
   - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
-      description: "Join us for a morning conversation with His Excellency Peter
-        Gushcelbauer, Ambassador, Austrian Embassy. "
+      description: "A conversation with His Excellency Peter Gushcelbauer, Ambassador,
+        Austrian Embassy. "
       button: Dialogue Session Details
       url: /be-involved/temasek-lead-programmes/
       image: /images/BeInvolved-LeadEUbanner.jpg
