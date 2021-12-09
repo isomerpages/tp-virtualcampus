@@ -108,4 +108,12 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: RSAF Open House
+      subtitle: It is back!
+      description: A new virtual experience awaits you. Happening from 3 to 19 Dec 2021
+      button: Find out more
+      url: /explore/be-involved/rsaf-openhouse
+      image: /images/rsaf_openhouse_2021.png
+      alt: RSAF OH2021
 ---
