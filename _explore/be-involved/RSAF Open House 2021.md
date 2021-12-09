@@ -6,7 +6,7 @@ third_nav_title: Be Involved
 ---
 ## RSAF Open House 2021
 #### (3 Dec to 19 Dec 2021)
-![RSAF Open House 2021](/images/rsaf_openhouse_2021.png)
+[![RSAF Open House 2021](/images/rsaf_openhouse_2021.png)](www.go.gov.sg/ROH21)
 
 The Republic of Singapore Air Force (RSAF) Open House is making its much-anticipated return this December! It will be held virtually from 3 to 19 Dec 2021 featuring interactive 3D exhibitions and static displays at the virtual exhibition hall, virtual games and challenges for participants to win stars to redeem a host of prizes and souvenirs.
 
