@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: World Mental Health Week
       subtitle: Voice of Change
-      description: Bringing awareness on mental health from 24 Oct to 31 Oct 2021
+      description: An awareness week on mental health from 24 Oct to 31 Oct 2021
       button: Join us
       url: /explore/be-awesome/world-mental-health
       image: /images/BeAwesome-WorldMentalHealth.jpg
