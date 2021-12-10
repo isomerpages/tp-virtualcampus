@@ -17,6 +17,6 @@ Congratulations to all CCA Scholarship 2021 awardees and thank you to our donors
 
 Students who are interested to apply for CCA Scholarship 2022, please keep a look out for the announcements via email and on this page! 
 
-For information on the selection process and conditions of CCA Scholarship, please download from [here](/files/tsea/ccascholarshipcriteria.pdf).
+For information on the selection process and conditions of CCA Scholarship 2021, please download from [here](/files/tsea/ccascholarshipcriteria.pdf).
 
 For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
