@@ -25,6 +25,14 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: RSAF Open House
+      subtitle: It is back!
+      description: A new virtual experience awaits you. Happening from 3 to 19 Dec 2021
+      button: Find out more
+      url: /explore/be-involved/rsaf-openhouse
+      image: /images/rsaf_openhouse_2021.png
+      alt: RSAF OH2021
+  - infopic:
       title: TP x NECDC Virtual Challenge
       subtitle: We are Back!
       description: Run, Walk or even Cycle with your family and friends
@@ -35,7 +43,7 @@ sections:
   - infopic:
       title: World Mental Health Week
       subtitle: Voice of Change
-      description: Bringing awareness on mental health from 24 Oct to 31 Oct 2021
+      description: An awareness week on mental health from 24 Oct to 31 Oct 2021
       button: Join us
       url: /explore/be-awesome/world-mental-health
       image: /images/BeAwesome-WorldMentalHealth.jpg
@@ -43,8 +51,8 @@ sections:
   - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
-      description: "Join us for a morning conversation with His Excellency Peter
-        Gushcelbauer, Ambassador, Austrian Embassy. "
+      description: "A conversation with His Excellency Peter Gushcelbauer, Ambassador,
+        Austrian Embassy. "
       button: Dialogue Session Details
       url: /be-involved/temasek-lead-programmes/
       image: /images/BeInvolved-LeadEUbanner.jpg
