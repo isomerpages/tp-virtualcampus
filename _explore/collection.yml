@@ -2,7 +2,6 @@ collections:
   explore:
     output: true
     order:
-      - be-involved/Staff Appreciation Day.md
       - be-involved/.keep
       - be-involved/temasek-student-excellence-awards-2021.md
       - be-involved/cca-scholarship-2021.md
