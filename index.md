@@ -25,13 +25,14 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
-      title: RSAF Open House
-      subtitle: It is back!
-      description: A new virtual experience awaits you. Happening from 3 to 19 Dec 2021
-      button: Find out more
-      url: /explore/be-involved/rsaf-openhouse
-      image: /images/rsaf_openhouse_2021.png
-      alt: RSAF OH2021
+      title: TP Open House 2022
+      subtitle: Create Your Tomorrow with Us
+      description: Catch exciting programmes in store for you just for this year's TP
+        Open House 2022
+      button: Join Here!
+      url: /explore/be-involved/oh2022
+      image: /images/BeInvolved-OH-cca.gif
+      alt: TP Open House 2022
   - infopic:
       title: TP x NECDC Virtual Challenge
       subtitle: We are Back!
@@ -40,14 +41,6 @@ sections:
       url: /explore/be-awesome/tp-necdc
       image: /images/tpnecdcvc2021.png
       alt: Virtual Challenge
-  - infopic:
-      title: World Mental Health Week
-      subtitle: Voice of Change
-      description: An awareness week on mental health from 24 Oct to 31 Oct 2021
-      button: Join us
-      url: /explore/be-awesome/world-mental-health
-      image: /images/BeAwesome-WorldMentalHealth.jpg
-      alt: World Mental Health
   - infopic:
       title: "EU Comes to TP: Dialogue with Austrian Ambassador"
       subtitle: Global Experience Programme
@@ -116,13 +109,4 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: TP Open House 2022
-      subtitle: Create Your Tomorrow with Us
-      description: Catch exciting programmes in store for you just for this year's TP
-        Open House 2022
-      button: Join Here!
-      url: /explore/be-involved/oh2022
-      image: /images/BeInvolved-OH-cca.gif
-      alt: TP Open House 2022
 ---
