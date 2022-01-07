@@ -16,7 +16,7 @@ TP’s scenic campus belies the hive of youthful energy that throbs within it. W
 ### Take a tour around the CCA Facilities
 **[Tour of #Team Temasek](https://youtu.be/SKWnNUm7rYc)**
 
-### Chat with the Leaders : The CCA Talk Show
+### Chat with the Leaders : The CCA Talk Show - Happening on 08 Jan 2022
 * **3pm: [Student Leadership](https://youtu.be/WEqwrKBMd2g) - Featuring TP Students' Union, Adventure Club, Community Service Club and Sports Club**
 
 * **3.30pm: [Sports Athletes](https://youtu.be/f6cfhgPDqe4) - Featuring Dragon Boat, Floorball, Tennis, Ultimate Frisbee and Bowling**
