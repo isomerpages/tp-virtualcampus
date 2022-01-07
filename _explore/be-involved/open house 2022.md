@@ -11,12 +11,14 @@ TP’s scenic campus belies the hive of youthful energy that throbs within it. W
 
 ### Catch the exciting performances by TP Arts Groups
 
-[Arts Attack - Temasek Arts Centre Special](https://www.youtube.com/watch?v=lJKK6ZD77W4)
+**[Arts Attack - Temasek Arts Centre Special](https://www.youtube.com/watch?v=lJKK6ZD77W4)**
 
 ### Take a tour around the CCA Facilities
-[Tour of #Team Temasek](https://youtu.be/SKWnNUm7rYc)
+**[Tour of #Team Temasek](https://youtu.be/SKWnNUm7rYc)**
 
 ### Chat with the Leaders : The CCA Talk Show
-* 3pm: [Student Leadership](https://youtu.be/WEqwrKBMd2g)
-* 3.30pm: [Sports Athletes](https://youtu.be/f6cfhgPDqe4)
-* 6pm: [Performing Artists](https://youtu.be/82uPMWY7tQU)
+* **3pm: [Student Leadership](https://youtu.be/WEqwrKBMd2g) - Featuring TP Students' Union, Adventure Club, Community Service Club and Sports Club**
+
+* **3.30pm: [Sports Athletes](https://youtu.be/f6cfhgPDqe4) - Featuring Dragon Boat, Floorball, Tennis, Ultimate Frisbee and Bowling**
+
+* **6pm: [Performing Artists](https://youtu.be/82uPMWY7tQU) - Featuring Dance Ensemble, Music Vox, Salvo Drums, Dikir Barat and Digital Media & Production Crew**
