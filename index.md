@@ -42,15 +42,6 @@ sections:
       image: /images/tpnecdcvc2021.png
       alt: Virtual Challenge
   - infopic:
-      title: "EU Comes to TP: Dialogue with Austrian Ambassador"
-      subtitle: Global Experience Programme
-      description: "A conversation with His Excellency Peter Gushcelbauer, Ambassador,
-        Austrian Embassy. "
-      button: Dialogue Session Details
-      url: /be-involved/temasek-lead-programmes/
-      image: /images/BeInvolved-LeadEUbanner.jpg
-      alt: EU Comes to TP
-  - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Ceremony
       image: /images/tseabanner.png
