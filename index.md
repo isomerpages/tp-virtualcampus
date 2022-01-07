@@ -116,4 +116,13 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: TP Open House 2022
+      subtitle: Create Your Tomorrow with Us
+      description: Catch exciting programmes in store for you just for this year's TP
+        Open House 2022
+      button: Join Here!
+      url: /explore/be-involved/oh2022
+      image: /images/BeInvolved-OH-cca.gif
+      alt: TP Open House 2022
 ---
