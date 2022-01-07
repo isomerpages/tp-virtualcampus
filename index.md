@@ -34,13 +34,14 @@ sections:
       image: /images/BeInvolved-OH-cca.gif
       alt: TP Open House 2022
   - infopic:
-      title: TP x NECDC Virtual Challenge
-      subtitle: We are Back!
-      description: Run, Walk or even Cycle with your family and friends
-      button: Sign up here
-      url: /explore/be-awesome/tp-necdc
-      image: /images/tpnecdcvc2021.png
-      alt: Virtual Challenge
+      title: 2021 ciNE65 Movie Makers Awards
+      subtitle: AWARDS
+      description: Congratulations to TP Design for winning the 2021 ciNE65
+        Inter-School Challenge Trophy🏆!
+      button: FIND OUT MORE
+      url: /be-entertained/digital-film-television/
+      image: /images/ciNE65_awards_students.png
+      alt: ciNE65 Movie Makers Awards
   - infopic:
       title: Temasek Student Excellence Awards 2021
       subtitle: Award Ceremony
@@ -52,21 +53,20 @@ sections:
       url: /be-involved/tsea2021
       alt: TSEA2021
   - infopic:
+      title: TP x NECDC Virtual Challenge
+      subtitle: We are Back!
+      description: Run, Walk or even Cycle with your family and friends
+      button: Sign up here
+      url: /explore/be-awesome/tp-necdc
+      image: /images/tpnecdcvc2021.png
+      alt: Virtual Challenge
+  - infopic:
       title: TP National Day Celebration 2021
       description: Missed the TP National Day Concert?
       button: Catch the show here
       url: /be-entertained/tpndc
       image: /images/BeEntertained-NDCshow1.png
       alt: National Day Celebration 2021
-  - infopic:
-      title: 2021 ciNE65 Movie Makers Awards
-      subtitle: AWARDS
-      description: Congratulations to TP Design for winning the 2021 ciNE65
-        Inter-School Challenge Trophy🏆!
-      button: FIND OUT MORE
-      url: /be-entertained/digital-film-television/
-      image: /images/ciNE65_awards_students.png
-      alt: ciNE65 Movie Makers Awards
   - infopic:
       title: Temasek Spectacular Virtual Concert 2021
       subtitle: Freshmen Orientation Programme
