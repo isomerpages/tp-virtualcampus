@@ -4,7 +4,6 @@ permalink: /explore/be-awesome/tp-necdc
 third_nav_title: Be Awesome
 ---
 ### Step 1: Register for the TP-NECDC Virtual Challenge 2021
-
 ![TPNECDC2021](/images/tpnecdcvc2021.png)
 
 Lace up your shoes, we are back! TP will be partnering with North-East Community Development Council (NECDC) to organise the TP-NECDC Virtual Challenge 2021.
@@ -29,18 +28,15 @@ Registration ends: **Sunday, 28 Nov 2021**
 
 ---
 ### Step 2a: Download Strava App
-
 Strava is a mobile app with a built-in GPS that allows you to track your run, walk or cycle. 
 
 Scan the QR code below to download the Strava app for iOS or Android phones!
-
 
 | **iOS** | **Android** |
 | -------- | -------- |
 | ![Strava iOS](/images/BeAwesome-stravaios.png)| ![Strava Android](/images/BeAwesome-Strava-Android.png)|
 
 ### Step 2b: Download Adobe Reader
-
 Adobe Reader is required to upload and submit your race results. 
 
 Scan the QR code below to download the Adobe Reader app for iOS or Android phones!
@@ -51,7 +47,6 @@ Scan the QR code below to download the Adobe Reader app for iOS or Android phone
 
 ---
 ### Step 3: Record Your Activity with Strava and Submission of Activity Details
-
 Watch the video tutorial below for a step-by-step guide to recording their activity with Strava and submitting their activity details.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/igD9g-6dKVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
