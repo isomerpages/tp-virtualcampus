@@ -4,7 +4,6 @@ title: Highlights
 permalink: /be-updated/event-highlights/
 third_nav_title: Be Updated
 ---
-
 ### Stay Updated With TP
 
 Tips, trends and awesome campus life happenings, right here on our social channels! Check us out!
