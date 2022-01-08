@@ -37,7 +37,7 @@ Scan the QR code below to download the Strava app for iOS or Android phones!
 
 | **iOS** | **Android** |
 | -------- | -------- |
-| ![Strava iOS](/images/BeAwesome-stravaios.png)| ![Alt text for image on Isomer site](/images/BeAwesome-Strava-Android.png)|
+| ![Strava iOS](/images/BeAwesome-stravaios.png)| ![Strava Android](/images/BeAwesome-Strava-Android.png)|
 
 ### Step 2b: Download Adobe Reader
 
@@ -56,7 +56,7 @@ Watch the video tutorial below for a step-by-step guide to recording their activ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/igD9g-6dKVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The activity submission template can be found [here](http://shorturl.at/jvM45).
+Download the activity submission [template](http://shorturl.at/jvM45).
 
 Please click on the respective links below to submit your activity results:
 
