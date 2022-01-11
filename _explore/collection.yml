@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - be-involved/TP Arts Festival 2022.md
       - be-involved/Open House 2022.md
       - be-involved/.keep
       - be-involved/temasek-student-excellence-awards-2021.md
