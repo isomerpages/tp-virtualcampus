@@ -99,4 +99,11 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: TP Arts Festival 2022
+      subtitle: March of Arts
+      description: Exciting arts shows
+      button: Visit Us now
+      url: /explore/be-involved/tpaf2022
+      alt: Image alt text
 ---
