@@ -25,6 +25,13 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: TP Arts Festival 2022
+      subtitle: March of Arts
+      description: Exciting arts shows
+      button: Visit Us now
+      url: /explore/be-involved/tpaf2022
+      alt: Image alt text
+  - infopic:
       title: TP Open House 2022
       subtitle: Create Your Tomorrow with Us
       description: Catch exciting programmes happening at this year's TP Open House 2022
@@ -99,11 +106,4 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: TP Arts Festival 2022
-      subtitle: March of Arts
-      description: Exciting arts shows
-      button: Visit Us now
-      url: /explore/be-involved/tpaf2022
-      alt: Image alt text
 ---
