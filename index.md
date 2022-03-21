@@ -50,7 +50,7 @@ sections:
       description: "Soak up the #TPFam vibes and have fun in the sun at our annual
         dragon boat contest for staff and students!"
       button: PADDLES UP
-      url: /be-involved/freshmenorientation/
+      url: /be-involved/freshmenorientation/#regatta
       alt: Dragon Boat
   - infopic:
       title: TP Open House 2022
