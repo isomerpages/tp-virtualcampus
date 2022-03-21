@@ -26,13 +26,32 @@ sections:
           url: /be-caring/caring-for-community/
   - infopic:
       title: Freshmen Orientation Programme 2022
-      subtitle: Infopic Subtitle
+      subtitle: Freshmen Orientation Programme
       description: Dear Freshmen, welcome to the TP Fam! The Freshmen Orientation
         Programme is where you will start your journey with us!
       button: DISCOVER THE ACTION
       url: /be-involved/freshmenorientation
       image: /images/FOP EDM_1920px by 1080px.jpg
       alt: freshmenorientation 2022
+  - infopic:
+      title: Temasek Spectacular Concerts 2022
+      subtitle: Freshmen Orientation Programme
+      image: /images/Temasek Spectacular (1)_1920px by 1080px.jpg
+      description: "Experience the best of TP’s vibrancy through a series of ‘live’
+        in-person concerts, featuring exciting arts performances not to be
+        missed! "
+      button: BE ENTHRALLED HERE
+      url: /be-involved/freshmenorientation/#spectacular
+      alt: Spectacular Concerts
+  - infopic:
+      title: Temasek Regatta 2022
+      subtitle: Freshmen Orientation Programme
+      image: /images/Temasek Regatta EDM_1920px by 1080px.jpg
+      description: "Soak up the #TPFam vibes and have fun in the sun at our annual
+        dragon boat contest for staff and students!"
+      button: PADDLES UP
+      url: /be-involved/freshmenorientation/
+      alt: Dragon Boat
   - infopic:
       title: TP Open House 2022
       subtitle: Create Your Tomorrow with Us
@@ -75,23 +94,6 @@ sections:
       url: /be-entertained/tpndc
       image: /images/BeEntertained-NDCshow1.png
       alt: National Day Celebration 2021
-  - infopic:
-      title: Temasek Spectacular Virtual Concert 2021
-      subtitle: Freshmen Orientation Programme
-      image: /images/Infopic-TemasekSpectacular.png
-      description: A performance showcase of epic proportions - Relive the Friendship
-        Games and catch the groovy TikTok videos!
-      button: Relive the Excitement!
-      url: /be-involved/freshmenorientation/#spectacular
-      alt: Virtual Concert
-  - infopic:
-      title: Temasek Friendship Games 2021 Dragonboating
-      subtitle: Freshmen Orientation Programme
-      image: /images/Infopic-FriendshipGamesDB.png
-      description: Watch the schools paddle their way to victory!
-      button: Paddles Up
-      url: /be-involved/freshmenorientation/
-      alt: Dragon Boat
   - infopic:
       title: Temasek Arts Festival 2021
       subtitle: Concerts Galore
