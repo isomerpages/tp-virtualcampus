@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/VC_eBanner.jpg
+      background: /images/Web Banner_1080px X 360px.jpg
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
@@ -24,6 +24,15 @@ sections:
           description: Check out the other channels to see what else is happening around
             campus!
           url: /be-caring/caring-for-community/
+  - infopic:
+      title: Freshmen Orientation Programme 2022
+      subtitle: Infopic Subtitle
+      description: Dear Freshmen, welcome to the TP Fam! The Freshmen Orientation
+        Programme is where you will start your journey with us!
+      button: DISCOVER THE ACTION
+      url: /be-involved/freshmenorientation
+      image: /images/FOP EDM_1920px by 1080px.jpg
+      alt: freshmenorientation 2022
   - infopic:
       title: TP Open House 2022
       subtitle: Create Your Tomorrow with Us
