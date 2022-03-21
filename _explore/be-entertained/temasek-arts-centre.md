@@ -6,7 +6,8 @@ third_nav_title: Be Entertained
 ---
 ### Dreams XII Concert – Back to LIVE
 ![Dreams XII Concert](/images/DREAMS XII Poster Square.png)
-Dreams XII Concert – Back to LIVE  
+
+**Dreams XII Concert – Back to LIVE**  
 Date: 26 Mar 2022, Sat  
 Time: 6pm (est. duration 1hr)  
 Venue: Auditorium 1  
