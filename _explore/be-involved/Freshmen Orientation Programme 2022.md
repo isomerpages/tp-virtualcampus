@@ -38,7 +38,7 @@ _*Safe Management Measures apply_
 ---
 ### <a id="regatta"></a>Temasek Regatta 2022
 
-The annual dragon boat contest – Temasek Regatta – is back and they are better than ever! A staple highlight in the Freshmen Orientation Programme calendar, this event fosters camaraderie and friendly competition among our student community. What better way is there to beat the year-round tropical heat than by bonding with your peers in a unique and safe* environment at our own backyard – Bedok Reservoir? 
+The annual dragon boat contest – Temasek Regatta – is back and they are better than ever! A staple highlight in the Freshmen Orientation Programme calendar, this event fosters camaraderie and friendly competition among our student community. What better way to beat the year-round tropical heat than by bonding with your peers in a unique and safe* environment at our own backyard – Bedok Reservoir?
 
 The 2-hour session includes:
 * 1 hour of registration and safety briefing at TP
