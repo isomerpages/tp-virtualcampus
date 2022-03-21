@@ -36,7 +36,7 @@ _*Safe Management Measures apply_
 ![Temasek Spectacular](/images/Temasek%20Spectacular%20(3)_2625px%20by%201479px.jpg)
 
 ---
-### <a id="friendshipgames"></a>Temasek Regatta 2022
+### <a id="regatta"></a>Temasek Regatta 2022
 
 The annual dragon boat contest – Temasek Regatta – is back and they are better than ever! A staple highlight in the Freshmen Orientation Programme calendar, this event fosters camaraderie and friendly competition among our student community. What better way is there to beat the year-round tropical heat than by bonding with your peers in a unique and safe* environment at our own backyard – Bedok Reservoir? 
 
