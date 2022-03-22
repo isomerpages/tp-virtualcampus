@@ -10,17 +10,17 @@ permalink: /interest_groups/tp_spirit_of_enterprise/
             <td style="width:33%"><image src="/images/CCA_tp_spirit_of_enterprise.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></image></td>
             <td>
                 <p>
-                    TP-Spirit Of Enterprise (SOE) Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
+                    Spirit Of Enterprise (SOE)-TP Student Chapter aims to foster an entrepreneurial spirit and mind-set among students in the School of Business and TP.<br>
                     <br>
-                    We also train the executive committee to organise entrepreneurship webinars and workshops as well as networking sessions with Spirit of Enterprise's mentors and industry start-ups to develop entrepreneurship capabilities.<br>
+                    The Student Chapter develops entrepreneurship capabilities by organising entrepreneurship events, webinars and workshops, networking sessions with industry mentors and start-ups, participation in, and organising of hackathons.<br>
                     <br>
                 </p>
                 <p>
                    <b>Achievements:</b><br>
-                   School of Business and School of IIT have co-created a TP marketplace (a ‘sandbox’ on Mobile Commerce) to influence fellow students to embark on an innovation and entrepreneurial journey.<br>
+                   The Student Chapter has collaborated with both the School of Business and School of IIT to co-create a TP marketplace app (a ‘sandbox’ on Mobile Commerce) to influence fellow students to embark on an innovation and entrepreneurial journey.<br>
                     <br>
                     <b>Meeting Day:</b><br>
-                    Event basis<br>
+                    Monthly EXCO meeting / Event Basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:johnlow@tp.edu.sg">Mr John Low</a><br>
                     <br>

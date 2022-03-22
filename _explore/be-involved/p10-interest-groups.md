@@ -240,18 +240,13 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
             </td>
         </tr>
         <tr>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>TP Social Impact Catalyst</h4>
-                <a href="/interest_groups/tp_social_impact_catalyst/">
-                    <image src="/images/CCA_tp_social_impact_catalyst.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Social Impact Catalyst">
-                    </image>
-                </a>
-            </td>
-           <td style="width:49%; vertical-align:bottom; border:none"><br><h4>TP-Spirit of Enterprise</h4>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>TP-Spirit of Enterprise</h4>
                 <a href="/interest_groups/tp_spirit_of_enterprise/">
                     <image src="/images/CCA_tp_spirit_of_enterprise.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
                     </image>
                 </a>
             </td>
+            <td></td>
         </tr>
      </table>
 </div>
