@@ -17,14 +17,14 @@ permalink: /interest_groups/entrepreneurship_group/
                 <ul>
                     <li>The Entrepreneurship Group won the 2nd runner up for the National Anti-Scam Makeathon 2019 organised by the Singapore Police Force and the National Crime Prevention Council.</li>
                     <li>Won the 2nd runner-up for the Business Challenge Competition in February 2021, which was organised by the Innovation & Entrepreneurship Department in TP.</li>
-                    <li>Organised TP Sustainability Competition in October 2021 with the support of TP staff and external partners. This competiton was opened to all TP students, calling for innovation & ideation for sustainability/eco-awareness.</li>
-                    <li>We have also hosted workshops with Tampines Residency in September 2021  and hoste another workshop to promote financial management and literacy among the residents of the Tampines estate in January 2022.</li>
+                    <li>Organised TP Sustainability Competition in October 2021 with the support of TP staff and external partners. This competition was opened to all TP students, calling for innovation & ideation for sustainability/eco-awareness.</li>
+                    <li>We have also hosted workshops with Tampines Residency in September 2021 and hosted another workshop to promote financial management and literacy among the residents of the Tampines estate in January 2022.</li>
                 </ul>
                 <p>    
                     <b>Meeting Day:</b><br>
                     Bi-weekly online or offline meeting and monthly regular event for members and sub-committees<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong (Advisor)</a>,  <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng (Co-advisor)</a><br>, <a href="mailto:Alice_LAU-LIM@TP.EDU.SG">Ms Alice Lau (Co-advisor)</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong (Advisor)</a>, <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng (Co-advisor)</a>, <a href="mailto:Alice_LAU-LIM@TP.EDU.SG">Ms Alice Lau (Co-advisor)</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpec_enspire">Instagram</a>
                 </p>
