@@ -2,12 +2,12 @@ collections:
   explore:
     output: true
     order:
-      - be-involved/Open House 2022.md
       - be-involved/.keep
+      - be-involved/Freshmen Orientation Programme 2022.md
+      - be-involved/Open House 2022.md
       - be-involved/temasek-student-excellence-awards-2021.md
       - be-involved/cca-scholarship-2021.md
       - be-involved/cca-virtual-fair-2021.md
-      - be-involved/freshmen-orientation-programme-2021.md
       - be-involved/performing-arts.md
       - be-involved/sports.md
       - be-involved/p10-interest-groups.md

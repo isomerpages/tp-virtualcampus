@@ -10,15 +10,21 @@ permalink: /interest_groups/entrepreneurship_group/
             <td style="width:33%"><image src="/images/CCA_entrepreneurship_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Group"></image></td>
             <td>
                 <p>
-                    The Temasek Polytechnic Entrepreneurship Group aims to provide a platform to identify, nurture and groom students who possess interest and strength in innovation and entrepreneurship. Members will be expected to promote entrepreneurial mindset and organise relevant activities such as talks, workshops, competitions, trips and events for their TP peers.<br>
+                    The Temasek Polytechnic Entrepreneurship Group aims to provide a platform to identify, nurture and groom students who possess interest and strength in innovation and entrepreneurship. Members will be expected to promote entrepreneurial mindset and organise relevant activities such as talks, workshops, competitions, trips and events for their TP peers and the community. Effective April 2022, Temasek Polytechnic Social Impact Catalyst (TPSIC) will  merge into the TPEC family. This move welcomes the introduction of Social Entrepreneurship and elements into its line-up of activities.<br>
                     <br>
                     <b>Achievements:</b><br>
-                    The Entrepreneurship Group had won the 2nd runner up for the National Anti-Scam Makeathon 2019 organised by the Singapore Police Force and the National Crime Prevention Council<br>
-                    <br>
+                </p>
+                <ul>
+                    <li>The Entrepreneurship Group won the 2nd runner up for the National Anti-Scam Makeathon 2019 organised by the Singapore Police Force and the National Crime Prevention Council.</li>
+                    <li>Won the 2nd runner-up for the Business Challenge Competition in February 2021, which was organised by the Innovation & Entrepreneurship Department in TP.</li>
+                    <li>Organised TP Sustainability Competition in October 2021 with the support of TP staff and external partners. This competition was opened to all TP students, calling for innovation & ideation for sustainability/eco-awareness.</li>
+                    <li>We have also hosted workshops with Tampines Residency in September 2021 and hosted another workshop to promote financial management and literacy among the residents of the Tampines estate in January 2022.</li>
+                </ul>
+                <p>    
                     <b>Meeting Day:</b><br>
-                    Event basis<br>
+                    Bi-weekly online or offline meeting and monthly regular event for members and sub-committees<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong</a> and <a href="mailto:Alice_LAU-LIM@TP.EDU.SG">Ms Alice Lau</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong (Advisor)</a>, <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng (Co-advisor)</a>, <a href="mailto:Alice_LAU-LIM@TP.EDU.SG">Ms Alice Lau (Co-advisor)</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpec_enspire">Instagram</a>
                 </p>

@@ -10,12 +10,23 @@ permalink: /interest_groups/project_innov8/
             <td style="width:33%"><image src="/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></image></td>
             <td>
                 <p>
-                    It is about cultivating innovation culture among TP students, from all schools. Project Innov8 strives in sparking creativity, transformative thinking, collaboration, turning ideas into valued reality that will impact learning journey and society. Activities range from simple, fun to challenging, complex, real life innovation yet allow creative expression towards value creation without worry of failure.<br>
-                <br>
+                    Project Innov8 (Pi8) is about cultivating a culture of innovation among TP students from all schools. Pi8 strives to spark creativity, transformative thinking and collaboration, as well as turning ideas into valued reality that will impact students' learning journey and the society. The activities organised range from simple, fun to challenging levels, which will allow creative expression and value creation by students, without any worry of failure.<br>
+                    <br>
+                    <b>Achievements:</b><br>
+                </p>
+                <ul>
+                    <li>Samsung Answer for Tomorrow Top 10</li>
+                    <li>NTU Young Innovators Challenge</li>
+                    <li>TP Innovation Program - Seed Funding</li>
+                    <li>AI Singapore Media Trusted Challenge</li>
+                    <li>ASEAN Big Data Competition</li>
+                    <li>River Valley Irregular Youth Program </li>
+                </ul>
+                <p>
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Martin_John@tp.edu.sg">Mr John Martin Wangko</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Martin_John@tp.edu.sg">Mr John Martin Wangko</a>, <a href="mailto:Nathanael_MAH@tp.edu.sg">Mr Nathanael Mah</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/projectinnov8/">Instagram</a>
                 </p>

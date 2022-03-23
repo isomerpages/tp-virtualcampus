@@ -15,7 +15,7 @@ permalink: /interest_groups/tp_ambassadors/
                     <b>Meeting Day:</b><br>
                     Monthly<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Azhar_TALIB@TP.EDU.SG">Mr Azhar Talib</a> and <a href="mailto:Tiffany_Goh@TP.EDU.SG">Ms Tiffany Goh</a><br>
+                    <b>CCA Staff Advisor:</b><a href="mailto:Tiffany_Goh@TP.EDU.SG">Ms Tiffany Goh</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tp_ambassadors">Instagram</a>
                 </p>
