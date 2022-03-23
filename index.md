@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Web Banner_1920px X 572px (Resized).jpg
+      background: /images/Web Banner_1920px X 572px (REVISION033).jpg
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
