@@ -11,6 +11,7 @@ third_nav_title: Be Entertained
 Date: 26 Mar 2022, Sat  
 Time: 6pm (est. duration 1hr)  
 Venue: Auditorium 1  
+[Register now](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328ZJPM0CUnglOu7j39KE_EgpUQlBPU1g4NEEwVzFBVUdMWEU3VlMxN0cwNi4u)!
 
 If you remember and miss the good old days of in-person concerts as part of our regular vibrant campus life, you will be glad to hear that DREAMS XII is making a comeback this very week! Happening at Auditorium 1 on Saturday the 26th of March 2022, “Back to LIVE” showcases our very own Temasek Arts Centre students. Specially for TP staff and students, come catch a dynamic production involving LIVE, immersive and video content just for you!
 
