@@ -25,6 +25,15 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: Dreams XII Concert – Back to LIVE
+      subtitle: Temasek Arts Centre Production
+      description: '"Back to LIVE" in-person concert showcases our very own Temasek
+        Arts Centre performances'
+      button: Register here
+      url: /be-entertained/temasek-arts-centre/
+      image: /images/DREAMS XII Poster Square.png
+      alt: Image alt text
+  - infopic:
       title: Freshmen Orientation Programme 2022
       subtitle: Freshmen Orientation Programme
       description: Dear Freshmen, welcome to the TP Fam! The Freshmen Orientation
