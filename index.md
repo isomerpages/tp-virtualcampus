@@ -110,4 +110,13 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: Dreams XII Concert – Back to LIVE
+      subtitle: Temasek Arts Centre Production
+      description: '"Back to LIVE" in-person concert showcases our very own Temasek
+        Arts Centre performances'
+      button: Register here
+      url: /be-entertained/temasek-arts-centre/
+      image: /images/DREAMS XII Poster Square.png
+      alt: Image alt text
 ---
