@@ -21,7 +21,7 @@ permalink: /sports/kayak_racing/
                 </ul>
             </p>
             <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:julianqj@tp.edu.sg">Mr Julian Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:KOH_Wen_Kiat@TP.EDU.SG">Mr Koh Wen Kiat</a><br>
                 <br>
             </p>
         </td>

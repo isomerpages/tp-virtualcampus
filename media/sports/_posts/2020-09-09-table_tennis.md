@@ -13,15 +13,15 @@ permalink: /sports/table_tennis/
                 <br>
                 <b>Achievements:</b>
                 <ul>
-                 <li>POL-ITE Games 2019: 4th (Men’s Team) & Bronze (Women’s Team)</li>
                  <li>IVP Games 2020: 4th (Women’s Team)</li>
+                 <li>POL-ITE Games 2019: 4th (Men’s Team) & Bronze (Women’s Team)</li>
                 </ul>
             </p>
             <p>
                 <b>Training Days:</b><br>
                 Monday & Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:wkkoh@tp.edu.sg">Mr Koh Wen Kiat</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Charis_Woo@tp.edu.sg">Ms Charis Woo</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tptabletennis">Instagram</a>
             </p>

@@ -13,8 +13,8 @@ permalink: /sports/badminton/
                 <br>                
                 <b>Achievements:</b><br>
                 <ul>
-                   <li>POL-ITE Games 2019: Bronze (Men’s Team) & 4th (Women’s Team)</li>
-                   <li>IVP Games 2020: Bronze (Women’s Team)</li>
+                    <li>IVP Games 2020: Bronze (Women’s Team)</li>
+                    <li>POL-ITE Games 2019: Bronze (Men’s Team) & 4th (Women’s Team)</li>
                 </ul>
             </p>
             <p>
