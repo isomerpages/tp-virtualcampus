@@ -10,7 +10,7 @@ permalink: /performing_arts/digital_media/
         <td style="width:33%"><image src="/images/CCA_digital_media.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Media and Production Crew"></image></td>
         <td>
             <p>
-                Digital Media & Production Crew forms the backbone of all performing arts groups by providing extensive technical support. Other than providing the essentials such as lighting, sound, video, stage management, photography, videography and front-of-house, they also organise campus-wide events such as the annual DREAMS Concert.<br>
+                The Digital Media & Production Crew (DMPC) enables all of our performing arts groups to be seen, heard and on stage. Engaging with technical and production management, audio, visual, lighting and staging along with capturing special moments on camera, they make real magic happen. The tight-knit and dedicated group has managed the pivot to digital productions with excellence, whilst eagerly driving the return to live events. Members receive training in a multitude of production areas from current industry practitioners, who are passionate about what they do. Along with regular activities, they also organise all scales of events including the exciting annual DREAMS Concert.<br>
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
@@ -23,7 +23,7 @@ permalink: /performing_arts/digital_media/
                 <b>Training Days:</b><br>
                 Thursday, 7pm to 9pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Mark_Spencer@tp.edu.sg">Mr Mark Spencer</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp.dmpc">Instagram</a>
             </p>

@@ -10,7 +10,7 @@ permalink: /performing_arts/indian_dance/
         <td style="width:33%"><image src="/images/CCA_indian_dance.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Indian Dance"></image></td>
         <td>
             <p>
-                Temasek Polytechnic (TP) Indian Dance Group (IDG) trains in the various dance forms such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance forms. IDG's members do their own choreography and have been featured at various major events. IDG promotes and showcases its colourful and enthralling dance forms and charming performances, leaving the audience asking for more.<br>
+                Temasek Polytechnic (TP) Indian Dance Group (IDG) trains in the various dance forms, such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance. IDG's members do their own choreography and have been featured at various major events. IDG promotes and showcases its colourful and enthralling dance forms and charming performances, leaving the audience asking for more.<br>
                 <br>
                 <b>Achievements/Features:</b><br>
                 <ul>
@@ -30,7 +30,7 @@ permalink: /performing_arts/indian_dance/
                 </ul>
             </p>
             <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:chrislee@tp.edu.sg">Mr Xris Li</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Aidli_MOSBIT@tp.edu.sg">Ms Aidli Mosbit</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpindiandance">Instagram</a>
             </p>

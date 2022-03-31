@@ -28,7 +28,7 @@ permalink: /performing_arts/dikir_barat/
                 </ul>
             </p>
             <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:chrislee@tp.edu.sg">Mr Xris Li</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Aidli_MOSBIT@tp.edu.sg">Ms Aidli Mosbit</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpdikir">Instagram</a>
             </p>
