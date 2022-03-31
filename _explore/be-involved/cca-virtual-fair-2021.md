@@ -19,7 +19,7 @@ Register your interest now and reserve your tickets for In-Person Fairs* as well
 
 _*Safe Management Measures apply_
 
-<u>**In-Person, 4pm to 8pm**</u>
+**<u>In-Person, 4pm to 8pm</u>**
 
 * **Performing Arts** – 26 Apr @ Sports & Arts Centre (Blk 26A, Level 2)
 * **Clubs & Interest Groups** – 26 Apr @ Sports Complex (Blk 29)
@@ -27,7 +27,7 @@ _*Safe Management Measures apply_
 
 Reserve your tickets for the In-Person Fairs [here](/files/CCA Fair 2022 - Registration of Interest.pdf)!
 
-<u>**Virtual (Via MS Teams), 6pm to 8pm**</u>
+**<u>Virtual (Via MS Teams), 6pm to 8pm</u>**
 
 Register your interest via the clickable links below. You will be emailed the meeting link on the day itself.
 
@@ -39,14 +39,37 @@ For School-based Interest Groups, register your interest [here](https://forms.of
 
 Keen to find out more about our CCAs prior to the In-Person and Virtual Fairs? Click on the links below!
 
-![Performing Arts](/images/Performing Arts.jpg)
-[**Performing Arts**](/be-involved/performing-arts/)
-
-![Clubs & Interest Groups](/images/Clubs & Interest Groups.jpg)
-[**Clubs & Interest Groups**](/be-involved/p10-interest-groups/)
-
-![Sports](/images/Sports.jpg)
-[**Sports**](/be-involved/sports/)
-
-![School-based Interest Groups](/images/School-Based Interest Groups.jpg)
-[**School-based Interest Groups**](/be-involved/diploma_interest_groups)
+<table>
+    <tr>
+        <td style="width:50%"><br>
+            <a href="/be-involved/performing-arts/">
+                <image src="/images/Performing Arts.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
+                <h6 style="margin-top:0%">Performing Arts</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:50%"><br>
+            <a href="/be-involved/sports/">
+                <image src="/images/Sports.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
+                <h6 style="margin-top:0%">Sports</h6>
+                </image>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:50%"><br>
+            <a href="/be-involved/p10-interest-groups/">
+                <image src="/images/Clubs & Interest Groups.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
+                <h6 style="margin-top:0%">Clubs & Interest Groups</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:50%"><br>
+            <a href="/be-involved/diploma_interest_groups">
+                <image src="/images/School-Based Interest Groups.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
+                <h6 style="margin-top:0%">School-based Interest Groups</h6>
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
