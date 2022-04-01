@@ -24,9 +24,9 @@ permalink: /interest_groups/project_innov8/
                 </ul>
                 <p>
                     <b>Meeting Day:</b><br>
-                    Event basis<br>
+                    Event, bi-weekly basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Martin_John@tp.edu.sg">Mr John Martin Wangko</a>, <a href="mailto:Nathanael_MAH@tp.edu.sg">Mr Nathanael Mah</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Martin_John@tp.edu.sg">Mr John Martin Wangko</a> and <a href="mailto:Nathanael_MAH@tp.edu.sg">Mr Nathanael Mah</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/projectinnov8/">Instagram</a>
                 </p>
