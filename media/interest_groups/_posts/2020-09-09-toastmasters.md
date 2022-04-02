@@ -22,8 +22,8 @@ permalink: /interest_groups/toastmasters/
                     <li>2nd runner up in the Area S4 Speech Contest Contest (2021)</li>
                     <li>2nd runner up in the S1/S4 District 80 Table Topics Contest (2020)</li>
                     </ul>
-                    <br>
-                    <br>
+                </p>
+                <p>
                     <b>Training Day:</b><br>
                     1st and 3rd Friday, 6.30pm to 8.30pm<br>
                     <br>

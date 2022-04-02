@@ -10,8 +10,7 @@ permalink: /interest_groups/tp_cd_lionhearters/
             <td style="width:33%"><image src="/images/CCA_tp_cd_lionhearters.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters"></image></td>
             <td>
                 <p>
-                    The Civil Defence (CD) Lionhearters Club members are youth volunteers under the Singapore Civil Defence Force. This groups provides an avenue for tertiary students to be engaged in civil defence, emergency preparedness and humanitarian missions. Some of the activities that members can look forward to include:<br>
-                    <br>
+                    The Civil Defence (CD) Lionhearters Club members are youth volunteers under the Singapore Civil Defence Force. This groups provides an avenue for tertiary students to be engaged in civil defence, emergency preparedness and humanitarian missions. Some of the activities that members can look forward to include:
                 </p>
                     <ul>
                         <li>Singapore-Global Firefighters and Paramedics Challenge (SGFPC)</li>
