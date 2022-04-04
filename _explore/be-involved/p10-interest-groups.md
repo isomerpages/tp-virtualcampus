@@ -246,7 +246,12 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
                     </image>
                 </a>
             </td>
-            <td></td>
+            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Visual Arts & Writing Club</h4>
+                <a href="/interest_groups/visual_arts_writing_club/">
+                    <image src="/images/vawctp.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts & Writing Club">
+                    </image>
+                </a>
+            </td>
         </tr>
      </table>
 </div>

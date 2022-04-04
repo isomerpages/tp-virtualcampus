@@ -23,6 +23,8 @@ permalink: /sports/badminton/
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:wkkoh@tp.edu.sg">Mr Koh Wen Kiat</a><br>
                 <br>
+                <a href="https://www.instagram.com/tpbadminton/"><b>CCA Instagram</b></a><br>
+                <br>
             </p>
         </td>
     </tr>

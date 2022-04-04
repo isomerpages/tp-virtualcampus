@@ -18,7 +18,7 @@ permalink: /interest_groups/japanese_cultural_group/
                     <ul>
                         <li>Ishikawa Prefecture Kanazawa Commercial High School, taking part in an e-exchange programme with their students</li>
                         <li>Japanese Association of Singapore (JAS), taking part in their annual Sports Carnival and Natsu Matsuri (summer festival)</li>
-                        <li>Shizuoka Prefectural Government Representative Office Registered in Singapore, flying drones at the foot of Mt Fuji – remotely in Singapore</li>
+                        <li>Shizuoka Prefectural Government Representative Office (registered in Singapore), flying drones at the foot of Mt Fuji – remotely in Singapore</li>
                     </ul>
                 <p>
                     <b>CCA Staff Advisor:</b> <a href="mailto:chanlj@tp.edu.sg">Mr Leslie Chan</a><br>

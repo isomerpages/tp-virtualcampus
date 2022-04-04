@@ -23,6 +23,8 @@ permalink: /sports/kayak_racing/
             <p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:KOH_Wen_Kiat@TP.EDU.SG">Mr Koh Wen Kiat</a><br>
                 <br>
+                <a href="https://www.instagram.com/tpkayakracingteam/"><b>CCA Instagram</b></a><br>
+                <br>
             </p>
         </td>
     </tr>

@@ -25,7 +25,7 @@ _*Safe Management Measures apply_
 * **Clubs & Interest Groups** – 26 Apr @ Sports Complex (Blk 29)
 * **Sports** – 27 Apr @ Sports & Arts Centre (Blk 26A, Level 2) & Sports Complex (Blk 29)
 
-Reserve your tickets for the In-Person Fairs [here](/files/CCA Fair 2022 - Registration of Interest.pdf)!
+Reserve your tickets for the In-Person Fairs [here](/files/Registration link for In-Person Fair and Booth Allocation.pdf)!
 
 **<u>Virtual (Via MS Teams), 6pm to 8pm</u>**
 

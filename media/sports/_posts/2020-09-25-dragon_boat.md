@@ -19,6 +19,8 @@ permalink: /sports/dragon_boat/
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:ngqihui@tp.edu.sg">Ms Ng Qihui</a> and <a href="mailto:Charis_WOO@tp.edu.sg">Ms Charis Woo</a><br>
                 <br>
+                <a href="https://www.instagram.com/temasekpolydragonboat/"><b>CCA Instagram</b></a><br>
+                <br>
             </p>
         </td>
     </tr>
