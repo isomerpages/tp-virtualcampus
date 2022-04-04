@@ -23,7 +23,7 @@ permalink: /sports/basketball/
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:joncsw@tp.edu.sg">Mr Jonathan Chua</a><br>
                 <br>
-                <a href="https://www.instagram.com/temasekpoly_basketball/"><b>CCA Instagram</b></a><br>
+                CCA <a href="https://www.instagram.com/temasekpoly_basketball/">Instagram</a><br>
                 <br>
             </p>
         </td>

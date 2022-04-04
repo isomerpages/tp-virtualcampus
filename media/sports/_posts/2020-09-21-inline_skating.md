@@ -16,7 +16,7 @@ permalink: /sports/inline_skating/
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:tan_yeuan_huei@tp.edu.sg">Mr Tan Yeuan Huei</a> and <a href="mailto:limap@tp.edu.sg">Ms Celine Clare Lim</a><br>
                 <br>
-                <a href="https://www.instagram.com/tpinlineskate/"><b>CCA Instagram</b></a><br>
+                CCA <a href="https://www.instagram.com/tpinlineskate/">Instagram</a><br>
                 <br>
             </p>
         </td>
