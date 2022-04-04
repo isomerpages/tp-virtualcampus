@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CCA Fair 2022
-permalink: /be-involved/ccavirtualfair
+permalink: /be-involved/ccafair2022
 third_nav_title: Be Involved
 
 ---
