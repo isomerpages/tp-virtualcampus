@@ -7,13 +7,11 @@ third_nav_title: Be Entertained
 ### Dreams XII Concert – Back to LIVE
 ![Dreams XII Concert](/images/DREAMS XII Poster Square.png)
 
-**Dreams XII Concert – Back to LIVE**  
-Date: 26 Mar 2022, Sat  
-Time: 6pm (est. duration 1hr)  
-Venue: Auditorium 1  
-[Register now](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328ZJPM0CUnglOu7j39KE_EgpUQlBPU1g4NEEwVzFBVUdMWEU3VlMxN0cwNi4u)!
+WE'RE BACK LIVE! 
 
-If you remember and miss the good old days of in-person concerts as part of our regular vibrant campus life, you will be glad to hear that DREAMS XII is making a comeback this very week! Happening at Auditorium 1 on Saturday the 26th of March 2022, “Back to LIVE” showcases our very own Temasek Arts Centre students. Specially for TP staff and students, come catch a dynamic production involving LIVE, immersive and video content just for you!
+On the 26th of March 2022 Temasek Arts Centre presented it’s first LIVE show in 2 years. DREAMS XII - “Back to Live” showcased immersive content melded with explosive on-stage performances. Come join us as we proudly share this experience with you!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wvFZFKfBUUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ### Take The Stage! - Watch these Arts CCA Online Concerts
