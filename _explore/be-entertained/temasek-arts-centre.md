@@ -11,7 +11,9 @@ WE'RE BACK LIVE!
 
 On the 26th of March 2022 Temasek Arts Centre presented it’s first LIVE show in 2 years. DREAMS XII - “Back to Live” showcased immersive content melded with explosive on-stage performances. Come join us as we proudly share this experience with you!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wvFZFKfBUUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+    <iframe width="560" height="315" style="display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/wvFZFKfBUUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 ### Take The Stage! - Watch these Arts CCA Online Concerts
