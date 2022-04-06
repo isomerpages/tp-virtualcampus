@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
-          url: /be-involved/tsea2021
+          url: /be-involved/freshmenorientation/
         - title: Be Entertained
           description: Watch, listen and be entertained with content created by TP,
             free-of-charge!
