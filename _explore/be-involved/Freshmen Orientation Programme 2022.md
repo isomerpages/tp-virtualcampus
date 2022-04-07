@@ -33,6 +33,18 @@ Temasek Arts Centre is proud to present the return of Temasek Spectacular via a 
 
 _*Safe Management Measures apply_  
 
+Temasek Spectacular 2022 is coming to you LIVE from Auditorium 1! For those of you who are unable to join us physically, do click on these links and tune in to your School's SPECTACULAR show from the comfort of your own homes!
+
+Day 1 (IIT): https://youtu.be/M7ojS0XYYPU  
+Day 2 (ASC): https://youtu.be/WAWp1lQoYBI  
+Day 3 (ENG + HSS): https://youtu.be/nRqfaDcsDJc  
+Day 4 (ENG): https://youtu.be/l8i1fOxeNYM  
+Day 5 (BUS): https://youtu.be/qq3DTiE60A0  
+Day 5 (Combined Schools): https://youtu.be/411V8zH3SOc  
+Day 6 (BUS): https://youtu.be/Izstu7wBZxo  
+
+See you there!
+
 ![Temasek Spectacular](/images/Temasek%20Spectacular%20(3)_2625px%20by%201479px.jpg)
 
 ---
