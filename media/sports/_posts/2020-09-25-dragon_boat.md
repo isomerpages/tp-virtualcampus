@@ -17,7 +17,9 @@ permalink: /sports/dragon_boat/
                 <b>Training Days:</b><br>
                 Tuesday, 7pm & Saturday, 8am<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:ngqihui@tp.edu.sg">Ms Ng Qihui</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:ngqihui@tp.edu.sg">Ms Ng Qihui</a> and <a href="mailto:Charis_WOO@tp.edu.sg">Ms Charis Woo</a><br>
+                <br>
+                CCA <a href="https://www.instagram.com/temasekpolydragonboat/">Instagram</a><br>
                 <br>
             </p>
         </td>

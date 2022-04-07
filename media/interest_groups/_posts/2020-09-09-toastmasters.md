@@ -10,13 +10,22 @@ permalink: /interest_groups/toastmasters/
             <td style="width:33%"><image src="/images/CCA_toastmasters.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters"></image></td>
             <td>
                 <p>
-                    TP Toastmasters (TPTM) is a non-profit educational organisation that teaches public speaking and leadership skills to members. In line with our motto “Where Leaders are made”, the TPTM trains members to build on their confidence and conquer their fear of public speaking through giving prepared speeches and evaluations. Good communication skills are also instilled through networking opportunities with other Toastmasters clubs in Singapore.<br>
+                    Are you looking for a space where you can boost your confidence and presentation skills for all time? Through well-organised and exuberating "Chapter Meetings", members of TP Toastmasters (TPTM) can test their public speaking, impromptu thinking and evaluation skills.<br><br>
+
+                    Toastmasters is a non-profit educational organisation that teaches public speaking and leadership skills to members. Recognised by employers as indicators of personal growth and excellence, completing "Levels" in the Toastmasters Pathways will give you an extra edge in the corporate world. Good communication skills are also instilled through networking opportunities with other Toastmasters clubs in Singapore.<br>
                     <br>
+
+                    Your growth is TPTM's number one priority! Join us, step out of your comfort zone and experience revolutionary transformation.<br><br>
+
                     <b>Achievements:</b><br>
-                    2nd runner up in the S1/S4 District 80 Table Topics Contest (2020)<br>
-                    <br>
+                    <ul>
+                    <li>2nd runner up in the Area S4 Speech Contest Contest (2021)</li>
+                    <li>2nd runner up in the S1/S4 District 80 Table Topics Contest (2020)</li>
+                    </ul>
+                </p>
+                <p>
                     <b>Training Day:</b><br>
-                    2nd and 4th Friday of the month, 6.30pm to 9.30pm<br>
+                    1st and 3rd Friday, 6.30pm to 8.30pm<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:deneshs@tp.edu.sg">Mr S. Denesh</a><br>
                     <br>

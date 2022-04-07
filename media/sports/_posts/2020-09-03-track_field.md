@@ -13,8 +13,8 @@ permalink: /sports/track_field/
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>POL-ITE Games 2019: Silver (Men’s) & 4th (Women’s)</li>
                     <li>IVP Games 2020: 4th (Team Overall)</li>
+                    <li>POL-ITE Games 2019: Silver (Men’s) & 4th (Women’s)</li>
                 </ul>
             </p>
             <p>

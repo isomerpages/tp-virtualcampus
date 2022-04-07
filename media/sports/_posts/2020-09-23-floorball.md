@@ -13,8 +13,9 @@ permalink: /sports/floorball/
                 <br>
                 <b>Achievements:</b>
                 <ul>
-                    <li>POL-ITE Games 2019: Silver (Men’s Team) & Gold (Women’s Team)</li>
                     <li>IVP Games 2020: Bronze (Men’s Team) & 4th (Women’s Team)</li>
+                    <li>POL-ITE Games 2019: Silver (Men’s Team) & Gold (Women’s Team)</li>
+
                 </ul>
               </p>
               <p>
@@ -26,6 +27,8 @@ permalink: /sports/floorball/
               </p>
               <p>
                 <b>CCA Staff Advisor:</b> <a href="mailto:tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
+                <br>
+                CCA <a href="https://www.instagram.com/tpfloorball/">Instagram</a><br>
                 <br>
               </p>
         </td>

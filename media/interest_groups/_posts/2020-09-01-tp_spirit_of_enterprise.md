@@ -10,14 +10,14 @@ permalink: /interest_groups/tp_spirit_of_enterprise/
             <td style="width:33%"><image src="/images/CCA_tp_spirit_of_enterprise.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></image></td>
             <td>
                 <p>
-                    Spirit Of Enterprise (SOE)-TP Student Chapter aims to foster an entrepreneurial spirit and mind-set among students in the School of Business and TP.<br>
+                    The Spirit Of Enterprise (SOE)-TP Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
                     <br>
-                    The Student Chapter develops entrepreneurship capabilities by organising entrepreneurship events, webinars and workshops, networking sessions with industry mentors and start-ups, participation in, and organising of hackathons.<br>
+                    The Student Chapter develops entrepreneurship capabilities by organising entrepreneurship events, webinars, workshops, networking sessions with industry mentors and start-ups, as well as encouraging members to participate in and organise hackathons.<br>
                     <br>
                 </p>
                 <p>
                    <b>Achievements:</b><br>
-                   The Student Chapter has collaborated with both the School of Business and School of IIT to co-create a TP marketplace app (a ‘sandbox’ on Mobile Commerce) to influence fellow students to embark on an innovation and entrepreneurial journey.<br>
+                   The Student Chapter has collaborated with both the School of Business and School of Informatics & IT to co-create a TP marketplace app (a ‘sandbox’ on Mobile Commerce), which aims to influence fellow students to embark on an innovation and entrepreneurial journey.<br>
                     <br>
                     <b>Meeting Day:</b><br>
                     Monthly EXCO meeting / Event Basis<br>

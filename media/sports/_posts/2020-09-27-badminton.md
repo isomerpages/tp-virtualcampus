@@ -13,8 +13,8 @@ permalink: /sports/badminton/
                 <br>                
                 <b>Achievements:</b><br>
                 <ul>
-                   <li>POL-ITE Games 2019: Bronze (Men’s Team) & 4th (Women’s Team)</li>
-                   <li>IVP Games 2020: Bronze (Women’s Team)</li>
+                    <li>IVP Games 2020: Bronze (Women’s Team)</li>
+                    <li>POL-ITE Games 2019: Bronze (Men’s Team) & 4th (Women’s Team)</li>
                 </ul>
             </p>
             <p>
@@ -22,6 +22,8 @@ permalink: /sports/badminton/
                 Monday & Thursday, 6.30 to 8.30pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:wkkoh@tp.edu.sg">Mr Koh Wen Kiat</a><br>
+                <br>
+                CCA <a href="https://www.instagram.com/tpbadminton/">Instagram</a><br>
                 <br>
             </p>
         </td>

@@ -26,9 +26,13 @@ permalink: /interest_groups/tp_international_students_group/
                     </ul>
                 <p>
                     <b>Meeting Day:</b><br>
-                    Bi-weekly online meeting and monthly regular event for members and sub-committees.<br>
-                    <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:suityim@tp.edu.sg">Ms Boey Suit Yim</a>, <a href="mailto:Roderick_CHIA@TP.EDU.SG">Mr Roderick Chia</a><br>
+                </p>
+                <ul>
+                    <li>Bi-weekly online meetings</li>
+                    <li>Regular monthly events for members and sub-committees.</li>
+                </ul>
+                <p>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:suityim@tp.edu.sg">Ms Boey Suit Yim</a> and <a href="mailto:Roderick_CHIA@TP.EDU.SG">Mr Roderick Chia</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpisg">Instagram</a>
                 </p>

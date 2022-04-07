@@ -13,8 +13,8 @@ permalink: /sports/basketball/
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                   <li>POL-ITE Games 2019: Silver (Men’s Team) & Bronze (Women’s Team)</li>
-                   <li>IVP Games 2020: 4th (Men’s Team)</li>
+                    <li>IVP Games 2020: 4th (Men’s Team)</li>
+                    <li>POL-ITE Games 2019: Silver (Men’s Team) & Bronze (Women’s Team)</li>
                 </ul>
             </p>
             <p>
@@ -22,6 +22,8 @@ permalink: /sports/basketball/
                 Monday & Wednesday, 7pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:joncsw@tp.edu.sg">Mr Jonathan Chua</a><br>
+                <br>
+                CCA <a href="https://www.instagram.com/temasekpoly_basketball/">Instagram</a><br>
                 <br>
             </p>
         </td>

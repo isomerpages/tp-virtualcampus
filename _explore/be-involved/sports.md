@@ -235,14 +235,6 @@ Watch these videos on our Sports Champions and be Inspired!
                     </image>
                 </a>
             </td>
-            <td style="max-width:49%; vertical-align:bottom; border:none"><br><h4>Wakeboarding</h4>
-                <a href="/sports/wakeboarding/">
-                    <image src="/images/CCA_wakeboarding.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Wakeboarding">
-                    </image>
-                </a>
-            </td>
-        </tr>
-         <tr>
             <td style="max-width:49%; vertical-align:bottom; border:none"><br><h4>Water Polo</h4>
                 <a href="/sports/water_polo/">
                     <image src="/images/CCA_water_polo.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">

@@ -13,15 +13,15 @@ permalink: /sports/touch_football/
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>POL-ITE Games 2019: Silver</li>
                     <li>IVP Games 2020: 4th</li>
+                    <li>POL-ITE Games 2019: Silver</li>
                 </ul>
             </p>
             <p>
                 <b>Training Days:</b><br>
                 Monday & Thursday, 6.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:mdhaffiz@tp.edu.sg">Mr Muhammad Haffiz</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:mdhaffiz@tp.edu.sg">Mr Muhammad Haffiz Amin</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpiranhas">Instagram</a>
             </p>

@@ -17,12 +17,12 @@ permalink: /interest_groups/tp_debates/
                     TP Debates clinched the championship title in several debate championships and here are some of the highlights:<br>
                 </p>
                     <ul>
-                        <li>Inter-Polytechnic Debate Championships 2020</li>
                         <li>Singapore International Schools Debate League 2021</li>
+                        <li>Inter-Polytechnic Debate Championships 2021</li>
                     </ul>
                 <p>
                     <b>Training Days:</b><br>
-                    Monday & Thursday, 8:00pm to 10:00pm (Online)<br>
+                    Monday & Thursday, 8.00pm to 10.00pm (Online)<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:waifann@tp.edu.sg">Ms Choy Wai Fann</a><br>
                     <br>
