@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  TP Debates
+title: TP Debates
 permalink: /interest_groups/tp_debates/
 ---
-
 <div>
     <table>
         <tr>
@@ -22,7 +21,7 @@ permalink: /interest_groups/tp_debates/
                     </ul>
                 <p>
                     <b>Training Days:</b><br>
-                    Monday & Thursday, 8.00pm to 10.00pm (Online)<br>
+                    Monday & Thursday, 7.00pm to 9.00pm (in-person at TP)<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:waifann@tp.edu.sg">Ms Choy Wai Fann</a><br>
                     <br>

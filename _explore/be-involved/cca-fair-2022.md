@@ -3,11 +3,10 @@ layout: page
 title: CCA Fair 2022
 permalink: /be-involved/ccafair2022
 third_nav_title: Be Involved
-
 ---
 ### CCA Fair 2022
 
-![FOP2022](/images/TP CCA EDM_2625pxW by 1479pxH_FA.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97y57CX73ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count.
 
