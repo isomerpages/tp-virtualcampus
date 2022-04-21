@@ -25,6 +25,16 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: CCA Fair 2022 (26-28 April)
+      subtitle: CCA Fair
+      description: Keen to channel the Team Temasek spirit and make your days on
+        campus count? Check out this exciting event to find out more about the
+        diverse CCAs offered in TP!
+      button: JOIN IN THE ACTION!
+      url: /be-involved/ccafair2022/
+      image: /images/TP CCA EDM Web Banner_1920px by 1080px_FA.jpg
+      alt: CCA Fair 2022
+  - infopic:
       title: Freshmen Orientation Programme 2022
       subtitle: Freshmen Orientation Programme
       description: Dear Freshmen, welcome to the TP Fam! The Freshmen Orientation
@@ -52,16 +62,6 @@ sections:
       button: PADDLES UP
       url: /be-involved/freshmenorientation/#regatta
       alt: Dragon Boat
-  - infopic:
-      title: CCA Fair 2022 (26-28 April)
-      subtitle: CCA Fair
-      description: Keen to channel the Team Temasek spirit and make your days on
-        campus count? Check out this exciting event to find out more about the
-        diverse CCAs offered in TP!
-      button: JOIN IN THE ACTION!
-      url: /be-involved/ccafair2022/
-      image: /images/TP CCA EDM Web Banner_1920px by 1080px_FA.jpg
-      alt: CCA Fair 2022
   - infopic:
       title: Dreams XII Concert – Back to LIVE
       subtitle: Temasek Arts Centre Production
