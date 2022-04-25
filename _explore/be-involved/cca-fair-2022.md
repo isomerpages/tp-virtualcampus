@@ -36,6 +36,14 @@ Register your interest via the clickable links below. You will be emailed the me
 
 For School-based Interest Groups, register your interest [here](https://forms.office.com/r/5i1cYFH9N8) and the Staff Advisors will contact you regarding your sign ups.
 
+**<u>Links to Virtual Fairs (6pm to 8pm)</u>**
+
+Click on the link below to access the virtual session that you have signed up for. See you there!
+
+* [**Performing Arts**](/files/2022%20Online%20Fair%20(Arts)%20MS%20Teams%20Link.pdf) – 27 Apr
+* [**Clubs & Interest Groups**](/files/2022%20Online%20Fair%20(Clubs)%20MS%20Teams%20Link.pdf) – 27 Apr
+* [**Sports**](/files/2022%20Online%20Fair%20(Sports)%20MS%20Teams%20Link.pdf) – 28 Apr
+
 Keen to find out more about our CCAs prior to the In-Person and Virtual Fairs? Click on the links below!
 
 <table>
