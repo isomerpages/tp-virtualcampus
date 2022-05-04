@@ -8,43 +8,11 @@ third_nav_title: Be Involved
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/97y57CX73ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count.
+Discover your passion. Unleash your creativity. Forge lasting friendships. Indeed, life as a TP student can be as thrilling, colourful and exciting as you want it to be!
 
-Life as a TP student can be as thrilling, colourful and exciting as you want it to be! From **26-28 April 2022**, join us to discover the infectious Team Temasek spirit and take your pick from many diverse CCAs ranging from the performing arts, sports, academic clubs, adventure, community service, to entrepreneurship – and lots more!
+If you missed the CCA Fair that was held from **26-28 April 2022**, you may register your interest directly with the Staff Advisors. For those who have signed up for any CCAs, the student leaders of the respective groups will also contact you for trials/auditions in due time.
 
-This year, we are also pleased to showcase the best of our CCAs in a hybrid format. Are you eager to learn more about what makes your dream CCA tick and find out whether it is indeed the one for you?
-
-Register your interest now and reserve your tickets for In-Person Fairs* as well!
-
-_*Safe Management Measures apply_
-
-**<u>In-Person, 4pm to 8pm</u>**
-
-* **Performing Arts** – 26 Apr @ Sports & Arts Centre (Blk 26A, Level 2)
-* **Clubs & Interest Groups** – 26 Apr @ Sports Complex (Blk 29)
-* **Sports** – 27 Apr @ Sports & Arts Centre (Blk 26A, Level 2) & Sports Complex (Blk 29)
-
-Reserve your tickets for the In-Person Fairs [here](/files/Registration link for In-Person Fair and Booth Allocation.pdf)!
-
-**<u>Virtual (Via MS Teams), 6pm to 8pm</u>**
-
-Register your interest via the clickable links below. You will be emailed the meeting link on the day itself.
-
-* [**Performing Arts**](https://forms.office.com/r/2bRPvKU13M) – 27 Apr
-* [**Clubs & Interest Groups**](https://forms.office.com/r/zcMud0Mu3K) – 27 Apr
-* [**Sports**](https://forms.office.com/r/EiKsg4uUrC) – 28 Apr
-
-For School-based Interest Groups, register your interest [here](https://forms.office.com/r/5i1cYFH9N8) and the Staff Advisors will contact you regarding your sign ups.
-
-**<u>Links to Virtual Fairs (6pm to 8pm)</u>**
-
-Click on the link below to access the virtual session that you have signed up for. See you there!
-
-* [**Performing Arts**](/files/2022%20Online%20Fair%20(Arts)%20MS%20Teams%20Link.pdf) – 27 Apr
-* [**Clubs & Interest Groups**](/files/2022%20Online%20Fair%20(Clubs)%20MS%20Teams%20Link.pdf) – 27 Apr
-* [**Sports**](/files/2022%20Online%20Fair%20(Sports)%20MS%20Teams%20Link.pdf) – 28 Apr
-
-Keen to find out more about our CCAs prior to the In-Person and Virtual Fairs? Click on the links below!
+Keen to find out more about your dream CCA(s)? Check them out via the links below!
 
 <table>
     <tr>
