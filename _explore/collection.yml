@@ -2,7 +2,6 @@ collections:
   explore:
     output: true
     order:
-      - be-involved/Temasek Student Excellence Awards 2022.md
       - be-involved/.keep
       - be-involved/cca-fair-2022.md
       - be-involved/Freshmen Orientation Programme 2022.md
