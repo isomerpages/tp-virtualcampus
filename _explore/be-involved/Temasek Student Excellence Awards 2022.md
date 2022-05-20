@@ -5,10 +5,9 @@ permalink: /be-involved/tsea2022/
 third_nav_title: Be Involved
 description: ""
 ---
-
 ### Temasek Student Excellence Awards 2022
 
-![tsea ceremony](/images/05)%20TSEA%202022%20Web%20Banner%20(2625px%20by%201479px).jpg)
+![tsea ceremony](/images/05%20TSEA%202022%20Web%20Banner%20(2625px%20by%201479px).jpg)
 
 The Temasek Student Excellence Awards (TSEA) are presented annually to recognise the inspiring achievements and outstanding contributions of students in non-academic areas, such as the arts, sports, leadership, service, entrepreneurship and character excellence.
 
