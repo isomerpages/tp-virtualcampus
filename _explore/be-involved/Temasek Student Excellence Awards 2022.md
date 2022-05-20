@@ -26,7 +26,7 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
 
 ### Award Information
 **General Information**  
-* Nominations for the TSEA are open from now till **22 June 2022 (Wednesday)**, 11.59pm. Nominations received after the deadline will strictly not be accepted.
+* Nominations for the TSEA are open from now till **22 June 2022 (Wednesday), 11.59pm**. Nominations received after the deadline will strictly not be accepted.
 * Unless otherwise specified, only TP CCAs registered with the Student Development & Alumni Affairs Department are eligible for the TSEA.
 * For the CCA Merit Award (Arts/Sports/Leadership) and Sports Colours Award, CCA advisors are to submit their nominations via the prescribed nomination form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> *(Only electronic submissions will be accepted.)*
 * For the Individual Higher Awards, Group/Team Higher Awards and Outstanding Coach/Instructor Award, nominations must be submitted via the official online forms. 
@@ -44,14 +44,15 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
 * The award may be withdrawn from the recipient, should inaccurate facts or information be provided at the time of nomination.
 * The Polytechnic reserves the right not to award any of the awards if no suitable candidates are identified.
 
-**Didn’t manage to find what you were looking for? Refer to a list of FAQs [](/files/TSEA%202022%20-%20FAQs.pdf)! **  
+**Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA%202022%20-%20FAQs.pdf)!**  
 
 **For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>**
 
 ### Individual Awards
 Have an outstanding nominee who deserves to be recognised in any of these award categories? Submit your nomination today!  
 
-**Step 1:** Download and read the eligibility criteria for all Individual Awards [](/files/TSEA%202022%20-%20Individual%20Awards.pdf).
+**Step 1:** Download and read the eligibility criteria for all Individual Awards [here](/files/TSEA%202022%20-%20Individual%20Awards.pdf).  
+
 **Step 2:** Submit your nominations by **22 June 2022 (Wednesday), 11.59pm**. (Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.)  
 
 #### Individual Awards: Categories
@@ -62,31 +63,31 @@ This is awarded to students who have been actively involved in their respective 
 
 Submit your nominations via the prescribed nomination form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> *(The nomination form can be downloaded here.)*
 
-**2. Sports Colours Award)**
+**2. Sports Colours Award**
 
 This is awarded to students who have been actively involved in their respective Sports CCAs over the past academic year (AY2021/2022).
 
 Submit your nominations via the prescribed nomination form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> *(The nomination form can be downloaded here.)*
 
-**3. Temasek CCA Gold Award)**
+**3. Temasek CCA Gold Award**
 
 This is awarded to an exemplary and outstanding final-year student (AY2021/2022), who has been actively involved in his/her CCA throughout his/her course of study in TP. 
 
 Submit your nominations [here](https://tinyurl.com/TSEA2022IndivHigherAwards).
 
-**4. Artist of the Year)**
+**4. Artist of the Year**
 
 This is awarded to an artist who has displayed exemplary artistic merit and conduct in his/her CCA over the past academic year (AY2021/2022).
 
 Submit your nominations [here](https://tinyurl.com/TSEA2022IndivHigherAwards).
 
-**5. Sportsperson of the Year)**
+**5. Sportsperson of the Year**
 
 This is awarded to a sportsperson who has displayed exemplary sportsmanship and conduct in his/her CCA over the past academic year (AY2021/2022). 
 
 Submit your nominations [here](https://tinyurl.com/TSEA2022IndivHigherAwards).
 
-**6. Student Leader of the Year)**
+**6. Student Leader of the Year**
 
 This is awarded to a student leader who has displayed exemplary leadership and conduct in his/her CCA over the past academic year (AY2021/2022). 
 
