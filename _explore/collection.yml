@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - be-involved/.keep
+      - be-involved/Temasek Student Excellence Awards 2022.md
       - be-involved/cca-fair-2022.md
       - be-involved/Freshmen Orientation Programme 2022.md
       - be-involved/Open House 2022.md
-      - be-involved/Temasek Student Excellence Awards 2022.md
       - be-involved/cca-scholarship-2021.md
       - be-involved/performing-arts.md
       - be-involved/sports.md
