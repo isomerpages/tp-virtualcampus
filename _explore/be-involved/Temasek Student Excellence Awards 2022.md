@@ -61,13 +61,13 @@ Have an outstanding nominee who deserves to be recognised in any of these award 
 
 This is awarded to students who have been actively involved in their respective CCAs over the past academic year (AY2021/2022).
 
-Submit your nominations via the prescribed nomination form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> *(The nomination form can be downloaded here.)*
+Submit your nominations via the prescribed nomination form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> *(The nomination form can be downloaded [here](https://for.edu.sg/tsea2022meritsportscolours).)*
 
 **2. Sports Colours Award**
 
 This is awarded to students who have been actively involved in their respective Sports CCAs over the past academic year (AY2021/2022).
 
-Submit your nominations via the prescribed nomination form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> *(The nomination form can be downloaded here.)*
+Submit your nominations via the prescribed nomination form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> *(The nomination form can be downloaded [here](https://for.edu.sg/tsea2022meritsportscolours).)*
 
 **3. Temasek CCA Gold Award**
 
