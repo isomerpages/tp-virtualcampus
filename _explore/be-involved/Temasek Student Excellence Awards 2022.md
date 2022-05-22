@@ -33,7 +33,7 @@ For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a
 * Nominations must be submitted by TP staff for all the awards (with the exception of the _*Temasek Student Eco-Award_). Nominations sent by students are deemed to be unsupported by TP staff and will hence not be accepted. Students who are found to have submitted their nominations without the endorsement of TP staff will have their awards withdrawn.
 * It is the TP staff’s responsibility to verify the accuracy of all information, including the nominees’ SEAL records, before submitting their nominations. 
 
-*(Students are allowed to nominate themselves for the Temasek Student Eco-Award. TP staff can submit nominations for this award as well.)*
+_(*Students are allowed to nominate themselves for the Temasek Student Eco-Award. TP staff can submit nominations for this award as well.)_
 
 **Selection**  
 * All forms must clearly indicate the nominated award category. However, the Selection Panel will make the final decision for the category that is most applicable.
