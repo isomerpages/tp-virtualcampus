@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/photo_2022-04-22.jpeg
+      background: /images/03) TSEA 2022 Web Banner (1920px by 572px).jpg
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
@@ -24,6 +24,16 @@ sections:
           description: Check out the other channels to see what else is happening around
             campus!
           url: /be-caring/caring-for-community/
+  - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2022
+      subtitle: TSEA 2022
+      image: /images/04) TSEA 2022 Web Banner (1920px by 1080px).jpg
+      description: "Celebrate your students’ contributions, passion and spirit.
+        Inspire them to continue the good fight. Nominate them for the TSEA
+        today! "
+      button: NOMINATE NOW!
+      url: /be-involved/tsea2022
+      alt: TSEA2022
   - infopic:
       title: CCA Fair 2022 (26-28 April)
       subtitle: CCA Fair
@@ -88,16 +98,6 @@ sections:
       url: /be-entertained/digital-film-television/
       image: /images/ciNE65_awards_students.png
       alt: ciNE65 Movie Makers Awards
-  - infopic:
-      title: Temasek Student Excellence Awards 2021
-      subtitle: Award Ceremony
-      image: /images/tseabanner.png
-      description: Heartiest congratulations to all our recipients of the Temasek
-        Student Excellence Awards (TSEA) 2021! Missed the live broadcast of the
-        Awards Ceremony?
-      button: Catch the Show Here
-      url: /be-involved/tsea2021
-      alt: TSEA2021
   - infopic:
       title: TP x NECDC Virtual Challenge
       subtitle: We are Back!
