@@ -24,6 +24,8 @@ We managed to achieve the intended objectives and successfully impacted the bene
 
 Additionally, we managed to successfully provide a meaningful volunteering opportunity for the TP student volunteers, who were able to bring joy to the less fortunate, especially in the season of giving.
 
+![Adopt A Block](/images/CSC_Adopt_A_Block.png)
+
 ---
 
 ### Hello My Grandfriend
@@ -40,6 +42,8 @@ Companionship and cognitive engagement were provided because we were able to cat
 
 As the academic year progresses, we are running this programme into the third tranche! This shows our positive relations we have established with Sree Narayana Mission Nursing Home. We will consider continuing our partnership with them in the next academic year if our resources permit.
 
+![Hello My Grandfriend](/images/CSC_Hello_My_Grandfriend.png)
+
 ---
 
 ### Humans of TP
@@ -50,6 +54,8 @@ This project positively impacted MWC and the volunteers because aligning with MW
 
 Simultaneously, volunteers are also positively impacted as we are more aware of the situations the migrant workers face during COVID-19, so we would be more connected with the migrant worker and easily relate their experiences with what is happening now. We are also able to adopt a caring heart where we show appreciation towards migrant workers for working so hard.
 The follow up for this project is social media postings and doing write-ups of the migrant workers, to allow us to further show appreciation towards the migrant workers for their contributions towards Singapore!
+
+![Humans of TP](/images/CSC_Humans_of_TP.png)
 
 ---
 
@@ -75,6 +81,12 @@ Similarly, through this project, we managed to build a strong volunteer pool whe
 
 As the 2 mentoring programmes are ongoing events, they will continue taking place throughout the new year, at least until the end of the 2022 academic year.
 
+YEAH Programme
+![YEAH Programme](/images/CSC_YEAH_Programme_blurred.png)
+
+Enlighten Mentoring Programme
+![Enlighten Mentoring Programme](/images/CSC_Enlighten_Mentoring_Programme_blurred.png)
+
 ---
 
 ### Special Needs Cluster
@@ -99,6 +111,8 @@ Volunteers: Volunteers are given a platform to interact with Persons with Intell
 
 Project This Ability will see its continuation of its third run in Term 4. Project This Ability may hopefully stand the chance of conducting its third run face-to-face (entirely dependent on the Covid-19 situation). However, please be rest assured that Project This Ability will be here to stay in Temasek Polytechnic’s Community Service Club as a long-term volunteering project. Therefore, be it virtual or physical, do keep a lookout when we call for volunteers!
 
+![Project This Ability](/images/CSC_Project_This_Ability.png)
+
 #### Sign With Me
 **What is the project about (Project objectives, number of volunteers and beneficiaries):**
 
@@ -117,6 +131,8 @@ Volunteers: During the Sign with Me workshop, some information disseminated were
 
 This workshop will be conducted again as our volunteers were very receptive and had a lot of fun attending this workshop. We may be considering to lengthen this one-day workshop to a full-fledged sign language course, so do keep a lookout for that if it happens!
 
+![Sign With Me](/images/CSC_Sign_With_Me.png)
+
 ---
 
 ### Walk For Rice
@@ -132,6 +148,11 @@ The impact of this project was that there is a total number of 367 participants 
 **Any follow up of the project**
 After the walk for rice event, there was supposed to be a follow-up event partnering with South-East CDC to allow volunteers to personally deliver the food items raised to the beneficiaries’ homes. To allow volunteers to understand how their effort really helps the beneficiaries. However, due to the Covid-19 situation, to ensure the safety of both parties, it was unfortunately cancelled.
 
+![Walk For Rice](/images/CSC_Walk_For_Rice_1.png)
+![Walk For Rice](/images/CSC_Walk_For_Rice_3.png)
+![Walk For Rice](/images/CSC_Walk_For_Rice_4.png)
+![Walk For Rice](/images/CSC_Walk_For_Rice_5.png)
+![Walk For Rice](/images/CSC_Walk_For_Rice_6.png)
 ---
 
 ### Listen II - Mental Wellness Roadshow ###
