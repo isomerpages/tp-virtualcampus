@@ -4,13 +4,20 @@ title: Temasek LEAD
 permalink: /be-involved/temasek-lead-programmes/
 third_nav_title: Be Involved
 ---
+### LEAD Heart (Uncovering The Hidden)
+
+LEAD Heart (Uncovering The Hidden) seeks to expose our students to the lived realities and challenges faced by families residing at the rental estates. The event was co-organized and facilitated by our very own LEAD students.
+
+Through an experiential learning journey walk thru the rental flat estate and empathy activities, students got to have a better understanding of the situation faced by the low income families. The event ended with a dialogue with Parliamentary Secretary, Eric Chua sharing his thoughts on poverty and social mobility in Singapore. We had a total of 200 student attendees who found the session meaningful and insightful.
+
+---
 ### Global Experience Programme (EU Comes to TP): Dialogue with Austrian Ambassador ###
 
 ![EU Comes to TP](/images/BeInvolved-LeadEUbanner.jpg)
 
 Themed **“EU comes to your School”**, this initiative by the Ambassadors and diplomats from the EU and its member states based in Singapore, is to visit education institutions to give talks about the EU, touching on topics such as the EU's history, institutions, and their growing role in the face of the global health crisis.  
 
-We are honoured to have **His Excellency [Peter Guschelbauer](https://www.bmeia.gv.at/en/austrian-embassy-singapore/about-us/the-ambassador/)**, Ambassador, Austrian Embassy Singapore, speak to us about the EU and its relations with ASEAN as well as global issues such as climate change. Students will also have a chance to dialogue with the Ambassador. 
+We are honoured to have **His Excellency [Peter Guschelbauer](https://www.bmeia.gv.at/en/austrian-embassy-singapore/about-us/the-ambassador/)**, Ambassador, Austrian Embassy Singapore, speak to us about the EU and its relations with ASEAN as well as global issues such as climate change. Students will also have a chance to dialogue with the Ambassador.
 
 <table>
     <tr>
