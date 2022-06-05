@@ -4,43 +4,27 @@ title: Caring for Community
 permalink: /be-caring/caring-for-community/
 third_nav_title: Be Caring
 ---
-
 ### Adopt A Block
 
-**What is the project about?**
+Adopt a Block is a CSC organized event where we visited a rental block and distributed care packs consisting of items such as face masks, food items, dishwashing liquid, wet wipes among other essential items. The objectives of the project are as follows: 
 
-Adopt a Block is a CSC organized event where we visited a rental block and distributed care packs consisting of items such as face masks, food items, dishwashing liquid, wet wipes among other essential items. The objectives of the project are as follows:
+1. To provide basic necessities and improve the living conditions of the residents
+2. To provide meaningful volunteering opportunities for the TP student population
+3. To build relationships with the residents of the rental block.
 
-1. To provide basic necessities and improve the living conditions of needy beneficiaries who are currently living in rental flats. Examples of such donation items include face masks, tissue packs and food items.
-2. To provide more meaningful volunteering opportunities for the TP student population and hence develop a sense of volunteerism in the students.
-3. To create opportunities to allow volunteers to experience and bring smiles to the beneficiaries during the festive season.
-4. To establish and build community partnerships with voluntary welfare organizations.
-
-In total, we had 10 volunteers who helped in the distribution and around 100-150 beneficiaries, within the distribution block, managed to receive the donation items.
-
-**Project Impact**
-
-We managed to achieve the intended objectives and successfully impacted the beneficiaries by providing them an opportunity to receive such essential items, which they may otherwise be unable to gain access to, due to financial issues or otherwise. This event would thus definitely improve the overall living standards of the beneficiaries.
-
-Additionally, we managed to successfully provide a meaningful volunteering opportunity for the TP student volunteers, who were able to bring joy to the less fortunate, especially in the season of giving.
+A total of 64 staff and students donated items, with 10 volunteers who helped in the distribution and around 100-150 beneficiaries, within the distribution block, managed to receive the donation items, which they may otherwise be unable to gain access to, due to financial issues or otherwise. Overall, it was a meaningful experience for the volunteers and the beneficiaries. 
 
 ![Adopt A Block](/images/CSC_Adopt_A_Block.png)
 
 ---
 
 ### Hello My Grandfriend
+In collaboration with Sree Narayana Mission Nursing Home, “Hello My Grandfriend” is a tele-befriending project. The objectives of this project were: 
 
-**What is the project about? Project Objectives, Number of Volunteers, and Beneficiaries?**
+1. To provide companionship for the elderly 
+2. To provide cognitive engagement for the elderly 
 
-In collaboration with Sree Narayana Mission Nursing Home, “Hello My Grandfriend” is a tele-befriending project where the aim is to provide companionship and cognitive engagement for the elderly residing there. The highest number of our volunteers who signed up for this interactive programme is a whopping 20! Over eight sessions, 20 of them have impacted 10 seniors!
-
-**So What: Why and how did the project impact the beneficiaries and volunteers?**
-
-Companionship and cognitive engagement were provided because we were able to cater to their needs by engaging in something manageable for them. Chatting with the elderly is something we enjoyed. We managed to overcome the challenge of engaging them in online activities. Overall, it was a beneficial experience for us. Over eight sessions, 20 of our volunteers have impacted 10 seniors! The number may seem small, but the learning and memories gained were beyond comparison. The volunteers took away a new learning experience of tele-befriending. They can be more confident in volunteering in more modes!
-
-**Now What: Any follow-up for the projects?**
-
-As the academic year progresses, we are running this programme into the third tranche! This shows our positive relations we have established with Sree Narayana Mission Nursing Home. We will consider continuing our partnership with them in the next academic year if our resources permit.
+The volunteers took away a new learning experience of tele-befriending and they now can be more confident in volunteering in more modes! 
 
 ![Hello My Grandfriend](/images/CSC_Hello_My_Grandfriend.png)
 
@@ -48,14 +32,16 @@ As the academic year progresses, we are running this programme into the third tr
 
 ### Humans of TP
 
-TP CSC is organizing our first instalment of “Humans of TP”. Its objectives are to allow fellow students to show their heartfelt appreciations towards the migrant worker friends by doing a friendly interview with them, which showcases the migrant worker in a different light. Furthermore, by understanding their situation during the COVID-19 pandemic, our fellow students would be able to show support towards them and foster strong relationships with them. This project involved six helpful volunteers, who stepped up courageously to interact with the migrant workers, and they got along really quickly with them and beneficiaries include Migrant worker centre (MWC).
+Humans of TP was organized by CSC with its main objectives being: 
 
-This project positively impacted MWC and the volunteers because aligning with MWC’s thrusts, FAIR, TP CSC is helping the migrant workers by allowing our volunteers to interact individually with the migrant workers in the breakout rooms, to be able to have a friendly chat with the distressed workers, so that we alleviate their sufferings or loneliness as seen from one of their thrusts, A, which stands for assistance. The migrant workers would be more socially integrated into society, as they slowly open up to share their experiences with the volunteers.
+1. To credit and acknowledge staff who work behind the scenes to keep Temasek Polytechnic clean and safe 
+2. To introduce these staff beyond their role as staff members
+3. To instil appreciation and gratitude for the staff amongst students of Temasek Polytechnic 
 
-Simultaneously, volunteers are also positively impacted as we are more aware of the situations the migrant workers face during COVID-19, so we would be more connected with the migrant worker and easily relate their experiences with what is happening now. We are also able to adopt a caring heart where we show appreciation towards migrant workers for working so hard.
-The follow up for this project is social media postings and doing write-ups of the migrant workers, to allow us to further show appreciation towards the migrant workers for their contributions towards Singapore!
+This project involved six participants who interviewed 2 canteen vendors, 2 security guards, and 2 safety distancing ambassadors. Following which, short write-ups of the interviewed staff were posted on TPCSC’s Instagram and Facebook on a weekly basis.
 
-![Humans of TP](/images/CSC_Humans_of_TP.png)
+Example of a feature post:
+![Humans of TP](/images/Humans%20of%20TP.png)
 
 ---
 
