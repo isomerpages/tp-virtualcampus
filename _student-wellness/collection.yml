@@ -2,8 +2,6 @@ collections:
   student-wellness:
     output: true
     order:
-      - Code of Conduct/Sexual Misconduct Guide.md
-      - Code of Conduct/.keep
       - Health & Wellness/.keep
       - Health & Wellness/Counselling.md
       - Health & Wellness/AI Wellness Chatbot.md
@@ -15,3 +13,5 @@ collections:
       - Health & Wellness/World Mental Health Week.md
       - Health & Wellness/COVID 19 Vaccination Exercise for 12 & Above.md
       - IPPT & NS Prep.md
+      - Code of Conduct/.keep
+      - Code of Conduct/Sexual Misconduct Guide.md
