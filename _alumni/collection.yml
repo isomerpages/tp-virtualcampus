@@ -2,10 +2,10 @@ collections:
   alumni:
     output: true
     order:
-      - Join the Alumni Family!.md
-      - Career Navigator.md
-      - Personal Development.md
-      - Entrepreneurship Success Stories.md
-      - Alumni Buzz.md
-      - Alumni Businesses.md
       - Highlights.md
+      - Alumni Businesses.md
+      - Alumni Buzz.md
+      - Entrepreneurship Success Stories.md
+      - Personal Development.md
+      - Career Navigator.md
+      - Join the Alumni Family!.md
