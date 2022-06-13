@@ -2,6 +2,7 @@ collections:
   cca-and-student-groups:
     output: true
     order:
+      - Diploma Interest Groups/.keep
       - P10 & Interest Groups/.keep
       - P10 & Interest Groups/P10 Clubs.md
       - P10 & Interest Groups/Interest Groups.md
