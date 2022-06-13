@@ -2,6 +2,7 @@ collections:
   student-wellness:
     output: true
     order:
+      - Health & Wellness/Virtual Workouts.md
       - Health & Wellness/Nutritional Tips.md
       - Health & Wellness/TP PSiA.md
       - Health & Wellness/Programmes.md
