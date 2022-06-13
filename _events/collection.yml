@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Community Engagement/.keep
       - CCA Fair 2022.md
