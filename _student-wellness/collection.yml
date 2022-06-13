@@ -2,13 +2,13 @@ collections:
   student-wellness:
     output: true
     order:
-      - Health & Wellness/COVID 19 Vaccination Exercise for 12 & Above.md
-      - Health & Wellness/World Mental Health Week.md
-      - Health & Wellness/Virtual Workouts.md
-      - Health & Wellness/Nutritional Tips.md
-      - Health & Wellness/TP PSiA.md
-      - Health & Wellness/Programmes.md
-      - Health & Wellness/Resources.md
-      - Health & Wellness/AI Wellness Chatbot.md
-      - Health & Wellness/Counselling.md
       - Health & Wellness/.keep
+      - Health & Wellness/Counselling.md
+      - Health & Wellness/AI Wellness Chatbot.md
+      - Health & Wellness/Resources.md
+      - Health & Wellness/Programmes.md
+      - Health & Wellness/TP PSiA.md
+      - Health & Wellness/Nutritional Tips.md
+      - Health & Wellness/Virtual Workouts.md
+      - Health & Wellness/World Mental Health Week.md
+      - Health & Wellness/COVID 19 Vaccination Exercise for 12 & Above.md
