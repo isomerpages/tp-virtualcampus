@@ -2,9 +2,9 @@ collections:
   events:
     output: true
     order:
-      - Temasek LEAD/LEAD Events.md
-      - Temasek LEAD/About LEAD.md
       - Temasek LEAD/.keep
+      - Temasek LEAD/About LEAD.md
+      - Temasek LEAD/LEAD Events.md
       - Temasek Arts Centre/About TAC.md
       - Temasek Arts Centre/DREAMS Series.md
       - Temasek Arts Centre/Temasek Arts Festival 2021.md
