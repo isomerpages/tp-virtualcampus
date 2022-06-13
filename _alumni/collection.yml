@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Entrepreneurship Success Stories.md
       - Alumni Buzz.md
       - Alumni Businesses.md
       - Highlights.md
