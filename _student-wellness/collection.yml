@@ -2,5 +2,6 @@ collections:
   student-wellness:
     output: true
     order:
+      - Health & Wellness/AI Wellness Chatbot.md
       - Health & Wellness/Counselling.md
       - Health & Wellness/.keep
