@@ -7,8 +7,6 @@ description: ""
 
 **Meet some of our finest arts youth leaders from the 14 Arts CCAs at the "Temasek Arts Centre Chatshow"!**
 
-[![TAC Chatshow](/images/BeInvolved-TACChatShow1.png)](https://www.youtube.com/watch?v=H6hoTX7b-5E&feature=youtu.be){:target="_blank"}{:rel="noopener"}
-
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/82uPMWY7tQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
