@@ -2,7 +2,6 @@ collections:
   student-wellness:
     output: true
     order:
-      - IPPT & NS Prep.md
       - Health & Wellness/.keep
       - Health & Wellness/Counselling.md
       - Health & Wellness/AI Wellness Chatbot.md
@@ -13,3 +12,4 @@ collections:
       - Health & Wellness/Virtual Workouts.md
       - Health & Wellness/World Mental Health Week.md
       - Health & Wellness/COVID 19 Vaccination Exercise for 12 & Above.md
+      - IPPT & NS Prep.md
