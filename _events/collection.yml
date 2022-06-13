@@ -2,19 +2,19 @@ collections:
   events:
     output: true
     order:
-      - Temasek Service Excellence Award 2022.md
-      - TP CCA Scholarships.md
-      - Temasek LEAD/.keep
-      - Temasek LEAD/About LEAD.md
-      - Temasek LEAD/LEAD Events.md
+      - Temasek Arts Centre/.keep
       - Temasek Arts Centre/About TAC.md
       - Temasek Arts Centre/DREAMS Series.md
       - Temasek Arts Centre/Temasek Arts Festival 2021.md
-      - Temasek Arts Centre/.keep
-      - National Day Celebration 2021.md
+      - Temasek Service Excellence Award 2022.md
       - Freshmen Orientation Programme 2022.md
+      - CCA Fair 2022.md
+      - National Day Celebration 2021.md
+      - Temasek LEAD/.keep
+      - Temasek LEAD/About LEAD.md
+      - Temasek LEAD/LEAD Events.md
+      - TP CCA Scholarships.md
       - Community Engagement/.keep
       - Community Engagement/Campus Care Network.md
       - Community Engagement/Caring for Community.md
       - Community Engagement/Caring for Environment.md
-      - CCA Fair 2022.md
