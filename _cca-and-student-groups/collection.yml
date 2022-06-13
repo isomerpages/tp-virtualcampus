@@ -1,5 +1,5 @@
 collections:
-  cca-snd-student-groups:
+  cca-and-student-groups:
     output: true
     order:
       - Performing Arts.md
