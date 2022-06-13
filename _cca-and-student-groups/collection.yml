@@ -2,4 +2,5 @@ collections:
   cca-and-student-groups:
     output: true
     order:
+      - Sports.md
       - Performing Arts.md
