@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Temasek LEAD/About LEAD.md
       - Temasek LEAD/.keep
       - Temasek Arts Centre/About TAC.md
       - Temasek Arts Centre/DREAMS Series.md
