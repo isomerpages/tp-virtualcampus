@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Highlights/National Day Celebration 2021.md
       - Highlights/CCA Fair 2022.md
       - Highlights/Freshmen Orientation Programme 2022.md
       - Highlights/Temasek Service Excellence Award 2022.md
