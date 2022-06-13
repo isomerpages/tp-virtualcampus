@@ -1,5 +1,4 @@
 collections:
   alumni:
     output: true
-    order:
-      - Alumni Business/.keep
+    order: []
