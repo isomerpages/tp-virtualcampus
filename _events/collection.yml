@@ -2,12 +2,12 @@ collections:
   events:
     output: true
     order:
-      - Highlights/TP CCA Scholarships.md
-      - Highlights/National Day Celebration 2021.md
+      - Highlights/.keep
+      - Highlights/Temasek Service Excellence Award 2022.md
       - Highlights/CCA Fair 2022.md
       - Highlights/Freshmen Orientation Programme 2022.md
-      - Highlights/Temasek Service Excellence Award 2022.md
-      - Highlights/.keep
+      - Highlights/National Day Celebration 2021.md
+      - Highlights/TP CCA Scholarships.md
       - Temasek Arts Centre/.keep
       - Temasek Arts Centre/About TAC.md
       - Temasek Arts Centre/DREAMS Series.md
