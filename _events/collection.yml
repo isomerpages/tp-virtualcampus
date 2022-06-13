@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Community Engagement/Caring For Community.md
       - Community Engagement/Campus Care Network.md
       - Community Engagement/.keep
       - CCA Fair 2022.md
