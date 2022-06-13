@@ -2,4 +2,5 @@ collections:
   student-wellness:
     output: true
     order:
+      - Health & Wellness/Counselling.md
       - Health & Wellness/.keep
