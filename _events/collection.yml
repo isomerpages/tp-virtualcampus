@@ -2,4 +2,4 @@ collections:
   events:
     output: true
     order:
-      - Example Title.md
+      - CCA Fair 2022.md
