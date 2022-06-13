@@ -34,14 +34,24 @@ The LEAD Induction programme was held over 5 runs for 415 LEAD students. Partici
 
 ![LEAD Heart](/images/BeInvolved-lead_heartlogo1.png)
 
-LEAD Heart (Uncovering The Hidden) seeks to expose our students to the lived realities and challenges faced by families residing at the rental estates. The event was co-organized and facilitated by our very own LEAD students.
+292 LEAD students and 75 staff from various departments attended the Temasek LEAD Heart that spanned over 2 full days on 1 & 8 October. In this run, 29 LEAD students stepped forward to co-create and co-organise the event with staff, in which they also served as facilitators in the breakout sessions.
 
-Through an experiential learning journey walk thru the rental flat estate and empathy activities, students got to have a better understanding of the situation faced by the low income families. The event ended with a dialogue with Parliamentary Secretary, Eric Chua sharing his thoughts on poverty and social mobility in Singapore. We had a total of 200 student attendees who found the session meaningful and insightful.
+The event touched on pertinent community issues revolving around the needs and social stigma faced by ex-offenders (Beyond Second Chances), people with mental health conditions (Is It Okay Not To Be Okay), special needs (Walking with Autism), and lastly the issues on  environmental sustainability in Singapore (The Zero Waste Lifestyle - A Concept or Reality).
 
-[![Lead Heart](/images/LEAD_Heart_video.png)](https://www.youtube.com/embed/gL-2k0ufcZs){:target="_blank"}{:rel="noopener"}
+Participants were engaged in online discussions and sharing by speakers from Singapore Prison Service, Yellow Ribbon Project, National Council of Social Services, Singapore Association of Mental Health, Youth Corps Singapore, Tzu Chi Foundation, Zero Waste SG including Mr Izad Ghalid (HSS/PSY) and 2 alumni.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/gL-2k0ufcZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
+Based on students' feedback, the highlight of the event was the Human Library segment which allowed participants to engage the speakers more intimately in smaller groups. Our students were particularly interested in issues concerning ex-offenders and people with autism.  
+
+At the end of the event, a handful of students signed up for volunteering or student-led service project initiatives.
+
+<table>
+    <tr>
+        <td style="width:50%"><image src="/images/BeInvolved-lead_heart1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart1"></image>       
+        </td>
+        <td style="width:50%"><image src="/images/BeInvolved-lead_heart2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Heart2"></image>       
+        </td>
+    </tr>
+</table>
 
 ---
 <h4>LEAD Summit</h4>
