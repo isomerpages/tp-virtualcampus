@@ -1,0 +1,4 @@
+collections:
+  student-wellness:
+    output: true
+    order: []
