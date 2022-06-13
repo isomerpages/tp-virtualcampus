@@ -1,4 +1,5 @@
 collections:
   student-wellness:
     output: true
-    order: []
+    order:
+      - Health & Wellness/.keep
