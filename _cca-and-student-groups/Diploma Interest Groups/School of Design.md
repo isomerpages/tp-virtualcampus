@@ -9,13 +9,13 @@ third_nav_title: Diploma Interest Groups
 <div>
     <table>
         <tr>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+            <td style="width:33%; vertical-align:bottom; border:none"><br>
                 <a href="https://www.instagram.com/digitalfilmtv/" style="text-decoration: none">
                     <image src="/images/DES/DFT_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Film & Television Interest Group">
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+            <td style="width:33%; vertical-align:bottom; border:none"><br>
                 <a href="https://www.instagram.com/tp.pid/" style="text-decoration: none">
                     <image src="/images/DES/PID_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industry Design">
                     </image>
