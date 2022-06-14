@@ -17,7 +17,7 @@ third_nav_title: Diploma Interest Groups
             </td>
             <td style="width:33%; vertical-align:bottom; border:none"><br>
                 <a href="https://www.instagram.com/tp.pid/" style="text-decoration: none">
-                    <image src="/images/DES/PID_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industry Design">
+                    <image src="/images/DES/PED_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industry Design">
                     </image>
                 </a>
             </td>
