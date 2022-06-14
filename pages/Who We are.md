@@ -7,4 +7,4 @@ Hello! We are passionate about student development and sports and strive to empo
 
 ![Who We Are](/images/Staff Images Compilation.png)
 
-[![TPSU Sharing](/images/BeInvolved-TPSUSharing.png)](/Cca & Student Groups/Performing Arts/)
+[![TPSU Sharing](/images/BeInvolved-TPSUSharing.png)](/cca-and-student-groups/performing-arts/)
