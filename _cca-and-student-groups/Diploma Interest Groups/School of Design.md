@@ -7,22 +7,20 @@ third_nav_title: Diploma Interest Groups
 ## School of Design
 
 <div>
-    <table>
-        <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Digital Film & Television</h4>
-                <a href="https://www.instagram.com/digitalfilmtv/" target="_blank" rel="noopener">
-                    <image src="/images/Des_DFT.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Film & Television Interest Group">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>Product & Industry Design</h4>
-                 <a href="https://www.instagram.com/tp.des.pid/" target="_blank" rel="noopener">
-                    <image src="/images/CCA_pid.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industry Design Interest Group">
-                    </image>
-                </a>
-            </td>
-            <td style="width:33%; vertical-align:bottom; border:none">
-            </td>
-        </tr>
-    </table>
+    <table>
+        <tr>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="https://www.instagram.com/digitalfilmtv/" style="text-decoration: none">
+                    <image src="/images/DES/DFT_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Film & Television Interest Group">
+                    </image>
+                </a>
+            </td>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="https://www.instagram.com/tp.pid/" style="text-decoration: none">
+                    <image src="/images/DES/PID_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Product & Industry Design">
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
