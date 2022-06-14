@@ -56,7 +56,7 @@ third_nav_title: P10 & Interest Groups
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/interest_group/ies_student_chapter/" style="text-decoration: none">
+                <a href="/interest_groups/ies_student_chapter/" style="text-decoration: none">
                     <image src="/images/Interest Groups/IES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Institution of Engineers, Singapore Student Chapter">
                     </image>
                 </a>
