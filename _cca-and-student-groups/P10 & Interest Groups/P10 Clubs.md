@@ -8,8 +8,6 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
 
 **Find out more from TP Students' Union - Managed by Students for Students**
 
-[![TPSU Sharing](/images/BeInvolved-TPSUSharing.png)](https://www.youtube.com/watch?v=nV-4sHZ6l_c){:target="_blank"}{:rel="noopener"}
-
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nV-4sHZ6l_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -19,76 +17,74 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
 ## Our P10 Clubs
 
 <div>
-    <table>
-        <tr>
-            <td style="width:49%; vertical-align:bottom; border:none"><h4>Adventure Club</h4>
-                <a href="/p10/ac/">
-                    <image src="/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club">
-                    </image>
-                </a>
-            </td>
-            <td style="width:49%; vertical-align:bottom; border:none"><h4>Applied Science Studies Club</h4>
-                <a href="/p10/ascsc/">
-                    <image src="/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Business Studies Club</h4>
-                <a href="/p10/bsc/">
-                    <image src="/images/CCA_bsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Studies Club">
-                    </image>
-                </a>
-            </td>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Community Service Club</h4>
-                <a href="/p10/csc/">
-                    <image src="/images/CCA_csc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Community Service Club">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Design Studies Club</h4>
-                <a href="/p10/dsc/">
-                    <image src="/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
-                    </image>
-                </a>
-            </td>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Engineering Studies Club</h4>
-                <a href="/p10/esc/">
-                    <image src="/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Humanities & Social Sciences Studies Club</h4>
-                <a href="/p10/hsssc/">
-                    <image src="/images/CCA_hsssc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Humanities & Social Sciences Studies Club">
-                    </image>
-                </a>
-            </td>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Informatics & IT Studies Club</h4>
-                <a href="/p10/iitsc/">
-                    <image src="/images/CCA_iitsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Informatics & IT Studies Club">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Sports Club</h4>
-                <a href="/p10/sc/">
-                    <image src="/images/CCA_sc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club">
-                    </image>
-                </a>
-            </td>
-            <td style="width:49%; vertical-align:bottom; border:none"><br><h4>Students' Union</h4>
-                <a href="/p10/su/">
-                    <image src="/images/CCA_su.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Students' Union">
-                    </image>
-                </a>
-            </td>
-        </tr>
-    </table>
+    <table>
+        <tr>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/ac/" style="text-decoration: none">
+                    <image src="/images/P10/TPAC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club">
+                    </image>
+                </a>
+            </td>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/ascsc/" style="text-decoration: none">
+                    <image src="/images/P10/ASSC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club">
+                    </image>
+                </a>
+            </td>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/bsc/" style="text-decoration: none">
+                    <image src="/images/P10/BSC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Studies Club">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/csc/" style="text-decoration: none">
+                    <image src="/images/P10/CSC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Community Service Club">
+                    </image>
+                </a>
+            </td>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/dsc/" style="text-decoration: none">
+                    <image src="/images/P10/DSC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club">
+                    </image>
+                </a>
+            </td>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/esc/" style="text-decoration: none">
+                    <image src="/images/P10/ESC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/hsssc/" style="text-decoration: none">
+                    <image src="/images/P10/HSSSC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Humanities & Social Sciences Studies Club">
+                    </image>
+                </a>
+            </td>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/iitsc/" style="text-decoration: none">
+                    <image src="/images/P10/IITSC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Informatics & IT Studies Club">
+                    </image>
+                </a>
+            </td>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/sc/" style="text-decoration: none">
+                    <image src="/images/P10/SPORTS CLUB_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/p10/su/" style="text-decoration: none">
+                    <image src="/images/P10/TPSU_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Students’ Union">
+                    </image>
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
