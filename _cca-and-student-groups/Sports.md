@@ -17,19 +17,19 @@ Watch these videos on our Sports Champions and be Inspired!
     <table>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/10_pin_bowling/">
+                <a href="/sports/10_pin_bowling/" style="text-decoration: none">
                     <image src="/images/Sports/BOWLING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/aikido/">
+                <a href="/sports/aikido/" style="text-decoration: none">
                     <image src="/images/Sports/AIKIDO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/archery/">
+                <a href="/sports/archery/" style="text-decoration: none">
                     <image src="/images/Sports/ARCHERY_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Archery">
                     </image>
                 </a>
@@ -37,19 +37,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/badminton/">
+                <a href="/sports/badminton/" style="text-decoration: none">
                     <image src="/images/Sports/BADMINTON_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/basketball/">
+                <a href="/sports/basketball/" style="text-decoration: none">
                     <image src="/images/Sports/BASKETBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Basketball">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/dragon_boat/">
+                <a href="/sports/dragon_boat/" style="text-decoration: none">
                     <image src="/images/Sports/DRAGONBOAT_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dragon Boat">
                     </image>
                 </a>
@@ -57,19 +57,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/field_hockey/">
+                <a href="/sports/field_hockey/" style="text-decoration: none">
                     <image src="/images/Sports/FIELD HOCKEY_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/floorball/">
+                <a href="/sports/floorball/" style="text-decoration: none">
                     <image src="/images/Sports/FLOORBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/handball/">
+                <a href="/sports/handball/" style="text-decoration: none">
                     <image src="/images/Sports/HANDBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Handball">
                     </image>
                 </a>
@@ -77,19 +77,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/inline_skating/">
+                <a href="/sports/inline_skating/" style="text-decoration: none">
                     <image src="/images/Sports/INLINE SKATING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/judo/">
+                <a href="/sports/judo/" style="text-decoration: none">
                     <image src="/images/Sports/JUDO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Judo">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/karate/">
+                <a href="/sports/karate/" style="text-decoration: none">
                     <image src="/images/Sports/KARATE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Karate">
                     </image>
                 </a>
@@ -97,19 +97,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/kayak_racing/">
+                <a href="/sports/kayak_racing/" style="text-decoration: none">
                     <image src="/images/Sports/KAYAK RACING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/life_saving/">
+                <a href="/sports/life_saving/" style="text-decoration: none">
                     <image src="/images/Sports/LIFE SAVING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Life Saving">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/mind_sports/">
+                <a href="/sports/mind_sports/" style="text-decoration: none">
                     <image src="/images/Sports/MIND SPORTS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mind Sports">
                     </image>
                 </a>
@@ -117,19 +117,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/netball/">
+                <a href="/sports/netball/" style="text-decoration: none">
                     <image src="/images/Sports/NETBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/rugby/">
+                <a href="/sports/rugby/" style="text-decoration: none">
                     <image src="/images/Sports/RUGBY_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Rugby">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/silat/">
+                <a href="/sports/silat/" style="text-decoration: none">
                     <image src="/images/Sports/SILAT_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Silat">
                     </image>
                 </a>
@@ -137,19 +137,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/soccer/">
+                <a href="/sports/soccer/" style="text-decoration: none">
                     <image src="/images/Sports/SOCCER_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/sport_climbing/">
+                <a href="/sports/sport_climbing/" style="text-decoration: none">
                     <image src="/images/Sports/SPORT CLIMBING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/swimming/">
+                <a href="/sports/swimming/" style="text-decoration: none">
                     <image src="/images/Sports/SWIMMING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming">
                     <image>
                 </a>
@@ -157,19 +157,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/table_tennis/">
+                <a href="/sports/table_tennis/" style="text-decoration: none">
                     <image src="/images/Sports/TABLE TENNIS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/taekwondo/">
+                <a href="/sports/taekwondo/" style="text-decoration: none">
                     <image src="/images/Sports/TAEKWONDO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/tchoukball/">
+                <a href="/sports/tchoukball/" style="text-decoration: none">
                     <image src="/images/Sports/TCHOUKBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
                     </image>
                 </a>
@@ -177,19 +177,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/tennis/">
+                <a href="/sports/tennis/" style="text-decoration: none">
                     <image src="/images/Sports/TENNIS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tennis">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/touch_football/">
+                <a href="/sports/touch_football/" style="text-decoration: none">
                     <image src="/images/Sports/TOUCH FOOTBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/tp_fitness/">
+                <a href="/sports/tp_fitness/" style="text-decoration: none">
                     <image src="/images/Sports/TP FITNESS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness">
                     </image>
                 </a>
@@ -197,19 +197,19 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/track_field/">
+                <a href="/sports/track_field/" style="text-decoration: none">
                     <image src="/images/Sports/TRACK & FIELD_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/triathlon/">
+                <a href="/sports/triathlon/" style="text-decoration: none">
                     <image src="/images/Sports/TRIATHLON_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/ultimate_frisbee/">
+                <a href="/sports/ultimate_frisbee/" style="text-decoration: none">
                     <image src="/images/Sports/ULTIMATE FRISBEE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
                     </image>
                 </a>
@@ -217,13 +217,13 @@ Watch these videos on our Sports Champions and be Inspired!
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/volleyball/">
+                <a href="/sports/volleyball/" style="text-decoration: none">
                     <image src="/images/Sports/VOLLEYBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/water_polo/">
+                <a href="/sports/water_polo/" style="text-decoration: none">
                     <image src="/images/Sports/WATER POLO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
                     </image>
                 </a>
