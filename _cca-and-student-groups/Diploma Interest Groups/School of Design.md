@@ -21,6 +21,11 @@ third_nav_title: Diploma Interest Groups
                     </image>
                 </a>
             </td>
+            <td style="width:33%; vertical-align:bottom; border:none"><br>
+                    <image src="/images/DES/SPACE-01.png" style="display:block;margin-left:auto;margin-right:auto;">
+                    </image>
+                </a>
+            </td>
         </tr>
     </table>
 </div>
