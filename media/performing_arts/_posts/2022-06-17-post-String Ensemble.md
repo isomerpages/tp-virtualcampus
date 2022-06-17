@@ -5,7 +5,6 @@ permalink: /performing-arts/string-ensemble/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
@@ -48,7 +47,7 @@ description: ""
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcpuP7opI\_x/">
+            <a href="https://www.instagram.com/p/CcpuP7opI_x/">
                 <image src="/images/Arts/SE_Important Information & FAQs.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
                 <h6 style="margin-top:0%">Important Information and FAQs</h6>
                 </image>
