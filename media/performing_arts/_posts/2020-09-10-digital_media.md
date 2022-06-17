@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Digital Media and Production Crew
+title: Digital Media and Production Crew
 permalink: /performing_arts/digital_media/
 ---
-
 <div>
 <table>
     <tr>
@@ -32,27 +31,27 @@ permalink: /performing_arts/digital_media/
 </table>
 </div>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COErQ91nnU5/">
-                <image src="/images/CCA-dmpc-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
-                <h6 style="margin-top:0%">Peek into what we do!</h6>
+            <a href="https://www.instagram.com/p/CdAuZJ3J8o7/">
+                <image src="/images/Arts/DMPC_Join DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <h6 style="margin-top:0%">Join DMPC!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CJvDjrkHd0f/">
-                <image src="/images/CCA-dmpc-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
-                <h6 style="margin-top:0%">Join our squad now!</h6>
+            <a href="https://www.instagram.com/p/Ccxkq7UpUca/">
+                <image src="/images/Arts/DMPC_Introduction Video.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
+                <h6 style="margin-top:0%">Introduction Video</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">
-                <image src="/images/CCA-DMPC_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <image src="/images/Arts/DMPC_Flickr.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
                 <h6 style="margin-top:0%">DMPC Flickr Page</h6>    
                 </image>
             </a>
