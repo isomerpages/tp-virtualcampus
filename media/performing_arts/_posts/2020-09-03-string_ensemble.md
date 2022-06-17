@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  String Ensemble
+title: String Ensemble
 permalink: /performing_arts/string_ensemble/
 ---
-
 <div>
 <table>
     <tr>
@@ -12,8 +11,10 @@ permalink: /performing_arts/string_ensemble/
             <p>
                 The String Ensemble performs pieces from a range of genres, from classical to modern pop music. A string instrument’s sound and timbre can greatly vary depending on how it is played, thus this allows for many possibilities when it comes to music arrangement and ways for members to express themselves.<br>
                 <br>
-                <b>Achievements:</b><br>
+                <b>Features:</b><br>
                 <ul>
+                    <li>Temasek Spectacular (2022)</li>
+									<li>DREAMS XII (2022)</li>
                     <li>National Day Virtual Concert (2020)</li>
                     <li>Magical Autumn @OTH (2019)</li>
                     <li>DREAMS XI (2019)</li>
@@ -32,28 +33,28 @@ permalink: /performing_arts/string_ensemble/
 </table>
 </div>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CJvNvWfHTDc/">
-                <image src="/images/CCA-se-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
-                <h6 style="margin-top:0%">Join our squad now!</h6>
+            <a href="https://www.instagram.com/p/Ccpvg6kJWn5/">
+                <image src="/images/Arts/SE_Auditions & Interviews.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <h6 style="margin-top:0%">Auditions & Interviews</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CEJDYN_HBKg/">
-                <image src="/images/CCA-String_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
-                <h6 style="margin-top:0%">String Ensemble's Home Performance</h6>
+            <a href="https://www.instagram.com/p/CcpuP7opI\_x/">
+                <image src="/images/Arts/SE_Important Information & FAQs.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <h6 style="margin-top:0%">Important Information and FAQs</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAPpgVyAEJG/">
-                <image src="/images/CCA-String_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
-                <h6 style="margin-top:0%">Life in TP String Ensemble</h6>
+            <a href="https://www.instagram.com/p/CcnXKPRJwdh/">
+                <image src="/images/Arts/SE_CCA Fair 2022.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
                 </image>
             </a>
         </td>
