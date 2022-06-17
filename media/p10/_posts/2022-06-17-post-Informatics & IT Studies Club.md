@@ -5,7 +5,6 @@ permalink: /p10/informatics-and-it-studies-club/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
@@ -48,7 +47,7 @@ description: ""
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CarQrQ3l9t_/)">
+                <a href="https://www.instagram.com/p/CarQrQ3l9t_/">
                     <image src="/images/P10/IITSC_Volunteers for InfoTech Day 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IITSC">
                     <h6 style="margin-top:0%">Volunteers for InfoTech Day 2022</h6>
                     </image>
