@@ -5,8 +5,6 @@ permalink: /performing-arts/chinese-orchestra/
 date: 2022-06-17
 description: ""
 ---
-
-
 <div>
 <table>
     <tr>
@@ -15,8 +13,13 @@ description: ""
             <p>
                 The Chinese Orchestra performs Chinese music using various Chinese instruments such as the Yangqin, Erhu and Pipa to explore the world of traditional and contemporary Chinese music. The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as Band and String Ensemble and also ventures out for public performances and overseas exchange programmes.<br>
                 <br>
-                <b>Achievements:</b><br>
+                <b>Features:</b><br>
                 <ul>
+									 <li>Temasek Spectacular (2022)</li>
+                    <li>DREAMS XII (2022)</li>
+                    <li>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</li>
+									 <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
+                    <li>Temasek Arts Festival – Temasek Polytechnic Chinese Orchestra Recital: Travelogue (2021)</li>
                     <li>Annual Chinese Orchestra Concerts, Magical Autumn XII (2019)</li>
                     <li>NAC Arts In Your Neighbour: Music On The Move (2019)</li>
                     <li>HKCO Singapore Tour Campus Concert (2018)</li>
@@ -39,28 +42,28 @@ description: ""
 </table>
 </div>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COej86MncWR">
-                <image src="/images/CCA-tpco-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">Introducing our Main Committee of AY 2122!</h6>
+            <a href="https://www.instagram.com/p/CdxoOHQJIHI/">
+                <image src="/images/Arts/CO_Induction Day.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">Induction Day</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CNjt21HH5pP">
-                <image src="/images/CCA-tpco-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">Temasek Polytechnic Chinese Orchestra Recital Travelogue</h6>    
+            <a href="https://www.instagram.com/p/Cco2MFnpiUd/">
+                <image src="/images/Arts/CO_CCA Fair AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">CCA Fair AY22/23</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CLgaHrhHydq/">
-                <image src="/images/CCA-CO_IG5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">"恭喜恭喜" and "财神到”</h6>
+            <a href="https://www.instagram.com/p/CcfdpjZPW8H/">
+                <image src="/images/Arts/CO_Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
                 </image>
             </a>
         </td>
