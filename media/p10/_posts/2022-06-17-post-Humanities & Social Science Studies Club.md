@@ -5,7 +5,6 @@ permalink: /p10/humanities-and-social-sciences-studies-club/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
@@ -60,7 +59,7 @@ description: ""
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cd5ElpxJV\_Z/">
+                <a href="https://www.instagram.com/p/Cd5ElpxJV_Z/">
                     <image src="/images/P10/HSSSC_Rainbow.png" style="display:block;margin-left:auto;margin-right:auto;" alt="HSSSC">
                     <h6 style="margin-top:0%">#HSSDRESSUPDAY – Rainbow</h6>    
                     </image>
