@@ -5,7 +5,6 @@ permalink: /performing-arts/salvo-drums/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
@@ -48,7 +47,7 @@ description: ""
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cco1SjBJ28\_/">
+            <a href="https://www.instagram.com/p/Cco1SjBJ28_/">
                 <image src="/images/Arts/SALVO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>
                 </image>
