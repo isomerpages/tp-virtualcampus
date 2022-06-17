@@ -5,7 +5,6 @@ permalink: /performing-arts/indian-dance/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
@@ -48,14 +47,14 @@ description: ""
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cd3MXyuvr\_w/">
+            <a href="https://www.instagram.com/p/Cd3MXyuvr_w/">
                 <image src="/images/Arts/IDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cdxyq\_RPn0\_/">
+            <a href="https://www.instagram.com/p/Cdxyq_RPn0_/">
                 <image src="/images/Arts/IDG_Trial Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">Trial Session</h6>
                 </image>
