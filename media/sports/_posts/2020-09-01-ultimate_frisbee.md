@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Ultimate Frisbee
+title: Ultimate Frisbee
 permalink: /sports/ultimate_frisbee/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_ultimate_frisbee.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee"></image></td>
@@ -22,28 +21,28 @@ permalink: /sports/ultimate_frisbee/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CN9VrP7Hphj">
-                <image src="/images/CCA-tuf-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
-                <h6 style="margin-top:0%">Join Temasek Ultimate Frisbee!</h6>
+            <a href="https://www.instagram.com/p/CeQ1t9KpKX3/">
+                <image src="/images/Sports/ULTIMATE FRISBEE_Introducing the Excos AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
+                <h6 style="margin-top:0%">Introducing the Excos AY22/23</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CN4FcMznvcL">
-                <image src="/images/CCA-tuf-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
-                <h6 style="margin-top:0%">Temasek Ultimate Frisbee</h6>
+            <a href="https://www.instagram.com/p/CczLDRlPAwk/">
+                <image src="/images/Sports/ULTIMATE FRISBEE_Ultybeginner 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
+                <h6 style="margin-top:0%">Ultybeginner 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CA0IBb0nfwq/">
-                <image src="/images/CCA-Ultimate_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
-                <h6 style="margin-top:0%">Ultimate Frisbee eAGM</h6>
+            <a href="https://www.instagram.com/p/CcvAENYJbWb/">
+                <image src="/images/Sports/ULTIMATE FRISBEE_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
                 </image>
             </a>
         </td>
