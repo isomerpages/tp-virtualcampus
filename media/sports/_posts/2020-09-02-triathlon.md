@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Triathlon
+title: Triathlon
 permalink: /sports/triathlon/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_triathlon.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon"></image></td>
@@ -26,28 +25,28 @@ permalink: /sports/triathlon/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CN9pVtanc1R">
-                <image src="/images/CCA-triathlon-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
-                <h6 style="margin-top:0%">Recruitment Drive 2021 – TP Triathlon</h6>
+                <image src="/images/Sports/TRIATHLON_Recruitment Drive 2021.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
+                <h6 style="margin-top:0%">Recruitment Drive 2021</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CAFCC7gH1FC/">
-                <image src="/images/CCA-Triathlon_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
+                <image src="/images/Sports/TRIATHLON_Join the TP Triathlon Family!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
                 <h6 style="margin-top:0%">Join the TP Triathlon Family!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CACH8TNHeIh/">
-                <image src="/images/CCA-Triathlon_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Triathlon</h6>
+                <image src="/images/Sports/TRIATHLON_Recruitment Drive 2020.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
+                <h6 style="margin-top:0%">Recruitment Drive 2020</h6>
                 </image>
             </a>
         </td>
