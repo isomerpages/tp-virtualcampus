@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Kayak Racing
+title: Kayak Racing
 permalink: /sports/kayak_racing/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_kayak_racing.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing"></image></td>
@@ -30,28 +29,28 @@ permalink: /sports/kayak_racing/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COXD5nynfTS/">
-                <image src="/images/CCA-kayak-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
-                <h6 style="margin-top:0%">Join the TPKRT Family!</h6>
+            <a href="https://www.instagram.com/p/CcfWj0tPWPN/">
+                <image src="/images/Sports/KAYAK RACING_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CN4jOmnHPOI/">
-                <image src="/images/CCA-kayak-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
-                <h6 style="margin-top:0%">TP Virtual CCA Fair 2021</h6>
+            <a href="https://www.instagram.com/p/CcfNIuIvk4L/">
+                <image src="/images/Sports/KAYAK RACING_POL-ITE 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <h6 style="margin-top:0%">POL-ITE 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CEqu73AnqGz/">
-                <image src="/images/CCA-Kayak_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
-                <h6 style="margin-top:0%">Join the TP Kayak Racing team!</h6>
+            <a href="https://www.instagram.com/p/CcW7xvNv-AD/">
+                <image src="/images/Sports/KAYAK RACING_AGM 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
+                <h6 style="margin-top:0%">AGM 2022</h6>
                 </image>
             </a>
         </td>
