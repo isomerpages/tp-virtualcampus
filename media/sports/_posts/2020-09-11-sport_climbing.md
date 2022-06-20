@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Sports Climbing
+title: Sports Climbing
 permalink: /sports/sport_climbing/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_sport_climbing.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Climbing"></image></td>
@@ -31,23 +30,23 @@ permalink: /sports/sport_climbing/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COfnQMbnZsQ/">
-                <image src="/images/CCA-tpsc-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">Meet the EXCOs!</h6>
+            <a href="https://www.instagram.com/p/CeFhJdCpkWF/">
+                <image src="/images/Sports/SPORT CLIMBING_Selection Trials AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
+                <h6 style="margin-top:0%">Selection Trials AY22/23</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COZaOy-HJI5/">
-                <image src="/images/CCA-tpsc-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">Training Days</h6>
+            <a href="https://www.instagram.com/p/CcnDCvHJ7Wk/">
+                <image src="/images/Sports/SPORT CLIMBING_About Sport Climbing.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
+                <h6 style="margin-top:0%">About Sport Climbing</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CNzl1IpnhKT/">
-                <image src="/images/CCA-tpsc-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">TP Virtual CCA Fair 2021</h6>    
+            <a href="https://www.instagram.com/p/CcfWyg6vHRe/">
+                <image src="/images/Sports/SPORT CLIMBING_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
         </td>
