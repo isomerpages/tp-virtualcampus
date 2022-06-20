@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Volleyball
+title: Volleyball
 permalink: /sports/volleyball/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_volleyball.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball"></image></td>
@@ -29,28 +28,28 @@ permalink: /sports/volleyball/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/tv/CODLHiJHOf0/">
-                <image src="/images/CCA-volleyball-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
-                <h6 style="margin-top:0%">Join Temasek Polytechnic Volleyball now!</h6>
+                <image src="/images/Sports/VOLLEYBALL_Join Temasek Polytechnic Volleyball now!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+                <h6 style="margin-top:0%">Join Temasek Polytechnic Volleyball Now!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CAUceYgHrBE/">
-                <image src="/images/CCA-Volleyball_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
-                <h6 style="margin-top:0%">National Athlete Ajay Shergill SEA Games 2019 highlights</h6>
+                <image src="/images/Sports/VOLLEYBALL_National Athlete Ajay Shergill SEA Games 2019 highlights.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+                <h6 style="margin-top:0%">National Athlete Ajay Shergill SEA Games 2019 Highlights</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/B_ZyoWSnBAH/">
-                <image src="/images/CCA-Volleyball_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
-                <h6 style="margin-top:0%">Join the TP Volleyball family!</h6>    
+                <image src="/images/Sports/VOLLEYBALL_Join the TP Volleyball family!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
+                <h6 style="margin-top:0%">Join the TP Volleyball Family!</h6>    
                 </image>
             </a>
         </td>
