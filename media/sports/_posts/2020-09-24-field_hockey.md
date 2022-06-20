@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Field Hockey
+title: Field Hockey
 permalink: /sports/field_hockey/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_field_hockey.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></image></td>
@@ -35,21 +34,21 @@ permalink: /sports/field_hockey/
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COKKODJnpLf/">
-                <image src="/images/CCA-fh-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
-                <h6 style="margin-top:0%">Join Men’s Hockey Team!</h6>
+                <image src="/images/Sports/FIELD HOCKEY_Join the Mens Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <h6 style="margin-top:0%">Join the Men’s Hockey Team!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COKKDhNHNWx/">
-                <image src="/images/CCA-fh-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
-                <h6 style="margin-top:0%">Join TP Women’s Hockey Team!</h6>    
+                <image src="/images/Sports/FIELD HOCKEY_Join the Womens Team.png" style="dplay:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <h6 style="margin-top:0%">Join the Women’s Hockey Team!</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CAFyWQKBC9t/">
-                <image src="/images/CCA-Hockey_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <image src="/images/Sports/FIELD HOCKEY_Join the TP Hockey Family.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
                 <h6 style="margin-top:0%">Join the TP Hockey Family!</h6>
                 </image>
             </a>
