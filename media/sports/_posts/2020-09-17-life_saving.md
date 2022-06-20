@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Life Saving
+title: Life Saving
 permalink: /sports/life_saving/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_life_saving.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Life Saving"></image></td>
@@ -25,28 +24,28 @@ permalink: /sports/life_saving/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CPNIyGCHrr7/">
-                <image src="/images/CCA-ls-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
-                <h6 style="margin-top:0%">Freshie Bonding</h6>
+            <a href="https://www.instagram.com/p/CddUcTlJ7lS/">
+                <image src="/images/Sports/LIVE SAVING_SEA Games 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">SEA Games 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CPHvk-OHJnc/">
-                <image src="/images/CCA-ls-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
-                <h6 style="margin-top:0%">Introducing Life Saving Exco 2021</h6>
+            <a href="https://www.instagram.com/p/Ccm-TO4JuV3/">
+                <image src="/images/Sports/LIFE SAVING_CCA Recruitment 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">CCA Recruitment 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CN6d2xFnxbL/">
-                <image src="/images/CCA-ls-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
-                <h6 style="margin-top:0%">Why Join TPLSST?</h6>
+            <a href="https://www.instagram.com/p/Ccfkg4MvSHD/">
+                <image src="/images/Sports/LIFE SAVING_Introducing Lifesaving Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifesaving">
+                <h6 style="margin-top:0%">Introducing Life Saving Committee AY22/23</h6>
                 </image>
             </a>
         </td>
