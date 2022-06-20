@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Floorball
+title: Floorball
 permalink: /sports/floorball/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_floorball.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball"></image></td>
@@ -15,7 +14,6 @@ permalink: /sports/floorball/
                 <ul>
                     <li>IVP Games 2020: Bronze (Men’s Team) & 4th (Women’s Team)</li>
                     <li>POL-ITE Games 2019: Silver (Men’s Team) & Gold (Women’s Team)</li>
-
                 </ul>
               </p>
               <p>
@@ -40,23 +38,23 @@ permalink: /sports/floorball/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CN4VxEshY-7">
-                <image src="/images/CCA-floorball-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
+            <a href="https://www.instagram.com/p/CcudGyLhC_h/">
+                <image src="/images/Sports/FLOORBALL_Temasek Polytechnic Women’s Floorball Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
                 <h6 style="margin-top:0%">Temasek Polytechnic Women’s Floorball Recruitment</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CN4U76whgVh">
-                <image src="/images/CCA-floorball-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
+            <a href="https://www.instagram.com/p/CcudGyLhC_h/">
+                <image src="/images/Sports/FLOORBALL_Temasek Polytechnic Men’s Floorball Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
                 <h6 style="margin-top:0%">Temasek Polytechnic Men’s Floorball Recruitment</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_47XJuBM8X/">
-                <image src="/images/CCA-Floorball_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
-                <h6 style="margin-top:0%">Join the TP Floorball Family!</h6>
+            <a href="https://www.instagram.com/p/CcAbeH5FXdT/">
+                <image src="/images/Sports/FLOORBALL_POL-ITE AY21-22.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
+                <h6 style="margin-top:0%">POL-ITE Floorball Championship AY21/22</h6>
                 </image>
             </a>
         </td>
