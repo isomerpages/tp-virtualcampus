@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Water Polo
+title: Water Polo
 permalink: /sports/water_polo/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_water_polo.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo"></image></td>
@@ -25,28 +24,28 @@ permalink: /sports/water_polo/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/stories/highlights/17901362797531550/">
-                <image src="/images/CCA-Waterpolo_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
-                <h6 style="margin-top:0%">Resumption of F2F training</h6>
+            <a href="https://www.instagram.com/p/Ccp8jZkpLVk/">
+                <image src="/images/Sports/WATER POLO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/stories/highlights/17855255983941363/">
-                <image src="/images/CCA-Waterpolo_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
-                <h6 style="margin-top:0%">Online training sessions</h6>
+            <a href="https://www.instagram.com/p/CBNp1kine0G/">
+                <image src="/images/Sports/WATER POLO_Online Training Sessions.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <h6 style="margin-top:0%">Online Training Sessions</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CACpyXPHMjB/">
-                <image src="/images/CCA-Waterpolo_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
-                <h6 style="margin-top:0%">Introduction to Water Polo EXCO</h6>    
+                <image src="/images/Sports/WATER POLO_Introducing the Committee AY20-21.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <h6 style="margin-top:0%">Introducing the Committee AY20/21</h6>    
                 </image>
             </a>
         </td>
