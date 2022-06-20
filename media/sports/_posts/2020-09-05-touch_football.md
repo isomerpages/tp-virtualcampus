@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Touch Football
+title: Touch Football
 permalink: /sports/touch_football/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_touch_football.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football"></image></td>
@@ -29,28 +28,28 @@ permalink: /sports/touch_football/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CcmhZjPv2tM/">
+                <image src="/images/Sports/TOUCH FOOTBALL_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CcQbPKPvBVc/">
+                <image src="/images/Sports/TOUCH FOOTBALL_POL-ITE Games 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
+                <h6 style="margin-top:0%">POL_ITE Games 2022</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COXHyPJHWC5/">
-                <image src="/images/CCA-tfb-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
-                <h6 style="margin-top:0%">Who is TPIRANHAS?</h6>    
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_4LtlvHj63/">
-                <image src="/images/CCA-Touch_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
-                <h6 style="margin-top:0%">Why You Should Join Touch Football?</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_jSix2H8Sv/">
-                <image src="/images/CCA-Touch_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
-                <h6 style="margin-top:0%">Touch Football team's achievements</h6>
+                <image src="/images/Sports/TOUCH FOOTBALL_Who is TPIRANHAS.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
+                <h6 style="margin-top:0%">Who is TPIRANHAS?</h6>
                 </image>
             </a>
         </td>
