@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Mind Sports
+title: Mind Sports
 permalink: /sports/mind_sports/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_mind_sports.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Mind Sports"></image></td>
@@ -23,28 +22,28 @@ permalink: /sports/mind_sports/
 </table>
 
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAsSOlEJHvz/">
-                <image src="/images/CCA-Mindsports_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
-                <h6 style="margin-top:0%">TP Mindsports online meeting</h6>
+            <a href="https://www.instagram.com/p/CdUsob3po2K/">
+                <image src="/images/Sports/MIND SPORTS_NP Open Invitationals.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
+                <h6 style="margin-top:0%">NP Open Invitationals</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_2igr-pIvA/">
-                <image src="/images/CCA-Mindsports_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
-                <h6 style="margin-top:0%">TP Mindsports recruitment video (Part 2)</h6>
+            <a href="https://www.instagram.com/p/CdCguqhpdM_/">
+                <image src="/images/Sports/MIND SPORTS_LCCM Labor Day Hari Raya Tournament.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
+                <h6 style="margin-top:0%">LCCM Labor Day + Hari Raya Tournament</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_2iamrJrvm/">
-                <image src="/images/CCA-Mindsports_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
-                <h6 style="margin-top:0%">TP Mindsports recruitment video (Part 1)</h6>    
+            <a href="https://www.instagram.com/p/Cc0OKNWvhB-/">
+                <image src="/images/Sports/MIND SPORTS_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
         </td>
