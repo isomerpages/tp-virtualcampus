@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Track & Field
+title: Track & Field
 permalink: /sports/track_field/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_track_field.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field"></image></td>
@@ -29,28 +28,28 @@ permalink: /sports/track_field/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CEjxJ4hHyx7/">
-                <image src="/images/CCA-track_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
-                <h6 style="margin-top:0%">Resumption of F2F Training</h6>
+            <a href="https://www.instagram.com/p/Cc1sMldJ5Y7/">
+                <image src="/images/Sports/TRACK & FIELD_Join Our Family!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
+                <h6 style="margin-top:0%">Join Our Family!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAxQZSJnQxJ/">
-                <image src="/images/CCA-track_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
-                <h6 style="margin-top:0%">Team Online Training Session</h6>
+            <a href="https://www.instagram.com/p/Cbl1-Y7pya2/">
+                <image src="/images/Sports/TRACK & FIELD_IVP Championships.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
+                <h6 style="margin-top:0%">IVP Championships</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_wcnRqn8Bx/">
-                <image src="/images/CCA-track_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
-                <h6 style="margin-top:0%">Join the Track & Field Family!</h6>    
+            <a href="https://www.instagram.com/p/CbhlWBkpYXx/">
+                <image src="/images/Sports/TRACK & FIELD_Meet the Captains.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field">
+                <h6 style="margin-top:0%">Meet the Captains!</h6>    
                 </image>
             </a>
         </td>
