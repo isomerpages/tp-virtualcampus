@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  TP Fitness
+title: TP Fitness
 permalink: /sports/tp_fitness/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_tp_fitness.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness"></image></td>
@@ -26,28 +25,28 @@ permalink: /sports/tp_fitness/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/Cc1lGI7vIKN/">
+                <image src="/images/Sports/TP FITNESS_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CWyJO4sBpJu">
+                <image src="/images/Sports/TP FITNESS_Temasek Strength Classic.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness">
+                <h6 style="margin-top:0%">Temasek Strength Classic</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COKobuwH0-Q/">
-                <image src="/images/CCA-fitness-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness">
-                <h6 style="margin-top:0%">Join The Team!</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CFYtm0mH7jn/">
-                <image src="/images/CCA-TPfitness_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness">
-                <h6 style="margin-top:0%">HIIT Workout</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CFGx4rcHWqC/">
-                <image src="/images/CCA-TPfitness_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness">
-                <h6 style="margin-top:0%">AMRAP Workout</h6>
+                <image src="/images/Sports/TP FITNESS_Join The Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness">
+                <h6 style="margin-top:0%">Join the Team!</h6>
                 </image>
             </a>
         </td>
