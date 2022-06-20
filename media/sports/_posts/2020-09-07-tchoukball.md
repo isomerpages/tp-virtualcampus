@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Tchoukball
+title: Tchoukball
 permalink: /sports/tchoukball/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_tchoukball.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball"></image></td>
@@ -25,28 +24,28 @@ permalink: /sports/tchoukball/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CACGOGRHF1j/">
-                <image src="/images/CCA-Tchoukball_IG4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
-                <h6 style="margin-top:0%">TP Tchoukball Video</h6>
+            <a href="https://www.instagram.com/p/Cc-N4Q1JYn9/">
+                <image src="/images/Sports/TCHOUKBALL_POL-ITE Highlights.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
+                <h6 style="margin-top:0%">POL-ITE Highlights</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAAouk_HMc6/">
-                <image src="/images/CCA-Tchoukball_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Tchoukball Women's</h6>
+            <a href="https://www.instagram.com/p/CczlBJVvazE/">
+                <image src="/images/Sports/TCHOUKBALL_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAAPfWEHhXV/">
-                <image src="/images/CCA-Tchoukball_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020 - Tchoukball Men's</h6>    
+            <a href="https://www.instagram.com/p/COHhNH6n1e_/">
+                <image src="/images/Sports/TCHOUKBALL_Join Us.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
+                <h6 style="margin-top:0%">We Want You!</h6>    
                 </image>
             </a>
         </td>
