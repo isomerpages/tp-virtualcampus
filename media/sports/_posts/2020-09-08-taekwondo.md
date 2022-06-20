@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Taekwondo
+title: Taekwondo
 permalink: /sports/taekwondo/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_taekwondo.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo"></image></td>
@@ -25,28 +24,28 @@ permalink: /sports/taekwondo/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CPITfI4HllV">
-                <image src="/images/CCA-tkd-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
-                <h6 style="margin-top:0%">Bon Voyage AY21/22 TKD Exco Members </h6>
+            <a href="https://www.instagram.com/p/Cc0aAnppma4/">
+                <image src="/images/Sports/TAEKWONDO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/tv/CNz0tj2Hgr9">
-                <image src="/images/CCA-tkd-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
-                <h6 style="margin-top:0%">2021 TP Martial Arts Video shoot!</h6>
+            <a href="https://www.instagram.com/p/Cc0ZzLFJxXT/">
+                <image src="/images/Sports/TAEKWONDO_Introducing Temasek Polytechnic Taekwondo.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
+                <h6 style="margin-top:0%">Introducing Temasek Polytechnic Taekwondo</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CACzPmjn7nm/">
-                <image src="/images/CCA-Taekwondo_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
-                <h6 style="margin-top:0%">Team Taekwondo CCA Recruitment Drive video</h6>
+            <a href="https://www.instagram.com/p/CcozOMdJQuN/">
+                <image src="/images/Sports/TAEKWONDO_POL-ITE AY21-22.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
+                <h6 style="margin-top:0%">POL-ITE AY21-22</h6>
                 </image>
             </a>
         </td>
