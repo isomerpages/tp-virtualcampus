@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Dragon Boat
+title: Dragon Boat
 permalink: /sports/dragon_boat/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_dragon_boat.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dragon Boat"></image></td>
@@ -31,23 +30,23 @@ permalink: /sports/dragon_boat/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COe1LvQHoFt/">
-                <image src="/images/CCA-tpdb-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">TPDB – Online Orientation</h6>
+            <a href="https://www.instagram.com/p/CedhRACJQkE/">
+                <image src="/images/Sports/DRAGONBOAT_Singapore Dragon Boat Festival 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <h6 style="margin-top:0%">Singapore Dragon Boat Festival 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CN4mko3HGen/">
-                <image src="/images/CCA-tpdb-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">Temasek Polytechnic DragonBoat CCA virtual fair</h6>
+            <a href="https://www.instagram.com/p/Cd5mLVbpMYo/">
+                <image src="/images/Sports/DRAGONBOAT_Volunteer Work.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <h6 style="margin-top:0%">Volunteer Work</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CFOYwXQn7Kx/">
-                <image src="/images/CCA-tpdb-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">Temasek Poly Dragon Boat Women – Join our family today!</h6>    
+            <a href="https://www.instagram.com/p/Cc7Q4BtJQU-/">
+                <image src="/images/Sports/DRAGONBOAT_Recruitment Drive.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
+                <h6 style="margin-top:0%">TPDB is Recruiting!</h6>    
                 </image>
             </a>
         </td>
