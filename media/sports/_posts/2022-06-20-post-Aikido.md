@@ -1,0 +1,54 @@
+---
+layout: post
+title: Aikido
+permalink: /sports/aikido/
+date: 2022-06-20
+description: ""
+---
+
+<table>
+    <tr>
+        <td style="width:33%"><image src="/images/CCA_aikido.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido"></image></td>
+        <td>
+            <p>
+                Aikido is a modern Japanese martial art that was developed for defence while minimising injury for the attacker. Aikido techniques use the attacker’s momentum and turn them into various throws or joint locks.<br>
+                <br>
+                <b>Training Days:</b><br>
+                Thursday, 7pm<br>
+                <br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Azman_MOHAMED@TP.EDU.SG">Mr Azman Mohamed</a><br>
+                <br>
+                CCA <a href="https://www.instagram.com/tpaikido/">Instagram</a><br>
+                <br>
+            </p>
+        </td>
+    </tr>
+</table>
+
+#### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CeU1FRTJXpv/">
+                <image src="/images/Sports/AIKIDO_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido">
+                <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CeKlx0kJdN3/">
+                <image src="/images/Sports/AIKIDO_TP Aikido Vlogs Episode 1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido">
+                <h6 style="margin-top:0%">TP Aikido Vlogs Episode: 1</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/CdXGearpWKn/">
+                <image src="/images/Sports/AIKIDO_TP Aikido FAQs.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido">
+                <h6 style="margin-top:0%">TP Aikido FAQs</h6>    
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
