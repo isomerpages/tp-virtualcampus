@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Table Tennis
+title: Table Tennis
 permalink: /sports/table_tennis/
 ---
-
 <table>
     <tr>
         <td style="width:33%"><image src="/images/CCA_table_tennis.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis"></image></td>
@@ -29,28 +28,28 @@ permalink: /sports/table_tennis/
     </tr>
 </table>
 
-#### Past Activities
+#### Latest Happenings
 
 <table>
     <tr>
         <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/Cc3Fdf2PNTZ/">
+                <image src="/images/Sports/TABLE TENNIS_Online CCA Fair.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
+                <h6 style="margin-top:0%">Online CCA Fair</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/Cc0MkqDJ9GU/">
+                <image src="/images/Sports/TABLE TENNIS_In-Person CCA Fair.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
+                <h6 style="margin-top:0%">In-Person CCA Fair</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CCqZxS7nPpF/">
-                <image src="/images/CCA-tabletennis_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
-                <h6 style="margin-top:0%">Table Tennis E-CCA session</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CCKqSe2HrJU/">
-                <image src="/images/CCA-tabletennis_IG2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
-                <h6 style="margin-top:0%">Table Tennis team running challenge</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CB9pkWyHMmL/">
-                <image src="/images/CCA-tabletennis_IG3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
-                <h6 style="margin-top:0%">Table Tennis running challenge progress</h6>    
+                <image src="/images/Sports/TABLE TENNIS_E-CCA Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
+                <h6 style="margin-top:0%">E-CCA Session</h6>    
                 </image>
             </a>
         </td>
