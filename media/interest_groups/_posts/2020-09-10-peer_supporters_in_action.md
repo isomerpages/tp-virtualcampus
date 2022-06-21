@@ -25,7 +25,6 @@ permalink: /interest_groups/peer_supporters_in_action/
                 <p>
                     All students are welcome to join us in this peer support movement!<br>
                     <br>
-
                     <b>Meeting Day:</b> Event basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Marilyn_KANG@tp.edu.sg">Ms Marilyn Kang</a><br>
