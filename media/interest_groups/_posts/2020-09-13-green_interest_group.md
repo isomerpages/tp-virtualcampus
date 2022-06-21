@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Green Interest Group
+title: Green Interest Group
 permalink: /interest_groups/green_interest_group/
 ---
-
 <div>
     <table>
         <tr>
@@ -35,23 +34,23 @@ permalink: /interest_groups/green_interest_group/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CPDYxxUH1_0/">
-                <image src="/images/CCA-gig-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
-                <h6 style="margin-top:0%">#fourwhat</h6>
+            <a href="https://www.instagram.com/p/CePpEVXvU3T/">
+                <image src="/images/Interest Groups/GIG_Keep TP Clean Campaign.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
+                <h6 style="margin-top:0%">Keep TP Clean Campaign</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COKFbQeHkWd/">
-                <image src="/images/CCA-gig-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
-                <h6 style="margin-top:0%">Introducing TPGIG!</h6>
+            <a href="https://www.instagram.com/p/Cd-8dDOpMB4/">
+                <image src="/images/Interest Groups/GIG_The Smooth-Coated Otter.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
+                <h6 style="margin-top:0%">The Smooth-Coated Otter</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COHp3OFnAF-/">
-                <image src="/images/CCA-gig-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
-                <h6 style="margin-top:0%">TPGIG MAINCOMM AY21/22</h6>    
+            <a href="https://www.instagram.com/p/Cd8XuwaJg3D/">
+                <image src="/images/Interest Groups/GIG_Join WE'RECYCLERS as a Volunteer!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
+                <h6 style="margin-top:0%">Join WE'RECYCLERS as a Volunteer!</h6>    
                 </image>
             </a>
         </td>
