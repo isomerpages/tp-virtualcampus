@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  LEAD Ambassadors
+title: LEAD Ambassadors
 permalink: /interest_groups/lead_ambassadors/
 ---
-
 <div>
     <table>
         <tr>
@@ -27,23 +26,23 @@ permalink: /interest_groups/lead_ambassadors/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CMjWYqeH_oz/">
-                <image src="/images/CCA-la-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
-                <h6 style="margin-top:0%">Contemporary Art Goes Online</h6>
+            <a href="https://www.instagram.com/p/CefIv-rJbcp/">
+                <image src="/images/Interest Groups/LEAD_LEAD Heart Organisers Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <h6 style="margin-top:0%">LEAD Heart Organisers Recruitment</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CNbXquQHIxN/">
-                <image src="/images/CCA-la-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
-                <h6 style="margin-top:0%">TP LEAD Graduation 2021</h6>
+            <a href="https://www.instagram.com/p/CedjKhAJJGd/">
+                <image src="/images/Interest Groups/LEAD_Meet the Core Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <h6 style="margin-top:0%">Meet The Core Team</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CO2SLjBnUeq/">
-                <image src="/images/CCA-la-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
-                <h6 style="margin-top:0%">LEAD Annual General Meeting</h6>    
+            <a href="https://www.instagram.com/p/CeLcFKYpM-y/">
+                <image src="/images/Interest Groups/LEAD_We are Recruiting!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <h6 style="margin-top:0%">We are Recruiting!</h6>    
                 </image>
             </a>
         </td>
