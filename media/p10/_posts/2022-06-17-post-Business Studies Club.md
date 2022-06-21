@@ -5,7 +5,6 @@ permalink: /p10/business-studies-club/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
@@ -45,7 +44,7 @@ description: ""
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CbW1ARmpmcp/)">
+                <a href="https://www.instagram.com/p/CbW1ARmpmcp/">
                     <image src="/images/P10/BSC_Synergy Leader Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BSC">
                     <h6 style="margin-top:0%">Synergy Leader Recruitment</h6>
                     </image>
