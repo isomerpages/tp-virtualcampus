@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Japanese Cultural Group
+title: Japanese Cultural Group
 permalink: /interest_groups/japanese_cultural_group/
 ---
-
 <div>
     <table>
         <tr>
@@ -35,23 +34,23 @@ permalink: /interest_groups/japanese_cultural_group/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COvHqheHE0t/">
-                <image src="/images/CCA-jcg-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
-                <h6 style="margin-top:0%">Life after JCG</h6>    
+            <a href="https://www.instagram.com/p/CegwXzoPBpX/">
+                <image src="/images/Interest Groups/JCG_Notebook Design Workshop.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <h6 style="margin-top:0%">Notebook Design Workshop</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CKqdD-JnTL3/">
-                <image src="/images/CCA-jcg-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
-                <h6 style="margin-top:0%">Japanese Melon</h6>    
+            <a href="https://www.instagram.com/p/CeBdESLBhgJ/">
+                <image src="/images/Interest Groups/JCG_AE Physical Event (AEPE).png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <h6 style="margin-top:0%">AE Physical Event (AEPE)</h6> 
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CGulRHBnArY/">
-                <image src="/images/CCA_jcg_summer.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
-                <h6 style="margin-top:0%">Japanese Summer Festival</h6>
+            <a href="https://www.instagram.com/p/CdQgfBHpa-8/">
+                <image src="/images/Interest Groups/JCG_Gyoza Cookalong.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <h6 style="margin-top:0%">Gyoza Cookalong</h6>
                 </image>
             </a>
         </td>
