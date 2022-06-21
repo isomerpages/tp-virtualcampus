@@ -23,36 +23,31 @@ permalink: /interest_groups/design_ambassadors/
     </table>
 </div>
 
-<h3><a id="dsaNDC"></a>Celebrating our Nation's 56th Birthday</h3>
-
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/deNzJnCdSaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-Watch our Design Student Ambassadors' well wishes to Singapore's Birthday!
-
 #### Latest Happenings
 
 <div>
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/tv/CKYYnKMnLfl/">
-                    <image src="/images/CCA-dsa-ig2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
-                    <h6 style="margin-top:0%">A Day in the Life of a Design Student</h6>
+                <a href="https://www.instagram.com/p/CZoifdjv0Wq/">
+                    <image src="/images/Interest Groups/DSA_Safe Management Measures - Masks Wearing.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
+                    <h6 style="margin-top:0%">Safe Management Measures - Masks Wearing</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CCANOWKnJ0C/">
-                    <image src="/images/CCA-dsa_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
-                    <h6 style="margin-top:0%">Recruitment results are out!</h6>
+                <a href="https://www.instagram.com/p/CX8SREpP_1J/">
+                    <image src="/images/Interest Groups/DSA_Where You Can Go to De-stress.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
+                    <h6 style="margin-top:0%">Where You Can Go to De-Stress</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
+							<a href="https://www.instagram.com/p/CXx_LL-vsuK/">
+                    <image src="/images/Interest Groups/DSA_Tips to Relieve Stress.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSA Results are out">
+                    <h6 style="margin-top:0%">Tips to Relieve Stress</h6>
+                    </image>
+                </a>
             </td>
         </tr>
     </table>
