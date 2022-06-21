@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Peer Supporters-in-Action (PSIA)
+title: Peer Supporters-in-Action (PSIA)
 permalink: /interest_groups/peer_supporters_in_action/
 ---
-
 <div>
     <table>
         <tr>
@@ -43,23 +42,23 @@ permalink: /interest_groups/peer_supporters_in_action/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CPAf8Umnrgn/">
-                <image src="/images/CCA-psia-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
-                <h6 style="margin-top:0%">e-Forum #2 Group Work</h6>
+            <a href="https://www.instagram.com/p/CefIadfJkn7/">
+                <image src="/images/Interest Groups/PSIA_Friendly Friday 3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
+                <h6 style="margin-top:0%">Friendly Friday 3</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COSSY4Gjhve/">
-                <image src="/images/CCA-psia-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
-                <h6 style="margin-top:0%">Recruiting Now!</h6>    
+            <a href="https://www.instagram.com/p/CePrp7WJ01R/">
+                <image src="/images/Interest Groups/PSIA_E-Forum 3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
+                <h6 style="margin-top:0%">E-Forum #3</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CONIWYZDxuN/">
-                <image src="/images/CCA-psia-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
-                <h6 style="margin-top:0%">The Start of PSIA</h6>
+            <a href="https://www.instagram.com/p/Cc4Gb68pIxE/">
+                <image src="/images/Interest Groups/PSIA_Welcoming Executive Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
+                <h6 style="margin-top:0%">Welcoming Executive Committee AY22/23</h6>
                 </image>
             </a>
         </td>
