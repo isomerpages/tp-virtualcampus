@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  NYAA Challenge
+title: NYAA Challenge
 permalink: /interest_groups/nyaa_challenge/
 ---
-
 <div>
     <table>
         <tr>
@@ -33,23 +32,23 @@ permalink: /interest_groups/nyaa_challenge/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COVULpRn9X6/">
-                <image src="/images/CCA-nyaa-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
-                <h6 style="margin-top:0%">Join Our Amazing Family</h6>
+            <a href="https://www.instagram.com/p/CcVaLvyP7i6/">
+                <image src="/images/Interest Groups/NYAA_AY22-23 Main Committee Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
+                <h6 style="margin-top:0%">AY22/23 Main Committee Recruitment</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CMgfmFgnw6S/">
-                <image src="/images/CCA-nyaa-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
-                <h6 style="margin-top:0%">Discussion on Alcohol & Drugs</h6>    
+            <a href="https://www.instagram.com/p/CaolL1QPeat/">
+                <image src="/images/Interest Groups/NYAA_Biodiversity Friends Forum.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
+                <h6 style="margin-top:0%">Biodiversity Friends Forum</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CE_GRIcnNJf/">
-                <image src="/images/CCA_nyaa_gold_briefing.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
-                <h6 style="margin-top:0%">NYAA Gold Briefing</h6>
+            <a href="https://www.instagram.com/p/CaC6ivwvn5n/">
+                <image src="/images/Interest Groups/NYAA_Well, Fare Enough Stress Management.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
+                <h6 style="margin-top:0%">Well, Fare Enough: Stress Management</h6>
                 </image>
             </a>
         </td>
