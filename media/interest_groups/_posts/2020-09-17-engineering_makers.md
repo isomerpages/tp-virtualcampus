@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Engineering Makers Group
+title: Engineering Makers Group
 permalink: /interest_groups/engineering_makers/
 ---
-
 <div>
     <table>
         <tr>
@@ -28,23 +27,23 @@ permalink: /interest_groups/engineering_makers/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COhvLxfHEvM/">
-                <image src="/images/CCA-emg-ig3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
-                <h6 style="margin-top:0%">Join us in our loT Workshop!</h6>
+            <a href="https://www.instagram.com/p/CdiA0zTpha7/">
+                <image src="/images/Interest Groups/EMC_Secondary School Workshops.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
+                <h6 style="margin-top:0%">Secondary School Workshops</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B78VXR2nz_Z/">
-                <image src="/images/CCA_engmakers2.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
-                <h6 style="margin-top:0%">Design & Mill Printed Circuit Boards</h6>
+            <a href="https://www.instagram.com/p/Ccrep8WJi-r/">
+                <image src="/images/Interest Groups/EMC_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B7D1pyZHjv8/">
-                <image src="/images/CCA_engmakers3.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
-                <h6 style="margin-top:0%">In-house Designed Go-Kart</h6>
+            <a href="https://www.instagram.com/p/CX0oQq5Psn0/">
+                <image src="/images/Interest Groups/EMC_Our Workshops.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG Makers">
+                <h6 style="margin-top:0%">Our Workshops</h6>
                 </image>
             </a>
         </td>
