@@ -38,23 +38,23 @@ permalink: /interest_groups/tp_debates/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CPf0sbZHYuc">
-                    <image src="/images/CCA-tpD-ig7.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
-                    <h6 style="margin-top:0%">Debates Meeting in Phase 3</h6>
+                <a href="https://www.instagram.com/p/Cc_5_rQJBYI/">
+                    <image src="/images/Interest Groups/DEBATES_Temasek Polytechnic Charity Competition.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <h6 style="margin-top:0%">Temasek Polytechnic Charity Competition</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/COfig7yHHTY/">
-                    <image src="/images/CCA-tpD-ig3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
-                    <h6 style="margin-top:0%">TP Debates Orientation</h6>
+                <a href="https://www.instagram.com/p/Cc7q45HJClu/">
+                    <image src="/images/Interest Groups/DEBATES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CD03UHrHpV2/">
-                    <image src="/images/CCA-tpdebates_IG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
-                    <h6 style="margin-top:0%">Freshmen Tournament</h6>
+                <a href="https://www.instagram.com/p/CczXlGxPS1d/">
+                    <image src="/images/Interest Groups/DEBATES_What do we do.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <h6 style="margin-top:0%">What do we do?</h6>
                     </image>
                 </a>
             </td>
