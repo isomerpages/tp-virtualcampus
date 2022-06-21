@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  SENvocates
+title: SENvocates
 permalink: /interest_groups/senvocates/
 ---
-
 <div>
     <table>
         <tr>
@@ -37,20 +36,25 @@ permalink: /interest_groups/senvocates/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COSg2RKrJ5z/">
-                <image src="/images/CCA-SEN-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
-                <h6 style="margin-top:0%">Join us!</h6>
+            <a href="https://www.instagram.com/p/CdvHcGmJJlX/">
+                <image src="/images/Interest Groups/SENVOCATES_TAP Amazing Race.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
+                <h6 style="margin-top:0%">TAP Amazing Race</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COC4XUTrgRW/">
-                <image src="/images/CCA-SEN-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
-                <h6 style="margin-top:0%">Introducing SENvocates!</h6>    
+            <a href="https://www.instagram.com/p/CcppdTCp6XY/">
+                <image src="/images/Interest Groups/SENVOCATES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
+					<a href="https://www.instagram.com/p/CcZkmN0p9sE/">
+                <image src="/images/Interest Groups/SENVOCATES_SEN Orientation.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
+                <h6 style="margin-top:0%">SEN Orientation</h6>    
+                </image>
+            </a>
         </td>
     </tr>
 </table>
