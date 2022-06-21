@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Institution of Engineers, Singapore Student Chapter
+title: Institution of Engineers, Singapore Student Chapter
 permalink: /interest_groups/ies_student_chapter/
 ---
-
 <div>
     <table>
         <tr>
@@ -35,21 +34,26 @@ permalink: /interest_groups/ies_student_chapter/
 
 <table>
     <tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CPIdKDMnLit/">
-                <image src="/images/CCA-IESSC-ig2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
-                <h6 style="margin-top:0%">CCN Day!</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CB2Bmt7HowV/">
-                <image src="/images/CCA_ies_wklymtg.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
-                <h6 style="margin-top:0%">Join the Bi-Weekly Meeting</h6>
+        <td style="width:33%">
+            <a href="https://www.instagram.com/p/CeQ0uPxppnG/">
+                <image src="/images/Interest Groups/IES_ENGNewsletter.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
+                <h6 style="margin-top:0%">ENGNewsletter</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%">
+            <a href="https://www.instagram.com/p/CeL25YVpOzj/">
+                <image src="/images/Interest Groups/IES_NUS' Built Environment Case Competition.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
+                <h6 style="margin-top:0%">NUS' Built Environment Case Competition</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%">
+					<a href="https://www.instagram.com/p/CcxdktppdCR/">
+                <image src="/images/Interest Groups/IES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
+                </image>
+            </a>
         </td>
     </tr>
 </table>
