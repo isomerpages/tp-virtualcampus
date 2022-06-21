@@ -5,7 +5,6 @@ permalink: /interest-groups/business-ambassadors/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
@@ -27,21 +26,21 @@ description: ""
 
 <table>
     <tr>
-        <td style="width:33%">
+        <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CROGblWHmwg/">
                 <image src="/images/Interest Groups/BA_Introducing EXCO AY21-22.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Ambassadors">
                 <h6 style="margin-top:0%">Introducing EXCO AY21/22</h6>
                 </image>
             </a>
         </td>
-        <td style="width:33%">
+        <td style="width:33%"><br>
 					<a href="https://www.instagram.com/p/CQGvH05HC8y/">
                 <image src="/images/Interest Groups/BA_WorththeshoTP.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Ambassadors">
                 <h6 style="margin-top:0%">Let's Get Our Shot Now! #worththeshoTP</h6>
                 </image>
             </a>
         </td>
-        <td style="width:33%">
+        <td style="width:33%"><br>
 					<a href="https://www.instagram.com/p/CCAb-FSHTsX/">
                 <image src="/images/Interest Groups/BA_Introducing EXCO AY20-21.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Ambassadors">
                 <h6 style="margin-top:0%">Introducing EXCO AY20/21</h6>
