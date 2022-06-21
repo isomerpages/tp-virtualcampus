@@ -9,12 +9,12 @@ permalink: /interest_groups/entrepreneurship_group/
             <td style="width:33%"><image src="/images/CCA_entrepreneurship_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Group"></image></td>
             <td>
                 <p>
-                    The Temasek Polytechnic Entrepreneurship Group aims to provide a platform to identify, nurture and groom students who possess interest and strength in innovation and entrepreneurship. Members will be expected to promote entrepreneurial mindset and organise relevant activities such as talks, workshops, competitions, trips and events for their TP peers and the community. With effect from April 2022, the TP Social Impact Catalyst (TPSIC) will merge into the TP Entrepreneurship Group family. This move welcomes the introduction of Social Entrepreneurship and elements into its line-up of activities.<br>
+                    The Temasek Polytechnic Entrepreneurship Club aims to provide a platform to identify, nurture and groom students who possess interest and strength in innovation and entrepreneurship. Members will be expected to promote entrepreneurial mindset and organise relevant activities such as talks, workshops, competitions, trips and events for their TP peers and the community. With effect from April 2022, the TP Social Impact Catalyst (TPSIC) will merge into the TP Entrepreneurship Club family. This move welcomes the introduction of Social Entrepreneurship and elements into its line-up of activities.<br>
                     <br>
                     <b>Achievements:</b><br>
                 </p>
                 <ul>
-                    <li>The Entrepreneurship Group won the 2nd runner up in the National Anti-Scam Makeathon 2019 organised by the Singapore Police Force and the National Crime Prevention Council.</li>
+                    <li>The Entrepreneurship Club won the 2nd runner up in the National Anti-Scam Makeathon 2019 organised by the Singapore Police Force and the National Crime Prevention Council.</li>
                     <li>We also won the 2nd runner-up in the Business Challenge Competition in February 2021, which was organised by the Innovation & Entrepreneurship Department in TP.</li>
                     <li>In addition, we organised the TP Sustainability Competition in October 2021 with the support of TP staff and external partners. This competiton was open to all TP students, calling for innovation and ideation for sustainability/eco-awareness. </li>
                     <li>We have also hosted workshops with Tampines Residency in September 2021, and hosted another workshop to promote financial management and literacy among the residents of the Tampines estate in January 2022.</li>
