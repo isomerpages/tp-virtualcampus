@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Entrepreneurship Group
+title: Entrepreneurship Group
 permalink: /interest_groups/entrepreneurship_group/
 ---
-
 <div>
     <table>
         <tr>
@@ -43,23 +42,23 @@ permalink: /interest_groups/entrepreneurship_group/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/COrpavjnYIW">
-                    <image src="/images/CCA-ec-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Introducing Management Committee AY2021/2022">
-                    <h6 style="margin-top:0%">Introducing Management Committee AY2021/2022</h6>
+                <a href="https://www.instagram.com/p/Cd-fD_BJ0MS/">
+                    <image src="/images/Interest Groups/EC_Subcommittee Recruitment AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="EC Subcommittee Recruitment AY22/23">
+                    <h6 style="margin-top:0%">Subcommittee Recruitment AY22/23</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/COOtkFiHjj4/">
-                    <image src="/images/CCA-ec-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPEC Recruitment">
-                    <h6 style="margin-top:0%">TPEC Recruitment</h6>
+                <a href="https://www.instagram.com/p/Cd55wxrJHJ4/">
+                    <image src="/images/Interest Groups/EC_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Introducing Main Committee AY22/23">
+                    <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CGyuRt8nqwx/">
-                    <image src="/images/CCA-tpec_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Amazing Race Recruiting Facilitators">
-                    <h6 style="margin-top:0%">Amazing Race on 9 Nov</h6>
+                <a href="https://www.instagram.com/p/CciYi1Jv3UG/">
+                    <image src="/images/Interest Groups/EC_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="CCA Fair 2022">
+                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
                     </image>
                 </a>
             </td>
