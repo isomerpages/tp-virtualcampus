@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Business Ambassadors
+title: Business Ambassadors
 permalink: /interest_groups/business_ambassadors/
 ---
-
 <div>
     <table>
         <tr>
@@ -25,16 +24,26 @@ permalink: /interest_groups/business_ambassadors/
 
 <table>
     <tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CCAb-FSHTsX/?utm_source=ig_web_copy_link">
-                <image src="/images/CCA_bus_ambassador_mc.JPG" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Ambassadors MC">
-                <h6 style="margin-top:0%">Check Out the New Management Committee!</h6>
+        <td style="width:33%">
+            <a href="https://www.instagram.com/p/CROGblWHmwg/">
+                <image src="/images/Interest Groups/BA_Introducing EXCO AY21-22.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Ambassadors">
+                <h6 style="margin-top:0%">Introducing EXCO AY21/22</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%">
+					<a href="https://www.instagram.com/p/CQGvH05HC8y/">
+                <image src="/images/Interest Groups/BA_WorththeshoTP.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Ambassadors">
+                <h6 style="margin-top:0%">Let's Get Our Shot Now! #worththeshoTP</h6>
+                </image>
+            </a>
         </td>
         <td style="width:33%">
+					<a href="https://www.instagram.com/p/CCAb-FSHTsX/">
+                <image src="/images/Interest Groups/BA_Introducing EXCO AY20-21.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Ambassadors">
+                <h6 style="margin-top:0%">Introducing EXCO AY20/21</h6>
+                </image>
+            </a>
         </td>
     </tr>
 </table>
