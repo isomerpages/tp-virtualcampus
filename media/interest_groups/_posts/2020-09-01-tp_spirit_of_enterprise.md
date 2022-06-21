@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  TP-Spirit of Enterprise
+title: TP-Spirit of Enterprise
 permalink: /interest_groups/tp_spirit_of_enterprise/
 ---
-
 <div>
     <table>
         <tr>
@@ -37,23 +36,23 @@ permalink: /interest_groups/tp_spirit_of_enterprise/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/COr-HckhYIp/">
-                    <image src="/images/CCA-tpsoe-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">SOE-TP Student Chapter Recruitment</h6>
+                <a href="https://www.instagram.com/p/CdVHWqrhX__/">
+                    <image src="/images/Interest Groups/SOE_What is an Entrepreneur.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
+                    <h6 style="margin-top:0%">What is an Entrepreneur?</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CFRKruAl7DI/">
-                    <image src="/images/CCA-tpsoe_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">Interested in growing your business?</h6>
+                <a href="https://www.instagram.com/p/CdUyAaDhvmd/">
+                    <image src="/images/Interest Groups/SOE_Entrepreneurship Awareness Week.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
+                    <h6 style="margin-top:0%">Entrepreneurship Awareness Week</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CDQDMP8laua/">
-                    <image src="/images/CCA-tpsoe_IG2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">Thanks for attending the webinar</h6>
+                <a href="https://www.instagram.com/p/Cc16eHGB15x/">
+                    <image src="/images/Interest Groups/SOE_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
+                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
                     </image>
                 </a>
             </td>
