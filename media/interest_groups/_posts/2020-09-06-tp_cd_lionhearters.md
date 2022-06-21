@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  TP-CD Lionhearters
+title: TP-CD Lionhearters
 permalink: /interest_groups/tp_cd_lionhearters/
 ---
-
 <div>
     <table>
         <tr>
@@ -38,23 +37,23 @@ permalink: /interest_groups/tp_cd_lionhearters/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/COZLgOVHyAc/">
-                    <image src="/images/CCA-cd-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
-                    <h6 style="margin-top:0%">Main Committee Recruitment AY21/22</h6>
+                <a href="https://www.instagram.com/p/CcpNLKBJes5/">
+                    <image src="/images/Interest Groups/LIONHEARTERS_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CG0BAO8nS_w/">
-                    <image src="/images/CCA-cd-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
-                    <h6 style="margin-top:0%">Fire safety and First Aid Kit in Quiz 5 </h6>
+                <a href="https://www.instagram.com/p/CbtRxKgvW3e/">
+                    <image src="/images/Interest Groups/LIONHEARTERS_Main Committee Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <h6 style="margin-top:0%">Main Committee Recruitment</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CF08RMTnGPR">
-                    <image src="/images/CCA-cd-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
-                    <h6 style="margin-top:0%">Respiratory Problems and Burn Injuries in Quiz 4</h6>
+                <a href="https://www.instagram.com/p/CaBfr1uv_zA/">
+                    <image src="/images/Interest Groups/LIONHEARTERS_SCDF X TP-CDLH myResponder Sign-up Challenge.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <h6 style="margin-top:0%">SCDF X TP-CDLH myResponder Sign-up Challenge</h6>
                     </image>
                 </a>
             </td>
