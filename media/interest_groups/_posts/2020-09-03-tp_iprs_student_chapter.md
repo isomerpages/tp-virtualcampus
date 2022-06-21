@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  TP-Institute of Public Relations of Singapore Student Chapter
+title: TP-Institute of Public Relations of Singapore Student Chapter
 permalink: /interest_groups/tp_iprs_student_chapter/
 ---
-
 <div>
     <table>
         <tr>
@@ -33,23 +32,23 @@ permalink: /interest_groups/tp_iprs_student_chapter/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CORqP3JHVax/">
-                    <image src="/images/CCA-tpiprs-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
-                    <h6 style="margin-top:0%">Join us as TPIPRS exco</h6>
+                <a href="https://www.instagram.com/p/Cce8PDuPHet/">
+                    <image src="/images/Interest Groups/IPRS_Ready, Steady, Go Green!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
+                    <h6 style="margin-top:0%">Ready, Steady, Go Green!</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CORZvHandCO/">
-                    <image src="/images/CCA-tpiprs-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
-                    <h6 style="margin-top:0%">4 reasons to join TP-IPRS</h6>
+                <a href="https://www.instagram.com/p/CXif-7jvqnd/">
+                    <image src="/images/Interest Groups/IPRS_IPRS PRISM Awards 2021.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
+                    <h6 style="margin-top:0%">IPRS PRISM Awards 2021</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CEtD4vuHfEX/">
-                    <image src="/images/CCA-tpiprs_IG3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
-                    <h6 style="margin-top:0%">Happy Teachers' Day!</h6>
+                <a href="https://www.instagram.com/p/CWW6qNcByjL/">
+                    <image src="/images/Interest Groups/IPRS_Mentorship Programme.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
+                    <h6 style="margin-top:0%">Mentorship Programme</h6>
                     </image>
                 </a>
             </td>
