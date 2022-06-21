@@ -5,7 +5,6 @@ permalink: /p10/applied-science-studies-club/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
@@ -47,7 +46,7 @@ description: ""
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cb\_enxTvt8O/">
+                <a href="https://www.instagram.com/p/Cb_enxTvt8O/">
                     <image src="/images/P10/ASSC_Main Committee Recruitment AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ASCSC">
                     <h6 style="margin-top:0%">Main Committee Recruitment AY22/23</h6>    
                     </image>
