@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Visual Arts & Writing Club
+title: Visual Arts & Writing Club
 permalink: /interest_groups/visual_arts_writing_club/
 ---
-
 <div>
     <table>
         <tr>
@@ -23,3 +22,31 @@ permalink: /interest_groups/visual_arts_writing_club/
         </tr>
     </table>
 </div>
+
+ #### Latest Happenings
+
+<table>
+    <tr>
+        <td style="width:33%"><br>
+            <a href="https://www.instagram.com/p/Cc2-6MuOL_L/">
+                <image src="/images/Interest Groups/VAWC_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts & Writing Club">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+					<a href="https://www.instagram.com/p/CcslfK7uAXG/">
+                <image src="/images/Interest Groups/VAWC_First Session of Term 1 AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts & Writing Club">
+                <h6 style="margin-top:0%">First Session of Term 1 AY22/23</h6>
+                </image>
+            </a>
+        </td>
+        <td style="width:33%"><br>
+					<a href="https://www.instagram.com/p/Cbw77G-pq8w/">
+                <image src="/images/Interest Groups/VAWC_Masterclass on Creative Writing.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts & Writing Club">
+                <h6 style="margin-top:0%">Masterclass on Creative Writing</h6>
+                </image>
+            </a>
+        </td>
+    </tr>
+</table>
