@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Project Innov8
+title: Project Innov8
 permalink: /interest_groups/project_innov8/
 ---
-
 <div>
     <table>
         <tr>
@@ -41,23 +40,23 @@ permalink: /interest_groups/project_innov8/
     <table>
         <tr>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CN6LGlDnI5s/">
-                    <image src="/images/CCA-pi8-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-                    <h6 style="margin-top:0%">KIN, A wallet created by local designers</h6>
+                <a href="https://www.instagram.com/p/Ccm5x2VJnqJ/">
+                    <image src="/images/Interest Groups/PROJECT INNOV8_Recruitment Drive 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <h6 style="margin-top:0%">Recruitment Drive 2022</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/COOlFeIng7C/">
-                    <image src="/images/CCA-pi8-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-                    <h6 style="margin-top:0%">Join us!</h6>
+                <a href="https://www.instagram.com/p/Cbz6yX2pec4/">
+                    <image src="/images/Interest Groups/PROJECT INNOV8_Disruptive Innovation.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <h6 style="margin-top:0%">Disruptive Innovation</h6>
                     </image>
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CKK7hu6H0w-/">
-                    <image src="/images/CCA-projectinnov8_IG1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-                    <h6 style="margin-top:0%">Project Pouch Collaboration</h6>
+                <a href="https://www.instagram.com/p/CZ511xAPArF/">
+                    <image src="/images/Interest Groups/PROJECT INNOV8_5 Strangest but Fascinating Fitness Products.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <h6 style="margin-top:0%">5 Strangest but Fascinating Fitness Products</h6>
                     </image>
                 </a>
             </td>
