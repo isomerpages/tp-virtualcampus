@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Global Connect Student Group
+title: Global Connect Student Group
 permalink: /interest_groups/global_connect_student_group/
 ---
-
 <div>
     <table>
         <tr>
@@ -49,23 +48,23 @@ permalink: /interest_groups/global_connect_student_group/
 <table>
     <tr>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CPF_06nntYu/">
-                <image src="/images/CCA-gcsg-ig4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">DIY Online June 2021</h6>
+            <a href="https://www.instagram.com/p/CeDhAYqJXMA/">
+                <image src="/images/Interest Groups/GCSG_Internal Diversity.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+                <h6 style="margin-top:0%">Internal Diversity</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COh9-yuH04S/">
-                <image src="/images/CCA-gcsg-ig5.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Diversity And Inclusion: Ageism in the Workplace</h6>
+            <a href="https://www.instagram.com/p/CeAWo1ZpYZM/">
+                <image src="/images/Interest Groups/GCSG_Religion & Culture.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+                <h6 style="margin-top:0%">Religion & Culture</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COac1VDHny8/">
-                <image src="/images/CCA-gcsg-ig6.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Executive Committee AY2021/22</h6>    
+            <a href="https://www.instagram.com/p/Cd5oGQvJ8FX/">
+                <image src="/images/Interest Groups/GCSG_Food Wastage in Singapore.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
+                <h6 style="margin-top:0%">Food Wastage in Singapore</h6>    
                 </image>
             </a>
         </td>
