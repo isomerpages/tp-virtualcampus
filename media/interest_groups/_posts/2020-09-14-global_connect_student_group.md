@@ -64,7 +64,7 @@ permalink: /interest_groups/global_connect_student_group/
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cd5oGQvJ8FX/">
                 <image src="/images/Interest Groups/GCSG_Food Wastage in Singapore.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Food Wastage in Singapore</h6>    
+                <h6 style="margin-top:0%">Food Wastage in Singapore</h6> 
                 </image>
             </a>
         </td>
