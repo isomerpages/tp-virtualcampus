@@ -7,10 +7,7 @@ description: ""
 
 **Meet some of our finest arts youth leaders from the 14 Arts CCAs at the "Temasek Arts Centre Chatshow"!**
 
-<a href="https://www.youtube.com/watch?v=82uPMWY7tQU" style="text-decoration: none">
-       <image src="/images/Arts/CCA Talk Show (Arts).jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Band">
-       </image>
-</a>
+[![CCA Talk Show (Arts)](/images/Arts/CCA Talk Show (Arts).jpg)](https://www.youtube.com/watch?v=82uPMWY7tQU){:target="_blank"}{:rel="noopener"}
 
 ---
 
