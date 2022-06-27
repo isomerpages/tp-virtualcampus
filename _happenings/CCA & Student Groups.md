@@ -21,7 +21,7 @@ description: ""
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/cca-and-student-groups/p10-and-interest-groups/p10/"     style="text-decoration: none">
+                <a href="/cca-and-student-groups/p10-and-interest-groups/p10-clubs/"     style="text-decoration: none">
                     <image src="/images/Happenings/P10 & Interest Groups.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10 and Interest Groups">
                     </image>
                 </a>
