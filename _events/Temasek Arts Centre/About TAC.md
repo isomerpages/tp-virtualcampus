@@ -7,7 +7,7 @@ third_nav_title: Temasek Arts Centre
 ### Arts Attack! - Watch these Arts CCA Online Performances
 Come witness the vibrancy and energy of 14 of the finest [Performing Arts Groups](/cca-and-student-groups/performing-arts/) in TP with these specially curated videos!
 
-[![Arts CCA Concerts](/images/Arts/Arts Attack- Temasek Arts Centre.jpg)](https://www.youtube.com/watch?v=lJKK6ZD77W4){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
+[![Arts CCA Concerts](/images/Arts/Arts Attack - Temasek Arts Centre.jpg)](https://www.youtube.com/watch?v=lJKK6ZD77W4){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
 
 ---
 ###  Tour of #TeamTemasek 
