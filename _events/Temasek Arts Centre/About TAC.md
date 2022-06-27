@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Temasek Arts Centre
 ---
 ### Take The Stage! - Watch these Arts CCA Online Concerts
-Come witness the vibrancy and energy of 14 of the finest [Performing Arts Groups](/be-involved/performing-arts/) in TP with these specially curated videos!
+Come witness the vibrancy and energy of 14 of the finest [Performing Arts Groups](/cca-and-student-groups/performing-arts/) in TP with these specially curated videos!
 
 [![Arts CCA Concerts](/images/BeEntertained-TACOHvideo.PNG)](https://www.youtube.com/watch?v=PtGvShau2jI&feature=youtu.be){:style="display:block;margin-left:auto;margin-right:auto;"}{:target="_blank"}{:rel="noopener"}
 
