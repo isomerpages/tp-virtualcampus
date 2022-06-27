@@ -2,5 +2,5 @@ collections:
   services:
     output: true
     order:
-      - Specialist Services.md
       - Student Wellness.md
+      - Specialist Services.md
