@@ -1,5 +1,5 @@
 collections:
-  happenings:
+  headers:
     output: true
     order:
       - Student Wellness.md
