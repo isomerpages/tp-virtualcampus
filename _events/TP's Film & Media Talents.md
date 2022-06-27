@@ -37,4 +37,4 @@ For this April semester AY2021/22, the CMM Audio Production subject team collabo
 The top 8 pieces of work were selected by MediaCorp to pioneer their new series ‘Student Podcast Features’, which showcases clips produced by media and broadcasting students from Mediacorp's educational institute partners all across Singapore.
 The 8 episodes of the podcast are now LIVE on [meListen](https://bit.ly/CMMonMeListen) and also on [Spotify](https://bit.ly/CMMonSpotify).
 
-![CMM Podcast](/images/events/Mediacorp- Let Us Tell You About The Time.jpg)
+![CMM Podcast](/images/events/Mediacorp - Let Us Tell You About The Time.jpg)
