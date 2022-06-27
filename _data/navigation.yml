@@ -1,9 +1,9 @@
 logo: /images/TPlogo.jpg
 links:
   - title: Explore
-    collection: explore
+    collection: happenings
   - title: Specialist Services
-    collection: specialist-services
+    collection: services
   - title: Getting Around TP
     sublinks:
       - title: Our Very Cool 360 VR Tour of TP!
