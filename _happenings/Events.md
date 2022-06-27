@@ -31,6 +31,8 @@ description: ""
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
 							 <a href="/events/community-engagement/campus-care-network/"     style="text-decoration: none">
                     <image src="/images/Happenings/Community Engagement.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Community Engagement">
+											  </image>
+                </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/"    style="text-decoration: none">
