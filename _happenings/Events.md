@@ -15,7 +15,7 @@ description: ""
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="//events/temasek-arts-centre/about-tac/"     style="text-decoration: none">
+                <a href="/events/temasek-arts-centre/about-tac/"     style="text-decoration: none">
                     <image src="/images/Happenings/Temasek Arts Centre.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Temasek Arts Centre">
                     </image>
                 </a>
@@ -41,7 +41,7 @@ description: ""
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-							 <a href="//events/tp-film-and-media-talents/"    style="text-decoration: none">
+							 <a href="/events/tp-film-and-media-talents/"    style="text-decoration: none">
                     <image src="/images/Happenings/TP's Film & Media Talents.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP's Film & Media Talents">
                     </image>
                 </a>
