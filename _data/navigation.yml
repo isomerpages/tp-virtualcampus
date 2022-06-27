@@ -1,9 +1,9 @@
 logo: /images/TPlogo.jpg
 links:
-  - title: Happenings
-    collection: happenings
-  - title: Services
-    collection: services
+  - title: CCA & Student Groups
+    collection: cca-and-student-groups
+  - title: Events
+    collection: events
   - title: Resources
     sublinks:
       - title: Our Very Cool 360 VR Tour of TP!
@@ -17,3 +17,9 @@ links:
     url: /resources/academics
   - title: Contact Us
     url: /contact-us/
+  - title: Student Wellness
+    collection: student-wellness
+  - title: Specialist Services
+    collection: specialist-services
+  - title: Resources
+    collection: resources
