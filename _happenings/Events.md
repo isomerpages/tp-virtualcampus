@@ -34,7 +34,7 @@ description: ""
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/"    style="text-decoration: none">
-                    <image src="/images/Happenings/Student Exchange Programme.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Student Exchange Programmes">
+                    <image src="/images/Happenings/Student Exchange Programmes.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Student Exchange Programmes">
                     </image>
                 </a>
             </td>
