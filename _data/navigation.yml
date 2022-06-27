@@ -4,7 +4,7 @@ links:
     collection: cca-and-student-groups
   - title: Events
     collection: events
-  - title: Resources
+  - title: Alumni
     sublinks:
       - title: Our Very Cool 360 VR Tour of TP!
         url: https://www.tp.edu.sg/vrtour/
@@ -14,12 +14,10 @@ links:
         url: https://services.tp.edu.sg/
       - title: Corporate Website
         url: https://www.tp.edu.sg/
-    url: /resources/academics
-  - title: Contact Us
-    url: /contact-us/
-  - title: Student Wellness
-    collection: student-wellness
-  - title: Specialist Services
-    collection: specialist-services
+    url: /alumni/highlights
+  - title: Services
+    collection: services
   - title: Resources
     collection: resources
+  - title: Contact Us
+    url: /contact-us/
