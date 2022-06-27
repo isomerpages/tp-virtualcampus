@@ -49,8 +49,6 @@ description: ""
         </tr>
 			<tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-											  </image>
-                </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/alumni/join-the-alumni-family/"    style="text-decoration: none">
@@ -59,8 +57,6 @@ description: ""
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                    </image>
-                </a>
             </td>
         </tr>
     </table>
