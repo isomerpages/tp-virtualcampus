@@ -1,4 +1,5 @@
 collections:
   services:
     output: true
-    order: []
+    order:
+      - Student Wellness.md
