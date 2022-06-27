@@ -34,13 +34,13 @@ description: ""
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/"    style="text-decoration: none">
-                    <image src="/images/Happenings/Student Exchange Programme.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Diploma Interest Groups">
+                    <image src="/images/Happenings/Student Exchange Programme.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Student Exchange Programmes">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-							 <a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/"    style="text-decoration: none">
-                    <image src="/images/Happenings/TP's Film & Media Talents.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Diploma Interest Groups">
+							 <a href="//events/tp-film-and-media-talents/"    style="text-decoration: none">
+                    <image src="/images/Happenings/TP's Film & Media Talents.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP's Film & Media Talents">
                     </image>
                 </a>
             </td>
