@@ -9,7 +9,7 @@ Established in 1991, [Campus Care Network](https://www.tp.edu.sg/life-at-tp/a-ca
 
 TP's inaugural Virtual Campus Care Network Day held in August 2020, in conjunction with TP National Day Virtual Concert was meant to raise funds for our needy students especially during this current pandemic.
 
-**Check out this year's e-CCN Day via [instagram](https://www.instagram.com/e_ccnday/){:target="_blank"}{:rel="noopener"}!**
+**Check out this year's e-CCN Day via [Instagram](https://www.instagram.com/e_ccnday/){:target="_blank"}{:rel="noopener"}!**
 <br>
 **Date: 21 May 2021 till 4 June 2021**
 <br>
