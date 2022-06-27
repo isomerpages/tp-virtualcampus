@@ -7,11 +7,11 @@ Over many years of discipline, diligence and doggedness, many of Temasek Polytec
 
 Watch these videos on our Sports Champions and be Inspired!
 
-**[Balancing School and Sports - sharing by National Athletes](https://www.youtube.com/watch?v=6TO_3I6w7WU){:target="_blank"}{:rel="noopener"}**
+[![CCA Talk Show (Arts)](/images/Sports/Sports_Take the Podium.jpg)](https://www.youtube.com/watch?v=KR5fxA9nfJg){:target="_blank"}{:rel="noopener"}
 
-**[Take the Podium: The Pursuit of Excellence by National Finswimmer](https://www.youtube.com/watch?v=KR5fxA9nfJg){:target="_blank"}{:rel="noopener"}**
+[![CCA Talk Show (Arts)](/images/Sports/Sports_Home of Champions.jpg)](https://www.youtube.com/watch?v=nW7-AL2YaCo){:target="_blank"}{:rel="noopener"}
 
-**[Home of Champions - sharing by Champion Team and Alumni](https://www.youtube.com/watch?v=nW7-AL2YaCo){:target="_blank"}{:rel="noopener"}**
+___
 
 <div>
     <table>
