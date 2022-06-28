@@ -32,7 +32,7 @@ sections:
         Inspire them to continue the good fight. Nominate them for the TSEA
         today! "
       button: NOMINATE NOW!
-      url: /be-involved/tsea2022
+      url: /events/temasek-service-excellence-awards-2022
       alt: TSEA2022
   - infopic:
       title: CCA Fair 2022 (26-28 April)
