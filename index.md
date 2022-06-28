@@ -70,7 +70,7 @@ sections:
       description: "Soak up the #TPFam vibes and have fun in the sun at our annual
         dragon boat contest for staff and students!"
       button: PADDLES UP
-      url: /be-involved/freshmenorientation/#regatta
+      url: /events/freshmen-orientation-programme-2022/#regatta
       alt: Dragon Boat
   - infopic:
       title: Dreams XII Concert – Back to LIVE
