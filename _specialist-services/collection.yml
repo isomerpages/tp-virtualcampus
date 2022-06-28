@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Athlete Services/.keep
+      - Athlete Testing & Services/Who We Are.md
       - Athlete Testing & Services/.keep
       - Athlete Testing & Services/About Us.md
       - Athlete Testing & Services/who-we-are.md
