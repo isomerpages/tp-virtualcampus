@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/03) TSEA 2022 Web Banner (1920px by 572px).jpg
+      background: /images/VC_eBanner.jpg
       key_highlights:
         - title: Be Involved
           description: Wanna be part of our 140+ CCAs in TP?
