@@ -86,7 +86,7 @@ sections:
       subtitle: Create Your Tomorrow with Us
       description: Catch exciting programmes happening at this year's TP Open House 2022
       button: Join Here!
-      url: /explore/be-involved/oh2022
+      url: /events/open-house-2022
       image: /images/BeInvolved-OH-cca.gif
       alt: TP Open House 2022
   - infopic:
