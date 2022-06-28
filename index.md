@@ -41,7 +41,7 @@ sections:
         campus count? Check out this exciting event to find out more about the
         diverse CCAs offered in TP!
       button: JOIN IN THE ACTION!
-      url: /be-involved/ccafair2022/
+      url: /events/ccafair2022
       image: /images/TP CCA EDM Web Banner_1920px by 1080px_FA.jpg
       alt: CCA Fair 2022
   - infopic:
