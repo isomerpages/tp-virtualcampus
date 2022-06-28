@@ -11,41 +11,41 @@ Check out how our alumni from across TP have been staying connected with us, exp
 <div>
     <table>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Applied Science</h4>
+            <td style="width:33%; vertical-align:bottom; border:none">
                 <a href="/alumni/school_of_applied_science/">
-                    <image src="/images/BeConnected_buzz_ASC.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="ASC">
+                    <image src="/images/Buttons/ASC-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ASC">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Business</h4>
+            <td style="width:33%; vertical-align:bottom; border:none">
                 <a href="/alumni/school_of_business/">
-                    <image src="/images/BeConnected_buzz_BUS.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS">
+                    <image src="/images/Buttons/BUS-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS">
                     </image>
                 </a>
             </td>
-        <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Design</h4>
+        <td style="width:33%; vertical-align:bottom; border:none">
                 <a href="/alumni/school_of_design/">
-                    <image src="/images/BeConnected_buzz_DES.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="DES">
+                    <image src="/images/Buttons/DES-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DES">
                     </image>
                 </a>
             </td>
         </tr>
         <tr>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Engineering</h4>
+            <td style="width:33%; vertical-align:bottom; border:none">
                 <a href="/alumni/school_of_engineering/">
-                    <image src="/images/BeConnected_buzz_ENG.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG">
+                    <image src="/images/Buttons/ENG-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ENG">
                     </image>
                 </a>
             </td>
-            <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Humanities & Social Sciences</h4>
+            <td style="width:33%; vertical-align:bottom; border:none">
                 <a href="/alumni/school_of_humanities_ss/">
-                    <image src="/images/BeConnected_buzz_HSS.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="HSS">
+                    <image src="/images/Buttons/HSS-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="HSS">
                     </image>
                 </a>
             </td>
-        <td style="width:33%; vertical-align:bottom; border:none"><h4>School of Informatics & IT</h4>
+        <td style="width:33%; vertical-align:bottom; border:none">
                 <a href="/alumni/school_of_informatics/">
-                    <image src="/images/BeConnected_buzz_IIT.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="IIT">
+                    <image src="/images/Buttons/IIT-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IIT">
                     </image>
                 </a>
             </td>
