@@ -95,7 +95,7 @@ sections:
       description: Congratulations to TP Design for winning the 2021 ciNE65
         Inter-School Challenge Trophy🏆!
       button: FIND OUT MORE
-      url: /be-entertained/digital-film-television/
+      url: /events/tp-film-and-media-talents/
       image: /images/ciNE65_awards_students.png
       alt: ciNE65 Movie Makers Awards
   - infopic:
