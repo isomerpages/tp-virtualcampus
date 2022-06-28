@@ -4,8 +4,6 @@ permalink: /events/ccafair2022
 description: ""
 third_nav_title: Highlights
 ---
-
-
 ### CCA Fair 2022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/97y57CX73ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -18,33 +16,29 @@ Keen to find out more about your dream CCA(s)? Check them out via the links belo
 
 <table>
     <tr>
-        <td style="width:50%"><br>
-            <a href="/be-involved/performing-arts/">
-                <image src="/images/Performing Arts.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
-                <h6 style="margin-top:0%">Performing Arts</h6>
+        <td style="width:50%"><br> 
+            <a href="/cca-and-student-groups/performing-arts/">
+                <image src="/images/Buttons/Performing Arts-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="/be-involved/sports/">
-                <image src="/images/Sports.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
-                <h6 style="margin-top:0%">Sports</h6>
+            <a href="/cca-and-student-groups/sports/">
+                <image src="/images/Buttons/Sports-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
                 </image>
             </a>
         </td>
     </tr>
     <tr>
         <td style="width:50%"><br>
-            <a href="/be-involved/p10-interest-groups/">
-                <image src="/images/Clubs & Interest Groups.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
-                <h6 style="margin-top:0%">Clubs & Interest Groups</h6>
+            <a href="/cca-and-student-groups/p10-and-interest-groups/">
+                <image src="/images/Buttons/P10 & Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="/be-involved/diploma_interest_groups">
-                <image src="/images/School-Based Interest Groups.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
-                <h6 style="margin-top:0%">School-based Interest Groups</h6>
+            <a href="/cca-and-student-groups/diploma-interest-groups">
+                <image src="/images/Buttons/Diploma Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
                 </image>
             </a>
         </td>
