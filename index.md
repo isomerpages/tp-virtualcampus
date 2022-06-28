@@ -103,7 +103,7 @@ sections:
       subtitle: We are Back!
       description: Run, Walk or even Cycle with your family and friends
       button: Sign up here
-      url: /explore/be-awesome/tp-necdc
+      url: /student-wellness/health-and-wellness/tp-necdc-2021
       image: /images/tpnecdcvc2021.png
       alt: Virtual Challenge
   - infopic:
