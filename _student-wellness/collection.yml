@@ -2,7 +2,6 @@ collections:
   student-wellness:
     output: true
     order:
-      - Health & Wellness/TP x NECDC Virtual Challenge 2021.md
       - Health & Wellness/.keep
       - Health & Wellness/Counselling.md
       - Health & Wellness/AI Wellness Chatbot.md
@@ -12,6 +11,7 @@ collections:
       - Health & Wellness/Nutritional Tips.md
       - Health & Wellness/Virtual Workouts.md
       - Health & Wellness/World Mental Health Week.md
+      - Health & Wellness/TP x NECDC Virtual Challenge 2021.md
       - Health & Wellness/COVID 19 Vaccination Exercise for 12 & Above.md
       - IPPT & NS Prep.md
       - Code of Conduct/.keep
