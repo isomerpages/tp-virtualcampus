@@ -31,13 +31,13 @@ Keen to find out more about your dream CCA(s)? Check them out via the links belo
     </tr>
     <tr>
         <td style="width:50%"><br>
-            <a href="/cca-and-student-groups/p10-and-interest-groups/">
+            <a href="/cca-and-student-groups/p10-and-interest-groups/p10-clubs/">
                 <image src="/images/Buttons/P10 & Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
-            <a href="/cca-and-student-groups/diploma-interest-groups">
+            <a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/">
                 <image src="/images/Buttons/Diploma Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
                 </image>
             </a>
