@@ -119,7 +119,7 @@ sections:
       image: /images/Infopic-Artsfest2021.png
       description: The First Ever Temasek Polytechnic's Online Arts Festival!
       button: Watch These Concerts
-      url: /be-entertained/artsfest/
+      url: /events/temasek-arts-centre/temasek-arts-festival-2021
       alt: Artsfest
   - infopic:
       title: Want to be featured on this Virtual Campus?
