@@ -78,7 +78,7 @@ sections:
       description: '"Back to LIVE" in-person concert showcases our very own Temasek
         Arts Centre performances'
       button: Register here
-      url: /be-entertained/temasek-arts-centre/
+      url: /events/temasek-arts-centre/dreams-series
       image: /images/DREAMS XII Poster Square.png
       alt: Dream XII Concert
   - infopic:
