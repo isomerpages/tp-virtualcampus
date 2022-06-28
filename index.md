@@ -50,7 +50,7 @@ sections:
       description: Dear Freshmen, welcome to the TP Fam! The Freshmen Orientation
         Programme is where you will start your journey with us!
       button: DISCOVER THE ACTION
-      url: /be-involved/freshmenorientation
+      url: /events/freshmen-orientation-programme-2022
       image: /images/FOP EDM_1920px by 1080px.jpg
       alt: freshmenorientation 2022
   - infopic:
