@@ -5,16 +5,7 @@ links:
   - title: Events
     collection: events
   - title: Alumni
-    sublinks:
-      - title: Our Very Cool 360 VR Tour of TP!
-        url: https://www.tp.edu.sg/vrtour/
-      - title: Campus Map
-        url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-      - title: Student Portal
-        url: https://services.tp.edu.sg/
-      - title: Corporate Website
-        url: https://www.tp.edu.sg/
-    url: /alumni/highlights
+    collection: alumni
   - title: Services
     collection: services
   - title: Resources
