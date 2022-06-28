@@ -110,7 +110,7 @@ sections:
       title: TP National Day Celebration 2021
       description: Missed the TP National Day Concert?
       button: Catch the show here
-      url: /be-entertained/tpndc
+      url: /events/national-day-celebration-2021
       image: /images/BeEntertained-NDCshow1.png
       alt: National Day Celebration 2021
   - infopic:
