@@ -61,7 +61,7 @@ sections:
         in-person concerts, featuring exciting arts performances not to be
         missed! "
       button: BE ENTHRALLED HERE
-      url: /be-involved/freshmenorientation/#spectacular
+      url: /events/freshmen-orientation-programme-2022/#spectacular
       alt: Spectacular Concerts
   - infopic:
       title: Temasek Regatta 2022
