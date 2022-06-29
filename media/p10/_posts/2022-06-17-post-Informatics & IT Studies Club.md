@@ -8,7 +8,7 @@ description: ""
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_iitsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Informatics & IT Studies Club"></image></td>
+            <td style="width:45%"><image src="/images/CCA_iitsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Informatics & IT Studies Club"></image></td>
             <td>
                 <p>
                     The Informatics & IT Studies Club (IITSC) represents the students of the School of Informatics & IT (IIT). It organises activities that enrich the student experience, build strong character and leadership skills and support an overall holistic educational experience for students.<br>
