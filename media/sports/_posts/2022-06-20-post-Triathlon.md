@@ -5,10 +5,9 @@ permalink: /sports/triathlon/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_triathlon.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon"></image></td>
+        <td style="width:45%"><image src="/images/Sports/TRIATHLON.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon"></image></td>
         <td>
             <p>
                 Triathlon is a multi-sport event with three continuous endurance components. The most common are swimming, cycling and running over various distances. Triathletes compete for the fastest overall completion time. TP Triathlon team competes in external competitions annually.<br>
