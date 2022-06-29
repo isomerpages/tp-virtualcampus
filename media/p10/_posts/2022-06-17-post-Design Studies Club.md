@@ -5,11 +5,10 @@ permalink: /p10/design-studies-club/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club"></image></td>
+            <td style="width:45%"><image src="/images/CCA_dsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Studies Club"></image></td>
             <td>
                 <p>
                     Design Studies Club (DSC) is a group of student leaders who plans and organises school-wide activities and events for all students in the School of Design. Some of the activities and events that they have organised include the Director's Cup, Jam for Lunch, Appreciation Day and Design Year Book.<br>
