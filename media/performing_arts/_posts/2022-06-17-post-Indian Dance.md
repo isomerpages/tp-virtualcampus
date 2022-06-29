@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_indian_dance.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Indian Dance"></image></td>
+        <td style="width:45%"><image src="/images/Arts/IDG.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indian Dance"></image></td>
         <td>
             <p>
                 Temasek Polytechnic (TP) Indian Dance Group (IDG) trains in the various dance forms, such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance. IDG's members do their own choreography and have been featured at various major events. IDG promotes and showcases its colourful and enthralling dance forms and charming performances, leaving the audience asking for more.<br>
