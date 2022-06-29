@@ -4,7 +4,6 @@ permalink: /specialist-services/sports-projects/upcoming-projects
 description: ""
 third_nav_title: Sports Projects
 ---
-
 Have you often wondered how changing some aspects of what you are doing may affect your sports performance? There could just be a project that you may like to embark on to discover more for yourself what affects your performance and what you can do about it.
 
 | **Topics** | |
