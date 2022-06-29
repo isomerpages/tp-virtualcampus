@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  School of Applied Science
+title: School of Applied Science
 permalink: /alumni/school_of_applied_science/
-
 ---
 ### Sharing by Pharmaceutical Science Alumni ###
 On 7 November 2020, students from the Diploma in Pharmaceutical Science (PHS) attended a virtual panel discussion featuring five alumni. These alumni had graduated from different cohorts but shared one thing in common: they are all currently pursuing their passion in pharmaceutical science, through either work or studies.
@@ -21,7 +20,7 @@ Through a series of exciting online live chats held from 20-26 November 2020, Ap
 
 Watch the chat recordings at the School of Applied Science’s [YouTube](https://www.youtube.com/channel/UCXtXxcKj3SM-kKb3PXt_TVw/videos?app=desktop) channel! 
 
-![ASC Webinar Series](/images/BeConnected_buzz_ASC2.png)
+![ASC Webinar Series](/images/ASC Webinar Series.png)
 <br>*(Photo Credit: @tp_asc)*
 
 
