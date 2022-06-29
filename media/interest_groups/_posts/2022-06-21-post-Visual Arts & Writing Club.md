@@ -5,11 +5,10 @@ permalink: /interest-groups/visual-arts-and-writing-club/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/vawctp.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts & Writing Club"></image></td>
+            <td style="width:45%"><image src="/images/vawctp.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts & Writing Club"></image></td>
             <td>
                 <p>
                     This is a dynamic group of TPians who has a passion to write and visually represent their work. The styles of writing can be varied but working on themes and building a writing dossier of dynamic work is the mission. There are so many issues that confront our world. It is time for us to express and exchange our thoughts and in this process, educate all on our concerns so tomorrow will be brighter and better.<br>
