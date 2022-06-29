@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_digital_media.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Media and Production Crew"></image></td>
+        <td style="width:45%"><image src="/images/Arts/DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Media and Production Crew"></image></td>
         <td>
             <p>
                 The Digital Media & Production Crew (DMPC) enables all of our performing arts groups to be seen, heard and on stage. Engaging with technical and production management, audio, visual, lighting and staging along with capturing special moments on camera, they make real magic happen. The tight-knit and dedicated group has managed the pivot to digital productions with excellence, whilst eagerly driving the return to live events. Members receive training in a multitude of production areas from current industry practitioners, who are passionate about what they do. Along with regular activities, they also organise all scales of events including the exciting annual DREAMS Concert.<br>
