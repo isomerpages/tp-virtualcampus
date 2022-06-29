@@ -5,10 +5,9 @@ permalink: /sports/tennis/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_tennis.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Tennis"></image></td>
+        <td style="width:45%"><image src="/images/Sports/TENNIS.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tennis"></image></td>
         <td>
             <p>
                 Tennis is a familiar racquet sport that is usually played on outdoor courts between two players (singles) or between two teams of two players each (doubles). An Olympic sport, tennis is popular with many people of all ages regardless of their social background. TP Tennis Teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) Tennis Games annually.<br>
