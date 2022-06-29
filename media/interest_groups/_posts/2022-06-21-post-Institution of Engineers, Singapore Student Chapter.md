@@ -5,11 +5,10 @@ permalink: /interest-groups/ies-student-chapter/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_ies_student_chapter.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Institution of Engineers, Singapore Student Chapter"></image></td>
+            <td style="width:45%"><image src="/images/CCA_ies_student_chapter.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Institution of Engineers, Singapore Student Chapter"></image></td>
             <td>
                 <p>
                     The Institution of Engineers, Singapore (IES) is the premier engineering institution in Singapore and their views are often solicited by the Government to feedback on professional engineering matters. As one of its 11 student chapters in Singapore, TP IES Student Chapter’s objectives are:<br>
