@@ -15,7 +15,7 @@ description: ""
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/specialist-services/Projects/upcoming/"     style="text-decoration: none">
+                <a href="/specialist-services/sports-projects/upcoming-projects/"     style="text-decoration: none">
                     <image src="/images/Headers/Sports Project.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Project">
                     </image>
                 </a>
@@ -29,12 +29,12 @@ description: ""
         </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/specialist-services/Resources/workshops/"    style="text-decoration: none">
+							                <a href="/specialist-services/Resources/workshops/"    style="text-decoration: none">
                     <image src="/images/Headers/Workshops.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Workshops">
                     </image>
                 </a>
+            </td>
+            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
             </td>
