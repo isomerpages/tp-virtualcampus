@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  School of Business
+title: School of Business
 permalink: /alumni/school_of_business/
-
 ---
 ### BUS Alumni Webinar Series ###
 BUS alumni from all walks of life were treated to two interesting webinars in January 2021, which were organised exclusively for them! 
@@ -19,10 +18,10 @@ At this webinar, data analytics expert – Benjamin Yang (MKG, 2001) – shared 
     <table>
         <tr>
             <td style="width:49%"><br>
-                    <image src="/images/BeConnected_buzz_BUS1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">                                       </image>
+                    <image src="/images/BUS Webinar Series 1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">                                       </image>
             </td>
             <td style="width:49%"><br>
-                    <image src="/images/BeConnected_buzz_BUS2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">
+                    <image src="/images/BUS Webinar Series 2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BUS Webinar">
                     </image>
             </td>
          </tr>
@@ -38,7 +37,7 @@ We are proud of the co-founders of [Kausmo](https://www.instagram.com/kausmosg/?
 
 This was definitely a delectable session not to be missed. Check out the masterclass video [here](https://www.youtube.com/watch?app=desktop&v=6Tyn4Wp7bG8)! 
 
-![Singapore Food Fest](/images/BeConnected_buzz_BUS3.png)
+![Singapore Food Fest](/images/BUS Alumni Singapore Food Festival 2020.png)
 
 ---
 **Back to [Alumni Buzz](/be-connected/alumnibuzz/)**
