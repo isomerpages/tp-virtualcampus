@@ -5,12 +5,10 @@ permalink: /interest-groups/entrepreneurship-club/
 date: 2022-06-21
 description: ""
 ---
-
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_entrepreneurship_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Group"></image></td>
+            <td style="width:45%"><image src="/images/CCA_entrepreneurship_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Group"></image></td>
             <td>
                 <p>
                     The Temasek Polytechnic Entrepreneurship Club aims to provide a platform to identify, nurture and groom students who possess interest and strength in innovation and entrepreneurship. Members will be expected to promote entrepreneurial mindset and organise relevant activities such as talks, workshops, competitions, trips and events for their TP peers and the community. With effect from April 2022, the TP Social Impact Catalyst (TPSIC) will merge into the TP Entrepreneurship Club family. This move welcomes the introduction of Social Entrepreneurship and elements into its line-up of activities.<br>
