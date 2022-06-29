@@ -5,11 +5,10 @@ permalink: /performing-arts/tp-emcees/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_tp_emcees.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees"></image></td>
+        <td style="width:45%"><image src="/images/Arts/EMCEES.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees"></image></td>
         <td>
             <p>
                 TP Emcees is a fun and lively community of emcees who provide hosting services to the student body of Temasek Polytechnic. They assist with the facilitation of events through collaboration with the various Schools, Departments and CCA groups. Parties that they work with include the Arts Groups, P10 & Interest Groups, the academic schools, as well as the Corporate Communications and Student Development and Alumni Affairs departments. TP Emcees have hosted a variety of event types, from formal ones to less formal community service events and also multiple online platforms. Come be part of the TP Emcees family if you feel at ease on stage and love meeting crowds of people.<br>
