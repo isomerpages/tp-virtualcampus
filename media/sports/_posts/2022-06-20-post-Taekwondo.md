@@ -5,10 +5,9 @@ permalink: /sports/taekwondo/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_taekwondo.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo"></image></td>
+        <td style="width:45%"><image src="/images/Sports/TAEKWONDO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo"></image></td>
         <td>
             <p>
                 Taekwondo is the oldest Korean martial art and is still included in the Korean military training today. Taekwondo competitions involve poomsae, a set of defined pattern defence and attack techniques, and kyorugi, which involves sparring with an opponent. TP Taekwondo Team competes in the Polytechnic-ITE (POL-ITE) Taekwondo Games and external competitions annually.<br>
