@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_string_ensemble.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble"></image></td>
+        <td style="width:45%"><image src="/images/Arts/SE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble"></image></td>
         <td>
             <p>
                 The String Ensemble performs pieces from a range of genres, from classical to modern pop music. A string instrument’s sound and timbre can greatly vary depending on how it is played, thus this allows for many possibilities when it comes to music arrangement and ways for members to express themselves.<br>
