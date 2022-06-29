@@ -5,11 +5,10 @@ permalink: /performing-arts/chorale/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_chorale.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale"></image></td>
+        <td style="width:45%"><image src="/images/Arts/CHORALE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale"></image></td>
         <td>
             <p>
                 The Temasek Polytechnic Chorale performs choral and acappella arrangements in traditional as well as contemporary styles. Let the singers bring music to your ears with the human instrument – the voice. TP Chorale is a renowned choir CCA group comprising a diverse group of Sopranos, Altos, Tenors and Basses led by resident conductor, Ms Choy Siew Woon. They are bonded by their strong passion for singing and endeavour to convey their love for choral singing through the specially curated concert repertoire.<br>
