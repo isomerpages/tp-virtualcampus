@@ -5,10 +5,9 @@ permalink: /sports/mind-sports/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_mind_sports.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Mind Sports"></image></td>
+        <td style="width:45%"><image src="/images/Sports/MIND SPORTS.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mind Sports"></image></td>
         <td>
             <p>
                 The mind sport is a board game of strategy for two players. As opposed to physical exercise, the competition is based on strategy and endgame methods. The common board games played in TP are Xiangqi and International Chess. TP Mind Sports team participates in external competitions annually.<br>
