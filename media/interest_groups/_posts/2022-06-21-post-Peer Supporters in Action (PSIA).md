@@ -5,11 +5,10 @@ permalink: /interest-groups/peer-supporters-in-action/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA-TPPIA.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action"></image></td>
+            <td style="width:45%"><image src="/images/CCA-TPPIA.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action"></image></td>
             <td>
                 <p>
                     Peer Supporters-in-Action (PSiA) aims to equip students with the knowledge about mental health so that anyone can be a supporter to their fellow peers. PSiA also strives to provide a safe platform for all students to feel comfortable about sharing their stories with one another. Together with the Student Care team from Student Support & Career Services, activities and programmes are carried out to create a friendlier environment in TP and to raise awareness about mental health.<br>
