@@ -5,10 +5,9 @@ permalink: /sports/soccer/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_soccer.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer"></image></td>
+        <td style="width:45%"><image src="/images/Sports/SOCCER.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer"></image></td>
         <td>
             <p>
                 The sport that needs no introduction. Commonly known in this region as football, the game is estimated to be played by over 250 million players in over 200 countries, making it the world’s most popular sport. TP Soccer teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) Soccer Games and SR Nathan Challenge Trophy Soccer Tournament annually.<br>
