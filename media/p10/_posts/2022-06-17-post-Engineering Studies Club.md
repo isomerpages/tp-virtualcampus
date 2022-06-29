@@ -5,11 +5,10 @@ permalink: /p10/engineering-studies-club/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club"></image></td>
+            <td style="width:45%"><image src="/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club"></image></td>
             <td>
                 <p>
                     Engineering Studies Club (ESC) is the nerve centre of student life in the School of Engineering, and each year, its student leaders take the lead to organise student-centered events such as student camps and the annual Orientation programme for Freshmen, as well as provide student support for school events such as the annual TP Open House.<br>
