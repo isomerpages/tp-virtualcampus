@@ -5,10 +5,9 @@ permalink: /sports/10-pin-bowling/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_10-pin-bowling.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling"></image></td>
+        <td style="width:45%"><image src="/images/Sports/BOWLING.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling"></image></td>
         <td>
             <p>
                 In recent years, this popular sport has gained a strong following in Singapore among secondary and tertiary students. Similarly, the TP Bowling Team (Men & Women) attracts all levels of bowlers, and our best bowlers compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Games annually.<br>
