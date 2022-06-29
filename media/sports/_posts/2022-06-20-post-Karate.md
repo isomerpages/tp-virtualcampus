@@ -5,10 +5,9 @@ permalink: /sports/karate/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_karate.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Karate"></image></td>
+        <td style="width:45%"><image src="/images/Sports/KARATE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Karate"></image></td>
         <td>
             <p>
                 Karate is a martial art developed in Japan under the influence Chinese Kung Fu. A karate practitioner is called a karateka and the aim is to master the art of punching, kicking, knee strikes, elbow strikes and open-hand techniques such as knife-hands, palm-heel hands and spear hands. TP Karate team competes in external competitions annually.<br>
