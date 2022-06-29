@@ -5,10 +5,9 @@ permalink: /sports/aikido/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_aikido.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido"></image></td>
+        <td style="width:45%"><image src="/images/Sports/AIKIDO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido"></image></td>
         <td>
             <p>
                 Aikido is a modern Japanese martial art that was developed for defence while minimising injury for the attacker. Aikido techniques use the attacker’s momentum and turn them into various throws or joint locks.<br>
