@@ -5,11 +5,10 @@ permalink: /interest-groups/toastmasters/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_toastmasters.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters"></image></td>
+            <td style="width:45%"><image src="/images/CCA_toastmasters.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters"></image></td>
             <td>
                 <p>
                     Are you looking for a space where you can boost your confidence and presentation skills for all time? Through well-organised and exuberating "Chapter Meetings", members of TP Toastmasters (TPTM) can test their public speaking, impromptu thinking and evaluation skills.<br><br>
