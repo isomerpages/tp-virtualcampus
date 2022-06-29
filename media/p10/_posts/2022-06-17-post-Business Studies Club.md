@@ -8,7 +8,7 @@ description: ""
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_bsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Studies Club"></image></td>
+            <td style="width:45%"><image src="/images/CCA_bsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Studies Club"></image></td>
             <td>
                 <p>
                     Business Studies Club (BSC) consists of a group of student leaders who plans and organises school-wide activities and events for all students in the School of Business. The activities include leadership camps, community service projects, arts and sports events, as well as programmes to enhance the well-being and holistic development of the students.<br>
