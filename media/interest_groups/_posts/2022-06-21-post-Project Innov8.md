@@ -5,11 +5,10 @@ permalink: /interest-groups/project-innov8/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></image></td>
+            <td style="width:45%"><image src="/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></image></td>
             <td>
                 <p>
                     Project Innov8 (Pi8) is about cultivating a culture of innovation among TP students from all schools. Pi8 strives to spark creativity, transformative thinking and collaboration, as well as turning ideas into valued reality that will impact students' learning journey and the society. The activities organised range from simple, fun to challenging levels, which will allow creative expression and value creation by students, without any worry of failure.<br>
