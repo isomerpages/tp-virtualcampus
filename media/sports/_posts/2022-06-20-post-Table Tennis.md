@@ -5,10 +5,9 @@ permalink: /sports/table-tennis/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_table_tennis.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis"></image></td>
+        <td style="width:45%"><image src="/images/Sports/TABLE TENNIS.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis"></image></td>
         <td>
             <p>
                 Table tennis, also known as ping-pong, is another familiar sport in Singapore. Play is fast and demands quick reactions and movements, making it an exciting sport to watch as well. TP Table Tennis Teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Table-Tennis Games annually.<br>
