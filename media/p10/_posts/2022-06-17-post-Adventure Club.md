@@ -5,11 +5,10 @@ permalink: /p10/adventure-club
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club"></image></td>
+            <td style="width:45%"><image src="/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club"></image></td>
             <td>
                 <p>
                     The TP Adventure Club (TPAC) organises exciting outdoor and adventure activities that are open to all TP students. These activities include overseas adventure expeditions, camps, kayaking, cycling, trekking, mountaineering, wildlife appreciation and other campus-wide events suitable for all skill levels.<br>
