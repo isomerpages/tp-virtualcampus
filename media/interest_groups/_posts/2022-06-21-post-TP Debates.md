@@ -5,11 +5,10 @@ permalink: /interest-groups/tp-debates/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_tp_debates.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates"></image></td>
+            <td style="width:45%"><image src="/images/CCA_tp_debates.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates"></image></td>
             <td>
                 <p>
                     Are you intellectually curious? Ever wanted to be more confident in speaking? Do you want to persuade anyone to follow your point of view? If you answered yes to any of the above, TP Debates could be the place for you!<br>
