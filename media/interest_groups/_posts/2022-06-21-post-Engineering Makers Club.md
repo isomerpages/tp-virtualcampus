@@ -5,11 +5,10 @@ permalink: /interest-groups/engineering-makers-club/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_engmakers1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></image></td>
+            <td style="width:45%"><image src="/images/CCA_engmakers1.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></image></td>
             <td>
                 <p>
                     Engineering Makers Club (EMC) aims to develop creativity and spark an interest in various areas of engineering among students and student maker coaches, through various hands-on workshops and student-led interest projects that impart essential engineering skills and DIY knowledge to participants. EMC also conducts outreach activities and workshops to the general public and secondary schools to spread awareness and interest in engineering.<br>
