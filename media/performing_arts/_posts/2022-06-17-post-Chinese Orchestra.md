@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_chinese_orchestra.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra"></image></td>
+        <td style="width:45%"><image src="/images/Arts/CO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra"></image></td>
         <td>
             <p>
                 The Chinese Orchestra performs Chinese music using various Chinese instruments such as the Yangqin, Erhu and Pipa to explore the world of traditional and contemporary Chinese music. The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as Band and String Ensemble and also ventures out for public performances and overseas exchange programmes.<br>
