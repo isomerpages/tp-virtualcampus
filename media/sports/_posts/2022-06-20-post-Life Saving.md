@@ -5,10 +5,9 @@ permalink: /sports/life-saving/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_life_saving.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Life Saving"></image></td>
+        <td style="width:45%"><image src="/images/Sports/LIFE SAVING.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Life Saving"></image></td>
         <td>
             <p>
                 Lifesaving is a unique sport, where the skills are developed primarily for humanitarian purposes and applied for competition. The sport provides a platform for lifeguards to come together to develop their skills in drowning prevention and attending to water-related injuries. It involves a myriad of simulated scenarios such as swimming to a submerged manikin, bringing the manikin to the surface and swimming to the edge of the pool. To get involved in the sport, a person needs a Bronze Medallion certification.<br>
