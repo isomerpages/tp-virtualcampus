@@ -5,11 +5,10 @@ permalink: /interest-groups/senvocates/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA-SENvocates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></image></td>
+            <td style="width:45%"><image src="/images/CCA-SENvocates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></image></td>
             <td>
                 <p>
                     SENvocates is a CCA interest group dedicated to:<br>
