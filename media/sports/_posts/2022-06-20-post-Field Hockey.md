@@ -5,10 +5,9 @@ permalink: /sports/field-hockey/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_field_hockey.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></image></td>
+        <td style="width:45%"><image src="/images/Sports/FIELD HOCKEY.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></image></td>
         <td>
             <p>
                 Field hockey is played on natural grass and artificial turf with a small, hard ball. The game is popular in numerous parts of the world, particularly in Europe, Asia, Australia and New Zealand. In Singapore, the sport is very well supported at the secondary and tertiary levels. TP Hockey teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) Hockey Games annually.<br>
