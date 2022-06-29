@@ -5,11 +5,10 @@ permalink: /performing-arts/teatro/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_teatro.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro"></image></td>
+        <td style="width:45%"><image src="/images/Arts/TEATRO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro"></image></td>
         <td>
             <p>
                 Teatro, which means Theatre in Spanish, is a conglomerate of TP's English and Malay drama groups. Teatro engages their audience with high quality skits and staged productions. Being one of the most versatile groups, Teatro scripts and stages drama according to the occasion, fusing various art forms to engage the audiences. Teatro stages theatre performances every year. Keep a look out for their exciting theatrical productions at the TP Black Box!<br>
