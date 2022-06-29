@@ -5,10 +5,9 @@ permalink: /sports/volleyball/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_volleyball.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball"></image></td>
+        <td style="width:45%"><image src="/images/Sports/VOLLEYBALL.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball"></image></td>
         <td>
             <p>
                 Volleyball is played by two teams of six players, separated by a net. By grounding a ball on the other team's court, each team tries to score points. The ball is usually played with the hands or arms, but players can contact the ball with any part of the body. Techniques used in volleyball include spiking and blocking, passing, setting, and specialised player positions and offensive and defensive structures. TP Volleyball (Men & Women) teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Volleyball Games annually.<br>
