@@ -9,17 +9,16 @@ sections:
   - hero:
       background: /images/VC_eBanner.jpg
       key_highlights:
-        - title: Be Involved
+        - title: CCA & Student Groups
           description: Wanna be part of our 140+ CCAs in TP?
-          url: /be-involved/freshmenorientation/
-        - title: Be Entertained
+          url: /cca-and-student-groups/performing-arts
+        - title: Events
           description: Watch, listen and be entertained with content created by TP,
             free-of-charge!
-          url: /be-entertained/tpndc
-        - title: Be Awesome
-          description: Stay physically and mentally fit with tips and programmes curated
-            by TP students!
-          url: /be-awesome/nutritional-tips/
+          url: /events/temasek-service-excellence-awards-2022
+        - title: Alumni
+          description: Stay connected and be part of the Alumni Family!
+          url: /alumni/highlights
         - title: ...And More!
           description: Check out the other channels to see what else is happening around
             campus!
