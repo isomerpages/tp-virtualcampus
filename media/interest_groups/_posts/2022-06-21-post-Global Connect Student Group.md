@@ -5,11 +5,10 @@ permalink: /interest-groups/global-connect-student-group/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_global_connect_student_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Student Group"></image></td>
+            <td style="width:45%"><image src="/images/CCA_global_connect_student_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Student Group"></image></td>
             <td>
                 <p>
                     The Global Connect Student Group (GCSG) harnesses interests in the following topics:<br>
