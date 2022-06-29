@@ -10,10 +10,7 @@ LEAD Heart (Uncovering The Hidden) seeks to expose our students to the lived rea
 
 Through an experiential learning journey walk thru the rental flat estate and empathy activities, students got to have a better understanding of the situation faced by the low income families. The event ended with a dialogue with Parliamentary Secretary, Eric Chua sharing his thoughts on poverty and social mobility in Singapore. We had a total of 200 student attendees who found the session meaningful and insightful.
 
-[![Lead Heart](/images/LEAD_Heart_video.png)](https://www.youtube.com/embed/gL-2k0ufcZs){:target="_blank"}{:rel="noopener"}
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/gL-2k0ufcZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
+[![Lead Heart](/images/Events/LEAD Heart March 2022.png)](https://www.youtube.com/watch?v=gL-2k0ufcZs){:target="_blank"}{:rel="noopener"}
 
 ---
 ### Global Experience Programme (EU Comes to TP): Dialogue with Austrian Ambassador ###
