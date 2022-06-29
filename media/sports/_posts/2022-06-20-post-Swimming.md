@@ -5,10 +5,9 @@ permalink: /sports/swimming/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_swimming.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming"></image></td>
+        <td style="width:45%"><image src="/images/Sports/SWIMMING.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming"></image></td>
         <td>
             <p>
                 Swimming is the second most popular exercise activity in Singapore and is one of the most popular Olympic sports. Swimming requires the use of one's entire body to move through water. For competition, the swimming events generally consists of butterfly, backstroke, breaststroke, freestyle and individual medley. Swimming is good for physical health as it burns lots of calories, is easy on the joints, supports your weight, builds muscular strength and endurance. TP Swimming teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming Championship annually.<br>
