@@ -5,11 +5,10 @@ permalink: /performing-arts/music-vox/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_music_vox.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Music Vox"></image></td>
+        <td style="width:45%"><image src="/images/Arts/MV.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Music Vox"></image></td>
         <td>
             <p>
                 TP Music Vox is a family of musicians, typically made up of vocalists, guitarists, bassists, keyboardists, songwriters, drummers and even producers, who play, record and perform assorted genres including pop, rock and indie of original and cover music. They are often invited to perform for events on and off campus such as DREAMS and Temasek Spectacular, having been recognised for their musical synergy and crowd appeal. They have recently released their first-ever EP album of original music (‘Beginnings’) on Spotify and other major streaming platforms.<br>
