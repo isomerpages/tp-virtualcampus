@@ -8,7 +8,7 @@ description: ""
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club"></image></td>
+            <td style="width:45%"><image src="/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club"></image></td>
             <td>
                 <p>
                     Applied Science Studies Club focuses on the personal growth and holistic development of Applied Science students. Other than school-wide events such as (Freshmen Orientation Programme, ASC Student Forum, Community Sports and Leadership Training Camp) to enrich students list, we also work with A Good Space Co-Operative Limited, on grooming student leaders into change-makers at social issues (e.g: youth-at-risk, mental health).<br>
