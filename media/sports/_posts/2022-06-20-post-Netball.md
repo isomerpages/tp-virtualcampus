@@ -5,10 +5,9 @@ permalink: /sports/netball/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_netball.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball"></image></td>
+        <td style="width:45%"><image src="/images/Sports/NETBALL.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball"></image></td>
         <td>
             <p>
                 Netball is a popular ball sport played by two teams of seven players each. The objective of the game is for teams to score by shooting into the goal ring. Unique to the game, players are assigned specific roles and move around within the restricted areas on court to maintain or gain possession of the ball. TP Netball team competes in the Polytechnic-ITE (POL-ITE) Games and Institute-Varsity Polytechnic (IVP) Games annually.<br>
