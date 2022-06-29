@@ -9,10 +9,17 @@ Established in 1991, [Campus Care Network](https://www.tp.edu.sg/life-at-tp/a-ca
 
 TP's inaugural Virtual Campus Care Network Day held in August 2020, in conjunction with TP National Day Virtual Concert was meant to raise funds for our needy students especially during this current pandemic.
 
-**Check out this year's e-CCN Day via [Instagram](https://www.instagram.com/e_ccnday/){:target="_blank"}{:rel="noopener"}!**
+**Check out this year's CCN Day via [Instagram](https://www.instagram.com/tp_ccn/){:target="_blank"}{:rel="noopener"}!**
 <br>
-**Date: 21 May 2021 till 4 June 2021**
+**Physical Bazaar**
 <br>
-**Time: From 10am onwards**
+Date: 1 July 2022
+<br>
+Time: 11.30AM - 5PM
+<br>
+<br>
+**Online Sales**
+<br>
+Date: Till End July
 
-[![Campus Care Network](/images/BeInvolved-ccn_1.PNG)](https://www.instagram.com/e_ccnday/){:target="_blank"}{:rel="noopener"}
+[![Campus Care Network](/images/Events/CCN 2022.png)](https://www.instagram.com/p/Ceyhi7sp-gy/){:target="_blank"}{:rel="noopener"}
