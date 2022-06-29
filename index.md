@@ -17,7 +17,7 @@ sections:
             free-of-charge!
           url: /events/temasek-service-excellence-awards-2022
         - title: Alumni
-          description: Stay connected and be part of the Alumni Family!
+          description: Stay connected by being part of the Alumni Family!
           url: /alumni/highlights
         - title: ...And More!
           description: Check out the other channels to see what else is happening around
