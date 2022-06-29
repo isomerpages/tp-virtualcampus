@@ -5,11 +5,10 @@ permalink: /performing-arts/malay-dance/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_malay_dance.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance"></image></td>
+        <td style="width:45%"><image src="/images/Arts/MDG.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance"></image></td>
         <td>
             <p>
                 TP Malay Dance Group is also called Kesenian Si Anak Tari (Seni Nak Tari or SNT). SNT takes pride in promoting the arts and providing high-quality traditional and contemporary performances. Featuring both traditional and contemporary styles, SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various genres portrayed.<br>
