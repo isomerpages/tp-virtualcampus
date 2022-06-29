@@ -5,10 +5,9 @@ permalink: /sports/rugby/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_rugby.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Rugby"></image></td>
+        <td style="width:45%"><image src="/images/Sports/RUGBY.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Rugby"></image></td>
         <td>
             <p>
                 Rugby is a robust, contact sport. The ball is not permitted to be passed forward. Traditionally, the game consists of 15 players per team. In recent years, 7-a-side games are introduced to inject more pace, fun and excitement into the sport. TP Rugby Team competes in the Polytechnic-ITE (POL-ITE) Rugby Games annually.<br>
