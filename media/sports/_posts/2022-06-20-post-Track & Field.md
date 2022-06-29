@@ -5,10 +5,9 @@ permalink: /sports/track-and-field/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_track_field.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field"></image></td>
+        <td style="width:45%"><image src="/images/Sports/TRACK & FIELD.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track & Field"></image></td>
         <td>
             <p>
                 Track and field events are divided into three broad categories: track events, field events and combined events. Track events include sprints, middle and long-distance events, hurdles and relays. Field events are grouped into 2 broad categories, jumps and throws. TP Track & Field Team competes in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Track & Field Championship annually.<br>
