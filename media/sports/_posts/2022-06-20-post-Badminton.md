@@ -5,10 +5,9 @@ permalink: /sports/badminton/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
-        <td style="width:33%"><image src="/images/CCA_badminton.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton"></image></td>
+        <td style="width:45%"><image src="/images/Sports/BADMINTON.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton"></image></td>
         <td>
             <p>
                 Another common and popular racquet sport, badminton requires aerobic stamina, agility, strength, speed and precision. The common forms of the game are "singles" (with one player per side) and "doubles" (with two players per side). TP Badminton Teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Badminton Games annually.<br>
