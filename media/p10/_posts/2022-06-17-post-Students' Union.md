@@ -5,11 +5,10 @@ permalink: /p10/students-union/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_su.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Students' Union"></image></td>
+            <td style="width:45%"><image src="/images/CCA_su.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Students' Union"></image></td>
             <td>
                 <p>
                     The Temasek Polytechnic Students’ Union (TPSU) is the largest student organisation in TP. Every TP student is automatically a member. Members are strongly encouraged to participate in the myriad of activities that TPSU has planned for the TP community. TPSU chairs the TP Students' Council, and they work closely with the Constituent Clubs to constantly find ways to engage the students and develop a greater sense of belonging to TP.<br>
