@@ -5,11 +5,10 @@ permalink: /p10/community-service-club/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_csc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Community Service Club"></image></td>
+            <td style="width:45%"><image src="/images/CCA_csc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Community Service Club"></image></td>
             <td>
                 <p>
                     "A Caring Heart & Volunteering Spirit" is the motto that the TP Community Service Club (CSC) abides by. The CSC aims to instil the spirit of volunteerism in TP students and build a strong base of volunteers to serve the community. CSC runs both long-term and ad-hoc events across the following sectors: Eldercare, Children & Family Services, Special Needs and Other Special Causes. If you have a heart for the community and want to pay it forward, come join TP CSC as a member now!<br>
