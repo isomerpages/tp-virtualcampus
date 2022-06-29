@@ -5,11 +5,10 @@ permalink: /interest-groups/tp-international-students-group/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_tp_international_students_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group"></image></td>
+            <td style="width:45%"><image src="/images/CCA_tp_international_students_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group"></image></td>
             <td>
                 <p>
                     Temasek Polytechnic International Students Group (TPISG) is a student-interest group under the International Students Office to meet the Emotional, Social and Practical Needs of our international students and help them to integrate in the community.<br>
