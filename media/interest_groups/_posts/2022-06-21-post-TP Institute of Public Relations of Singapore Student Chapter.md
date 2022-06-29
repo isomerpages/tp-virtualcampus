@@ -5,11 +5,10 @@ permalink: /interest-groups/tp-iprs-student-chapter/
 date: 2022-06-21
 description: ""
 ---
-
 <div>
     <table>
         <tr>
-            <td style="width:33%"><image src="/images/CCA_tp_iprs_student_chapter.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter"></image></td>
+            <td style="width:45%"><image src="/images/CCA_tp_iprs_student_chapter.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter"></image></td>
             <td>
                 <p>
                     The TP-Institute of Public Relations of Singapore Student Chapter is an industry-based interest group that seeks to create greater awareness of public relations (PR) and the industry among TP students. We aim to equip TP students with essential PR skills and provide opportunities for exposure to the industry through mentorship programmes and talks.<br>
