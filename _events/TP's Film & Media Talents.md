@@ -32,6 +32,8 @@ Congrats to the Diploma in Digital Film & Television. !! 👏👏👏🏼  ciNE6
 
 ![2021 ciNE65 Movie Makers Awards](/images/ciNE65_Movie_Makers_Awards.png)
 
+---
+
 ### In High Regard
 For this April semester AY2021/22, the CMM Audio Production subject team collaborated with MediaCorp to design a podcast assignment titled **‘In High Regard’** where students share about who inspires them.
 The top 8 pieces of work were selected by MediaCorp to pioneer their new series ‘Student Podcast Features’, which showcases clips produced by media and broadcasting students from Mediacorp's educational institute partners all across Singapore.
