@@ -2,10 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Innovation & Entrepreneurship/Entrepreneurship Success Stories.md
-      - Innovation & Entrepreneurship/Events.md
-      - Innovation & Entrepreneurship/Past Events.md
-      - Innovation & Entrepreneurship/.keep
       - Highlights/.keep
       - Highlights/Temasek Service Excellence Awards 2022.md
       - Highlights/CCA Fair 2022.md
@@ -24,4 +20,8 @@ collections:
       - Community Engagement/Campus Care Network.md
       - Community Engagement/Caring for Community.md
       - Community Engagement/Caring for Environment.md
+      - Innovation & Entrepreneurship/.keep
+      - Innovation & Entrepreneurship/Entrepreneurship Success Stories.md
+      - Innovation & Entrepreneurship/Events.md
+      - Innovation & Entrepreneurship/Past Events.md
       - TP's Film & Media Talents.md
