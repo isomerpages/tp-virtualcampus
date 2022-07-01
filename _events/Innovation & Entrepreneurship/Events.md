@@ -10,7 +10,7 @@ third_nav_title: Innovation & Entrepreneurship
 Round Table F&B 4.0 is a platform to promote exchange and discussions to build a FutureReady community of entrepreneurs and innovators amidst a rapidly changing world. Gain insights, advice from theory to practice, new technologies, and industry trends.
     </p>
     <p>
-Join us and be inspired by entrepreneurship stories from industry leaders, experts, and practitioners in the F&B industry. Scan the QR code or click [(here)](https://forms.office.com/r/z8tqt687up) to register now!
+Join us and be inspired by entrepreneurship stories from industry leaders, experts, and practitioners in the F&B industry. Scan the QR code or click <a href="https://forms.office.com/r/Z8Tqt687UP">here</a> to register now!
     </p>
 </div>
 
