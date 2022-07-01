@@ -49,4 +49,4 @@ A 2-day Entrepreneurship Appreciation Programme (EAP) for you to deepen your und
 
 **Find out [more](https://www.instagram.com/p/CFbhOE4HpLy/){:target="_blank"}{:rel="noopener"}**
 
-![Entrepreneurship Appreciation Programme](/images/CCA_entrepreneurship_appreciation.JPG)
+![Entrepreneurship Appreciation Programme](/images/Events/Entrepreneurship Appreciation Programme.png)
