@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Innovation & Entrepreneurship/Past Events.md
       - Innovation & Entrepreneurship/.keep
       - Highlights/.keep
       - Highlights/Temasek Service Excellence Awards 2022.md
