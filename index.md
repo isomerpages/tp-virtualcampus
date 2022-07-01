@@ -24,6 +24,16 @@ sections:
             campus!
           url: /be-caring/caring-for-community/
   - infopic:
+      title: "Round Table Discussion on Industry 4.0 in the F&B Industry "
+      subtitle: Round Table Discussion
+      description: Want to gain insights on the new F&B industry trends? Join us and
+        be inspired by entrepreneurship stories from industry leaders, experts,
+        and practitioners.
+      button: REGISTER NOW
+      url: https://forms.office.com/r/Z8Tqt687UP
+      image: /images/Events/TPxWW Round Table Discussion.png
+      alt: TPxWW Round Table Discussion
+  - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2022
       subtitle: TSEA 2022
       image: /images/04) TSEA 2022 Web Banner (1920px by 1080px).jpg
