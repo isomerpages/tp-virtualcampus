@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Innovation & Entrepreneurship/Entrepreneurship Success Stories.md
       - Innovation & Entrepreneurship/Events.md
       - Innovation & Entrepreneurship/Past Events.md
       - Innovation & Entrepreneurship/.keep
