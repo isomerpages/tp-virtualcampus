@@ -4,8 +4,6 @@ permalink: /events/national-day-celebration-2022
 description: ""
 third_nav_title: Highlights
 ---
-
-
 ## TP National Day Celebration
 
 <h3>TP National Day Concert 2022</h3>
