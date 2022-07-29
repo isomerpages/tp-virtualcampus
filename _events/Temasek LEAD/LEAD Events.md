@@ -4,6 +4,19 @@ permalink: /events/temasek-lead/lead-events
 description: ""
 third_nav_title: Temasek LEAD
 ---
+### Past & Upcoming Events
+![Lead Elective](/images/Events/L_Elective.png)
+
+---
+
+![Lead Excel](/images/Events/L_Excel.png)
+
+---
+
+![Lead Core](/images/Events/L_Core.png)
+
+---
+
 ### LEAD Heart (Uncovering The Hidden)
 
 LEAD Heart (Uncovering The Hidden) seeks to expose our students to the lived realities and challenges faced by families residing at the rental estates. The event was co-organized and facilitated by our very own LEAD students.
