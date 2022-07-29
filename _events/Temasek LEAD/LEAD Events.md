@@ -4,15 +4,19 @@ permalink: /events/temasek-lead/lead-events
 description: ""
 third_nav_title: Temasek LEAD
 ---
-### Past & Upcoming Events
+## Past & Upcoming Events
+
+### LEAD ELECTIVES
 ![Lead Elective](/images/Events/L_Elective.png)
 
 ---
 
+### LEAD EXCEL
 ![Lead Excel](/images/Events/L_Excel.png)
 
 ---
 
+### LEAD CORE
 ![Lead Core](/images/Events/L_Core.png)
 
 ---
