@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Calendar/.keep
-      - Calendar.md
       - Highlights/National Day Celebration 2022.md
       - Highlights/.keep
       - Highlights/Temasek Service Excellence Awards 2022.md
