@@ -11,7 +11,7 @@ description: ""
         <td style="width:45%"><image src="/images/Arts/DK.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat"></image></td>
         <td>
             <p>
-                Temasek Polytechnic (TP) Dikir Barat is a vibrant traditional Malay art form that involves 15 or more people doing responsorial singing, led by a couple of lead singers and accompanied by Malay percussions. It is a traditional art form anchored in the use of poetry and creative lyrics. TP Dikir takes part in numerous high-level, poly-wide and external public performances. TP Dikir has won multiple awards at the annual national competitions such as "Piala Suara Serumpun" (Cluster of Voices Trophy).<br>
+                The Temasek Polytechnic Dikir Barat (TPDK) performs a vibrant traditional Malay art form that involves 15 or more people doing responsorial singing, led by a couple of lead singers and accompanied by Malay percussions. It is a traditional art form anchored in the use of poetry and creative lyrics. TPDK takes part in numerous high-level, poly-wide and external public performances. TPDK has won multiple awards at the annual national competitions such as "Piala Suara Serumpun" (Cluster of Voices Trophy).<br>
                 <br>
 							<b>Features:</b><br>
                 <ul>
