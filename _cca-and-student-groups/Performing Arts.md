@@ -54,6 +54,12 @@ description: ""
             </td>
         </tr>
         <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/performing-arts/tp-emcees/"     style="text-decoration: none">
+                    <image src="/images/Arts/EMCEES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees">
+                    </image>
+                </a>
+            </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/fusion-percussion/"     style="text-decoration: none">
                     <image src="/images/Arts/FP_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
@@ -66,14 +72,14 @@ description: ""
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/malay-dance/"     style="text-decoration: none">
                     <image src="/images/Arts/MDG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/music-vox/"     style="text-decoration: none">
                     <image src="/images/Arts/MV_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Music Vox">
@@ -86,24 +92,18 @@ description: ""
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/string-ensemble/"     style="text-decoration: none">
                     <image src="/images/Arts/SE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/teatro/"     style="text-decoration: none">
                     <image src="/images/Arts/TEATRO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
                     </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/performing-arts/tp-emcees/"     style="text-decoration: none">
-                    <image src="/images/Arts/EMCEES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees">
-                    </image>
                 </a>
             </td>
         </tr>
