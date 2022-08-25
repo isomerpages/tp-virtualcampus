@@ -11,7 +11,7 @@ description: ""
         <td style="width:45%"><image src="/images/Arts/FP.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion"></image></td>
         <td>
             <p>
-                Temasek Polytechnic Fusion Percussion (TPFP) is a highly-spirited group of passionate individuals with a deep interest for percussive music. A collective of vibrant, creative and talented drummers come together in an explosive ensemble. Their shows are always exciting and full of energy. Get them to liven up shows and they will deliver the party to your doorstep! They live by their slogan “with a burning passion, we play to the beat of our hearts”. Brazilian Samba forms the cornerstone of TPFP's creative rhythms such as Samba Temasek - a fusion of Brazilian samba and Singapore elements.<br>
+                The Temasek Polytechnic Fusion Percussion (TPFP) is a highly-spirited group of passionate individuals with a deep interest for percussive music. A collective of vibrant, creative and talented drummers come together in an explosive ensemble. Their shows are always exciting and full of energy. Get them to liven up shows and they will deliver the party to your doorstep! They live by their slogan “with a burning passion, we play to the beat of our hearts”. Brazilian Samba forms the cornerstone of TPFP's creative rhythms such as Samba Temasek - a fusion of Brazilian samba and Singapore elements.<br>
                 <br>
                 <b>Features:</b><br>
                 <ul>
