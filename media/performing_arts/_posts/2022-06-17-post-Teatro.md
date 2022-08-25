@@ -11,7 +11,7 @@ description: ""
         <td style="width:45%"><image src="/images/Arts/TEATRO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro"></image></td>
         <td>
             <p>
-                Teatro, which means Theatre in Spanish, is a conglomerate of TP's English and Malay drama groups. Teatro engages their audience with high quality skits and staged productions. Being one of the most versatile groups, Teatro scripts and stages drama according to the occasion, fusing various art forms to engage the audiences. Teatro stages theatre performances every year. Keep a look out for their exciting theatrical productions at the TP Black Box!<br>
+                Teatro, which means Theatre in Spanish, is a conglomerate of TP's English and Malay drama groups. The Temasek Polytechnic Teatro engages their audience their audience with high quality skits and staged productions. Being one of the most versatile groups, Teatro scripts and stages drama according to the occasion, fusing various art forms to engage the audiences. Teatro stages theatre performances every year. Keep a look out for their exciting theatrical productions at the TP Black Box!<br>
                 <br>
                 <b>Features:</b><br>
                 <ul>
