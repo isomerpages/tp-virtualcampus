@@ -36,7 +36,7 @@ description: ""
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/dance-ensemble/"     style="text-decoration: none">
-                    <image src="/images/Arts/DE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                    <image src="/images/Arts/DE_button-02.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                     </image>
                 </a>
             </td>
@@ -56,13 +56,13 @@ description: ""
         <tr>
 					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/tp-emcees/"     style="text-decoration: none">
-                    <image src="/images/Arts/EMCEES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees">
+                    <image src="/images/Arts/EMCEES_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees">
                     </image>
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/fusion-percussion/"     style="text-decoration: none">
-                    <image src="/images/Arts/FP_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                    <image src="/images/Arts/FP_button-02.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
                     </image>
                 </a>
             </td>
@@ -96,7 +96,7 @@ description: ""
         <tr>
 					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/performing-arts/string-ensemble/"     style="text-decoration: none">
-                    <image src="/images/Arts/SE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                    <image src="/images/Arts/SE_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
                     </image>
                 </a>
             </td>
