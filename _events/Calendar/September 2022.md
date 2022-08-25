@@ -8,4 +8,5 @@ third_nav_title: Calendar
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 <h3>LEAD Core</h3>
-<img src=""
+![LEAD Core]
+(images/events/
