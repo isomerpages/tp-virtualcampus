@@ -11,7 +11,7 @@ description: ""
         <td style="width:45%"><image src="/images/Arts/SALVO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums"></image></td>
         <td>
             <p>
-                The Salvo Drums brings to life any stage with their performances using the world’s most ancient instrument – the drum, specifically, the 24-season drums. Teamwork, with disciplined training, plays a vital role for the drummers in displaying their powerful percussive strokes in choreographed synchronised movements. Salvo Drums has also experimented through a variety of themes to enhance the vibrancy and creativity of its performances, immersing the audience with different experiences.<br>
+                The Temasek Polytechnic Salvo Drums brings to life any stage with their performances using the world’s most ancient instrument – the drum, specifically, the 24-season drums. Teamwork, with disciplined training, plays a vital role for the drummers in displaying their powerful percussive strokes in choreographed synchronised movements. Salvo Drums has also experimented through a variety of themes to enhance the vibrancy and creativity of its performances, immersing the audience with different experiences.<br>
                 <br>
                 <b>Features:</b><br>
                 <ul>
