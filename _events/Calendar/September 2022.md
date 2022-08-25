@@ -8,5 +8,7 @@ third_nav_title: Calendar
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 <h3>LEAD Core</h3>
-![LEAD Core]
-(images/events/
+
+![LEAD Core](/images/Events/Temasek%20LEAD/LEAD_Core-v2.jpg)
+
+
