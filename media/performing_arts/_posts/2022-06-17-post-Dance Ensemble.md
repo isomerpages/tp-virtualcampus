@@ -11,7 +11,7 @@ description: ""
         <td style="width:45%"><image src="/images/Arts/DE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble"></image></td>
         <td>
             <p>
-                TP Dance Ensemble (TPDE) comprises 3 main dance genres; Hip Hop, Modern Dance & Breakin’. Modern Dance is a dance form developed from classical ballet in the early 20th century, shedding the classical ballet technique, costume and shoes. Hip Hop is a popular dance style involving energetic & funky street dance. Breakin’ includes a multitude of different floorwork & explosive movements. Dance Ensemble’s Hip Hop, Modern Dance & Breakin’ are under the tutelage of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.<br>
+                The Temasek Polytechnic Dance Ensemble (TPDE) comprises 3 main dance genres; Hip Hop, Modern Dance & Breakin’. Modern Dance is a dance form developed from classical ballet in the early 20th century, shedding the classical ballet technique, costume and shoes. Hip Hop is a popular dance style involving energetic & funky street dance. Breakin’ includes a multitude of different floorwork & explosive movements. Dance Ensemble’s Hip Hop, Modern Dance & Breakin’ are under the tutelage of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.<br>
                 <br>
 							<b>Features:</b><br>
                 <ul>
