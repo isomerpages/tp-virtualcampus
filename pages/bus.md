@@ -40,4 +40,4 @@ This was definitely a delectable session not to be missed. Check out the masterc
 ![Singapore Food Fest](/images/BUS Alumni Singapore Food Festival 2020.png)
 
 ---
-**Back to [Alumni Buzz](alumni/alumni-buzz)**
+**Back to [Alumni Buzz](/alumni/alumni-buzz)**
