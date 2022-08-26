@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  Lifestyle
+title: Lifestyle
 permalink: /alumni/lifestyle/
-
 ---
-
 <div>
     <table>
         <tr>
@@ -99,4 +97,4 @@ permalink: /alumni/lifestyle/
 </div>
 
 ---
-**Back to [Alumni Business Directory](/be-connected/alumni-business-directory/)**
+**Back to [Alumni Business Directory](alumni/alumni-businesses)**
