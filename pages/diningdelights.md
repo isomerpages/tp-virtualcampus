@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  Dining Delights
+title: Dining Delights
 permalink: /alumni/diningdelights/
-
 ---
-
 <div>
     <table>
         <tr>
@@ -121,4 +119,4 @@ permalink: /alumni/diningdelights/
 </div>
 
 ---
-**Back to [Alumni Business Directory](/be-connected/alumni-business-directory/)**
+**Back to [Alumni Business Directory](alumni/alumni-businesses)**
