@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  School of Engineering
+title: School of Engineering
 permalink: /alumni/school_of_engineering/
-
 ---
 ### Sharing by MTN Alumnus ###
 The Diploma in Mechatronics (MTN) welcomed alumnus Ronnie Gan (1995) at a webinar held on 27 January 2021, which was attended by the graduating cohort of students. 
@@ -26,4 +25,4 @@ We hope our Class of 2021 graduates have learnt a thing or two from their senior
 <br>*(Photo Credit: @tpengine)*
 
 ---
-**Back to [Alumni Buzz](/be-connected/alumnibuzz/)**
+**Back to [Alumni Buzz](alumni/alumni-buzz)**
