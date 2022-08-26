@@ -35,4 +35,4 @@ This year’s conference was held online on [YouTube](https://www.youtube.com/wa
 <br>*(Photo Credit: School of HSS)*
 
 ---
-**Back to [Alumni Buzz](alumni/alumni-buzz)**
+**Back to [Alumni Buzz](/alumni/alumni-buzz)**
