@@ -6,20 +6,24 @@ third_nav_title: Temasek LEAD
 ---
 ## Past & Upcoming Events
 
-### LEAD ELECTIVES
-![Lead Elective](/images/Events/L_Elective.png)
+### LEAD CORE
+![LEAD Core](/images/Events/Temasek%20LEAD/LEAD_Core-v2.jpg)
 
 ---
 
 ### LEAD EXCEL
-![Lead Excel](/images/Events/L_Excel.png)
+![LEAD Excel](/images/Events/Temasek%20LEAD/LEAD_Excel-v2.jpg)
 
 ---
 
-### LEAD CORE
-![Lead Core](/images/Events/L_Core.png)
+### LEAD ELECTIVES
+![LEAD Electives](/images/Events/Temasek%20LEAD/LEAD_Elective-v2.jpg)
 
 ---
+
+
+
+
 
 ### LEAD Heart (Uncovering The Hidden)
 
