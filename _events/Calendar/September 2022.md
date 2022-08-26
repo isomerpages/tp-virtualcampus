@@ -12,7 +12,7 @@ third_nav_title: Calendar
 			</a>
 		</td>
 		<td style="width:65%"><br>
-			<h4 style="margin-top:0%">LEAD Summit</h4>
+			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Summit</h4></a>
 			<h6 style="margin-top:0%"><i>5 - 6 September</i></h6>
 			<p style = "margin-top:0%">SG Perspectives: "The Future of Land Transport and Our Social Compact in Singapore".
 				<br>
@@ -29,7 +29,7 @@ third_nav_title: Calendar
 			</a>
 		</td>
 		<td style="width:65%"><br>
-			<h4 style="margin-top:0%">LEAD Heart</h4>
+			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Heart</h4></a>
 			<h6 style="margin-top:0%"><i>19 - 22 September</i></h6>
 			<p style = "margin-top:0%">Discussion on Disability landscape Singapore and how students are able to contribute to inclusiveness.
 				<br>
@@ -47,7 +47,7 @@ third_nav_title: Calendar
 			</a>
 		</td>
 		<td style="width:65%"><br>
-			<h4 style="margin-top:0%">LEAD Induction</h4>
+			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Induction</h4></a>
 			<h6 style="margin-top:0%"><i>19 - 22 September</i></h6>
 			<p style = "margin-top:0%">1-Day Event (Non-residential)</p>
 			<br>
