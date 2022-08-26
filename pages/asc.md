@@ -33,4 +33,4 @@ Catch this series at TP VWC’s [YouTube](https://www.youtube.com/channel/UC6ZdE
 ![VET Video Series](/images/BeConnected_buzz_ASC3.png)
 
 ---
-**Back to [Alumni Buzz](alumni/alumni-buzz)**
+**Back to [Alumni Buzz](/alumni/alumni-buzz)**
