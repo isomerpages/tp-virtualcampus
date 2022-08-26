@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  Services
+title: Services
 permalink: /alumni/services/
-
 ---
-
 <div>
     <table>
         <tr>
@@ -121,4 +119,4 @@ permalink: /alumni/services/
 </div>
 
 ---
-**Back to [Alumni Business Directory](/be-connected/alumni-business-directory/)**
+**Back to [Alumni Business Directory](alumni/alumni-businesses)**
