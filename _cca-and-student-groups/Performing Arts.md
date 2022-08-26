@@ -55,7 +55,7 @@ description: ""
         </tr>
         <tr>
 					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/performing-arts/tp-emcees/"     style="text-decoration: none">
+                <a href="/performing-arts/emcees/"     style="text-decoration: none">
                     <image src="/images/Arts/EMCEES_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees">
                     </image>
                 </a>
