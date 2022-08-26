@@ -73,7 +73,7 @@ Temasek Polytechnic offers our students exciting opportunities for leadership de
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/p10/sports-club/" style="text-decoration: none">
-                    <image src="/images/P10/SPORTS CLUB_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club">
+                    <image src="/images/P10/SPORTS CLUB_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club">
                     </image>
                 </a>
             </td>
