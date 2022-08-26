@@ -14,7 +14,7 @@ third_nav_title: Calendar
 <table>
 	<tr>
 		<td style="width:35%"><br>
-			<a href="https://trickavu.com.sg/">
+			<a href="/events/temasek-lead/lead-events">
 				<image src="/images/MerchantServices-Trickavu.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services8">     </image>
 			</a>
 		</td>
