@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home/VC_eBanner-v2.jpg
+      background: /images/Home/iconic_4-v2.jpg
       key_highlights:
         - title: CCA & Student Groups
           description: Wanna be part of our 140+ CCAs in TP?
@@ -23,6 +23,8 @@ sections:
           description: Check out the other channels to see what else is happening around
             campus!
           url: /be-caring/caring-for-community/
+      title: TP Virtual Campus
+      subtitle: Your one-stop hub for all Temasek Polytechnic happenings
   - infopic:
       title: "Round Table Discussion on Industry 4.0 in the F&B Industry "
       subtitle: Round Table Discussion
