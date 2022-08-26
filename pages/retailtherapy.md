@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  Retail Therapy
+title: Retail Therapy
 permalink: /alumni/retailtherapy/
-
 ---
-
 <div>
     <table>
         <tr>
@@ -99,4 +97,4 @@ permalink: /alumni/retailtherapy/
 </div>
 
 ---
-**Back to [Alumni Business Directory](/be-connected/alumni-business-directory/)**
+**Back to [Alumni Business Directory](alumni/alumni-businesses)**
