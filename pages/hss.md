@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  School of Humanities & Social Sciences
+title: School of Humanities & Social Sciences
 permalink: /alumni/school_of_humanities_ss/
-
 ---
 ### Industry Sharing by PSY Alumni ###
 The Psychology Student Interest Group held an industry sharing session on 19 February 2021 for students from the diploma, which featured the following alumni speakers:
@@ -36,4 +35,4 @@ This year’s conference was held online on [YouTube](https://www.youtube.com/wa
 <br>*(Photo Credit: School of HSS)*
 
 ---
-**Back to [Alumni Buzz](/be-connected/alumnibuzz/)**
+**Back to [Alumni Buzz](alumni/alumni-buzz)**
