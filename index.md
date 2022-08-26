@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home/iconic_4-v2.jpg
+      background: /images/Home/iconic_4-v3.jpg
       key_highlights:
         - title: CCA & Student Groups
           description: Wanna be part of our 140+ CCAs in TP?
