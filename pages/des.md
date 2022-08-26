@@ -46,4 +46,4 @@ Read more about Wei Lieh’s inspirations [here](https://www.timeout.com/singapo
 <br>*(Photo Credit: @temasekpoly.design)*
 
 ---
-**Back to [Alumni Buzz](/be-connected/alumnibuzz/)**
+**Back to [Alumni Buzz](alumni/alumni-buzz)**
