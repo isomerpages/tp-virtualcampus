@@ -5,7 +5,6 @@ permalink: /performing-arts/digital-media-and-production-crew/
 date: 2022-06-17
 description: ""
 ---
-
 <div>
 <table>
     <tr>
@@ -28,6 +27,8 @@ description: ""
                 <b>CCA Staff Advisor:</b> <a href="mailto:Mark_Spencer@tp.edu.sg">Mr Mark Spencer</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp.dmpc">Instagram</a>
+							<br>
+							CCA <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">Flickr</a>
             </p>
         </td>
     </tr>
