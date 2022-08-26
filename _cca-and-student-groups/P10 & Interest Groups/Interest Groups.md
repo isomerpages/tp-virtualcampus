@@ -9,13 +9,33 @@ third_nav_title: P10 & Interest Groups
 <div>
     <table>
         <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/interest-groups/ambassadors/" style="text-decoration: none">
+                    <image src="/images/Interest Groups/AMBASSADORS_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ambassadors">
+                    </image>
+                </a>
+            </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/business-ambassadors/" style="text-decoration: none">
                     <image src="/images/Interest Groups/BA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Ambassadors">
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/interest-groups/cd-lionhearters/" style="text-decoration: none">
+                    <image src="/images/Interest Groups/LIONHEARTERS_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="CD Lionhearters">
+                    </image>
+                </a>
+            </td>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/interest-groups/debates/" style="text-decoration: none">
+                    <image src="/images/Interest Groups/DEBATES_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Debates">
+                    </image>
+                </a>
+            </td>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/design-student-ambassadors/" style="text-decoration: none">
                     <image src="/images/Interest Groups/DSA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
                     </image>
@@ -27,15 +47,15 @@ third_nav_title: P10 & Interest Groups
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
+					</tr>
+			<tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/engineering-makers-club/" style="text-decoration: none">
                     <image src="/images/Interest Groups/EMC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club">
                     </image>
                 </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+					</td>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/entrepreneurship-club/" style="text-decoration: none">
                     <image src="/images/Interest Groups/EC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Club">
                     </image>
@@ -47,7 +67,7 @@ third_nav_title: P10 & Interest Groups
                     </image>
                 </a>
             </td>
-        </tr>
+        </tr>
         <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/green-interest-group/" style="text-decoration: none">
@@ -55,9 +75,23 @@ third_nav_title: P10 & Interest Groups
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/ies-student-chapter/" style="text-decoration: none">
                     <image src="/images/Interest Groups/IES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Institution of Engineers, Singapore Student Chapter">
+                    </image>
+                </a>
+            </td>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/interest-groups/iprs-student-chapter/" style="text-decoration: none">
+                    <image src="/images/Interest Groups/IPRS_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Institute of Public Relations of Singapore Student Chapter">
+                    </image>
+                </a>
+            </td>
+			</tr>
+			<tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/interest-groups/international-students-group/" style="text-decoration: none">
+                    <image src="/images/Interest Groups/ISG_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="International Students Group">
                     </image>
                 </a>
             </td>
@@ -67,14 +101,14 @@ third_nav_title: P10 & Interest Groups
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/LEAD-ambassadors/" style="text-decoration: none">
                     <image src="/images/Interest Groups/LEAD_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                     </image>
                 </a>
             </td>
+			</tr>
+			<tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/nyaa-challenge/" style="text-decoration: none">
                     <image src="/images/Interest Groups/NYAA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
@@ -87,14 +121,14 @@ third_nav_title: P10 & Interest Groups
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/project-innov8/" style="text-decoration: none">
                     <image src="/images/Interest Groups/PROJECT INNOV8_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     </image>
                 </a>
             </td>
+        </tr>
+        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/senvocates/" style="text-decoration: none">
                     <image src="/images/Interest Groups/SENVOCATES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates">
@@ -106,44 +140,10 @@ third_nav_title: P10 & Interest Groups
                     <image src="/images/Interest Groups/TOASTMASTERS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
                     </image>
                 </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/interest-groups/tp-ambassadors/" style="text-decoration: none">
-                    <image src="/images/Interest Groups/TPA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Ambassadors">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/interest-groups/tp-cd-lionhearters/" style="text-decoration: none">
-                    <image src="/images/Interest Groups/LIONHEARTERS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/interest-groups/tp-debates/" style="text-decoration: none">
-                    <image src="/images/Interest Groups/DEBATES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/interest-groups/tp-international-students-group/" style="text-decoration: none">
-                    <image src="/images/Interest Groups/ISG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/interest-groups/tp-iprs-student-chapter/" style="text-decoration: none">
-                    <image src="/images/Interest Groups/IPRS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/interest-groups/tp-spirit-of-enterprise/" style="text-decoration: none">
-                    <image src="/images/Interest Groups/SOE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
+            </td>           
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/interest-groups/spirit-of-enterprise/" style="text-decoration: none">
+                    <image src="/images/Interest Groups/SOE_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Spirit of Enterprise">
                     </image>
                 </a>
             </td>
