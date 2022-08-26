@@ -4,6 +4,20 @@ permalink: /events/innovation-and-entrepreneurship/past-events
 description: ""
 third_nav_title: Innovation & Entrepreneurship
 ---
+#### Round Table Discussion on Industry 4.0 in the F&B Industry ####
+<div style="text-align: justify">
+    <p>
+Round Table F&B 4.0 is a platform to promote exchange and discussions to build a FutureReady community of entrepreneurs and innovators amidst a rapidly changing world. Gain insights, advice from theory to practice, new technologies, and industry trends.
+    </p>
+    <p>
+Join us and be inspired by entrepreneurship stories from industry leaders, experts, and practitioners in the F&B industry. Scan the QR code or click <a href="https://forms.office.com/r/Z8Tqt687UP">here</a> to register now!
+    </p>
+</div>
+
+![TPxWW Round Table Discussion](/images/Events/TPxWW%20Round%20Table%20Discussion.png)
+
+---
+
 #### Make Your Own Series ####
 <div style="text-align: justify">
     <p>
@@ -27,6 +41,7 @@ The I&ED team made a series of videos to encourage all of us to tap on easily ac
 ![Makerspace+ Home Series](/images/BeCreative-DIY_Lightbox.png)
 
 ---
+
 #### Makerspace+ Home Series ####
 <div style="text-align: justify">
     <p>
@@ -40,12 +55,15 @@ See what your everyday things can help you during this COVID period! In this epi
 ![Makerspace+ Home Series](/images/BeCreative-Mask.png)
 
 ---
+
 #### Entrepreneurship Appreciation Programme ####
 <div style="text-align: justify">
     <p>
 A 2-day Entrepreneurship Appreciation Programme (EAP) for you to deepen your understanding in starting a small business through various fun activities, workshops and insightful sharing by our alumnus entrepreneur! The highlight of this event is the visitation to Pollinate@BLOCK71, a joint Polytechnic start-up incubator, to observe and mingle with the incubatees there!
           </p>
 </div>
+
+---
 
 **Find out [more](https://www.instagram.com/p/CFbhOE4HpLy/){:target="_blank"}{:rel="noopener"}**
 
