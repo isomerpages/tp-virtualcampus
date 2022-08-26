@@ -15,7 +15,7 @@ third_nav_title: Calendar
 	<tr>
 		<td style="width:35%"><br>
 			<a href="/events/temasek-lead/lead-events">
-				<image src="/images/MerchantServices-Trickavu.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services8">     </image>
+				<image src="/images/events/Temasek LEAD/LEAD.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services8">     </image>
 			</a>
 		</td>
 		<td style="width:65%"><br>
