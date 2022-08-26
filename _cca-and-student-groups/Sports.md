@@ -189,8 +189,8 @@ ___
                 </a>
             </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/tp-fitness/" style="text-decoration: none">
-                    <image src="/images/Sports/TP FITNESS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness">
+                <a href="/sports/fitness/" style="text-decoration: none">
+                    <image src="/images/Sports/FITNESS_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fitness">
                     </image>
                 </a>
             </td>
