@@ -62,20 +62,26 @@ ___
                     </image>
                 </a>
             </td>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+                <a href="/sports/fitness/" style="text-decoration: none">
+                    <image src="/images/Sports/FITNESS_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fitness">
+                    </image>
+                </a>
+            </td>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/floorball/" style="text-decoration: none">
                     <image src="/images/Sports/FLOORBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/handball/" style="text-decoration: none">
                     <image src="/images/Sports/HANDBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Handball">
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/inline-skating/" style="text-decoration: none">
                     <image src="/images/Sports/INLINE SKATING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
@@ -88,14 +94,14 @@ ___
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/karate/" style="text-decoration: none">
                     <image src="/images/Sports/KARATE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Karate">
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/kayak-racing/" style="text-decoration: none">
                     <image src="/images/Sports/KAYAK RACING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
@@ -108,14 +114,14 @@ ___
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/mind-sports/" style="text-decoration: none">
                     <image src="/images/Sports/MIND SPORTS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mind Sports">
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/netball/" style="text-decoration: none">
                     <image src="/images/Sports/NETBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball">
@@ -128,14 +134,14 @@ ___
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/silat/" style="text-decoration: none">
                     <image src="/images/Sports/SILAT_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Silat">
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/soccer/" style="text-decoration: none">
                     <image src="/images/Sports/SOCCER_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer">
@@ -148,14 +154,14 @@ ___
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/swimming/" style="text-decoration: none">
                     <image src="/images/Sports/SWIMMING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming">
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/table-tennis/" style="text-decoration: none">
                     <image src="/images/Sports/TABLE TENNIS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
@@ -168,14 +174,14 @@ ___
                     </image>
                 </a>
             </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
+        </tr>
+        <tr>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/tchoukball/" style="text-decoration: none">
                     <image src="/images/Sports/TCHOUKBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/tennis/" style="text-decoration: none">
                     <image src="/images/Sports/TENNIS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tennis">
@@ -185,12 +191,6 @@ ___
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/sports/touch-football/" style="text-decoration: none">
                     <image src="/images/Sports/TOUCH FOOTBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="/sports/fitness/" style="text-decoration: none">
-                    <image src="/images/Sports/FITNESS_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fitness">
                     </image>
                 </a>
             </td>
