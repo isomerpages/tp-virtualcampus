@@ -25,4 +25,4 @@ We hope our Class of 2021 graduates have learnt a thing or two from their senior
 <br>*(Photo Credit: @tpengine)*
 
 ---
-**Back to [Alumni Buzz](alumni/alumni-buzz)**
+**Back to [Alumni Buzz](/alumni/alumni-buzz)**
