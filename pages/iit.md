@@ -24,4 +24,4 @@ It was definitely an enriching and inspiring session for the students, and a hea
 *(Photo Credit: School of IIT)*
 
 ---
-**Back to [Alumni Buzz](alumni/alumni-buzz)**
+**Back to [Alumni Buzz](/alumni/alumni-buzz)**
