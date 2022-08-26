@@ -45,7 +45,7 @@ third_nav_title: Calendar
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Induction</h4></a>
-			<h6 style="margin-top:0%"><i>19 - 22 September</i></h6>
+			<h6 style="margin-top:0%"><i>27 or 28 September</i></h6>
 			<p style = "margin-top:0%">1-Day Event (Non-residential)</p>
 			<br>
 		</td>
