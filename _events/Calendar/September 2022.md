@@ -4,8 +4,6 @@ permalink: /events/calendar/september-2022
 description: ""
 third_nav_title: Calendar
 ---
-<br>
-
 <table>
 	<tr>
 		<td style="width:35%"><br>
@@ -23,8 +21,7 @@ third_nav_title: Calendar
 			<br>
 		</td>
 	</tr>
-	<hr>
-		<tr>
+	<tr>
 		<td style="width:35%"><br>
 			<a href="/events/temasek-lead/lead-events">
 				<image src="/images/Events/Temasek LEAD/LEAD_Heart.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services8">     </image>
@@ -40,9 +37,7 @@ third_nav_title: Calendar
 			<br>
 		</td>
 	</tr>
-	<hr>
-	<hr>
-		<tr>
+	<tr>
 		<td style="width:35%"><br>
 			<a href="/events/temasek-lead/lead-events">
 				<image src="/images/Events/Temasek LEAD/LEAD_Induction.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services8">     </image>
@@ -55,5 +50,4 @@ third_nav_title: Calendar
 			<br>
 		</td>
 	</tr>
-	<hr>
 </table>
