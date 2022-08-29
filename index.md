@@ -15,14 +15,14 @@ sections:
         - title: Events
           description: Watch, listen and be entertained with content created by TP,
             free-of-charge!
-          url: /events/temasek-service-excellence-awards-2022
+          url: /events/calendar/september-2022
         - title: Alumni
           description: Stay connected by being part of the Alumni Family!
           url: /alumni/highlights
         - title: ...And More!
           description: Check out the other channels to see what else is happening around
             campus!
-          url: /be-caring/caring-for-community/
+          url: ""
       title: TP Virtual Campus
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
   - infopic:
