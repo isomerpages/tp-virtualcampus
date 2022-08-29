@@ -26,6 +26,16 @@ sections:
       title: TP Virtual Campus
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
   - infopic:
+      title: National Day Concert 2022
+      subtitle: Temasek Arts Centre Production
+      description: The first live National Day Concert since the Covid-19 Pandemic,
+        join in the festivities as our Arts groups take you on  a trip through
+        Singapore's history!
+      button: Replay the Action
+      url: events/national-day-celebration-2022
+      image: /images/Events/NDC22.png
+      alt: Image alt text
+  - infopic:
       title: "Round Table Discussion on Industry 4.0 in the F&B Industry "
       subtitle: Round Table Discussion
       description: Want to gain insights on the new F&B industry trends? Join us and
