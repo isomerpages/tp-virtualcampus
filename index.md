@@ -24,6 +24,7 @@ sections:
           url: ""
       title: TP Virtual Campus
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
+      background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
       title: National Day Concert 2022
       subtitle: Temasek Arts Centre Production
