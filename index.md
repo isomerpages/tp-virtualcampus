@@ -28,9 +28,9 @@ sections:
   - infopic:
       title: National Day Concert 2022
       subtitle: Temasek Arts Centre Production
-      description: The first live National Day Concert since the Covid-19 Pandemic,
-        join in the festivities as our Arts groups take you on  a trip through
-        Singapore's history!
+      description: The first live National Day Concert since 2019, join in the
+        festivities as our Arts groups take you on  a trip through Singapore's
+        history!
       button: Replay the Action
       url: events/national-day-celebration-2022
       image: /images/Events/NDC22.png
