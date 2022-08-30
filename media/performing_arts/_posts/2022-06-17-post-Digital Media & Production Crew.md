@@ -22,6 +22,7 @@ description: ""
             </p>
             <p>
                 <b>Training Days:</b><br>
+								Monday, 7pm to 9pm<br>
                 Thursday, 7pm to 9pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:Mark_Spencer@tp.edu.sg">Mr Mark Spencer</a><br>
