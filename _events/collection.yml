@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Calendar/September 2022.md
+      - Calendar/Calendar.md
       - Calendar/.keep
       - Highlights/National Day Celebration 2022.md
       - Highlights/.keep
