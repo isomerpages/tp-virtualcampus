@@ -34,7 +34,8 @@ description: ""
 			<h6 style="margin-top:0%"><i>19 - 22 September 2022</i></h6>
 			<p style="margin-top:0%">The LEAD Heart is a core event in the Temasek LEADership Programme, which aims to groom compassionate leaders with a heart for others, who think beyond themselves and their immediate teams, to be socially responsible citizens, and to serve and care for their community.
 			<br>
-				<br>
+			<br>
+			</p>
 		</td>
 	</tr>
 	<tr>
@@ -49,6 +50,7 @@ description: ""
 			<p style="margin-top:0%">The LEAD Induction seeks to welcome new students to the LEAD Programme and provide them with a deeper understanding as to what it takes to become a good LEADer. 
 				<br>
 				<br>
+			</p>
 		</td>
 		</tr>
 		<tr>
