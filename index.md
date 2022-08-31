@@ -7,23 +7,44 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/03) TSEA 2022 Web Banner (1920px by 572px).jpg
       key_highlights:
-        - title: Be Involved
+        - title: CCA & Student Groups
           description: Wanna be part of our 140+ CCAs in TP?
-          url: /be-involved/freshmenorientation/
-        - title: Be Entertained
+          url: /cca-and-student-groups/performing-arts
+        - title: Events
           description: Watch, listen and be entertained with content created by TP,
             free-of-charge!
-          url: /be-entertained/tpndc
-        - title: Be Awesome
-          description: Stay physically and mentally fit with tips and programmes curated
-            by TP students!
-          url: /be-awesome/nutritional-tips/
+          url: /events/calendar/september-2022
+        - title: Alumni
+          description: Stay connected by being part of the Alumni Family!
+          url: /alumni/highlights
         - title: ...And More!
           description: Check out the other channels to see what else is happening around
             campus!
-          url: /be-caring/caring-for-community/
+          url: ""
+      title: TP Virtual Campus
+      subtitle: Your one-stop hub for all Temasek Polytechnic happenings
+      background: /images/Home/virtual_backgrounds-01-v3.jpg
+  - infopic:
+      title: National Day Concert 2022
+      subtitle: Temasek Arts Centre Production
+      description: The first live National Day Concert since 2019, join in the
+        festivities as our Arts groups take you on  a trip through Singapore's
+        history!
+      button: Replay the Action
+      url: events/national-day-celebration-2022
+      image: /images/Events/NDC22.png
+      alt: Image alt text
+  - infopic:
+      title: "Round Table Discussion on Industry 4.0 in the F&B Industry "
+      subtitle: Round Table Discussion
+      description: Want to gain insights on the new F&B industry trends? Join us and
+        be inspired by entrepreneurship stories from industry leaders, experts,
+        and practitioners.
+      button: REGISTER NOW
+      url: https://forms.office.com/r/Z8Tqt687UP
+      image: /images/Events/TPxWW Round Table Discussion.png
+      alt: TPxWW Round Table Discussion
   - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2022
       subtitle: TSEA 2022
@@ -32,7 +53,7 @@ sections:
         Inspire them to continue the good fight. Nominate them for the TSEA
         today! "
       button: NOMINATE NOW!
-      url: /be-involved/tsea2022
+      url: /events/temasek-service-excellence-awards-2022
       alt: TSEA2022
   - infopic:
       title: CCA Fair 2022 (26-28 April)
@@ -41,7 +62,7 @@ sections:
         campus count? Check out this exciting event to find out more about the
         diverse CCAs offered in TP!
       button: JOIN IN THE ACTION!
-      url: /be-involved/ccafair2022/
+      url: /events/ccafair2022
       image: /images/TP CCA EDM Web Banner_1920px by 1080px_FA.jpg
       alt: CCA Fair 2022
   - infopic:
@@ -50,7 +71,7 @@ sections:
       description: Dear Freshmen, welcome to the TP Fam! The Freshmen Orientation
         Programme is where you will start your journey with us!
       button: DISCOVER THE ACTION
-      url: /be-involved/freshmenorientation
+      url: /events/freshmen-orientation-programme-2022
       image: /images/FOP EDM_1920px by 1080px.jpg
       alt: freshmenorientation 2022
   - infopic:
@@ -61,7 +82,7 @@ sections:
         in-person concerts, featuring exciting arts performances not to be
         missed! "
       button: BE ENTHRALLED HERE
-      url: /be-involved/freshmenorientation/#spectacular
+      url: /events/freshmen-orientation-programme-2022/#spectacular
       alt: Spectacular Concerts
   - infopic:
       title: Temasek Regatta 2022
@@ -70,7 +91,7 @@ sections:
       description: "Soak up the #TPFam vibes and have fun in the sun at our annual
         dragon boat contest for staff and students!"
       button: PADDLES UP
-      url: /be-involved/freshmenorientation/#regatta
+      url: /events/freshmen-orientation-programme-2022/#regatta
       alt: Dragon Boat
   - infopic:
       title: Dreams XII Concert – Back to LIVE
@@ -78,7 +99,7 @@ sections:
       description: '"Back to LIVE" in-person concert showcases our very own Temasek
         Arts Centre performances'
       button: Register here
-      url: /be-entertained/temasek-arts-centre/
+      url: /events/temasek-arts-centre/dreams-series
       image: /images/DREAMS XII Poster Square.png
       alt: Dream XII Concert
   - infopic:
@@ -86,7 +107,7 @@ sections:
       subtitle: Create Your Tomorrow with Us
       description: Catch exciting programmes happening at this year's TP Open House 2022
       button: Join Here!
-      url: /explore/be-involved/oh2022
+      url: /events/open-house-2022
       image: /images/BeInvolved-OH-cca.gif
       alt: TP Open House 2022
   - infopic:
@@ -95,7 +116,7 @@ sections:
       description: Congratulations to TP Design for winning the 2021 ciNE65
         Inter-School Challenge Trophy🏆!
       button: FIND OUT MORE
-      url: /be-entertained/digital-film-television/
+      url: /events/tp-film-and-media-talents/
       image: /images/ciNE65_awards_students.png
       alt: ciNE65 Movie Makers Awards
   - infopic:
@@ -103,14 +124,14 @@ sections:
       subtitle: We are Back!
       description: Run, Walk or even Cycle with your family and friends
       button: Sign up here
-      url: /explore/be-awesome/tp-necdc
+      url: /student-wellness/health-and-wellness/tp-necdc-2021
       image: /images/tpnecdcvc2021.png
       alt: Virtual Challenge
   - infopic:
       title: TP National Day Celebration 2021
       description: Missed the TP National Day Concert?
       button: Catch the show here
-      url: /be-entertained/tpndc
+      url: /events/national-day-celebration-2021
       image: /images/BeEntertained-NDCshow1.png
       alt: National Day Celebration 2021
   - infopic:
@@ -119,7 +140,7 @@ sections:
       image: /images/Infopic-Artsfest2021.png
       description: The First Ever Temasek Polytechnic's Online Arts Festival!
       button: Watch These Concerts
-      url: /be-entertained/artsfest/
+      url: /events/temasek-arts-centre/temasek-arts-festival-2021
       alt: Artsfest
   - infopic:
       title: Want to be featured on this Virtual Campus?

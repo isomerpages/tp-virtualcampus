@@ -5,9 +5,9 @@ collections:
       - Athlete Services/.keep
       - Athlete Testing & Services/.keep
       - Athlete Testing & Services/About Us.md
-      - Athlete Testing & Services/who-we-are.md
-      - Sports Projects/.keep
+      - Athlete Testing & Services/Meet The Team.md
       - Sports Projects/Upcoming Projects.md
+      - Sports Projects/.keep
       - Sports Projects/Completed Projects.md
       - Performance Measurement/.keep
       - Performance Measurement/testing-and-services.md
@@ -20,6 +20,7 @@ collections:
       - Performance Measurement/services.md
       - Workshops/.keep
       - Workshops/workshops.md
+      - Workshops/Sports Leaders Workshop 2022.md
       - Workshops/Mental Skills Training.md
       - Workshops/Nutrition.md
       - Workshops/Recovery.md

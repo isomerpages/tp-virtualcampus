@@ -1,0 +1,29 @@
+collections:
+  events:
+    output: true
+    order:
+      - Calendar/September 2022.md
+      - Calendar/.keep
+      - Highlights/National Day Celebration 2022.md
+      - Highlights/.keep
+      - Highlights/Temasek Service Excellence Awards 2022.md
+      - Highlights/CCA Fair 2022.md
+      - Highlights/Freshmen Orientation Programme 2022.md
+      - Highlights/Open House 2022.md
+      - Highlights/TP CCA Scholarships.md
+      - Temasek Arts Centre/.keep
+      - Temasek Arts Centre/About TAC.md
+      - Temasek Arts Centre/DREAMS Series.md
+      - Temasek Arts Centre/Temasek Arts Festival 2021.md
+      - Temasek LEAD/.keep
+      - Temasek LEAD/About LEAD.md
+      - Temasek LEAD/LEAD Events.md
+      - Community Engagement/.keep
+      - Community Engagement/Campus Care Network.md
+      - Community Engagement/Caring for Community.md
+      - Community Engagement/Caring for Environment.md
+      - Innovation & Entrepreneurship/.keep
+      - Innovation & Entrepreneurship/Events.md
+      - Innovation & Entrepreneurship/Past Events.md
+      - Innovation & Entrepreneurship/Entrepreneurship Success Stories.md
+      - TP's Film & Media Talents.md

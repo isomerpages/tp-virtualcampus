@@ -1,18 +1,14 @@
 logo: /images/TPlogo.jpg
 links:
-  - title: Explore
-    collection: explore
-  - title: Specialist Services
-    collection: specialist-services
-  - title: Getting Around TP
-    sublinks:
-      - title: Our Very Cool 360 VR Tour of TP!
-        url: https://www.tp.edu.sg/vrtour/
-      - title: Campus Map
-        url: https://www.tp.edu.sg/about-tp/our-campus-map-facilities.html
-      - title: Student Portal
-        url: https://services.tp.edu.sg/
-      - title: Corporate Website
-        url: https://www.tp.edu.sg/
+  - title: CCA & Student Groups
+    collection: cca-and-student-groups
+  - title: Events
+    collection: events
+  - title: Alumni
+    collection: alumni
+  - title: Services
+    collection: services
+  - title: Resources
+    collection: resources
   - title: Contact Us
     url: /contact-us/
