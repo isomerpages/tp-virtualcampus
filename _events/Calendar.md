@@ -32,11 +32,9 @@ description: ""
 		<td style="width:65%"><br>
 			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Heart</h4></a>
 			<h6 style="margin-top:0%"><i>19 - 22 September 2022</i></h6>
-			<p style="margin-top:0%">Discussion on Disability landscape Singapore and how students are able to contribute to inclusiveness.
-				<br>
-				<br>
-				Format: Physical</p>
+			<p style="margin-top:0%">The LEAD Heart is a core event in the Temasek LEADership Programme, which aims to groom compassionate leaders with a heart for others, who think beyond themselves and their immediate teams, to be socially responsible citizens, and to serve and care for their community.
 			<br>
+				<br>
 		</td>
 	</tr>
 	<tr>
@@ -48,8 +46,9 @@ description: ""
 		<td style="width:65%"><br>
 			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Induction</h4></a>
 			<h6 style="margin-top:0%"><i>27 or 28 September 2022</i></h6>
-			<p style="margin-top:0%">1-Day Event (Non-residential)</p>
-			<br>
+			<p style="margin-top:0%">The LEAD Induction seeks to welcome new students to the LEAD Programme and provide them with a deeper understanding as to what it takes to become a good LEADer. 
+				<br>
+				<br>
 		</td>
 		</tr>
 		<tr>
