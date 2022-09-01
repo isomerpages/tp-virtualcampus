@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Arts/FP.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion"></image></td>
+        <td style="width:45%"><image src="/images/Arts/FP/FP.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion"></image></td>
         <td>
             <p>
                 The Temasek Polytechnic Fusion Percussion (TPFP) is a highly-spirited group of passionate individuals with a deep interest for percussive music. A collective of vibrant, creative and talented drummers come together in an explosive ensemble. Their shows are always exciting and full of energy. Get them to liven up shows and they will deliver the party to your doorstep! They live by their slogan “with a burning passion, we play to the beat of our hearts”. Brazilian Samba forms the cornerstone of TPFP's creative rhythms such as Samba Temasek - a fusion of Brazilian samba and Singapore elements.<br>
@@ -42,21 +42,21 @@ description: ""
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdAvXXhh0hi/">
-                <image src="/images/Arts/FP_Who are WE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <image src="/images/Arts/FP/FP_Who are WE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
                 <h6 style="margin-top:0%">Who Are WE?</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cc4yL8hLswq/">
-                <image src="/images/Arts/FP_Sign Up Now.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <image src="/images/Arts/FP/FP_Sign Up Now.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
                 <h6 style="margin-top:0%">Sign Up Now!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CczULZQBlj9/">
-                <image src="/images/Arts/FP_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <image src="/images/Arts/FP/FP_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
