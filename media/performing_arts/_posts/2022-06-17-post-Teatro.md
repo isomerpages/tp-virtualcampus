@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Arts/TEATRO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro"></image></td>
+        <td style="width:45%"><image src="/images/Arts/Teatro/TEATRO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro"></image></td>
         <td>
             <p>
                 Teatro, which means Theatre in Spanish, is a conglomerate of TP's English and Malay drama groups. The Temasek Polytechnic Teatro engages their audience their audience with high quality skits and staged productions. Being one of the most versatile groups, Teatro scripts and stages drama according to the occasion, fusing various art forms to engage the audiences. Teatro stages theatre performances every year. Keep a look out for their exciting theatrical productions at the TP Black Box!<br>
@@ -50,21 +50,21 @@ description: ""
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cc-OIRkLQNb/">
-                <image src="/images/Arts/TEATRO_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
+                <image src="/images/Arts/Teatro/TEATRO_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcxJynILCnA/">
-                <image src="/images/Arts/TEATRO_Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
+                <image src="/images/Arts/Teatro/TEATRO_Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
                 <h6 style="margin-top:0%">Recruitment</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcmvDgDpCRj/">
-                <image src="/images/Arts/TEATRO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
+                <image src="/images/Arts/Teatro/TEATRO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
