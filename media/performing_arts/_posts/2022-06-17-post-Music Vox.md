@@ -80,24 +80,24 @@ description: ""
 <table>
 	<tr>
 		<td style="width:33%"><br>
-			<image src="/images/Arts/MV/MV.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+			<image src="/images/Arts/MV/MV-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
 		<td style="width:33%"><br>
 			<image src="/images/Arts/MV/MV_pic_1-v2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
 		<td style="width:33%"><br>
-			<image src="/images/Arts/MV/MV_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+			<image src="/images/Arts/MV/MV_pic_2-v2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
 	</tr>
 		<tr>
 		<td style="width:33%"><br>
-			<image src="/images/Arts/MV/MV_Audition Results.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+			<image src="/images/Arts/MV/MV_pic_3-v2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
 		<td style="width:33%"><br>
-			<image src="/images/Arts/MV/MV_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+			<image src="/images/Arts/MV/MV_pic_4-v2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
 		<td style="width:33%"><br>
-			<image src="/images/Arts/MV/MV_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+			<image src="/images/Arts/MV/MV_pic_5-v2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
 	</tr>
 </table>
