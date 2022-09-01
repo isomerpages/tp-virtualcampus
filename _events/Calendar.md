@@ -113,6 +113,7 @@ description: ""
 		<td style="width:35%">
 			<br>
 				<img src="/images/Events/Calendar/cal_IVP.png" style="display:block;margin-left:auto;margin-right:auto;">
+			<br>
 		</td>
 		<td style="width:65%"><br>
 				<h4 style="margin-top:0%">IVP Season</h4>
@@ -127,6 +128,7 @@ description: ""
 		<td style="width:35%">
 			<br>
 				<img src="/images/Events/Calendar/cal_tapestry_melody.png" style="display:block;margin-left:auto;margin-right:auto;">
+			<br>
 		</td>
 		<td style="width:65%"><br>
 				<h4 style="margin-top:0%">Tapestry: Melody</h4>
