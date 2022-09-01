@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Arts/MDG.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance"></image></td>
+        <td style="width:45%"><image src="/images/Arts/MDG/MDG.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance"></image></td>
         <td>
             <p>
                 The Temasek Polytechnic Malay Dance Group is also called Kesenian Si Anak Tari (Seni Nak Tari or SNT). SNT takes pride in promoting the arts and providing high-quality traditional and contemporary performances. Featuring both traditional and contemporary styles, SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various genres portrayed.<br>
@@ -53,21 +53,21 @@ description: ""
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdUraqdgNbh/">
-                <image src="/images/Arts/MDG_Zapin Pak Ngah Balik.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <image src="/images/Arts/MDG/MDG_Zapin Pak Ngah Balik.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                 <h6 style="margin-top:0%">Zapin Pak Ngah Balik</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdDnCkLB8nk/">
-                <image src="/images/Arts/MDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <image src="/images/Arts/MDG/MDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcuPdcGrSOo/">
-                <image src="/images/Arts/MDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <image src="/images/Arts/MDG/MDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
