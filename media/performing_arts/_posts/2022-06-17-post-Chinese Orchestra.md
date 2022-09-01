@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Arts/CO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra"></image></td>
+        <td style="width:45%"><image src="/images/Arts/CO/CO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra"></image></td>
         <td>
             <p>
                 The Temasek Polytechnic Chinese Orchestra (TPCO) performs Chinese music using various Chinese instruments such as the Yangqin, Erhu and Pipa to explore the world of traditional and contemporary Chinese music. The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as Band and String Ensemble and also ventures out for public performances and overseas exchange programmes.<br>
@@ -48,21 +48,21 @@ description: ""
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdxoOHQJIHI/">
-                <image src="/images/Arts/CO_Induction Day.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <image src="/images/Arts/CO/CO_Induction Day.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                 <h6 style="margin-top:0%">Induction Day</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cco2MFnpiUd/">
-                <image src="/images/Arts/CO_CCA Fair AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <image src="/images/Arts/CO/CO_CCA Fair AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                 <h6 style="margin-top:0%">CCA Fair AY22/23</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcfdpjZPW8H/">
-                <image src="/images/Arts/CO_Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <image src="/images/Arts/CO/CO_Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
                 </image>
             </a>
