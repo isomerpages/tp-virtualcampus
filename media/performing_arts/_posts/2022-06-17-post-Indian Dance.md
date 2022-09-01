@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Arts/IDG.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indian Dance"></image></td>
+        <td style="width:45%"><image src="/images/Arts/IDG/IDG.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indian Dance"></image></td>
         <td>
             <p>
                 The Temasek Polytechnic Indian Dance Group (IDG) trains in various dance forms, such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance. IDG's members do their own choreography and have been featured at various major events. IDG promotes and showcases its colourful and enthralling dance forms and charming performances, leaving the audience asking for more.<br>
@@ -48,21 +48,21 @@ description: ""
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cd3MXyuvr_w/">
-                <image src="/images/Arts/IDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <image src="/images/Arts/IDG/IDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cdxyq_RPn0_/">
-                <image src="/images/Arts/IDG_Trial Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <image src="/images/Arts/IDG/IDG_Trial Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">Trial Session</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcwslAUvgt4/">
-                <image src="/images/Arts/IDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <image src="/images/Arts/IDG/IDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
