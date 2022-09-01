@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Arts/EMCEES.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees"></image></td>
+        <td style="width:45%"><image src="/images/Arts/Emcees/EMCEES.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Emcees"></image></td>
         <td>
             <p>
                 The Temasek Polytechnic Emcees is a fun and lively community of emcees who provide hosting services to the student body of Temasek Polytechnic. They assist with the facilitation of events through collaboration with the various Schools, Departments and CCA groups. Parties that they work with include the Arts Groups, P10 & Interest Groups, the academic schools, as well as the Corporate Communications and Student Development and Alumni Affairs departments. TP Emcees have hosted a variety of event types, from formal ones to less formal community service events and also multiple online platforms. Come be part of the TP Emcees family if you feel at ease on stage and love meeting crowds of people.<br>
@@ -45,21 +45,21 @@ description: ""
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cd7cgk3pCEr/">
-                <image src="/images/Arts/EMCEES_128 Circle X TP Emcees Meet The Stars.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Emcees">
+                <image src="/images/Arts/Emcees/EMCEES_128 Circle X TP Emcees Meet The Stars.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Emcees">
                 <h6 style="margin-top:0%">128 Circle X TP Emcees: Meet The Stars</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcucMGRJpd2/">
-                <image src="/images/Arts/EMCEES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Emcees">
+                <image src="/images/Arts/Emcees/EMCEES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Emcees">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cce39s4Leq8/">
-                <image src="/images/Arts/EMCEES_Temasek Spectacular 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Emcees">
+                <image src="/images/Arts/Emcees/EMCEES_Temasek Spectacular 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Emcees">
                 <h6 style="margin-top:0%">Temasek Spectacular 2022</h6>
                 </image>
             </a>
