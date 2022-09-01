@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Arts/DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Media and Production Crew"></image></td>
+        <td style="width:45%"><image src="/images/Arts/DMPC/DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Media and Production Crew"></image></td>
         <td>
             <p>
                 The Temasek Polytechnic Digital Media & Production Crew (DMPC) enables enables all of our performing arts groups to be seen, heard and on stage. Engaging with technical and production management, audio, visual, lighting and staging along with capturing special moments on camera, they make real magic happen. The tight-knit and dedicated group has managed the pivot to digital productions with excellence, whilst eagerly driving the return to live events. Members receive training in a multitude of production areas from current industry practitioners, who are passionate about what they do. Along with regular activities, they also organise all scales of events including the exciting annual DREAMS Concert.<br>
@@ -43,21 +43,21 @@ description: ""
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdAuZJ3J8o7/">
-                <image src="/images/Arts/DMPC_Join DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <image src="/images/Arts/DMPC/DMPC_Join DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
                 <h6 style="margin-top:0%">Join DMPC!</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Ccxkq7UpUca/">
-                <image src="/images/Arts/DMPC_Introduction Video.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
+                <image src="/images/Arts/DMPC/DMPC_Introduction Video.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
                 <h6 style="margin-top:0%">Introduction Video</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">
-                <image src="/images/Arts/DMPC_Flickr.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <image src="/images/Arts/DMPC/DMPC_Flickr.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
                 <h6 style="margin-top:0%">DMPC Flickr Page</h6>    
                 </image>
             </a>
