@@ -74,3 +74,30 @@ description: ""
         </td>
     </tr>
 </table>
+
+#### Gallery
+
+<table>
+	<tr>
+		<td style="width:33%"><br>
+			<image src="/images/Arts/MV/MV_Audition Results.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+		</td>
+		<td style="width:33%"><br>
+			<image src="/images/Arts/MV/MV_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+		</td>
+		<td style="width:33%"><br>
+			<image src="/images/Arts/MV/MV_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+		</td>
+	</tr>
+		<tr>
+		<td style="width:33%"><br>
+			<image src="/images/Arts/MV/MV_Audition Results.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+		</td>
+		<td style="width:33%"><br>
+			<image src="/images/Arts/MV/MV_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+		</td>
+		<td style="width:33%"><br>
+			<image src="/images/Arts/MV/MV_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
+		</td>
+	</tr>
+</table>
