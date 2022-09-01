@@ -8,7 +8,7 @@ description: ""
 <div>
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Arts/DK.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat"></image></td>
+        <td style="width:45%"><image src="/images/Arts/DK/DK.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat"></image></td>
         <td>
             <p>
                 The Temasek Polytechnic Dikir Barat (TPDK) performs a vibrant traditional Malay art form that involves 15 or more people doing responsorial singing, led by a couple of lead singers and accompanied by Malay percussions. It is a traditional art form anchored in the use of poetry and creative lyrics. TPDK takes part in numerous high-level, poly-wide and external public performances. TPDK has won multiple awards at the annual national competitions such as "Piala Suara Serumpun" (Cluster of Voices Trophy).<br>
@@ -50,21 +50,21 @@ description: ""
     <tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcxifZzB8a8/">
-                <image src="/images/Arts/DK_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <image src="/images/Arts/DK/DK_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CbY8xXDBJD3/">
-                <image src="/images/Arts/DK_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <image src="/images/Arts/DK/DK_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
                 <h6 style="margin-top:0%">DREAMS XII</h6>
                 </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CVCoeDgok7L/">
-                <image src="/images/Arts/DK_Kem Budaya.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <image src="/images/Arts/DK/DK_Kem Budaya.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
                 <h6 style="margin-top:0%">Kem Budaya</h6>
                 </image>
             </a>
