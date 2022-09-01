@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek LEAD Summit
+      subtitle: Temasek LEADership Program
+      description: 2022's LEAD Summit sees a special segment by Minister of Transport
+        Mr S. Iswaran, as well as other guest speakers from the transportation
+        industry.
+      button: View LEAD Calendar
+      url: /events/temasek-lead/lead-events
+      image: /images/Events/Temasek LEAD/LEAD_Summit.png
+      alt: Image alt text
+  - infopic:
       title: National Day Concert 2022
       subtitle: Temasek Arts Centre Production
       description: The first live National Day Concert since 2019, join in the
@@ -34,17 +44,7 @@ sections:
       button: Replay the Action
       url: events/national-day-celebration-2022
       image: /images/Events/NDC22.png
-      alt: Image alt text
-  - infopic:
-      title: "Round Table Discussion on Industry 4.0 in the F&B Industry "
-      subtitle: Round Table Discussion
-      description: Want to gain insights on the new F&B industry trends? Join us and
-        be inspired by entrepreneurship stories from industry leaders, experts,
-        and practitioners.
-      button: REGISTER NOW
-      url: https://forms.office.com/r/Z8Tqt687UP
-      image: /images/Events/TPxWW Round Table Discussion.png
-      alt: TPxWW Round Table Discussion
+      alt: National Day Concert 2022
   - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2022
       subtitle: TSEA 2022
