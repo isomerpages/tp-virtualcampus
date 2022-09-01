@@ -34,7 +34,7 @@ sections:
       button: View LEAD Calendar
       url: /events/temasek-lead/lead-events
       image: /images/Events/Temasek LEAD/LEAD_Summit.png
-      alt: Image alt text
+      alt: LEAD Summit
   - infopic:
       title: National Day Concert 2022
       subtitle: Temasek Arts Centre Production
