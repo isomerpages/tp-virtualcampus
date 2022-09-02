@@ -67,12 +67,12 @@ description: ""
 <p>
     <a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
 	<br>
-	<i>Manager, Student Development & Alumni Association</i>
+	<i>Manager, Student Development & Alumni Affairs</i>
     <br>
     <br>
     <a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
 	<br>
-	<i>Senior Executive, Student Development & Alumni Association</i>
+	<i>Senior Executive, Student Development & Alumni Affairs</i>
 </p>
 
 ##### Pages
