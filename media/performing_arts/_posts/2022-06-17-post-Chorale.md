@@ -64,7 +64,7 @@ description: ""
 <p>
 	<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
 	<br>
-	<i>Senior Executive, Student Development & Alumni Association</i>
+	<i>Senior Executive, Student Development & Alumni Affairs</i>
 </p>
 
 ##### Pages
