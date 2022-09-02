@@ -70,9 +70,10 @@ description: ""
 ###### Links
 
 <p>
-	<a href="https://www.instagram.com/tpmusicvox">Instagram</a> <br>
-	<a href="https://linktr.ee/MusicVoxTP">Linktree</a>
-</p>
+	</p><ul>
+		<li><a href="https://www.instagram.com/tpmusicvox">Instagram</a></li>
+		<li><a href="https://linktr.ee/MusicVoxTP">Linktree</a></li>
+<p></p>
 
 <hr>
 
@@ -131,4 +132,4 @@ description: ""
 			<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_pic_6.jpg">
 		</td>
 	</tr>
-</tbody></table>
+</tbody></table></ul>
