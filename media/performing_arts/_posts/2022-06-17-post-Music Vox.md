@@ -5,7 +5,6 @@ permalink: /performing-arts/music-vox/
 date: 2022-06-17
 description: ""
 ---
-<div>
 <table>
 	<tbody><tr>
 		<td>
@@ -137,4 +136,3 @@ description: ""
 		</td>
 	</tr>
 </tbody></table></ul>
-</div>
