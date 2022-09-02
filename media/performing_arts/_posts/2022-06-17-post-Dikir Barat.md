@@ -58,7 +58,7 @@ description: ""
 </ul>
 
 
-##### CCA Staff Advisor
+##### Staff Advisor
 
 <p>
     <a href="mailto:aidli_mosbit@tp.edu.sg">Ms Aidli Mosbit</a>
