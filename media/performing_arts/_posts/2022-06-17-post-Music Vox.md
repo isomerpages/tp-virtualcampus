@@ -10,7 +10,10 @@ description: ""
 		<tr>
 			<td>
 				<p>
-				The Temasek Polytechnic Music Vox (TPMV) is a family of musicians, typically made up of vocalists, guitarists, bassists, keyboardists, songwriters, drummers and even producers, who play, record and perform assorted genres including pop, rock and indie of original and cover music. They are often invited to perform for events on and off campus such as DREAMS and Temasek Spectacular, having been recognised for their musical synergy and crowd appeal. They have recently released their first-ever EP album of original music (‘Beginnings’) on Spotify and other major streaming platforms.
+				The Temasek Polytechnic Music Vox (TPMV) is a family of musicians, typically made up of vocalists, guitarists, bassists, keyboardists, songwriters, drummers and even producers, who play, record and perform assorted genres including pop, rock and indie of original and cover music. 
+					<br>
+					<br>
+					They are often invited to perform for events on and off campus such as DREAMS and Temasek Spectacular, having been recognised for their musical synergy and crowd appeal. They have recently released their first-ever EP album of original music (‘Beginnings’) on Spotify and other major streaming platforms.
 					<br>
 					<br>
 				</p>
