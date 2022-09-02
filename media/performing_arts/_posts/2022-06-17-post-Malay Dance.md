@@ -19,7 +19,7 @@ description: ""
 				</p>
 			</td>
 			<td style="width:40%">
-				<img alt="IDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/IDG/IDG_logo.png">
+				<img alt="MDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MDG/MDG_logo.png">
 			</td>
 		</tr>
 	</tbody>
@@ -114,26 +114,26 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:50%"><br>
-				<img alt="IDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/IDG/IDG_pic_1.jpg">
+				<img alt="MDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MDG/MDG_pic_1.jpg">
 			</td>
 			<td style="width:50%"><br>
-				<img alt="IDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/IDG/IDG_pic_2.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="IDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/IDG/IDG_pic_3.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="IDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/IDG/IDG_pic_4.jpg">
+				<img alt="MDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MDG/MDG_pic_2.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td style="width:50%"><br>
-				<img alt="IDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/IDG/IDG_pic_5.jpg">
+				<img alt="MDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MDG/MDG_pic_3.jpg">
 			</td>
 			<td style="width:50%"><br>
-				<img alt="IDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/IDG/IDG_pic_6.jpg">
+				<img alt="MDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MDG/MDG_pic_4.jpg">
+			</td>
+		</tr>
+		<tr>
+			<td style="width:50%"><br>
+				<img alt="MDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MDG/MDG_pic_5.jpg">
+			</td>
+			<td style="width:50%"><br>
+				<img alt="MDG" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MDG/MDG_pic_6.jpg">
 			</td>
 		</tr>
 	</tbody>
