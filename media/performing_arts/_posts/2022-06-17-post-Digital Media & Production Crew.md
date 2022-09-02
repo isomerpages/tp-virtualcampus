@@ -5,39 +5,86 @@ permalink: /performing-arts/digital-media-and-production-crew/
 date: 2022-06-17
 description: ""
 ---
-<div>
 <table>
-    <tr>
-        <td style="width:45%"><image src="/images/Arts/DMPC/DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Digital Media and Production Crew"></image></td>
-        <td>
-            <p>
-                The Temasek Polytechnic Digital Media & Production Crew (DMPC) enables enables all of our performing arts groups to be seen, heard and on stage. Engaging with technical and production management, audio, visual, lighting and staging along with capturing special moments on camera, they make real magic happen. The tight-knit and dedicated group has managed the pivot to digital productions with excellence, whilst eagerly driving the return to live events. Members receive training in a multitude of production areas from current industry practitioners, who are passionate about what they do. Along with regular activities, they also organise all scales of events including the exciting annual DREAMS Concert.<br>
-                <br>
-                <b>Achievements:</b><br>
-                <ul>
-                <li>Canon Photomarathon 2020 - 2nd place for the student category</li>
-                <li>Canon Photomarathon 2019 - 3rd place for the student category</li>
-                <li>NSMen Video Competition 2019 - Merit</li>
-                </ul>
-            </p>
-            <p>
-                <b>Training Days:</b><br>
-								Monday, 7pm to 9pm<br>
-                Thursday, 7pm to 9pm<br>
-                <br>
-                <b>CCA Staff Advisors:</b> <br><a href="mailto:Mark_Spencer@tp.edu.sg">Mr Mark Spencer</a><br>
-						   	<a href="mailto:Nigel_Tan@tp.edu.sg">Mr Nigel Tan</a><br>
-                <br>
-                CCA <a href="https://www.instagram.com/tp.dmpc">Instagram</a>
-							<br>
-							CCA <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">Flickr</a>
-            </p>
-        </td>
-    </tr>
+	<tbody>
+		<tr>
+			<td>
+				<p>
+                    The Temasek Polytechnic Digital Media & Production Crew (DMPC) enables enables all of our performing arts groups to be seen, heard and on stage. Engaging with technical and production management, audio, visual, lighting and staging along with capturing special moments on camera, they make real magic happen.
+					<br>
+					<br>
+                    The tight-knit and dedicated group has managed the pivot to digital productions with excellence, whilst eagerly driving the return to live events.  
+					<br>
+					<br>
+                    Members receive training in a multitude of production areas from current industry practitioners, who are passionate about what they do. Along with regular activities, they also organize all scales of events including the exciting annual DREAMS Concert.
+                    <br>
+                    <br>
+				</p>
+			</td>
+			<td style="width:40%">
+				<img alt="DMPC" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DMPC/DMPC_logo.png">
+			</td>
+		</tr>
+	</tbody>
 </table>
-</div>
+	
+<hr>
+	
+### Recognitions
 
-#### Latest Happenings
+##### Features
+	
+<ul>
+    <li>Temasek Spectacular (2022)</li>
+    <li>DREAMS XII (2022)</li>
+    <li>TPDE GROOV-ED (2022)</li>
+    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
+    <li>Temasek Arts Festival – “PLAY” The Series: Experimental Collective (2021)</li>
+</ul>
+
+##### Achievements
+	
+<ul>
+    <li>Canon Photomarathon 2020 - 2nd place for the student category</li>
+    <li>Canon Photomarathon 2019 - 3rd place for the student category</li>
+    <li>NSMen Video Competition 2019 - Merit</li>  
+</ul>
+
+<hr>
+
+### About CCA
+
+##### Training Days
+            
+<ul>    
+    <li>Monday, 7pm to 9pm</li>
+    <li>Thursday, 7pm to 9pm</li>
+</ul>
+
+
+##### CCA Staff Advisors
+
+<p>
+    <a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
+	<br>
+	<i>Manager, Student Development & Alumni Association</i>
+    <br>
+    <br>
+    <a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
+	<br>
+	<i>Senior Executive, Student Development & Alumni Association</i>
+</p>
+
+##### Pages
+
+<ul>
+	<li><a href="https://www.instagram.com/tp.dmpc">Instagram</a></li>
+    <li><a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">Flickr</a></li>
+</ul>
+
+<hr>
+
+### Latest Happenings
 
 <table>
     <tr>
@@ -63,4 +110,37 @@ description: ""
             </a>
         </td>
     </tr>
+</table>
+	
+<hr>
+
+### Gallery
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:50%"><br>
+				<img alt="DMPC" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DMPC/DMPC_pic_1.jpg">
+			</td>
+			<td style="width:50%"><br>
+				<img alt="DMPC" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DMPC/DMPC_pic_2.jpg">
+			</td>
+		</tr>
+		<tr>
+			<td style="width:50%"><br>
+				<img alt="DMPC" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DMPC/DMPC_pic_3.jpg">
+			</td>
+			<td style="width:50%"><br>
+				<img alt="DMPC" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DMPC/DMPC_pic_4.jpg">
+			</td>
+		</tr>
+		<tr>
+			<td style="width:50%"><br>
+				<img alt="DMPC" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DMPC/DMPC_pic_5.jpg">
+			</td>
+			<td style="width:50%"><br>
+				<img alt="DMPC" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DMPC/DMPC_pic_6.jpg">
+			</td>
+		</tr>
+	</tbody>
 </table>
