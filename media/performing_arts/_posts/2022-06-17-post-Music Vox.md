@@ -14,15 +14,15 @@ description: ""
 						<br>
 					</p>
 			</td>
-			<td style="width:40%"><img src="/images/Arts/MV/MV_logo.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Music Vox"></td>
+			<td style="width:40%"><img alt="Music Vox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_logo.png"></td>
 		</tr>
 </tbody></table>
 	
 <hr>
 	
-#### Recognitions
+### Recognitions
 
-###### Features
+##### Features
 	
 <p>
 	</p><ul>
@@ -37,7 +37,7 @@ description: ""
 	</ul>
 <p></p>
 	
-###### Achievements
+##### Achievements
 	
 <p>
 	</p><ul>
@@ -48,9 +48,9 @@ description: ""
 
 <hr>
 
-#### About CCA
+### About CCA
 
-###### Training Days
+##### Training Days
             
 <p>
 	</p><ul>    
@@ -59,7 +59,7 @@ description: ""
 	</ul>
 <p></p>
 
-###### CCA Staff Advisor
+##### CCA Staff Advisor
 
 <p>
 	<a href="mailto:nigeltan@tp.edu.sg"><b>Mr Nigel Tan</b></a>
@@ -67,7 +67,7 @@ description: ""
 	<i>Senior Executive, Student Development &amp; Alumni Association</i>
 </p>
 
-###### Links
+##### Links
 
 <p>
 	</p><ul>
@@ -77,26 +77,26 @@ description: ""
 
 <hr>
 
-#### Latest Happenings
+### Latest Happenings
 
 <table>
 	<tbody>
 		<tr>
 			<td style="width:33%"><br>
 				<a href="https://www.instagram.com/p/CeNWR5tJ88z/">
-				<img src="/images/Arts/MV/MV_Audition Results.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+				<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_Audition Results.png">
 				<h6 style="margin-top:0%">Audition Results</h6>				
 			</a>
 		</td>
 		<td style="width:33%"><br>
 			<a href="https://www.instagram.com/p/Cc5ADHYP89e/">
-				<img src="/images/Arts/MV/MV_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+				<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_CCA Fair 2022.png">
 				<h6 style="margin-top:0%">CCA Fair 2022</h6>				
 			</a>
 		</td>
 		<td style="width:33%"><br>
 			<a href="https://www.instagram.com/p/CbaUTZLJwn7/">
-				<img src="/images/Arts/MV/MV_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+				<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_DREAMS XII.png">
 				<h6 style="margin-top:0%">DREAMS XII</h6>    				
 				</a>
 			</td>
@@ -106,31 +106,31 @@ description: ""
 	
 <hr>
 
-#### Gallery
+### Gallery
 
 <table>
 	<tbody><tr>
 		<td style="width:50%"><br>
-			<img src="/images/Arts/MV/MV_pic_1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+			<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_pic_1.jpg">
 		</td>
 		<td style="width:50%"><br>
-			<img src="/images/Arts/MV/MV_pic_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
-		</td>
-	</tr>
-	<tr>
-		<td style="width:50%"><br>
-			<img src="/images/Arts/MV/MV_pic_3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
-		</td>
-		<td style="width:50%"><br>
-			<img src="/images/Arts/MV/MV_pic_4.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+			<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_pic_2.jpg">
 		</td>
 	</tr>
 	<tr>
 		<td style="width:50%"><br>
-			<img src="/images/Arts/MV/MV_pic_5.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+			<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_pic_3.jpg">
 		</td>
 		<td style="width:50%"><br>
-			<img src="/images/Arts/MV/MV_pic_6.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+			<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_pic_4.jpg">
+		</td>
+	</tr>
+	<tr>
+		<td style="width:50%"><br>
+			<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_pic_5.jpg">
+		</td>
+		<td style="width:50%"><br>
+			<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_pic_6.jpg">
 		</td>
 	</tr>
 </tbody></table></ul>
