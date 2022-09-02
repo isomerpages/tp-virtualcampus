@@ -17,18 +17,24 @@ description: ""
 					</p>
 </table>
 
-#### Features
+#### About CCA
+
+###### Features
+	
 <p>
-                <ul>
-                   <li>Temasek Spectacular (2022)</li>
-                    <li>DREAMS XII (2022)</li>
-                    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
-                    <li>Temasek Arts Festival – Music Vox Virtual Annual Concert: Beginnings (2021)</li>  
-									<li>'Beginnings' EP Launch on Spotify (2021)</li>
-                    <li>National Day Observance Ceremony at the MOE HQ (2019)</li>
-                    <li>“In Youthful Company” at The Esplanade Outdoor Theatre (2018)</li>
-                    <li>Community Chest 35th Anniversary Celebration Ceremony (2018)</li>
-                </ul>
+	<ul>
+		<li>Temasek Spectacular (2022)</li>
+		<li>DREAMS XII (2022)</li>
+		<li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
+		<li>Temasek Arts Festival – Music Vox Virtual Annual Concert: Beginnings (2021)</li>  
+		<li>'Beginnings' EP Launch on Spotify (2021)</li>
+		<li>National Day Observance Ceremony at the MOE HQ (2019)</li>
+		<li>“In Youthful Company” at The Esplanade Outdoor Theatre (2018)</li>
+		<li>Community Chest 35th Anniversary Celebration Ceremony (2018)</li>
+	</ul>
+</p>
+	
+	
 					 <b>Achievements:</b><br>
                 <ul>
                     <li>Awarded Temasek Polytechnic’s Arts Excellence Award (2019 & 2020)</li>
