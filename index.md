@@ -14,7 +14,7 @@ sections:
         - title: Events
           description: Watch, listen and be entertained with content created by TP,
             free-of-charge!
-          url: /events/calendar/september-2022
+          url: /events/calendar
         - title: Alumni
           description: Stay connected by being part of the Alumni Family!
           url: /alumni/highlights
