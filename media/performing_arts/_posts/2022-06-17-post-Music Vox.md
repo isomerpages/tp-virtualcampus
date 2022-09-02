@@ -17,7 +17,7 @@ description: ""
 					</p>
 </table>
 
-#### About CCA
+#### Recognitions
 
 ###### Features
 	
@@ -34,24 +34,36 @@ description: ""
 	</ul>
 </p>
 	
+###### Achievements
 	
-					 <b>Achievements:</b><br>
-                <ul>
-                    <li>Awarded Temasek Polytechnic’s Arts Excellence Award (2019 & 2020)</li>
-                    <li>Awarded Temasek Polytechnic's Arts Group of the Year Award (2016)</li>
-                </ul>
-            </p>
-            <p>
-                <b>Training Days:</b><br>
-                <ul>    
-                    <li>Daily Sectional Training, 6.30pm to 9pm</li>
-                    <li>Rehearsal Jamming (Daily, subject to upcoming performances/recording)</li>
-                </ul>
-            </p>
-            <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a><br>
-                <br>
-                CCA <a href="https://www.instagram.com/tpmusicvox">Instagram</a>
+<p>
+	<ul>
+		<li>Awarded Temasek Polytechnic’s Arts Excellence Award (2019 & 2020)</li>
+		<li>Awarded Temasek Polytechnic's Arts Group of the Year Award (2016)</li>
+	</ul>
+</p>
+
+#### About CCA
+
+###### Training Days
+            
+<p>
+	<ul>    
+		<li>Daily Sectional Training, 6.30pm to 9pm</li>
+		<li>Rehearsal Jamming (Daily, subject to upcoming performances/recording)</li>
+	</ul>
+</p>
+
+###### CCA Staff Advisor
+
+<p>
+	<a href="mailto:nigeltan@tp.edu.sg"><b>Mr Nigel Tan</b></a>
+	<br>
+	<i>Senior Executive, Student Development & Alumni Association</i>
+</p>
+                
+###### CCA Instagram	
+	CCA <a href="https://www.instagram.com/tpmusicvox">Instagram</a>
             </p>
 </div>
 
