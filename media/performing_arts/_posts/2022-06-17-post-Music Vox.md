@@ -5,21 +5,24 @@ permalink: /performing-arts/music-vox/
 date: 2022-06-17
 description: ""
 ---
-<div>
 <table>
     <tbody><tr>
-        <td style="width:45%"><img alt="Music Vox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_logo.png"></td>
-        <td>
-            <p>
-                The Temasek Polytechnic Music Vox (TPMV) is a family of musicians, typically made up of vocalists, guitarists, bassists, keyboardists, songwriters, drummers and even producers, who play, record and perform assorted genres including pop, rock and indie of original and cover music. They are often invited to perform for events on and off campus such as DREAMS and Temasek Spectacular, having been recognised for their musical synergy and crowd appeal. They have recently released their first-ever EP album of original music (‘Beginnings’) on Spotify and other major streaming platforms.
-							<br>
-							<br>
+			<td>
+				<p>
+				The Temasek Polytechnic Music Vox (TPMV) is a family of musicians, typically made up of vocalists, guitarists, bassists, keyboardists, songwriters, drummers and even producers, who play, record and perform assorted genres including pop, rock and indie of original and cover music. They are often invited to perform for events on and off campus such as DREAMS and Temasek Spectacular, having been recognised for their musical synergy and crowd appeal. They have recently released their first-ever EP album of original music (‘Beginnings’) on Spotify and other major streaming platforms.
+						<br>
+						<br>
 					</p>
-</td></tr></tbody></table>
+			</td>
+			<td style="width:40%"><img alt="Music Vox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_logo.png"></td>
+		</tr>
+</tbody></table>
+	
+<hr>
+	
+#### Recognitions
 
-### Recognitions
-
-##### Features
+###### Features
 	
 <p>
 	</p><ul>
@@ -34,7 +37,7 @@ description: ""
 	</ul>
 <p></p>
 	
-##### Achievements
+###### Achievements
 	
 <p>
 	</p><ul>
@@ -43,9 +46,11 @@ description: ""
 	</ul>
 <p></p>
 
-### About CCA
+<hr>
 
-##### Training Days
+#### About CCA
+
+###### Training Days
             
 <p>
 	</p><ul>    
@@ -54,7 +59,7 @@ description: ""
 	</ul>
 <p></p>
 
-##### CCA Staff Advisor
+###### CCA Staff Advisor
 
 <p>
 	<a href="mailto:nigeltan@tp.edu.sg"><b>Mr Nigel Tan</b></a>
@@ -62,12 +67,14 @@ description: ""
 	<i>Senior Executive, Student Development &amp; Alumni Association</i>
 </p>
 
-##### Links
+###### Links
 
 <p>
-	CCA <a href="https://www.instagram.com/tpmusicvox">Instagram</a>
-            </p>
-</div>
+	<a href="https://www.instagram.com/tpmusicvox">Instagram</a> <br>
+	<a href="https://linktr.ee/MusicVoxTP">Linktree</a>
+</p>
+
+<hr>
 
 #### Latest Happenings
 
