@@ -62,12 +62,12 @@ description: ""
 ##### CCA Staff Advisor
 
 <p>
-	<a href="mailto:nigeltan@tp.edu.sg"><b>Mr Nigel Tan</b></a>
+	<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
 	<br>
 	<i>Senior Executive, Student Development &amp; Alumni Association</i>
 </p>
 
-##### Linksaa
+##### Pages
 
 <ul>
 	<li><a href="https://www.instagram.com/tpmusicvox">Instagram</a></li>
