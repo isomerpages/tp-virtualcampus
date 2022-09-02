@@ -66,7 +66,7 @@ description: ""
 <p>
     <a href="mailto:aidli_mosbit@tp.edu.sg">Ms Aidli Mosbit</a>
 	<br>
-	<i>Deputy Manager, Student Development & Alumni Association</i>
+	<i>Deputy Manager, Student Development & Alumni Affairs</i>
 </p>
 
 ##### Pages
