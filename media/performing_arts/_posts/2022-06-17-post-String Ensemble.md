@@ -56,7 +56,7 @@ description: ""
 <p>
     <a href="mailto:fayanne_tan@tp.edu.sg">Ms Fayanne Tan</a>
 	<br>
-	<i>Assistant Manager, Student Development & Alumni Association</i>
+	<i>Assistant Manager, Student Development & Alumni Affairs</i>
 </p>
 
 ##### Pages
