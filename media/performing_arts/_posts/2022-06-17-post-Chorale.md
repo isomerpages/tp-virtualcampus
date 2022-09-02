@@ -5,41 +5,78 @@ permalink: /performing-arts/chorale/
 date: 2022-06-17
 description: ""
 ---
-<div>
 <table>
-    <tr>
-        <td style="width:45%"><image src="/images/Arts/Chorale/CHORALE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale"></image></td>
-        <td>
-            <p>
-                The Temasek Polytechnic Chorale performs performs choral and acappella arrangements in traditional as well as contemporary styles. Let the singers bring music to your ears with the human instrument – the voice. TP Chorale is a renowned choir CCA group comprising a diverse group of Sopranos, Altos, Tenors and Basses led by resident conductor, Ms Choy Siew Woon. They are bonded by their strong passion for singing and endeavour to convey their love for choral singing through the specially curated concert repertoire.<br>
-                <br>
-                <b>Features:</b><br>
-                <ul>
-                    <li>Temasek Spectacular (2022)</li>
-                    <li>DREAMS XII (2022)</li>     
-									  <li>EVOS IV: Seed of LIFE {The Sprout} (2022)</li>
-									  <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
-                    <li>Takashimaya Christmas Light-Up (2019)</li>     
-                </ul>
-					 <b>Achievements:</b><br>
-                <ul>
-                    <li>First and Second Prize at Golden Voices at Montserrat, Spain (2016)</li>      
-                </ul>
-            </p>
-            <p>
-                <b>Training Days:</b><br>
-                Tuesday & Thursday, 6.30pm to 9.30pm<br>
-                <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a><br>
-                <br>
-                CCA <a href="https://www.instagram.com/tpchorale">Instagram</a>
-            </p>
-        </td>
-    </tr>
+	<tbody>
+		<tr>
+			<td>
+				<p>
+                    The Temasek Polytechnic Chorale performs performs choral and acappella arrangements in traditional as well as contemporary styles. Let the singers bring music to your ears with the human instrument – the voice. 
+					<br>
+					<br>
+                    TP Chorale is a renowned choir CCA group comprising a diverse group of Sopranos, Altos, Tenors and Basses led by resident conductor, Ms Choy Siew Woon. 
+					<br>
+					<br>
+                    They are bonded by their strong passion for singing and endeavour to convey their love for choral singing through the specially curated concert repertoire.
+                    <br>
+                    <br>
+				</p>
+			</td>
+			<td style="width:40%">
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_logo.png">
+			</td>
+		</tr>
+	</tbody>
 </table>
-</div>
+	
+<hr>
+	
+### Recognitions
 
-#### Latest Happenings
+##### Features
+	
+<ul>
+    <li>Temasek Spectacular (2022)</li>
+    <li>DREAMS XII (2022)</li>     
+    <li>EVOS IV: Seed of LIFE {The Sprout} (2022)</li>
+    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
+    <li>Takashimaya Christmas Light-Up (2019)</li>  
+</ul>
+
+##### Achievements
+	
+<ul>
+    <li>First and Second Prize at Golden Voices at Montserrat, Spain (2016)</li>      
+</ul>
+
+<hr>
+
+### About CCA
+
+##### Training Days
+            
+<ul>    
+    <li>Tuesday & Thursday, 6.30pm to 9.30pm</li>
+</ul>
+
+
+##### CCA Staff Advisor
+
+<p>
+	<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
+	<br>
+	<i>Senior Executive, Student Development & Alumni Association</i>
+</p>
+
+##### Pages
+
+<ul>
+	<li><a href="https://www.instagram.Choralem/tpchorale">Instagram</a></li>
+    <li><a href="linktr.ee/tp.chorale">Linktree</a></li>
+</ul>
+
+<hr>
+
+### Latest Happenings
 
 <table>
     <tr>
@@ -65,4 +102,37 @@ description: ""
             </a>
         </td>
     </tr>
+</table>
+	
+<hr>
+
+### Gallery
+
+<table>
+	<tbody>
+		<tr>
+			<td style="width:50%"><br>
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_1.jpg">
+			</td>
+			<td style="width:50%"><br>
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_2.jpg">
+			</td>
+		</tr>
+		<tr>
+			<td style="width:50%"><br>
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_3.jpg">
+			</td>
+			<td style="width:50%"><br>
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_4.jpg">
+			</td>
+		</tr>
+		<tr>
+			<td style="width:50%"><br>
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_5.jpg">
+			</td>
+			<td style="width:50%"><br>
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_6.jpg">
+			</td>
+		</tr>
+	</tbody>
 </table>
