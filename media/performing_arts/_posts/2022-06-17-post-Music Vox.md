@@ -79,24 +79,26 @@ description: ""
 
 <table>
 	<tr>
-		<td style="width:33%"><br>
+		<td style="width:50%"><br>
 			<image src="/images/Arts/MV/MV_pic_1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
-		<td style="width:33%"><br>
+		<td style="width:50%"><br>
 			<image src="/images/Arts/MV/MV_pic_2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
-		<td style="width:33%"><br>
+	</tr>
+	<tr>
+		<td style="width:50%"><br>
 			<image src="/images/Arts/MV/MV_pic_3.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
-	</tr>
-		<tr>
-		<td style="width:33%"><br>
+		<td style="width:50%"><br>
 			<image src="/images/Arts/MV/MV_pic_4.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
-		<td style="width:33%"><br>
+	</tr>
+	<tr>
+		<td style="width:50%"><br>
 			<image src="/images/Arts/MV/MV_pic_5.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
-		<td style="width:33%"><br>
+		<td style="width:50%"><br>
 			<image src="/images/Arts/MV/MV_pic_6.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox"></image>
 		</td>
 	</tr>
