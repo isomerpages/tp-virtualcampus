@@ -70,7 +70,7 @@ description: ""
 ##### Pages
 
 <ul>
-	<li><a href="https://www.instagram.Choralem/tpchorale">Instagram</a></li>
+	<li><a href="https://www.instagram.com/tpchorale">Instagram</a></li>
     <li><a href="linktr.ee/tp.chorale">Linktree</a></li>
 </ul>
 
