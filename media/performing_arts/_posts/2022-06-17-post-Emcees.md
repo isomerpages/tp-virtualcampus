@@ -58,7 +58,7 @@ description: ""
 </ul>
 
 
-##### CCA Staff Advisor
+##### Staff Advisor
 
 <p>
     <a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
