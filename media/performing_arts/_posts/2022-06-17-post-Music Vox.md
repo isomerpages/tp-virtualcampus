@@ -49,29 +49,29 @@ description: ""
 #### Latest Happenings
 
 <table>
-    <tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeNWR5tJ88z/">
-                <image src="/images/Arts/MV/MV_Audition Results.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
-                <h6 style="margin-top:0%">Audition Results</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc5ADHYP89e/">
-                <image src="/images/Arts/MV/MV_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                </image>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CbaUTZLJwn7/">
-                <image src="/images/Arts/MV/MV_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
-                <h6 style="margin-top:0%">DREAMS XII</h6>    
-                </image>
-            </a>
-        </td>
-    </tr>
+	<tr>
+		<td style="width:33%"><br>
+			<a href="https://www.instagram.com/p/CeNWR5tJ88z/">
+				<image src="/images/Arts/MV/MV_Audition Results.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+				<h6 style="margin-top:0%">Audition Results</h6>
+				</image>
+			</a>
+		</td>
+		<td style="width:33%"><br>
+			<a href="https://www.instagram.com/p/Cc5ADHYP89e/">
+				<image src="/images/Arts/MV/MV_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+				<h6 style="margin-top:0%">CCA Fair 2022</h6>
+				</image>
+			</a>
+		</td>
+		<td style="width:33%"><br>
+			<a href="https://www.instagram.com/p/CbaUTZLJwn7/">
+				<image src="/images/Arts/MV/MV_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Musicvox">
+				<h6 style="margin-top:0%">DREAMS XII</h6>    
+				</image>
+			</a>
+		</td>
+	</tr>
 </table>
 
 #### Gallery
