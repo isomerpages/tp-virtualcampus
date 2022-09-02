@@ -59,7 +59,7 @@ description: ""
 </ul>
 
 
-##### CCA Staff Advisor
+##### Staff Advisor
 
 <p>
 	<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
