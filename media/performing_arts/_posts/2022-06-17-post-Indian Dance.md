@@ -56,11 +56,13 @@ description: ""
 
 ##### Staff Advisor
 
-<p>
-    <a href="mailto:aidli_mosbit@tp.edu.sg">Ms Aidli Mosbit</a>
-	<br>
-	<i>Deputy Manager, Student Development & Alumni Affairs</i>
-</p>
+<ul>
+	<li>
+		<a href="mailto:aidli_mosbit@tp.edu.sg">Ms Aidli Mosbit</a>
+		<br>
+		<i>Deputy Manager, Student Development & Alumni Affairs</i>
+	</li>
+</ul>
 
 ##### Pages
 
