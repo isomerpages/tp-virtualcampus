@@ -123,12 +123,12 @@ description: ""
 				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_3.jpg">
 			</td>
 			<td style="width:50%"><br>
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_4.jpg">
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_4-v2.jpg">
 			</td>
 		</tr>
 		<tr>
 			<td style="width:50%"><br>
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_5.jpg">
+				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_5-v2.jpg">
 			</td>
 			<td style="width:50%"><br>
 				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_6.jpg">
