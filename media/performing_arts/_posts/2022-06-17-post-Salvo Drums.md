@@ -61,11 +61,13 @@ description: ""
 
 ##### Staff Advisor
 
-<p>
+<ul>
+	<li>
     <a href="mailto:fayanne_tan@tp.edu.sg">Ms Fayanne Tan</a>
-	<br>
-	<i>Assistant Manager, Student Development & Alumni Affairs</i>
-</p>
+		<br>
+		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+	</li>
+</ul>
 
 ##### Pages
 
