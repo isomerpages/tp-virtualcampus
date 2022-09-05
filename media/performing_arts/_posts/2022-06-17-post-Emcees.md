@@ -13,7 +13,7 @@ description: ""
                     The Temasek Polytechnic Emcees is a fun and lively community of emcees who provide hosting services to the student body of Temasek Polytechnic.
 					<br>
 					<br>
-                    They assist with the facilitation of events through collaboration with the various Schools, Departments and CCA groups. Parties that they work with include the Arts Groups, P10 & Interest Groups, the academic schools, as well as the Corporate Communications and Student Development and Alumni Affairs departments.                    <br>
+                    They assist with the facilitation of events through collaboration with the various Schools, Departments and CCA groups. Parties that they work with include the Arts Groups, P10 & Interest Groups, the academic schools, as well as the Corporate Communications and Student Development and Alumni Affairs departments. 
                     <br>
                     <br>
                     TP Emcees have hosted a variety of event types, from formal ones to less formal community service events and also multiple online platforms. Come be part of the TP Emcees family if you feel at ease on stage and love meeting crowds of people!
@@ -112,10 +112,10 @@ description: ""
 	<tbody>
 		<tr>
 			<td style="width:50%"><br>
-				<img alt="Emcees" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Emcees/Emcees_pic_1.jpg">
+				<img alt="Emcees" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Emcees/Emcees_pic_1-v2.jpg">
 			</td>
 			<td style="width:50%"><br>
-				<img alt="Emcees" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Emcees/Emcees_pic_2.jpg">
+				<img alt="Emcees" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Emcees/Emcees_pic_2-v2.jpg">
 			</td>
 		</tr>
 		<tr>
