@@ -68,9 +68,11 @@ description: ""
 ##### Staff Advisor
 
 <ul>
-	<li>	<a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
-	<br>
-	<i>Assistant Manager, Student Development & Alumni Affairs</i>
+	<li>
+		<a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
+		<br>
+		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+	</li>
 </ul>
 
 <p>
