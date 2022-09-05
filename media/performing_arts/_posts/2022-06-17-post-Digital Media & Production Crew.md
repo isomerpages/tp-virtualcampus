@@ -35,11 +35,11 @@ description: ""
 ##### Features
 	
 <ul>
+    <li>National Day Concert (2022)</li>
+    <li>Music Vox Afterhours (2022)</li>
     <li>Temasek Spectacular (2022)</li>
     <li>DREAMS XII (2022)</li>
-    <li>TPDE GROOV-ED (2022)</li>
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
-    <li>Temasek Arts Festival – “PLAY” The Series: Experimental Collective (2021)</li>
+    <li>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</li>
 </ul>
 
 ##### Achievements
