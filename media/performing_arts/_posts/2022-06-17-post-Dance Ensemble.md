@@ -75,11 +75,6 @@ description: ""
 	</li>
 </ul>
 
-<p>
-	<a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
-	<br>
-	<i>Assistant Manager, Student Development & Alumni Affairs</i>
-</p>
 
 ##### Pages
 
