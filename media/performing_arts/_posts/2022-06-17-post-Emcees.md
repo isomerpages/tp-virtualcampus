@@ -5,7 +5,7 @@ permalink: /performing-arts/emcees/
 date: 2022-06-17
 description: ""
 ---
-<table>DMPC
+<table>
 	<tbody>
 		<tr>
 			<td>
