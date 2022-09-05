@@ -64,16 +64,19 @@ description: ""
 
 ##### Staff Advisors
 
-<p>
-    <a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
+<ul>
+	<li>
+		<a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
+		<br>
+		<i>Manager, Student Development & Alumni Affairs</i>
+	</li>
 	<br>
-	<i>Manager, Student Development & Alumni Affairs</i>
-    <br>
-    <br>
-    <a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
-	<br>
-	<i>Senior Executive, Student Development & Alumni Affairs</i>
-</p>
+	<li>
+		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
+		<br>
+		<i>Senior Executive, Student Development & Alumni Affairs</i>
+	</li>
+</ul>
 
 ##### Pages
 
