@@ -5,25 +5,6 @@ description: ""
 ---
 <table>
 	<tr>
-		<td style="width:35%">
-			<br>
-			<a href="/events/temasek-lead/lead-events">
-				<img src="/images/Events/Temasek LEAD/LEAD_Summit.png" style="display:block;margin-left:auto;margin-right:auto;">     
-			</a>
-		</td>
-		<td style="width:65%"><br>
-			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;">
-				<h4 style="margin-top:0%">LEAD Summit</h4></a>
-				<h6 style="margin-top:0%"><i>5 - 6 September 2022</i></h6>
-				<p style="margin-top:0%">SG Perspectives: "The Future of Land Transport and Our Social Compact in Singapore".
-				<br>
-				<br>
-					Guest of Honour: Mr S. Iswaran (Minister for Transport &amp; Minister-in-charge of Trade Relations)
-				</p>
-			<br>
-		</td>
-	</tr>
-	<tr>
 		<td style="width:35%"><br>
 			<a href="/events/temasek-lead/lead-events">
 				<img src="/images/Events/Temasek LEAD/LEAD_Heart.png" style="display:block;margin-left:auto;margin-right:auto;">     
