@@ -1,10 +1,10 @@
 ---
 title: DREAMS Series
-permalink: /events/temasek-arts-centre/dreams-series
+permalink: /events/temasek-arts-centre/dreams-series/
 description: ""
 third_nav_title: Temasek Arts Centre
 ---
-### Dreams XII Concert – Back to LIVE
+## Dreams XII Concert – Back to LIVE
 ![Dreams XII Concert](/images/DREAMS XII Poster Square.png)
 
 WE'RE BACK LIVE! 
