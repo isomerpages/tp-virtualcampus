@@ -11,7 +11,14 @@ third_nav_title: Temasek Arts Centre
 ### In-Person with Mediacorp Artistes
 ![](/images/Events/Temasek%20Arts%20Centre/TAC_in_person_mediacorp.png)
 
-TAC will be hosting 3 Mediacorp Artistes to share about their experiences working in the media giant on 20 September, 7-8pm at Black Box Theatre. Registrations are open, sign up now!
+As part of Temasek's Arts Centre's "In-Person" series, we are excited to present the next installment, "In-Person with Mediacorp". Featuring 3 current Mediacorp artistes and one very special guest, this is your chance to engage with contemporary industry practitioners. An evening filled with exciting games & prizes, an honest Q&A session and wonderful door gifts awaits you! Registration is free but limited!
+
+Date: 20 September 2022
+
+Time: 7 - 8pm
+
+Venue: Black Box Theatre (Block 26A, Level 1)
+
 
 ---
 
