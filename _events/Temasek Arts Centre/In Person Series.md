@@ -9,4 +9,14 @@ Temasek Arts Centre's In-Person Series features various talks and activities fro
 ---
 
 ### In-Person with Mediacorp Artistes
+![](/images/Events/Temasek%20Arts%20Centre/TAC_in_person_mediacorp.png)
+
+
+
+---
+
+### In-Person with Mathias Heng
+![](/images/Events/Temasek%20Arts%20Centre/TAC_in_person_mathias_heng.png)
+
+TAC hosted renowned Singaporean photojournalist Mathias Heng to share on his experience documenting the ongoing war in Ukraine, his thought processes, as well as other industry tidbits.
 
