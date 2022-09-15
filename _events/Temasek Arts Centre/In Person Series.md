@@ -9,9 +9,9 @@ third_nav_title: Temasek Arts Centre
 ---
 
 ### In-Person with Mediacorp Artistes
-![](/images/Events/Temasek%20Arts%20Centre/TAC_in_person_mediacorp.png)
+![](/images/Events/Temasek%20Arts%20Centre/In-Person%20with%20Mediacorp%20Artistes%20(1920%20x%201080)%20(4).png)
 
-As part of Temasek's Arts Centre's "In-Person" series, we are excited to present the next installment, "In-Person with Mediacorp". Featuring 3 current Mediacorp artistes and one very special guest, this is your chance to engage with contemporary industry practitioners. An evening filled with exciting games & prizes, an honest Q&A session and wonderful door gifts awaits you! Registration is free but limited!
+As part of Temasek's Arts Centre's "In-Person" series, we are excited to present the next instalment, "In-Person with Mediacorp". Featuring 3 current Mediacorp artistes and one very special guest, this is your chance to engage with contemporary industry practitioners. An evening filled with exciting games & prizes, an honest Q&A session and wonderful door gifts awaits you! Registration is free but limited!
 
 Date: 20 September 2022
 
