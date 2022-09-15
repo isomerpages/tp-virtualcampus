@@ -6,6 +6,22 @@ description: ""
 <table>
 	<tr>
 		<td style="width:35%"><br>
+			<a href="/events/temasek-arts-centre/in-person/">
+				<img src="/images/Events/Temasek Arts Centre/In-Person with Mediacorp Artistes Logo (1080 x 1080).png" style="display:block;margin-left:auto;margin-right:auto;">     
+			</a>
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/temasek-arts-centre/in-person/" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Heart</h4></a>
+			<h6 style="margin-top:0%"><i>20 September 2022</i></h6>
+			<p style="margin-top:0%">
+Featuring popular Mediacorp artistes, this is your chance to engage with contemporary industry practitioners. An evening filled with exciting games & prizes, an honest Q&A session and wonderful door gifts awaits you!
+			<br>
+			<br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td style="width:35%"><br>
 			<a href="/events/temasek-lead/lead-events">
 				<img src="/images/Events/Temasek LEAD/LEAD_Heart.png" style="display:block;margin-left:auto;margin-right:auto;">     
 			</a>
