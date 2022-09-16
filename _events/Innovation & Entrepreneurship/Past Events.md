@@ -7,7 +7,7 @@ third_nav_title: Innovation & Entrepreneurship
 #### Originator Programme 2022 ####
 <div style="text-align: justify">
     <p>
-This 1-month programme allows participants to refine their business ideas, build viable prototypes and pitch for relevant fundings.  If you are interested in the programme, e-mail us to find out more!
+This 1-month programme allows participants to refine their business ideas, build viable prototypes and pitch for relevant fundings.  If you are interested in the programme, <a href="mailto:i&e@tp.edu.sg">e-mail us to find out more!</a>
     </p>
 </div>
 
