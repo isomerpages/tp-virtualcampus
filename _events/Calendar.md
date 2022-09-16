@@ -50,6 +50,21 @@ Featuring popular Mediacorp artistes, this is your chance to engage with contemp
 			</p>
 		</td>
 		</tr>
+	<tr>
+		<td style="width:35%"><br>
+			<a href="/events/innovation-and-entrepreneurship/events/">
+				<img src="/images/Events/I&E/Tik Tok Workshop by Charmaine 28Sep2022.jpeg" style="display:block;margin-left:auto;margin-right:auto;">     
+			</a>
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/innovation-and-entrepreneurship/events/" style="text-decoration: none;"><h4 style="margin-top:0%">1-day workshop on TikTok & Social Media Marketing Strategies</h4></a>
+			<h6 style="margin-top:0%"><i>28 September 2022</i></h6>
+			<p style="margin-top:0%">Are you looking for ways to build up your social media presence?  Join us to gain insights on latest social media marketing strategies and learn how startups and small businesses can benefit from using TikTok.
+				<br>
+				<br>
+			</p>
+		</td>
+		</tr>
 		<tr>
 		<td style="width:35%">
 			<br>
