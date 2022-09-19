@@ -1,4 +1,5 @@
 collections:
   i-and-e:
     output: true
-    order: []
+    order:
+      - Events.md
