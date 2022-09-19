@@ -2,8 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Sports/.keep
-      - Clubs/.keep
       - Calendar.md
       - Highlights/.keep
       - Highlights/SimplyGo! Concession Card.md
@@ -19,6 +17,8 @@ collections:
       - Temasek Arts Centre/In Person Series.md
       - Temasek Arts Centre/Temasek Arts Festival 2021.md
       - Temasek Arts Centre/TP's Film & Media Talents.md
+      - Sports/.keep
+      - Clubs/.keep
       - Temasek LEAD/.keep
       - Temasek LEAD/About LEAD.md
       - Temasek LEAD/LEAD Events.md
