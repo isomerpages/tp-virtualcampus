@@ -2,10 +2,9 @@ collections:
   events:
     output: true
     order:
-      - Sports & Clubs.md
       - Calendar.md
-      - Highlights/National Day Celebration 2022.md
       - Highlights/.keep
+      - Highlights/National Day Celebration 2022.md
       - Highlights/Temasek Service Excellence Awards 2022.md
       - Highlights/CCA Fair 2022.md
       - Highlights/Freshmen Orientation Programme 2022.md
@@ -16,6 +15,7 @@ collections:
       - Temasek Arts Centre/DREAMS Series.md
       - Temasek Arts Centre/In Person Series.md
       - Temasek Arts Centre/Temasek Arts Festival 2021.md
+      - Sports & Clubs.md
       - Temasek LEAD/.keep
       - Temasek LEAD/About LEAD.md
       - Temasek LEAD/LEAD Events.md
