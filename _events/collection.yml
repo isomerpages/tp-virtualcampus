@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Sports & Clubs.md
       - Calendar.md
       - Highlights/National Day Celebration 2022.md
       - Highlights/.keep
