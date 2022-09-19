@@ -13,5 +13,3 @@ Catch Team Temasek at the annual Polytechnic-ITE and Institute-Varsity-Polytechn
 | -------- | -------- |
 |![](/images/Sports/KAYAK%20RACING_POL-ITE%202022.png) | ![](/images/Sports/TOUCH%20FOOTBALL_POL-ITE%20Games%202022.png)|
 | -------- | -------- |
-
-
