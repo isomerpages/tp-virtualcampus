@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Test/.keep
       - Calendar.md
       - Highlights/.keep
       - Highlights/SimplyGo! Concession Card.md
