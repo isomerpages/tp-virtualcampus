@@ -2,10 +2,9 @@ collections:
   events:
     output: true
     order:
-      - Sports & Clubs/.keep
       - Calendar.md
-      - Highlights/SimplyGo! Concession Card.md
       - Highlights/.keep
+      - Highlights/SimplyGo! Concession Card.md
       - Highlights/National Day Celebration 2022.md
       - Highlights/Temasek Service Excellence Awards 2022.md
       - Highlights/CCA Fair 2022.md
@@ -18,6 +17,7 @@ collections:
       - Temasek Arts Centre/In Person Series.md
       - Temasek Arts Centre/Temasek Arts Festival 2021.md
       - Temasek Arts Centre/TP's Film & Media Talents.md
+      - Sports & Clubs/.keep
       - Temasek LEAD/.keep
       - Temasek LEAD/About LEAD.md
       - Temasek LEAD/LEAD Events.md
