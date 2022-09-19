@@ -10,7 +10,6 @@ Join our clubs in walking to donate rice for a good cause! For every 100m walked
 
 
 
-| Column 1 | Column 2 |
+| ![](/images/Events/Clubs/walk_for_rice_1.jpg) | ![](/images/Events/Clubs/walk_for_rice_2.jpg) |
 | -------- | -------- |
-| Text     | Text     |
-
+| ![](/images/Events/Clubs/walk_for_rice_3.jpg) | ![](/images/Events/Clubs/walk_for_rice_4.jpg)  |
