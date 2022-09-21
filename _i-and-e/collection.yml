@@ -1,0 +1,7 @@
+collections:
+  i-and-e:
+    output: true
+    order:
+      - Entrepreneurship Success Stories.md
+      - Past Events.md
+      - Events.md

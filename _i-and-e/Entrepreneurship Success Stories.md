@@ -1,9 +1,9 @@
 ---
 title: Entrepreneurship Success Stories
-permalink: /alumni/entrepreneurship-success-stories
+permalink: /alumni/entrepreneurship-success-stories/
 description: ""
-third_nav_title: Innovation & Entrepreneurship
 ---
+
 
 ### BOLD ###
 <div style="text-align: justify">

@@ -6,6 +6,22 @@ description: ""
 <table>
 	<tr>
 		<td style="width:35%"><br>
+			<a href="/events/temasek-arts-centre/in-person/">
+				<img src="/images/Events/Temasek Arts Centre/In-Person with Mediacorp Artistes Logo (1080 x 1080).png" style="display:block;margin-left:auto;margin-right:auto;">     
+			</a>
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/temasek-arts-centre/in-person/" style="text-decoration: none;"><h4 style="margin-top:0%">In-Person with Mediacorp Artistes</h4></a>
+			<h6 style="margin-top:0%"><i>20 September 2022</i></h6>
+			<p style="margin-top:0%">
+Featuring popular Mediacorp artistes, this is your chance to engage with contemporary industry practitioners. An evening filled with exciting games & prizes, an honest Q&A session and wonderful door gifts awaits you!
+			<br>
+			<br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td style="width:35%"><br>
 			<a href="/events/temasek-lead/lead-events">
 				<img src="/images/Events/Temasek LEAD/LEAD_Heart.png" style="display:block;margin-left:auto;margin-right:auto;">     
 			</a>
@@ -29,6 +45,21 @@ description: ""
 			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Induction</h4></a>
 			<h6 style="margin-top:0%"><i>27 or 28 September 2022</i></h6>
 			<p style="margin-top:0%">The LEAD Induction seeks to welcome new students to the LEAD Programme and provide them with a deeper understanding as to what it takes to become a good LEADer. 
+				<br>
+				<br>
+			</p>
+		</td>
+		</tr>
+	<tr>
+		<td style="width:35%"><br>
+			<a href="/events/innovation-and-entrepreneurship/events/">
+				<img src="/images/Events/I&E/Tik Tok Workshop by Charmaine 28Sep2022.jpeg" style="display:block;margin-left:auto;margin-right:auto;">     
+			</a>
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/innovation-and-entrepreneurship/events/" style="text-decoration: none;"><h4 style="margin-top:0%">1-day workshop on TikTok & Social Media Marketing Strategies</h4></a>
+			<h6 style="margin-top:0%"><i>28 September 2022</i></h6>
+			<p style="margin-top:0%">Are you looking for ways to build up your social media presence?  Join us to gain insights on latest social media marketing strategies and learn how startups and small businesses can benefit from using TikTok.
 				<br>
 				<br>
 			</p>
