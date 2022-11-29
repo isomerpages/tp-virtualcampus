@@ -24,9 +24,35 @@ Services are offered during the POL-ITE and IVP season (AY2022/2023) as follows:
 
 
 
-| | Column 2 |
-| -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
+<table>
+	<tbody>
+		<tr>
+			<td style="width:50%"><br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/physiotherapy_1.jpg">
+				<p><i> Therapeutic Ultrasound to treat ankle injury </i></p>
+			</td>
+			<td style="width:50%"><br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/physiotherapy_2.jpg">
+				<p><i> Neck massage for stiff neck </i></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:50%"><br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/physiotherapy_3.jpg">
+				<p><i> Physiotherapist Trevor doing a shoulder release for a student suffering from shoulder injury </i></p>
+			</td>
+			<td style="width:50%"><br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/physiotherapy_4.jpg">
+				<p><i> Education on home exercises athletes can do </i></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
+<br>
+<Br>
 
+Arrangements for Ice Bath can also be made through your CCA Advisors and are available on a first-come, first-served basis. This is especially useful for teams that are involved in high intensity sports with little recovery time between games.  
+
+![](/images/physiotherapy_5.jpg)
+<p><i>Athletes undergoing an ice bath<i></p>
