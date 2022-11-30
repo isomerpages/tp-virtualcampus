@@ -55,4 +55,4 @@ Services are offered during the POL-ITE and IVP season (AY2022/2023) as follows:
 Arrangements for Ice Bath can also be made through your CCA Advisors and are available on a first-come, first-served basis. This is especially useful for teams that are involved in high intensity sports with little recovery time between games.  
 
 ![](/images/physiotherapy_5.jpg)
-<p><i>Athletes undergoing an ice bath<i></p>
+<p><i>Athletes undergoing an ice bath<i>
