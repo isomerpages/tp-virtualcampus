@@ -8,7 +8,7 @@ As an athlete, getting injured will affect peak performance in competitions and 
 Many of our athletes have benefitted from Mr Trevor Lee, an Allied Health Professional Council (AHPC) certified physiotherapist, and his team. With his vast experience in sports rehabilitation, students were able to increase their range of motion, relieve pain and acquire new knowledge on effective home exercises to accelerate their recovery from injuries.  
 
 Some of the services rendered include: 
-* Acupuncture
+* Dry Needling
 * Education
 * Foam Rolling 
 * Massage
