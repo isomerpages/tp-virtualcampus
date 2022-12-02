@@ -5,78 +5,6 @@ description: ""
 ---
 <table>
 	<tr>
-		<td style="width:35%"><br>
-			<a href="/events/temasek-lead/lead-events">
-				<img src="/images/Events/Temasek LEAD/LEAD_Induction.png" style="display:block;margin-left:auto;margin-right:auto;">     
-			</a>
-		</td>
-		<td style="width:65%"><br>
-			<a href="/events/temasek-lead/lead-events" style="text-decoration: none;"><h4 style="margin-top:0%">LEAD Induction</h4></a>
-			<h6 style="margin-top:0%"><i>27 or 28 September 2022</i></h6>
-			<p style="margin-top:0%">The LEAD Induction seeks to welcome new students to the LEAD Programme and provide them with a deeper understanding as to what it takes to become a good LEADer. 
-				<br>
-				<br>
-			</p>
-		</td>
-		</tr>
-	<tr>
-		<td style="width:35%"><br>
-			<a href="/events/innovation-and-entrepreneurship/events/">
-				<img src="/images/Events/I&E/Tik Tok Workshop by Charmaine 28Sep2022.jpeg" style="display:block;margin-left:auto;margin-right:auto;">     
-			</a>
-		</td>
-		<td style="width:65%"><br>
-			<a href="/events/innovation-and-entrepreneurship/events/" style="text-decoration: none;"><h4 style="margin-top:0%">1-day workshop on TikTok & Social Media Marketing Strategies</h4></a>
-			<h6 style="margin-top:0%"><i>28 September 2022</i></h6>
-			<p style="margin-top:0%">Are you looking for ways to build up your social media presence?  Join us to gain insights on latest social media marketing strategies and learn how startups and small businesses can benefit from using TikTok.
-				<br>
-				<br>
-			</p>
-		</td>
-		</tr>
-		<tr>
-		<td style="width:35%">
-			<br>
-				<img src="/images/Events/Calendar/cal_tapestry_move.png" style="display:block;margin-left:auto;margin-right:auto;">
-		</td>
-		<td style="width:65%"><br>
-				<h4 style="margin-top:0%">Tapestry: Move</h4>
-				<h6 style="margin-top:0%"><i>31 October - 12 November 2022</i></h6>
-				<p style="margin-top:0%">
-					Get ready to MOVE your body as our Arts groups put on a festival filled with dance, beats and lots of fun!
-				</p>
-			<br>
-		</td>
-	</tr>
-	<tr>
-		<td style="width:35%">
-			<br>
-				<img src="/images/Events/Calendar/cal_POLITE.png" style="display:block;margin-left:auto;margin-right:auto;">
-		</td>
-		<td style="width:65%"><br>
-				<h4 style="margin-top:0%">POLITE Season</h4>
-				<h6 style="margin-top:0%"><i>October - November 2022</i></h6>
-				<p style="margin-top:0%">
-					Catch our sports groups competing in the upcoming Polytechnic-ITE (POLITE) games.
-				</p>
-			<br>
-		</td>
-		</tr>
-		<tr>
-		<td style="width:35%">
-			<br>
-				<img src="/images/Events/Calendar/cal_walk_for_rice.png" style="display:block;margin-left:auto;margin-right:auto;">
-		</td>
-		<td style="width:65%"><br>
-				<h4 style="margin-top:0%">Walk for Rice</h4>
-				<h6 style="margin-top:0%"><i>November - December 2022</i></h6>
-				<p style="margin-top:0%">
-					Walk for Rice aims to instil a giving spirit and cultivate a caring culture in Temasek Polytechnic. Come join us in this meaningful cause as we aim to cover mileage to raise donations of rice for our beneficiaries! 
-				</p>
-			<br>
-		</td>
-	</tr>
-	<tr>
 		<td style="width:35%">
 			<br>
 				<img src="/images/Events/Calendar/cal_alumni.png" style="display:block;margin-left:auto;margin-right:auto;">
@@ -113,7 +41,7 @@ description: ""
 		</td>
 		<td style="width:65%"><br>
 				<h4 style="margin-top:0%">Tapestry: Melody</h4>
-				<h6 style="margin-top:0%"><i>16 - 21 January 2023</i></h6>
+				<h6 style="margin-top:0%"><i>January 2023</i></h6>
 				<p style="margin-top:0%">
 					Hear the sounds and explore the cultures of our various musical Arts groups!
 				</p>
