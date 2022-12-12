@@ -8,8 +8,8 @@ description: ""
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Ambassador Recruitment - TP Open House 2023</h4>
-<h5 style="margin-top:0%"><i>Sign-up NOW!</i></h6>
+<h3 style="margin-top:0%">Ambassador Recruitment - TP Open House 2023</h3>
+<h5 style="margin-top:0%"><i>Sign-up NOW!</i></h5>
 
 ‼️MISSED OUT ON OUR PREVIOUS OPEN HOUSE? FRET NOT ‼️
 
