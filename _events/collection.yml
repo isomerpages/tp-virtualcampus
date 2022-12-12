@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - Student Happenings.md
       - Calendar.md
+      - Student Happenings.md
       - Highlights/.keep
       - Highlights/SimplyGo! Concession Card.md
       - Highlights/National Day Celebration 2022.md
