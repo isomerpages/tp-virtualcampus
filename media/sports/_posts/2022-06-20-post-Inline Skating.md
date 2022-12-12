@@ -7,15 +7,15 @@ description: ""
 ---
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Sports/INLINE SKATING.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating"></image></td>
+        <td style="width:45%"><image src="/images/Sports/INLINE SKATING v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating"></image></td>
         <td>
             <p>
                 A pair of skates is portable, versatile and can be used to skate on any hard surface. Inline skating allows freedom of movement and allows the skater to maneuver the body to perform skating movements and tricks. The sport improves balance, and strengthens the upper and lower body muscles.<br>
                 <br>
                 <b>Training Days:</b><br>
-                Tuesday & Friday, 7pm<br>
+                Friday, 6pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:tan_yeuan_huei@tp.edu.sg">Mr Tan Yeuan Huei</a> and <a href="mailto:limap@tp.edu.sg">Ms Celine Clare Lim</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:limap@tp.edu.sg">Ms Celine Clare Lim</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpinlineskate/">Instagram</a><br>
                 <br>
