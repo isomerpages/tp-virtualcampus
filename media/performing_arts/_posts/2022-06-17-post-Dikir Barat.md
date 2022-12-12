@@ -62,9 +62,9 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:aidli_mosbit@tp.edu.sg">Ms Aidli Mosbit</a>
+		<a href="mailto:jasmine_leong@tp.edu.sg">Ms Jasmine Leong</a>
 		<br>
-		<i>Deputy Manager, Student Development & Alumni Affairs</i>
+		<i>Assistant Manager, Student Development & Alumni Affairs</i>
 	</li>
 </ul>
 
