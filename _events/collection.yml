@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Student Happenings.md
       - Calendar.md
       - Highlights/.keep
       - Highlights/SimplyGo! Concession Card.md
