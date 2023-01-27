@@ -18,6 +18,22 @@ description: ""
 			<br>
 		</td>
 	</tr>
+		<tr>
+		<td style="width:35%">
+			<br>
+				<img src="/images/Events/Calendar/cal_oh23.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+		</td>
+		<td style="width:65%"><br>
+				<h4 style="margin-top:0%">Open House 2023</h4>
+				<h6 style="margin-top:0%"><i>5 - 7 January 2023</i></h6>
+				<p style="margin-top:0%">
+Your tomorrow's just a click away!
+					
+Our first ever evening festival promises to be a blast! Chill out at TP’s iconic plaza as you soak up the sights and sounds of our scenic campus. Vibe to live performances and check out amazing pop-up installations. There’ll be lots of gram-worthy yummilicious food from exclusive stalls too! Now that you’ve got your exclusive invite, don’t say we _bo jio_!
+				</p>
+			<br>
+		</td>
+	</tr>
 	<tr>
 		<td style="width:35%">
 			<br>

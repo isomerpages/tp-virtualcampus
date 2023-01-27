@@ -63,9 +63,9 @@ description: ""
 
 <ul>
 	<li>
-    <a href="mailto:aidli_mosbit@tp.edu.sg">Ms Aidli Mosbit</a>
+		<a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
 		<br>
-		<i>Deputy Manager, Student Development & Alumni Affairs</i>
+		<i>Manager, Student Development & Alumni Affairs</i>
 	</li>
 </ul>
 
