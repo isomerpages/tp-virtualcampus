@@ -35,7 +35,7 @@ Prizes to be won!
 https://forms.gle/HdxAtthpXEDboyz39
 
 
-![](/images/Events/Happenings/2022%2012%2008/happenings_oh23.jpg)
+![](/images/Events/Happenings/2023%2002%2010/happenings_tchoukball.jpg)
 
 <hr>
 <br>
@@ -104,7 +104,7 @@ Some key information about BACC is as follows:
 
 More information can be found in the poster below. FAQ can be found on our website. For enquiries, please send them to [bacc@nusiseclub.com](mailto:bacc@nusiseclub.com).
 
-![](/images/Events/Happenings/2022%2012%2008/happenings_adopt.jpg)
+![](/images/Events/Happenings/2023%2002%2010/happenings_businessanalytics.jpg)
 
 <hr>
 <br>
@@ -129,4 +129,4 @@ For any enquiries, feel free to drop us an email at xqrj.tdc@gmail.com.
 Brought to you by National University of Singapore (NUS) King Edward VII Hall
 
 
-![](/images/Events/Happenings/2022%2012%2008/happenings_mental.jpg)
+![](/images/Events/Happenings/2023%2002%2010/happenings_thedream.jpg)
