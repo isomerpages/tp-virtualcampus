@@ -8,71 +8,125 @@ description: ""
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Ambassador Recruitment - TP Open House 2023</h3>
-<h5 style="margin-top:0%"><i>Sign-up NOW!</i></h5>
+<h3 style="margin-top:0%">Tchoukball Workshop: Time to try something  new!</h3>
+<h5 style="margin-top:0%"><i>8 March 2023</i></h5>
 
-‼️MISSED OUT ON OUR PREVIOUS OPEN HOUSE? FRET NOT ‼️
+Do you know that the strange-sounding name of Tchoukball comes from the 'tchouk' sound of the ball hitting the frame of the net! 😱
 
-This year, the Temasek Polytechnic Open House (TPOH) is BACK in 💥FULL SWING 💥and we need YOU, our fellow TP Students, to come onboard our journey of ✨CREATING TOMORROW ✨
+Keen to try and know more about Tchoukball? 🤩
 
-COME JOIN US TODAY as either a PRE-EVENT LOGISTICS HELPER and/or OPEN HOUSE AMBASSADOR! Details in post. 
+TP Sports Club and TP Tchoukball is collaborating to host a Tchoukball Workshop where you can learn how to play the game and take part in a mini match to win prizes! All beginners are welcome☺️
 
-Scan the QR code to access the sign up form! Alternatively, click the link in our bio, or find us at https://forms.office.com/r/hv2PuX7WAa 
+Date: 8 March 2023, Wed
+Time: 10am - 1pm
+Location: Sports Complex (Sports Hall 1)
+Things to bring: Water Bottle, Mask (optional), Towel (optional)
+Attire:* T-Shirt and Shorts with Covered Shoes
 
-SEE YOU AT TPOH 2023 ✨
+Do note that you are strongly encouraged to take an ART 24 hours before the event!
+
+Slots are limited‼️ 
+🔥Seal points &amp; Refreshments for ALL🔥
+Prizes to be won!
+
+*Deadline for Registration:* 5 March 2023, 11.59pm 
+
+‼️Link to sign up‼️ 
+https://forms.gle/HdxAtthpXEDboyz39
+
 
 ![](/images/Events/Happenings/2022%2012%2008/happenings_oh23.jpg)
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Adopt A Block</h3>
-<h5 style="margin-top:0%"><i>05-12 December 2022</i></h5>
+<h3 style="margin-top:0%">Micron NUS-ISE Business Analytics Case Competition 2023</h3>
+<h5 style="margin-top:0%"><i>18 &amp; 25 February 2023</i></h5>
 
-As part of TP’s Corporate Social Responsibility & Community Service efforts, we are partnering with Filos Community Services (Filos) in our third Adopt-a-Block initiative again this festive season. Filos is a not-for-profit social service organisation that focuses on empowering individuals and families to live more fulfilling, meaningful and happier lives.
+The NUS Industrial &amp; Systems Engineering Students’ Club, in collaboration with Micron Technology, organizes the Micron NUS-ISE Business Analytics Case Competition 2023.
 
-We would like to invite students to join us in supporting and making a contribution towards this initiative. We are looking for donations of the following items for families residing at our adopted block in Bedok North. 
--	Canned sardine
--	Canned tuna
--	Kopi-O-Kosong 
--	Milo
--	UHT Milk 
--	Cream crackers
+The competition will challenge participants to real-world problems, allowing them to learn more about industrial and systems engineering and its relevance in various industries. This year, the competition is open to all pre-university students as well as all NUS students. Students from pre-university institutes will compete in the pre-university category.
 
-Period of Collection: 5-9 Dec 2022, 12-13 Dec 2022
+Some key information about BACC is as follows:
 
-Please scan the QR code or click on the image below to access the link for more details and to indicate your intention to donate the above items. 
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:143.25pt"><td style="border:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:143.25pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Dates and Venue</span></p></td><td style="border:solid black 1.0pt;border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:143.25pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><u><span style="color:black">Day 1 - Opening Day + Release of Question:</span></u></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">18 Feb 2023 (Sat), 0900 to 1100</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><u><span style="color:black">Submission deadline for solutions to case question:</span></u></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">19 Feb 2023 (Sun), 2359</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><u><span style="color:black">Announcement of finalists:</span></u></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">23 Feb 2023 (Thurs), 2200</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><u><span style="color:black">Day 2 - Final Day + Presentation by Finalists:</span></u></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">25 Feb 2023 (Sat), 1300 to 1800</span></b></p><p class="MsoNormal">&nbsp;</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">Venue for Day 1:</span></b><span style="color:black"> (Online) by Zoom</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">Venue for Day 2:</span></b><span style="color:black"> (On-site) NUS Campus</span></p></td></tr><tr style="mso-yfti-irow:1;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Participation fees</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><span style="color:black">No fees</span></p></td></tr><tr style="mso-yfti-irow:2;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Prerequisites</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><span style="color:black">No prerequisites required</span></p></td></tr><tr style="mso-yfti-irow:3;height:83.25pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:83.25pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Team Registration</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:83.25pt;
+  overflow:hidden" valign="top"><ul type="disc" style="margin-top:0cm"><li style="color:black;mso-list:l1 level1 lfo1;tab-stops:
+       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
+       &quot;Times New Roman&quot;">Participants are to form teams of 4.</span></li><li style="color:black;mso-list:l1 level1 lfo1;tab-stops:
+       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
+       &quot;Times New Roman&quot;">Each participant can only be in one team.</span></li><li style="color:black;mso-list:l1 level1 lfo1;tab-stops:
+       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
+       &quot;Times New Roman&quot;">Team members do not need to be from the same school.</span></li><li style="color:black;mso-list:l1 level1 lfo1;tab-stops:
+       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
+       &quot;Times New Roman&quot;">Schools can form and send as many teams as they wish.</span></li></ul><p class="MsoNormal">&nbsp;</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><span style="color:black">Register at <a href="https://club-ise-nus-dot-yamm-track.appspot.com/2hZphcoKmpGJeqZ5Gi1g-YFR4PFjtFtSXzjoPryycUnNsjcxOhQHqOWJ1MH7N2lQhkmq4L0JIHHR4ye28-dKdfysMJ2OCiLFKyAJe8OscSokxuqOJWTRD_gVFL3id8V9JViGQaCE0zKZtcDyo67VxkVrke7al6cHUpc-bHB9oqmXB">https://www.nusisebacc.com/</a></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:34.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:34.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Competition Categories</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:34.5pt;
+  overflow:hidden" valign="top"><ul type="disc" style="margin-top:0cm"><li style="color:black;mso-list:l0 level1 lfo2;tab-stops:
+       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
+       &quot;Times New Roman&quot;">Pre-University</span></li><li style="color:black;mso-list:l0 level1 lfo2;tab-stops:
+       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
+       &quot;Times New Roman&quot;">Undergraduates (for NUS students)</span></li></ul></td></tr></tbody></table>
 
-If you have questions, please email :-
--	Dheepthi > dheepthikrishnan.csc@gmail.com : or 
--	Yi Xuan > yixuangoh.csc@gmail.com
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.75pt"><td style="border:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:24.75pt;overflow:hidden" valign="top" colspan="2"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><b><span style="color:black">Prizes for winners (for each category)</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">First Prize</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Cash prize SGD 1,000</span></p></td></tr><tr style="mso-yfti-irow:2;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Second Prize</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Cash prize SGD 800</span></p></td></tr><tr style="mso-yfti-irow:3;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Third Prize</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Cash prize SGD 600</span></p></td></tr><tr style="mso-yfti-irow:4;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Consolation (x2)</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Cash prize SGD 200</span></p></td></tr><tr style="mso-yfti-irow:5;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;overflow:hidden" valign="top" colspan="2"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><b><span style="color:black">Lucky Draw Prizes (held on last day, open to all participants)</span></b></p></td></tr><tr style="mso-yfti-irow:6;height:24.0pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:24.0pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">First</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Secretlab Chair</span></p></td></tr><tr style="mso-yfti-irow:7;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Second</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Marshall Speaker</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Third</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
+  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">AirPods (3rd Gen)</span></p></td></tr></tbody></table>
+
+More information can be found in the poster below. FAQ can be found on our website. For enquiries, please send them to [bacc@nusiseclub.com](mailto:bacc@nusiseclub.com).
 
 ![](/images/Events/Happenings/2022%2012%2008/happenings_adopt.jpg)
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Mental Health Awareness Climbathon</h3>
-<h5 style="margin-top:0%"><i>20 Dec, Tues</i></h5>
+<h3 style="margin-top:0%">25th The Dream Composition Grand Finals Songwriting Competition</h3>
+<h5 style="margin-top:0%"><i>18 February 2023</i></h5>
 
-Hello everyone 😁 are you feeling bored at home and would like to keep fit while engaging in community service? 🤔
+Enjoy music? Want to experience the excitement of a live songwriting competition? Join us at the Grand Finals of 25th 心情溶剂 The Dream Composition!
 
-TP Sports Club presents Mental Health Awareness Climbathon! To raise mental health awareness among TP students and the public, we would like YOU to call your friends to participate together for this event 🏃 💪
+心情溶剂 The Dream Composition is an annual songwriting competition organised by National University of Singapore (NUS) King Edward VII Hall, in collaboration with Touch Music Publishing. 
 
-Event details: 
-Date: 20 December 2022 (Tuesday) 
-Time: 
-•	Session 1 - 10am - 1pm 
-OR
-•	Session 2 - 2pm -5pm 
+Organized by the National University of Singapore’s King Edward VII Hall, XQRJ-TDC is the first and only bilingual songwriting competition organized by NUS, and one of the largest Chinese songwriting competitions in the region. 
 
-Venue: HDB Blocks Opposite TP
+The Grand Finals will be held on 18 February 2023 (Saturday) at 7pm, at the Singapore Cultural Centre (SCCC).
 
-🔥 Seal Points + Drinks & Snacks will be provided 🔥
+Tickets can be purchased at the following link: https://nusfastpay.nus.edu.sg/25TDC .
 
-What to expect? 🧐
-Students in groups of 5 will clock in a minimum distance of 3KM using the Strava App while handing out flyers in the neighbourhood blocks using the stairs only! 😮‍💨
+Visit www.xqrj.com for more details. 
 
-So what are you waiting for? Sign up now and we’ll see you there 🤩
+For any enquiries, feel free to drop us an email at xqrj.tdc@gmail.com.  
+
+Brought to you by National University of Singapore (NUS) King Edward VII Hall
+
 
 ![](/images/Events/Happenings/2022%2012%2008/happenings_mental.jpg)
