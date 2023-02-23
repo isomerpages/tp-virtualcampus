@@ -4,7 +4,7 @@ permalink: /events/Sports/polite-ivp/
 description: ""
 third_nav_title: Sports
 ---
-### Polytechnic-ITE & Institute-Varsity-Polytechnic Games (AY22/23)
+### Polytechnic-ITE &amp; Institute-Varsity-Polytechnic Games (AY22/23)
 
 Heartiest congratulations to our Team Temasek student-athletes, who have done TP proud with their strong and spirited performances at the Polytechnic-ITE (POL-ITE) and Institute-Varsity-Polytechnic (IVP) Games (AY22/23)!
 
@@ -16,7 +16,7 @@ Our student-athletes’ tremendous feat is a testament to the power of teamwork,
 
 Thank you for flying the TP flag high, and for making TP truly a #tphomeofchamps. Onwards and upwards to greater heights, Team Temasek! 
 
-#### POL-ITE Games (AY22/23): Highlights & Results
+#### POL-ITE Games (AY22/23): Highlights &amp; Results
 
 Hats off to our Dragon Boat (Men, Women and Mixed), Rugby, Swimming (Men and Women), Taekwondo and Volleyball (Men and Women) teams, who successfully defended their championship titles. 
 
@@ -24,11 +24,7 @@ Also, our 10-Pin Bowling (Men) and Archery (Men) teams both clinched their first
 
 Here’s our POL-TE Games (AY22/23) medal tally:
 
-•	**15 Golds** – 10-Pin Bowling (Men), Archery (Men), Dragon Boat (Men), Dragon Boat (Women), Dragon Boat (Mixed), Hockey (Men), Kayak Racing (Women), Rugby, Sport Climbing, Swimming (Men), Swimming (Men), Table Tennis (Men), Taekwondo, Volleyball (Men), Volleyball (Women)
-
-•	**8 Silvers** – Badminton (Women), Basketball (Men), Floorball (Men), Floorball (Women), Soccer (Women), Table Tennis (Women), Tchoukball (Women), Tennis (Women)
-
-•	**6 Bronzes** – 10-Pin Bowling (Women), Kayak Racing (Men), Netball, Tennis (Men), Touch Football, Track & Field (Women)
+<table><tbody><tr><td><strong>Gold</strong></td><td><strong>Silver</strong></td><td><strong>Bronze</strong></td></tr><tr><td>10-Pin Bowling (Men)</td><td>Badminton (Women)</td><td>10-Pin Bowling (Women)</td></tr><tr><td>Archery (Men)</td><td>Basketball (Men)</td><td>Kayak Racing (Men)</td></tr><tr><td>Dragon Boat (Men)</td><td>Floorball (Men)</td><td>Netball</td></tr><tr><td>Dragon Boat (Women)</td><td>Floorball (Women)</td><td>Tennis (Men)</td></tr><tr><td>Dragon Boat (Mixed)</td><td>Soccer (Women)</td><td>Touch Football</td></tr><tr><td>Hockey (Men)</td><td>Table Tennis (Women)</td><td>Track &amp; Field (Women)</td></tr><tr><td>Kayak Racing (Women)</td><td>Tchoukball (Women)</td><td><p>&nbsp;</p></td></tr><tr><td>Rugby</td><td>Tennis (Women)</td><td><p>&nbsp;</p></td></tr><tr><td>Sport Climbing</td><td><p>&nbsp;</p></td><td><p>&nbsp;</p></td></tr><tr><td>Swimming (Men)</td><td><p>&nbsp;</p></td><td><p>&nbsp;</p></td></tr><tr><td>Swimming (Women)</td><td><p>&nbsp;</p></td><td><p>&nbsp;</p></td></tr><tr><td>Table Tennis (Men)</td><td><p>&nbsp;</p></td><td><p>&nbsp;</p></td></tr><tr><td>Taekwondo</td><td><p>&nbsp;</p></td><td><p>&nbsp;</p></td></tr><tr><td>Volleyball (Men)</td><td><p>&nbsp;</p></td><td><p>&nbsp;</p></td></tr><tr><td>Volleyball (Women)</td><td><p>&nbsp;</p></td><td><p>&nbsp;</p></td></tr></tbody></table>
 
 
 | ![](/images/Events/Sports/POLITE_1.jpg) | ![](/images/Events/Sports/POLITE_2.jpg)
@@ -39,7 +35,7 @@ Here’s our POL-TE Games (AY22/23) medal tally:
 *(Photo Credit: TP Corporate Communications)*
 
 
-#### IVP Games (AY22/23): Highlights & Results
+#### IVP Games (AY22/23): Highlights &amp; Results
 
 Kudos to our Volleyball Men’s team, who successfully defended their IVP championship title since the last full-fledged games was played in AY19/20. We are so proud of our Bowling Men’s team too, for clinching their first IVP championship title since the sport’s foray into the IVP Games! 
 
@@ -49,11 +45,7 @@ And the icing on the cake? We witnessed our Soccer Women’s and Bowling Women�
 
 Here’s our IVP Games (AY22/23) medal tally:
 
-• **4 Golds** – Bowling (Men), Swimming (Overall), Swimming (Women), Volleyball (Men)
-
-• **3 Silvers** – Soccer (Women), Swimming (Men), Volleyball (Women)
-
-• **1 Bronze** – Bowling (Women)
+<table><tbody><tr><td><strong>Gold</strong></td><td><strong>Silver</strong></td><td><strong>Bronze</strong></td></tr><tr><td>Bowling (Men)</td><td>Soccer (Women)</td><td>Bowling (Women)</td></tr><tr><td>Swimming (Overall)</td><td>Swimming (Men)</td><td><p>&nbsp;</p></td></tr><tr><td>Swimming (Women)</td><td>Volleyball (Women)</td><td><p>&nbsp;</p></td></tr><tr><td>Volleyball (Men)</td><td><p>&nbsp;</p></td></tr></tbody></table>
 
 ![](/images/Events/Sports/IVP_1.jpg)
 
