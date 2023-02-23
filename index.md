@@ -71,7 +71,7 @@ sections:
       description: Congratulations to all our TSEA 2022 recipients! A BIG thank you
         for your amazing dedication, selfless sacrifice and tenacious spirit!
       button: View our Honour roll
-      url: /events/temasek-service-excellence-awards-2022
+      url: /events/temasek-student-excellence-awards-2022
       alt: TSEA2022
   - infopic:
       title: CCA Fair 2022 (26-28 April)
