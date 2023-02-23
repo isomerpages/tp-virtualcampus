@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Polytechnic-ITE & Institute-Varsity-Polytechnic Games
+      subtitle: Infopic Subtitle
+      description: "Hats off to Team Temasek for their achievements at the POL-ITE and
+        IVP Games, and for flying the TP flag high throughout the exciting
+        sports season! "
+      button: VIEW OUR MEDAL TALLY
+      url: /events/sports/polite-ivp
+      image: /images/Home/POL-ITE & IVP.jpeg
+      alt: POLITE & IVP
+  - infopic:
       title: Temasek LEAD Summit
       subtitle: Temasek LEADership Program
       description: 2022's LEAD Summit sees a special segment by Minister of Transport
