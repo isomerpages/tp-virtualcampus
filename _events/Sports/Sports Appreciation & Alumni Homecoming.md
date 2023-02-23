@@ -16,12 +16,10 @@ AY22/23 also marked an exciting sporting calendar for TP, where we finally saw t
  
 Kudos to all our student-athletes for your commitment to sporting excellence, for your fighting spirit even in the face of loss/adversity, and importantly, for demonstrating how humility always leads to greater success!
 
+![](images/Events/Sports/SAAH_1.jpg)
 
+![](images/Events/Sports/SAAH_2.jpg)
 
-| ![](images/Events/Sports/SAAH_1.jpg) | ![](images/Events/Sports/SAAH_2.jpg) |
-| -------- | -------- |
-| ![](images/Events/Sports/SAAH_3.jpg)  | ![](images/Events/Sports/SAAH_4.jpg)    |
+![](images/Events/Sports/SAAH_3.jpg)
 
-
-
-
+![](images/Events/Sports/SAAH_4.jpg)
