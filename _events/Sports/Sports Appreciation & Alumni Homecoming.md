@@ -12,7 +12,7 @@ As a fitting end to the competitive sports season (POL-ITE and IVP Games AY22/23
 
 This special occasion was graced by our Principal & CEO, Mr Peter Lam, with various supporters, partners and stakeholders in attendance. These included our amazing and dedicated sports coaches too, who have been instrumental to TP’s sporting success over the years.
  
-AY22/23 also marked an exciting sporting calendar for TP, where we finally saw the full-scale resumption of the POL-ITE and IVP Games since the COVID-19 pandemic. Refer to this link for the results and highlights of the Games!
+AY22/23 also marked an exciting sporting calendar for TP, where we finally saw the full-scale resumption of the POL-ITE and IVP Games since the COVID-19 pandemic. Refer to [this link](/events/sports/sports-appreciation-alumni-homecoming/) for the results and highlights of the Games!
  
 Kudos to all our student-athletes for your commitment to sporting excellence, for your fighting spirit even in the face of loss/adversity, and importantly, for demonstrating how humility always leads to greater success!
 
