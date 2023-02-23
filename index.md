@@ -27,7 +27,7 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
       title: Polytechnic-ITE & Institute-Varsity-Polytechnic Games
-      subtitle: Infopic Subtitle
+      subtitle: POL-ITE & IVP (AY22/23)
       description: "Hats off to Team Temasek for their achievements at the POL-ITE and
         IVP Games, and for flying the TP flag high throughout the exciting
         sports season! "
@@ -35,6 +35,15 @@ sections:
       url: /events/sports/polite-ivp
       image: /images/Home/POL-ITE & IVP.jpeg
       alt: POLITE & IVP
+  - infopic:
+      title: Sports Appreciation & Alumni Homecoming 2023
+      description: "We celebrated the strength, spirit and accomplishments of our
+        student-athletes – present and past – to mark a fitting end to a
+        fulfilling sports season! "
+      button: Cheer with Team Temasek!
+      url: /events/sports/sports-appreciation-alumni-homecoming
+      image: /images/Home/Sports Appreciation & Alumni Homecoming.jpg
+      alt: Image alt text
   - infopic:
       title: Temasek LEAD Summit
       subtitle: Temasek LEADership Program
@@ -58,11 +67,10 @@ sections:
   - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2022
       subtitle: TSEA 2022
-      image: /images/04) TSEA 2022 Web Banner (1920px by 1080px).jpg
-      description: "Celebrate your students’ contributions, passion and spirit.
-        Inspire them to continue the good fight. Nominate them for the TSEA
-        today! "
-      button: NOMINATE NOW!
+      image: /images/Home/TSEA 2022.jpg
+      description: Congratulations to all our TSEA 2022 recipients! A BIG thank you
+        for your amazing dedication, selfless sacrifice and tenacious spirit!
+      button: View our Honour roll
       url: /events/temasek-service-excellence-awards-2022
       alt: TSEA2022
   - infopic:
@@ -112,46 +120,6 @@ sections:
       url: /events/temasek-arts-centre/dreams-series
       image: /images/DREAMS XII Poster Square.png
       alt: Dream XII Concert
-  - infopic:
-      title: TP Open House 2022
-      subtitle: Create Your Tomorrow with Us
-      description: Catch exciting programmes happening at this year's TP Open House 2022
-      button: Join Here!
-      url: /events/open-house-2022
-      image: /images/BeInvolved-OH-cca.gif
-      alt: TP Open House 2022
-  - infopic:
-      title: 2021 ciNE65 Movie Makers Awards
-      subtitle: AWARDS
-      description: Congratulations to TP Design for winning the 2021 ciNE65
-        Inter-School Challenge Trophy🏆!
-      button: FIND OUT MORE
-      url: /events/tp-film-and-media-talents/
-      image: /images/ciNE65_awards_students.png
-      alt: ciNE65 Movie Makers Awards
-  - infopic:
-      title: TP x NECDC Virtual Challenge
-      subtitle: We are Back!
-      description: Run, Walk or even Cycle with your family and friends
-      button: Sign up here
-      url: /student-wellness/health-and-wellness/tp-necdc-2021
-      image: /images/tpnecdcvc2021.png
-      alt: Virtual Challenge
-  - infopic:
-      title: TP National Day Celebration 2021
-      description: Missed the TP National Day Concert?
-      button: Catch the show here
-      url: /events/national-day-celebration-2021
-      image: /images/BeEntertained-NDCshow1.png
-      alt: National Day Celebration 2021
-  - infopic:
-      title: Temasek Arts Festival 2021
-      subtitle: Concerts Galore
-      image: /images/Infopic-Artsfest2021.png
-      description: The First Ever Temasek Polytechnic's Online Arts Festival!
-      button: Watch These Concerts
-      url: /events/temasek-arts-centre/temasek-arts-festival-2021
-      alt: Artsfest
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
