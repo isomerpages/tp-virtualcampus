@@ -23,3 +23,5 @@ Kudos to all our student-athletes for your commitment to sporting excellence, fo
 ![](images/Events/Sports/SAAH_3.jpg)
 
 ![](images/Events/Sports/SAAH_4.jpg)
+
+*(Photo Credit: TP Corporate Communications, Digital Media & Production Crew)*
