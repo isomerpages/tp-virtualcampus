@@ -16,7 +16,7 @@ In 2022, we honoured 256 students across the Higher Award categories (Individual
 
 Here’s a special video featuring the recipients of our coveted pinnacle awards (Temasek CCA Gold and Silver Awards)! Hear their heartfelt thoughts and the memorable takeaways of their CCA journey, and discover what inspired them to continue the good fight while navigating their ride in TP.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J_8FLT048TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/J_8FLT048TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 To all our students: A BIG thank you for your amazing dedication, sacrifice and spirit, and for your unstinting efforts in making TP a campus that truly throbs with vibrancy all year round. 
 
