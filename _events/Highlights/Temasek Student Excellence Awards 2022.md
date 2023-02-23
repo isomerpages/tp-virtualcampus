@@ -4,20 +4,29 @@ permalink: /events/temasek-student-excellence-awards-2022/
 description: ""
 third_nav_title: Highlights
 ---
-
-
 ### Temasek Student Excellence Awards 2022
 
-The Temasek Student Excellence Awards (TSEA) are presented annually to recognise the inspiring achievements and outstanding contributions of students in non-academic areas, such as the arts, sports, leadership, service, entrepreneurship and character excellence.
+![](/images/Events/Highlights/TSEA%202022.jpg)
 
-2021 has been a continuation of an unprecedented year, when COVID-19 first struck Singapore. However, despite the many curveballs thrown by the pandemic, our students have remained resilient and positive, made significant efforts to keep their CCA groups alive, and devised creative workarounds in ways previously unimaginable. In the process, they were also engaged and exposed to new skills and learning opportunities. 
+Heartiest congratulations to all our recipients of the Temasek Student Excellence Awards (TSEA) 2022!
 
-Do take a moment to uplift your students' spirits, and give them a pat on the back for their amazing dedication, selfless sacrifice and inspiring leadership.
+Organised annually, the TSEA recognises the inspiring achievements and myriad contributions of students in non-academic areas, such as the Arts, Sports, Leadership, Service and Entrepreneurship. 
 
-Nominate them for the TSEA today!
+In 2022, we honoured 256 students across the Higher Award categories (Individual and Group/Team). In addition, 659 CCA Merit Awards (Arts/Sports/ Leadership) and 219 Sports Colours Awards were accorded. On top of these awards, 1 officially-appointed TP coach received the Outstanding Coach Award for his contributions.
 
-**Announcement**  
-Nominations for the TSEA 2022 are now closed. Thank you for your active support in recognising deserving students who have contributed significantly to the vibrancy of our campus! Results will be released by October 2022, so do watch this space for more updates.
+Here’s a special video featuring the recipients of our coveted pinnacle awards (Temasek CCA Gold and Silver Awards)! Hear their heartfelt thoughts and the memorable takeaways of their CCA journey, and discover what inspired them to continue the good fight while navigating their ride in TP.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J_8FLT048TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+To all our students: A BIG thank you for your amazing dedication, sacrifice and spirit, and for your unstinting efforts in making TP a campus that truly throbs with vibrancy all year round. 
+
+TP Oei!
+
+**Check out the TSEA 2022 Roll of Honour here.**
+[](/files/tsea/TSEA%202022%20Awardees.pdf)
+
+
+Nominations for the TSEA 2023 will be open soon. Please watch this space for more updates!
 
 For the full list of Individual Awards and their eligibility criteria, click [here](/files/TSEA%202022%20-%20Individual%20Awards.pdf).  
 
@@ -26,5 +35,3 @@ For the full list of Group/Team Awards and their eligibility criteria, click [he
 Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA%202022%20-%20FAQs.pdf)!
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>
-
-See you next year!
