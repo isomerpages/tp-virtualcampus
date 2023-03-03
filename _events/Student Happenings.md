@@ -40,93 +40,95 @@ https://forms.gle/HdxAtthpXEDboyz39
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Micron NUS-ISE Business Analytics Case Competition 2023</h3>
-<h5 style="margin-top:0%"><i>18 &amp; 25 February 2023</i></h5>
+<h3 style="margin-top:0%">Operating Hours for Sports & Arts Facilities</h3>
+<h5 style="margin-top:0%"><i>6 March 2023</i></h5>
 
-The NUS Industrial &amp; Systems Engineering Students’ Club, in collaboration with Micron Technology, organizes the Micron NUS-ISE Business Analytics Case Competition 2023.
+Dear TP Community, 
 
-The competition will challenge participants to real-world problems, allowing them to learn more about industrial and systems engineering and its relevance in various industries. This year, the competition is open to all pre-university students as well as all NUS students. Students from pre-university institutes will compete in the pre-university category.
+There is an event happening at the Student Gym on 6 March 2023. As such, please be informed that the operating hours for the Student Gym on 6 March 2023 will be from 6:00pm to 9.30pm.  
 
-Some key information about BACC is as follows:
+We apologise for any inconvenience caused. 
+ 
+Thank you.
 
-<table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:143.25pt"><td style="border:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:143.25pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Dates and Venue</span></p></td><td style="border:solid black 1.0pt;border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:143.25pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><u><span style="color:black">Day 1 - Opening Day + Release of Question:</span></u></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">18 Feb 2023 (Sat), 0900 to 1100</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><u><span style="color:black">Submission deadline for solutions to case question:</span></u></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">19 Feb 2023 (Sun), 2359</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><u><span style="color:black">Announcement of finalists:</span></u></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">23 Feb 2023 (Thurs), 2200</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><u><span style="color:black">Day 2 - Final Day + Presentation by Finalists:</span></u></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">25 Feb 2023 (Sat), 1300 to 1800</span></b></p><p class="MsoNormal">&nbsp;</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">Venue for Day 1:</span></b><span style="color:black"> (Online) by Zoom</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><b><span style="color:black">Venue for Day 2:</span></b><span style="color:black"> (On-site) NUS Campus</span></p></td></tr><tr style="mso-yfti-irow:1;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Participation fees</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><span style="color:black">No fees</span></p></td></tr><tr style="mso-yfti-irow:2;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Prerequisites</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><span style="color:black">No prerequisites required</span></p></td></tr><tr style="mso-yfti-irow:3;height:83.25pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:83.25pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Team Registration</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:83.25pt;
-  overflow:hidden" valign="top"><ul type="disc" style="margin-top:0cm"><li style="color:black;mso-list:l1 level1 lfo1;tab-stops:
-       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
-       &quot;Times New Roman&quot;">Participants are to form teams of 4.</span></li><li style="color:black;mso-list:l1 level1 lfo1;tab-stops:
-       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
-       &quot;Times New Roman&quot;">Each participant can only be in one team.</span></li><li style="color:black;mso-list:l1 level1 lfo1;tab-stops:
-       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
-       &quot;Times New Roman&quot;">Team members do not need to be from the same school.</span></li><li style="color:black;mso-list:l1 level1 lfo1;tab-stops:
-       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
-       &quot;Times New Roman&quot;">Schools can form and send as many teams as they wish.</span></li></ul><p class="MsoNormal">&nbsp;</p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:13.5pt"><span style="color:black">Register at <a href="https://club-ise-nus-dot-yamm-track.appspot.com/2hZphcoKmpGJeqZ5Gi1g-YFR4PFjtFtSXzjoPryycUnNsjcxOhQHqOWJ1MH7N2lQhkmq4L0JIHHR4ye28-dKdfysMJ2OCiLFKyAJe8OscSokxuqOJWTRD_gVFL3id8V9JViGQaCE0zKZtcDyo67VxkVrke7al6cHUpc-bHB9oqmXB">https://www.nusisebacc.com/</a></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:34.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:34.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Competition Categories</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:34.5pt;
-  overflow:hidden" valign="top"><ul type="disc" style="margin-top:0cm"><li style="color:black;mso-list:l0 level1 lfo2;tab-stops:
-       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
-       &quot;Times New Roman&quot;">Pre-University</span></li><li style="color:black;mso-list:l0 level1 lfo2;tab-stops:
-       list 36.0pt;vertical-align:baseline" class="MsoNormal"><span style="mso-fareast-font-family:
-       &quot;Times New Roman&quot;">Undergraduates (for NUS students)</span></li></ul></td></tr></tbody></table>
-
-<table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.75pt"><td style="border:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:24.75pt;overflow:hidden" valign="top" colspan="2"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><b><span style="color:black">Prizes for winners (for each category)</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">First Prize</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Cash prize SGD 1,000</span></p></td></tr><tr style="mso-yfti-irow:2;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Second Prize</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Cash prize SGD 800</span></p></td></tr><tr style="mso-yfti-irow:3;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Third Prize</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Cash prize SGD 600</span></p></td></tr><tr style="mso-yfti-irow:4;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Consolation (x2)</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Cash prize SGD 200</span></p></td></tr><tr style="mso-yfti-irow:5;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;overflow:hidden" valign="top" colspan="2"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><b><span style="color:black">Lucky Draw Prizes (held on last day, open to all participants)</span></b></p></td></tr><tr style="mso-yfti-irow:6;height:24.0pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:24.0pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">First</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Secretlab Chair</span></p></td></tr><tr style="mso-yfti-irow:7;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Second</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">Marshall Speaker</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:22.5pt"><td style="border:solid black 1.0pt;border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:22.5pt;overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:4.5pt"><span style="color:black">Third</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
-  border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.5pt;
-  overflow:hidden" valign="top"><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:9.0pt"><span style="color:black">AirPods (3rd Gen)</span></p></td></tr></tbody></table>
-
-More information can be found in the poster below. FAQ can be found on our website. For enquiries, please send them to [bacc@nusiseclub.com](mailto:bacc@nusiseclub.com).
-
-![](/images/Events/Happenings/2023%2002%2010/happenings_businessanalytics.jpg)
+Student Development & Alumni Affairs Department
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">25th The Dream Composition Grand Finals Songwriting Competition</h3>
-<h5 style="margin-top:0%"><i>18 February 2023</i></h5>
+<h3 style="margin-top:0%">Heartware Network - East Coast Sustainable Youth Leadership Development Programme</h3>
+<h5 style="margin-top:0%"><i>Sign-up Now!</i></h5>
 
-Enjoy music? Want to experience the excitement of a live songwriting competition? Join us at the Grand Finals of 25th 心情溶剂 The Dream Composition!
+![](/images/Events/Happenings/2023%2003%2003/heartware.jpg) 
 
-心情溶剂 The Dream Composition is an annual songwriting competition organised by National University of Singapore (NUS) King Edward VII Hall, in collaboration with Touch Music Publishing. 
+We are pleased to share with you this opportunity to develop as a **youth leader** through a newly launched programme by [Heartware Network](https://heartware.org/) (a charitable youth organisation).
 
-Organized by the National University of Singapore’s King Edward VII Hall, XQRJ-TDC is the first and only bilingual songwriting competition organized by NUS, and one of the largest Chinese songwriting competitions in the region. 
+On 12 Nov 2022, Heartware Network launched this programme, in collaboration with the East Coast GRC to develop 1000 youth leaders across 3 years.  There are 3 continuous development pathways provided for the youth - Learner, Builder and Community Champion.
 
-The Grand Finals will be held on 18 February 2023 (Saturday) at 7pm, at the Singapore Cultural Centre (SCCC).
+In 2023, its initiation year, you will begin your journey as a ‘Learner’ by learning more about the community through your initial engagement.
 
-Tickets can be purchased at the following link: https://nusfastpay.nus.edu.sg/25TDC .
+You will be able to gain community awareness, community engagement skills and befriending skills as you uplift the residents and merchants within the East Coast GRC through ground-up initiatives and projects. These projects will fall under the three main categories of Care, Green, and Vibrant.
 
-Visit www.xqrj.com for more details. 
+Join us in this adventure if you are an Eastie, 16 years old and above, interested and ready to **serve the community in the East** from March to Oct 2023. Thank you.
 
-For any enquiries, feel free to drop us an email at xqrj.tdc@gmail.com.  
+For more information / to sign up: [https://www.youthbank.sg/eventdetail/?eventid=994](https://www.youthbank.sg/eventdetail/?eventid=994)
 
-Brought to you by National University of Singapore (NUS) King Edward VII Hall
+<hr>
+<br>
+
+<h3 style="margin-top:0%">TPSC – Stay Afloat!
+Basic water survival skills for non-swimmers
+</h3>
+<h5 style="margin-top:0%"><i>2 March 2023</i></h5>
+
+![](/images/Events/Happenings/2023%2003%2003/afloat.jpg)
 
 
-![](/images/Events/Happenings/2023%2002%2010/happenings_thedream.jpg)
+
+Hey, you. Can you swim? 💦🏊🏼‍♀️🏊🏻🏊🏼‍♀️
+
+According to the World Health Organization (2021), drowning is the third leading cause of unintentional injury death.
+
+We want to change that.
+
+Temasek Polytechnic Sports Club (TPSC) and Swimology is hosting an introductory swim clinic for you and other students who have little or no swimming experience. 
+
+In Stay Afloat!, the experienced coaches from Swimology will teach you basic water survival skills and how to execute several of swimming's fundamental strokes. 🤩
+
+Are you ready to put safety first and prevent the worst? Sign up for Stay Afloat! now!
+
+Details
+
+Date: 22nd March 2023
+
+Time: 9 am - 12 pm
+
+Location: Temasek Polytechnic Swimming Complex (Block 31A)
+
+Attire: Swimming Costume (No bikinis, T-shirts, or shorts. Board or swim shorts are allowed.) and Goggles.
+
+Things to bring: Bag, Water Bottle, Towel, Change of clothes, and Toiletries
+
+‼️Deadline for registration: 18th March 2023, 2359
+
+We hope to see you there! Keep your heads up. Stay Afloat!
+
+‼️ LINK TO SIGN UP:‼️
+
+[https://forms.office.com/r/aRVFUT8SCd](https://forms.office.com/r/aRVFUT8SCd)
+
+<hr>
+<br>
+
+<h3 style="margin-top:0%">Upgrade to SimplyGo Concession</h3>
+<h5 style="margin-top:0%"><i>Now till 30 April 2023</i></h5>
+
+![](/images/Events/Happenings/2023%2003%2003/simplygo.jpg)
+
+Get instant $2 Instant Cashback with SimplyGo Concesssion!
+
+Upgrade to SimplyGo Concession at any ticketing machine and pair it with the EZ-Link app for greater convenience! Head down to any ticketing machine to upgrade your existing Concession card and receive $2 cashback!
+
+[Terms & conditions](https://www.ezlink.com.sg/wordpress/wp-content/uploads/2023/01/Terms-and-Conditions-Next-Trip-on-Us-2-instant-cashback-Final.pdf) apply.
+
+Campaign ends on 30 April 2023. To find out more -  [https://www.ezlink.com.sg/simplygo-concession-cashback/](https://www.ezlink.com.sg/simplygo-concession-cashback/).
