@@ -8,16 +8,23 @@ description: ""
 <div>
     <table>
         <tr>
-            <td style="width:45%"><image src="/images/CCA_green_interest_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group"></image></td>
+            <td style="width:45%"><image src="/images/Interest Groups/TPGIG.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group"></image></td>
             <td>
                 <p>
-                    TP Green Interest Group (TPGIG) is the CCA for students who want to contribute to the environment. The events organised include beach clean-ups, talks and learning journeys — all with the aim of having fun while being involved and responsible for the environment. In addition, TPGIG works in close relation with the TP Eco-Campus Committee to better the environment in our school. Hence, students will have opportunities for their eco-ideas to be implemented in the whole of TP; Young Voices Matter. Remember we have just one home – Earth. Let’s take care of her.<br>
+                    Going Green is not a good-to-have anymore. It is a must-have right now! You and I have a mission to make our Home GREEN. The TP Green Interest Group (TPGIG) was founded in 2009. It aims to raise awareness about Environmental and Animal Conservation and is a CCA for students who wish to contribute to the environment. The events and programmes organised include coastal clean-ups, talks, nature hikes, upcycling art and learning journeys, which are all designed to have fun while encouraging students to be involved in and responsible for the environment. <br><br>
+									In addition, TPGIG works closely with TP’s Eco-Campus Committee to improve our school’s environment. Hence, students will have opportunities for their environmental ideas to be implemented in the whole of TP; Young Voices Matter. Remember, we have just one home – Earth. Let’s take care of her.
+<br>
                     <br>
-                    Come be part of us. Be Green. JOIN TPGIG.
+                    Be part of us. Be Green. Join TPGIG today!
                     <br>
                     <br>
-                    <b>Achievements:</b><br>
-                    In 2019, TPGIG joined the R.I.S.E Champion Network together with organisations such as the National Environment Agency and National Parks Boards.<br>
+                    <b>Past Large-Scale Projects:</b><br>
+                  <ul>
+										<li>Wynist Mass Coastal Clean Up (2022)</li>
+										<li>Eco-conference (2022)</li>
+										<li>Prime Minister’s Chinese New Year Garden Party (2023)</li>
+										<li>Christmas Tree Moments & Adopt-A-Christmas Tree (2021)</li>
+									<br>
                     <br>
                     <b>Meeting Day:</b><br>
                     Event basis<br>
