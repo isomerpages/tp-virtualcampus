@@ -10,12 +10,12 @@ description: ""
         <td style="width:45%"><image src="/images/Sports/SWIMMING.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming"></image></td>
         <td>
             <p>
-                Swimming is the second most popular exercise activity in Singapore and is one of the most popular Olympic sports. Swimming requires the use of one's entire body to move through water. For competition, the swimming events generally consists of butterfly, backstroke, breaststroke, freestyle and individual medley. Swimming is good for physical health as it burns lots of calories, is easy on the joints, supports your weight, builds muscular strength and endurance. TP Swimming teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming Championship annually.<br>
+                Swimming is the second most popular exercise activity in Singapore and is one of the most popular Olympic sports. It requires the use of one's entire body to move through water. For competition, the swimming events generally consists of butterfly, backstroke, breaststroke, freestyle and individual medley. Swimming is good for physical health as it burns lots of calories, is easy on the joints, supports your weight, builds muscular strength and endurance. TP Swimming teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming Championship annually.<br>
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>IVP Games 2020: Bronze (Men’s Team), Gold (Women’s Team) & Silver (Team Overall)</li>
-                    <li>POL-ITE Games 2019: Gold (Men’s Team) & Gold (Women’s Team)</li>
+                    <li>IVP Games 2022: Silver (Men’s Team), Gold (Women’s Team) & Gold (Team Overall)</li>
+                    <li> POL-ITE Games 2022: Gold (Men’s Team) & Gold (Women’s Team)</li>
                 </ul>
             </p>
             <p>
