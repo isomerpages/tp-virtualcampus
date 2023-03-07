@@ -16,12 +16,15 @@ description: ""
                         <li>Raising awareness / advocating for special educational needs (SEN) and disabilities</li>
                         <li>Participating in / organising disability-related events such as the Purple Parade</li>
                         <li>Providing peer support to fellow TP students with SEN</li>
+											<li>Volunteering with external organisations and social service agencies, such as SG Enable and SPD</li>
                      </ul>
                  </p>
                  <p>
-                 Together with the SEN Support Division from Student Support & Career Services, we aim to foster a TP that is inclusive for all – where every TP student, regardless of one’s challenges, is empowered by the support of our SENvocates.<br>
-                    <br>Don’t think of SENvocates as a group, think of us as your buddies!<br>
+                 Together with the SEN Support Division from Student Support & Career Services, we aim to foster a TP that is inclusive for all – where every TP student, regardless of one’s challenges, is empowered by the support of our SENvocates, as well as making a difference to the disabled communities outside of TP.<br>
+									 <br>
+									 If you are keen to join us, do fill in <a href="https://forms.office.com/r/YbbtEBbW2y">this form</a>!
                     <br>
+									 <br>
                     <b>Meeting Day:</b> Event basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Winston_WONG@tp.edu.sg">Mr Winston Wong</a><br>
