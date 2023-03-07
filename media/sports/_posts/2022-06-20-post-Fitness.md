@@ -5,7 +5,6 @@ permalink: /sports/fitness/
 date: 2022-06-20
 description: ""
 ---
-
 <table>
     <tr>
         <td style="width:45%"><image src="/images/Sports/TP FITNESS.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness"></image></td>
@@ -20,7 +19,7 @@ description: ""
                 </ul>
             </p>
             <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:joncsw@tp.edu.sg">Mr Jonathan Chua</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz Amin</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpfitnessofficial">Instagram</a>
             </p>
