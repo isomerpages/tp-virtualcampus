@@ -10,13 +10,10 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    The Temasek Polytechnic Digital Media & Production Crew (DMPC) enables enables all of our performing arts groups to be seen, heard and on stage. Engaging with technical and production management, audio, visual, lighting and staging along with capturing special moments on camera, they make real magic happen.
+The Digital Media & Production Crew (DMPC) enables all of our performing arts groups to be experienced both in-person and via a host of other media formats. Through event organisation, production management and technical support, DMPC brings ideas to life. 
 					<br>
 					<br>
-                    The tight-knit and dedicated group has managed the pivot to digital productions with excellence, whilst eagerly driving the return to live events.  
-					<br>
-					<br>
-                    Members receive training in a multitude of production areas from current industry practitioners, who are passionate about what they do. Along with regular activities, they also organize all scales of events including the exciting annual DREAMS Concert.
+Engaging in audio, lighting, staging, visual media and post-production, the close-knit and dedicated group makes magic happen. Members receive training in a multitude of areas with current industry practitioners, and have abundant opportunites to practice these skills in real-world situations.
                     <br>
                     <br>
 				</p>
@@ -57,8 +54,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Monday, 7pm to 9pm</li>
-    <li>Thursday, 7pm to 9pm</li>
+    <li>Monday & Thursday, 6:30pm to 9:30pm</li>
 </ul>
 
 
