@@ -4,16 +4,27 @@ permalink: /events/ccafair2023/
 description: ""
 third_nav_title: Highlights
 ---
+### CCA Fair 2023
 
-### CCA Fair 2022
+![](/images/Home/CCA%20Fair%202023.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97y57CX73ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Discover your passion. Unleash your creativity. Forge lasting friendships. Indeed, life as a TP student can be as thrilling, colourful and exciting as you want it to be!
+Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count.
 
-If you missed the CCA Fair that was held from **26-28 April 2022**, you may register your interest directly with the Staff Advisors. For those who have signed up for any CCAs, the student leaders of the respective groups will also contact you for trials/auditions in due time.
+Life as a TP student can be as exciting, engaging and empowering as you want it to be! From **26-27 April 2023**, join us to discover the infectious Team Temasek spirit and experience campus vibrancy like never before! Take your pick from the many diverse CCAs offered in TP – ranging from performing arts, sports, adventure, community service to entrepreneurship – and lots more!
 
-Keen to find out more about your dream CCA(s)? Check them out via the links below!
+This year, we are excited to bring back the CCA Fair in a fully physical format. What’s more, you can look forward to electrifying performances by our arts groups to enthrall and entertain you throughout the day!
+
+So, mark the dates for the CCA Fair 2023 now! See you there!
+
+_(Note: Juniors and Seniors are also welcome!)_
+
+
+* **Dates:** 26-27 April 2023
+* **Time:** 10am to 4pm
+* **Venue:** The Plaza (Horseshoe area)
+
+Keen to find out more about our CCAs, Clubs and Interest Groups prior to the event? Check them out via the links below!
 
 <table>
     <tr>
