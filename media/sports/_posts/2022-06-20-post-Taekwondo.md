@@ -18,7 +18,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Tuesday & Thursday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:joncsw@tp.edu.sg">Mr Jonathan Chua</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Tan_Lui_Hua@tp.edu.sg">Mr Tan Lui Hua</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp_taekwondo">Instagram</a>
             </p>
