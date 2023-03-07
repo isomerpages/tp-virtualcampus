@@ -7,7 +7,7 @@ description: ""
 ---
 <table>
     <tr>
-        <td style="width:45%"><image src="/images/Sports/TP FITNESS.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness"></image></td>
+        <td style="width:45%"><image src="/images/Sports/TP FITNESS v2.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Fitness"></image></td>
         <td>
             <p>
                 TP Fitness is a group of students passionate about fitness and health. We engage students to make changes in their lifestyle through exercise and advice on nutrition, host fitness events such as Spartan 300 fitness challenges, and support CCAs in strength and conditioning to prepare them for competitions.<br>
