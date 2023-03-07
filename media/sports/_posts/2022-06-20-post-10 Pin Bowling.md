@@ -14,13 +14,14 @@ description: ""
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>IVP Games 2020: Silver (Men’s Team)</li>
-                    <li>POL-ITE Games 2019: Bronze (Men’s Team) & 4th (Women’s Team)</li>
+                    <li>IVP Games 2022: Gold (Men’s Team) & Bronze (Women’s Team)</li>
+                    <li>POL-ITE Games 2022: Gold (Men’s Team) & Bronze (Women’s Team) 
+</li>
                 </ul>
              </p>
             <p>
                 <b>Training Days:</b><br>
-                Tuesday & Friday, 7pm<br>
+                Tuesday & Wednesday, 8pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:hengnuan@tp.edu.sg">Ms Sheena Wang</a><br>
                 <br>
