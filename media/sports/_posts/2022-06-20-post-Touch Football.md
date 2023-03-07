@@ -10,12 +10,12 @@ description: ""
         <td style="width:45%"><image src="/images/Sports/TOUCH FOOTBALL.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football"></image></td>
         <td>
             <p>
-                Players in touch football do not tackle in the traditional physical way, as in rugby. Instead, players use their hands to touch their opponents on any part of the body, clothing, or the ball. Sometimes, referred to as Touch Rugby, it is a safe and growing sport among young men and women in Singapore. It is easy to learn and generally played with two teams of six on-field players. TP Touch Football team competes in Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Touch Football Games annually.<br>
+                Touch Football, or Touch Rugby as it is sometimes known, is an increasingly popular sport amongst young men and women in Singapore. The game is played with two teams of six players and requires players to use their hands to touch their opponents on any part of the body, clothing or the ball, instead of tackling in the traditional physical way. The rules of the game are simple and straightforward, making it easy to learn and a safe alternative to traditional physical contact sports. Touch Football in TP is only for females and the team competes in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Touch Football Games annually.<br>
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>IVP Games 2020: 4th</li>
-                    <li>POL-ITE Games 2019: Silver</li>
+                    <li>IVP Games 2022: 4th Position</li>
+                    <li>POL-ITE Games 2022: Bronze</li>
                 </ul>
             </p>
             <p>
