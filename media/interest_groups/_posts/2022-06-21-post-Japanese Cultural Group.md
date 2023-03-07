@@ -11,10 +11,10 @@ description: ""
             <td style="width:45%"><image src="/images/CCA_japanese_cultural_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group"></image></td>
             <td>
                 <p>
-                    At the Japanese Cultural Group, we promote Japanese culture and inculcate life skills such as people management and events management, in a fun and interactive way. Our activities are wide and varied in areas such as Anime and Manga, Arts and Entertainment, Cuisine, Publicity and Research. There is certainly something for you with our numerous unique events and weekly sessions.<br>
+                    The Japanese Cultural Group, promotes Japanese culture and inculcate life skills such as people management and events management, in a fun and interactive way. Our activities are broad and varied, ranging from Anime and Manga, Arts and Entertainment, Cuisines to Japanese Language and Cultural Research, E-Xchanges with foreign tertiary institutions in Japan and where possible, a Cultural Immersion Trip to Japan. There is certainly something for you with our numerous unique events and weekly sessions.<br>
                     <br>
                     <b>Highlights:</b><br>
-                    We have partnered these organisations and have been involved in their various events:<br>
+                    We have partnered these organisations and have been involved in their events:<br>
                 </p>
                     <ul>
                         <li>Ishikawa Prefecture Kanazawa Commercial High School, taking part in an e-exchange programme with their students</li>
@@ -22,7 +22,7 @@ description: ""
                         <li>Shizuoka Prefectural Government Representative Office (registered in Singapore), flying drones at the foot of Mt Fuji – remotely in Singapore</li>
                     </ul>
                 <p>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:chanlj@tp.edu.sg">Mr Leslie Chan</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:chanlj@tp.edu.sg">Mr Leslie Chan</a>, <a href="mailto:Nurulhuda_ADANAN@TP.EDU.SG">Ms Nurulhuda Adanan</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpjcg">Instagram</a>
                 </p>
