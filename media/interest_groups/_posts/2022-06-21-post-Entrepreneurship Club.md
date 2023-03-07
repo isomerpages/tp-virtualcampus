@@ -32,7 +32,7 @@ On the fun side of things, the Entrepreneurship Group collaborated with a fellow
                     <li>Regular monthly events for members and sub-committees</li>
                 </ul>
                 <p>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong (Advisor)</a>, <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng (Co-advisor)</a> and <a href="mailto:Alice_LAU-LIM@TP.EDU.SG">Ms Alice Lau (Co-advisor)</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong (Advisor)</a>, <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng (Co-advisor)</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpec.enspire/">Instagram</a>
                 </p>
