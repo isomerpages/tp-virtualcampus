@@ -6,19 +6,19 @@ date: 2022-06-20
 description: ""
 image: ""
 ---
-
 <table>
     <tr>
         <td style="width:45%"><image src="/images/Sports/SPORT CLIMBING.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Climbing"></image></td>
         <td>
             <p>
-                There are three forms of sport climbing – bouldering, lead climbing and speed climbing. The team mainly practices bouldering, which is a form of climbing performed on small rock structures without the use of ropes or harnesses and is mainly conducted indoors. TP Sport Climbing team competes in the Polytechnic-ITE (POL-ITE) Sport Climbing (Bouldering) Championship annually.<br>
+                TP offers an exhilarating and unique opportunity for its students to participate in sport climbing as a CCA. It is an indoor form of rock climbing, which does not require the use of ropes or harnesses, and instead relies on the climbers’ agility and strength. With the help of their coaches, students can learn the art of bouldering and hone their skillset. The TP Sport Climbing team competes in the Polytechnic-ITE (POL-ITE) Sport Climbing (Bouldering) Championship annually, which provides them with the opportunity to showcase their talents and gain the recognition they deserve. 
+<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2019: Gold<br>
+                POL-ITE Games 2022: Gold (Overall)<br>
                 <br>
                 <b>Training Days:</b><br>
-                Tuesday & Thursday, 7pm<br>
+                Monday & Tuesday, 7pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhd Haffiz Amin</a><br>
                 <br>
