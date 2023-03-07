@@ -10,10 +10,10 @@ description: ""
         <td style="width:45%"><image src="/images/Sports/RUGBY.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Rugby"></image></td>
         <td>
             <p>
-                Rugby is a robust, contact sport. The ball is not permitted to be passed forward. Traditionally, the game consists of 15 players per team. In recent years, 7-a-side games are introduced to inject more pace, fun and excitement into the sport. TP Rugby Team competes in the Polytechnic-ITE (POL-ITE) Rugby Games annually.<br>
+                Rugby is an intense and physical sport, requiring its players to be robust and resilient. With the traditional 15-a-side game, the aim is to score more points than the opposition team by carrying, kicking and passing the ball. In recent years, the sport has been injected with more action and exhilaration through the 7-a-side game. Every year, TP Rugby Team competes in the Polytechnic-ITE (POL-ITE) Rugby Games (15s). With its physicality, competitiveness and strategic play, rugby is truly an exhilarating sport to behold.<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2019: Gold<br>
+                POL-ITE Games 2022: Gold<br>
                 <br>
                 <b>Training Days:</b><br>
                 Tuesday & Thursday, 7pm<br>
