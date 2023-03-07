@@ -32,8 +32,9 @@ sections:
         campus count? Check out this exciting event to find out more about the
         diverse CCAs offered in TP!
       button: JOIN IN THE ACTION!
-      url: /events/ccafair2022.jpg
+      url: /events/ccafair2023.jpg
       alt: CCA Fair 2022
+      image: /images/Home/CCA Fair 2023.jpg
   - infopic:
       title: Polytechnic-ITE & Institute-Varsity-Polytechnic Games
       subtitle: POL-ITE & IVP (AY22/23)
