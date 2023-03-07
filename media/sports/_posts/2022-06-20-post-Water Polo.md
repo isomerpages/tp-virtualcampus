@@ -13,7 +13,8 @@ description: ""
                 Water Polo is a physically demanding team water sport played over 4 quarters, consisting of two teams of 6 field players and 1 goalkeeper each. Gameplay involves swimming, handling and passing the ball, and players score by throwing the ball into the goal defended by a goalkeeper. TP Water Polo team competes in the Polytechnic-ITE (POL-ITE) Water Polo Games annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2019: Silver<br>
+                NUS Water Polo Challenge 2022: Bronze
+<br>
                 <br>
                 <b>Training Days:</b><br>
                 Tuesday & Thursday, 6.30pm<br>
