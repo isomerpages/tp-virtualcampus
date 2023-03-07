@@ -30,13 +30,13 @@ Keen to find out more about our CCAs, Clubs and Interest Groups prior to the eve
     <tr>
         <td style="width:50%"><br> 
             <a href="/cca-and-student-groups/performing-arts/">
-                <image src="/images/Buttons/Performing Arts-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
+                <image src="/images/Buttons/Performing Arts v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
                 </image>
             </a>
         </td>
         <td style="width:50%"><br>
             <a href="/cca-and-student-groups/sports/">
-                <image src="/images/Buttons/Sports-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
+                <image src="/images/Buttons/Sports v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
                 </image>
             </a>
         </td>
@@ -44,7 +44,7 @@ Keen to find out more about our CCAs, Clubs and Interest Groups prior to the eve
     <tr>
         <td style="width:50%"><br>
             <a href="/cca-and-student-groups/p10-and-interest-groups/p10-clubs/">
-                <image src="/images/Buttons/P10 & Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
+                <image src="/images/Buttons/P10 & IG v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
                 </image>
             </a>
         </td>
