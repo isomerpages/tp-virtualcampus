@@ -10,7 +10,7 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    The Temasek Polytechnic Fusion Percussion (TPFP) is a highly-spirited group of passionate individuals with a deep interest for percussive music.
+                    Temasek Polytechnic Fusion Percussion (TPFP) is a highly-spirited group of passionate individuals with a deep interest for percussive music.
                     <br>
 					<br>
                     A collective of vibrant, creative and talented drummers come together in an explosive ensemble. Their shows are always exciting and full of energy. Get them to liven up shows and they will deliver the party to your doorstep! 
@@ -35,12 +35,12 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Temasek Spectacular (2022)</li>
-    <li>DREAMS XII (2022)</li>  
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
+    <li>Community Chest Heartstrings Walk (2022)</li>
+    <li>Kaki Bukit Youth Carnival (2022)</li>  
+    <li>Reflections Arts Festival 2022: World Drum Night V (2022)</li>
+    <li>Tampines Changkat CC Golf Tournament & Appreciation Dinner (2022)</li>
     <li>"In-Youthful-Company” @ Esplanade Waterfront (2019)</li>
     <li>Pink Ribbon Walk Breast Cancer Foundation (2019)</li>
-    <li>Sunset Showcase: Jiving Jamboree (2019)</li>
     <li>World Drum Night 4: Even When No One Sees (2018)</li>      
 </ul>
 
