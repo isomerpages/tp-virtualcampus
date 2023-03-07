@@ -13,12 +13,12 @@ description: ""
                 Originating from China, dragon boat racing is a human-powered boat sport. For competitive events, dragon boats are generally rigged with decorative and colorful Chinese dragon heads and tails. In races, there are 18-20 people in a standard boat, and 8-10 in a small boat, excluding steersperson and the drummer. The dragon boat races are the highlight of Week Zero activities in our annual Temasek Polytechnic Regatta. TP Dragon Boat Teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) Dragon Boat Race and external competitions annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2019: Gold (Men’s Team), Silver (Women’s Team) & Gold (Mixed Team)<br>
+                POL-ITE Games 2022: Gold (Men’s Team), Gold (Women’s Team) & Gold (Mixed Team)<br>
                 <br>
                 <b>Training Days:</b><br>
                 Tuesday, 7pm & Saturday, 8am<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:ngqihui@tp.edu.sg">Ms Ng Qihui</a> and <a href="mailto:Charis_WOO@tp.edu.sg">Ms Charis Woo</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Charis_WOO@tp.edu.sg">Ms Charis Woo</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/temasekpolydragonboat/">Instagram</a><br>
                 <br>
