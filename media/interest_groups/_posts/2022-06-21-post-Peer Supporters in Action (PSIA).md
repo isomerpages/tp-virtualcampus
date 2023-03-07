@@ -8,7 +8,7 @@ description: ""
 <div>
     <table>
         <tr>
-            <td style="width:45%"><image src="/images/CCA-TPPIA.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action"></image></td>
+            <td style="width:45%"><image src="/images/Interest Groups/PSiA.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action"></image></td>
             <td>
                 <p>
                     Peer Supporters-in-Action (PSiA) aims to equip students with the knowledge about mental health so that anyone can be a supporter to their fellow peers. PSiA also strives to provide a safe platform for all students to feel comfortable about sharing their stories with one another. Together with the Student Care team from Student Support & Career Services, activities and programmes are carried out to create a friendlier environment in TP and to raise awareness about mental health.<br>
@@ -16,13 +16,14 @@ description: ""
                     Participating students can look forward to the following:<br>
                 </p>
                 <ul>
-                    <li>Anti-bullying Campaign</li>
-                    <li>World Mental Health Week</li>
-                    <li>E-forums</li>
-                    <li>Peer Support Trainings</li>
-                    <li>Friendly Fridays at TP Library Common Space</li>
-                    <li>Collaboration with other interest groups</li>
-                    <li>And many more</li>
+                    <li>Learn peer support skills to better support your friends and loved ones
+</li>
+                    <li>Participate in/organise events, such as Anti-bullying Campaign and World Mental Health Week
+</li>
+                    <li>Make new friends in Friendly Friday sessions
+</li>
+                    <li>Collaborate with other Interest Groups to learn new skills together and expand social circle</li>
+                    <li>And many more!</li>
                 </ul>
                 <p>
                     All students are welcome to join us in this peer support movement!<br>
