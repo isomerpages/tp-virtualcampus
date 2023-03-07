@@ -10,12 +10,15 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    The Temasek Polytechnic Indian Dance Group (IDG) trains in various dance forms, such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance
+                    Temasek Polytechnic Indian Dance Group (IDG) trains in various dance forms, such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance
                     <br>
 					<br>
-                    IDG's members do their own choreography and have been featured at various major events. IDG promotes and showcases its colourful and enthralling dance forms and charming performances, leaving the audience asking for more.
-                    <br>
-                    <br>
+					Under the guidance of Mrs Premela Balakrishnan, Director of Rudram Arts, TPIDG has been featured in both school performances and various external performances, such as the 2022 Lisha Women’s Wing 10th Anniversary Celebrations: 200th Event, where President Halimah Yacob was the Guest of Honour. 
+					<br>
+					<br>
+Besides promoting and showcasing the colourful and enthralling Indian Dance forms through their charming performances, TPIDG also aims to provide a space to forge new friendships and encourage individual development of good values, which will remain in members throughout their future endeavours.
+<br>
+					<br>
 				</p>
 			</td>
 			<td style="width:40%">
@@ -32,14 +35,19 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Temasek Spectacular (2022)</li>
-    <li>DREAMS XII (2022)</li>  
-    <li>Temasek Arts Festival – Dwi-Rasa: Aariyire (2021)</li>
-    <li>TP National Day Celebrations Concert (Collaboration with Malay Dance Group, 2020)</li>
-    <li>Pongal Celebration for Indian Heritage Centre (2020)</li>
-    <li>Avidya (2019)</li>
-    <li>Kalinga (2019)</li>
-    <li>Sunset Showcase: Move It (2019)</li>  
+    <li>21st IUFoST World Congress of Food Science & Technology: Gala Dinner (2022)</li>
+    <li>Lisha Women’s Wing 10th Anniversary Celebrations: 200th Event (GOH: President Halimah Yacob, 2022)</li>  
+    <li>Staff Appreciation Day (2022)</li>
+    <li>Tapestry Move (2022)</li>
+    <li>Tapestry Move: Lit! Concert (Organised by TPIDG, 2022)</li>
+    <li>Cultural Museum (2022)</li>
+    <li>NUS Tamil Language Society Production (2022)
+</li>
+    <li>International Day for Older Persons Virtual Celebration with RSVP Singapore (2021)</li>  
+	<li>TP National Day Celebrations Concert (2021)</li>
+	<li>Temasek Arts Festival - Dwi-Rasa: Aaruyire (2021)</li>
+	<li>Electric Dreams (2020)</li>
+	<li>Sunset Showcase: Move It (2019)</li>
 </ul>
 
 <hr>
@@ -49,7 +57,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Wednesday & Friday, 6pm to 9pm (On-campus/Online)</li>
+    <li>Tuesday & Friday, 6pm to 9pm (On Campus)</li>
     <li>Additional training days, nearing show day</li>
 </ul>
 
