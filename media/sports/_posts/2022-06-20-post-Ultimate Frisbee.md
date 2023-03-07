@@ -20,7 +20,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Tuesday & Friday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:echok@tp.edu.sg">Ms Esther Chok</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Nur_Soleha_KAMAL@tp.edu.sg">Ms Nur Soleha Kamal</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp_ultimate">Instagram</a>
             </p>
