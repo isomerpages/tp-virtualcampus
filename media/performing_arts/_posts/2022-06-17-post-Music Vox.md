@@ -10,10 +10,10 @@ description: ""
 		<tr>
 			<td>
 				<p>
-				The Temasek Polytechnic Music Vox (TPMV) is a family of musicians, typically made up of vocalists, guitarists, bassists, keyboardists, songwriters, drummers and even producers, who play, record and perform assorted genres including pop, rock and indie of original and cover music. 
+				TP Music Vox (TPMV) is a family of musicians, typically made up of vocalists, guitarists, bassists, keyboardists, songwriters, drummers and even producers, who play, record and perform assorted genres including pop, rock and indie of original and cover music. 
 					<br>
 					<br>
-					They are often invited to perform for events on and off campus such as DREAMS and Temasek Spectacular, having been recognised for their musical synergy and crowd appeal. They have recently released their first-ever EP album of original music (‘Beginnings’) on Spotify and other major streaming platforms.
+					They are often invited to perform for events on and off campus such as Esplanade's "In Youthful Company" and Temasek Spectacular, having been recognised for their musical synergy and crowd appeal. They have released their EP and LP albums of original music, titled ‘Beginnings’ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.
 					<br>
 					<br>
 				</p>
@@ -32,21 +32,19 @@ description: ""
 ##### Features
 	
 <ul>
-	<li>Temasek Spectacular (2022)</li>
-	<li>DREAMS XII (2022)</li>
-	<li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
-	<li>Temasek Arts Festival – Music Vox Virtual Annual Concert: Beginnings (2021)</li>  
-	<li>'Beginnings' EP Launch on Spotify (2021)</li>
+	<li>MOE Media Appreciation Dinner (2022)</li>
+	<li>Backstage Pass with Music & Drama Company on Power98 Love Songs (2022)</li>
+	<li>'Full Bloom' LP Launch on Spotify (2022)</li>
+	<li>‘Beginnings’ EP Launch on Spotify (2021)</li>  
 	<li>National Day Observance Ceremony at the MOE HQ (2019)</li>
 	<li>“In Youthful Company” at The Esplanade Outdoor Theatre (2018)</li>
-	<li>Community Chest 35th Anniversary Celebration Ceremony (2018)</li>
 </ul>
 
 	
 ##### Achievements
 	
 <ul>
-	<li>Awarded Temasek Polytechnic’s Arts Excellence Award (2019 &amp; 2020)</li>
+	<li>Awarded Temasek Polytechnic’s Arts Group Excellence Award (2019 &amp; 2020)</li>
 	<li>Awarded Temasek Polytechnic's Arts Group of the Year Award (2016)</li>
 </ul>
 
@@ -57,7 +55,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-	<li>Daily Sectional Training, 6.30pm to 9pm</li>
+	<li>Sectional Training (Once weekly or fortnightly), 6.30pm to 9pm</li>
 	<li>Rehearsal Jamming (Daily, subject to upcoming performances/recording)</li>
 </ul>
 

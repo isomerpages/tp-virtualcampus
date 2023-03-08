@@ -15,7 +15,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Lye_Khim_Fatt@tp.edu.sg">Mr Lye Khim Fatt</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz Amin</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp_karate/">Instagram</a><br>
                 <br>

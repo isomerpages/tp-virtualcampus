@@ -8,13 +8,13 @@ description: ""
 <div>
     <table>
         <tr>
-            <td style="width:45%"><image src="/images/CCA-Lead_Ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors"></image></td>
+            <td style="width:45%"><image src="/images/Interest Groups/LEAD Ambassadors.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors"></image></td>
             <td>
                 <p>
                     LEAD Ambassadors aims to provide various platforms for students under the Temasek LEADership Programme (Temasek LEAD) to lead, serve, contribute and share knowledge. Members value-add to the LEAD community through the organising of meaningful and impactful programmes. Besides these, the group provides learning opportunities and experiences for LEAD students, while assisting and supporting the Centre for Character & Leadership Education (CCLE) in the organising of LEAD programmes. Members also coordinate with LEAD Alumni on possible collaborations to benefit the LEAD community.
                 </p>
                 <p>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:CHOY_Wai_Fann@TP.EDU.SG">Ms Choy Wai Fann</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Farhan_BIN_KAMIS@tp.edu.sg">Mr Farhan Kamis</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tp.lead/">Instagram</a>
                 </p>

@@ -14,15 +14,15 @@ description: ""
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>IVP Games 2020: Bronze</li>
-                    <li>POL-ITE Games 2019: Gold</li>
+                    <li>IVP Games 2022: 4th Position</li>
+                    <li>POL-ITE Games 2022: Bronze</li>
                 </ul>
             </p>
             <p>
                 <b>Training Days:</b><br>
                 Tuesday & Thursday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:echok@tp.edu.sg">Ms Esther Chok</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Nur_Soleha_KAMAL@tp.edu.sg">Ms Nur Soleha Kamal</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpnetball_">Instagram</a>
             </p>

@@ -10,10 +10,10 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    The Temasek Polytechnic Malay Dance Group is also called Kesenian Si Anak Tari (Seni Nak Tari or SNT). SNT takes pride in promoting the arts and providing high-quality traditional and contemporary performances. 
+                    TP Malay Dance Group, also called Kesenian Si Anak Tari (Seni Nak Tari or SNT), takes pride in promoting the arts and providing high-quality traditional and contemporary performances. 
                     <br>
 					<br>
-                    Featuring both traditional and contemporary styles, SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various genres portrayed.
+                    Featuring genres such as Inang and Zapin SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various styles portrayed.
                     <br>
                     <br>
 				</p>
@@ -32,14 +32,12 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Temasek Spectacular (2022)</li>
-    <li>DREAMS XII (2022)</li>
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>  
-    <li>Temasek Arts Festival - Dwi-Rasa: Berkebaya Biru (2021)</li>
+    <li>DREAMS XII - Back to LIVE! (2022)</li>
+    <li>Tapestry: MOVE (2022)</li>
+    <li>Temasek Arts Festival – Dwi-Rasa: Berkebaya Biru (2021)</li>  
+    <li>Ekspresi (2021)</li>
     <li>TP Concert Champion (2019)</li>
     <li>Pesta Raya @ Esplanade (2019)</li>
-    <li>Bangsawan Tajul Gaspar @ OTH (2019)</li>
-    <li>Champion for Persada Juara Tari (2018)</li>
 </ul>
 
 ##### Achievements

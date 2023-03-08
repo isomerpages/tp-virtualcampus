@@ -13,7 +13,7 @@ description: ""
                     The Temasek Polytechnic Chorale performs performs choral and acappella arrangements in traditional as well as contemporary styles. Let the singers bring music to your ears with the human instrument – the voice. 
 					<br>
 					<br>
-                    TP Chorale is a renowned choir CCA group comprising a diverse group of Sopranos, Altos, Tenors and Basses led by resident conductor, Ms Choy Siew Woon. 
+                    TP Chorale is a renowned choir CCA group comprising a diverse group of Sopranos, Altos, Tenors and Basses, led by resident conductor, Ms Choy Siew Woon. 
 					<br>
 					<br>
                     They are bonded by their strong passion for singing and endeavour to convey their love for choral singing through the specially curated concert repertoire.
@@ -35,11 +35,13 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Temasek Spectacular (2022)</li>
-    <li>DREAMS XII (2022)</li>     
-    <li>EVOS IV: Seed of LIFE {The Sprout} (2022)</li>
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
-    <li>Takashimaya Christmas Light-Up (2019)</li>  
+    <li>Tapestry: MELODY Music Festival - EVOS VII - Reflection (2023)</li>
+    <li>A Renaissance by Singapore Lyric Opera Youth Chorus (2022)
+</li>     
+    <li> Community Chest Christmas On A Great Street Light-Up Ceremony (2022)</li>
+    <li> North East Community Give Back Golf & Appreciation Dinner (2022)</li>
+    <li>Temasek Polytechnic National Day Virtual Concert (2021)
+</li>  
 </ul>
 
 ##### Achievements

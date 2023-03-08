@@ -12,9 +12,6 @@ description: ""
             <p>
                 Lifesaving is a unique sport, where the skills are developed primarily for humanitarian purposes and applied for competition. The sport provides a platform for lifeguards to come together to develop their skills in drowning prevention and attending to water-related injuries. It involves a myriad of simulated scenarios such as swimming to a submerged manikin, bringing the manikin to the surface and swimming to the edge of the pool. To get involved in the sport, a person needs a Bronze Medallion certification.<br>
                 <br>
-                <b>Achievements:</b><br>
-                42nd National Lifesaving Championships: Gold<br>
-                <br>
                 <b>Training Days:</b><br>
                 Monday, 6.30pm<br>
                 <br>

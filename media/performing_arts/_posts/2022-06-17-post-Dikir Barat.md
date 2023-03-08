@@ -10,10 +10,10 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    The Temasek Polytechnic Dikir Barat (TPDK) performs a vibrant traditional Malay art form that involves 15 or more people doing responsorial singing, led by a couple of lead singers and accompanied by Malay percussions. It is a traditional art form anchored in the use of poetry and creative lyrics.
+                    Temasek Polytechnic Dikir Barat (TPDK) is a vibrant traditional Malay art form that involves 15 or more people doing responsorial singing, led by a couple of lead singers and accompanied by Malay percussions. It is a traditional art form anchored in the use of poetry and creative lyrics.
 					<br>
 					<br>
-                    TPDK takes part in numerous high-level, poly-wide and external public performances. TPDK has won multiple awards at the annual national competitions such as "Piala Suara Serumpun" (Cluster of Voices Trophy).
+                    TPDK takes part in numerous high-level, poly-wide and external public performances. TPDK has won multiple awards at the annual national competitions, such as "Piala Suara Serumpun" (Cluster of Voices Trophy).
                     <br>
                     <br>
 				</p>

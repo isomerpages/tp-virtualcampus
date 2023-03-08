@@ -14,15 +14,14 @@ description: ""
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>IVP Games 2020: 4th (Team Overall)</li>
-                    <li>POL-ITE Games 2019: Silver (Men’s) & 4th (Women’s)</li>
+                    <li>POL-ITE Games 2022: 5th Position (Men's Team) & Bronze (Women’s Team)</li>
                 </ul>
             </p>
             <p>
                 <b>Training Days:</b><br>
                 Monday & Wednesday, 6.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:darrent@tp.edu.sg">Mr Darren Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Tan_Lui_Hua@tp.edu.sg">Mr Tan Lui Hua</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tptrackfield">Instagram</a>
             </p>

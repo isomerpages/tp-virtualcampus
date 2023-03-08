@@ -10,10 +10,10 @@ description: ""
         <td style="width:45%"><image src="/images/Sports/SILAT.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Silat"></image></td>
         <td>
             <p>
-                Silat is an indigenous martial arts form that is widely practiced in Southeast Asia. Often known as Pencak Silat, the focus of the martial art is on a combination of strikes and joint manipulation. Pencak Silat was recently recognised by UNESCO as an intangible cultural heritage. TP Silat team competes in external competitions annually.<br>
+                Silat is an ancient form of martial arts originating from Southeast Asia. It is an impressive performance that combines powerful strikes with intricate joint manipulation techniques. Recently, UNESCO has recognised Silat as an important part of the intangible cultural heritage of the region. The TP Silat team is proud to represent this cherished martial art annually in external competitions, most notably the IVP Silat competition organised by the Singapore Silat Federation, in both the Seni and Tanding categories.<br>
                 <br>
                 <b>Training Days:</b><br>
-                Monday & Wednesday, 7pm<br>
+                Wednesday, 7pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:Azman_MOHAMED@TP.EDU.SG">Mr Azman Mohamed</a><br>
                 <br>

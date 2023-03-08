@@ -13,9 +13,9 @@ description: ""
                 Aikido is a modern Japanese martial art that was developed for defence while minimising injury for the attacker. Aikido techniques use the attacker’s momentum and turn them into various throws or joint locks.<br>
                 <br>
                 <b>Training Days:</b><br>
-                Thursday, 7pm<br>
+                Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Azman_MOHAMED@TP.EDU.SG">Mr Azman Mohamed</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz Amin</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpaikido/">Instagram</a><br>
                 <br>

@@ -14,8 +14,8 @@ description: ""
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>S R Nathan Soccer Challenge Trophy 2020: Gold (Men’s Team) & 4th (Women’s Team)</li>
-                    <li>POL-ITE Games 2019: Gold (Men’s Team) & Bronze (Women’s Team)</li>
+                    <li>S R Nathan Soccer Challenge Trophy 2022: Silver (Women’s Team)</li>
+                    <li>POL-ITE Games 2022: 5th Position (Men's Team) & Silver (Women’s Team) </li>
                 </ul>
             </p>
             <p>

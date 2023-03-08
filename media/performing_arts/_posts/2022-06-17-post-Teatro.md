@@ -10,13 +10,7 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    Teatro, which means Theatre in Spanish, is a conglomerate of TP's English and Malay drama groups. 
-                    <br>
-					<br>
-                    The Temasek Polytechnic Teatro engages their audience their audience with high quality skits and staged productions. Being one of the most versatile groups, Teatro scripts and stages drama according to the occasion, fusing various art forms to engage the audiences.
-                    <br>
-                    <br>
-                    Teatro stages theatre performances every year. Keep a look out for their exciting theatrical productions at the TP's very own Black Box Theatre!
+                    Teatro, meaning Theatre in Spanish, is made up of a diverse collective of students who share a passion for performance, drama and ideation. Through high quality "live" productions, filmed scrips and concert narratives, Teatro is always seeking to explore the unknown and push the boundaries of creativity. 
                     <br>
                     <br>
 				</p>
@@ -35,10 +29,8 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Temasek Spectacular (2022)</li>
-    <li>DREAMS XII (2022)</li>
-    <li>"Temasek Polytechnic National Day Virtual Concert (2021)</li>
-    <li>Temasek Arts Festival – Teatrofest 2021: “The Garden”, “Genesis” & “The Red Thread” (Online Triple-bill, 2021)</li>
+    <li>TP National Day Concert 2022 (Creative Direction)</li>
+    <li>"TeatroFest AY2020/21" (Online Triple-bill)</li>
     <li>"The Lift" (2019)</li>
     <li>"Those Who Can't, Teach" (2019)</li>
     <li>"Tujuh" (original devised play, 2019)</li>
