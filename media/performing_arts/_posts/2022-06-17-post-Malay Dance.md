@@ -54,7 +54,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Monday & Tuesday, 6pm to 9pm (On-campus)</li>
+    <li>Monday & Wednesday, 6pm to 9pm (On-campus)</li>
 </ul>
 
 
