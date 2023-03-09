@@ -33,7 +33,7 @@ sections:
         diverse CCAs offered in TP!
       button: JOIN IN THE ACTION!
       url: /events/ccafair2023.jpg
-      alt: CCA Fair 2022
+      alt: CCA Fair 2023
       image: /images/Home/CCA Fair 2023.jpg
   - infopic:
       title: Polytechnic-ITE & Institute-Varsity-Polytechnic Games
