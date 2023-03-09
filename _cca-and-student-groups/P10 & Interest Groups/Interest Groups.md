@@ -155,8 +155,6 @@ third_nav_title: P10 & Interest Groups
                     </image>
                 </a>
             </td>
-        </tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="/interest-groups/visual-arts-and-writing-club/" style="text-decoration: none">
                     <image src="/images/Interest Groups/VAWC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts & Writing Club">
