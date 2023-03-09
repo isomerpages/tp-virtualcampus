@@ -15,14 +15,14 @@ description: ""
                 <b>Achievements:</b><br>
                 <ul>
                     <li>IVP Games 2020: 4th (Men’s Team)</li>
-                    <li>POL-ITE Games 2019: Silver (Men’s Team) & Bronze (Women’s Team)</li>
+                    <li>POL-ITE Games 2022: Silver (Men’s Team) & 5th Position (Women's Team)</li>
                 </ul>
             </p>
             <p>
                 <b>Training Days:</b><br>
                 Monday & Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:joncsw@tp.edu.sg">Mr Jonathan Chua</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Darren_Tan@tp.edu.sg">Mr Darren Tan</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/temasekpoly_basketball/">Instagram</a><br>
                 <br>
