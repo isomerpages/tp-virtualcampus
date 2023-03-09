@@ -11,17 +11,13 @@ description: ""
             <td style="width:45%"><image src="/images/CCA_csc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Community Service Club"></image></td>
             <td>
                 <p>
-                    "A Caring Heart & Volunteering Spirit" is the motto that the TP Community Service Club (CSC) abides by. The CSC aims to instil the spirit of volunteerism in TP students and build a strong base of volunteers to serve the community. CSC runs both long-term and ad-hoc events across the following sectors: Eldercare, Children & Family Services, Special Needs and Other Special Causes. If you have a heart for the community and want to pay it forward, come join TP CSC as a member now!<br>
-                    <br>
-                    <b>Achievements:</b><br>
-                    <br>TP CSC had previously won the Constituent Club of the Year consecutively for at least five years. Its members had also won the Community Excellence Awards in recent years.<br>
+                    "A Caring Heart & Volunteering Spirit" is the motto that guides the purpose of activities initiated by the TP Community Service Club (CSC). TPCSC aims to instil the spirit of volunteerism in TP students and build a strong base of volunteers to serve the community. CSC runs both long-term and ad-hoc events across the following sectors: Eldercare, Children & Family Services, Special Needs and Other Special Causes. If you have a heart for the community and want to pay it forward, come join TP CSC as a member now!<br>
                     <br>
                     <b>Meeting Day:</b> Event Basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Qihui@tp.edu.sg">Ms Ng Qihui</a> <br>
+                    <b>CCA Staff Advisors:</b> <a href="mailto:Zara_CHOO@tp.edu.sg">Ms Zara Choo</a>,  <a href="mailto:NG_Qihui@tp.edu.sg">Ms Ng Qihui</a> <br>
                     <br>
-                    <b>CSC Email:</b> <a href="mailto:csc@student.tp.edu.sg">CSC Email</a><br>
-                    <br>
+                    CSC <a href="mailto:csc@student.tp.edu.sg">Email</a><br>
                     CCA <a href="https://www.instagram.com/tp_csc">Instagram</a>
                 </p>
             </td>
