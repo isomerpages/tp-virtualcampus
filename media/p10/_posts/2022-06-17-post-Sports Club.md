@@ -11,7 +11,11 @@ description: ""
             <td style="width:45%"><image src="/images/CCA_sc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club"></image></td>
             <td>
                 <p>
-                    Temasek Polytechnic Sports Club (TPSC) is a non-academic constituent club in TP that is committed to promoting a vibrant campus, a healthy lifestyle and community bonding through a wide array of physical activities. It is an inclusive club that believes in empowerment through activities that are specially curated by club members. TPSC’s flagship programmes include the Sports & Health Carnival and Cross-Country. Virtual events and workout sessions are also introduced to keep TP students engaged and safe during the pandemic. Other activities organised by TPSC include the Mental Health Awareness Climbathon that promotes mental wellness among the TP community, and the Scholarships & Admissions Webinar with SMU for TP sports athletes.<br>
+                    Temasek Polytechnic Sports Club (TPSC) is a non-academic constituent club in TP that is committed to bringing about a vibrant campus, a healthy lifestyle and community bonding through a wide array of physical activities. TPSC believes in inclusivity and aims to empower students through activities specially curated by the club. <br><br>
+									A notable event organised by TPSC in AY2022/2023 was the National Day Sports Carnival to celebrate National Day through group activities, in line with the theme "Stronger Together, Majulah!". Another event was the Mental Health Awareness Climbathon that promotes mental wellness amongst the TP community and public.  
+<br><br>
+More recently, TPSC started to work actively with TP's P10 Constituent Clubs in various events to bring vibrancy to the school as one big family. Come join us now and let's bring a change to TP together!
+<br>
                     <br>
                     <b>Training Day:</b> Event Basis<br>
                     <br>
