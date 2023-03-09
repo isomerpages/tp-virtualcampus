@@ -17,7 +17,7 @@ description: ""
                 <p>
                     <b>Meeting Day:</b><br>
                     <ul>
-                        <li>Executive Committee Meeting on the second Tuesday</li>
+                        <li>Executive Committee Meeting on the second Tuesday of each month</li>
                     </ul>
                 </p>
                 <p>
