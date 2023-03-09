@@ -30,7 +30,7 @@ description: ""
                 <p>
                     <b>Meeting Day:</b> Once a Month<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:kuboy@tp.edu.sg">Mr Kubo Yuichiro</a>, <a href="mailto:anntay@tp.edu.sg">Ms Ann Tay</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Sheena_Kumari_SINGH@tp.edu.sg">Ms Sheena Kumari Singh</a>, <a href="mailto:Miansi_Caroline_LU@tp.edu.sg">Ms Caroline Lu</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/hss_sc">Instagram</a>
                 </p>
