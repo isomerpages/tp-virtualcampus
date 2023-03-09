@@ -12,7 +12,6 @@ description: ""
             <td>
                 <p>
                     Students of the School of Humanities & Social Sciences (HSS) are members of the Club. This club aims to provide holistic student development beyond the classroom with various activities and programmes organised to help our students to achieve the following mission:<br>
-                    <br>
 							</p>
 							<ul>
                     <li>Connecting Past & Present - To build pride and sense of belonging</li>
