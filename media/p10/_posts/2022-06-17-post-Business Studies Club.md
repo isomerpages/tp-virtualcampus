@@ -15,7 +15,7 @@ description: ""
                     <br>
                     The activities and events are planned to take place throughout the entire academic year. On average, BSC runs about 20 activities and events per academic year.<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Sebastian_SIM@TP.EDU.SG">Mr Sebastian Sim</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Denise_Teo@tp.edu.sg">Dr Denise Teo</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpbsc">Instagram</a>
                 </p>
