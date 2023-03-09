@@ -11,7 +11,7 @@ description: ""
             <td style="width:45%"><image src="/images/CCA_ies_student_chapter.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Institution of Engineers, Singapore Student Chapter"></image></td>
             <td>
                 <p>
-                    The Institution of Engineers, Singapore (IES) is the premier engineering institution in Singapore and is often called upon by the Government to provide feedback on professional engineering matters.. As one of its 12 student chapters in Singapore, IES-TP Student Chapter’s objectives are:<br>
+                    The Institution of Engineers, Singapore (IES) is the premier engineering institution in Singapore and is often called upon by the Government to provide feedback on professional engineering matters. As one of its 12 student chapters in Singapore, IES-TP Student Chapter’s objectives are:<br>
                 </p>
                     <ul>
                         <li>Advancing and promoting the art, science and profession of engineering</li>
