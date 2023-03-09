@@ -14,7 +14,6 @@ description: ""
                 <br>
                 <b>Achievements:</b><br>
                 <ul>
-                    <li>IVP Games 2020: 4th (Men’s Team)</li>
                     <li>POL-ITE Games 2022: Silver (Men’s Team) & 5th Position (Women's Team)</li>
                 </ul>
             </p>
