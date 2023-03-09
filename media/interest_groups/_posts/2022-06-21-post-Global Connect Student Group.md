@@ -48,8 +48,9 @@ description: ""
 										<li>Diversity & Inclusion: <a href="mailto:TING_Lee_Hoon@TP.EDU.SG">Ms Ting Lee Hoon</a><br></li>
 										<li>Arts, Culture, Heritage: <a href="mailto:LIM_Lin_Da@TP.EDU.SG">Ms Lim Lin Da</a><br></li>
 							</ul>
-										<br>
+										<p>
                     CCA <a href="https://www.instagram.com/TP.GCSG">Instagram</a>
+							</p>
                 </p>
             </td>
         </tr>
