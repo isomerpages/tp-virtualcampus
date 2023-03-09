@@ -13,8 +13,6 @@ description: ""
                 <p>
                     The TP Adventure Club (TPAC) organises exciting outdoor and adventure activities that are open to all TP students. These activities include overseas adventure expeditions, camps, kayaking, cycling, trekking, mountaineering, wildlife/environmental appreciation and other campus-wide events suitable for all skill levels.<br>
                     <br>
-                    TPAC organises events throughout the year on top of bi-weekly experiential training sessions.<br>
-                    <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:cyrano_latiff@tp.edu.sg">Mr Cyrano Latiff</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpadventureclub">Instagram</a>
