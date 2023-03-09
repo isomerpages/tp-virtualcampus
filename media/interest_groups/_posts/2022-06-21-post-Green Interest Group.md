@@ -24,6 +24,7 @@ description: ""
 										<li>Eco-conference (2022)</li>
 										<li>Prime Minister’s Chinese New Year Garden Party (2023)</li>
 										<li>Christmas Tree Moments & Adopt-A-Christmas Tree (2021)</li>
+							</ul>
 									<br>
                     <br>
                     <b>Meeting Day:</b><br>
