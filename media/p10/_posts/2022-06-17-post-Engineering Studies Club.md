@@ -21,12 +21,15 @@ These events include (not limited to):
 										<li>Wish Upon a Tree</li>
 										<li>Community Services (e.g. Beach Cleaning)</li>
 										<li>End of Academic Year event (e.g. Movie Screening Night)</li>
+							</ul>
+							<p>
                     <br>
                     <b>Meeting Day:</b> Event Basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:YONG_Sheng_Ming@tp.edu.sg">Mr Tyler Yong</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tp_esc">Instagram</a>
+							</p>
                 </p>
             </td>
         </tr>
