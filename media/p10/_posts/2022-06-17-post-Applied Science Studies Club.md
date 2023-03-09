@@ -11,7 +11,7 @@ description: ""
             <td style="width:45%"><image src="/images/CCA_ascsc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Applied Science Studies Club"></image></td>
             <td>
                 <p>
-                    Applied Science Studies Club focuses on the personal growth and holistic development of Applied Science students. Other than school-wide events such as (Freshmen Orientation Programme, ASC Townhall, Healthy Lifestyle Week and Leadership Training Camp) to enrich students list, we also work with A Good Space Co-Operative Limited, on grooming student leaders into change-makers at social issues (e.g: youth-at-risk, migrant workers).<br>
+                    Applied Science Studies Club focuses on the personal growth and holistic development of Applied Science students. Other than school-wide events (such as Freshmen Orientation Programme, ASC Townhall, Healthy Lifestyle Week and Leadership Training Camp) to enrich students’ life, we also work with A Good Space Co-operative Limited, on grooming student leaders into change-makers at social issues (e.g. youth-at-risk, migrant workers).<br>
                     <br>
                 </p>
                 <p>
