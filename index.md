@@ -32,7 +32,7 @@ sections:
         campus count? Check out this exciting event to find out more about the
         diverse CCAs offered in TP!
       button: JOIN IN THE ACTION!
-      url: /events/ccafair2023.jpg
+      url: /events/ccafair2023
       alt: CCA Fair 2023
       image: /images/Home/CCA Fair 2023.jpg
   - infopic:
