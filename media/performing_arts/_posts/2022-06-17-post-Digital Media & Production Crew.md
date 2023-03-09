@@ -55,6 +55,8 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
             
 <ul>    
     <li>Monday & Thursday, 6:30pm to 9:30pm</li>
+	<li>Additional ad-hoc workshops will be conducted</li>
+	<li>Extra hours during production periods required</li>
 </ul>
 
 
