@@ -11,11 +11,20 @@ description: ""
             <td style="width:45%"><image src="/images/CCA_esc.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Studies Club"></image></td>
             <td>
                 <p>
-                    Engineering Studies Club (ESC) is the nerve centre of student life in the School of Engineering, and each year, its student leaders take the lead to organise student-centered events such as student camps and the annual Orientation programme for Freshmen, as well as provide student support for school events such as the annual TP Open House.<br>
+                    Engineering Studies Club (ESC) is the nerve centre of student life in the School of Engineering, and each year, its student leaders take the lead to organise student-centered events such as student camps and the annual Orientation programme for Freshmen, as well as provide student support for school events such as the annual TP Open House.
+									<br><br>
+									Apart from organising events, ESC also focuses on students' well-being and bringing more fun-filled activitives to the School of Engineering. 
+									<br><br>
+These events include (not limited to):
+									<ul>
+										<li>Student Welfare Week</li>
+										<li>Wish Upon a Tree</li>
+										<li>Community Services (e.g. Beach Cleaning)</li>
+										<li>End of Academic Year event (e.g. Movie Screening Night)</li>
                     <br>
                     <b>Meeting Day:</b> Event Basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Thomas_CHONG@TP.EDU.SG">Mr Thomas Chong</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:YONG_Sheng_Ming@tp.edu.sg">Mr Tyler Yong</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tp_esc">Instagram</a>
                 </p>
