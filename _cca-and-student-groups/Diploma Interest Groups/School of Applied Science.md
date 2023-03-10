@@ -21,20 +21,14 @@ third_nav_title: Diploma Interest Groups
                     </image>
                 </a>
             </td>
-					            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/asc.fits/" style="text-decoration: none">
-                    <image src="/images/ASC/FITS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Food Interest Group">
-                    </image>
-                </a>
-            </td>
-				</tr>
-        <tr>
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="https://www.instagram.com/tpmbig/" style="text-decoration: none">
                     <image src="/images/ASC/MBIG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Medical Biotechnology Interest Group">
                     </image>
                 </a>
             </td>
+									</tr>
+        <tr>
 
             <td style="max-width:33%; vertical-align:bottom; border:none"><br>
                 <a href="https://www.instagram.com/totallyphs/" style="text-decoration: none">

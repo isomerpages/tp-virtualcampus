@@ -11,7 +11,7 @@ description: ""
             <td style="width:45%"><image src="/images/CCA_japanese_cultural_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group"></image></td>
             <td>
                 <p>
-                    The Japanese Cultural Group, promotes Japanese culture and inculcate life skills such as people management and events management, in a fun and interactive way. Our activities are broad and varied, ranging from Anime and Manga, Arts and Entertainment, Cuisines to Japanese Language and Cultural Research, E-Xchanges with foreign tertiary institutions in Japan and where possible, a Cultural Immersion Trip to Japan. There is certainly something for you with our numerous unique events and weekly sessions.<br>
+                    The Japanese Cultural Group promotes Japanese culture and inculcate life skills such as people management and events management, in a fun and interactive way. Our activities are broad and varied, ranging from Anime and Manga, Arts and Entertainment, Cuisines to Japanese Language and Cultural Research, E-Xchanges with foreign tertiary institutions in Japan and where possible, a Cultural Immersion Trip to Japan. There is certainly something for you with our numerous unique events and weekly sessions.<br>
                     <br>
                     <b>Highlights:</b><br>
                     We have partnered these organisations and have been involved in their events:<br>

@@ -47,8 +47,10 @@ description: ""
 										<li>UNSDG & Sustainability: <a href="mailto:Yu_ZHANG@tp.edu.sg">Ms Zhang Yu</a>, <a href="mailto:LEE_Siang_Jin@TP.EDU.SG">Ms Lee Siang Jin</a><br></li>
 										<li>Diversity & Inclusion: <a href="mailto:TING_Lee_Hoon@TP.EDU.SG">Ms Ting Lee Hoon</a><br></li>
 										<li>Arts, Culture, Heritage: <a href="mailto:LIM_Lin_Da@TP.EDU.SG">Ms Lim Lin Da</a><br></li>
-                    <br>
+							</ul>
+										<p>
                     CCA <a href="https://www.instagram.com/TP.GCSG">Instagram</a>
+							</p>
                 </p>
             </td>
         </tr>

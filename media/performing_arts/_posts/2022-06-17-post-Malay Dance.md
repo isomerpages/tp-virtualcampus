@@ -10,7 +10,7 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    TP Malay Dance Group, also called Kesenian Si Anak Tari (Seni Nak Tari or SNT), takes pride in promoting the arts and providing high-quality traditional and contemporary performances. 
+                    TP Malay Dance Group, also called Kesenian Si Anak Tari (Seni Nak Tari or SNT), takes pride in promoting the arts and providing high-quality traditional and contemporary performances.  
                     <br>
 					<br>
                     Featuring genres such as Inang and Zapin SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various styles portrayed.
@@ -43,7 +43,8 @@ description: ""
 ##### Achievements
 	
 <ul>
-    <li>Champion for Persada Juara Tari (2018)</li>
+    <li>Persada Juara Tari: Champion & Best Choreography Award (2018)
+</li>
 </ul>
 
 <hr>
@@ -53,9 +54,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Monday & Tuesday, 6pm to 9pm (On-campus)</li>
-    <li>Monday & Tuesday, 7.45pm to 9.45pm (Online)</li>
-    <li>Trainings may alternate between physical and online. There may be additional trainings closer to performance day.</li>
+    <li>Monday & Wednesday, 6pm to 9pm (On-campus)</li>
 </ul>
 
 
@@ -74,6 +73,8 @@ description: ""
 <ul>
 	<li><a href="https://www.instagram.com/keseniansianaktari/">Instagram</a></li>
     <li><a href="https://linktr.ee/TPMalayDanceGroup">Linktree</a></li>
+	    <li><a href="https://www.tiktok.com/@keseniansianaktari">TikTok</a></li>
+	    <li><a href="https://www.youtube.com/@keseniansianaktari7995">YouTube</a></li>
 </ul>
 
 <hr>

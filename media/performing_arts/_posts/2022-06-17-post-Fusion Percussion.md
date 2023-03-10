@@ -5,7 +5,7 @@ permalink: /performing-arts/fusion-percussion/
 date: 2022-06-17
 description: ""
 ---
-<table>DMPCFP
+<table>
 	<tbody>
 		<tr>
 			<td>

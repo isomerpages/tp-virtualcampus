@@ -11,9 +11,9 @@ description: ""
             <td style="width:45%"><image src="/images/CCA_tp_international_students_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group"></image></td>
             <td>
                 <p>
-                    Temasek Polytechnic International Students Group (TPISG) is a student-interest group under the International Relationa Office to meet the emotional, social and practical Needs of our international students, and help them integrate  into the local Singaporean as well as TP community.<br>
+                    Temasek Polytechnic International Students Group (TPISG) is a student-interest group under the International Relations Office to meet the emotional, social and practical needs of our international students, and to help them integrate into the local Singaporean as well as TP community.<br>
                     <br>
-                    Local students are welcome to participate in programmes to interact with international students for social and cross-cultural experiences such as:<br>
+                    Local students are welcome to participate in the programmes to interact with international students for social and cross-cultural experiences such as:<br>
                 </p>
                     <ul>
                         <li>Week of Welcome for international freshmen</li>

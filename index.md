@@ -28,12 +28,12 @@ sections:
   - infopic:
       title: CCA Fair 2023 (26-27 April)
       subtitle: CCA Fair
-      description: Keen to channel the Team Temasek spirit and make your days on
-        campus count? Check out this exciting event to find out more about the
-        diverse CCAs offered in TP!
+      description: Are you keen to channel the Team Temasek spirit and make your days
+        on campus count? Check out this exciting event to find out more about
+        the CCAs offered in TP!
       button: JOIN IN THE ACTION!
-      url: /events/ccafair2023.jpg
-      alt: CCA Fair 2022
+      url: /events/ccafair2023
+      alt: CCA Fair 2023
       image: /images/Home/CCA Fair 2023.jpg
   - infopic:
       title: Polytechnic-ITE & Institute-Varsity-Polytechnic Games

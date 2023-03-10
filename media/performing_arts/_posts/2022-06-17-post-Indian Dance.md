@@ -10,7 +10,7 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    Temasek Polytechnic Indian Dance Group (IDG) trains in various dance forms, such as Bharatha-Natyam, Bollywood, folk and semi-classical Indian dance
+                    Temasek Polytechnic Indian Dance Group (TPIDG) trains in various dance forms, such as Bharatha-Natyam, Bollywood, folk and other semi-classical Indian dance forms.
                     <br>
 					<br>
 					Under the guidance of Mrs Premela Balakrishnan, Director of Rudram Arts, TPIDG has been featured in both school performances and various external performances, such as the 2022 Lisha Women’s Wing 10th Anniversary Celebrations: 200th Event, where President Halimah Yacob was the Guest of Honour. 

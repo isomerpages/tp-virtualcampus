@@ -24,14 +24,15 @@ description: ""
 										<li>Eco-conference (2022)</li>
 										<li>Prime Minister’s Chinese New Year Garden Party (2023)</li>
 										<li>Christmas Tree Moments & Adopt-A-Christmas Tree (2021)</li>
-									<br>
-                    <br>
+							</ul>
+							<p>
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:kohsn@tp.edu.sg">Mr Aubrey Koh</a>, <a href="mailto:maryt@tp.edu.sg">Mrs Mary Thomas</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpgig">Instagram</a>
+							</p>
                 </p>
             </td>
         </tr>

@@ -12,14 +12,15 @@ description: ""
             <td>
                 <p>
                     Students of the School of Humanities & Social Sciences (HSS) are members of the Club. This club aims to provide holistic student development beyond the classroom with various activities and programmes organised to help our students to achieve the following mission:<br>
-                    <br>
-                    Connecting Past & Present - To build pride and sense of belonging<br>
-                    Challenging the Best - To inspire the rest<br>
-                    Caring across the Spectrum - To build a culture of inclusiveness<br>
-                    Contributing to Greater Good - To strengthen a sense of community<br>
-                    <br>
-                    Some of the activities and programmes organised by the Club include the following:<br>
-                  </p>
+							</p>
+							<ul>
+                    <li>Connecting Past & Present - To build pride and sense of belonging</li>
+                    <li>Challenging the Best - To inspire the rest</li>
+                    <li>Caring across the Spectrum - To build a culture of inclusiveness</li>
+                    <li>Contributing to Greater Good - To strengthen a sense of community</li>
+								</ul>
+							<p>
+                    Some of the activities and programmes organised by the Club include the following:</p>
                     <ul>
                         <li>Freshmen Orientation (Freshmen Briefing)</li>
                         <li>HSS Sports Day</li>
@@ -30,7 +31,7 @@ description: ""
                 <p>
                     <b>Meeting Day:</b> Once a Month<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:kuboy@tp.edu.sg">Mr Kubo Yuichiro</a>, <a href="mailto:anntay@tp.edu.sg">Ms Ann Tay</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Sheena_Kumari_SINGH@tp.edu.sg">Ms Sheena Kumari Singh</a>, <a href="mailto:Miansi_Caroline_LU@tp.edu.sg">Ms Caroline Lu</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/hss_sc">Instagram</a>
                 </p>

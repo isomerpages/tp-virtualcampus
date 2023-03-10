@@ -10,7 +10,7 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    The Temasek Polytechnic Chorale performs performs choral and acappella arrangements in traditional as well as contemporary styles. Let the singers bring music to your ears with the human instrument – the voice. 
+                    The Temasek Polytechnic Chorale performs choral and acappella arrangements in traditional as well as contemporary styles. Let the singers bring music to your ears with the human instrument – the voice. 
 					<br>
 					<br>
                     TP Chorale is a renowned choir CCA group comprising a diverse group of Sopranos, Altos, Tenors and Basses, led by resident conductor, Ms Choy Siew Woon. 
