@@ -8,58 +8,10 @@ description: ""
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Tchoukball Workshop: Time to try something  new!</h3>
-<h5 style="margin-top:0%"><i>8 March 2023</i></h5>
-
-Do you know that the strange-sounding name of Tchoukball comes from the 'tchouk' sound of the ball hitting the frame of the net! 😱
-
-Keen to try and know more about Tchoukball? 🤩
-
-TP Sports Club and TP Tchoukball is collaborating to host a Tchoukball Workshop where you can learn how to play the game and take part in a mini match to win prizes! All beginners are welcome☺️
-
-Date: 8 March 2023, Wed
-Time: 10am - 1pm
-Location: Sports Complex (Sports Hall 1)
-Things to bring: Water Bottle, Mask (optional), Towel (optional)
-Attire:* T-Shirt and Shorts with Covered Shoes
-
-Do note that you are strongly encouraged to take an ART 24 hours before the event!
-
-Slots are limited‼️ 
-🔥Seal points &amp; Refreshments for ALL🔥
-Prizes to be won!
-
-*Deadline for Registration:* 5 March 2023, 11.59pm 
-
-‼️Link to sign up‼️ 
-https://forms.gle/HdxAtthpXEDboyz39
-
-
-![](/images/Events/Happenings/2023%2002%2010/happenings_tchoukball.jpg)
-
-<hr>
-<br>
-
-<h3 style="margin-top:0%">Operating Hours for Sports & Arts Facilities</h3>
-<h5 style="margin-top:0%"><i>6 March 2023</i></h5>
-
-Dear TP Community, 
-
-There is an event happening at the Student Gym on 6 March 2023. As such, please be informed that the operating hours for the Student Gym on 6 March 2023 will be from 6:00pm to 9.30pm.  
-
-We apologise for any inconvenience caused. 
- 
-Thank you.
-
-Student Development & Alumni Affairs Department
-
-<hr>
-<br>
-
 <h3 style="margin-top:0%">Heartware Network - East Coast Sustainable Youth Leadership Development Programme</h3>
 <h5 style="margin-top:0%"><i>Sign-up Now!</i></h5>
 
-![](/images/Events/Happenings/2023%2003%2003/heartware.jpg) 
+![](/images/Events/Happenings/2023%2003%2003/heartware2.png) 
 
 We are pleased to share with you this opportunity to develop as a **youth leader** through a newly launched programme by [Heartware Network](https://heartware.org/) (a charitable youth organisation).
 
@@ -69,7 +21,7 @@ In 2023, its initiation year, you will begin your journey as a ‘Learner’ by 
 
 You will be able to gain community awareness, community engagement skills and befriending skills as you uplift the residents and merchants within the East Coast GRC through ground-up initiatives and projects. These projects will fall under the three main categories of Care, Green, and Vibrant.
 
-Join us in this adventure if you are an Eastie, 16 years old and above, interested and ready to **serve the community in the East** from March to Oct 2023. Thank you.
+Join us in this adventure if you are an Eastie, 16 years old and above, interested and ready to **serve the community in the East** from March to Oct 2023. Recruitment ends on **12 March 2023**. Thank you.
 
 For more information / to sign up: [https://www.youthbank.sg/eventdetail/?eventid=994](https://www.youthbank.sg/eventdetail/?eventid=994)
 
@@ -79,7 +31,7 @@ For more information / to sign up: [https://www.youthbank.sg/eventdetail/?eventi
 <h3 style="margin-top:0%">TPSC – Stay Afloat!
 Basic water survival skills for non-swimmers
 </h3>
-<h5 style="margin-top:0%"><i>2 March 2023</i></h5>
+<h5 style="margin-top:0%"><i>22 March 2023</i></h5>
 
 ![](/images/Events/Happenings/2023%2003%2003/afloat.jpg)
 
@@ -97,17 +49,17 @@ In Stay Afloat!, the experienced coaches from Swimology will teach you basic wat
 
 Are you ready to put safety first and prevent the worst? Sign up for Stay Afloat! now!
 
-Details
+**Details**
 
-Date: 22nd March 2023
+* Date: 22nd March 2023
 
-Time: 9 am - 12 pm
+* Time: 9 am - 12 pm
 
-Location: Temasek Polytechnic Swimming Complex (Block 31A)
+* Location: Temasek Polytechnic Swimming Complex (Block 31A)
 
-Attire: Swimming Costume (No bikinis, T-shirts, or shorts. Board or swim shorts are allowed.) and Goggles.
+* Attire: Swimming Costume (No bikinis, T-shirts, or shorts. Board or swim shorts are allowed.) and Goggles.
 
-Things to bring: Bag, Water Bottle, Towel, Change of clothes, and Toiletries
+* Things to bring: Bag, Water Bottle, Towel, Change of clothes, and Toiletries
 
 ‼️Deadline for registration: 18th March 2023, 2359
 
