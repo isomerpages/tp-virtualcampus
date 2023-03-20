@@ -10,7 +10,7 @@ description: ""
 				<img src="/images/Home/CCA Fair 2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
-				<h4 style="margin-top:0%">CCA Fair 2023</h4>
+			<a href='/events/ccafair2023/'><h4 style="margin-top:0%">CCA Fair 2023</h4></a>
 				<h6 style="margin-top:0%"><i>26-27 April 2023</i></h6>
 				<p style="margin-top:0%">
 					Are you keen to channel the Team Temasek spirit and make your days on campus count? Check out this exciting event to find out more about the CCAs offered in TP!
