@@ -88,7 +88,7 @@ Hello! We are passionate about student development and sports and strive to empo
             </td>
 					<td style="width:49%"><br>
                 <a href="mailto:charis_woo@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
+                    <image src="/images/staff-team-images/Intro_Soleha-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
                     </image>
                 </a>
             </td>
@@ -101,13 +101,13 @@ Hello! We are passionate about student development and sports and strive to empo
         <tr>
             <td style="width:49%"><br>
                 <a href="mailto:charis_woo@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
+                    <image src="/images/staff-team-images/Intro_Lui%20Hua-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
                     </image>
                 </a>
             </td>
 					<td style="width:49%"><br>
                 <a href="mailto:charis_woo@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
+                    <image src="/images/staff-team-images/Intro_Pei%20Jun-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
                     </image>
                 </a>
             </td>
