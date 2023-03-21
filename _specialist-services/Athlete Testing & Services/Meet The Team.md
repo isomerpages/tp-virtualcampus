@@ -73,7 +73,39 @@ Hello! We are passionate about student development and sports and strive to empo
                     <image src="/images/staff-team-images/Intro_Sheena-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sheena">                                       </image>
                 </a>
             </td>
+         </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
             <td style="width:49%"><br>
+                <a href="mailto:charis_woo@tp.edu.sg">
+                    <image src="/images/staff-team-images/Intro_Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
+                    </image>
+                </a>
+            </td>
+					<td style="width:49%"><br>
+                <a href="mailto:charis_woo@tp.edu.sg">
+                    <image src="/images/staff-team-images/Intro_Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
+                    </image>
+                </a>
+            </td>
+         </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td style="width:49%"><br>
+                <a href="mailto:charis_woo@tp.edu.sg">
+                    <image src="/images/staff-team-images/Intro_Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
+                    </image>
+                </a>
+            </td>
+					<td style="width:49%"><br>
                 <a href="mailto:charis_woo@tp.edu.sg">
                     <image src="/images/staff-team-images/Intro_Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
                     </image>
