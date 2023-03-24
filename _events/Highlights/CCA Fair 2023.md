@@ -56,3 +56,6 @@ Keen to find out more about our CCAs, Clubs and Interest Groups prior to the eve
         </td>
     </tr>
 </table>
+
+
+**This page is constantly being updated with new information. Please remember to visit again nearer to April 2023.**
