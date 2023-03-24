@@ -76,7 +76,7 @@ Should you have any queries, you may direct them to your respective Academic Sch
   <tr>
     <td>Informatics &amp; IT</td>
     <td>6780 5158</td>
-    <td>iithotline@tp.edu.sg</td>
+    <td>iit@tp.edu.sg</td>
   </tr>
 </tbody>
 </table>	
