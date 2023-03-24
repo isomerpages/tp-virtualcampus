@@ -4,49 +4,70 @@ permalink: /events/freshmen-orientation-programme-2023/
 description: ""
 third_nav_title: Highlights
 ---
-
+![](/images/Home/FO_2023.jpg)
 
 **Welcome, Freshmen!**
 
-Congratulations on your successful enrolment to Temasek Polytechnic! 
-Due to the prevailing COVID-19 situation in Singapore, your learning journey in TP will commence with the TP Freshmen Orientation Programme that has been designed and prepared specially for you. 
+Congratulations on your successful enrolment to Temasek Polytechnic (TP)!
 
-<ins>It is essential that you set aside time and attend the Freshmen Orientation Programme.</ins>
+The Freshmen Orientation Programme (FOP) occupies a special spot in TP’s calendar. It not only celebrates a momentous milestone in your academic journey as you progress into tertiary education, it also heralds the start of your exciting journey of growth and discovery.
 
-During these sessions, you will:
-* Meet your Care Persons
-* Meet your classmates from the same course   
-* Get to understand about your course and its requirements  
-* Orientate yourself with the TP environment
-* Receive your student matriculation card and learn how to read your timetable 
-* Learn how to use TP’s Brightspace Learning Management System (LMS) to access your lectures and tutorials online
+TP has lined up an eclectic array of activities to help you kickstart your journey on the right note, and to support you in making your transition into the Polytechnic less daunting and enjoyable.
 
-These sessions, scheduled from **4 to 14 April 2022**, will give you a head start into the new semester. You will only need to come to TP on your allocated session date. Please bring along your laptop to the session so that you can practice logging in to the Brightspace LMS and check if you can access your learning materials.
+After a three-year hiatus due to COVID-19, we are also pleased to reinstate the FOP activities in a fully physical format, where you can look forward to a better and more engaging Freshmen experience!
 
-Details of your Freshmen Orientation Programme (time and venue) will be communicated to you via mail, email or SMS. Your safety and well-being is our utmost priority. At TP, we have a zero tolerance policy on hazing and derogatory behaviour. You are encouraged to report such incidents to any TP staff or via our whistle blower hotline at [sdaa@tp.edu.sg](mailto:sdaa@tp.edu.sg).
+Some of the programmes that you can enjoy include the various onboarding activities, organised by your respective Academic Schools, which are scheduled from **10-14 April 2023**. These activities are specially curated to optimise your assimilation into polytechnic life, while allowing you ample time and space to orientate yourself into TP’s environment, people and culture.
 
-![FOP 2022](/images/FOP%20EDM_2625px%20by%201479px.jpg)
+During these activities, you will get to:
+
+* Meet your Care Persons and classmates from the same course of study;   
+*	Understand about your course and its structure, rigours and requirements;  
+*	Receive your student matriculation card and learn how to read your timetable; 
+*	Learn how to use TP’s e-services to access your lectures and tutorials; 
+*	Enjoy a tour of our vibrant campus, including your school premises and facilities; 
+* And many more!
+
+Your onboarding experience will culminate in a fun afternoon out on **13 April 2023** at the **Temasek Regatta x Samudra** – a special finale programme that we have put together for you at Bedok Reservoir. You will get to watch or partake in exciting dragon boat races, cheer your hearts out for your fellow peers, and catch enthralling arts performances by TP’s very best talents!
+
+Details of the FOP will be communicated to you via mail, email or SMS. Your safety and wellbeing is our utmost priority. At TP, we have a zero tolerance policy on hazing and derogatory behaviour. You are strongly encouraged to report such incidents to any TP staff or via our whistle blower hotline at [sdaa@tp.edu.sg](mailto:sdaa@tp.edu.sg).
+Should you have any queries, you may direct them to your respective Academic Schools:
+
+
+**Applied Science**
+* 6780 5322
+* aschotline@tp.edu.sg
+
+**Business**
+* 6780 5127
+* bushotline@tp.edu.sg
+
+**Design**
+* 6780 5133
+* deshotline@tp.edu.sg
+
+**Engineering**
+* 6780 5144
+* enghotline@tp.edu.sg
+
+**Humanities & Social Science**
+* 6780 6565
+* hsshotline@tp.edu.sg
+
+**Informatics & IT**
+* 6780 5158
+* iit@tp.edu.sg
+
+
+As you immerse yourself in the exciting line-up of FOP activities, we do hope that you will embrace the **_Team Temasek Spirit_** – a special bond shared by our TP family across varied backgrounds, cultures and countries, and cemented by our collective Spirit of Excellence, Resilience, Respect and Care for others.
+
+We look forward to welcoming you to TP!
+
+
+
+
 
 ---
-### <a id="spectacular"></a>Temasek Spectacular Concerts 2022
 
-Temasek Arts Centre is proud to present the return of Temasek Spectacular via a series of ‘live’ in-person* concerts at Auditorium 1, specially curated for our Freshmen! Happening from 7, 8, 11-14 April 2022, get ready for a taste of campus vibrancy and soak up the live concert vibes with enthralling arts performances by the finest talents in TP. Freshmen, assemble! 
-
-_*Safe Management Measures apply_  
-
-Temasek Spectacular 2022 is coming to you LIVE from Auditorium 1! For those of you who are unable to join us physically, do click on these links and tune in to your School's SPECTACULAR show from the comfort of your own homes!
-
-Day 1 (IIT): [https://youtu.be/M7ojS0XYYPU](https://youtu.be/M7ojS0XYYPU)  
-Day 2 (ASC): [https://youtu.be/WAWp1lQoYBI](https://youtu.be/WAWp1lQoYBI)  
-Day 3 (ENG + HSS): [https://youtu.be/nRqfaDcsDJc](https://youtu.be/nRqfaDcsDJc)  
-Day 4 (ENG): [https://youtu.be/l8i1fOxeNYM](https://youtu.be/l8i1fOxeNYM)  
-Day 5 (BUS): [https://youtu.be/qq3DTiE60A0](https://youtu.be/qq3DTiE60A0)  
-Day 5 (Combined Schools): [https://youtu.be/411V8zH3SOc](https://youtu.be/411V8zH3SOc)  
-Day 6 (BUS): [https://youtu.be/Izstu7wBZxo](https://youtu.be/Izstu7wBZxo)  
-
-See you there!
-
-![Temasek Spectacular](/images/Temasek%20Spectacular%20(3)_2625px%20by%201479px.jpg)
 
 ---
 ### <a id="regatta"></a>Temasek Regatta 2022
@@ -72,4 +93,4 @@ Each School will create and film a cheer video (up to 90s) that:
 * Features something unique from your School in a creative manner 
 * Incorporates TP’s tagline: #TPcreatingtomorrow
 
-_*Safe Management Measures apply_  
+_*Safe Management Measures apply_
