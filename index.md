@@ -34,6 +34,15 @@ sections:
       url: /events/freshmen-orientation-programme-2023
       image: /images/Home/FO_2023.jpg
   - infopic:
+      title: Temasek Regatta X Samudra
+      subtitle: Freshmen Orientation Programme
+      image: /images/Home/Regatta_2023.jpg
+      description: "Wrap up your onboarding journey at this special finale programme,
+        featuring exciting dragon boat races and arts performances! "
+      button: BE ENTHRALLED HERE
+      url: /events/freshmen-orientation-programme-2022/#regatta
+      alt: Dragon Boat
+  - infopic:
       title: CCA Fair 2023 (26-27 April)
       subtitle: CCA Fair
       description: Are you keen to channel the Team Temasek spirit and make your days
@@ -91,15 +100,6 @@ sections:
       button: View our Honour roll
       url: /events/temasek-student-excellence-awards-2022
       alt: TSEA2022
-  - infopic:
-      title: Temasek Regatta 2022
-      subtitle: Freshmen Orientation Programme
-      image: /images/Temasek Regatta EDM_1920px by 1080px.jpg
-      description: "Soak up the #TPFam vibes and have fun in the sun at our annual
-        dragon boat contest for staff and students!"
-      button: PADDLES UP
-      url: /events/freshmen-orientation-programme-2022/#regatta
-      alt: Dragon Boat
   - infopic:
       title: Dreams XII Concert – Back to LIVE
       subtitle: Temasek Arts Centre Production
