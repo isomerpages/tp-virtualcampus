@@ -9,13 +9,11 @@ third_nav_title: Highlights
 ![](/images/Home/CCA%20Fair%202023.jpg)
 
 
-Discover your passion. Unleash your creativity. Forge lasting friendships. Maximise your fun.
+Discover your passion. Unleash your creativity. Forge lasting friendships. Make your days count. 
 
-Life as a TP student can be as exciting, engaging and empowering as you want it to be! As you prepare to embark on your Polytechnic journey, do take time to discover the TP community beyond the academics, and build memories and skills that will last you a lifetime.
+Life as a TP student can be as exciting, engaging and empowering as you want it to be! From 26-27 April 2023, join us to discover the infectious Team Temasek spirit and experience campus vibrancy like never before! Take your pick from the many diverse CCAs offered in TP – ranging from performing arts, sports, adventure, community service to entrepreneurship – and lots more! 
 
-Join us at the **CCA Fair 2023**  from **26-27 April** and take your pick from the diverse CCAs offered in TP – ranging from performing arts, sports, adventure, community service to entrepreneurship – and lots more! Besides learning more about what makes your dream CCA tick and find out if it is indeed the one for you, you can also look forward to enthralling performances by our arts groups that are sure to entertain.
-
-So, mark the dates for the CCA Fair 2023 now! See you there!
+This year, we are excited to bring back the CCA Fair in a fully physical format. What’s more, you can look forward to electrifying performances by our arts groups to enthrall and entertain you throughout the day! So, mark the dates for the CCA Fair 2023 now! See you there!
 
 _(Note: Juniors and Seniors are also welcome!)_
 
