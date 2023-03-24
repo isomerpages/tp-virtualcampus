@@ -30,7 +30,9 @@ During these activities, you will get to:
 Your onboarding experience will culminate in a fun afternoon out on **13 April 2023** at the **Temasek Regatta x Samudra** – a special finale programme that we have put together for you at Bedok Reservoir. You will get to watch or partake in exciting dragon boat races, cheer your hearts out for your fellow peers, and catch enthralling arts performances by TP’s very best talents!
 
 Details of the FOP will be communicated to you via mail, email or SMS. Your safety and wellbeing is our utmost priority. At TP, we have a zero tolerance policy on hazing and derogatory behaviour. You are strongly encouraged to report such incidents to any TP staff or via our whistle blower hotline at [sdaa@tp.edu.sg](mailto:sdaa@tp.edu.sg).
+
 Should you have any queries, you may direct them to your respective Academic Schools:
+
 
 
 **Applied Science**
@@ -82,6 +84,6 @@ A time-honoured tradition in the FOP calendar, the **Temasek Regatta** brings to
 
 Another memorable experience shared across generations of TPians, the arts component of our FOP – **Samudra** (previously known as Temasek Spectacular) – will be staged as a consolidated experience for you this year, alongside the exciting dragon boating action that you will already be a part of!
 
-A Sanskrit term meaning the “gathering together of waters”, Samudra brings together our individual unique stories through a specially curated showcase presented by TP’s performing arts groups, fully conceptualised, produced and executed by our very own talented student-artists. 
+A Sanskrit term meaning the “gathering together of waters”, Samudra brings together our individual unique stories through a specially curated showcase presented by TP’s performing arts groups - fully conceptualised, produced and executed by our very own talented student-artists. 
 
 Be inspired by our collective values of strength, resilience, community and hope at Samudra!
