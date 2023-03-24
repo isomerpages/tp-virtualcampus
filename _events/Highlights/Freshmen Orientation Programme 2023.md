@@ -62,35 +62,26 @@ As you immerse yourself in the exciting line-up of FOP activities, we do hope th
 
 We look forward to welcoming you to TP!
 
-
-
-
-
 ---
 
+### Temasek Regatta x Samudra
 
----
-### <a id="regatta"></a>Temasek Regatta 2022
+![](/images/Home/Regatta_2023.jpg)
 
-The annual dragon boat contest – Temasek Regatta – is back and they are better than ever! A staple highlight in the Freshmen Orientation Programme calendar, this event fosters camaraderie and friendly competition among our student community. What better way to beat the year-round tropical heat than by bonding with your peers in a unique and safe* environment at our own backyard – Bedok Reservoir?
+Traditionally held as two separate events, our staple FOP highlights – Temasek Regatta (dragon boat contest) and Temasek Spectacular (arts concert) – will be integrated as one explosive and electrifying showcase on **13 April 2023**. Staged in an immersive format that is sure to entertain, this event also encapsulates the very best of our creative energies, sporting excellence and artistic splendour.
 
-The 2-hour session includes:
-* 1 hour of registration and safety briefing at TP
-* 1 hour of practise row, followed by time trial at Bedok Reservoir 
+Presenting to you.. the **Temasek Regatta x Samudra**, a finale programme held specially for Freshmen happening in our own backyard – Bedok Reservoir!
 
-_*Safe Management Measures apply_  
+**Temasek Regatta: Make a Splash & Have Fun in the Sun!**
 
-![Temasek Regatta](/images/Temasek%20Regatta%20EDM_2625px%20by%201479px.jpg)
+What better way is there to end your FOP journey on a high note than by bonding with your peers and friends, while experiencing a slice of the campus vibrancy that TP is known for!
 
----
-### School Cheer Challenge
+A time-honoured tradition in the FOP calendar, the **Temasek Regatta** brings together our TP family for a day of fun, play and action. Watch your friends paddle their hardest through a series of exciting dragon boat races, featuring both students and staff. Be stoked for your peers as they perform creative cheers that epitomise your School’s spirit, camaraderie and values, all in the name of friendly and sporting fun!
 
-The School Cheer Challenge is the perfect platform for you to exercise your creativity to the fullest. Work with your fellow Freshmen* and dominate 90 seconds of screen time with a cheer that is fun, energetic and most importantly, represents who you really are! Two awards – Most Popular School Cheer Award and Best School Cheer Award – are up for grabs. All videos will be aired at the Temasek Spectacular Concerts. 
+**Samudra: Be Dazzled by Our Finest Arts Talents!**
 
-Each School will create and film a cheer video (up to 90s) that:
-* Exudes positive emotions and energy 
-* Encourages and motivates TP students to come together as one
-* Features something unique from your School in a creative manner 
-* Incorporates TP’s tagline: #TPcreatingtomorrow
+Another memorable experience shared across generations of TPians, the arts component of our FOP – **Samudra** (previously known as Temasek Spectacular) – will be staged as a consolidated experience for you this year, alongside the exciting dragon boating action that you will already be a part of!
 
-_*Safe Management Measures apply_
+A Sanskrit term meaning the “gathering together of waters”, Samudra brings together our individual unique stories through a specially curated showcase presented by TP’s performing arts groups, fully conceptualised, produced and executed by our very own talented student-artists. 
+
+Be inspired by our collective values of strength, resilience, community and hope at Samudra!
