@@ -35,7 +35,7 @@ sections:
       image: /images/Home/FO_2023.jpg
       alt: Freshmen Orientation 2023
   - infopic:
-      title: Temasek Regatta X Samudra
+      title: Temasek Regatta x Samudra
       subtitle: Freshmen Orientation Programme
       image: /images/Home/Regatta_2023.jpg
       description: "Wrap up your onboarding journey at this special finale programme,
