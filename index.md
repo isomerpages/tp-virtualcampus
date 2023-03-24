@@ -33,6 +33,7 @@ sections:
       button: DISCOVER THE ACTION
       url: /events/freshmen-orientation-programme-2023
       image: /images/Home/FO_2023.jpg
+      alt: Freshmen Orientation 2023
   - infopic:
       title: Temasek Regatta X Samudra
       subtitle: Freshmen Orientation Programme
@@ -41,6 +42,7 @@ sections:
         featuring exciting dragon boat races and arts performances! "
       button: BE ENTHRALLED HERE
       url: /events/freshmen-orientation-programme-2023#temasek-regatta-x-samudra
+      alt: Temasek Regatta X Samudra
   - infopic:
       title: CCA Fair 2023 (26-27 April)
       subtitle: CCA Fair
