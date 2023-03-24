@@ -26,6 +26,15 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Freshmen Orientation Programme 2023
+      subtitle: Freshmen Orientation Programme
+      description: Dear Freshmen, welcome to the TP Fam! Start your journey with us on
+        the right note through the Freshmen Orientation Programme!
+      button: DISCOVER THE ACTION
+      url: /events/freshmen-orientation-programme-2023
+      image: /images/Home/FO_2023.jpg
+      alt: freshmenorientation 2022
+  - infopic:
       title: CCA Fair 2023 (26-27 April)
       subtitle: CCA Fair
       description: Are you keen to channel the Team Temasek spirit and make your days
@@ -83,15 +92,6 @@ sections:
       button: View our Honour roll
       url: /events/temasek-student-excellence-awards-2022
       alt: TSEA2022
-  - infopic:
-      title: Freshmen Orientation Programme 2022
-      subtitle: Freshmen Orientation Programme
-      description: Dear Freshmen, welcome to the TP Fam! The Freshmen Orientation
-        Programme is where you will start your journey with us!
-      button: DISCOVER THE ACTION
-      url: /events/freshmen-orientation-programme-2022
-      image: /images/FOP EDM_1920px by 1080px.jpg
-      alt: freshmenorientation 2022
   - infopic:
       title: Temasek Spectacular Concerts 2022
       subtitle: Freshmen Orientation Programme
