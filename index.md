@@ -33,7 +33,6 @@ sections:
       button: DISCOVER THE ACTION
       url: /events/freshmen-orientation-programme-2023
       image: /images/Home/FO_2023.jpg
-      alt: freshmenorientation 2022
   - infopic:
       title: CCA Fair 2023 (26-27 April)
       subtitle: CCA Fair
@@ -92,16 +91,6 @@ sections:
       button: View our Honour roll
       url: /events/temasek-student-excellence-awards-2022
       alt: TSEA2022
-  - infopic:
-      title: Temasek Spectacular Concerts 2022
-      subtitle: Freshmen Orientation Programme
-      image: /images/Temasek Spectacular (1)_1920px by 1080px.jpg
-      description: "Experience the best of TP’s vibrancy through a series of ‘live’
-        in-person concerts, featuring exciting arts performances not to be
-        missed! "
-      button: BE ENTHRALLED HERE
-      url: /events/freshmen-orientation-programme-2022/#spectacular
-      alt: Spectacular Concerts
   - infopic:
       title: Temasek Regatta 2022
       subtitle: Freshmen Orientation Programme
