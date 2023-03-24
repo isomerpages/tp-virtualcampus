@@ -40,8 +40,7 @@ sections:
       description: "Wrap up your onboarding journey at this special finale programme,
         featuring exciting dragon boat races and arts performances! "
       button: BE ENTHRALLED HERE
-      url: /events/freshmen-orientation-programme-2022/#regatta
-      alt: Dragon Boat
+      url: /events/freshmen-orientation-programme-2023
   - infopic:
       title: CCA Fair 2023 (26-27 April)
       subtitle: CCA Fair
