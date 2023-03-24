@@ -84,31 +84,6 @@ Should you have any queries, you may direct them to your respective Academic Sch
 </div>
 
 
-**Applied Science**
-* 6780 5322
-* aschotline@tp.edu.sg
-
-**Business**
-* 6780 5127
-* bushotline@tp.edu.sg
-
-**Design**
-* 6780 5133
-* deshotline@tp.edu.sg
-
-**Engineering**
-* 6780 5144
-* enghotline@tp.edu.sg
-
-**Humanities & Social Science**
-* 6780 6565
-* hsshotline@tp.edu.sg
-
-**Informatics & IT**
-* 6780 5158
-* iit@tp.edu.sg
-
-
 As you immerse yourself in the exciting line-up of FOP activities, we do hope that you will embrace the **_Team Temasek Spirit_** – a special bond shared by our TP family across varied backgrounds, cultures and countries, and cemented by our collective Spirit of Excellence, Resilience, Respect and Care for others.
 
 We look forward to welcoming you to TP!
