@@ -56,3 +56,5 @@ Keen to find out more about our CCAs, Clubs and Interest Groups prior to the eve
         </td>
     </tr>
 </table>
+
+(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)
