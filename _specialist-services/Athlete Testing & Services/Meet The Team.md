@@ -11,12 +11,12 @@ Hello! We are passionate about student development and sports and strive to empo
         <tr>
             <td style="width:49%"><br>
                 <a href="mailto:raymond_loh@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Raymond-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Raymond">                                       </image>
+                    <image src="/images/staff-team-images/Raymond-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Raymond">                                       </image>
                  </a>
             </td>
             <td style="width:49%"><br>
                 <a href="mailto:pang_seng_hui@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Seng Hui-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Seng Hui">
+                    <image src="/images/staff-team-images/Seng Hui-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Seng Hui">
                     </image>
                 </a>
             </td>
@@ -29,12 +29,12 @@ Hello! We are passionate about student development and sports and strive to empo
         <tr>
             <td style="width:49%"><br>
                 <a href="mailto:koh_wen_kiat@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Wen Kiat-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wen Kiat">                                       </image>
+                    <image src="/images/staff-team-images/Wen Kiat-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Wen Kiat">                                       </image>
                 </a>
 					</td>
             <td style="width:49%"><br>
                 <a href="mailto:muhammad_haffiz_amin@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Haffiz-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Haffiz">                                       </image>
+                    <image src="/images/staff-team-images/Haffiz-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Haffiz">                                       </image>
                  </a>
             </td>
          </tr>
@@ -46,13 +46,13 @@ Hello! We are passionate about student development and sports and strive to empo
         <tr>
             <td style="width:49%"><br>
                 <a href="mailto:darren_tan@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Darren-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Darren">
+                    <image src="/images/staff-team-images/Darren-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Darren">
                     </image>
                 </a>
             </td>
             <td style="width:49%"><br>
                 <a href="mailto:tan_thian_seng@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Thian Seng-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Thian Seng">                                       </image>
+                    <image src="/images/staff-team-images/Thian Seng-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Thian Seng">                                       </image>
                 </a>
             </td>
          </tr>
@@ -64,13 +64,13 @@ Hello! We are passionate about student development and sports and strive to empo
         <tr>
             <td style="width:49%"><br>
                 <a href="mailto:tan_yeuan_huei@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Yeuan Huei-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Yeuan Huei">
+                    <image src="/images/staff-team-images/Yeuan Huei-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Yeuan Huei">
                     </image>
                 </a>
             </td>
             <td style="width:49%"><br>
                 <a href="mailto:hengnuan@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Sheena-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sheena">                                       </image>
+                    <image src="/images/staff-team-images/Sheena-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sheena">                                       </image>
                 </a>
             </td>
          </tr>
@@ -82,7 +82,7 @@ Hello! We are passionate about student development and sports and strive to empo
         <tr>
             <td style="width:49%"><br>
                 <a href="mailto:charis_woo@tp.edu.sg">
-                    <image src="/images/staff-team-images/Intro_Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
+                    <image src="/images/staff-team-images/Charis-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Charis">
                     </image>
                 </a>
             </td>
