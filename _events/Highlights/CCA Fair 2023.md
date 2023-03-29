@@ -26,6 +26,9 @@ _(Note: Juniors and Seniors are also welcome!)_
 
 Keen to find out more about our CCAs, Clubs and Interest Groups prior to the event? Check them out via the links below!
 
+
+(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)
+
 <table>
     <tr>
         <td style="width:50%"><br> 
