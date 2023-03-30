@@ -35,28 +35,24 @@ Keen to find out more about our CCAs, Clubs and Interest Groups prior to the eve
     <tbody><tr>
         <td style="width:50%"><br> 
             <a href="/cca-and-student-groups/performing-arts/">
-                <img src="/images/Buttons/Performing Arts v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
-                
+                <img src="/images/Buttons/Performing Arts v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">                
             </a>
         </td>
         <td style="width:50%"><br>
             <a href="/cca-and-student-groups/sports/">
                 <img src="/images/Buttons/Sports v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
-                
-            </a>
+                           </a>
         </td>
     </tr>
     <tr>
         <td style="width:50%"><br>
             <a href="/cca-and-student-groups/p10-and-interest-groups/p10-clubs/">
-                <img src="/images/Buttons/P10 &amp; IG v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
-                
+                <img src="/images/Buttons/P10 &amp; IG v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">                
             </a>
         </td>
         <td style="width:50%"><br>
             <a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/">
-                <img src="/images/Buttons/Diploma Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
-                
+                <img src="/images/Buttons/Diploma Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">                
             </a>
         </td>
     </tr>
