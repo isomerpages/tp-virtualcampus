@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Media & Production Crew
+title: Digital Media &amp; Production Crew
 permalink: /performing-arts/digital-media-and-production-crew/
 date: 2022-06-17
 description: ""
@@ -10,7 +10,7 @@ description: ""
 		<tr>
 			<td>
 				<p>
-The Digital Media & Production Crew (DMPC) enables all of our performing arts groups to be experienced both in-person and via a host of other media formats. Through event organisation, production management and technical support, DMPC brings ideas to life. 
+The Digital Media &amp; Production Crew (DMPC) enables all of our performing arts groups to be experienced both in-person and via a host of other media formats. Through event organisation, production management and technical support, DMPC brings ideas to life. 
 					<br>
 					<br>
 Engaging in audio, lighting, staging, visual media and post-production, the close-knit and dedicated group makes magic happen. Members receive training in a multitude of areas with current industry practitioners, and have abundant opportunites to practice these skills in real-world situations.
@@ -54,7 +54,7 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
 ##### Training Days
             
 <ul>    
-    <li>Monday & Thursday, 6:30pm to 9:30pm</li>
+    <li>Monday &amp; Thursday, 6:30pm to 9:30pm</li>
 	<li>Additional ad-hoc workshops will be conducted</li>
 	<li>Extra hours during production periods required</li>
 </ul>
@@ -66,13 +66,13 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
 	<li>
 		<a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
 		<br>
-		<i>Manager, Student Development & Alumni Affairs</i>
+		<i>Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 	<br>
 	<li>
 		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
 		<br>
-		<i>Senior Executive, Student Development & Alumni Affairs</i>
+		<i>Senior Executive, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -88,30 +88,27 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdAuZJ3J8o7/">
-                <image src="/images/Arts/DMPC/DMPC_Join DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <img src="/images/Arts/DMPC/DMPC_Join DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
                 <h6 style="margin-top:0%">Join DMPC!</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Ccxkq7UpUca/">
-                <image src="/images/Arts/DMPC/DMPC_Introduction Video.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
+                <img src="/images/Arts/DMPC/DMPC_Introduction Video.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
                 <h6 style="margin-top:0%">Introduction Video</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">
-                <image src="/images/Arts/DMPC/DMPC_Flickr.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
-                <h6 style="margin-top:0%">DMPC Flickr Page</h6>    
-                </image>
+                <img src="/images/Arts/DMPC/DMPC_Flickr.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
+                <h6 style="margin-top:0%">DMPC Flickr Page</h6> 
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 
