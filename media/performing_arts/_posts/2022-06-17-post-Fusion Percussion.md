@@ -38,7 +38,7 @@ description: ""
     <li>Community Chest Heartstrings Walk (2022)</li>
     <li>Kaki Bukit Youth Carnival (2022)</li>  
     <li>Reflections Arts Festival 2022: World Drum Night V (2022)</li>
-    <li>Tampines Changkat CC Golf Tournament & Appreciation Dinner (2022)</li>
+    <li>Tampines Changkat CC Golf Tournament &amp; Appreciation Dinner (2022)</li>
     <li>"In-Youthful-Company” @ Esplanade Waterfront (2019)</li>
     <li>Pink Ribbon Walk Breast Cancer Foundation (2019)</li>
     <li>World Drum Night 4: Even When No One Sees (2018)</li>      
@@ -51,7 +51,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Tuesday & Thursday, 6.00pm to 9.00pm</li>
+    <li>Tuesday &amp; Thursday, 6.00pm to 9.00pm</li>
 </ul>
 
 
@@ -61,7 +61,7 @@ description: ""
 	<li>
 		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
 		<br>
-		<i>Senior Executive, Student Development & Alumni Affairs</i>
+		<i>Senior Executive, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -77,30 +77,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdAvXXhh0hi/">
-                <image src="/images/Arts/FP/FP_Who are WE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <img src="/images/Arts/FP/FP_Who are WE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
                 <h6 style="margin-top:0%">Who Are WE?</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cc4yL8hLswq/">
-                <image src="/images/Arts/FP/FP_Sign Up Now.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <img src="/images/Arts/FP/FP_Sign Up Now.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
                 <h6 style="margin-top:0%">Sign Up Now!</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CczULZQBlj9/">
-                <image src="/images/Arts/FP/FP_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
+                <img src="/images/Arts/FP/FP_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                </image>
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 
