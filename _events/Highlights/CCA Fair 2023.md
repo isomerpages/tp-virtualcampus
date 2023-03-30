@@ -9,6 +9,8 @@ third_nav_title: Highlights
 ![](/images/Home/CCA%20Fair%202023.jpg)
 
 
+
+
 Discover your passion. Unleash your creativity. Forge lasting friendships. Maximise your fun. 
 
 Life as a TP student can be as exciting, engaging and empowering as you want it to be! From 26-27 April 2023, join us to discover the infectious Team Temasek spirit and experience campus vibrancy like never before! Take your pick from the diverse CCAs offered in TP – ranging from performing arts, sports, adventure, community service to entrepreneurship – and lots more! 
@@ -30,32 +32,32 @@ Keen to find out more about our CCAs, Clubs and Interest Groups prior to the eve
 (If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:50%"><br> 
             <a href="/cca-and-student-groups/performing-arts/">
-                <image src="/images/Buttons/Performing Arts v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
-                </image>
+                <img src="/images/Buttons/Performing Arts v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">
+                
             </a>
         </td>
         <td style="width:50%"><br>
             <a href="/cca-and-student-groups/sports/">
-                <image src="/images/Buttons/Sports v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
-                </image>
+                <img src="/images/Buttons/Sports v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
+                
             </a>
         </td>
     </tr>
     <tr>
         <td style="width:50%"><br>
             <a href="/cca-and-student-groups/p10-and-interest-groups/p10-clubs/">
-                <image src="/images/Buttons/P10 & IG v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
-                </image>
+                <img src="/images/Buttons/P10 &amp; IG v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">
+                
             </a>
         </td>
         <td style="width:50%"><br>
             <a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/">
-                <image src="/images/Buttons/Diploma Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
-                </image>
+                <img src="/images/Buttons/Diploma Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">
+                
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
