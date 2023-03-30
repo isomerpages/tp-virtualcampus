@@ -35,7 +35,7 @@ Besides promoting and showcasing the colourful and enthralling Indian Dance form
 ##### Features
 	
 <ul>
-    <li>21st IUFoST World Congress of Food Science & Technology: Gala Dinner (2022)</li>
+    <li>21st IUFoST World Congress of Food Science &amp; Technology: Gala Dinner (2022)</li>
     <li>Lisha Women’s Wing 10th Anniversary Celebrations: 200th Event (GOH: President Halimah Yacob, 2022)</li>  
     <li>Staff Appreciation Day (2022)</li>
     <li>Tapestry Move (2022)</li>
@@ -57,7 +57,7 @@ Besides promoting and showcasing the colourful and enthralling Indian Dance form
 ##### Training Days
             
 <ul>    
-    <li>Tuesday & Friday, 6pm to 9pm (On Campus)</li>
+    <li>Tuesday &amp; Friday, 6pm to 9pm (On Campus)</li>
     <li>Additional training days, nearing show day</li>
 </ul>
 
@@ -68,7 +68,7 @@ Besides promoting and showcasing the colourful and enthralling Indian Dance form
 	<li>
 		<a href="mailto:jasmine_leong@tp.edu.sg">Ms Jasmine Leong</a>
 		<br>
-		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -83,30 +83,27 @@ Besides promoting and showcasing the colourful and enthralling Indian Dance form
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cd3MXyuvr_w/">
-                <image src="/images/Arts/IDG/IDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <img src="/images/Arts/IDG/IDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cdxyq_RPn0_/">
-                <image src="/images/Arts/IDG/IDG_Trial Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <img src="/images/Arts/IDG/IDG_Trial Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">Trial Session</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcwslAUvgt4/">
-                <image src="/images/Arts/IDG/IDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
+                <img src="/images/Arts/IDG/IDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                </image>
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 
