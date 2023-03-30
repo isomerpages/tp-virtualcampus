@@ -39,7 +39,7 @@ description: ""
     <li>A Renaissance by Singapore Lyric Opera Youth Chorus (2022)
 </li>     
     <li> Community Chest Christmas On A Great Street Light-Up Ceremony (2022)</li>
-    <li> North East Community Give Back Golf & Appreciation Dinner (2022)</li>
+    <li> North East Community Give Back Golf &amp; Appreciation Dinner (2022)</li>
     <li>Temasek Polytechnic National Day Virtual Concert (2021)
 </li>  
 </ul>
@@ -57,7 +57,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Tuesday & Thursday, 6.30pm to 9.30pm</li>
+    <li>Tuesday &amp; Thursday, 6.30pm to 9.30pm</li>
 </ul>
 
 
@@ -67,7 +67,7 @@ description: ""
 	<li>
 		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
 		<br>
-		<i>Senior Executive, Student Development & Alumni Affairs</i>
+		<i>Senior Executive, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -83,30 +83,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcsIBpJvXpl/">
-                <image src="/images/Arts/Chorale/CHORALE_Virtual Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
+                <img src="/images/Arts/Chorale/CHORALE_Virtual Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
                 <h6 style="margin-top:0%">Virtual Fair 2022</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcNM5Y0PbWl/">
-                <image src="/images/Arts/Chorale/CHORALE_Temasek Spectacular.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
+                <img src="/images/Arts/Chorale/CHORALE_Temasek Spectacular.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
                 <h6 style="margin-top:0%">Temasek Spectacular 2022</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CbaE6TppP9c/">
-                <image src="/images/Arts/Chorale/CHORALE_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
-                <h6 style="margin-top:0%">DREAMS XII</h6>    
-                </image>
+                <img src="/images/Arts/Chorale/CHORALE_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
+                <h6 style="margin-top:0%">DREAMS XII</h6> 
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 
