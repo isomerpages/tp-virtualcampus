@@ -8,7 +8,7 @@ third_nav_title: Highlights
 
 ![](/images/Home/CCA%20Fair%202023.jpg)
 
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qcJwduU7FMg" height="315" width="560"></iframe>
 
 
 Discover your passion. Unleash your creativity. Forge lasting friendships. Maximise your fun. 
