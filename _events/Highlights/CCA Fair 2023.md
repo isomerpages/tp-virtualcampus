@@ -6,8 +6,6 @@ third_nav_title: Highlights
 ---
 ### CCA Fair 2023
 
-![](/images/Home/CCA%20Fair%202023.jpg)
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qcJwduU7FMg" height="400" width="100%"></iframe>
 
 
