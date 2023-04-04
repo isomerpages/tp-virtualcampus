@@ -57,7 +57,7 @@ description: ""
 	<li>
     <a href="mailto:fayanne_tan@tp.edu.sg">Ms Fayanne Tan</a>
 		<br>
-		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -72,30 +72,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Ccpvg6kJWn5/">
-                <image src="/images/Arts/SE/SE_Auditions & Interviews.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
-                <h6 style="margin-top:0%">Auditions & Interviews</h6>
-                </image>
+                <img src="/images/Arts/SE/SE_Auditions &amp; Interviews.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <h6 style="margin-top:0%">Auditions &amp; Interviews</h6>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcpuP7opI_x/">
-                <image src="/images/Arts/SE/SE_Important Information & FAQs.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <img src="/images/Arts/SE/SE_Important Information &amp; FAQs.png" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
                 <h6 style="margin-top:0%">Important Information and FAQs</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcnXKPRJwdh/">
-                <image src="/images/Arts/SE/SE_CCA Fair 2022.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
+                <img src="/images/Arts/SE/SE_CCA Fair 2022.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="String Ensemble">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                </image>
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 

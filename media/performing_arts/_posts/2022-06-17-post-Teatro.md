@@ -46,7 +46,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Wednesday & Friday, 6:30pm to 9pm (On-campus)</li>
+    <li>Wednesday &amp; Friday, 6:30pm to 9pm (On-campus)</li>
     <li>Additional training days, nearing show day</li>
 </ul>
 
@@ -57,7 +57,7 @@ description: ""
 	<li>
 		<a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
 		<br>
-		<i>Manager, Student Development & Alumni Affairs</i>
+		<i>Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -65,7 +65,7 @@ description: ""
 
 <ul>
 	<li><a href="https://www.instagram.com/tpteatro/">Instagram</a></li>
-    <li><a href="https://linktr.ee/teatroyanni?utm_source=linktree_profile_share&ltsid=42b31363-646a-46cd-ba10-0344d7744466">Linktree</a></li>
+    <li><a href="https://linktr.ee/teatroyanni?utm_source=linktree_profile_share&amp;ltsid=42b31363-646a-46cd-ba10-0344d7744466">Linktree</a></li>
 </ul>
 
 <hr>
@@ -73,30 +73,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cc-OIRkLQNb/">
-                <image src="/images/Arts/Teatro/TEATRO_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
+                <img src="/images/Arts/Teatro/TEATRO_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcxJynILCnA/">
-                <image src="/images/Arts/Teatro/TEATRO_Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
+                <img src="/images/Arts/Teatro/TEATRO_Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
                 <h6 style="margin-top:0%">Recruitment</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcmvDgDpCRj/">
-                <image src="/images/Arts/Teatro/TEATRO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
+                <img src="/images/Arts/Teatro/TEATRO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                </image>
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 

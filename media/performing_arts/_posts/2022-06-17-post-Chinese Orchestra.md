@@ -33,7 +33,7 @@ description: ""
 	
 <ul>
 		<li>Tapestry: MELODY Music Festival - 87.2 FM Tunes (2023)
-    <li>Temasek Spectacular (2022)</li>
+    </li><li>Temasek Spectacular (2022)</li>
     <li>DREAMS XII (2022)</li>
     <li>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</li>
     <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
@@ -51,7 +51,7 @@ description: ""
             
 <ul>    
     <li>Wednesday (Combined), 7pm to 9pm</li>
-    <li>Thursday & Friday (Sectionals), 7pm to 9pm</li>
+    <li>Thursday &amp; Friday (Sectionals), 7pm to 9pm</li>
 </ul>
 
 
@@ -61,7 +61,7 @@ description: ""
 	<li>
 		<a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
 		<br>
-		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -76,30 +76,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdxoOHQJIHI/">
-                <image src="/images/Arts/CO/CO_Induction Day.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <img src="/images/Arts/CO/CO_Induction Day.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                 <h6 style="margin-top:0%">Induction Day</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cco2MFnpiUd/">
-                <image src="/images/Arts/CO/CO_CCA Fair AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">CCA Fair AY22/23</h6>    
-                </image>
+                <img src="/images/Arts/CO/CO_CCA Fair AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <h6 style="margin-top:0%">CCA Fair AY22/23</h6> 
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcfdpjZPW8H/">
-                <image src="/images/Arts/CO/CO_Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
+                <img src="/images/Arts/CO/CO_Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-                </image>
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 

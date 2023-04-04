@@ -10,13 +10,13 @@ description: ""
 		<tr>
 			<td>
 				<p>
-                    The Temasek Polytechnic Dance Ensemble (TPDE) comprises 3 main dance genres; Hip Hop, Modern Dance & Breakin’. 
+                    The Temasek Polytechnic Dance Ensemble (TPDE) comprises 3 main dance genres; Hip Hop, Modern Dance &amp; Breakin’. 
 					<br>
 					<br>
-                    Modern Dance is a dance form developed from classical ballet in the early 20th century, shedding the classical ballet technique, costume and shoes. Hip Hop is a popular dance style involving energetic & funky street dance. Breakin’ includes a multitude of different floorwork & explosive movements. 
+                    Modern Dance is a dance form developed from classical ballet in the early 20th century, shedding the classical ballet technique, costume and shoes. Hip Hop is a popular dance style involving energetic &amp; funky street dance. Breakin’ includes a multitude of different floorwork &amp; explosive movements. 
 					<br>
 					<br>
-                    Dance Ensemble’s Hip Hop, Modern Dance & Breakin’ are under the tutelage of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.
+                    Dance Ensemble’s Hip Hop, Modern Dance &amp; Breakin’ are under the tutelage of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.
                     <br>
                     <br>
 				</p>
@@ -71,7 +71,7 @@ description: ""
 	<li>
 		<a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
 		<br>
-		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -88,30 +88,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CeNkaevJlGe/">
-                <image src="/images/Arts/DE/DE_Induction Camp.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <img src="/images/Arts/DE/DE_Induction Camp.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                 <h6 style="margin-top:0%">Induction Camp</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cc9hPUxp-dV/">
-                <image src="/images/Arts/DE/DE_Recruitment Drive.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <img src="/images/Arts/DE/DE_Recruitment Drive.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                 <h6 style="margin-top:0%">Recruitment Drive</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cc76eMTJxD6/">
-                <image src="/images/Arts/DE/DE_Rice N Shine.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
+                <img src="/images/Arts/DE/DE_Rice N Shine.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23 - Rice N Shine</h6>    
-                </image>
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 

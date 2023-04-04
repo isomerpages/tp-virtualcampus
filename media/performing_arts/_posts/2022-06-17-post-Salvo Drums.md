@@ -54,7 +54,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Tuesday & Thursday, 6.30pm to 9.30pm</li>
+    <li>Tuesday &amp; Thursday, 6.30pm to 9.30pm</li>
     <li>Saturday, 9am to 5pm (Seniors)</li>
 </ul>
 
@@ -65,7 +65,7 @@ description: ""
 	<li>
     <a href="mailto:fayanne_tan@tp.edu.sg">Ms Fayanne Tan</a>
 		<br>
-		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -80,30 +80,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Cco1SjBJ28_/">
-                <image src="/images/Arts/Salvo/SALVO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
+                <img src="/images/Arts/Salvo/SALVO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CbXZNd3pj72/">
-                <image src="/images/Arts/Salvo/SALVO_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
+                <img src="/images/Arts/Salvo/SALVO_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
                 <h6 style="margin-top:0%">DREAMS XII</h6>    
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CSJ3niJn7Ak/">
-                <image src="/images/Arts/Salvo/SALVO_National Day Concert 2021.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
+                <img src="/images/Arts/Salvo/SALVO_National Day Concert 2021.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
                 <h6 style="margin-top:0%">National Day Concert 2021</h6>
-                </image>
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 

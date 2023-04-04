@@ -53,7 +53,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Monday & Wednesday, 6pm to 9pm (On-Campus)</li>
+    <li>Monday &amp; Wednesday, 6pm to 9pm (On-Campus)</li>
     <li>Additional training days, nearing show day</li>
 </ul>
 
@@ -64,7 +64,7 @@ description: ""
 	<li>
 		<a href="mailto:jasmine_leong@tp.edu.sg">Ms Jasmine Leong</a>
 		<br>
-		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -80,30 +80,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcxifZzB8a8/">
-                <image src="/images/Arts/DK/DK_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                </image>
+                <img src="/images/Arts/DK/DK_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CbY8xXDBJD3/">
-                <image src="/images/Arts/DK/DK_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <img src="/images/Arts/DK/DK_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
                 <h6 style="margin-top:0%">DREAMS XII</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CVCoeDgok7L/">
-                <image src="/images/Arts/DK/DK_Kem Budaya.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
+                <img src="/images/Arts/DK/DK_Kem Budaya.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
                 <h6 style="margin-top:0%">Kem Budaya</h6>
-                </image>
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 

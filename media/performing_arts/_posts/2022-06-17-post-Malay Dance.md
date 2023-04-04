@@ -43,7 +43,7 @@ description: ""
 ##### Achievements
 	
 <ul>
-    <li>Persada Juara Tari: Champion & Best Choreography Award (2018)
+    <li>Persada Juara Tari: Champion &amp; Best Choreography Award (2018)
 </li>
 </ul>
 
@@ -54,7 +54,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Monday & Wednesday, 6pm to 9pm (On-campus)</li>
+    <li>Monday &amp; Wednesday, 6pm to 9pm (On-campus)</li>
 </ul>
 
 
@@ -64,7 +64,7 @@ description: ""
 	<li>
 		<a href="mailto:jasmine_leong@tp.edu.sg">Ms Jasmine Leong</a>
 		<br>
-		<i>Assistant Manager, Student Development & Alumni Affairs</i>
+		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
@@ -82,30 +82,27 @@ description: ""
 ### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdUraqdgNbh/">
-                <image src="/images/Arts/MDG/MDG_Zapin Pak Ngah Balik.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <img src="/images/Arts/MDG/MDG_Zapin Pak Ngah Balik.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                 <h6 style="margin-top:0%">Zapin Pak Ngah Balik</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdDnCkLB8nk/">
-                <image src="/images/Arts/MDG/MDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <img src="/images/Arts/MDG/MDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
                 <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-                </image>
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcuPdcGrSOo/">
-                <image src="/images/Arts/MDG/MDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                </image>
+                <img src="/images/Arts/MDG/MDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
+                <h6 style="margin-top:0%">CCA Fair 2022</h6>   
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
 	
 <hr>
 
