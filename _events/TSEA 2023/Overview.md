@@ -15,7 +15,9 @@ Do take a moment to uplift your students' spirits, and give them a pat on the ba
 Nominate them for the TSEA today!
 
 **Announcement**  
-Nominations for the TSEA are open from now till&nbsp;**5 May 2023 (Friday)**. Please refer to the full list of awards, as well as the eligibility criteria, nomination process and submission forms/links below.
+Nominations for the TSEA are open from now till&nbsp;**5 May 2023 (Friday)**.
+
+Please refer to the full list of awards, as well as the eligibility criteria, nomination process and submission forms/links below.
 
 For enquiries, please contact:&nbsp;[**tsea@tp.edu.sg**](mailto:tsea@tp.edu.sg)
 
