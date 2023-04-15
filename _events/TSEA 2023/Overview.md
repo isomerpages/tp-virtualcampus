@@ -21,11 +21,11 @@ Please refer to the full list of awards, as well as the eligibility criteria, no
 
 For enquiries, please contact:&nbsp;[**tsea@tp.edu.sg**](mailto:tsea@tp.edu.sg)
 
-For the full list of Individual Awards and their eligibility criteria, click [here](/files/TSEA%202022%20-%20Individual%20Awards.pdf).  
+For the full list of Individual Awards and their eligibility criteria, click [here](/files/TSEA/2023/tsea%202023%20-%20individual%20awards.pdf).
 
-For the full list of Group/Team Awards and their eligibility criteria, click [here](/files/TSEA%202022%20-%20%20Group-Team%20Awards.pdf). 
+For the full list of Group/Team Awards and their eligibility criteria, click [here](/files/TSEA/2023/tsea%202023%20-%20group-team%20awards.pdf).
 
-Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA%202022%20-%20FAQs.pdf)!
+Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA/2023/tsea%202023%20-%20faqs.pdf)!
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>
 
