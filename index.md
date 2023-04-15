@@ -102,15 +102,6 @@ sections:
       image: /images/Events/NDC22.png
       alt: National Day Concert 2022
   - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2022
-      subtitle: TSEA 2022
-      image: /images/Home/TSEA 2022.jpg
-      description: Congratulations to all our TSEA 2022 recipients! A BIG thank you
-        for your amazing dedication, selfless sacrifice and tenacious spirit!
-      button: View our Honour roll
-      url: /events/temasek-student-excellence-awards-2022
-      alt: TSEA2022
-  - infopic:
       title: Dreams XII Concert – Back to LIVE
       subtitle: Temasek Arts Centre Production
       description: '"Back to LIVE" in-person concert showcases our very own Temasek
