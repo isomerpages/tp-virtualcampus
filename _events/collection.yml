@@ -2,9 +2,9 @@ collections:
   events:
     output: true
     order:
-      - TSEA 2023/.keep
       - Calendar.md
       - Student Happenings.md
+      - TSEA 2023/.keep
       - Highlights/.keep
       - Highlights/Freshmen Orientation Programme 2023.md
       - Highlights/CCA Fair 2023.md
@@ -19,8 +19,8 @@ collections:
       - Community Engagement/Caring for Environment.md
       - Clubs/.keep
       - Clubs/Walk for Rice.md
-      - Sports/Sports Appreciation & Alumni Homecoming.md
       - Sports/.keep
+      - Sports/Sports Appreciation & Alumni Homecoming.md
       - Sports/POLITE & IVP.md
       - Temasek Arts Centre/.keep
       - Temasek Arts Centre/About TAC.md
@@ -29,7 +29,7 @@ collections:
       - Temasek Arts Centre/In Person Series.md
       - Temasek Arts Centre/Temasek Arts Festival 2021.md
       - Temasek Arts Centre/TP's Film & Media Talents.md
-      - Temasek LEAD/TPLA Newsletters.md
       - Temasek LEAD/.keep
+      - Temasek LEAD/TPLA Newsletters.md
       - Temasek LEAD/About LEAD.md
       - Temasek LEAD/LEAD Events.md
