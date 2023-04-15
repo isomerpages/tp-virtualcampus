@@ -28,5 +28,3 @@ For the full list of Group/Team Awards and their eligibility criteria, click [he
 Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA/2023/tsea%202023%20-%20faqs.pdf)!
 
 If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>
-
-See you next year!
