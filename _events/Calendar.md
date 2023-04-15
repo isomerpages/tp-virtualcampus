@@ -10,7 +10,7 @@ description: ""
 				<img src="/images/Home/tsea 2023 cover.jpg" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/tsea/overview/"><h4 style="margin-top:0%">Temasek Student Excellence Awards 2023</h4></a>
+			<a href="/events/tsea-2023/overview/"><h4 style="margin-top:0%">Temasek Student Excellence Awards 2023</h4></a>
 				<h6 style="margin-top:0%"><i>17 April - 5 May  2023</i></h6>
 				<p style="margin-top:0%">
 					Calling all CCA advisors! Celebrate your students’ contributions, passion and spirit. Inspire them to continue the good fight. Nominate them for the TSEA today!
