@@ -6,7 +6,7 @@ third_nav_title: TSEA 2023
 ---
 ## Temasek Student Excellence Awards 2023  <br>
 ### Award Nomination
-<br>
+
 * Nominations for the TSEA are open from now till **5 May 2023 (Friday),11.59pm**. Nominations received after the deadline will strictly not be accepted.
 
 * Unless otherwise specified, only TP CCAs registered with the Student Development &amp; Alumni Affairs Department are eligible for the TSEA.
@@ -21,7 +21,7 @@ third_nav_title: TSEA 2023
 <br> <br> (\*Students are allowed to nominate themselves for the Temasek Student Eco-Award. TP staff can submit nominations for this award as well.)
 
 ### Award Selection
-<br>
+
 * All forms must clearly indicate the nominated award category. However, the Selection Panel will make the final decision for the category that is most applicable.
 
 * Selection is based on a set of pre-determined criteria, which includes amongst other things, standard of achievement, attendance, level of contribution, scale and number of projects, and demonstration of artistic merit, leadership skills and sportsmanship.
@@ -29,7 +29,7 @@ third_nav_title: TSEA 2023
 * The selection of nominees will be left to the Selection Panel and the decision of the Panel is final. Neither direct communication nor appeals will be entertained.
 
 ### Conditions
-<br>
+
 * The award may be withdrawn from the recipient, should inaccurate facts or information be provided at the time of nomination.
 
 * The Polytechnic reserves the right not to award any of the awards if no suitable candidates are identified.
