@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - TSEA 2023/.keep
       - Calendar.md
       - Student Happenings.md
       - Highlights/.keep
