@@ -19,13 +19,13 @@ Have an outstanding nominee who deserves to be recognised in any of these award 
 
 This is awarded to students who have been actively involved in their respective CCAs over the past academic year (AY2022/2023).
 
-Submit your nominations via the prescribed nomination form to the TSEA Secretariat at:&nbsp;[tsea@tp.edu.sg](mailto:tsea@tp.edu.sg)&nbsp;_(The nomination form can be downloaded [here](https://tinyurl.com/tsea2023-Merit-Colours).)_
+Submit your nominations via the prescribed nomination form to the TSEA Secretariat at:&nbsp;[tsea@tp.edu.sg](mailto:tsea@tp.edu.sg)&nbsp;_(The nomination form can be downloaded [here](https://tinyurl.com/2023tsea-Merit-Colours).)_
 
 **2.&nbsp;&nbsp;&nbsp;Full Colours/Half Colours Award**
 
 This is awarded to students who have achieved top competition placings in their CCAs&nbsp;over the past academic year (AY2022/2023).
 
-Submit your nominations via the prescribed nomination form to the TSEA Secretariat at:&nbsp;[tsea@tp.edu.sg](mailto:tsea@tp.edu.sg)&nbsp;_(The nomination form can be downloaded [here](https://tinyurl.com/tsea2023-Merit-Colours).)_
+Submit your nominations via the prescribed nomination form to the TSEA Secretariat at:&nbsp;[tsea@tp.edu.sg](mailto:tsea@tp.edu.sg)&nbsp;_(The nomination form can be downloaded [here](https://tinyurl.com/2023tsea-Merit-Colours).)_
 
 **3.&nbsp;&nbsp;&nbsp;Temasek CCA Gold Award**
 
