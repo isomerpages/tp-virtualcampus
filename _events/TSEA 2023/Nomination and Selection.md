@@ -4,7 +4,7 @@ permalink: /events/tsea-2023/nomination-and-selection/
 description: ""
 third_nav_title: TSEA 2023
 ---
-##### Temasek Student Excellence Awards 2023  <br>
+## Temasek Student Excellence Awards 2023  <br>
 ### Award Nomination
 
 * Nominations for the TSEA are open from now till **5 May 2023 (Friday),11.59pm**. Nominations received after the deadline will strictly not be accepted.
