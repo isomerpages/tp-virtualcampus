@@ -26,6 +26,15 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2023
+      description: Celebrate your students’ contributions, passion and spirit. Inspire
+        them to continue the good fight. Nominate them for the TSEA today!
+      button: NOMINATE NOW!
+      url: /events/tsea-2023/overview/
+      image: /images/Home/tsea 2023 cover.jpg
+      alt: TSEA 2023
+      subtitle: TSEA 2023
+  - infopic:
       title: Freshmen Orientation Programme 2023
       subtitle: Freshmen Orientation Programme
       description: Dear Freshmen, welcome to the TP Fam! Start your journey with us on
@@ -118,12 +127,4 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2023
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
-      button: NOMINATE NOW!
-      url: /events/tsea-2023/overview/
-      image: /images/Home/tsea 2023 cover.jpg
-      alt: TSEA 2023
 ---
