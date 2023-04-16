@@ -11,8 +11,9 @@ Have an outstanding nominee who deserves to be recognised in any of these award 
 
 **Step 1:** Download and read the eligibility criteria for all Individual Awards&nbsp;[here](/files/TSEA/2023/tsea%202023%20-%20individual%20awards.pdf).
 
-**Step 2:** Submit your nominations by&nbsp;**5 May**&nbsp;**2023 (Friday), 11.59pm**.<br>
-(Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.)
+**Step 2:** Submit your nominations by&nbsp;**5 May**&nbsp;**2023 (Friday), 11.59pm**.
+
+Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.
 <hr>
 
 ##### Individual Award Categories
