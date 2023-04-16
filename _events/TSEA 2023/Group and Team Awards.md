@@ -11,8 +11,9 @@ Have an outstanding group of students who deserves to be recognised in any of th
 
 **Step 1:** Download and read the eligibility criteria for all Group and Team Awards&nbsp;[here](/files/TSEA/2023/tsea%202023%20-%20group-team%20awards.pdf).
 
-**Step 2:** Submit your nominations by **5 May 2023 (Friday), 11.59pm**.<br>
-(Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.)
+**Step 2:** Submit your nominations by **5 May 2023 (Friday), 11.59pm**.
+
+Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.
 <hr>
 
 ##### Group and Team Award Categories
