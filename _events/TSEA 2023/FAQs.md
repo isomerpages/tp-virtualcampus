@@ -37,7 +37,7 @@ No, nominations must be submitted by TP staff for all the awards (with the excep
 
 **7.   _Temasek Student Eco-Award_: What is the difference between the Eco-Green Award and Eco-Shield Excellence Award?**
 
-All nominations will be evaluated by the Selection Panel. Deserving and meritorious nominees will receive either&nbsp;the Eco-Green Award or Eco-Shield Excellence Award, depending on the quality of their contributions/achievements.
+All nominations will be evaluated by the Selection Panel. Deserving and meritorious nominees will receive either the Eco-Green Award or Eco-Shield Excellence Award, depending on the quality of their contributions/achievements.
 
 **8.   Can a TP staff be nominated for the Outstanding Coach/Instructor Award?**
 
@@ -45,7 +45,7 @@ No, this award is only applicable to an external, officially-appointed TP coach 
 
 **9.   How do I know whether my nomination form has been received?**
 
-The TSEA Secretariat will send you an acknowledgement email **within 3 working days** upon receiving your nomination. Please email&nbsp;tsea@tp.edu.sg if no acknowledgement email was received.
+The TSEA Secretariat will send you an acknowledgement email **within 3 working days** upon receiving your nomination. Please email [tsea@tp.edu.sg](mailto:tsea@tp.edu.sg) if no acknowledgement email was received.
 
 **10.   Can the nomination deadline be extended?**
 
