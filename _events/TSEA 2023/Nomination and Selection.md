@@ -11,7 +11,7 @@ third_nav_title: TSEA 2023
 
 * Unless otherwise specified, only TP CCAs registered with the Student Development &amp; Alumni Affairs Department are eligible for the TSEA.
 
-* For the CCA Merit Award (Arts/Sports/Leadership), Full Colours and Half Colours Award, CCA advisors are to submit their nominations via the prescribed nomination form to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a> (Only electronic submissions will be accepted.)
+* For the CCA Merit Award (Arts/Sports/Leadership), Full Colours and Half Colours Award, CCA advisors are to submit their nominations via the prescribed nomination form to the TSEA Secretariat at: [tsea@tp.edu.sg](mailto:tsea@tp.edu.sg). (Only electronic submissions will be accepted.)
 
 * For the Individual Higher Awards, Group/Team Higher Awards and Outstanding Coach/Instructor Award, nominations must be submitted via the official online forms.
 
@@ -36,4 +36,4 @@ third_nav_title: TSEA 2023
 
 Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA/2023/tsea%202023%20-%20faqs.pdf)!
 
-For further enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
+For further enquiries, please contact: [tsea@tp.edu.sg](mailto:tsea@tp.edu.sg).
