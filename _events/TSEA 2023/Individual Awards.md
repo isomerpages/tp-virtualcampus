@@ -16,7 +16,7 @@ Have an outstanding nominee who deserves to be recognised in any of these award 
 Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.
 <hr>
 
-##### Individual Award Categories
+#### Individual Award Categories
 
 **1.&nbsp;  CCA Merit Award (Arts/Sports/Leadership)**
 
