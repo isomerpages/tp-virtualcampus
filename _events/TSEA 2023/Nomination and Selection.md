@@ -36,4 +36,4 @@ third_nav_title: TSEA 2023
 
 Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA/2023/tsea%202023%20-%20faqs.pdf)!
 
-For further enquiries, please contact: tsea@tp.edu.sg
+For further enquiries, please contact&nbsp;tsea@tp.edu.sg .
