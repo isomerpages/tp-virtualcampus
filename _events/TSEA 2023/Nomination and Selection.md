@@ -11,13 +11,13 @@ third_nav_title: TSEA 2023
 
 * Unless otherwise specified, only TP CCAs registered with the Student Development &amp; Alumni Affairs Department are eligible for the TSEA.
 
-* For the CCA Merit Award (Arts/Sports/Leadership), Full Colours and Half Colours Award, CCA advisors are to submit their nominations via the prescribed nomination form to the TSEA Secretariat at: tsea@tp.edu.sg (Only electronic submissions will be accepted.)&nbsp;
+* For the CCA Merit Award (Arts/Sports/Leadership), Full Colours and Half Colours Award, CCA advisors are to submit their nominations via the prescribed nomination form to the TSEA Secretariat at: tsea@tp.edu.sg (Only electronic submissions will be accepted.)
 
-* For the Individual Higher Awards, Group/Team Higher Awards and Outstanding Coach/Instructor Award, nominations must be submitted via the official online forms.&nbsp;
+* For the Individual Higher Awards, Group/Team Higher Awards and Outstanding Coach/Instructor Award, nominations must be submitted via the official online forms.
 
 * Nominations must be submitted by TP staff for all the awards (with the exception of the \*Temasek Student Eco-Award). Nominations sent by students are deemed to be unsupported by TP staff and will hence not be accepted. Students who are found to have submitted their nominations without the endorsement of TP staff will have their awards withdrawn.
 
-* It is the TP staff’s responsibility to verify the accuracy of all information, including the nominees’ SEAL records, before submitting their nominations.&nbsp;
+* It is the TP staff’s responsibility to verify the accuracy of all information, including the nominees’ SEAL records, before submitting their nominations.
 <br> <br> (\*Students are allowed to nominate themselves for the Temasek Student Eco-Award. TP staff can submit nominations for this award as well.)
 
 ### Award Selection
