@@ -26,6 +26,15 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2023
+      description: Celebrate your students’ contributions, passion and spirit. Inspire
+        them to continue the good fight. Nominate them for the TSEA today!
+      button: NOMINATE NOW!
+      url: /events/tsea-2023/overview/
+      image: /images/Home/tsea 2023 cover.jpg
+      alt: TSEA 2023
+      subtitle: TSEA 2023
+  - infopic:
       title: Freshmen Orientation Programme 2023
       subtitle: Freshmen Orientation Programme
       description: Dear Freshmen, welcome to the TP Fam! Start your journey with us on
@@ -92,15 +101,6 @@ sections:
       url: events/national-day-celebration-2022
       image: /images/Events/NDC22.png
       alt: National Day Concert 2022
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2022
-      subtitle: TSEA 2022
-      image: /images/Home/TSEA 2022.jpg
-      description: Congratulations to all our TSEA 2022 recipients! A BIG thank you
-        for your amazing dedication, selfless sacrifice and tenacious spirit!
-      button: View our Honour roll
-      url: /events/temasek-student-excellence-awards-2022
-      alt: TSEA2022
   - infopic:
       title: Dreams XII Concert – Back to LIVE
       subtitle: Temasek Arts Centre Production
