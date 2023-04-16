@@ -21,8 +21,6 @@ Nominations for the TSEA are open from now till **5 May 2023 (Friday)**.
 
 Please refer to the full list of awards, as well as the eligibility criteria, nomination process and submission forms/links below.
 
-For enquiries, please contact:&nbsp;[**tsea@tp.edu.sg**](mailto:tsea@tp.edu.sg)
-
 For the full list of Individual Awards and their eligibility criteria, click [here](/files/TSEA/2023/tsea%202023%20-%20individual%20awards.pdf).
 
 For the full list of Group/Team Awards and their eligibility criteria, click [here](/files/TSEA/2023/tsea%202023%20-%20group-team%20awards.pdf).
