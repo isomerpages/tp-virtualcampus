@@ -47,6 +47,6 @@ No, this award is only applicable to an external, officially-appointed TP coach 
 
 The TSEA Secretariat will send you an acknowledgement email&nbsp;**within 3 working days**&nbsp;upon receiving your nomination. Please email&nbsp;tsea@tp.edu.sg if no acknowledgement email was received.
 
-**10.   Can the nomination deadline be extended?**&nbsp;
+**10.   Can the nomination deadline be extended?**
 
 No, please submit your nominations by&nbsp;**5 May 2023 (Friday), 11.59pm**. Nominations received after the deadline will strictly not be accepted.
