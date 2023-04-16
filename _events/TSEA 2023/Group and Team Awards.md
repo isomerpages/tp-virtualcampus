@@ -44,18 +44,18 @@ Submit your nominations [here](https://forms.office.com/r/phLHrRi5T2).
 
 **5.&nbsp;&nbsp;&nbsp;Promising Young Entrepreneur Award**
 
-This is awarded to groups of entrepreneurial students / fresh graduates, whose businesses exhibit excellent growth or high potential for growth and scalability.&nbsp;
+This is awarded to groups of entrepreneurial students / fresh graduates, whose businesses exhibit excellent growth or high potential for growth and scalability.
 
 Submit your nominations [here](https://forms.office.com/r/phLHrRi5T2).
 
 **6.&nbsp;&nbsp;&nbsp;Community Service Excellence Award**
 
-This is awarded to groups of students who have demonstrated commitment to advance the welfare of their community at large, and/or who have made significant contributions to this community&nbsp;over the past academic year (AY2022/2023).&nbsp;
+This is awarded to groups of students who have demonstrated commitment to advance the welfare of their community at large, and/or who have made significant contributions to this community over the past academic year (AY2022/2023).&nbsp;
 
 Submit your nominations [here](https://forms.office.com/r/phLHrRi5T2).
 
 **7.&nbsp;&nbsp;&nbsp;Service Excellence Award**
 
-This is awarded to groups of students who have demonstrated a high level of commitment to supporting TP activities, and who have made significant contributions to the wider TP community&nbsp;over the past academic year (AY2022/2023).
+This is awarded to groups of students who have demonstrated a high level of commitment to supporting TP activities, and who have made significant contributions to the wider TP community over the past academic year (AY2022/2023).
 
 Submit your nominations [here](https://forms.office.com/r/phLHrRi5T2).
