@@ -15,7 +15,7 @@ Have an outstanding group of students who deserves to be recognised in any of th
 (Nomination links are provided in the PDF document in Step 1, and also reproduced below for your convenience.)
 <hr>
 
-##### Group and Team Awards: Categories
+##### Group and Team Award Categories
 
 **1.&nbsp;&nbsp;&nbsp;Arts Group of the Year**
 
