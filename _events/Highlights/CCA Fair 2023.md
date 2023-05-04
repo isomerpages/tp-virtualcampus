@@ -15,7 +15,7 @@ Life as a TP student can be as exciting, engaging and empowering as you want it 
 
 This year, we are excited to bring back the CCA Fair in a fully physical format. What’s more, you can look forward to electrifying performances by our arts groups that are sure to enthrall and entertain you! 
 
-And that’s not all! Fancy a great thirst-quenching drink to beat the sweltering heat these days? Get your fix from the friendly folks at the Milo van, which will make a special appearance at the event on 27 Apr 2023, 11am to 2pm!
+And that’s not all! Fancy a great thirst-quenching drink to beat the sweltering heat these days? Get your fix from the friendly folks at the Milo van, which will make a special appearance at the event on 26 Apr 2023, 11am to 2pm!
 
 So, mark the dates for the CCA Fair 2023 now! See you there!
 
