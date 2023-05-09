@@ -1,6 +1,6 @@
 ---
 title: Workshops
-permalink: /specialist-services/Resources/workshops/
+permalink: /specialist-services/resources/workshops/
 third_nav_title: Workshops
 ---
 SDAA conducts workshops periodically to empower athletes with more knowledge to make informed training plans.  There is a range of workshops that caters to every team's needs. Customised workshops can also be arranged for a team, after discussion with the coach and athletes.   

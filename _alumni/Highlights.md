@@ -1,6 +1,6 @@
 ---
 title: Highlights
-permalink: /alumni/highlights
+permalink: /alumni/highlights/
 description: ""
 ---
 ### Stay Connected With Us

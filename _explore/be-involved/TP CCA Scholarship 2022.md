@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TP CCA Scholarship 2022
-permalink: /be-involved/TPccascholarship2022/
+permalink: /be-involved/tpccascholarship2022/
 third_nav_title: Be Involved
 ---
 ### TP CCA Scholarship 2022 - Open for Application

@@ -1,6 +1,6 @@
 ---
 title: Nutrition
-permalink: /specialist-services/Resources/nutrition/
+permalink: /specialist-services/resources/nutrition/
 third_nav_title: Workshops
 ---
 “*You cant out-train a bad diet*.” And yes, what an athlete eats and when he/she eats matters!  

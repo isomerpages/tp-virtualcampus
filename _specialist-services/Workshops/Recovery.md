@@ -1,6 +1,6 @@
 ---
 title: Recovery
-permalink: /specialist-services/Resources/recovery/
+permalink: /specialist-services/resources/recovery/
 third_nav_title: Workshops
 ---
 Recovery, the often forgotten element that is key to adaptation and improvement in performance!  

@@ -1,6 +1,6 @@
 ---
 title: POLITE & IVP
-permalink: /events/Sports/polite-ivp/
+permalink: /events/sports/polite-ivp/
 description: ""
 third_nav_title: Sports
 ---

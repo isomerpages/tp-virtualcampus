@@ -1,6 +1,6 @@
 ---
 title: Events
-permalink: /happenings/events
+permalink: /happenings/events/
 description: ""
 ---
 ### Be Part of Our Events!

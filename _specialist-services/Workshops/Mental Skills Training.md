@@ -1,6 +1,6 @@
 ---
 title: Mental Skills Training
-permalink: /specialist-services/Resources/mental-skills
+permalink: /specialist-services/resources/mental-skills/
 third_nav_title: Workshops
 ---
 

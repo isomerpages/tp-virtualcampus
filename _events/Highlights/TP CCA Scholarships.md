@@ -1,6 +1,6 @@
 ---
 title: TP CCA Scholarships
-permalink: /events/tp-cca-scholarships
+permalink: /events/tp-cca-scholarships/
 description: ""
 third_nav_title: Highlights
 ---

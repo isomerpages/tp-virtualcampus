@@ -1,6 +1,6 @@
 ---
 title: Alumni Businesses
-permalink: /alumni/alumni-businesses
+permalink: /alumni/alumni-businesses/
 description: ""
 ---
 ### TP Alumni Business Directory

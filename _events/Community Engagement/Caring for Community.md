@@ -1,6 +1,6 @@
 ---
 title: Caring for Community
-permalink: /events/community-engagement/caring-for-community
+permalink: /events/community-engagement/caring-for-community/
 description: ""
 third_nav_title: Community Engagement
 ---

@@ -1,6 +1,6 @@
 ---
 title: Completed Projects
-permalink: /specialist-services/Projects/completed
+permalink: /specialist-services/projects/completed/
 description: ""
 third_nav_title: Sports Projects
 ---

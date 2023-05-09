@@ -1,6 +1,6 @@
 ---
 title: Academics
-permalink: /resources/academics
+permalink: /resources/academics/
 description: ""
 ---
 ### Academics

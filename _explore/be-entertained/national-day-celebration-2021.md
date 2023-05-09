@@ -1,6 +1,6 @@
 ---
 title: National Day Celebration 2021
-permalink: /be-entertained/tpndc
+permalink: /be-entertained/tpndc/
 third_nav_title: Be Entertained
 ---
 ## TP National Day Celebration

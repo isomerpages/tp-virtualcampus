@@ -1,6 +1,6 @@
 ---
 title: RSAF Open House 2021
-permalink: /explore/be-awesome/rsaf-openhouse
+permalink: /explore/be-awesome/rsaf-openhouse/
 description: ""
 third_nav_title: Be Awesome
 ---
