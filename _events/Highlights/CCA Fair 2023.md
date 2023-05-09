@@ -8,6 +8,8 @@ third_nav_title: Highlights
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qcJwduU7FMg" height="400" width="100%"></iframe>
 
+<br>
+
 <hr>
 
 ##### CCA Trial / Audition / Meeting Dates
@@ -20,9 +22,10 @@ Thank you for attending CCA Fair 2023! Please refer to the following schedules f
 
 [School Interest Groups](/files/school%20interest%20groups.pdf)
 
+<br>
 <hr>
 
-
+<br>
 
 Discover your passion. Unleash your creativity. Forge lasting friendships. Maximise your fun. 
 
