@@ -23,7 +23,6 @@ Thank you for attending CCA Fair 2023! Please refer to the following schedules f
 
 <a target="_blank" href="/files/school%20interest%20groups.pdf">School Interest Groups</a>
 
-<br>
 <hr>
 
 <br>
