@@ -16,11 +16,12 @@ third_nav_title: Highlights
 
 Thank you for attending CCA Fair 2023! Please refer to the following schedules for the respective trial / audition / meeting information:
 
-[Arts Groups](/files/arts%20groups.pdf)
 
-[Sports Groups](/files/sports%20groups.pdf)
+<a target="_blank" href="/files/arts%20groups.pdf">Arts Groups</a>
 
-[School Interest Groups](/files/school%20interest%20groups.pdf)
+<a target="_blank" href="/files/sports%20groups.pdf">Sports Groups</a>
+
+<a target="_blank" href="/files/school%20interest%20groups.pdf">School Interest Groups</a>
 
 <br>
 <hr>
