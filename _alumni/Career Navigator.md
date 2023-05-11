@@ -1,6 +1,6 @@
 ---
 title: Career Navigator
-permalink: /alumni/career-navigator
+permalink: /alumni/career-navigator/
 description: ""
 ---
 ### Networking Your Way To Success Through LinkedIn ###

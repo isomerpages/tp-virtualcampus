@@ -1,6 +1,6 @@
 ---
 title: Join the Alumni Family!
-permalink: /alumni/join-the-alumni-family
+permalink: /alumni/join-the-alumni-family/
 description: ""
 ---
 ### TP Alumni Membership & Services

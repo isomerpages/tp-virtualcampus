@@ -1,6 +1,6 @@
 ---
 title: Personal Development
-permalink: /alumni/personal-development
+permalink: /alumni/personal-development/
 description: ""
 ---
 ### Legacy Beyond You

@@ -1,6 +1,6 @@
 ---
 title: Periodisation
-permalink: /specialist-services/Resources/periodisation/
+permalink: /specialist-services/resources/periodisation/
 third_nav_title: Workshops
 ---
 Periodisation is a structured training plan that allows an athlete to attain peak performance at the right time.  There are three broad phases in periodization that an athlete should consider: General Preparation phase, Competition phase and Transition phase.  

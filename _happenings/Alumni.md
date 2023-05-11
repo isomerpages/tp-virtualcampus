@@ -1,6 +1,6 @@
 ---
 title: Alumni
-permalink: /happenings/alumni
+permalink: /happenings/alumni/
 description: ""
 ---
 ### Stay Connected with Us!

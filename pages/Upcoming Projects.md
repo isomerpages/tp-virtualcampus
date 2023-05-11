@@ -1,6 +1,6 @@
 ---
 title: Upcoming Projects
-permalink: /specialist-services/Projects/upcoming
+permalink: /specialist-services/projects/upcoming/
 description: ""
 ---
 

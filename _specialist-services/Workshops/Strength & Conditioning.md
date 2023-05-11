@@ -1,6 +1,6 @@
 ---
 title: Strength & Conditioning
-permalink: /specialist-services/Resources/snc
+permalink: /specialist-services/resources/snc/
 third_nav_title: Workshops
 ---
 

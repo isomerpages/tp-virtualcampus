@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /specialist-services/Meet-The-Team/aboutus/
+permalink: /specialist-services/meet-the-team/aboutus/
 third_nav_title: Athlete Testing & Services
 ---
 

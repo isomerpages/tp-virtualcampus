@@ -1,6 +1,6 @@
 ---
 title: Student Wellness
-permalink: /services/student-wellness
+permalink: /services/student-wellness/
 description: ""
 ---
 ### Student Wellness

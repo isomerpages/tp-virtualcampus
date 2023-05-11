@@ -1,6 +1,6 @@
 ---
 title: Alumni Buzz
-permalink: /alumni/alumni-buzz
+permalink: /alumni/alumni-buzz/
 description: ""
 ---
 The Team Temasek spirit is nothing short of inspiring! Over the years, many alumni from our passionate community have helped us shape and celebrate our milestones, supported us in our journey of moulding future leaders, and flown the TP flag high through their pursuits.

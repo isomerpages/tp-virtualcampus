@@ -1,6 +1,6 @@
 ---
 title: Upcoming Projects
-permalink: /specialist-services/sports-projects/upcoming-projects
+permalink: /specialist-services/sports-projects/upcoming-projects/
 description: ""
 third_nav_title: Sports Projects
 ---

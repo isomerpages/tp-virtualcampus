@@ -1,6 +1,6 @@
 ---
 title: SimplyGo! Concession Card
-permalink: /events/Highlights/simplygo-concession/
+permalink: /events/highlights/simplygo-concession/
 description: ""
 third_nav_title: Highlights
 ---
