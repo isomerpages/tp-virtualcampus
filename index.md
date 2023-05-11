@@ -26,6 +26,15 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: CCA Fair 2023 (26-27 April)
+      subtitle: CCA Fair
+      description: Missed the information from your dream CCA? View the dates for CCA
+        Trials / Auditions / Meetings here!
+      button: JOIN IN THE ACTION!
+      url: /events/ccafair2023
+      alt: CCA Fair 2023
+      image: /images/Home/CCA Fair 2023.jpg
+  - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2023
       description: Celebrate your students’ contributions, passion and spirit. Inspire
         them to continue the good fight. Nominate them for the TSEA today!
@@ -52,16 +61,6 @@ sections:
       button: BE ENTHRALLED HERE
       url: /events/freshmen-orientation-programme-2023#temasek-regatta-x-samudra
       alt: Temasek Regatta X Samudra
-  - infopic:
-      title: CCA Fair 2023 (26-27 April)
-      subtitle: CCA Fair
-      description: Are you keen to channel the Team Temasek spirit and make your days
-        on campus count? Check out this exciting event to find out more about
-        the CCAs offered in TP!
-      button: JOIN IN THE ACTION!
-      url: /events/ccafair2023
-      alt: CCA Fair 2023
-      image: /images/Home/CCA Fair 2023.jpg
   - infopic:
       title: Polytechnic-ITE & Institute-Varsity-Polytechnic Games
       subtitle: POL-ITE & IVP (AY22/23)
