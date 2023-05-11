@@ -4,13 +4,13 @@ permalink: /events/ccafair2023/
 description: ""
 third_nav_title: Highlights
 ---
-### CCA Fair 2023
+## CCA Fair 2023
 
 <br>
 
 <hr>
 
-##### CCA Trial / Audition / Meeting Dates
+#### CCA Trial / Audition / Meeting Dates
 
 Thank you for attending the CCA Fair 2023! Please refer to the following CCA Trial / Audition / Meeting schedules for the respective groups:
 
