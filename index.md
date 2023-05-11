@@ -26,7 +26,7 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: CCA Fair 2023 (26-27 April)
+      title: CCA Fair 2023
       subtitle: CCA Fair
       description: Missed the information from your dream CCA? View the dates for CCA
         Trials / Auditions / Meetings here!
