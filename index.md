@@ -28,16 +28,16 @@ sections:
   - infopic:
       title: CCA Fair 2023
       subtitle: CCA Fair
-      description: Missed the information from your dream CCA? View the dates for CCA
-        Trials / Auditions / Meetings here!
+      description: Missed some information from your favourite CCAs? View the dates
+        for CCA Trials / Auditions / Meetings here!
       button: JOIN IN THE ACTION!
       url: /events/ccafair2023
       alt: CCA Fair 2023
       image: /images/Home/CCA Fair 2023.jpg
   - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2023
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
+      description: The TSEA nomination period has closed. Watch this space for the
+        release of the award results!
       button: NOMINATE NOW!
       url: /events/tsea-2023/overview/
       image: /images/Home/tsea 2023 cover.jpg
