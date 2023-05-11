@@ -6,7 +6,6 @@ third_nav_title: Highlights
 ---
 ## CCA Fair 2023
 
-<br>
 
 <hr>
 
