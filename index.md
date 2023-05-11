@@ -36,7 +36,7 @@ sections:
       image: /images/Home/CCA Fair 2023.jpg
   - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2023
-      description: The TSEA nomination period has closed. Watch this space for the
+      description: Nominations for the TSEA 2023 have closed. Watch this space for the
         release of the award results!
       button: NOMINATE NOW!
       url: /events/tsea-2023/overview/
