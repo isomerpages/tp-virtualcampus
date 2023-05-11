@@ -6,6 +6,15 @@ third_nav_title: TSEA 2023
 ---
 ## Temasek Student Excellence Awards 2023
 ![TSEA 2023](/images/Home/tsea%202023%20cover.jpg)
+<br>
+<hr>
+
+#### Announcement
+
+The TSEA nomination period has&nbsp;**closed**. Watch this space for the release of the award results!
+
+<hr>
+
 
 The Temasek Student Excellence Awards (TSEA) are presented annually to recognise the inspiring achievements and outstanding contributions of students in non-academic areas, such as the arts, sports, leadership, service, entrepreneurship and character.
 
@@ -13,11 +22,6 @@ In the spirit of celebrating excellent student contributions, we are happy to an
 
 Do take a moment to uplift your students' spirits, and give them a pat on the back for their amazing dedication, selfless sacrifice and inspiring leadership.
 
-Nominate them for the TSEA today!
-
-#### Announcement
-
-Nominations for the TSEA are open from now till **5 May 2023 (Friday)**.
 
 Please refer to the full list of awards, as well as the eligibility criteria, nomination process and submission forms/links below.
 
