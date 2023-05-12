@@ -38,7 +38,7 @@ sections:
       title: Temasek Student Excellence Awards (TSEA) 2023
       description: Nominations for the TSEA 2023 have closed. Watch this space for the
         release of the award results!
-      button: NOMINATE NOW!
+      button: Check out the awards!
       url: /events/tsea-2023/overview/
       image: /images/Home/tsea 2023 cover.jpg
       alt: TSEA 2023
