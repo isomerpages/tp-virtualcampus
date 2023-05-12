@@ -32,7 +32,7 @@ description: ""
 				<p style="margin-top:0%">
 					Calling all CCA advisors! Celebrate your students’ contributions, passion and spirit. Inspire them to continue the good fight. 
 					<br><br>
-					The TSEA nomination period has <b>closed</b>. Watch this space for the release of the award results!
+					Nominations for the TSEA 2023 have&nbsp;<b>closed</b>. Watch this space for the release of the award results!
 				</p>
 			<br>
 		</td>
