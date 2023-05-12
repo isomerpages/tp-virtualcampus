@@ -105,7 +105,7 @@ sections:
       subtitle: Temasek Arts Centre Production
       description: '"Back to LIVE" in-person concert showcases our very own Temasek
         Arts Centre performances'
-      button: Register here
+      button: Replay the action
       url: /events/temasek-arts-centre/dreams-series
       image: /images/DREAMS XII Poster Square.png
       alt: Dream XII Concert
