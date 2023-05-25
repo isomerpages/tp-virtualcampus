@@ -1,6 +1,0 @@
-collections:
-  test:
-    output: true
-    order:
-      - Poly Forum/Overview.md
-      - Poly Forum/.keep
