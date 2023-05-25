@@ -62,9 +62,9 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
+		<a href="mailto:magtotod@tp.edu.sg"> Jarmane Denise</a>
 		<br>
-		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
+		<i>Executive, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
