@@ -55,9 +55,9 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
+		<a href="mailto:magtotod@tp.edu.sg"> Jarmane Denise</a>
 		<br>
-		<i>Manager, Student Development &amp; Alumni Affairs</i>
+		<i>Executive, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 

@@ -56,26 +56,26 @@ sections:
       title: Temasek Regatta x Samudra
       subtitle: Freshmen Orientation Programme
       image: /images/Home/Regatta_2023.jpg
-      description: "Wrap up your onboarding journey at this special finale programme,
-        featuring exciting dragon boat races and arts performances! "
+      description: Wrap up your onboarding journey at this special finale programme,
+        featuring exciting dragon boat races and arts performances!
       button: BE ENTHRALLED HERE
       url: /events/freshmen-orientation-programme-2023#temasek-regatta-x-samudra
       alt: Temasek Regatta X Samudra
   - infopic:
       title: Polytechnic-ITE & Institute-Varsity-Polytechnic Games
       subtitle: POL-ITE & IVP (AY22/23)
-      description: "Hats off to Team Temasek for their achievements at the POL-ITE and
+      description: Hats off to Team Temasek for their achievements at the POL-ITE and
         IVP Games, and for flying the TP flag high throughout the exciting
-        sports season! "
+        sports season!
       button: VIEW OUR MEDAL TALLY
       url: /events/sports/polite-ivp
       image: /images/Home/POL-ITE & IVP.jpeg
       alt: POLITE & IVP
   - infopic:
       title: Sports Appreciation & Alumni Homecoming 2023
-      description: "We celebrated the strength, spirit and accomplishments of our
+      description: We celebrated the strength, spirit and accomplishments of our
         student-athletes – present and past – to mark a fitting end to a
-        fulfilling sports season! "
+        fulfilling sports season!
       button: Cheer with Team Temasek!
       url: /events/sports/sports-appreciation-alumni-homecoming
       image: /images/Home/Sports Appreciation & Alumni Homecoming.jpg
