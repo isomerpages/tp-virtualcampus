@@ -98,7 +98,7 @@ Traditionally held as two separate events, our staple FOP highlights – Temasek
 
 Presenting to you.. the **Temasek Regatta x Samudra**, a finale programme held specially for Freshmen happening in our own backyard – Bedok Reservoir!
 
-**Temasek Regatta: Make a Splash & Have Fun in the Sun!**
+**Temasek Regatta: Make a Splash &amp; Have Fun in the Sun!**
 
 What better way is there to end your FOP journey on a high note than by bonding with your peers and friends, while experiencing a slice of the campus vibrancy that TP is known for!
 
@@ -108,7 +108,7 @@ A time-honoured tradition in the FOP calendar, the **Temasek Regatta** brings to
 
 Another memorable experience shared across generations of TPians, the arts component of our FOP – **Samudra** (previously known as Temasek Spectacular) – will be staged as a consolidated experience for you this year, alongside the exciting dragon boating action that you will already be a part of!
 
-A Sanskrit term meaning the “gathering together of waters”, Samudra brings together our individual unique stories through a specially curated showcase presented by TP’s performing arts groups - fully conceptualised, produced and executed by our very own talented student-artists. 
+A Sanskrit term meaning the “gathering together of waters”, Samudra brings together our individual unique stories through a specially curated showcase presented by TP’s performing arts groups - fully conceptualised, produced and executed by our very own talented student-artists.&nbsp;
 
 Be inspired by our collective values of strength, resilience, community and hope at Samudra!
 
