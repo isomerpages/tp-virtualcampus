@@ -30,7 +30,7 @@ We look forward to receiving your feedback. TP Oei! 🙆🏻‍♂️🙆🏻‍
  
 👉 Click [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftinyurl.com%2FTPCVSurvey&amp;data=05%7C01%7CJoash_Shalom_S%2FO_SINAYAH%40tp.edu.sg%7Cae988cb6a09944347a2508db5dace232%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638206769369744844%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=kK5QeGyEUTdJe2aN5MWLduJpT8UZzOmdq6Z%2B8JJc0tU%3D&amp;reserved=0) to begin the survey.
  
-(✉️ For enquiries, please contact Ms Tracy Ng at: [Tracy_Ng@tp.edu.sg](Tracy_Ng@tp.edu.sg)) 
+(✉️ For enquiries, please contact Ms Tracy Ng at: [Tracy_Ng@tp.edu.sg](mailto:Tracy_Ng@tp.edu.sg)) 
  
 **(Details on how eligible students can redeem their e-vouchers will be provided separately.)**
 
@@ -55,7 +55,7 @@ Various topics include: <br>
  
 Choose a topic and sign up at [https://go.gov.sg/youth-programmes](https://go.gov.sg/youth-programmes). Registration closes on 2 July 2023. 
  
-If you have any queries, please email [oneservice_community@mnd.gov.sg](oneservice_community@mnd.gov.sg).
+If you have any queries, please email [oneservice_community@mnd.gov.sg](mailto:oneservice_community@mnd.gov.sg).
 
 
 <hr>
@@ -70,7 +70,7 @@ Youth Corps Singapore is happy to share that [Do Good Fest](https://apc01.safeli
  
 Make a difference in the lives of Seniors, Children, Persons with Special Needs, Migrant Workers and even do our part for the environment. Opportunities ranges from once-off bite size events to regular programme, you can choose based on your commitment level and the causes that you are passionate in.
  
-For enquiries, please email to [Youth_Corps_Enquiries@nyc.gov.sg](Youth_Corps_Enquiries@nyc.gov.sg) 
+For enquiries, please email to [Youth_Corps_Enquiries@nyc.gov.sg](mailto:Youth_Corps_Enquiries@nyc.gov.sg) 
 
 <hr>
 <br>
