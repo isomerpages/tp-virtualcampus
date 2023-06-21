@@ -75,7 +75,7 @@ description: ""
 
 <ul>
 	<li><a href="https://www.instagram.com/tpchorale">Instagram</a></li>
-    <li><a href="linktr.ee/tp.chorale">Linktree</a></li>
+    <li><a href="https://linktr.ee/tp.chorale">Linktree</a></li>
 </ul>
 
 <hr>
