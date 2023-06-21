@@ -80,7 +80,7 @@ description: ""
 
 <ul>
 	<li><a href="https://www.instagram.com/tpdeofficial">Instagram</a></li>
-	 <li><a href="https://linktr.ee/tpdeofficial">Linktree</a></li>
+	<li><a href="https://linktr.ee/tpdeofficial">Linktree</a></li>
 </ul>
 
 <hr>
