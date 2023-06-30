@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Media &amp; Production Crew
+title: Digital Media & Production Crew
 permalink: /performing-arts/digital-media-and-production-crew/
 date: 2022-06-17
 description: ""
@@ -81,7 +81,10 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
 <ul>
 	<li><a href="https://www.instagram.com/tp.dmpc">Instagram</a></li>
     <li><a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">Flickr</a></li>
+		<li><a href="https://linktr.ee/tp.dmpc">Linktree</a></li>
 </ul>
+
+
 
 <hr>
 
