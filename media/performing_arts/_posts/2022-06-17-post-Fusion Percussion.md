@@ -69,7 +69,7 @@ description: ""
 
 <ul>
 	<li><a href="https://www.instagram.com/fusionpercussion">Instagram</a></li>
-    <li><a href="linktr.ee/fusionpercussion">Linktree</a></li>
+    <li><a href="https://linktr.ee/fusionpercussion">Linktree</a></li>
 </ul>
 
 <hr>
