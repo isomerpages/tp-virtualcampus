@@ -6,8 +6,8 @@ date: 2022-06-20
 description: ""
 ---
 <table>
-    <tr>
-        <td style="width:45%"><image src="/images/Sports/WATER POLO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo"></image></td>
+    <tbody><tr>
+        <td style="width:45%"><img src="/images/Sports/WATER POLO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo"></td>
         <td>
             <p>
                 Water Polo is a physically demanding team water sport played over 4 quarters, consisting of two teams of 6 field players and 1 goalkeeper each. Gameplay involves swimming, handling and passing the ball, and players score by throwing the ball into the goal defended by a goalkeeper. TP Water Polo team competes in the Polytechnic-ITE (POL-ITE) Water Polo Games annually.<br>
@@ -17,40 +17,40 @@ description: ""
 <br>
                 <br>
                 <b>Training Days:</b><br>
-                Tuesday & Thursday, 6.30pm<br>
+                Tuesday &amp; Thursday, 6.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:darrent@tp.edu.sg">Mr Darren Tan</a><br>
+                <b>CCA Staff Advisor:</b> <a href="Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
                 <br>
-                CCA <a href="https://www.instagram.com/temasekpolobabiesxoxo">Instagram</a>
+                CCA <a href="https://www.instagram.com/temasekwaterpolo/">Instagram</a>
             </p>
         </td>
     </tr>
-</table>
+</tbody></table>
 
 #### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/Ccp8jZkpLVk/">
-                <image src="/images/Sports/WATER POLO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <img src="/images/Sports/WATER POLO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CBNp1kine0G/">
-                <image src="/images/Sports/WATER POLO_Online Training Sessions.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <img src="/images/Sports/WATER POLO_Online Training Sessions.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
                 <h6 style="margin-top:0%">Online Training Sessions</h6>
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CACpyXPHMjB/">
-                <image src="/images/Sports/WATER POLO_Introducing the Committee AY20-21.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+                <img src="/images/Sports/WATER POLO_Introducing the Committee AY20-21.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
                 <h6 style="margin-top:0%">Introducing the Committee AY20/21</h6>    
-                </image>
+                
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
