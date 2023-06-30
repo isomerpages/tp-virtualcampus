@@ -7,8 +7,8 @@ description: ""
 ---
 <div>
     <table>
-        <tr>
-            <td style="width:45%"><image src="/images/Interest Groups/TP Debates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates"></image></td>
+        <tbody><tr>
+            <td style="width:45%"><img src="/images/Interest Groups/TP Debates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates"></td>
             <td>
                 <p>
                    Have you ever wanted to be more confident in speaking and in persuading others to your point of view? If you answered yes, then TP Debates could be the place for you!<br>
@@ -23,43 +23,43 @@ description: ""
                     </ul>
                 <p>
                     <b>Training Days:</b><br>
-                    Monday & Thursday, 6.30pm to 8.30pm (in-person at TP)<br>
+                    Monday &amp; Thursday, 6.30pm to 8.30pm (in-person at TP)<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:waifann@tp.edu.sg">Ms Choy Wai Fann</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="CHOY_Wai_Fann@TP.EDU.SG">Ms Choy Wai Fann</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpdebates">Instagram</a>
                 </p>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
 
 #### Latest Happenings
 
 <div>
     <table>
-        <tr>
+        <tbody><tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/Cc_5_rQJBYI/">
-                    <image src="/images/Interest Groups/DEBATES_Temasek Polytechnic Charity Competition.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <img src="/images/Interest Groups/DEBATES_Temasek Polytechnic Charity Competition.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
                     <h6 style="margin-top:0%">Temasek Polytechnic Charity Competition</h6>
-                    </image>
+                    
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/Cc7q45HJClu/">
-                    <image src="/images/Interest Groups/DEBATES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <img src="/images/Interest Groups/DEBATES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
                     <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                    </image>
+                    
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CczXlGxPS1d/">
-                    <image src="/images/Interest Groups/DEBATES_What do we do.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
+                    <img src="/images/Interest Groups/DEBATES_What do we do.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
                     <h6 style="margin-top:0%">What do we do?</h6>
-                    </image>
+                    
                 </a>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
