@@ -7,8 +7,8 @@ description: ""
 ---
 <div>
     <table>
-        <tr>
-            <td style="width:45%"><image src="/images/Interest Groups/CD Lionhearters.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters"></image></td>
+        <tbody><tr>
+            <td style="width:45%"><img src="/images/Interest Groups/CD Lionhearters.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters"></td>
             <td>
                 <p>
                     The Civil Defence (CD) Lionhearters Club members are youth volunteers under the Singapore Civil Defence Force. This groups provides an avenue for tertiary students to be engaged in civil defence, emergency preparedness and humanitarian missions. Some of the activities that members can look forward to include:
@@ -24,41 +24,41 @@ description: ""
                     <b>Training Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:khimfatt@tp.edu.sg">Mr Lye Khim Fatt</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="LYE_Khim_Fatt@TP.EDU.SG">Mr Lye Khim Fatt</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpcdlionhearters">Instagram</a>
                 </p>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
 
 #### Latest Happenings
 
 <div>
     <table>
-        <tr>
+        <tbody><tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CcpNLKBJes5/">
-                    <image src="/images/Interest Groups/LIONHEARTERS_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <img src="/images/Interest Groups/LIONHEARTERS_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
                     <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                    </image>
+                    
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CbtRxKgvW3e/">
-                    <image src="/images/Interest Groups/LIONHEARTERS_Main Committee Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <img src="/images/Interest Groups/LIONHEARTERS_Main Committee Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
                     <h6 style="margin-top:0%">Main Committee Recruitment</h6>
-                    </image>
+                    
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CaBfr1uv_zA/">
-                    <image src="/images/Interest Groups/LIONHEARTERS_SCDF X TP-CDLH myResponder Sign-up Challenge.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
+                    <img src="/images/Interest Groups/LIONHEARTERS_SCDF X TP-CDLH myResponder Sign-up Challenge.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
                     <h6 style="margin-top:0%">SCDF X TP-CDLH myResponder Sign-up Challenge</h6>
-                    </image>
+                    
                 </a>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
