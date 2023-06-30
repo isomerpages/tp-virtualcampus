@@ -7,46 +7,46 @@ description: ""
 ---
 <div>
     <table>
-        <tr>
-            <td style="width:45%"><image src="/images/Interest Groups/LEAD Ambassadors.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors"></image></td>
+        <tbody><tr>
+            <td style="width:45%"><img src="/images/Interest Groups/LEAD Ambassadors.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors"></td>
             <td>
                 <p>
-                    LEAD Ambassadors aims to provide various platforms for students under the Temasek LEADership Programme (Temasek LEAD) to lead, serve, contribute and share knowledge. Members value-add to the LEAD community through the organising of meaningful and impactful programmes. Besides these, the group provides learning opportunities and experiences for LEAD students, while assisting and supporting the Centre for Character & Leadership Education (CCLE) in the organising of LEAD programmes. Members also coordinate with LEAD Alumni on possible collaborations to benefit the LEAD community.
+                    LEAD Ambassadors aims to provide various platforms for students under the Temasek LEADership Programme (Temasek LEAD) to lead, serve, contribute and share knowledge. Members value-add to the LEAD community through the organising of meaningful and impactful programmes. Besides these, the group provides learning opportunities and experiences for LEAD students, while assisting and supporting the Centre for Character &amp; Leadership Education (CCLE) in the organising of LEAD programmes. Members also coordinate with LEAD Alumni on possible collaborations to benefit the LEAD community.
                 </p>
                 <p>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Farhan_BIN_KAMIS@tp.edu.sg">Mr Farhan Kamis</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="Farhan_Bin_Kamis@tp.edu.sg">Mr Farhan Kamis</a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/tp.lead/">Instagram</a>
+                    CCA <a href="https://www.instagram.com/tp.lead/?hl=en">Instagram</a>
                 </p>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
 
 #### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CefIv-rJbcp/">
-                <image src="/images/Interest Groups/LEAD_LEAD Heart Organisers Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <img src="/images/Interest Groups/LEAD_LEAD Heart Organisers Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                 <h6 style="margin-top:0%">LEAD Heart Organisers Recruitment</h6>
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CedjKhAJJGd/">
-                <image src="/images/Interest Groups/LEAD_Meet the Core Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <img src="/images/Interest Groups/LEAD_Meet the Core Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                 <h6 style="margin-top:0%">Meet The Core Team</h6>
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CeLcFKYpM-y/">
-                <image src="/images/Interest Groups/LEAD_We are Recruiting!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+                <img src="/images/Interest Groups/LEAD_We are Recruiting!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
                 <h6 style="margin-top:0%">We are Recruiting!</h6>    
-                </image>
+                
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
