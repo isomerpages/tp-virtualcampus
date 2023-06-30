@@ -29,7 +29,7 @@ description: ""
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="Aubrey_KOH@TP.EDU.SG">Mr Aubrey Koh</a>, <a href="mailto:maryt@tp.edu.sg">Thomas_MARY@tp.edu.sg</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="Aubrey_KOH@TP.EDU.SG">Mr Aubrey Koh</a>, <a href="Thomas_MARY@tp.edu.sg">Mrs Mary Thomas</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpgig">Instagram</a>
 							</p>
