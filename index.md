@@ -26,6 +26,15 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2023
+      description: Heartiest congratulations to all our deserving recipients of the
+        TSEA 2023!
+      button: "CHECK OUT HERE! "
+      url: /events/tsea-2023/overview/
+      image: /images/temasek excellence award congrats_2023_homepage.jpg
+      alt: TSEA 2023
+      subtitle: TSEA 2023
+  - infopic:
       title: CCA Fair 2023
       subtitle: CCA Fair
       description: Missed some information from your favourite CCAs? View the dates
@@ -34,15 +43,6 @@ sections:
       url: /events/ccafair2023
       alt: CCA Fair 2023
       image: /images/Home/CCA Fair 2023.jpg
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2023
-      description: Nominations for the TSEA 2023 have closed. Watch this space for the
-        release of the award results!
-      button: Check out the awards!
-      url: /events/tsea-2023/overview/
-      image: /images/Home/tsea 2023 cover.jpg
-      alt: TSEA 2023
-      subtitle: TSEA 2023
   - infopic:
       title: Freshmen Orientation Programme 2023
       subtitle: Freshmen Orientation Programme
