@@ -25,13 +25,20 @@ And to all our awardees: A BIG thank you for your amazing dedication and spirit,
 **Check out the TSEA 2023 Roll of Honour here.**
 [](/files/TSEA/2023/tsea%202023%20-%20roll%20of%20honour%20.pdf)
 
+**Announcement**
 
-Nominations for the TSEA 2023 will be open soon. Please watch this space for more updates!
+Thank you to all CCA advisors/staff for your active support in recognising deserving students, who have made outstanding achievements and contributed significantly to the vibrancy of our campus.
 
-For the full list of Individual Awards and their eligibility criteria, click [here](/files/TSEA%202022%20-%20Individual%20Awards.pdf).  
+For information on the TSEA awards available for nomination annually (unless otherwise specified), as well as the eligibility criteria and nomination process, please refer to the links below:
 
-For the full list of Group/Team Awards and their eligibility criteria, click [here](/files/TSEA%202022%20-%20%20Group-Team%20Awards.pdf). 
 
-Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA%202022%20-%20FAQs.pdf)!
+Click [here](/files/TSEA/2023/tsea%202023%20-%20individual%20awards.pdf) for the full list of Individual Awards.
 
-If you have any enquiries on the TSEA, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>
+Click [here](/files/TSEA/2023/tsea%202023%20-%20group-team%20awards.pdf) for the full list of Group/Team Awards.
+
+Didn’t manage to find what you were looking for? Refer to a list of FAQs [here](/files/TSEA/2023/tsea%202023%20-%20faqs.pdf)!
+
+If you have any enquiries on the TSEA, please contact: [tsea@tp.edu.sg](mailto:tsea@tp.edu.sg).
+
+
+See you next year!
