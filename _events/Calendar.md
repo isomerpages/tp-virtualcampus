@@ -27,12 +27,14 @@ description: ""
 				<img src="/images/Home/tsea 2023 cover.jpg" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/tsea-2023/overview/"><h4 style="margin-top:0%">Temasek Student Excellence Awards 2023</h4></a>
-				<h6 style="margin-top:0%"><i>17 April - 5 May  2023</i></h6>
+			<a href="/events/highlights/tsea2023/"><h4 style="margin-top:0%">Temasek Student Excellence Awards 2023</h4></a>
+				<h6 style="margin-top:0%"><i>24 June 2023</i></h6>
 				<p style="margin-top:0%">
-					Calling all CCA advisors! Celebrate your students’ contributions, passion and spirit. Inspire them to continue the good fight. 
+					Heartiest congratulations to all our recipients of the TSEA 2023! 
 					<br><br>
-					Nominations for the TSEA 2023 have&nbsp;<b>closed</b>. Watch this space for the release of the award results!
+					This year, we honoured over 1,800 deserving students from across TP for their outstanding contributions in non-academic areas, such as arts, sports, leadership, service, entrepreneurship, sustainability and character.
+										<br><br>
+					Check out the Roll of Honour here!
 				</p>
 			<br>
 		</td>
