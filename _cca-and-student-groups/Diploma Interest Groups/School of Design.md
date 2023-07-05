@@ -4,7 +4,7 @@ permalink: /cca-and-student-groups/diploma-interest-groups/school-of-design/
 description: ""
 third_nav_title: Diploma Interest Groups
 ---
-## School of Applied Science
+## School of Design
 
 <div>
 &nbsp;&nbsp;&nbsp; 
