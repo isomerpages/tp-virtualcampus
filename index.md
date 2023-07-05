@@ -29,7 +29,7 @@ sections:
       title: Temasek Student Excellence Awards (TSEA) 2023
       description: Heartiest congratulations to all our deserving recipients of the
         TSEA 2023!
-      button: CHECK OUT HERE!
+      button: "FIND THE ROLL OF HONOUR HERE! "
       url: /events/tsea-2023/overview/
       image: /images/temasek excellence award congrats_2023_homepage.jpg
       alt: TSEA 2023
