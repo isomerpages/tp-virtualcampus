@@ -10,6 +10,7 @@ third_nav_title: Highlights
 
 
 Heartiest congratulations to all our recipients of the TSEA 2023! 
+
 The Temasek Student Excellence Awards (TSEA) are presented annually to recognise the inspiring achievements and outstanding contributions of students in non-academic areas, such as arts, sports, leadership, service, entrepreneurship, sustainability and character.
 
 This year, we honoured **339** students across the Higher Award categories (Individual and Group/Team). **7** national athletes also received the Outstanding Sports Achievement Award for bringing honour to Singapore through their achievements at the 31st and/or 32nd Southeast Asian Games. In addition, **922** CCA Merit Awards (Arts/Sports/ Leadership), **348** Full Colours Awards and **130** Half Colours Awards have been accorded. On top of these awards, 2 officially-appointed TP coaches received the Outstanding Coach Award for their contributions. 
