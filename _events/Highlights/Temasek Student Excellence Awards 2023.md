@@ -17,7 +17,7 @@ This year, we honoured **339** students across the Higher Award categories (Indi
 
 Here’s a special shout-out to the recipients of our pinnacle accolades – **Temasek CCA Gold and Silver Awards**! Hear their heartfelt thoughts and the memorable takeaways of their CCA journeys, and discover what inspired them to continue the good fight while navigating their ride in TP. 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/watch?v=qsBq_quViSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qsBq_quViSE" height="100" width="400"></iframe>
 
 And to all our awardees: A BIG thank you for your amazing dedication and spirit, and for your unstinting efforts in making TP a campus that truly throbs with vibrancy all year round!  
 
