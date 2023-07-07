@@ -30,8 +30,6 @@ And to all our awardees: A BIG thank you for your amazing dedication and spirit,
 
 Thank you to all CCA advisors/staff for your active support in recognising deserving students, who have made outstanding achievements and contributed significantly to the vibrancy of our campus.
 
-Nominations for the TSEA 2024 will open from March to April next year (tentative). Do watch this space for more updates on the call for nominations!
-
 For information on the TSEA awards available for nomination annually (unless otherwise specified), as well as the eligibility criteria and nomination process, please refer to the links below:
 
 
