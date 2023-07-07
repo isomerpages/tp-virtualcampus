@@ -41,9 +41,12 @@ description: ""
 ##### Achievements
 	
 <ul>
+	    <li>Piala Suara Serumpun 2022 - Women’s: Second Placing; Best Percussionists; Nominated for Best Lyrics; Best Tukang Karut; Best Awok-Awok</li>
+	    <li>Piala Suara Serumpun 2022 - Men’s: Third Placing, Nominated for Best Lyrics; Best Tukang Karut</li>
     <li>Piala Suara Serumpun 2019 - Women’s: Champion; Best Lyrics; Men’s: The Green Pen Award</li>
     <li>Piala Tinta Dikir 2018 - Women’s: First Runner-up; Best Percussion; Best Lyrics, Men’s: Champion; Best Lead Singer; Best Lead Singer; Best Chorus; Best Song; Best Art</li>
     <li>Piala Suara Serumpun 2018 - Women’s: Champion; Best Lead Singer; Best Percussion; Best Song; Men’s: Champion; Best Lead Singer; Best Lyrics</li>   
+	
 </ul>
 
 <hr>
@@ -72,7 +75,7 @@ description: ""
 
 <ul>
 	<li><a href="https://www.instagram.com/tpdikir">Instagram</a></li>
-    <li><a href="linktr.ee/TPDK">Linktree</a></li>
+  
 </ul>
 
 <hr>

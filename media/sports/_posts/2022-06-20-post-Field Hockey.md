@@ -6,54 +6,54 @@ date: 2022-06-20
 description: ""
 ---
 <table>
-    <tr>
-        <td style="width:45%"><image src="/images/Sports/FIELD HOCKEY.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></image></td>
+    <tbody><tr>
+        <td style="width:45%"><img src="/images/Sports/FIELD HOCKEY.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Field Hockey"></td>
         <td>
             <p>
-                Field hockey is played on natural grass and artificial turf with a small, hard ball. The game is popular in numerous parts of the world, particularly in Europe, Asia, Australia and New Zealand. In Singapore, the sport is very well supported at the secondary and tertiary levels. TP Hockey teams (Men & Women) compete in the Polytechnic-ITE (POL-ITE) Hockey Games annually.<br>
+                Field hockey is played on natural grass and artificial turf with a small, hard ball. The game is popular in numerous parts of the world, particularly in Europe, Asia, Australia and New Zealand. In Singapore, the sport is very well supported at the secondary and tertiary levels. TP Hockey teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Hockey Games annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2022: Gold (Men’s Team) & 4th Position (Women's Team)<br>
+                POL-ITE Games 2022: Gold (Men’s Team) &amp; 4th Position (Women's Team)<br>
                 <br>
                 <b>Training Days:</b><br>
-                <ul>
-                    <li>Monday & Wednesday, 7pm (Women’s)</li>
-                    <li>Tuesday & Thursday, 7pm (Men’s)</li>
+                </p><ul>
+                    <li>Monday &amp; Wednesday, 7pm (Women’s)</li>
+                    <li>Tuesday &amp; Thursday, 7pm (Men’s)</li>
                 </ul>
-            </p>
+            <p></p>
             <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:tants@tp.edu.sg">Mr Tan Thian Seng</a><br>
+                <b>CCA Staff Advisor:</b> <a href="Tan_Thian_Seng@tp.edu.sg">Mr Tan Thian Seng</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tphockey_rays">Instagram</a>
             </p>
         </td>
     </tr>
-</table>
+</tbody></table>
 
 #### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COKKODJnpLf/">
-                <image src="/images/Sports/FIELD HOCKEY_Join the Mens Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <img src="/images/Sports/FIELD HOCKEY_Join the Mens Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
                 <h6 style="margin-top:0%">Join the Men’s Hockey Team!</h6>
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/COKKDhNHNWx/">
-                <image src="/images/Sports/FIELD HOCKEY_Join the Womens Team.png" style="dplay:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <img src="/images/Sports/FIELD HOCKEY_Join the Womens Team.png" style="dplay:block;margin-left:auto;margin-right:auto;" alt="Hockey">
                 <h6 style="margin-top:0%">Join the Women’s Hockey Team!</h6>    
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CAFyWQKBC9t/">
-                <image src="/images/Sports/FIELD HOCKEY_Join the TP Hockey Family.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
+                <img src="/images/Sports/FIELD HOCKEY_Join the TP Hockey Family.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
                 <h6 style="margin-top:0%">Join the TP Hockey Family!</h6>
-                </image>
+                
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>

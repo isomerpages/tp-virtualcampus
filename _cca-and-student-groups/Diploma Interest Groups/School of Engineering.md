@@ -7,66 +7,62 @@ third_nav_title: Diploma Interest Groups
 ## School of Engineering
 
 <div>
-    <table>
-        <tr>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/tp_airborne/" style="text-decoration: none">
-                    <image src="/images/ENG/AIRBORNE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Airborne Group (AEG)">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/tpgbs_ashrae/" style="text-decoration: none">
-                    <image src="/images/ENG/ASHRAE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Architectural Technology & Building Services (GBS)">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/tpavionix/" style="text-decoration: none">
-                    <image src="/images/ENG/AVIONIX_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Avionix (AEL)">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/tpbme/" style="text-decoration: none">
-                    <image src="/images/ENG/BIOENGENES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BioENGenes Interest Group (BME)">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/amsaviators/" style="text-decoration: none">
-                    <image src="/images/ENG/BLACKBOX_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Blackbox (AMS)">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/eng_tpbze/" style="text-decoration: none">
-                    <image src="/images/ENG/BZE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BIZEN (BZE)">
-                    </image>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/tp.cen/" style="text-decoration: none">
-                    <image src="/images/ENG/CENT_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Computer Engineering Network (CENT)">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/tpcleanenergy.ig/" style="text-decoration: none">
-                    <image src="/images/ENG/CLEAN ENERGY_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Clean Energy (CER)">
-                    </image>
-                </a>
-            </td>
-            <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-                <a href="https://www.instagram.com/ifmclub/" style="text-decoration: none">
-                    <image src="/images/ENG/IFM_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Integrated Facility Management (IFM)">
-                    </image>
-                </a>
-            </td>
-        </tr>
-    </table>
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; <table><tbody><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/tp_airborne/" style="text-decoration: none">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest%20Groups/UPDATED%20BUTTONS/aerospaceengineering_button_01_ver060723.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Aerospace Engineering (AEG)">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ifmclub/" style="text-decoration: none">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/ENG/IFM_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Integrated Facility Management (IFM)">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/tpavionix/" style="text-decoration: none">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest%20Groups/UPDATED%20BUTTONS/aerospaceelectronics_button_01_ver060723.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Aerospace Electronics (AEL)">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/tpbme/" style="text-decoration: none">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest%20Groups/UPDATED%20BUTTONS/biomedicalengineering_button_01_ver060723.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Biomedical Engineering (BME)">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/amsaviators/" style="text-decoration: none">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest%20Groups/UPDATED%20BUTTONS/aviationmanagement_button_01_ver060723.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Aviation Management (AMS)">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/eng_tpbze/" style="text-decoration: none">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/ENG/BZE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="BIZEN (BZE)">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/tp.cen/" style="text-decoration: none">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="/images/Interest%20Groups/UPDATED%20BUTTONS/computerengineering_button_03_ver060723.png" style="display:block;margin-left:auto;margin-right:auto;" alt="COMPUTER ENGINEERING (CEN)">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tp.abs/" style="text-decoration: none">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest%20Groups/UPDATED%20BUTTONS/architechbuildingservices_button_01_ver060723.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Architectural Technology &amp; Building Services (ABS)">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr></tbody></table>
 </div>

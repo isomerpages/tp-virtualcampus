@@ -69,7 +69,7 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:sokpeng@tp.edu.sg">Ms Fayanne Tan</a>
+		<a href="Fayanne_Tan@tp.edu.sg">Ms Fayanne Tan</a>
 		<br>
 		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
@@ -80,7 +80,7 @@ description: ""
 
 <ul>
 	<li><a href="https://www.instagram.com/tpdeofficial">Instagram</a></li>
-    <li><a href="linktr.ee/tpdeofficial">Linktree</a></li>
+	<li><a href="https://linktr.ee/tpdeofficial">Linktree</a></li>
 </ul>
 
 <hr>
