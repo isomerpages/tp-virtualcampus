@@ -100,32 +100,47 @@ Let's come together as one TP community on this special occasion. Mark your cale
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Do Good Fest</h3>
-<h5 style="margin-top:0%"><i>May - July 2023</i></h5>
+<h3 style="margin-top:0%">Joint-Polytechnic National Service Info Sharing 2023
+</h3>
+<h5 style="margin-top:0%"><i>NS Ready!</i></h5>
 
-![](/images/Events/Happenings/2023%2005%2026/dogoodfest.jpg)
+![](/images/Events/Happenings/2023%2007%2010/ns_sharing.png)
 
-Youth Corps Singapore is happy to share that [Do Good Fest](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdo-good-fest.sg%2F&amp;data=05%7C01%7CJoash_Shalom_S%2FO_SINAYAH%40tp.edu.sg%7Cae988cb6a09944347a2508db5dace232%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638206769369744844%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=nm095J8kwrmbFkD5xs3WzfKtEaFzntufIfI4KX4OaKI%3D&amp;reserved=0) is back with more than 3000 opportunities for youths to learn, volunteer, lead and connect this May-July! 
- 
-Make a difference in the lives of Seniors, Children, Persons with Special Needs, Migrant Workers and even do our part for the environment. Opportunities ranges from once-off bite size events to regular programme, you can choose based on your commitment level and the causes that you are passionate in.
- 
-For enquiries, please email to [Youth_Corps_Enquiries@nyc.gov.sg](mailto:Youth_Corps_Enquiries@nyc.gov.sg) 
+Dear TP Community,
+
+Calling all students who are NS ready or interested to know more about National Service! 
+
+Apart from acing the NAPFA tests, you are invited to attend an online Joint Poly NS Info Sharing Session 2023. For the gentlemen, you will get to gain better understanding of National Service and be better prepared for Enlistment. For the ladies, you will get to learn more about the various career opportunities and how you can support your loved ones embarking on their National Service. 
+
+Do click the link below to register your attendance! More information will be sent to you separately.
+
+https://for.edu.sg/jointpolynssharing 
+
+SEAL Points will be awarded to all participants upon successful completion.
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Invitation to Focus Group Discussion on National Museum Revamp</h3>
-<h5 style="margin-top:0%"><i>13 – 17 June 2023</i></h5>
+<h3 style="margin-top:0%">Temasek Student Excellence Awards 2023
 
-![](/images/Events/Happenings/2023%2005%2026/focusgroup_discussions.jpg)
+</h3>
+<h5 style="margin-top:0%"><i>Celebrating Our Students’ Spirit of Excellence &amp; Contributions!</i></h5>
 
-The National Museum of Singapore is embarking on a content revamp of the Singapore History Gallery and glass rotunda in the next few years and would like to engage youth to seek feedback on creating a better museum experience.
- 
-The focus group discussion will be held at the museum on one day (for 2.5 hours) between 13 – 17 June, where you can share your views on what you hope to see and experience at the museum.
- 
-If you are interested to participate in the Focus Group Discussion, please register at[ https://go.gov.sg/nmsengageall]( https://go.gov.sg/nmsengageall) by 31 May. 
- 
-For enquiries, please submit them to the [National Museum of Singapore.](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhb.gov.sg%2Fnationalmuseum%2Fcontact-us&amp;data=05%7C01%7CJoash_Shalom_S%2FO_SINAYAH%40tp.edu.sg%7Cae988cb6a09944347a2508db5dace232%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638206769369744844%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=6jDde4OQPg8smRN%2BhpY9PjdoxVz1TQm0TfCmYbjwrrY%3D&amp;reserved=0)
+![](/images/Events/Happenings/2023%2007%2010/tsea_congrats.jpg)
+
+Heartiest congratulations to all our recipients of the **Temasek Student Excellence Awards (TSEA) 2023!** 👏💯
+
+Organised annually, the TSEA recognises the inspiring achievements and myriad contributions of students in non-academic areas, such as arts, sports, leadership, service, entrepreneurship, sustainability and character. This year, we honoured **339** students across the Higher Award categories (Individual and Group/Team). **7** national athletes also received the Outstanding Sports Achievement Award for bringing honour to Singapore through their achievements at the 31st and/or 32nd Southeast Asian Games. In addition, **922** CCA Merit Awards (Arts/Sports/ Leadership), **348** Full Colours Awards and **130** Half Colours Awards have been accorded. On top of these awards, **2** officially-appointed TP coaches received the Outstanding Coach Award for their contributions. 
+
+Here’s a special shout-out to the recipients of our pinnacle accolades – **Temasek CCA Gold** 🥇 and **Silver** 🥈 Awards! Hear their heartfelt thoughts and the memorable takeaways of their CCA journeys, and discover what inspired them to continue the good fight 💪 while navigating their ride in TP. 
+
+👉 Check out the video [here](https://www.youtube.com/watch?v=qsBq_quViSE)!
+
+**To all our awardees**: A BIG thank you 🙏 for your amazing dedication and spirit, and for your unstinting efforts in making TP a campus that truly throbs with vibrancy all year round! ❤️
+
+🏆 Check out the TSEA 2023 Honour Roll at our [Virtual Campus](https://virtualcampus.tp.edu.sg/events/highlights/tsea2023/)! 🏆
+
+*(P/S: Nominations for the TSEA 2024 will open from March to April next year (tentative). Do watch this space for more updates on the call for nominations!)*
 
 
 <hr>
