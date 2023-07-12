@@ -153,6 +153,7 @@ Here’s a special shout-out to the recipients of our pinnacle accolades – **T
 ![](/images/Events/Happenings/2023%2007%2012/recoding_masc.jpg)
 ![](/images/Events/Happenings/2023%2007%2012/recoding_masc2.jpg)
 ![](/images/Events/Happenings/2023%2007%2012/recoding_masc3.jpg)
+
 The **UWS Boys Empowered Community Summit**, hosted by United Women Singapore, is an annual event that aims to create a supportive community by empowering youth to become male allies for gender equality. Through knowledge sharing and community building, the summit brings together **male youth** (17-25 years old) and the **stakeholders** (parents, educators, and social service agencies) to redefine masculinity.
 
 Themed **‘Re-Coding Masculinity**’, the 2023 summit will focus on youth **cyber wellness** and **mental wellness**, as well as explore how our own perceptions and expectations of boys and men are affecting these issues and their development. It will also unpack the role of masculinity in affecting these issues and how the community and stakeholders can play a part in supporting young men. 
