@@ -142,6 +142,60 @@ Here’s a special shout-out to the recipients of our pinnacle accolades – **T
 
 *(P/S: Nominations for the TSEA 2024 will open from March to April next year (tentative). Do watch this space for more updates on the call for nominations!)*
 
+<hr>
+<br>
+
+<h3 style="margin-top:0%">UWS Boys Empowered Community Summit 
+
+</h3>
+<h5 style="margin-top:0%"><i>Creating A Supportive Community for Gender Equality!</i></h5>
+
+![](/images/Events/Happenings/2023%2007%2012/recoding_masc.jpg)
+![](/images/Events/Happenings/2023%2007%2012/recoding_masc2.jpg)
+![](/images/Events/Happenings/2023%2007%2012/recoding_masc3.jpg)
+The **UWS Boys Empowered Community Summit**, hosted by United Women Singapore, is an annual event that aims to create a supportive community by empowering youth to become male allies for gender equality. Through knowledge sharing and community building, the summit brings together **male youth** (17-25 years old) and the **stakeholders** (parents, educators, and social service agencies) to redefine masculinity.
+
+Themed **‘Re-Coding Masculinity**’, the 2023 summit will focus on youth **cyber wellness** and **mental wellness**, as well as explore how our own perceptions and expectations of boys and men are affecting these issues and their development. It will also unpack the role of masculinity in affecting these issues and how the community and stakeholders can play a part in supporting young men. 
+
+In this event, you will be:
+
+•	Engaging in specifically curated interactive sessions <br>
+•	Expanding your network and learn best practices from experts <br>
+•	Exchanging experiences through having conversations with others in the community
+
+**Stand a chance to win prizes by participating in our sessions and activities! REGISTER [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfaf1UvjjkBQQgQAxjKcojx20w5ISCAr2QjTuddmoMjYcawxA/viewform) NOW!**
+
+🗓️ 14 July 2023 (Friday), 1.00pm – 7.30pm <br>
+📍 Our Tampines Hub, Space Zone 1 &amp; 2 <br>
+🔗 https://uws.org.sg/community-summit/
+
+
+<hr>
+<br>
+
+<h3 style="margin-top:0%">Varsity Voices Dialogue 2023
+
+
+
+</h3>
+<h5 style="margin-top:0%"><i>AI in Learning and Work: Beyond the Hype, Towards the Future</i></h5>
+
+![](/images/Events/Happenings/2023%2007%2012/varsity_voices.png)
+
+🗓 Save the date for Varsity Voices Dialogue 2023! ✨
+
+Join Dr Maliki Osman, Second Minister for Education, and Mr Howie Lau, Managing Partner at NCS, as we discuss how AI is changing how we learn and work 🎓💻 and explore the exciting opportunities that lie ahead! 🌐
+
+📍 Lifelong Learning Institute Level 2 Lecture Theatre <br>
+📅 Date: 20 July (Thursday) <br>
+⏰ Time: 8:00pm - 9:30pm (Registration &amp; dinner starts at 7:00pm)
+
+SIGN UP NOW ➡️ www.go.gov.sg/varsityvoicesdialogue2023 before 17 July (Mon). <br>
+For **Question 10. Programme/Course**, please type “**Temasek Polytechnic**”. 
+SEAL points will be awarded upon successful completion! 
+
+✨ Feel free to share with your networks and peers ✨ <br>
+Please contact [Charlotte](mailto:2200940A@student.tp.edu.sg) if you have any queries.<br>
 
 <hr>
 
