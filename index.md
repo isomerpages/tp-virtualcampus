@@ -41,7 +41,7 @@ sections:
         search from a wide range of employers from different sectors!
       button: Explore and apply for job opportunities now!
       url: https://e2i.virtualfair.sg/TP
-      image: /images/beconnected_career_portal.png
+      image: /images/career portal.png
       alt: TP Career Portal
   - infopic:
       title: CCA Fair 2023
