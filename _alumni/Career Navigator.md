@@ -3,6 +3,16 @@ title: Career Navigator
 permalink: /alumni/career-navigator/
 description: ""
 ---
+### TP Career Portal ###
+Newly launched one-stop TP Career Portal, specially curated for you, to facilitate your search for job openings from a wide range of employers from different sectors! 
+
+
+**Explore and apply for job opportunities  [here](https://e2i.virtualfair.sg/TP) today!** 
+
+![Career Portal](/images/beconnected_career_portal.png)
+
+---
+
 ### Networking Your Way To Success Through LinkedIn ###
 Are you keen to find out how you can leverage LinkedIn to build meaningful professional connections, and nurture positive relationships for your career development? Gain useful insights and tips from our alumna, Ms Nas Rahim (Talent & Learning Account Manager, LinkedIn), at this [Facebook Live webcast](https://www.facebook.com/temasekpolyalumni/videos/1521214548071467)!
 
