@@ -35,15 +35,6 @@ sections:
       alt: TSEA 2023
       subtitle: TSEA 2023
   - infopic:
-      title: TP Career Portal
-      subtitle: Career Portal
-      description: A one-stop portal specially curated for you to facilitate your job
-        search from a wide range of employers from different sectors!
-      button: Explore and apply for job opportunities now!
-      url: https://e2i.virtualfair.sg/TP
-      image: /images/career portal.png
-      alt: TP Career Portal
-  - infopic:
       title: CCA Fair 2023
       subtitle: CCA Fair
       description: Missed some information from your favourite CCAs? View the dates
