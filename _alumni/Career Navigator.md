@@ -9,7 +9,7 @@ Newly launched one-stop TP Career Portal, specially curated for you, to facilita
 
 **Explore and apply for job opportunities  [here](https://e2i.virtualfair.sg/TP) today!** 
 
-![Career Portal](/images/beconnected_career_portal.png)
+![](/images/career%20portal.png)
 
 ---
 
