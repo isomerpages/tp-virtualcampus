@@ -49,6 +49,36 @@ As part of their Fitness &amp; Wellness lessons, PFP students will get to partic
 **Celebrations in the Schools**<br>
 Commemorate National Day with your respective Schools through an eclectic array of events/activities – reflecting both your distinctive School spirit and our collective love for Singapore – over the month of August!  
 
+
+
+<table>
+  <tbody><tr>
+    <td>School of Applied Science</td>
+    <td>•	8 Aug: ASC staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>
+			
+•	14-17 Aug: Students from the Diploma in Food, Nutrition &amp; Culinary Science and Interest Group will promote Singapore heritage food on Instagram. <br>
+			
+•	14-17 Aug: Singapore heritage food menus will be specially created and served at the Bistro Lab. 
+</td>
+
+  </tr>
+  <tr>
+    <td>School of Business</td>
+    <td>•	1-8 Aug: As a show of national pride, RadioActive will broadcast familiar National Day songs for the TP community’s enjoyment. <br>
+			
+•	1-4 Aug: BUS staff/students are encouraged to pen their well wishes for Singapore and sign their names on a special ‘SG Digital Pledge Banner’, which will be displayed on a digital screen along the BUS concourse (7-8 Aug).<br>
+			
+•	8 Aug: BUS staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>
+			
+•	8 Aug: Red/white National Day-themed helium balloons will be distributed to the BUS community to mark the special occasion. 
+</td>
+
+  </tr>
+</tbody></table>
+
+
+
+
 ### NDC 2023: TP National Day Concert ###
 
 
