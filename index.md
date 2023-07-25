@@ -117,4 +117,14 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: TP National Day Celebrations 2023
+      subtitle: TP NDC 2023
+      description: Muster up your patriotic fervour and celebrate Singapore’s 58th
+        birthday through an exciting series of events, happening right on
+        campus!
+      button: "EXPLORE THE FESTIVITIES! "
+      url: /events/highlights/tpnationaldaycelebrations2023/
+      image: /images/homepage-images/homepage_ndc_2023.jpg
+      alt: Homepage_NDC_2023
 ---
