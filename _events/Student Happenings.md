@@ -8,195 +8,127 @@ description: ""
 <hr>
 <br>
 
-<h3 style="margin-top:0%">TP Basketball Men’s Invitational Games 2023 
+<h3 style="margin-top:0%">Temasek Poly x Chulalongkorn University Sports Exchange (Badminton) 
 
 </h3>
-<h5 style="margin-top:0%"><i>Catch Exciting Basketball Friendlies &amp; Support Team Temasek!</i></h5>
+<h5 style="margin-top:0%"><i>Catch Exciting Badminton Friendlies with Our Thai Friends!</i></h5>
 
 ![](/images/Events/Happenings/2023%2007%2010/basketball_games.jpg)
 
 
-**Hey #TPFAM!** 
+**Hey #TPFAM! 👋**
 
-Whether you are a passionate basketball fan or just want to support #TeamTemasek 💪, come on down and catch exciting friendly matches at the TP Basketball Men’s Invitational Games 2023! Witness adrenaline pumping action on the court by the best youth players, featuring the Basketball Men’s teams 🏀 from Singapore and Taiwan. Root for #TeamTemasek (but don’t forget to cheer for everyone too) – all in the spirit of friendly and sporting fun! ✌️
+This July, we are so psyched to welcome the Chulalongkorn University’s (CU) badminton team (Bangkok, Thailand) to TP for a Sports Exchange Programme! 🤝 Our Thai friends will be visiting under a Memorandum Of Understanding signed between TP and CU in February 2023, which aims to facilitate greater cooperation between both institutions through a multitude of activities. These include student exchange in the domains of sports, arts and culture, design, volunteering, medical and leadership; as well as staff exchange and the organisation of joint programmes.
 
-The invitational games will feature the following teams: 
+As part of the Sports Exchange Programme, come on down to show some love and support ❤️ for both TP and CU! Catch exciting friendly matches between our #TeamTemasek shuttlers and Thai badminton players 🏸 – all in the spirit of sporting fun! 
 
-•	Temasek Polytechnic (TP) <br>
-•	Siglap Basketball Club (U18) <br>
-•	Singapore Management University (SMU) <br>
-•	National Magong High School (Taiwan)
+Book your calendars now (refer to fixtures* in eDM below), and see you there! 🤩
 
-Let’s show some love for TP and epitomise our #TPFAM spirit to the fullest. ❤️ Book your calendars now and see you there! 😉
+**ℹ️ Temasek Poly x Chulalongkorn University: Sports Exchange Programme (Badminton)** <br>
+**🗓️ 21-26 Jul 2023** <br>
+**📍 Blk 26A, Sports &amp; Arts Centre, Sports Hall 2 (Level 2)**
 
-⛹🏻 TP Basketball Men’s Invitational Games 2023 <br>
-🗓️ 10, 12 &amp; 14 Jul 2023 <br>
-📍 Blk 29, TP Sports Complex 
+(*All matches are open to TP students/staff. Seats available on a first come, first served basis.)
 
-**FIXTURES**
-
-
-<table class="MsoNormalTable" border="0" cellspacing="3" cellpadding="0" style="mso-cellspacing:2.2pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:4.9pt"><td width="158" style="width:118.2pt;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:.75pt .75pt .75pt .75pt;height:4.9pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%"><b>Date</b></p></td><td width="82" style="width:61.5pt;border:none;border-top:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:4.9pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%"><b>Time</b></p></td><td width="135" style="width:101.45pt;border-top:solid windowtext 1.0pt;
-  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
-  padding:.75pt .75pt .75pt .75pt;height:4.9pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%"><b>Team</b></p></td><td width="135" style="width:101.25pt;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:.75pt .75pt .75pt .75pt;height:4.9pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%"><b>Team</b></p></td></tr><tr style="mso-yfti-irow:1"><td width="158" rowspan="2" style="width:118.2pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">10 Jul 2023 (Monday)</p></td><td width="82" style="width:61.5pt;border:none;border-top:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">7.00pm</p></td><td width="135" style="width:101.45pt;border-top:solid windowtext 1.0pt;
-  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">National Magong High School</p></td><td width="135" style="width:101.25pt;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">Siglap U18</p></td></tr><tr style="mso-yfti-irow:2"><td width="82" style="width:61.5pt;border:none;border-top:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">8.30pm</p></td><td width="135" style="width:101.45pt;border-top:solid windowtext 1.0pt;
-  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">TP</p></td><td width="135" style="width:101.25pt;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">SMU</p></td></tr><tr style="mso-yfti-irow:3"><td width="158" rowspan="2" style="width:118.2pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">12 Jul 2023 (Wednesday)</p></td><td width="82" style="width:61.5pt;border:none;border-top:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">7.00pm</p></td><td width="135" style="width:101.45pt;border-top:solid windowtext 1.0pt;
-  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">SMU</p></td><td width="135" style="width:101.25pt;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">National Magong High School</p></td></tr><tr style="mso-yfti-irow:4"><td width="82" style="width:61.5pt;border:none;border-top:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">8.30pm</p></td><td width="135" style="width:101.45pt;border-top:solid windowtext 1.0pt;
-  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">Siglap U18</p></td><td width="135" style="width:101.25pt;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">TP</p></td></tr><tr style="mso-yfti-irow:5"><td width="158" rowspan="2" style="width:118.2pt;border:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">14 Jul 2023 (Friday)</p></td><td width="82" style="width:61.5pt;border:none;border-top:solid windowtext 1.0pt;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">7.00pm</p></td><td width="135" style="width:101.45pt;border-top:solid windowtext 1.0pt;
-  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:none;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">National Magong High School</p></td><td width="135" style="width:101.25pt;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">TP</p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td width="82" style="width:61.5pt;border-top:solid windowtext 1.0pt;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
-  padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">8.30pm</p></td><td width="135" style="width:101.45pt;border:solid windowtext 1.0pt;border-right:
-  none;padding:.75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">SMU</p></td><td width="135" style="width:101.25pt;border:solid windowtext 1.0pt;padding:
-  .75pt .75pt .75pt .75pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;line-height:105%">Siglap U18</p></td></tr></tbody></table>
-
-*(All matches are open to TP students/staff. Due to space constraints, only top-floor seats are available on a first come, first served basis.)* 
 
 
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Racial Harmony Week in TP
+<h3 style="margin-top:0%">Afterhours III: Under the Stars!
 </h3>
-<h5 style="margin-top:0%"><i>Discover the beauty and uniqueness of traditions!</i></h5>
+<h5 style="margin-top:0%"><i>Embark on a Musical Journey with us</i></h5>
 
 ![](/images/Events/Happenings/2023%2007%2010/racial_harmony_1.png)
 
 ![](/images/Events/Happenings/2023%2007%2010/racial_harmony_2.png)
 
-Dear TP Community, 
+**Hey #TPFAM,**
 
-Join us for an unforgettable celebration of Racial Harmony Day at Temasek Polytechnic (TP)!
+**Are you ready to embark on a musical journey under the starry night sky?**
 
-We believe in the power of diversity and want to highlight the significance of harmonious relations among our student population.
+Music Vox are thrilled to extend a heartfelt invitation to all staff and students of Temasek Polytechnic to join us for another enchanting evening at the upcoming **Afterhours III: Under the Stars!**
 
-Immerse yourself in a vibrant atmosphere where you'll have the opportunity to participate in cultural showcases, interactive workshops, and engaging conversations. Discover the beauty and uniqueness of various traditions while forging new friendships and connections along the way.
+**LIVE MUSIC!**<br>
+Be prepared to be enthralled by our talented musicians who will be delivering awe-inspiring live performances that will surely resonate with your soul. Set against the evening sunset, this is one night not to be missed!
 
-Let's come together as one TP community on this special occasion. Mark your calendars and be part of this meaningful celebration of Racial Harmony Day. 
+**OPEN MIC!**<br>
+This is your opportunity to show off YOUR musical talent by joining our OPEN MIC segment. 
+Sign up on the day itself **before 7:30PM to secure your spot** and you will be assigned on a spot on a first come-first serve basis. Limited slots available. 
+Musical equipment will be provided, except for personal instruments that you will need to bring. 
+Alternatively, you may prepare an instrumental backing track. Each musician/band is limited to one song. More details will be shared on our Instagram page in the coming week @tpmusicvox. 
+So do make sure to give us a follow for more updated information on the event. 
+
+**Event details** <br>
+Date: 28 July, Friday <br>
+Free Entry - Open to Staff, Students and Public <br>
+Time: 6:30 PM to 9:00 PM (Doors open at 6:15PM)  <br>
+Open mic: 7:30 PM (Sign up closes at 7:25PM) <br>
+Venue: Garden Fiesta, Rooftop Garden  <br>
+ 
+Do not miss this opportunity to be part of a truly extraordinary event under the night sky and we look forward to seeing you there!
+
+Contact us at: [Music Vox](mailto:musicvoxtp@gmail.com) or [Nigel Tan](mailto:nigeltan@tp.edu.sg)
+
+Another production brought to you by **Temasek Arts Centre**
+
 
 
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Joint-Polytechnic National Service Info Sharing 2023
+<h3 style="margin-top:0%">Campus Vibrancy Survey
 </h3>
-<h5 style="margin-top:0%"><i>NS Ready!</i></h5>
+<h5 style="margin-top:0%"><i>Tell Us What You Hope To Experience In TP!</i></h5>
 
 ![](/images/Events/Happenings/2023%2007%2010/ns_sharing.png)
 
-Dear TP Community,
+**Hey #TPFAM,**
 
-Calling all students who are NS ready or interested to know more about National Service! 
+We want to hear from you! 😊
 
-Apart from acing the NAPFA tests, you are invited to attend an online Joint Poly NS Info Sharing Session 2023. For the gentlemen, you will get to gain better understanding of National Service and be better prepared for Enlistment. For the ladies, you will get to learn more about the various career opportunities and how you can support your loved ones embarking on their National Service. 
+At Temasek Polytechnic (TP), we are committed to creating a more vibrant campus for you. We hope that TP will be a place where you can feel a great sense of belonging ❤️, flourish in your own space 🌈, and experience an amazingly diverse world beyond the classroom 🌎! 
 
-Do click the link below to register your attendance! More information will be sent to you separately.
+We would love to hear your thoughts on what you hope to experience in TP. Tell us what would motivate you to attend our events/activities and how we can better connect with you too! 🙌
 
-https://for.edu.sg/jointpolynssharing 
+Please spare about 15 minutes to complete this survey and share your feedback, which will help us to improve, curate and create more enjoyable campus experiences for you. 🙏 The first 500 respondents will receive e-vouchers*! 
 
-SEAL Points will be awarded to all participants upon successful completion.
+At the end of your polytechnic journey, we hope that you will regard your chapter in TP as nothing short of inspiring and transformational, and the friendships forged as fond memories that you will treasure for a lifetime. 💯
 
-<hr>
-<br>
+We look forward to receiving your feedback. TP Oei~~! 🙆🏻‍♂️🙆🏻‍♀️
 
-<h3 style="margin-top:0%">Temasek Student Excellence Awards 2023
+👉 Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328Xm6I9C1JndCmGBi9-zy6_BUQVg3WVY5WE8yWlJIVUZMTUxES0M3SzZWTC4u) to begin the survey.
 
-</h3>
-<h5 style="margin-top:0%"><i>Celebrating Our Students’ Spirit of Excellence &amp; Contributions!</i></h5>
+(✉️ For enquiries, please contact Ms Tracy Ng at: [Tracy_Ng@tp.edu.sg](mailto:Tracy_Ng@tp.edu.sg)) 
 
-![](/images/Events/Happenings/2023%2007%2010/tsea_congrats.jpg)
-
-Heartiest congratulations to all our recipients of the **Temasek Student Excellence Awards (TSEA) 2023!** 👏💯
-
-Organised annually, the TSEA recognises the inspiring achievements and myriad contributions of students in non-academic areas, such as arts, sports, leadership, service, entrepreneurship, sustainability and character. This year, we honoured **339** students across the Higher Award categories (Individual and Group/Team). **7** national athletes also received the Outstanding Sports Achievement Award for bringing honour to Singapore through their achievements at the 31st and/or 32nd Southeast Asian Games. In addition, **922** CCA Merit Awards (Arts/Sports/ Leadership), **348** Full Colours Awards and **130** Half Colours Awards have been accorded. On top of these awards, **2** officially-appointed TP coaches received the Outstanding Coach Award for their contributions. 
-
-Here’s a special shout-out to the recipients of our pinnacle accolades – **Temasek CCA Gold** 🥇 and **Silver** 🥈 Awards! Hear their heartfelt thoughts and the memorable takeaways of their CCA journeys, and discover what inspired them to continue the good fight 💪 while navigating their ride in TP. 
-
-👉 Check out the video [here](https://www.youtube.com/watch?v=qsBq_quViSE)!
-
-**To all our awardees**: A BIG thank you 🙏 for your amazing dedication and spirit, and for your unstinting efforts in making TP a campus that truly throbs with vibrancy all year round! ❤️
-
-🏆 Check out the TSEA 2023 Honour Roll at our [Virtual Campus](https://virtualcampus.tp.edu.sg/events/highlights/tsea2023/)! 🏆
-
-*(P/S: Nominations for the TSEA 2024 will open from March to April next year (tentative). Do watch this space for more updates on the call for nominations!)*
-
-<hr>
-<br>
-
-<h3 style="margin-top:0%">UWS Boys Empowered Community Summit 
-
-</h3>
-<h5 style="margin-top:0%"><i>Creating A Supportive Community for Gender Equality!</i></h5>
-
-![](/images/Events/Happenings/2023%2007%2012/recoding_masc.jpg)
-![](/images/Events/Happenings/2023%2007%2012/recoding_masc2.jpg)
-![](/images/Events/Happenings/2023%2007%2012/recoding_masc3.jpg)
-
-The **UWS Boys Empowered Community Summit**, hosted by United Women Singapore, is an annual event that aims to create a supportive community by empowering youth to become male allies for gender equality. Through knowledge sharing and community building, the summit brings together **male youth** (17-25 years old) and the **stakeholders** (parents, educators, and social service agencies) to redefine masculinity.
-
-Themed **‘Re-Coding Masculinity**’, the 2023 summit will focus on youth **cyber wellness** and **mental wellness**, as well as explore how our own perceptions and expectations of boys and men are affecting these issues and their development. It will also unpack the role of masculinity in affecting these issues and how the community and stakeholders can play a part in supporting young men. 
-
-In this event, you will be:
-
-•	Engaging in specifically curated interactive sessions <br>
-•	Expanding your network and learn best practices from experts <br>
-•	Exchanging experiences through having conversations with others in the community
-
-**Stand a chance to win prizes by participating in our sessions and activities! REGISTER [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfaf1UvjjkBQQgQAxjKcojx20w5ISCAr2QjTuddmoMjYcawxA/viewform) NOW!**
-
-🗓️ 14 July 2023 (Friday), 1.00pm – 7.30pm <br>
-📍 Our Tampines Hub, Space Zone 1 &amp; 2 <br>
-🔗 https://uws.org.sg/community-summit/
+(*Details on how eligible students can redeem their e-vouchers will be provided separately.)
 
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Varsity Voices Dialogue 2023
+
+<h3 style="margin-top:0%">Defence Science &amp; Technology’s Challenge of Wits
 
 
 
 </h3>
-<h5 style="margin-top:0%"><i>AI in Learning and Work: Beyond the Hype, Towards the Future</i></h5>
+<h5 style="margin-top:0%"><i>Ready to Prove Your Mettle?</i></h5>
 
 ![](/images/Events/Happenings/2023%2007%2012/varsity_voices.png)
 
-🗓 Save the date for Varsity Voices Dialogue 2023! ✨
+Ready to take on the Challenge of Wits?
 
-Join Dr Maliki Osman, Second Minister for Education, and Mr Howie Lau, Managing Partner at NCS, as we discuss how AI is changing how we learn and work 🎓💻 and explore the exciting opportunities that lie ahead! 🌐
+Calling all students! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts. 
 
-📍 Lifelong Learning Institute Level 2 Lecture Theatre <br>
-📅 Date: 20 July (Thursday) <br>
-⏰ Time: 8:00pm - 9:30pm (Registration &amp; dinner starts at 7:00pm)
+Solve the challenges and stand a chance to win attractive prizes!
 
-SIGN UP NOW ➡️ www.go.gov.sg/varsityvoicesdialogue2023 before 17 July (Mon). <br>
-For **Question 10. Programme/Course**, please type “**Temasek Polytechnic**”. 
-SEAL points will be awarded upon successful completion! 
+Visit the [challenge website](https://www.dtcareers.gov.sg/challenge/?utm_source=email&amp;utm_medium=EDM&amp;utm_campaign=ChallengeOfWits2023&amp;utm_content=PreLaunch) for more information.
 
-✨ Feel free to share with your networks and peers ✨ <br>
-Please contact [Charlotte](mailto:2200940A@student.tp.edu.sg) if you have any queries.<br>
+For updates, follow us on Instagram at @singaporedsta, @csitsg, and @discoverdso!
+
 
 <hr>
 
