@@ -13,7 +13,7 @@ description: ""
 </h3>
 <h5 style="margin-top:0%"><i>Catch Exciting Badminton Friendlies with Our Thai Friends!</i></h5>
 
-![](/images/Events/Happenings/2023%2007%2010/basketball_games.jpg)
+![](/images/Events/Happenings/2023%2007%2026/badminton.jpg)
 
 
 **Hey #TPFAM! 👋**
@@ -40,9 +40,7 @@ Book your calendars now (refer to fixtures* in eDM below), and see you there! �
 </h3>
 <h5 style="margin-top:0%"><i>Embark on a Musical Journey with us</i></h5>
 
-![](/images/Events/Happenings/2023%2007%2010/racial_harmony_1.png)
-
-![](/images/Events/Happenings/2023%2007%2010/racial_harmony_2.png)
+![](/images/Events/Happenings/2023%2007%2026/after%20hours.png)
 
 **Hey #TPFAM,**
 
@@ -83,7 +81,7 @@ Another production brought to you by **Temasek Arts Centre**
 </h3>
 <h5 style="margin-top:0%"><i>Tell Us What You Hope To Experience In TP!</i></h5>
 
-![](/images/Events/Happenings/2023%2007%2010/ns_sharing.png)
+![](/images/Events/Happenings/2023%2005%2026/campus_survey.jpg)
 
 **Hey #TPFAM,**
 
@@ -117,7 +115,7 @@ We look forward to receiving your feedback. TP Oei~~! 🙆🏻‍♂️🙆🏻�
 </h3>
 <h5 style="margin-top:0%"><i>Ready to Prove Your Mettle?</i></h5>
 
-![](/images/Events/Happenings/2023%2007%2012/varsity_voices.png)
+![](/images/Events/Happenings/2023%2007%2026/mettle.png)
 
 Ready to take on the Challenge of Wits?
 
