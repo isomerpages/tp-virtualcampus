@@ -49,6 +49,21 @@ As part of their Fitness &amp; Wellness lessons, PFP students will get to partic
 **Celebrations in the Schools**<br>
 Commemorate National Day with your respective Schools through an eclectic array of events/activities – reflecting both your distinctive School spirit and our collective love for Singapore – over the month of August!  
 
+<table>
+	<tbody><tr>
+		<th>School</th>
+		<th>Activity</th>
+	</tr>
+	<tr>
+		<td>School of Applied Science</td>
+		<td>•	8 Aug: ASC staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>
+•	14-17 Aug: Students from the Diploma in Food, Nutrition &amp; Culinary Science and Interest Group will promote Singapore heritage food on Instagram. <br>
+•	14-17 Aug: Singapore heritage food menus will be specially created and served at the Bistro Lab. </td>
+	</tr>
+	</tbody></table>
+
+		
+		
 ### NDC 2023: TP National Day Concert ###
 
 
