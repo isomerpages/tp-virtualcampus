@@ -17,7 +17,6 @@ Look forward to a morning full of enthralling acts and exciting games, led by ou
 **Date:** 8 Aug 2023 (Tuesday)<br>
 **Time:** 10.30am to 11.30am <br>(Screening of DFT films starts from 10am onwards)
 
-**Catch this concert virtually! <br>Tune in to the livestream here:** https://tinyurl.com/TPNDC2023
+**Catch this concert virtually! <br>Tune in to the livestream [here!](https://tinyurl.com/TPNDC2023)** 
 
 So grab your snacks, find a comfy spot, and enjoy one of our most electrifying and pulsating shows ever! 🔥 See you there!
-
