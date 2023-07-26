@@ -49,18 +49,44 @@ As part of their Fitness &amp; Wellness lessons, PFP students will get to partic
 **Celebrations in the Schools**<br>
 Commemorate National Day with your respective Schools through an eclectic array of events/activities – reflecting both your distinctive School spirit and our collective love for Singapore – over the month of August!  
 
-<table>
-	<tbody><tr>
-		<th>School</th>
-		<th>Activity</th>
-	</tr>
-	<tr>
-		<td>School of Applied Science</td>
-		<td>•	8 Aug: ASC staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>
-•	14-17 Aug: Students from the Diploma in Food, Nutrition &amp; Culinary Science and Interest Group will promote Singapore heritage food on Instagram. <br>
-•	14-17 Aug: Singapore heritage food menus will be specially created and served at the Bistro Lab. </td>
-	</tr>
-	</tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">School of Applied Sciences</th>
+    <th class="tg-0pky">• 8 Aug: ASC staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>• 14-17 Aug: Students from the Diploma in Food, Nutrition &amp; Culinary Science and Interest Group will promote Singapore heritage food on Instagram. <br>• 14-17 Aug: Singapore heritage food menus will be specially created and served at the Bistro Lab.<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">School of Business<br></td>
+    <td class="tg-0pky">• 1-8 Aug: As a show of national pride, RadioActive will broadcast familiar National Day songs for the TP community’s enjoyment.<br>• 1-4 Aug: BUS staff/students are encouraged to pen their well wishes for Singapore and sign their names on a special ‘SG Digital Pledge Banner’, which will be displayed on a digital screen along the BUS concourse (7-8 Aug).<br>• 8 Aug: BUS staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>• 8 Aug: Red/white National Day-themed helium balloons will be distributed to the BUS community to mark the special occasion.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">School of Design<br></td>
+    <td class="tg-0pky">• 8 Aug: DES staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>• 8 Aug: DES staff will enjoy a National Day breakfast to mark the special occasion.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">School of Engineering</td>
+    <td class="tg-0pky">• 7 Aug: The ENG Studies Club will organise a National Day Carnival for the ENG community, featuring booths to reminisce about Singapore’s past, understand more about our Little Red dot, and showcase the School’s well wishes for Singapore.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">School of Humanities &amp; Social Sciences<br></td>
+    <td class="tg-0pky">• 8 Aug: Organised by the HSS Studies Club, HSS staff/students are encouraged to participate in the #HSSDressUpDay in National Day-themed colours (red/white). <br>• 18 Aug: The Diploma in Social Sciences in Gerontology (GEM) Interest Group will organise a National Day-themed bonding event, "Buddy Buddy", for the entire GEM cohort.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">School of Informatics &amp; IT</td>
+    <td class="tg-0pky">• 1 Aug: The IIT Studies Club will organise a National Day-themed “IIT Friendship Day” for the IIT community, featuring carnival-style games/activities, for both staff and students to bond and celebrate National Day together.</td>
+  </tr>
+</tbody>
+</table>
 
 		
 		
