@@ -40,7 +40,7 @@ sections:
       subtitle: TEMASEK ARTS CENTRE PRODUCTION
       description: Be a guest at our party, where a morning full of enthralling
         performances, rousing acts and fun games await you!
-      button: "CATCH THE CONCERT! "
+      button: CATCH THE CONCERT!
       url: /events/highlights/tpnationaldayconcert2023/
       image: /images/homepage-images/ndc_2023 .png
       alt: Image alt text
@@ -136,4 +136,14 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: Career Portal
+      subtitle: "TP Career Portal "
+      description: "Newly launched TP Career Portal, specially curated for you, to
+        facilitate your search for job openings from a wide range of employers
+        from different sectors! "
+      button: EXPLORE & APPLY NOW
+      url: https://e2i.virtualfair.sg/TP
+      image: /images/homepage-images/jobs for you! tp career portal - landscape.png
+      alt: Image alt text
 ---
