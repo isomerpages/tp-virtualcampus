@@ -52,7 +52,7 @@ sections:
         from different sectors!
       button: EXPLORE & APPLY NOW
       url: https://e2i.virtualfair.sg/TP
-      image: /images/homepage-images/jobs for you! tp career portal - landscape.png
+      image: /images/homepage-images/2_jobs for you! tp career portal - landscape.png
       alt: Image alt text
   - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2023
