@@ -45,16 +45,6 @@ sections:
       image: /images/homepage-images/ndc_2023 .png
       alt: Image alt text
   - infopic:
-      title: Career Portal
-      subtitle: TP Career Portal
-      description: Newly launched TP Career Portal, specially curated for you, to
-        facilitate your search for job openings from a wide range of employers
-        from different sectors!
-      button: EXPLORE & APPLY NOW
-      url: https://e2i.virtualfair.sg/TP
-      image: /images/homepage-images/2_jobs for you! tp career portal - landscape.png
-      alt: Image alt text
-  - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2023
       description: Heartiest congratulations to all our deserving recipients of the
         TSEA 2023!
