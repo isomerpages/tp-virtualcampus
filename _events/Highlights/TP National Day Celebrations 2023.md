@@ -54,7 +54,7 @@ Commemorate National Day with your respective Schools through an eclectic array 
 <table>
 <thead>
   <tr>
-    <td style="width:10%">School of Applied Sciences</td>
+    <td style="width:20%">School of Applied Sciences</td>
     <td>• 8 Aug: ASC staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>• 14-17 Aug: Students from the Diploma in Food, Nutrition &amp; Culinary Science and Interest Group will promote Singapore heritage food on Instagram. <br>• 14-17 Aug: Singapore heritage food menus will be specially created and served at the Bistro Lab.<br></td>
   </tr>
 </thead>
