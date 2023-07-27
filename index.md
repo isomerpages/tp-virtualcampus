@@ -26,6 +26,25 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: TP National Day Celebrations 2023
+      subtitle: TP NDC 2023
+      description: Muster up your patriotic fervour and celebrate Singapore’s 58th
+        birthday through an exciting series of events, happening right on
+        campus!
+      button: EXPLORE THE FESTIVITIES!
+      url: /events/highlights/tpnationaldaycelebrations2023/
+      image: /images/homepage-images/homepage_ndc_2023.jpg
+      alt: Homepage_NDC_2023
+  - infopic:
+      title: TP National Day Concert 2023
+      subtitle: TEMASEK ARTS CENTRE PRODUCTION
+      description: Be a guest at our party, where a morning full of enthralling
+        performances, rousing acts and fun games await you!
+      button: CATCH THE CONCERT!
+      url: /events/highlights/tpnationaldayconcert2023/
+      image: /images/homepage-images/ndc_2023 .png
+      alt: Image alt text
+  - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2023
       description: Heartiest congratulations to all our deserving recipients of the
         TSEA 2023!
