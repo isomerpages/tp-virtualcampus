@@ -57,8 +57,6 @@ Commemorate National Day with your respective Schools through an eclectic array 
     <td style="width:20%">School of Applied Sciences</td>
     <td>• 8 Aug: ASC staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>• 14-17 Aug: Students from the Diploma in Food, Nutrition &amp; Culinary Science and Interest Group will promote Singapore heritage food on Instagram. <br>• 14-17 Aug: Singapore heritage food menus will be specially created and served at the Bistro Lab.<br></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0pky">School of Business<br></td>
     <td class="tg-0pky">• 1-8 Aug: As a show of national pride, RadioActive will broadcast familiar National Day songs for the TP community’s enjoyment.<br>• 1-4 Aug: BUS staff/students are encouraged to pen their well wishes for Singapore and sign their names on a special ‘SG Digital Pledge Banner’, which will be displayed on a digital screen along the BUS concourse (7-8 Aug).<br>• 8 Aug: BUS staff/students are encouraged to celebrate National Day together by coming to campus in red/white attire. <br>• 8 Aug: Red/white National Day-themed helium balloons will be distributed to the BUS community to mark the special occasion.</td>
@@ -79,8 +77,8 @@ Commemorate National Day with your respective Schools through an eclectic array 
     <td class="tg-0pky">School of Informatics &amp; IT</td>
     <td class="tg-0pky">• 1 Aug: The IIT Studies Club will organise a National Day-themed “IIT Friendship Day” for the IIT community, featuring carnival-style games/activities, for both staff and students to bond and celebrate National Day together.</td>
   </tr>
-</tbody>
-</table>
+
+</thead></table>
 
 		
 		
