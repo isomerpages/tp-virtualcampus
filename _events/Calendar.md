@@ -8,7 +8,7 @@ description: ""
 			<tr>
 		<td style="width:35%">
 			<br>
-				<img src="/images/Home/CCA Fair 2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+				<img src="/images/homepage-images/homepage_ndc_2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/tpnationaldaycelebrations2023/"><h4 style="margin-top:0%">TP National Day Celebrations 2023</h4></a>
@@ -21,7 +21,7 @@ description: ""
 			</tr><tr>
 		<td style="width:35%">
 			<br>
-				<img src="/images/Home/CCA Fair 2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+				<img src="/images/homepage-images/ndc_2023%20.png" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/tpnationaldayconcert2023/"><h4 style="margin-top:0%">TP National Day Concert 2023</h4></a>
