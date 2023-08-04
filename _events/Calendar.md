@@ -5,7 +5,33 @@ description: ""
 ---
 <table>
 	<tbody>
-	<tr>
+			<tr>
+		<td style="width:35%">
+			<br>
+				<img src="/images/homepage-images/homepage_ndc_2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/highlights/tpnationaldaycelebrations2023/"><h4 style="margin-top:0%">TP National Day Celebrations 2023</h4></a>
+				<h6 style="margin-top:0%"><i>August 2023</i></h6>
+				<p style="margin-top:0%">
+				Muster up your patriotic fervour, don your best red/white ensemble, and be all set to celebrate Singapore’s 58th birthday in style! As part of our TP National Day Celebrations, get ready to welcome a rousing series of events – specially brought to you by the Schools, CCAs and Clubs across TP!
+									</p>
+			<br>
+		</td>
+			</tr><tr>
+		<td style="width:35%">
+			<br>
+				<img src="/images/homepage-images/ndc_2023%20.png" style="display:block;margin-left:auto;margin-right:auto;">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/highlights/tpnationaldayconcert2023/"><h4 style="margin-top:0%">TP National Day Concert 2023</h4></a>
+				<h6 style="margin-top:0%"><i>8 August 2023</i></h6>
+				<p style="margin-top:0%">
+					Be a guest at TP’s biggest party and join us at our very own National Day Concert on 8 Aug, 10am! Themed “Semangat Kesatuan” or “The Spirit of Oneness”, this concert promises a morning full of enthralling performances, rousing acts and fun games!
+							</p>
+			<br>
+		</td>
+	</tr><tr>
 		<td style="width:35%">
 			<br>
 				<img src="/images/Home/CCA Fair 2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
