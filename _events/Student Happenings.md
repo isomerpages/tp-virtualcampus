@@ -38,8 +38,7 @@ You may choose between the September or October run of Mission X.
   padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">18 – 20 September 2023 (Mon – Wed)</p><p class="MsoNormal" style="line-height:105%">9am – 6pm Daily</p><p class="MsoNormal" style="line-height:105%">Republic Polytechnic
 	<br>(9 Woodlands Ave 9, Singapore 738964)<i></i></p></td></tr><tr style="mso-yfti-irow:4;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%"><b>How do you Sign Up?</b></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">Complete the <b>registration form</b> on <a href="https://go.gov.sg/mxpoly-oct2023-sch"><b>https://go.gov.sg/mxpoly-oct2023-sch</b></a><span style="color:black">&nbsp;by </span><b><u><span style="color:#C00000;
-  background:yellow;mso-highlight:yellow">1 September 2023</span></u></b></p></td></tr></tbody></table>
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">Complete the <b>registration form</b> on <a href="https://go.gov.sg/mxpoly-oct2023-sch"><b>https://go.gov.sg/mxpoly-oct2023-sch</b></a><span style="color:black">&nbsp;by </span><b><u><span style="">1 September 2023</span></u></b></p></td></tr></tbody></table>
 
 
 **Event details (October Run)**
@@ -56,8 +55,7 @@ You may choose between the September or October run of Mission X.
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">2 – 4 October 2023 (Mon – Wed)</p><p class="MsoNormal" style="line-height:105%">9am – 6pm Daily</p><p class="MsoNormal" style="line-height:105%">Republic Polytechnic <br>(9 Woodlands Ave 9, Singapore 738964)<i></i></p></td></tr><tr style="mso-yfti-irow:4;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%"><b>How do you Sign Up?</b></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">Complete the <b>registration form</b> on <a href="https://go.gov.sg/mxpoly-oct2023-sch"><b>https://go.gov.sg/mxpoly-oct2023-sch</b></a><span style="color:black">&nbsp;by </span><b><u><span style="color:#C00000;
-  background:yellow;mso-highlight:yellow">1 September 2023</span></u></b></p></td></tr></tbody></table>
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">Complete the <b>registration form</b> on <a href="https://go.gov.sg/mxpoly-oct2023-sch"><b>https://go.gov.sg/mxpoly-oct2023-sch</b></a><span style="color:black">&nbsp;by </span><b><u><span style="">1 September 2023</span></u></b></p></td></tr></tbody></table>
 
 For more information: [https://go.gov.sg/missionx-poly-factsheet](https://go.gov.sg/missionx-poly-factsheet)
 
