@@ -95,5 +95,31 @@ This hackathon is brought to you by North East Community Development Council.
 
 
 <hr>
+<br>
+
+<h3 style="margin-top:0%">Joint Polytechnic-ITE Forum
+</h3>
+<h5 style="margin-top:0%"><i>Cost of Living</i></h5>
+
+![](/images/Events/Happenings/2023%2008%2014/joint_polite.png)
+
+📢Calling all youths!📢
+
+Are you interested to share your views and concerns on the rising cost of living in Singapore and how to be better equipped financially for the future? 💰📈
+
+Join Dr Maliki Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs, and Mr Xie Yao Quan, REACH Advisory Panel member and GRA for Jurong Central, in this closed-door dialogue as we discuss how to tackle the rising costs in Singapore and how we can navigate an uncertain job landscape and increasingly volatile world. 🧭
+
+The session will be held on **7 Sep (Thu), 7pm to 9pm** at the **NTU@one-north Auditorium.**
+
+Sign up and share any questions you may have at https://go.gov.sg/pif2023 by 31 August 2023! **Limited seats available!** <br><br>
+**SEAL records will be updated upon full participation**. See you there! 👋🏼 <br><br>
+For enquiries, please email to:<br>
+Tan Yi Ning Charlotte<br>
+Dip in Social Sciences in Gerontology<br>
+Vice President of TP Sports Club<br>
+REACH Youth Advisory Panel member<br>
+2200940A@student.tp.edu.sg
+
+<hr>
 
 ![](/images/Events/Happenings/footer_happenings_2.jpg)
