@@ -84,8 +84,8 @@ North East Communications Hackathon is a programme tailored to empower like-mind
 
 To find out more and register for the Hackathon, simply scan the QR code in the poster or click on these links:
 
-a)            Registration: www.go.gov.sg/necdccommshackathon <br>
-b)            Terms and condition: www.go.gov.sg/necdccommshackathonterms 
+a)            Registration: [www.go.gov.sg/necdccommshackathon](www.go.gov.sg/necdccommshackathon) <br>
+b)            Terms and condition: [www.go.gov.sg/necdccommshackathonterms](www.go.gov.sg/necdccommshackathonterms) 
 
 Closing date for registration: **27 August 2023**
 
@@ -111,14 +111,14 @@ Join Dr Maliki Osman, Minister in the Prime Minister’s Office and Second Minis
 
 The session will be held on **7 Sep (Thu), 7pm to 9pm** at the **NTU@one-north Auditorium.**
 
-Sign up and share any questions you may have at https://go.gov.sg/pif2023 by 31 August 2023! **Limited seats available!** <br><br>
+Sign up and share any questions you may have at [https://go.gov.sg/pif2023](https://go.gov.sg/pif2023) by 31 August 2023! **Limited seats available!** <br><br>
 **SEAL records will be updated upon full participation**. See you there! 👋🏼 <br><br>
 For enquiries, please email to:<br>
-Tan Yi Ning Charlotte<br>
+[Tay Yi Ning Charlotte](mailto:2200940A@student.tp.edu.sg)<br>
 Dip in Social Sciences in Gerontology<br>
 Vice President of TP Sports Club<br>
 REACH Youth Advisory Panel member<br>
-2200940A@student.tp.edu.sg
+
 
 <hr>
 
