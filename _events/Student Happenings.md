@@ -8,124 +8,116 @@ description: ""
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Temasek Poly x Chulalongkorn University Sports Exchange (Badminton) 
+<h3 style="margin-top:0%">Mission X – Sept and Oct 2023 Editions 
 
 </h3>
-<h5 style="margin-top:0%"><i>Catch Exciting Badminton Friendlies with Our Thai Friends!</i></h5>
+<h5 style="margin-top:0%"><i>Local Community Projects</i></h5>
 
-![](/images/Events/Happenings/2023%2007%2026/badminton.jpg)
+![](/images/Events/Happenings/2023%2008%2014/mission_x.jpg)
+
+Hello there!
+
+Are you passionate about the community and would like to develop yourself to be a better community leader? <br>
+**Here’s the PERFECT OPPORTUNITY!** 
+
+We’re excited to invite you to come onboard for **Mission X – Polytechnic Run!** This is a **3-day weekday physical camp** by Youth Corps Singapore. The programme also comprise of a **2-hour virtual pre-engagement** touchpoint to orientate you prior to the start of the camp. 
+
+You may choose between the September or October run of Mission X. 
+
+**Event details (September Run)**
 
 
-**Hey #TPFAM! 👋**
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%"><b>Pre-Engagement</b></p></td></tr><tr style="mso-yfti-irow:1;height:18.6pt"><td width="63" valign="top" style="width:46.95pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:18.6pt"><p class="MsoNormal" style="line-height:105%">Date:</p><p class="MsoNormal" style="line-height:105%">Time:</p><p class="MsoNormal" style="line-height:105%">Venue:</p></td><td width="406" valign="top" style="width:304.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.6pt"><p class="MsoNormal" style="line-height:105%">13 September 2023 (Wednesday)<br><br><br> 8pm – 10pm</p><p class="MsoNormal" style="line-height:105%">Zoom <i>(Details will be provided in the 1<sup>st</sup> week of September)</i></p></td></tr><tr style="mso-yfti-irow:2;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%"><b>Programme</b></p></td></tr><tr style="mso-yfti-irow:3;height:9.15pt"><td width="63" valign="top" style="width:46.95pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">Date:</p><p class="MsoNormal" style="line-height:105%">Time:</p><p class="MsoNormal" style="line-height:105%">Venue</p></td><td width="406" valign="top" style="width:304.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">18 – 20 September 2023 (Mon – Wed)</p><p class="MsoNormal" style="line-height:105%">9am – 6pm Daily</p><p class="MsoNormal" style="line-height:105%">Republic Polytechnic
+	<br>(9 Woodlands Ave 9, Singapore 738964)<i></i></p></td></tr><tr style="mso-yfti-irow:4;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%"><b>How do you Sign Up?</b></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">Complete the <b>registration form</b> on <a href="https://go.gov.sg/mxpoly-oct2023-sch"><b>https://go.gov.sg/mxpoly-oct2023-sch</b></a><span style="color:black">&nbsp;by </span><b><u><span style="">1 September 2023</span></u></b></p></td></tr></tbody></table>
 
-This July, we are so psyched to welcome the Chulalongkorn University’s (CU) badminton team (Bangkok, Thailand) to TP for a Sports Exchange Programme! 🤝 Our Thai friends will be visiting under a Memorandum Of Understanding signed between TP and CU in February 2023, which aims to facilitate greater cooperation between both institutions through a multitude of activities. These include student exchange in the domains of sports, arts and culture, design, volunteering, medical and leadership; as well as staff exchange and the organisation of joint programmes.
 
-As part of the Sports Exchange Programme, come on down to show some love and support ❤️ for both TP and CU! Catch exciting friendly matches between our #TeamTemasek shuttlers and Thai badminton players 🏸 – all in the spirit of sporting fun! 
+**Event details (October Run)**
 
-Book your calendars now (refer to fixtures* in eDM below), and see you there! 🤩
+       
 
-**ℹ️ Temasek Poly x Chulalongkorn University: Sports Exchange Programme (Badminton)** <br>
-**🗓️ 21-26 Jul 2023** <br>
-**📍 Blk 26A, Sports &amp; Arts Centre, Sports Hall 2 (Level 2)**
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%"><b>Pre-Engagement</b></p></td></tr><tr style="mso-yfti-irow:1;height:18.6pt"><td width="63" valign="top" style="width:46.95pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:18.6pt"><p class="MsoNormal" style="line-height:105%">Date:</p><p class="MsoNormal" style="line-height:105%">Time:</p><p class="MsoNormal" style="line-height:105%">Venue:</p></td><td width="406" valign="top" style="width:304.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.6pt"><p class="MsoNormal" style="line-height:105%">27 September 2023 (Wednesday)<br><br><br>8pm – 10pm</p><p class="MsoNormal" style="line-height:105%">Zoom <i>(Details will be provided in the 3<sup>rd</sup> week of September)</i></p></td></tr><tr style="mso-yfti-irow:2;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%"><b>Programme</b></p></td></tr><tr style="mso-yfti-irow:3;height:9.15pt"><td width="63" valign="top" style="width:46.95pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">Date:</p><p class="MsoNormal" style="line-height:105%">Time:</p><p class="MsoNormal" style="line-height:105%">Venue</p></td><td width="406" valign="top" style="width:304.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">2 – 4 October 2023 (Mon – Wed)</p><p class="MsoNormal" style="line-height:105%">9am – 6pm Daily</p><p class="MsoNormal" style="line-height:105%">Republic Polytechnic <br>(9 Woodlands Ave 9, Singapore 738964)<i></i></p></td></tr><tr style="mso-yfti-irow:4;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%"><b>How do you Sign Up?</b></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:9.15pt"><td width="468" colspan="2" valign="top" style="width:351.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:9.15pt"><p class="MsoNormal" style="line-height:105%">Complete the <b>registration form</b> on <a href="https://go.gov.sg/mxpoly-oct2023-sch"><b>https://go.gov.sg/mxpoly-oct2023-sch</b></a><span style="color:black">&nbsp;by </span><b><u><span style="">1 September 2023</span></u></b></p></td></tr></tbody></table>
 
-(*All matches are open to TP students/staff. Seats available on a first come, first served basis.)
+For more information: [https://go.gov.sg/missionx-poly-factsheet](https://go.gov.sg/missionx-poly-factsheet)
 
+Slots are limited, do sign-up early! <br><br>
+For any enquiries, please contact [ernest_lai@nyc.gov.sg](mailto:ernest_lai@nyc.gov.sg)
 
 
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Afterhours III: Under the Stars!
+<h3 style="margin-top:0%">North East Communications Hackathon
 </h3>
-<h5 style="margin-top:0%"><i>Embark on a Musical Journey with us</i></h5>
+<h5 style="margin-top:0%"><i>Can You Hack It?</i></h5>
 
-![](/images/Events/Happenings/2023%2007%2026/after%20hours.png)
+![](/images/Events/Happenings/2023%2008%2014/can_you_hack_it.png)
 
-**Hey #TPFAM,**
+**Calling on all creative and innovative minds for the North East Communications Hackathon!**
 
-**Are you ready to embark on a musical journey under the starry night sky?**
+North East Communications Hackathon is a programme tailored to empower like-minded youths to conceptualize impactful solutions to address existing communication challenges within the community.  
 
-Music Vox are thrilled to extend a heartfelt invitation to all staff and students of Temasek Polytechnic to join us for another enchanting evening at the upcoming **Afterhours III: Under the Stars!**
+**How to participate?** <br>
+1.	Form teams of **2 to 5 members** to tackle community challenges through communication solutions. Teams will select challenge statements, in order of preference during registration. <br>
+2.	Participating teams will have access to subject matter experts through consultation sessions and be supported in the brainstorming and ideation stages as you prepare to pitch your proposal to a panel of judges. <br>
+3.	The programme will run from July 2023 to November 2023. 
 
-**LIVE MUSIC!**<br>
-Be prepared to be enthralled by our talented musicians who will be delivering awe-inspiring live performances that will surely resonate with your soul. Set against the evening sunset, this is one night not to be missed!
+To find out more and register for the Hackathon, simply scan the QR code in the poster or click on these links:
 
-**OPEN MIC!**<br>
-This is your opportunity to show off YOUR musical talent by joining our OPEN MIC segment. 
-Sign up on the day itself **before 7:30PM to secure your spot** and you will be assigned on a spot on a first come-first serve basis. Limited slots available. 
-Musical equipment will be provided, except for personal instruments that you will need to bring. 
-Alternatively, you may prepare an instrumental backing track. Each musician/band is limited to one song. More details will be shared on our Instagram page in the coming week @tpmusicvox. 
-So do make sure to give us a follow for more updated information on the event. 
+a)            Registration: [www.go.gov.sg/necdccommshackathon](www.go.gov.sg/necdccommshackathon) <br>
+b)            Terms and condition: [www.go.gov.sg/necdccommshackathonterms](www.go.gov.sg/necdccommshackathonterms) 
 
-**Event details** <br>
-Date: 28 July, Friday <br>
-Free Entry - Open to Staff, Students and Public <br>
-Time: 6:30 PM to 9:00 PM (Doors open at 6:15PM)  <br>
-Open mic: 7:30 PM (Sign up closes at 7:25PM) <br>
-Venue: Garden Fiesta, Rooftop Garden  <br>
- 
-Do not miss this opportunity to be part of a truly extraordinary event under the night sky and we look forward to seeing you there!
+Closing date for registration: **27 August 2023**
 
-Contact us at: [Music Vox](mailto:musicvoxtp@gmail.com) or [Nigel Tan](mailto:nigeltan@tp.edu.sg)
+If you require any clarifications, please email to [Ms Angela Yeo](Mailto:Angela_YEO@pa.gov.sg) or [Ms Jules Tan](mailto:TAN_Yu_Xuan@pa.gov.sg)
 
-Another production brought to you by **Temasek Arts Centre**
-
-
+This hackathon is brought to you by North East Community Development Council.
 
 
 <hr>
 <br>
 
-<h3 style="margin-top:0%">Campus Vibrancy Survey
+<h3 style="margin-top:0%">Joint Polytechnic-ITE Forum
 </h3>
-<h5 style="margin-top:0%"><i>Tell Us What You Hope To Experience In TP!</i></h5>
+<h5 style="margin-top:0%"><i>Cost of Living</i></h5>
 
-![](/images/Events/Happenings/2023%2005%2026/campus_survey.jpg)
+![](/images/Events/Happenings/2023%2008%2014/joint_polite.png)
 
-**Hey #TPFAM,**
+📢Calling all youths!📢
 
-We want to hear from you! 😊
+Are you interested to share your views and concerns on the rising cost of living in Singapore and how to be better equipped financially for the future? 💰📈
 
-At Temasek Polytechnic (TP), we are committed to creating a more vibrant campus for you. We hope that TP will be a place where you can feel a great sense of belonging ❤️, flourish in your own space 🌈, and experience an amazingly diverse world beyond the classroom 🌎! 
+Join Dr Maliki Osman, Minister in the Prime Minister’s Office and Second Minister for Education and Foreign Affairs, and Mr Xie Yao Quan, REACH Advisory Panel member and GRA for Jurong Central, in this closed-door dialogue as we discuss how to tackle the rising costs in Singapore and how we can navigate an uncertain job landscape and increasingly volatile world. 🧭
 
-We would love to hear your thoughts on what you hope to experience in TP. Tell us what would motivate you to attend our events/activities and how we can better connect with you too! 🙌
+The session will be held on **7 Sep (Thu), 7pm to 9pm** at the **NTU@one-north Auditorium.**
 
-Please spare about 15 minutes to complete this survey and share your feedback, which will help us to improve, curate and create more enjoyable campus experiences for you. 🙏 The first 500 respondents will receive e-vouchers*! 
-
-At the end of your polytechnic journey, we hope that you will regard your chapter in TP as nothing short of inspiring and transformational, and the friendships forged as fond memories that you will treasure for a lifetime. 💯
-
-We look forward to receiving your feedback. TP Oei~~! 🙆🏻‍♂️🙆🏻‍♀️
-
-👉 Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328Xm6I9C1JndCmGBi9-zy6_BUQVg3WVY5WE8yWlJIVUZMTUxES0M3SzZWTC4u) to begin the survey.
-
-(✉️ For enquiries, please contact Ms Tracy Ng at: [Tracy_Ng@tp.edu.sg](mailto:Tracy_Ng@tp.edu.sg)) 
-
-(*Details on how eligible students can redeem their e-vouchers will be provided separately.)
-
-
-<hr>
-<br>
-
-
-<h3 style="margin-top:0%">Defence Science &amp; Technology’s Challenge of Wits
-
-
-
-</h3>
-<h5 style="margin-top:0%"><i>Ready to Prove Your Mettle?</i></h5>
-
-![](/images/Events/Happenings/2023%2007%2026/mettle.png)
-
-Ready to take on the Challenge of Wits?
-
-Calling all students! Prove your mettle in 3 brand new challenges crafted by Singapore’s defence technology experts. 
-
-Solve the challenges and stand a chance to win attractive prizes!
-
-Visit the [challenge website](https://www.dtcareers.gov.sg/challenge/?utm_source=email&amp;utm_medium=EDM&amp;utm_campaign=ChallengeOfWits2023&amp;utm_content=PreLaunch) for more information.
-
-For updates, follow us on Instagram at @singaporedsta, @csitsg, and @discoverdso!
+Sign up and share any questions you may have at [https://go.gov.sg/pif2023](https://go.gov.sg/pif2023) by 31 August 2023! **Limited seats available!** <br><br>
+**SEAL records will be updated upon full participation**. See you there! 👋🏼 <br><br>
+For enquiries, please email to:<br>
+[Tay Yi Ning Charlotte](mailto:2200940A@student.tp.edu.sg)<br>
+Dip in Social Sciences in Gerontology<br>
+Vice President of TP Sports Club<br>
+REACH Youth Advisory Panel member<br>
 
 
 <hr>
