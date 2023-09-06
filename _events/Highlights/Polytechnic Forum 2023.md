@@ -4,7 +4,7 @@ permalink: /events/highlights/polytechnicforum2023/
 description: ""
 third_nav_title: Highlights
 ---
-### TP National Day Celebrations 2023 ###
+### Polytechnic Forum 2023 ###
 
 ![](/images/homepage-images/pf%202023%20-%20web%20banner%203%20.jpg)
 
