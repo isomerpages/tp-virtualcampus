@@ -43,4 +43,4 @@ With the deep insights, knowledge and discussions that the forum will provide, w
 
 We wish all participants an enriching and fruitful PF experience. Have fun and happy ideating!
 
-(Follow our students’ journey of sustainability, ideation and friendship at PF 2023! For more information, please visit the official forum website at www.polyforum.edu.sg)
+(Follow our students’ journey of sustainability, ideation and friendship at PF 2023! For more information, please visit the official forum website [**here!**](https://www.polyforum.edu.sg/))
