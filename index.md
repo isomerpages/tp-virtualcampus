@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: " Polytechnic Forum 2023"
+      subtitle: INTER-POLY PROGRAMME
+      description: PF provides an annual platform for polytechnic students to gain a
+        deeper understanding of important national issues through an eclectic
+        array of activities.
+      button: "FIND OUT MORE! "
+      url: /events/highlights/polytechnicforum2023/
+      image: /images/homepage-images/pf 2023 - web banner 3 .jpg
+      alt: Image alt text
+  - infopic:
       title: TP National Day Celebrations 2023
       subtitle: TP NDC 2023
       description: Muster up your patriotic fervour and celebrate Singapore’s 58th
