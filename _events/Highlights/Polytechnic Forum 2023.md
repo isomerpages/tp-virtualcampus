@@ -10,7 +10,7 @@ third_nav_title: Highlights
 
 **About the Polytechnic Forum (PF)**<br>
 
-A very warm welcome to the **Polytechnic Forum (PF) 2023!**
+A very warm welcome to the **Polytechnic Forum  2023!**
 
 Since 1996, PF has been providing an annual platform for polytechnic students to gain a deeper understanding of important national issues through an eclectic array of activities. This year’s forum is organised as part of the inaugural Singapore Young Leaders Programme, which brings together student leaders to participate in exciting activities that will develop and hone their leadership skills.
 
