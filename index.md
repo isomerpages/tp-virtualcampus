@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: CCA Scholarship 2023
+      id: infopic
+      description: TP CCA Scholarships 2023 are now open! The application period is
+        from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm.
+      button: Apply Now!
+      url: /events/tp-cca-scholarships/
+      image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
+      alt: Image alt text
+      subtitle: CCA Scholarship 2023
+  - infopic:
       title: Polytechnic Forum 2023
       subtitle: INTER-POLY PROGRAMME
       description: PF provides an annual platform for polytechnic students to gain a
@@ -109,35 +119,6 @@ sections:
       url: /events/sports/sports-appreciation-alumni-homecoming
       image: /images/Home/Sports Appreciation & Alumni Homecoming.jpg
       alt: Image alt text
-  - infopic:
-      title: Temasek LEAD Summit
-      subtitle: Temasek LEADership Program
-      description: 2022's LEAD Summit sees a special segment by Minister of Transport
-        Mr S. Iswaran, as well as other guest speakers from the transportation
-        industry.
-      button: View LEAD Calendar
-      url: /events/temasek-lead/lead-events
-      image: /images/Events/Temasek LEAD/LEAD_Summit.png
-      alt: LEAD Summit
-  - infopic:
-      title: Dreams XII Concert – Back to LIVE
-      subtitle: Temasek Arts Centre Production
-      description: '"Back to LIVE" in-person concert showcases our very own Temasek
-        Arts Centre performances'
-      button: Replay the action
-      url: /events/temasek-arts-centre/dreams-series
-      image: /images/DREAMS XII Poster Square.png
-      alt: Dream XII Concert
-  - infopic:
-      title: CCA Scholarship 2023
-      id: infopic
-      description: TP CCA Scholarships 2023 are now open! The application period is
-        from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm.
-      button: Apply Now!
-      url: /events/tp-cca-scholarships/
-      image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
-      alt: Image alt text
-      subtitle: CCA Scholarship 2023
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
