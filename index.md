@@ -26,12 +26,12 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: " Polytechnic Forum 2023"
+      title: Polytechnic Forum 2023
       subtitle: INTER-POLY PROGRAMME
       description: PF provides an annual platform for polytechnic students to gain a
         deeper understanding of important national issues through an eclectic
         array of activities.
-      button: "FIND OUT MORE! "
+      button: FIND OUT MORE!
       url: /events/highlights/polytechnicforum2023/
       image: /images/homepage-images/pf 2023 - web banner 3 .jpg
       alt: Image alt text
@@ -146,4 +146,13 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: CCA Scholarship 2023
+      id: infopic
+      description: "TP CCA Scholarships 2023 are now open! The application period is
+        from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm. "
+      button: Apply Now!
+      url: /events/tp-cca-scholarships/
+      image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
+      alt: Image alt text
 ---
