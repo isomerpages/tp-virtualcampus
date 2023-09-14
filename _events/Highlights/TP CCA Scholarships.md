@@ -4,10 +4,9 @@ permalink: /events/tp-cca-scholarships/
 description: ""
 third_nav_title: Highlights
 ---
+### CCA Scholarship 2023 - Open for Application
 
-### CCA Scholarship 2021 - Open for Application
-
-![CCAScholarship2021](/images/ccascholarship-image.jpg)
+![CCAScholarship202![CCA Scholarship 2023](/images/Events/CCA%20Scholarship/cca%20scholarship2023.jpg)1](/images/ccascholarship-image.jpg)
 
 The annual CCA Scholarships are awarded to students who have contributed significantly to CCAs in the Polytechnic.
 
