@@ -6,17 +6,17 @@ third_nav_title: Highlights
 ---
 ### CCA Scholarship 2023 - Open for Application
 
-![CCAScholarship202![CCA Scholarship 2023](/images/Events/CCA%20Scholarship/cca%20scholarship2023.jpg)1](/images/ccascholarship-image.jpg)
+![CCA scholarship 2023](/images/Events/CCA%20Scholarship/cca%20scholarship2023.jpg)
 
 The annual CCA Scholarships are awarded to students who have contributed significantly to CCAs in the Polytechnic.
 
-2020 has been an unprecedented year for our students and CCA groups. However, despite the curveballs that the pandemic has thrown, they have remained resilient and positive, made significant efforts to keep their CCA groups alive, and devised creative workarounds in ways previously unimaginable. In the process, they were also engaged and exposed to new skills and learning opportunities.
+We are happy to announce that applications for TP CCA Scholarships 2023 are now open! 
 
-**Announcements**<br>
-Congratulations to all CCA Scholarship 2021 awardees and thank you to our donors for your kind sponsorship.
+Apply for TP CCA Scholarships 2023 [here](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328X1syOI0DKhHmYfP2UY98TpUMFNVS0dXWlpFUUFBN1VUMTA5RlBCQUxKWC4u&amp;web=1&amp;wdLOR=c418DF4E2-9B34-41C1-859E-FCA4B108CF27)!
 
-Students who are interested to apply for CCA Scholarship 2022, please keep a look out for the announcements via email and on this page! 
+The application period for TP CCA Scholarships 2023 is from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm. 
 
-For information on the selection process and conditions of CCA Scholarship 2021, please download from [here](/files/tsea/ccascholarshipcriteria.pdf).
+For information on the selection process and conditions of the TP CCA Scholarships 2023, please download 
+ 
 
 For enquiries, please contact: <a href="mailto:tsea@tp.edu.sg">tsea@tp.edu.sg</a>.
