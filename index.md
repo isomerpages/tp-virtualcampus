@@ -120,16 +120,6 @@ sections:
       image: /images/Events/Temasek LEAD/LEAD_Summit.png
       alt: LEAD Summit
   - infopic:
-      title: National Day Concert 2022
-      subtitle: Temasek Arts Centre Production
-      description: The first live National Day Concert since 2019, join in the
-        festivities as our Arts groups take you on  a trip through Singapore's
-        history!
-      button: Replay the Action
-      url: events/national-day-celebration-2022
-      image: /images/Events/NDC22.png
-      alt: National Day Concert 2022
-  - infopic:
       title: Dreams XII Concert – Back to LIVE
       subtitle: Temasek Arts Centre Production
       description: '"Back to LIVE" in-person concert showcases our very own Temasek
@@ -138,14 +128,6 @@ sections:
       url: /events/temasek-arts-centre/dreams-series
       image: /images/DREAMS XII Poster Square.png
       alt: Dream XII Concert
-  - infopic:
-      title: Want to be featured on this Virtual Campus?
-      subtitle: Reach out to us
-      image: /images/Contact-Shoutout.jpg
-      description: Do you have something exciting, share with us!
-      button: Contact us
-      url: /contact-us/
-      alt: Shoutout
   - infopic:
       title: CCA Scholarship 2023
       id: infopic
@@ -156,4 +138,12 @@ sections:
       image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
       alt: Image alt text
       subtitle: CCA Scholarship 2023
+  - infopic:
+      title: Want to be featured on this Virtual Campus?
+      subtitle: Reach out to us
+      image: /images/Contact-Shoutout.jpg
+      description: Do you have something exciting, share with us!
+      button: Contact us
+      url: /contact-us/
+      alt: Shoutout
 ---
