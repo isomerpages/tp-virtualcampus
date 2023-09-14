@@ -18,7 +18,7 @@ description: ""
 					<br><br>
 					The application period for TP CCA Scholarships 2023 is from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm. 
 										<br><br>
-					For information on the selection process and conditions of the TP CCA Scholarships 2023, please download <a href="https://virtualcampus.tp.edu.sg/events/tp-cca-scholarships/"> [here]
+					For information on the selection process and conditions of the TP CCA Scholarships 2023, please download <a href="/events/tp-cca-scholarships/"> [here]
 				</a></p><a href="/events/tp-cca-scholarships">
 			<br>
 		</a></td>
