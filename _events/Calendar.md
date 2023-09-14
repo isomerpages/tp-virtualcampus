@@ -8,17 +8,17 @@ description: ""
 		<tr>
 		<td style="width:35%">
 			<br>
-				<img src="/images/Home/tsea 2023 cover.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+				<img src="/images/Events/CCA Scholarship/cca scholarship2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/highlights/tsea2023/"><h4 style="margin-top:0%">CCA Scholarships 2023</h4></a>
+			<a href="/events/tp-cca-scholarships/"><h4 style="margin-top:0%">CCA Scholarships 2023</h4></a>
 				<h6 style="margin-top:0%"><i>Apply Now!</i></h6>
 				<p style="margin-top:0%">
-					Heartiest congratulations to all our recipients of the TSEA 2023! 
+					We are happy to announce that applications for TP CCA Scholarships 2023 are now open! 
 					<br><br>
-					This year, we honoured over 1,800 deserving students from across TP for their outstanding contributions in non-academic areas, such as arts, sports, leadership, service, entrepreneurship, sustainability and character.
+					The application period for TP CCA Scholarships 2023 is from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm. 
 										<br><br>
-					Check out the Roll of Honour here!
+					For information on the selection process and conditions of the TP CCA Scholarships 2023, please download 
 				</p>
 			<br>
 		</td>
