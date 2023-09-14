@@ -11,7 +11,7 @@ description: ""
 				<img src="/images/Events/CCA Scholarship/cca scholarship2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/tp-cca-scholarships/"><h4 style="margin-top:0%">CCA Scholarships 2023</h4></a>
+			<a href="/events/tp-cca-scholarships2023/"><h4 style="margin-top:0%">CCA Scholarships 2023</h4></a>
 				<h6 style="margin-top:0%"><i>Apply Now!</i></h6>
 				<p style="margin-top:0%">
 					We are happy to announce that applications for TP CCA Scholarships 2023 are now open! 
