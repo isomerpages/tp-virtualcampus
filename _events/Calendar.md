@@ -5,6 +5,22 @@ description: ""
 ---
 <table>
 	<tbody>
+		<tr>
+		<td style="width:35%">
+			<br>
+				<img src="/images/Events/CCA Scholarship/cca scholarship2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/tp-cca-scholarships2023/"><h4 style="margin-top:0%">CCA Scholarships 2023</h4></a>
+				<h6 style="margin-top:0%"><i>Apply Now!</i></h6>
+				<p style="margin-top:0%">
+					We are happy to announce that applications for TP CCA Scholarships 2023 are now open! 
+				The application period is from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm. 
+										<br><br>
+					For information on the selection process and conditions of the TP CCA Scholarships 2023, go to this <a href="/events/tp-cca-scholarships2023/"> link.</a>
+			<br>
+		</p></td>
+	</tr>
 			<tr>
 		<td style="width:35%">
 			<br>
