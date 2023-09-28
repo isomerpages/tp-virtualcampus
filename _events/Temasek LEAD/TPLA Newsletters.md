@@ -10,6 +10,10 @@ Check out our past and upcoming LEAD events through the monthly TPLA Newsletters
 
 <hr>
 
+##### September 2023
+![](/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%2012_sept28.png)
+<hr>
+
 ##### July 2023
 ![](/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%2010_jul23.png)
 <hr>
