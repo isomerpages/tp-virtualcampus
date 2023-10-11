@@ -6,6 +6,19 @@ description: ""
 <table>
 	<tbody>
 		<tr>
+				<td style="width:35%">
+			<br>
+				<img src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_Games_2023_(Main).jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
+				<h6 style="margin-top:0%"><i>Oct to Nov 2023</i></h6>
+				<p style="margin-top:0%">
+				Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer #TeamTemasek on as they stand tall, play hard and give their all for TP? Come support our athletes’ contest for sporting glory at the annual Polytechnic-ITE Games! There are also opportunities to catch selected games live in TP. Click for more details!
+			<br>
+		</p></td>
+	</tr>
+			<tr>
 		<td style="width:35%">
 			<br>
 				<img src="/images/Events/CCA Scholarship/cca scholarship2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
