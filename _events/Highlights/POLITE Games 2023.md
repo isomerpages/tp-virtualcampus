@@ -34,4 +34,40 @@ One spirit, one dream, one team. Let’s rally together as one #TPFAM and make T
 
 #### **Catch the Action Live in TP at the Following Matches!**<br>
 
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
 
+<table style="width:100%">
+  <tbody><tr>
+    <th>Date</th>
+    <th>Time</th>
+		   <th>Sport/Teams</th>
+		<th>Venue</th>
+  </tr>
+  <tr>
+    <td>27 Oct 2023</td>
+    <td>1. 7.30pm<br>2. 8.45pm</td>
+		<td>1. Volleyball (W) / TP vs. NP<br>2. Volleyball (M) / TP vs. NP</td>
+		<td>Blk 26A, Sports Hall 2</td><td>
+  </td></tr>
+  <tr>
+    <td>2 Nov 2023</td>
+    <td>1. 6.15pm<br>2. 8.15pm</td>
+		<td>1. Soccer (W) / TP vs. RP<br>2. Soccer (M) / TP vs. RP</td>
+		<td>Blk 29, Sports Complex</td><td>
+  </td></tr>
+		<tr>
+    <td>3 Nov 2023</td>
+    <td>1. 7.30pm<br>2. 8.45pm</td>
+			<td>1. Volleyball (W) / TP vs. SP<br>2. Volleyball (M) / TP vs. SP</td>
+			<td>Blk 26A, Sports Hall 2</td><td>
+  </td></tr>
+  <tr>
+		<td>1. 8 Nov 2023<br>2. 10 Nov 2023</td>
+    <td>7.15pm</td>
+		<td>1. Netball / TP vs. NYP<br>2. Netball / TP vs. NP</td>
+		<td>Blk 26A, Sports Hall 2</td><td>
+</td></tr></tbody></table>
