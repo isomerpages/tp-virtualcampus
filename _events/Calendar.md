@@ -12,12 +12,9 @@ description: ""
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
-				<h6 style="margin-top:0%"><i>Apply Now!</i></h6>
+				<h6 style="margin-top:0%"><i>Oct to Nov 2023</i></h6>
 				<p style="margin-top:0%">
-					We are happy to announce that applications for TP CCA Scholarships 2023 are now open! 
-				The application period is from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm. 
-										<br><br>
-					For information on the selection process and conditions of the TP CCA Scholarships 2023, go to this <a href="/events/tp-cca-scholarships2023/"> link.</a>
+				Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer #TeamTemasek on as they stand tall, play hard and give their all for TP? Come support our athletes’ contest for sporting glory at the annual Polytechnic-ITE Games! There are also opportunities to catch selected games live in TP. Click for more details!
 			<br>
 		</p></td>
 	</tr>
