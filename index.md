@@ -26,12 +26,20 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: POL-ITE Games 2023
+      subtitle: POLYTECHNIC-ITE GAMES
+      id: infopic
+      description: "The heat is on! Come support our #TeamTemasek athletes’ contest
+        for sporting glory at the annual Polytechnic-ITE Games!"
+      button: "DISCOVER THE ACTION! "
+      url: /events/highlights/politegames2023/
+      image: /images/pol-ite games 2023.jpg
+      alt: Image alt text
+  - infopic:
       title: CCA Scholarship 2023
       id: infopic
-      description: >+
-        Applications for CCA Scholarships are now closed. Stay tuned for updates
-        on the application results.
-
+      description: Applications for CCA Scholarships are now closed. Stay tuned for
+        updates on the application results.
       button: Click here for more info!
       url: /events/tp-cca-scholarships2023/
       image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
