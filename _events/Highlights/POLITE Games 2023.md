@@ -32,7 +32,7 @@ One spirit, one dream, one team. Let’s rally together as one #TPFAM and make T
 | Touch Rugby     | Track &amp; Field     | 
 | Ultimate Frisbee    | Volleyball     | 
 
-#### **Catch the Action Live in TP at the Following Matches!**<br>
+#### **Catch Selected Games Live in TP!**<br>
 
 <style>
 table, th, td {
