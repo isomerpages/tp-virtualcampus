@@ -4,7 +4,7 @@ permalink: /events/highlights/politegames2023/
 description: ""
 third_nav_title: Highlights
 ---
-### POL-ITE Games 2023
+### **POL-ITE Games 2023**
 
 ![](/images/pol-ite%20games%202023.jpg)
 
