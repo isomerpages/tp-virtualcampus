@@ -18,19 +18,47 @@ One spirit, one dream, one team. Let’s rally together as one #TPFAM and make T
 
 #### **List of POL-ITE Sports Participated By TP**<br>
 
-|      |      | 
-| -------- | -------- | 
-| 10-Pin Bowling | Archery     | 
-| Badminton | Basketball | 
-| Dragon Boat     | Floorball     | 
-| Hockey | Kayak Racing     | 
-| Netball | Road Race| 
-| Rugby     | Soccer     | 
-| Sport Climbing    | Swimming     | 
-| Table Tennis | Taekwondo     | 
-| Tchoukball | Tennis| 
-| Touch Rugby     | Track &amp; Field     | 
-| Ultimate Frisbee    | Volleyball     | 
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td>10-Pin Bowling</td>
+    <td>Archery</td>
+	  </tr>
+		 <tr><td>Badminton</td>
+    <td>Basketball</td>
+			  </tr>
+		 <tr><td>Dragon Boat</td>
+    <td>Floorball</td>
+			  </tr>
+		 <tr><td>Hockey</td>
+    <td>Kayak Racing</td>
+		</tr>
+		 <tr><td>Netball</td>
+    <td>Road Race</td>
+			</tr>
+		 <tr><td>Rugby</td>
+    <td>Soccer</td>
+			</tr>
+		 <tr><td>Sport Climbing</td>
+    <td>Swimming</td>
+		</tr>
+		 <tr><td>Table Tennis</td>
+    <td>Taekwondo</td>
+			</tr>
+		 <tr><td>Tchoukball</td>
+    <td>Tennis</td>
+			</tr>
+		 <tr><td>Touch Rugby</td>
+    <td>Track &amp; Field</td>
+		</tr>
+		 <tr><td>Ultimate Frisbee</td>
+    <td>Volleyball</td>
+</tr></tbody></table>
 
 #### **Catch Selected Games Live in TP!**<br>
 
