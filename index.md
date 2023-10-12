@@ -29,11 +29,11 @@ sections:
       title: POL-ITE Games 2023
       subtitle: POLYTECHNIC-ITE GAMES
       id: infopic
-      description: "The heat is on! Come support our #TeamTemasek athletes’ contest
-        for sporting glory at the annual Polytechnic-ITE Games!"
+      description: The heat is on! Come support Team Temasek's contest for sporting
+        glory at the annual Polytechnic-ITE Games!
       button: DISCOVER THE ACTION!
       url: /events/highlights/politegames2023/
-      image: /images/pol-ite games 2023.jpg
+      image: /images/homepage-images/pol-ite 2023 (main).jpg
       alt: Image alt text
   - infopic:
       title: CCA Scholarship 2023
