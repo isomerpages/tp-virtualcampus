@@ -12,7 +12,7 @@ description: ""
 </h3>
 <h5 style="margin-top:0%"><i>Support Our Talented Artists With Disabilities!</i></h5>
 
-
+![](/images/temasek%20poly_web%20banner%20(virtual%20campus).png)
 
 Follow our hearts into the world of talented artists with disabilities and be awed by their art creations at **Shaping Hearts 2023**!
 
