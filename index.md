@@ -36,16 +36,16 @@ sections:
       url: /events/highlights/shapinghearts2023/
       image: /images/temasek poly_web banner (virtual campus).png
   - infopic:
-      title: CCA Scholarships 2023
+      title: TP CCA Scholarships 2023
       id: infopic
-      description: Applications for the CCA Scholarships 2023 are now closed. The
+      description: Applications for the TP CCA Scholarships 2023 are now closed. The
         results will be announced in December 2023. Watch this space for
         updates!
       button: click here
       url: /events/tp-cca-scholarships2023/
       image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
       alt: Image alt text
-      subtitle: CCA Scholarships 2023
+      subtitle: TP CCA Scholarships 2023
   - infopic:
       title: Polytechnic Forum 2023
       subtitle: INTER-POLY PROGRAMME
