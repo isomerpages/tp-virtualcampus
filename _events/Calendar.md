@@ -11,17 +11,17 @@ description: ""
 				<img src="https://hosting.photobucket.com/images/i/tracyng81/Temasek_Poly_Web_Banner_(Virtual_Campus)_wovT2TBjSwkfp64BUoBthv.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/highlights/shapinghearts2023/"><h4 style="margin-top:0%">Shaping Hearts 2023</h4></a>
-				<h6 style="margin-top:0%"><i>Support Our Talented Artists with Disabilities!</i></h6>
+			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
+				<h6 style="margin-top:0%"><i>Support Our #TeamTemasek Athletes!</i></h6>
 				<p style="margin-top:0%">
-     
-Shaping Hearts is coming to Temasek Polytechnic from 30 Oct to 1 Nov 2023! 
+
+Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer our #TeamTemasek athletes on as they stand tall, play hard and give their all for TP? This November, come support our athletes’ contest for sporting glory at the Polytechnic-ITE Games! Rally for TP at selected games and catch the exciting action live on campus!
 <br>
 <br>
-An inclusive arts festival that is held annually, this initiative celebrates the artistic talents of the special needs community. Mark your calendars now and do your part to uplift the creative spirits of these artists! 
+For the games’ schedule, please click <a href="/events/highlights/politegames2023/">here.
 										<br><br>
 			<br>
-		</p></td>
+		</a></p></td>
 	</tr>
 			<tr>
 		</tr><tr>
