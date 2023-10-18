@@ -138,4 +138,13 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: POL-ITE Games 2023
+      subtitle: POLYTECHNIC-ITE GAMES
+      id: infopic
+      description: The heat is on! Come support Team Temasek’s contest for sporting
+        glory at the annual Polytechnic-ITE Games!
+      button: "DISCOVER THE ACTION! "
+      url: /events/highlights/politegames2023/
+      alt: Image alt text
 ---
