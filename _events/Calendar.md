@@ -17,7 +17,7 @@ description: ""
      
 Shaping Hearts is coming to Temasek Polytechnic from 30 Oct to 1 Nov 2023! 
 <br>
-					
+<br>
 An inclusive arts festival that is held annually, this initiative celebrates the artistic talents of the special needs community. Mark your calendars now and do your part to uplift the creative spirits of these artists! 
 										<br><br>
 			<br>
