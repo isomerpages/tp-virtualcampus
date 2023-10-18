@@ -12,7 +12,7 @@ Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer our 
 
 The heat is on! This November, come support our athletes’ contest for sporting glory at the Polytechnic-ITE Games! Help fuel their aspirations with your cheers, invigorate their spirits with your heart, and be part of our shared journey towards pride and honour at this annual games!
 
-Keen to experience the electrifying games’ atmosphere in person? Support #TeamTemasek at selected games and catch the exciting action live in TP! (Refer to the games’ schedule in the eDM below.)
+Keen to experience the electrifying games’ atmosphere in person? Support #TeamTemasek at selected games and catch the exciting action live in TP! (Refer to the games’ schedule below.)
 
 ⭐ SEAL points will be awarded for participation
 
