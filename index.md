@@ -33,14 +33,14 @@ sections:
         artistic talents of the special needs community!
       button: SUPPORT US!
       alt: Image alt text
-      url: /events/student-happenings/
+      url: /events/highlights/shapinghearts2023/
       image: /images/temasek poly_web banner (virtual campus).png
   - infopic:
       title: CCA Scholarships 2023
       id: infopic
-      description: "Applications for the CCA Scholarships 2023 are now closed. The
+      description: Applications for the CCA Scholarships 2023 are now closed. The
         results will be announced in December 2023. Watch this space for
-        updates! "
+        updates!
       button: click here
       url: /events/tp-cca-scholarships2023/
       image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
