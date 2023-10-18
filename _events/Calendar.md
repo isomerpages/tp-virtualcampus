@@ -34,7 +34,7 @@ An inclusive arts festival that is held annually, this initiative celebrates the
 				<h6 style="margin-top:0%"><i>Applications Closed</i></h6>
 				<p style="margin-top:0%">
 Thank you to all applicants of the TP CCA Scholarships 2023. The results will be announced in December 2023. Please watch this space for more updates!  
-  
+<br>
 For information on the selection process and conditions of the TP CCA Scholarships, please click [here](https://virtualcampus.tp.edu.sg/events/tp-cca-scholarships2023/).
 										<br><br>
 			<br>
