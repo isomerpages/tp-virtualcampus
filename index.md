@@ -128,10 +128,13 @@ sections:
       url: /contact-us/
       alt: Shoutout
   - infopic:
-      title: Infopic
+      title: SHAPING HEARTS 2023
       subtitle: INCLUSIVE ARTS FESTIVAL
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Join us at this annual inclusive arts festival to celebrate the
+        artistic talents of the special needs community!
+      button: SUPPORT US!
       alt: Image alt text
+      url: /events/student-happenings/
+      image: /images/temasek poly_web banner (virtual campus).png
 ---
