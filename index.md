@@ -127,4 +127,11 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: Infopic
+      subtitle: INCLUSIVE ARTS FESTIVAL
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
