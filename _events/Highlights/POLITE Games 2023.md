@@ -20,7 +20,7 @@ Keen to experience the electrifying games’ atmosphere in person? Support #Team
 
 ⭐ Look forward to sweet treats (popcorn/candy floss) at the soccer games too!
 
-One spirit, one dream, one team. Let’s rally together as one #TPFAM and make TP truly a #TPhomeofchamps!
+One spirit, one dream, one team. Let’s rally together and make TP truly a #TPhomeofchamps!
 
 #### **List of POL-ITE Sports Participated By TP**<br>
 
