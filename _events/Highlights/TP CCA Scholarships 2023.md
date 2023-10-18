@@ -4,7 +4,7 @@ permalink: /events/tp-cca-scholarships2023/
 description: ""
 third_nav_title: Highlights
 ---
-### CCA Scholarships 2023 - Applications Closed
+### **CCA Scholarships 2023 - Applications Closed**
 
 ![CCA scholarship 2023](/images/Events/CCA%20Scholarship/cca%20scholarship2023.jpg)
 
