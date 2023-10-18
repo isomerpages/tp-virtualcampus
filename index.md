@@ -26,12 +26,11 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: CCA Scholarship 2023
+      title: CCA Scholarships 2023
       id: infopic
-      description: Applications for CCA Scholarships 2023 are now open! The
-        application period is from 15 September 2023 (Friday) to 6 October 2023
-        (Friday), 11.59pm.
-      button: Apply Now!
+      description: Applications for the CCA Scholarships 2023 have closed. Please
+        watch this space for updates on the results!
+      button: About the programme
       url: /events/tp-cca-scholarships2023/
       image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
       alt: Image alt text
