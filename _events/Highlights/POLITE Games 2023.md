@@ -22,5 +22,80 @@ Keen to experience the electrifying games’ atmosphere in person? Support #Team
 
 One spirit, one dream, one team. Let’s rally together as one #TPFAM and make TP truly a #TPhomeofchamps!
 
-### **List of POL-ITE Sports Participated By TP**
+#### **List of POL-ITE Sports Participated By TP**<br>
 
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tbody><tr>
+    <td>10-Pin Bowling</td>
+    <td>Archery</td>
+	  </tr>
+		 <tr><td>Badminton</td>
+    <td>Basketball</td>
+			  </tr>
+		 <tr><td>Dragon Boat</td>
+    <td>Floorball</td>
+			  </tr>
+		 <tr><td>Hockey</td>
+    <td>Kayak Racing</td>
+		</tr>
+		 <tr><td>Netball</td>
+    <td>Road Race</td>
+			</tr>
+		 <tr><td>Rugby</td>
+    <td>Soccer</td>
+			</tr>
+		 <tr><td>Sport Climbing</td>
+    <td>Swimming</td>
+		</tr>
+		 <tr><td>Table Tennis</td>
+    <td>Taekwondo</td>
+			</tr>
+		 <tr><td>Tchoukball</td>
+    <td>Tennis</td>
+			</tr>
+		 <tr><td>Touch Rugby</td>
+    <td>Track &amp; Field</td>
+		</tr>
+		 <tr><td>Ultimate Frisbee</td>
+    <td>Volleyball</td>
+</tr></tbody></table>
+
+#### **Catch Selected Games Live in TP!**<br>
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Date</th>
+    <th>Time</th>
+		   <th>Sport/Teams</th>
+		<th>Venue</th>
+  </tr>
+  <tr>
+    <td>2 Nov 2023</td>
+    <td>1. 6.15pm<br>2. 8.15pm</td>
+		<td>1. Soccer (W) / TP vs. RP<br>2. Soccer (M) / TP vs. RP</td>
+		<td>Blk 29, Sports Complex</td><td>
+  </td></tr>
+		<tr>
+    <td>3 Nov 2023</td>
+    <td>1. 7.30pm<br>2. 8.45pm</td>
+			<td>1. Volleyball (W) / TP vs. SP<br>2. Volleyball (M) / TP vs. SP</td>
+			<td>Blk 26A, Sports Hall 2</td><td>
+  </td></tr>
+  <tr>
+		<td>8 Nov 2023</td>
+    <td>7.15pm</td>
+		<td>Netball / TP vs. NYP</td>
+		<td>Blk 26A, Sports Hall 2</td><td>
+</td></tr></tbody></table>
