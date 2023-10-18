@@ -45,7 +45,7 @@ sections:
       url: /events/tp-cca-scholarships2023/
       image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
       alt: Image alt text
-      subtitle: CCA Scholarship 2023
+      subtitle: CCA Scholarships 2023
   - infopic:
       title: Polytechnic Forum 2023
       subtitle: INTER-POLY PROGRAMME
