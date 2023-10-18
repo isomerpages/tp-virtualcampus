@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: SHAPING HEARTS 2023
+      subtitle: INCLUSIVE ARTS FESTIVAL
+      id: infopic
+      description: Join us at this annual inclusive arts festival to celebrate the
+        artistic talents of the special needs community!
+      button: SUPPORT US!
+      alt: Image alt text
+      url: /events/student-happenings/
+      image: /images/temasek poly_web banner (virtual campus).png
+  - infopic:
       title: CCA Scholarships 2023
       id: infopic
       description: Applications for the CCA Scholarships 2023 have closed. Please
@@ -127,14 +137,4 @@ sections:
       button: Contact us
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: SHAPING HEARTS 2023
-      subtitle: INCLUSIVE ARTS FESTIVAL
-      id: infopic
-      description: Join us at this annual inclusive arts festival to celebrate the
-        artistic talents of the special needs community!
-      button: SUPPORT US!
-      alt: Image alt text
-      url: /events/student-happenings/
-      image: /images/temasek poly_web banner (virtual campus).png
 ---
