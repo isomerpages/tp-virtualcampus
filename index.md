@@ -26,26 +26,26 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: POL-ITE Games 2023
-      subtitle: POLYTECHNIC-ITE GAMES
+      title: SHAPING HEARTS 2023
+      subtitle: INCLUSIVE ARTS FESTIVAL
       id: infopic
-      description: "The heat is on! Come support our #TeamTemasek athletes’ contest
-        for sporting glory at the annual Polytechnic-ITE Games!"
-      button: DISCOVER THE ACTION!
-      url: /events/highlights/politegames2023/
-      image: /images/pol-ite games 2023.jpg
+      description: Join us at this annual inclusive arts festival to celebrate the
+        artistic talents of the special needs community!
+      button: SUPPORT US!
       alt: Image alt text
+      url: /events/highlights/shapinghearts2023/
+      image: /images/temasek poly_web banner (virtual campus).png
   - infopic:
-      title: CCA Scholarship 2023
+      title: TP CCA Scholarships 2023
       id: infopic
-      description: Applications for CCA Scholarships 2023 are now open! The
-        application period is from 15 September 2023 (Friday) to 6 October 2023
-        (Friday), 11.59pm.
-      button: Apply Now!
+      description: Applications for the TP CCA Scholarships 2023 are now closed. The
+        results will be announced in December 2023. Watch this space for
+        updates!
+      button: click here
       url: /events/tp-cca-scholarships2023/
       image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
       alt: Image alt text
-      subtitle: CCA Scholarship 2023
+      subtitle: TP CCA Scholarships 2023
   - infopic:
       title: Polytechnic Forum 2023
       subtitle: INTER-POLY PROGRAMME

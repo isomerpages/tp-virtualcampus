@@ -8,6 +8,22 @@ description: ""
 <hr>
 <br>
 
+<h3 style="margin-top:0%">Shaping Hearts 2023
+</h3>
+<h5 style="margin-top:0%"><i>Support Our Talented Artists With Disabilities!</i></h5>
+
+![](/images/temasek%20poly_web%20banner%20(virtual%20campus).png)
+
+An inclusive arts festival that is held annually, **Shaping Hearts** celebrates the artistic talents of the special needs community. Follow our hearts into the world of talented artists with disabilities and be awed by their art creations! Experience the artists’ works through an art exhibition, and support them by purchasing their unique art pieces and merchandise at the **Heartists Fair**. 
+
+Shaping Hearts is coming to Temasek Polytechnic from **30 Oct to 1 Nov 2023**! Mark your calendars now and do your part to uplift the creative spirits of these artists! 
+
+Dates: 30 Oct to 1 Nov 2023
+<br>Venue: TP Main Foyer  
+Find Out More: [www.shapinghearts.sg](https://apc01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.shapinghearts.sg%2F&amp;data=05%7C01%7CTracy_NG%40tp.edu.sg%7Cb746d9cef03d4601272008dbcba7b735%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638327693479175480%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=JBnaTPGEExFpH8siyRLfJjyEIstUos%2F5AYn8JTP3%2Blk%3D&amp;reserved=0)
+
+<hr>
+<br>
 <h3 style="margin-top:0%">Mission X – Sept and Oct 2023 Editions 
 
 </h3>

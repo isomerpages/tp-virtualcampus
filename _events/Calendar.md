@@ -6,33 +6,41 @@ description: ""
 <table>
 	<tbody>
 		<tr>
-				<td style="width:35%">
+			<td style="width:35%">
 			<br>
-				<img src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_Games_2023_(Main).jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
+				<img src="https://hosting.photobucket.com/images/i/tracyng81/Temasek_Poly_Web_Banner_(Virtual_Campus)_wovT2TBjSwkfp64BUoBthv.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
-				<h6 style="margin-top:0%"><i>Oct to Nov 2023</i></h6>
+			<a href="/events/highlights/shapinghearts2023/"><h4 style="margin-top:0%">Shaping Hearts 2023</h4></a>
+				<h6 style="margin-top:0%"><i>Support Our Talented Artists with Disabilities!</i></h6>
 				<p style="margin-top:0%">
-				Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer #TeamTemasek on as they stand tall, play hard and give their all for TP? Come support our athletes’ contest for sporting glory at the annual Polytechnic-ITE Games! There are also opportunities to catch selected games live in TP. Click for more details!
+     
+Shaping Hearts is coming to Temasek Polytechnic from 30 Oct to 1 Nov 2023! 
+<br>
+<br>
+An inclusive arts festival that is held annually, this initiative celebrates the artistic talents of the special needs community. Mark your calendars now and do your part to uplift the creative spirits of these artists! 
+										<br><br>
 			<br>
 		</p></td>
 	</tr>
 			<tr>
-		<td style="width:35%">
+		</tr><tr>
+			<td style="width:35%">
 			<br>
 				<img src="/images/Events/CCA Scholarship/cca scholarship2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/tp-cca-scholarships2023/"><h4 style="margin-top:0%">CCA Scholarships 2023</h4></a>
-				<h6 style="margin-top:0%"><i>Apply Now!</i></h6>
+			<a href="/events/tp-cca-scholarships2023/"><h4 style="margin-top:0%">TP CCA Scholarships 2023</h4></a>
+				<h6 style="margin-top:0%"><i>Applications Closed</i></h6>
 				<p style="margin-top:0%">
-					We are happy to announce that applications for TP CCA Scholarships 2023 are now open! 
-				The application period is from 15 September 2023 (Friday) to 6 October 2023 (Friday), 11.59pm. 
+
+Thank you to all applicants of the TP CCA Scholarships 2023. The results will be announced in December 2023. Please watch this space for more updates!
+<br>
+<br>
+For information on the selection process and conditions of the TP CCA Scholarships, please click <a href="/events/tp-cca-scholarships2023/">here.
 										<br><br>
-					For information on the selection process and conditions of the TP CCA Scholarships 2023, go to this <a href="/events/tp-cca-scholarships2023/"> link.</a>
 			<br>
-		</p></td>
+		</a></p></td>
 	</tr>
 			<tr>
 		<td style="width:35%">
