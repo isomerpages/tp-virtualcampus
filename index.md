@@ -38,9 +38,10 @@ sections:
   - infopic:
       title: CCA Scholarships 2023
       id: infopic
-      description: Applications for the CCA Scholarships 2023 have closed. Please
-        watch this space for updates on the results!
-      button: About the programme
+      description: "Applications for the CCA Scholarships 2023 are now closed. The
+        results will be announced in December 2023. Watch this space for
+        updates! "
+      button: click here
       url: /events/tp-cca-scholarships2023/
       image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
       alt: Image alt text
