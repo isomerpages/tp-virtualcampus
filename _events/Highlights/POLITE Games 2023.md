@@ -14,11 +14,11 @@ The heat is on! This November, come support our athletes’ contest for sporting
 
 Keen to experience the electrifying games’ atmosphere in person? Support #TeamTemasek at selected games and catch the exciting action live in TP! (Refer to the games’ schedule below.)
 
-⭐ SEAL points will be awarded for participation
+⭐ SEAL points will be awarded to registered student participants (Registration will be conducted at the entrance of the competition venue.)
 
 ⭐ Enjoy free snacks/drinks while watching the games live
 
-⭐ Look forward to sweet treats (popcorn/candy floss) at the soccer games too!
+⭐ Look forward to sweet treats (popcorn/candy floss) and exciting half-time performances at the soccer games too!
 
 One spirit, one dream, one team. Let’s rally together and make TP truly a #TPhomeofchamps!
 
