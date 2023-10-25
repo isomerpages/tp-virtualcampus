@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: "TAPESTRY ARTS FESTIVAL 2023: OUR CANVAS"
+      subtitle: ANNUAL ARTS FESTIVAL
+      id: infopic
+      description: The Temasek Arts Centre proudly presents this month-long festival,
+        featuring an enthralling line-up of events that showcases the best of
+        TP’s arts groups!
+      button: BE CAPTIVATED HERE!
+      url: /events/highlights/tapestry2023/
+      alt: Image alt text
+  - infopic:
       title: POL-ITE Games 2023
       subtitle: POLYTECHNIC-ITE GAMES
       id: infopic
