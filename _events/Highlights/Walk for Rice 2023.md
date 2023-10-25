@@ -6,4 +6,4 @@ third_nav_title: Highlights
 ---
 ### **Walk for Rice 2023**
 
-[Insert image here]
+![](/images/homepage-images/sdaa_walk%20for%20rice%202023.png)
