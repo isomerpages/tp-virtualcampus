@@ -43,6 +43,7 @@ sections:
       button: JOIN THE CAUSE!
       url: /events/highlights/walkforrice2023/
       alt: Image alt text
+      image: /images/homepage-images/sdaa_walk for rice 2023.png
   - infopic:
       title: POL-ITE Games 2023
       subtitle: POLYTECHNIC-ITE GAMES
