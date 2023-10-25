@@ -8,7 +8,7 @@ description: ""
 		<tr>
 			<td style="width:35%">
 			<br>
-				<img src="https://hosting.photobucket.com/images/i/tracyng81/Temasek_Poly_Web_Banner_(Virtual_Campus)_wovT2TBjSwkfp64BUoBthv.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
+				<img src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
