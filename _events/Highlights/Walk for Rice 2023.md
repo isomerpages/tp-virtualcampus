@@ -4,3 +4,6 @@ permalink: /events/highlights/walkforrice2023/
 description: ""
 third_nav_title: Highlights
 ---
+### **Walk for Rice 2023**
+
+[Insert image here]
