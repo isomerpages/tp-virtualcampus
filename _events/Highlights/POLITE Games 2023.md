@@ -6,7 +6,7 @@ third_nav_title: Highlights
 ---
 ### **POL-ITE Games 2023**
 
-[Insert image here]
+
 
 Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer our #TeamTemasek athletes on as they stand tall, play hard and give their all for TP?
 
