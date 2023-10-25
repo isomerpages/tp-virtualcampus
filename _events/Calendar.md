@@ -11,6 +11,23 @@ description: ""
 				<img src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
+			<a href="/events/highlights/tapestry2023/"><h4 style="margin-top:0%">Tapestry Arts Festival 2023: Our Canvas</h4></a>
+				<h6 style="margin-top:0%"><i>An Exciting Journey of Artistic Discovery &amp; Epxression Awaits!</i></h6>
+				<p style="margin-top:0%">
+
+The Temasek Arts Centre proudly presents this month-long festival, happening from 31 Oct to 29 Nov 2023. Look forward to an enthralling line-up of &nbsp;events featuring the best of TP’s arts groups, as they take to the stage to engage, excite and captivate your senses. With the eclectic ensemble of activities across various art forms, there is a little something for everyone!
+										<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr>
+		</tr><tr>
+		</tr><tr>
+			<td style="width:35%">
+			<br>
+				<img src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
+		</td>
+		<td style="width:65%"><br>
 			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
 				<h6 style="margin-top:0%"><i>Support Our #TeamTemasek Athletes!</i></h6>
 				<p style="margin-top:0%">
