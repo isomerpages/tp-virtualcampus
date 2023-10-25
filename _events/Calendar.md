@@ -26,7 +26,7 @@ The Temasek Arts Centre proudly presents this month-long festival, happening fro
 			</tr><tr>
 			<td style="width:35%">
 			<br>
-				<img src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
+				<img src="https://hosting.photobucket.com/images/i/tracyng81/SDAA_Walk_for_Rice_2023.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/walkforrice2023/"><h4 style="margin-top:0%">Walk for Rice 2023</h4></a>
