@@ -36,6 +36,14 @@ sections:
       url: /events/highlights/tapestry2023/
       alt: Image alt text
   - infopic:
+      title: WALK FOR RICE 2023
+      subtitle: DO GOOD & FEEL GOOD
+      id: infopic
+      description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+      button: JOIN THE CAUSE!
+      url: /events/highlights/walkforrice2023/
+      alt: Image alt text
+  - infopic:
       title: POL-ITE Games 2023
       subtitle: POLYTECHNIC-ITE GAMES
       id: infopic
