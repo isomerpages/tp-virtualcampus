@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: POL-ITE Games 2023
+      subtitle: POLYTECHNIC-ITE GAMES
+      id: infopic
+      description: The heat is on! Come support Team Temasek’s contest for sporting
+        glory at the annual Polytechnic-ITE Games!
+      button: DISCOVER THE ACTION!
+      url: /events/highlights/politegames2023/
+      alt: Image alt text
+      image: /images/homepage-images/pol-ite 2023 - main edm.jpg
+  - infopic:
       title: SHAPING HEARTS 2023
       subtitle: INCLUSIVE ARTS FESTIVAL
       id: infopic
@@ -85,15 +95,6 @@ sections:
       alt: TSEA 2023
       subtitle: TSEA 2023
   - infopic:
-      title: CCA Fair 2023
-      subtitle: CCA Fair
-      description: Missed some information from your favourite CCAs? View the dates
-        for CCA Trials / Auditions / Meetings here!
-      button: JOIN IN THE ACTION!
-      url: /events/ccafair2023
-      alt: CCA Fair 2023
-      image: /images/Home/CCA Fair 2023.jpg
-  - infopic:
       title: Freshmen Orientation Programme 2023
       subtitle: Freshmen Orientation Programme
       description: Dear Freshmen, welcome to the TP Fam! Start your journey with us on
@@ -111,25 +112,6 @@ sections:
       button: BE ENTHRALLED HERE
       url: /events/freshmen-orientation-programme-2023#temasek-regatta-x-samudra
       alt: Temasek Regatta X Samudra
-  - infopic:
-      title: Polytechnic-ITE & Institute-Varsity-Polytechnic Games
-      subtitle: POL-ITE & IVP (AY22/23)
-      description: Hats off to Team Temasek for their achievements at the POL-ITE and
-        IVP Games, and for flying the TP flag high throughout the exciting
-        sports season!
-      button: VIEW OUR MEDAL TALLY
-      url: /events/sports/polite-ivp
-      image: /images/Home/POL-ITE & IVP.jpeg
-      alt: POLITE & IVP
-  - infopic:
-      title: Sports Appreciation & Alumni Homecoming 2023
-      description: We celebrated the strength, spirit and accomplishments of our
-        student-athletes – present and past – to mark a fitting end to a
-        fulfilling sports season!
-      button: Cheer with Team Temasek!
-      url: /events/sports/sports-appreciation-alumni-homecoming
-      image: /images/Home/Sports Appreciation & Alumni Homecoming.jpg
-      alt: Image alt text
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
