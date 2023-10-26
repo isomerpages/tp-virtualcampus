@@ -41,17 +41,17 @@ table, th, td {
     <td>Tapestry: Epiphany</td>
     <td>31 Oct 2023 (Tuesday), 7.30pm, Temasek Convention Centre</td>
 		<td>Music Vox, TP Band, Salvo Drums, Teatro &amp; String Ensemble</td>
-		<td>Free Admission / <a>https://tapestry23-epiphany.peatix.com/</a></td><td>
+		<td>Free Admission / <a>https://tapestry23-epiphany.peatix.com</a></td><td>
   </td></tr>
 		<tr>
     <td>Exploring Dancers</td>
     <td>1 Nov 2023 (Wednesday), 7pm, Studio 14</td>
 			<td>Malay Dance Group</td>
-			<td>Free Admission / <a>https://tapestry23-exploring-dancers-mdg.peatix.com/</a></td><td>
+			<td>Free Admission / <a>https://tapestry23-exploring-dancers-mdg.peatix.com</a></td><td>
   </td></tr>
   <tr>
 		<td>Tapestry: Recital</td>
     <td>3 Nov 2023 (Friday), 8pm, Black Box Theatre</td>
 		<td>Chinese Orchestra</td>
-		<td>Free Admission / <a>https://tapestry23-recital.peatix.com/</a></td><td>
+		<td>Free Admission / <a>https://tapestry23-recital.peatix.com</a></td><td>
 </td></tr></tbody></table>
