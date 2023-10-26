@@ -83,4 +83,9 @@ table, th, td {
     <td>17 Nov 2023 (Friday), 6.30pm, Studio 14</td>
 		<td>Indian Dance Group</td>
 		<td>Free Admission</td><td>	</td></tr><tr>
+			</tr><tr>
+		<td>Tapestry: BEATZ</td>
+    <td>18 Nov 2023 (Saturday), 7.30pm, Auditorium 3</td>
+		<td>Salvo Drums</td>
+		<td>Free Admission</td><td>	</td></tr><tr>
 </tr></tbody></table>
