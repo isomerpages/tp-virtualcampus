@@ -64,4 +64,23 @@ table, th, td {
     <td>9 Nov 2023 (Thursday), 4pm, Black Box Theatre</td>
 		<td>Music Vox</td>
 		<td>Free Admission</td><td>
-</td></tr></tbody></table>
+					</td></tr><tr>
+		<td>Supernova</td>
+    <td>9 Nov 2023 (Thursday), 7pm, Temasek Convention Centre</td>
+		<td>TP Chorale</td>
+		<td>$5 per ticket</td><td>	</td></tr><tr>
+		<td>Motiv</td>
+    <td>10 Nov 2023 (Friday), 7pm &amp; 8pm, The Designer Pad</td>
+		<td>Dance Ensemble</td>
+		<td>Free Admission</td><td>
+		</td></tr><tr>
+		<td>Emcees Personal Branding Workshop</td>
+    <td>15 Nov 2023 (Wednesday), 6.30pm, Black Box Theatre</td>
+		<td>TP Emcees</td>
+		<td>Free Admission</td><td>	</td></tr><tr>
+				</tr><tr>
+		<td>‘Lit’ Workshop</td>
+    <td>17 Nov 2023 (Friday), 6.30pm, Studio 14</td>
+		<td>Indian Dance Group</td>
+		<td>Free Admission</td><td>	</td></tr><tr>
+</tr></tbody></table>
