@@ -50,8 +50,8 @@ table, th, td {
 			<td>Free Admission / <a>https://tapestry23-exploring-dancers-mdg.peatix.com/</a></td><td>
   </td></tr>
   <tr>
-		<td>8 Nov 2023</td>
-    <td>7.15pm</td>
-		<td>Netball / TP vs. NYP</td>
-		<td>Blk 26A, Sports Hall 2</td><td>
+		<td>Tapestry: Recital</td>
+    <td>3 Nov 2023 (Friday), 8pm, Black Box Theatre</td>
+		<td>Chinese Orchestra</td>
+		<td>Free Admission / <a>https://tapestry23-recital.peatix.com/</a></td><td>
 </td></tr></tbody></table>
