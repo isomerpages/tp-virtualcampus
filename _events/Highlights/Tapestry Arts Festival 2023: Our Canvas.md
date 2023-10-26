@@ -21,3 +21,6 @@ Be witness to the magic that will happen as new colours emerge, possibilities o
 👉 For more information on the Festival events and ticketing details, check out the official website [**here**](https://tapestryartsfestiv.wixsite.com/tapestry).
 
 👉 Follow us on Instagram: [**@tapestryartsfest**](https://www.instagram.com/tapestryartsfest/)
+
+#### **Events**
+
