@@ -35,6 +35,7 @@ sections:
       button: BE CAPTIVATED HERE!
       url: /events/highlights/tapestry2023/
       alt: Image alt text
+      image: /images/homepage-images/1(main).png
   - infopic:
       title: WALK FOR RICE 2023
       subtitle: DO GOOD & FEEL GOOD
