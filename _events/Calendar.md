@@ -18,7 +18,8 @@ description: ""
 				<p style="margin-top:0%">
 
 The TP Community Service Club is back with Walk for Rice! A collaboration between the Fairprice Foundation and South East Community Development Council, this programme seeks to inculcate a spirit of giving among individuals in TP. 
-
+<br>
+<br>
 For every 300m clocked, Fairprice Foundation will contribute 3 bowls of grains to vulnerable residents residing within the South East District. Find out how you can participate in this meaningful cause and win prizes at the same time!
 										<br><br>
 			<br>
