@@ -26,6 +26,15 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: WALK FOR RICE 2023
+      subtitle: DO GOOD & FEEL GOOD
+      id: infopic
+      description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+      button: JOIN THE CAUSE!
+      url: /events/highlights/walkforrice2023/
+      alt: Image alt text
+      image: /images/homepage-images/sdaa_walk for rice 2023.png
+  - infopic:
       title: "TAPESTRY ARTS FESTIVAL 2023: OUR CANVAS"
       subtitle: ANNUAL ARTS FESTIVAL
       id: infopic
@@ -36,15 +45,6 @@ sections:
       url: /events/highlights/tapestry2023/
       alt: Image alt text
       image: /images/homepage-images/1(main).png
-  - infopic:
-      title: WALK FOR RICE 2023
-      subtitle: DO GOOD & FEEL GOOD
-      id: infopic
-      description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
-      button: JOIN THE CAUSE!
-      url: /events/highlights/walkforrice2023/
-      alt: Image alt text
-      image: /images/homepage-images/sdaa_walk for rice 2023.png
   - infopic:
       title: POL-ITE Games 2023
       subtitle: POLYTECHNIC-ITE GAMES
