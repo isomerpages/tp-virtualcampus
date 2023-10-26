@@ -6,6 +6,8 @@ third_nav_title: Highlights
 ---
 ### **Tapestry Arts Festival 2023: Our Canvas**
 
+![](/images/homepage-images/1(main).png)
+
 The Temasek Arts Centre proudly presents **“Tapestry Arts Festival 2023: Our Canvas”!** 
 
 Happening from **31 Oct to 29 Nov 2023**, this month-long festival features the best of TP’s arts groups, as they converge and bring their own special ‘colour’ to a unique palette of artistic discovery and expression! 
