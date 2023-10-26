@@ -6,7 +6,7 @@ third_nav_title: Highlights
 ---
 ### **Tapestry Arts Festival 2023: Our Canvas**
 
-[Insert image here]
+
 
 The Temasek Arts Centre proudly presents **“Tapestry Arts Festival 2023: Our Canvas”**!
 
