@@ -93,4 +93,19 @@ table, th, td {
     <td>18 Nov 2023 (Saturday), 5.30pm, Auditorium 1</td>
 		<td>TP Band</td>
 		<td>$5 per ticket</td><td>	</td></tr><tr>
+				</tr><tr>
+		<td>Night In</td>
+    <td>21 Nov 2023 (Tuesday), 7pm, The Plaza</td>
+		<td>Dikir Barat &amp; Fusion Percussion</td>
+		<td>Free Admission</td><td>	</td></tr><tr>
+			</tr><tr>
+		<td>Watcha Got? Vol. 11</td>
+    <td>25 Nov 2023 (Saturday), 12pm, Black Box Theatre</td>
+		<td>Dance Ensemble</td>
+		<td>Free Admission</td><td>	</td></tr><tr>
+			</tr><tr>
+		<td>KPOP: Jinhwa!</td>
+    <td>29 Nov 2023 (Wednesday), 7.30pm, Auditorium 1</td>
+		<td>Music Vox</td>
+		<td>$5 per ticket</td><td>	</td></tr><tr>
 </tr></tbody></table>
