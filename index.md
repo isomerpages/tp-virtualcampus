@@ -29,9 +29,9 @@ sections:
       title: WALK FOR RICE 2023
       subtitle: TOUCH LIVES MEANINGFULLY
       id: infopic
-      description: "The TP Community Service Club (CSC) is back with Walk for Rice!
-        Find out how you can participate in this meaningful cause and win prizes
-        at the same time! "
+      description: The TP Community Service Club is back with its annual Walk for
+        Rice! Find out how you can participate in this meaningful cause and win
+        prizes at the same time!
       button: JOIN THE CAUSE!
       url: /events/highlights/walkforrice2023/
       alt: Image alt text
