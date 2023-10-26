@@ -44,10 +44,10 @@ table, th, td {
 		<td>Free Admission / <a>https://tapestry23-epiphany.peatix.com/</a></td><td>
   </td></tr>
 		<tr>
-    <td>3 Nov 2023</td>
-    <td>1. 7.30pm<br>2. 8.45pm</td>
-			<td>1. Volleyball (W) / TP vs. SP<br>2. Volleyball (M) / TP vs. SP</td>
-			<td>Blk 26A, Sports Hall 2</td><td>
+    <td>Exploring Dancers</td>
+    <td>1 Nov 2023 (Wednesday), 7pm, Studio 14</td>
+			<td>Malay Dance Group</td>
+			<td>Free Admission / <a>https://tapestry23-exploring-dancers-mdg.peatix.com/</a></td><td>
   </td></tr>
   <tr>
 		<td>8 Nov 2023</td>
