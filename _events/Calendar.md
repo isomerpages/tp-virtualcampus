@@ -31,7 +31,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				<h6 style="margin-top:0%"><i>Come Paint the Canvas with TP's Finest Arts Talents!</i></h6>
 				<p style="margin-top:0%">
 
-The Temasek Arts Centre proudly presents this month-long festival, happening from 31 Oct to 29 Nov 2023. Look forward to an enthralling line-up of &nbsp;events featuring the best of TP’s arts groups, as they take to the stage to engage, excite and captivate your senses. With the eclectic ensemble of activities across various art forms, there is a little something for everyone!
+The Temasek Arts Centre proudly presents this month-long festival, happening from 31 Oct to 29 Nov 2023! Look forward to an enthralling line-up of &nbsp;events featuring the best of TP’s arts groups, as they take to the stage to engage, excite and captivate your senses. With the eclectic ensemble of activities across various art forms, there is a little something for everyone!
 										<br><br>
 			<br>
 		</p></td>
