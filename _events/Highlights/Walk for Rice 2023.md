@@ -6,7 +6,7 @@ third_nav_title: Highlights
 ---
 ### **Walk for Rice 2023**
 
-
+![](/images/homepage-images/sdaa_walk%20for%20rice%202023.png)
 
 The TP Community Service Club (CSC) is back with **Walk for Rice (WFR)** in hybrid mode and we would like to invite you to join us!
 
