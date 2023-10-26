@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	</tr>
 		<tr><td style="width:35%">
 			<br>
-				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/1(Main).png?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/tapestry2023/"><h4 style="margin-top:0%">Tapestry Arts Festival 2023: Our Canvas</h4></a>
