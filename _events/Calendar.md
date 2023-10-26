@@ -5,28 +5,12 @@ description: ""
 ---
 <table>
 	<tbody>
-		<tr>
-			<td style="width:35%">
-			<br>
-				<img src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
-		</td>
-		<td style="width:65%"><br>
-			<a href="/events/highlights/tapestry2023/"><h4 style="margin-top:0%">Tapestry Arts Festival 2023: Our Canvas</h4></a>
-				<h6 style="margin-top:0%"><i>An Exciting Journey of Artistic Discovery &amp; Epxression Awaits!</i></h6>
-				<p style="margin-top:0%">
-
-The Temasek Arts Centre proudly presents this month-long festival, happening from 31 Oct to 29 Nov 2023. Look forward to an enthralling line-up of &nbsp;events featuring the best of TP’s arts groups, as they take to the stage to engage, excite and captivate your senses. With the eclectic ensemble of activities across various art forms, there is a little something for everyone!
-										<br><br>
-			<br>
-		</p></td>
-	</tr>
-			<tr>
-		</tr><tr>
+		<tr></tr><tr>
 		</tr><tr>
 			</tr><tr>
 			<td style="width:35%">
 			<br>
-				<img src="https://hosting.photobucket.com/images/i/tracyng81/SDAA_Walk_for_Rice_2023.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/SDAA_Walk_for_Rice_2023.png?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/walkforrice2023/"><h4 style="margin-top:0%">Walk for Rice 2023</h4></a>
@@ -38,12 +22,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			<br>
 		</p></td>
 	</tr>
+		<tr><td style="width:35%">
+			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/highlights/tapestry2023/"><h4 style="margin-top:0%">Tapestry Arts Festival 2023: Our Canvas</h4></a>
+				<h6 style="margin-top:0%"><i>Come Paint the Canvas with TP's Finest Arts Talents!</i></h6>
+				<p style="margin-top:0%">
+
+The Temasek Arts Centre proudly presents this month-long festival, happening from 31 Oct to 29 Nov 2023. Look forward to an enthralling line-up of &nbsp;events featuring the best of TP’s arts groups, as they take to the stage to engage, excite and captivate your senses. With the eclectic ensemble of activities across various art forms, there is a little something for everyone!
+										<br><br>
+			<br>
+		</p></td>
+	</tr>
 			<tr>
+			</tr><tr>
 		</tr><tr>
 		</tr><tr>
 			<td style="width:35%">
 			<br>
-				<img src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
@@ -63,7 +62,7 @@ For the games’ schedule, please click <a href="/events/highlights/politegames2
 		</tr><tr>
 			<td style="width:35%">
 			<br>
-				<img src="https://hosting.photobucket.com/images/i/tracyng81/Temasek_Poly_Web_Banner_(Virtual_Campus)_wovT2TBjSwkfp64BUoBthv.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/Temasek_Poly_Web_Banner_(Virtual_Campus)_wovT2TBjSwkfp64BUoBthv.png?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/shapinghearts2023/"><h4 style="margin-top:0%">Shaping Hearts 2023</h4></a>
@@ -82,7 +81,7 @@ An inclusive arts festival that is held annually, this initiative celebrates the
 		</tr><tr>
 			<td style="width:35%">
 			<br>
-				<img src="/images/Events/CCA Scholarship/cca scholarship2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/Events/CCA Scholarship/cca scholarship2023.jpg">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/tp-cca-scholarships2023/"><h4 style="margin-top:0%">TP CCA Scholarships 2023</h4></a>
@@ -100,7 +99,7 @@ For information on the selection process and conditions of the TP CCA Scholarshi
 			<tr>
 		<td style="width:35%">
 			<br>
-				<img src="/images/homepage-images/homepage_ndc_2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/homepage-images/homepage_ndc_2023.jpg">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/tpnationaldaycelebrations2023/"><h4 style="margin-top:0%">TP National Day Celebrations 2023</h4></a>
@@ -113,7 +112,7 @@ For information on the selection process and conditions of the TP CCA Scholarshi
 			</tr><tr>
 		<td style="width:35%">
 			<br>
-				<img src="/images/homepage-images/ndc_2023%20.png" style="display:block;margin-left:auto;margin-right:auto;">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/homepage-images/ndc_2023%20.png">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/tpnationaldayconcert2023/"><h4 style="margin-top:0%">TP National Day Concert 2023</h4></a>
@@ -126,7 +125,7 @@ For information on the selection process and conditions of the TP CCA Scholarshi
 	</tr><tr>
 		<td style="width:35%">
 			<br>
-				<img src="/images/Home/CCA Fair 2023.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/Home/CCA Fair 2023.jpg">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/ccafair2023/"><h4 style="margin-top:0%">CCA Fair 2023</h4></a>
@@ -142,7 +141,7 @@ For information on the selection process and conditions of the TP CCA Scholarshi
 		<tr>
 		<td style="width:35%">
 			<br>
-				<img src="/images/Home/tsea 2023 cover.jpg" style="display:block;margin-left:auto;margin-right:auto;">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/Home/tsea 2023 cover.jpg">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/tsea2023/"><h4 style="margin-top:0%">Temasek Student Excellence Awards 2023</h4></a>
