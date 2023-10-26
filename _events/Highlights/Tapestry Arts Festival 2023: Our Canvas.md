@@ -88,4 +88,9 @@ table, th, td {
     <td>18 Nov 2023 (Saturday), 7.30pm, Auditorium 3</td>
 		<td>Salvo Drums</td>
 		<td>Free Admission</td><td>	</td></tr><tr>
+		</tr><tr>
+		<td>Avec L'Expression XIII: Odyssey</td>
+    <td>18 Nov 2023 (Saturday), 5.30pm, Auditorium 1</td>
+		<td>TP Band</td>
+		<td>$5 per ticket</td><td>	</td></tr><tr>
 </tr></tbody></table>
