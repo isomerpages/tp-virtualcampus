@@ -27,9 +27,11 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
       title: WALK FOR RICE 2023
-      subtitle: DO GOOD & FEEL GOOD
+      subtitle: TOUCH LIVES MEANINGFULLY
       id: infopic
-      description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+      description: "The TP Community Service Club (CSC) is back with Walk for Rice!
+        Find out how you can participate in this meaningful cause and win prizes
+        at the same time! "
       button: JOIN THE CAUSE!
       url: /events/highlights/walkforrice2023/
       alt: Image alt text
