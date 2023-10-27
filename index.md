@@ -26,6 +26,28 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: WALK FOR RICE 2023
+      subtitle: TOUCH LIVES MEANINGFULLY
+      id: infopic
+      description: The TP Community Service Club is back with its annual Walk for
+        Rice! Find out how you can participate in this meaningful cause and win
+        prizes at the same time!
+      button: JOIN THE CAUSE!
+      url: /events/highlights/walkforrice2023/
+      alt: Image alt text
+      image: /images/homepage-images/sdaa_walk for rice 2023.png
+  - infopic:
+      title: "TAPESTRY ARTS FESTIVAL 2023: OUR CANVAS"
+      subtitle: ANNUAL ARTS FESTIVAL
+      id: infopic
+      description: The Temasek Arts Centre proudly presents this month-long festival,
+        featuring an enthralling line-up of events that showcases the best of
+        TP’s arts groups!
+      button: BE CAPTIVATED HERE!
+      url: /events/highlights/tapestry2023/
+      alt: Image alt text
+      image: /images/homepage-images/1(main).png
+  - infopic:
       title: POL-ITE Games 2023
       subtitle: POLYTECHNIC-ITE GAMES
       id: infopic
