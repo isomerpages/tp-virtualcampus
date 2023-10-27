@@ -6,7 +6,7 @@ third_nav_title: Highlights
 ---
 ### **POL-ITE Games 2023**
 
-![](/images/homepage-images/pol-ite%202023%20-%20main%20edm.jpg)
+![](/images/homepage-images/sdaa_pol-ite%202023%20(new).jpg)
 
 Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer our #TeamTemasek athletes on as they stand tall, play hard and give their all for TP?
 
@@ -14,9 +14,9 @@ The heat is on! This November, come support our athletes’ contest for sporting
 
 Keen to experience the electrifying games’ atmosphere in person? Support #TeamTemasek at selected games and catch the exciting action live in TP! (Refer to the games’ schedule below.)
 
-⭐ SEAL points will be awarded to registered student participants (Registration will be conducted at the entrance of the competition venue.)
+⭐ SEAL points will be awarded to registered student participants! Sign up here: [https://tinyurl.com/polite2023](https://tinyurl.com/polite2023)
 
-⭐ Enjoy free snacks/drinks while watching the games live
+⭐ Enjoy free snacks/drinks while watching the games live!
 
 ⭐ Look forward to sweet treats (popcorn/candy floss) and exciting half-time performances at the soccer games too!
 

@@ -45,7 +45,7 @@ The Temasek Arts Centre proudly presents this month-long festival, happening fro
 		</tr><tr>
 			<td style="width:35%">
 			<br>
-				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/POL-ITE_2023_-_Main_eDM.jpg?width=320&amp;height=320&amp;fit=bounds">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/SDAA_POL-ITE_2023_(New).jpg?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
@@ -53,12 +53,9 @@ The Temasek Arts Centre proudly presents this month-long festival, happening fro
 				<p style="margin-top:0%">
 
 Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer our #TeamTemasek athletes on as they stand tall, play hard and give their all for TP? This November, come support our athletes’ contest for sporting glory at the Polytechnic-ITE Games! Rally for TP at selected games and catch the exciting action live on campus!
-<br>
-<br>
-For the games’ schedule, please click <a href="/events/highlights/politegames2023/">here.
-										<br><br>
+									<br><br>
 			<br>
-		</a></p></td>
+		</p></td>
 	</tr>
 			<tr>
 		</tr><tr>

@@ -56,7 +56,7 @@ sections:
       button: DISCOVER THE ACTION!
       url: /events/highlights/politegames2023/
       alt: Image alt text
-      image: /images/homepage-images/pol-ite 2023 - main edm.jpg
+      image: /images/homepage-images/sdaa_pol-ite 2023 (new).jpg
   - infopic:
       title: SHAPING HEARTS 2023
       subtitle: INCLUSIVE ARTS FESTIVAL
