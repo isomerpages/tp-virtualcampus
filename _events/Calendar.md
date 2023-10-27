@@ -55,10 +55,10 @@ The Temasek Arts Centre proudly presents this month-long festival, happening fro
 Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer our #TeamTemasek athletes on as they stand tall, play hard and give their all for TP? This November, come support our athletes’ contest for sporting glory at the Polytechnic-ITE Games! Rally for TP at selected games and catch the exciting action live on campus!
 <br>
 <br>
-For the games’ schedule, please click <a href="/events/highlights/politegames2023/">here.
+Sign up here to catch the games and earn SEAL points:&nbsp;[https://tinyurl.com/polite2023](https://tinyurl.com/polite2023)
 										<br><br>
 			<br>
-		</a></p></td>
+		</p></td>
 	</tr>
 			<tr>
 		</tr><tr>
