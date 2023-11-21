@@ -9,7 +9,7 @@ variant: markdown
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="/images/Interest Groups/SENvocates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></td>
+            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/SENvocates_2.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></td>
             <td>
                 <p>
                     SENvocates is a CCA interest group dedicated to:<br>
