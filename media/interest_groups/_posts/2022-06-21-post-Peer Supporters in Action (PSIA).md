@@ -9,7 +9,7 @@ variant: markdown
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/PSiA_photo.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action"></td>
+            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/PSiA_photo_f7vxv3YWhxZ5tSw4BXNCZS.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action"></td>
             <td>
                 <p>
                     Peer Supporters-in-Action (PSiA) aims to equip students with the knowledge about mental health so that anyone can be a supporter to their fellow peers. PSiA also strives to provide a safe platform for all students to feel comfortable about sharing their stories with one another. Together with the Student Care team from Student Support &amp; Career Services, activities and programmes are carried out to create a friendlier environment in TP and to raise awareness about mental health.<br>
