@@ -4,62 +4,63 @@ title: SENvocates
 permalink: /interest-groups/senvocates/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
-        <tr>
-            <td style="width:45%"><image src="/images/Interest Groups/SENvocates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></image></td>
+        <tbody><tr>
+            <td style="width:45%"><img src="/images/Interest Groups/SENvocates.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></td>
             <td>
                 <p>
                     SENvocates is a CCA interest group dedicated to:<br>
-                    <ul>
+                    </p><ul>
                         <li>Raising awareness / advocating for special educational needs (SEN) and disabilities</li>
                         <li>Participating in / organising disability-related events such as the Purple Parade</li>
                         <li>Providing peer support to fellow TP students with SEN</li>
 											<li>Volunteering with external organisations and social service agencies, such as SG Enable and SPD</li>
                      </ul>
-                 </p>
+                 <p></p>
                  <p>
-                 Together with the SEN Support Division from Student Support & Career Services, we aim to foster a TP that is inclusive for all – where every TP student, regardless of one’s challenges, is empowered by the support of our SENvocates, as well as making a difference to the disabled communities outside of TP.<br>
+                 Together with the SEN Support Division from Student Support &amp; Career Services, we aim to foster a TP that is inclusive for all – where every TP student, regardless of one’s challenges, is empowered by the support of our SENvocates, as well as making a difference to the disabled communities outside of TP.<br>
 									 <br>
 									 If you are keen to join us, do fill in <a href="https://forms.office.com/r/YbbtEBbW2y">this form</a>!
                     <br>
 									 <br>
                     <b>Meeting Day:</b> Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Winston_WONG@tp.edu.sg">Mr Winston Wong</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Christina_CHU@tp.edu.sg">Ms Christina Chu</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/senvocates/">Instagram</a>
                 </p>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
 
 #### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdvHcGmJJlX/">
-                <image src="/images/Interest Groups/SENVOCATES_TAP Amazing Race.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
+                <img src="/images/Interest Groups/SENVOCATES_TAP Amazing Race.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
                 <h6 style="margin-top:0%">TAP Amazing Race</h6>
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CcppdTCp6XY/">
-                <image src="/images/Interest Groups/SENVOCATES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
+                <img src="/images/Interest Groups/SENVOCATES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
                 <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
 					<a href="https://www.instagram.com/p/CcZkmN0p9sE/">
-                <image src="/images/Interest Groups/SENVOCATES_SEN Orientation.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
+                <img src="/images/Interest Groups/SENVOCATES_SEN Orientation.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates!">
                 <h6 style="margin-top:0%">SEN Orientation</h6>    
-                </image>
+                
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
