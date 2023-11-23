@@ -23,9 +23,6 @@ variant: markdown
                  <p>
                  Together with the SEN Support Division from Student Support &amp; Career Services, we aim to foster a TP that is inclusive for all – where every TP student, regardless of one’s challenges, is empowered by the support of our SENvocates, as well as making a difference to the disabled communities outside of TP.<br>
 									 <br>
-									 If you are keen to join us, do fill in <a href="https://forms.office.com/r/YbbtEBbW2y">this form</a>!
-                    <br>
-									 <br>
                     <b>Meeting Day:</b> Event basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Christina_CHU@tp.edu.sg">Ms Christina Chu</a><br>
