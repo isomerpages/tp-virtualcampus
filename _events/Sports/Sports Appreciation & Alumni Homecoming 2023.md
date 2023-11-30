@@ -3,7 +3,7 @@ title: Sports Appreciation & Alumni Homecoming 2023
 permalink: /events/sports/sports-appreciation-alumni-homecoming/
 description: ""
 third_nav_title: Sports
-variant: tiptap
+variant: markdown
 ---
 ### Sports Appreciation &amp; Alumni Homecoming 2023
 
