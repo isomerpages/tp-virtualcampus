@@ -9,7 +9,7 @@ third_nav_title: Sports
 
 Heartiest congratulations to our committed student-athletes from Team Temasek, who flew the TP flag high with their strong and spirited performances at the recently-concluded Polytechnic-ITE (POL-ITE) Games 2023! 
 
-Throughout the grueling but fruitful season, TP recorded a commendable haul of&nbsp;**11 Gold**, **10 Silver** and **9 Bronze** medals. Well done to ALL our sportsmen and sportswomen!
+Throughout the grueling but fruitful season, TP recorded a commendable haul of&nbsp;**11 Gold**, **10 Silver** and **9 Bronze** medals. Well done to all our sportsmen and sportswomen!
 
 ✨ Hats off to our 10-Pin Bowling (Men), Dragon Boat (Men, Women and Mixed), Swimming (Men), Taekwondo and Volleyball (Men and Women) teams, who successfully defended their championship titles.&nbsp;
 
