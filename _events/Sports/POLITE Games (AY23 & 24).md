@@ -15,9 +15,9 @@ Throughout the grueling but fruitful season, TP recorded a commendable haul of&n
 
 ✨ Also, our Men’s 10-Pin Bowling and Archery teams both clinched their first championships in a decade, and the Men’s Table Tennis team claimed their first title in eight years too.
 
-Thank you Team Temasek, for navigating the POL-ITE journey with tenacity, pride and humility, and for truly embracing the meaning of teamwork making the dream work. Most of all, BIG props for giving us many reasons to cheer and unite as a TP family. 
+Thank you Team Temasek, for navigating the POL-ITE journey with tenacity, pride and humility, and for truly embracing the meaning of teamwork making the dream work. Most of all, big props for giving us many reasons to cheer and unite as a TP family! 
 
-Onwards and upwards to greater heights, Team Temasek! 
+Onwards and upwards to greater heights! 
 
 <hr>
 
