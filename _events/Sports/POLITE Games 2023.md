@@ -23,6 +23,8 @@ Thank you Team Temasek, for navigating the POL-ITE journey with tenacity, pride 
 
 Keep reaching for the stars!
 
+
+
 <hr>
 
 ### POL-TE Games 2023 Medal Tally
