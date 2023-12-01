@@ -23,7 +23,7 @@ Thank you Team Temasek, for navigating the POL-ITE journey with tenacity, pride 
 
 Keep reaching for the stars!
 
-
+![](/images/Events/Sports/POL_ITE_2023_eDM.jpg)
 
 <hr>
 
