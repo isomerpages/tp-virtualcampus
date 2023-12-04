@@ -56,16 +56,6 @@ sections:
       alt: Image alt text
       image: /images/homepage-images/1(main).png
   - infopic:
-      title: POL-ITE Games 2023
-      subtitle: POLYTECHNIC-ITE GAMES
-      id: infopic
-      description: The heat is on! Come support Team Temasek’s contest for sporting
-        glory at the annual Polytechnic-ITE Games!
-      button: DISCOVER THE ACTION!
-      url: /events/highlights/politegames2023/
-      alt: Image alt text
-      image: /images/homepage-images/sdaa_pol-ite 2023 (new).jpg
-  - infopic:
       title: SHAPING HEARTS 2023
       subtitle: INCLUSIVE ARTS FESTIVAL
       id: infopic
