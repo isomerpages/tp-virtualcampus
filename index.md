@@ -29,10 +29,13 @@ sections:
       title: POL-ITE GAMES 2023
       subtitle: Polytechnic-ITE Games 2023
       id: infopic
-      description: Infopic description
+      description: "Heartiest congratulations to our committed student-athletes, who
+        flew the TP flag high with their strong and spirited performances at the
+        POL-ITE Games 2023! "
       button: Cheer for Team Temasek
       url: /events/sports/pol-ite23/
       alt: Image alt text
+      image: /images/POL_ITE_2023_eDM.jpg
   - infopic:
       title: WALK FOR RICE 2023
       subtitle: TOUCH LIVES MEANINGFULLY
