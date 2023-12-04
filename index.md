@@ -26,6 +26,14 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: POL-ITE GAMES 2023
+      subtitle: Polytechnic-ITE Games 2023
+      id: infopic
+      description: Infopic description
+      button: Cheer for Team Temasek
+      url: /events/sports/pol-ite23/
+      alt: Image alt text
+  - infopic:
       title: WALK FOR RICE 2023
       subtitle: TOUCH LIVES MEANINGFULLY
       id: infopic
@@ -116,24 +124,6 @@ sections:
       image: /images/temasek excellence award congrats_2023_homepage.jpg
       alt: TSEA 2023
       subtitle: TSEA 2023
-  - infopic:
-      title: Freshmen Orientation Programme 2023
-      subtitle: Freshmen Orientation Programme
-      description: Dear Freshmen, welcome to the TP Fam! Start your journey with us on
-        the right note through the Freshmen Orientation Programme!
-      button: DISCOVER THE ACTION
-      url: /events/freshmen-orientation-programme-2023
-      image: /images/Home/FO_2023.jpg
-      alt: Freshmen Orientation 2023
-  - infopic:
-      title: Temasek Regatta x Samudra
-      subtitle: Freshmen Orientation Programme
-      image: /images/Home/Regatta_2023.jpg
-      description: Wrap up your onboarding journey at this special finale programme,
-        featuring exciting dragon boat races and arts performances!
-      button: BE ENTHRALLED HERE
-      url: /events/freshmen-orientation-programme-2023#temasek-regatta-x-samudra
-      alt: Temasek Regatta X Samudra
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
