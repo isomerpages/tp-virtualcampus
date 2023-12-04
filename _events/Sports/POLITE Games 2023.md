@@ -17,7 +17,7 @@ Here are some notable highlights of this season:
 
 ✨ **Champions Once More:** The **Kayak Racing (Men)** and **Touch Football** teams moved up two places (from 2022’s bronze) to reclaim their championship titles.
 
-✨ **Staging Inspiring Comebacks:** The **Archery (Women)**, **Basketball (Women)**, **Track &amp; Field (Men)**, **Tchoukball (Women)** and **Ultimate Frisbee** teams regained podium finishes after a hiatus in 2022, where they were not placed in the top three positions.
+✨ **Staging Inspiring Comebacks:** The **Archery (Women)**, **Basketball (Women)**, **Track &amp; Field (Men)**, **Tchoukball (Women)** and **Ultimate Frisbee** teams regained podium finishes after a hiatus in 2022.
 
 Thank you Team Temasek, for navigating the POL-ITE journey with tenacity, pride and humility, and for truly embracing the meaning of teamwork making the dream work. Most of all, big props for giving us many reasons to cheer and unite as a TP family! 
 
