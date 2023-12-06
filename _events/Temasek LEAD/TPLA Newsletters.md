@@ -3,11 +3,20 @@ title: TPLA Newsletters
 permalink: /events/temasek-lead/tpla-newsletters/
 description: ""
 third_nav_title: Temasek LEAD
+variant: markdown
 ---
 ### TP LEAD Ambassadors Newsletters
 
 Check out our past and upcoming LEAD events through the monthly TPLA Newsletters. Enjoy reading and have fun participating!
 
+<hr>
+
+##### November 2023
+![](/images/Events/Temasek%20LEAD/TPLA%20Newsletters/LA_Issue_14_Nov23.png)
+<hr>
+
+##### October 2023
+![](/images/Events/Temasek%20LEAD/TPLA%20Newsletters/LA_Issue_13_Oct23.png)
 <hr>
 
 ##### September 2023
