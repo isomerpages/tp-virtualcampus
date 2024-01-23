@@ -11,14 +11,16 @@ variant: markdown
 			</tr><tr>
 			<td style="width:35%">
 			<br>
-				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/SDAA_Walk_for_Rice_2023.png?width=320&amp;height=320&amp;fit=bounds">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/TP_CCA_Ceremony_Holding_Slide.jpg?width=590&amp;height=590&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/highlights/walkforrice2023/"><h4 style="margin-top:0%">Walk for Rice 2023</h4></a>
-				<h6 style="margin-top:0%"><i>Do Your Part &amp; Join this Good Cause!</i></h6>
+			<a href="/events/tp-cca-scholarships2023/"><h4 style="margin-top:0%">TP CCA Scholarships AY2023/24</h4></a>
+				<h6 style="margin-top:0%"><i>19 January 2024</i></h6>
 				<p style="margin-top:0%">
 
-The TP Community Service Club is back with Walk for Rice! A collaboration between the Fairprice Foundation and South East Community Development Council, this programme seeks to inculcate a spirit of giving among individuals in TP. 
+Heartiest congratulations to our recipients of the TP CCA Scholarships AY2023/24! 
+
+Introduced in the year 2000, the TP CCA Scholarships recognise and reward students who have made outstanding contributions to TP through their CCAs. A total of 30 recipients celebrated their achievements at an intimate and heartfelt ceremony graced by our Principal &amp; CEO, Mr Peter Lam.
 <br><br>
 			<br>
 		</p></td>
@@ -29,7 +31,7 @@ The TP Community Service Club is back with Walk for Rice! A collaboration betwee
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/walkforrice2023/"><h4 style="margin-top:0%">Walk for Rice 2023</h4></a>
-				<h6 style="margin-top:0%"><i>Do Your Part &amp; Join this Good Cause!</i></h6>
+				<h6 style="margin-top:0%"><i>21 October to 31 December 2023</i></h6>
 				<p style="margin-top:0%">
 
 The TP Community Service Club is back with Walk for Rice! A collaboration between the Fairprice Foundation and South East Community Development Council, this programme seeks to inculcate a spirit of giving among individuals in TP. 
@@ -46,28 +48,10 @@ For every 300m clocked, Fairprice Foundation will contribute 3 bowls of grains t
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/highlights/tapestry2023/"><h4 style="margin-top:0%">Tapestry Arts Festival 2023: Our Canvas</h4></a>
-				<h6 style="margin-top:0%"><i>Come Paint the Canvas with TP's Finest Arts Talents!</i></h6>
+				<h6 style="margin-top:0%"><i>31 October to 29 November 2023</i></h6>
 				<p style="margin-top:0%">
 
 The Temasek Arts Centre proudly presents this month-long festival, happening from 31 Oct to 29 Nov 2023! Look forward to an enthralling line-up of &nbsp;events featuring the best of TP’s arts groups, as they take to the stage to engage, excite and captivate your senses. With the eclectic ensemble of activities across various art forms, there is a little something for everyone!
-										<br><br>
-			<br>
-		</p></td>
-	</tr>
-			<tr>
-			</tr><tr>
-		</tr><tr>
-		</tr><tr>
-			<td style="width:35%">
-			<br>
-				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/SDAA_POL-ITE_2023_(New).jpg?width=320&amp;height=320&amp;fit=bounds">
-		</td>
-		<td style="width:65%"><br>
-			<a href="/events/highlights/politegames2023/"><h4 style="margin-top:0%">POL-ITE Games 2023</h4></a>
-				<h6 style="margin-top:0%"><i>Support Our #TeamTemasek Athletes!</i></h6>
-				<p style="margin-top:0%">
-
-Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer our #TeamTemasek athletes on as they stand tall, play hard and give their all for TP? This November, come support our athletes’ contest for sporting glory at the Polytechnic-ITE Games! Rally for TP at selected games and catch the exciting action live on campus!
 										<br><br>
 			<br>
 		</p></td>
@@ -96,21 +80,6 @@ Hey #TPFAM! Are you ready to catch some adrenaline-pumping action and cheer our 
 				<p style="margin-top:0%">
 					Be a guest at TP’s biggest party and join us at our very own National Day Concert on 8 Aug, 10am! Themed “Semangat Kesatuan” or “The Spirit of Oneness”, this concert promises a morning full of enthralling performances, rousing acts and fun games!
 							</p>
-			<br>
-		</td>
-	</tr><tr>
-		<td style="width:35%">
-			<br>
-				<img style="display:block;margin-left:auto;margin-right:auto;" src="/images/Home/CCA Fair 2023.jpg">
-		</td>
-		<td style="width:65%"><br>
-			<a href="/events/ccafair2023/"><h4 style="margin-top:0%">CCA Fair 2023</h4></a>
-				<h6 style="margin-top:0%"><i>26-27 April 2023</i></h6>
-				<p style="margin-top:0%">
-					Are you keen to channel the Team Temasek spirit and make your days on campus count? Check out this exciting event to find out more about the CCAs offered in TP!
-					<br><br>
-					For more information on Trials / Auditions / Meetings for each CCA, do check out the links provided.
-				</p>
 			<br>
 		</td>
 	</tr>
