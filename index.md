@@ -26,12 +26,23 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: TP CCA Scholarships AY2023/24
+      id: infopic
+      description: Heartiest congratulations to our 30 exemplary recipients, who have
+        made outstanding contributions to TP through their diverse CCAs. Keep
+        pursuing your passion!
+      button: BE INSPIRED HERE
+      url: /events/tp-cca-scholarships2023/
+      image: /images/TP_CCA_Ceremony_Holding_Slide.jpg
+      alt: Image alt text
+      subtitle: TP CCA Scholarships AY2023/24
+  - infopic:
       title: POL-ITE GAMES 2023
       subtitle: Polytechnic-ITE Games 2023
       id: infopic
-      description: "Heartiest congratulations to our committed student-athletes, who
+      description: Heartiest congratulations to our committed student-athletes, who
         flew the TP flag high with their strong and spirited performances at the
-        POL-ITE Games 2023! "
+        POL-ITE Games 2023!
       button: Cheer for Team Temasek
       url: /events/sports/pol-ite23/
       alt: Image alt text
@@ -58,27 +69,6 @@ sections:
       url: /events/highlights/tapestry2023/
       alt: Image alt text
       image: /images/homepage-images/1(main).png
-  - infopic:
-      title: SHAPING HEARTS 2023
-      subtitle: INCLUSIVE ARTS FESTIVAL
-      id: infopic
-      description: Join us at this annual inclusive arts festival to celebrate the
-        artistic talents of the special needs community!
-      button: SUPPORT US!
-      alt: Image alt text
-      url: /events/highlights/shapinghearts2023/
-      image: /images/temasek poly_web banner (virtual campus).png
-  - infopic:
-      title: TP CCA Scholarships 2023
-      id: infopic
-      description: Applications for the TP CCA Scholarships 2023 are now closed. The
-        results will be announced in December 2023. Watch this space for
-        updates!
-      button: click here
-      url: /events/tp-cca-scholarships2023/
-      image: /images/Events/CCA Scholarship/cca scholarship2023.jpg
-      alt: Image alt text
-      subtitle: TP CCA Scholarships 2023
   - infopic:
       title: Polytechnic Forum 2023
       subtitle: INTER-POLY PROGRAMME
