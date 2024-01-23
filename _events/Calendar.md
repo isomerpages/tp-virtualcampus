@@ -5,11 +5,25 @@ description: ""
 variant: markdown
 ---
 <table>
-	<tbody>
+		<tbody>
 		<tr></tr><tr>
 		</tr><tr>
 			</tr><tr>
 			<td style="width:35%">
+			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/SDAA_Walk_for_Rice_2023.png?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/highlights/walkforrice2023/"><h4 style="margin-top:0%">Walk for Rice 2023</h4></a>
+				<h6 style="margin-top:0%"><i>Do Your Part &amp; Join this Good Cause!</i></h6>
+				<p style="margin-top:0%">
+
+The TP Community Service Club is back with Walk for Rice! A collaboration between the Fairprice Foundation and South East Community Development Council, this programme seeks to inculcate a spirit of giving among individuals in TP. 
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+		<tr><td style="width:35%">
 			<br>
 				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/SDAA_Walk_for_Rice_2023.png?width=320&amp;height=320&amp;fit=bounds">
 		</td>
