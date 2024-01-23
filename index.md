@@ -31,7 +31,7 @@ sections:
       description: Heartiest congratulations to our 30 exemplary recipients, who have
         made outstanding contributions to TP through their diverse CCAs. Keep
         pursuing your passion!
-      button: BE INSPIRED HERE
+      button: BE INSPIRED HERE!
       url: /events/tp-cca-scholarships2023/
       image: /images/TP_CCA_Ceremony_Holding_Slide.jpg
       alt: Image alt text
@@ -43,7 +43,7 @@ sections:
       description: Huge kudos to our committed student-athletes, who flew the TP flag
         high with their strong and spirited performances at the POL-ITE Games
         2023!
-      button: Cheer for Team Temasek
+      button: Cheer for Team Temasek!
       url: /events/sports/pol-ite23/
       alt: Image alt text
       image: /images/POL_ITE_2023_eDM.jpg
