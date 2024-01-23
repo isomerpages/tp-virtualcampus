@@ -19,7 +19,8 @@ variant: markdown
 				<p style="margin-top:0%">
 
 Heartiest congratulations to our recipients of the TP CCA Scholarships AY2023/24! 
-
+<br>
+<br>
 Introduced in the year 2000, the TP CCA Scholarships recognise and reward students who have made outstanding contributions to TP through their CCAs. A total of 30 recipients celebrated their achievements at an intimate and heartfelt ceremony graced by our Principal &amp; CEO, Mr Peter Lam.
 <br><br>
 			<br>
