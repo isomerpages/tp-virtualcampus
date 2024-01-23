@@ -3,10 +3,9 @@ title: TP CCA Scholarships 2023
 permalink: /events/tp-cca-scholarships2023/
 description: ""
 third_nav_title: Highlights
+variant: markdown
 ---
-### **TP CCA Scholarships 2023 - Applications Closed**
-
-![CCA scholarship 2023](/images/Events/CCA%20Scholarship/cca%20scholarship2023.jpg)
+### **TP CCA Scholarships AY2023/24**
 
 The annual TP CCA Scholarships are awarded to students who have contributed significantly to their respective CCAs in the Polytechnic.
 
