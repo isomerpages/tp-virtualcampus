@@ -40,9 +40,9 @@ sections:
       title: POL-ITE GAMES 2023
       subtitle: Polytechnic-ITE Games 2023
       id: infopic
-      description: Heartiest congratulations to our committed student-athletes, who
-        flew the TP flag high with their strong and spirited performances at the
-        POL-ITE Games 2023!
+      description: Huge kudos to our committed student-athletes, who flew the TP flag
+        high with their strong and spirited performances at the POL-ITE Games
+        2023!
       button: Cheer for Team Temasek
       url: /events/sports/pol-ite23/
       alt: Image alt text
