@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Sports
 ---
-### Polytechnic-ITE Games 2023
+### Polytechnic-ITE Games (AY2023/24)
 
 Heartiest congratulations to our committed student-athletes from Team Temasek, who flew the TP flag high with their strong and spirited performances at the recently concluded Polytechnic-ITE (POL-ITE) Games 2023! 
 
