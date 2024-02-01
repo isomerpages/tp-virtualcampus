@@ -25,8 +25,8 @@ sweet for the team, who had to face many challenging and hard-fought battles
 before making it to the top of the podium. Bravo!&nbsp;</p>
 <p>✨ <strong>Our Swimming team <a href="https://www.instagram.com/tplsst/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tplsst</a></strong> was
 not to be outdone either! The swimmers glided their way to a triumphant
-Overall Champion title with their spectacular results, making it TP’s second
-consecutive year of clinching this honour. Way to go!</p>
+overall champion title, making it TP’s second consecutive year of clinching
+this honour. Way to go!</p>
 <p>Big props to #TeamTemasek for navigating the IVP journey with tenacity,
 pride and humility, and for making TP truly a home of champions. Massive
 thanks to all our amazing coaches and dedicated staff advisors too, for
