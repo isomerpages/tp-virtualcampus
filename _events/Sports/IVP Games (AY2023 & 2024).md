@@ -5,27 +5,93 @@ variant: tiptap
 description: ""
 third_nav_title: Sports
 ---
-<h3><strong>Institute-Varsity-Polytechnic Games (AY2023/24)</strong></h3>
-<p>Heartiest congratulations to our committed student-athletes from Team
-Temasek, who flew the TP flag high with their strong and spirited performances
-at the recently concluded Polytechnic-ITE (POL-ITE) Games 2023!</p>
-<p>Throughout the grueling but fruitful season, TP recorded a commendable
-haul of&amp;nbsp;**10 Gold**, <strong>10 Silver</strong> and <strong>9 Bronze</strong> medals.
-Well done to all our sportsmen and sportswomen!</p>
-<p>Here are some notable highlights of this season:</p>
-<p>✨ <strong>Gold Glitters Again:</strong> Hats off to the <strong>10-Pin Bowling (Men)</strong>, <strong>Dragon Boat (Men, Women and Mixed)</strong>, <strong>Swimming (Men)</strong>, <strong>Taekwondo</strong> and <strong>Volleyball (Men and Women)</strong> teams,
-who have successfully defended their championship titles.&amp;nbsp;</p>
-<p>✨ <strong>Champions Once More:</strong> The <strong>Kayak Racing (Men)</strong> and <strong>Touch Football</strong> teams
-moved up two places (from 2022’s bronze) to reclaim their championship
-titles.</p>
-<p>✨ <strong>Staging Inspiring Comebacks:</strong> The <strong>Archery (Women)</strong>, <strong>Basketball (Women)</strong>, <strong>Track &amp;amp; Field (Men)</strong>, <strong>Tchoukball (Women)</strong> and <strong>Ultimate Frisbee</strong> teams
-regained podium finishes after a hiatus in 2022.</p>
-<p>Thank you Team Temasek, for navigating the POL-ITE journey with tenacity,
-pride and humility, and for truly embracing the meaning of teamwork making
-the dream work. Most of all, big props for giving us many reasons to cheer
-and unite as a TP family!</p>
-<p>Keep reaching for the stars!</p>
-<p>![](/images/Events/Sports/POL_ITE_2023_eDM.jpg)</p>
-<p>&lt;hr&gt;</p>
-<p>### POL-TE Games 2023 Medal Tally</p>
+<h3>Institute-Varsity-Polytechnic Games (AY2023/24)</h3>
+<p>Team Temasek has given us so many reasons to cheer and unite at the recently
+concluded <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2023/24)</strong>!</p>
+<p>Throughout the action-packed season, close to <strong>300</strong> student-athletes
+gave their all and put up a spirited showing against many heavyweight opponents
+across <strong>22</strong> sports. Collectively, their efforts brought home <strong>4 </strong>gold, <strong>1</strong> silver
+and <strong>3</strong> bronze medals for TP. We are so proud of all our teams!</p>
+<p><strong>Here are some notable highlights of this season:</strong>
+</p>
+<p>✨ Huge kudos to the <strong>Floorball Women’s team <a href="https://www.instagram.com/tpfloorball/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpfloorball</a></strong>,
+who finally managed to capture their elusive gold medal since the sport’s
+introduction to the IVP Games in 2003. After 20 years of heartfelt endeavour,
+congrats to the team for successfully recording their name in the book
+of IVP champions!</p>
+<p>✨ After three years of absence, our <strong>Soccer Men’s team <a href="https://www.instagram.com/tp_msoccer/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_msoccer</a></strong> are
+SR Nathan Cup Champions once more! Reclaiming this coveted title was especially
+sweet for the team, who had to face many challenging and hard-fought battles
+before making it to the top of the podium. Bravo!&nbsp;</p>
+<p>✨ <strong>Our Swimming team <a href="https://www.instagram.com/tplsst/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tplsst</a></strong> was
+not to be outdone either! The swimmers glided their way to a triumphant
+Overall Champion title with their spectacular results, making it TP’s second
+consecutive year of clinching this honour. Way to go!</p>
+<p>Big props to #TeamTemasek for navigating the IVP journey with tenacity,
+pride and humility, and for making TP truly a&nbsp;<a href="https://www.instagram.com/explore/tags/tphomeofchamps/?hl=en" rel="noopener noreferrer nofollow" target="_blank">#TPHomeOfChamps</a>.
+Massive thanks to all our amazing coaches and dedicated staff advisors
+too, for working tirelessly to nurture our student-athletes to become the
+best versions of themselves!</p>
+<p>Keep fighting and reaching for the sporting stars!</p>
+<hr>
+<h3>IVP Games (AY2023/24) Medal Tally</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Gold</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Silver</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Bronze</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Floorball (Women)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floorball (Men)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soccer (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swimming (Women)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swimming (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Women)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swimming (Overall)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
