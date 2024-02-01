@@ -28,10 +28,10 @@ not to be outdone either! The swimmers glided their way to a triumphant
 Overall Champion title with their spectacular results, making it TP’s second
 consecutive year of clinching this honour. Way to go!</p>
 <p>Big props to #TeamTemasek for navigating the IVP journey with tenacity,
-pride and humility, and for making TP truly a&nbsp;<a href="https://www.instagram.com/explore/tags/tphomeofchamps/?hl=en" rel="noopener noreferrer nofollow" target="_blank">#TPHomeOfChamps</a>.
-Massive thanks to all our amazing coaches and dedicated staff advisors
-too, for working tirelessly to nurture our student-athletes to become the
-best versions of themselves!</p>
+pride and humility, and for making TP truly a home of champions. Massive
+thanks to all our amazing coaches and dedicated staff advisors too, for
+working tirelessly to nurture our student-athletes to become the best versions
+of themselves!</p>
 <p>Keep fighting and reaching for the sporting stars!</p>
 <hr>
 <h3>IVP Games (AY2023/24) Medal Tally</h3>
