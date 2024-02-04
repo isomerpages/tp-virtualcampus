@@ -21,8 +21,6 @@ Here are some notable highlights of this season:
 
 Thank you Team Temasek, for navigating the POL-ITE journey with tenacity, pride and humility, and for truly embracing the meaning of teamwork making the dream work. Most of all, big props for giving us many reasons to cheer and unite as a TP family! 
 
-Keep reaching for the stars!
-
 ![](/images/Events/Sports/POL_ITE_2023_eDM.jpg)
 
 <hr>
