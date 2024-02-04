@@ -33,6 +33,10 @@ thanks to all our amazing coaches and dedicated staff advisors too, for
 working tirelessly to nurture our student-athletes to become the best versions
 of themselves!</p>
 <p>Keep fighting and reaching for the sporting stars!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_eDM_01.jpg">
+</div>
 <hr>
 <h3>IVP Games (AY2023/24) Medal Tally</h3>
 <table>
