@@ -37,6 +37,17 @@ sections:
       alt: Image alt text
       subtitle: TP CCA Scholarships AY2023/24
   - infopic:
+      title: Institute-Varsity-Polytechnic Games (AY2023/24)
+      subtitle: IVP Games (AY2023/24)
+      id: infopic
+      description: Throughout the season, close to 300 student-athletes gave their all
+        and put up a spirited showing against many heavyweight opponents across
+        22 sports!
+      button: Check out the action here!
+      url: /events/sports/ivp2024/
+      image: /images/Sports/IVP_eDM_01.jpg
+      alt: Image alt text
+  - infopic:
       title: POL-ITE GAMES 2023
       subtitle: Polytechnic-ITE Games 2023
       id: infopic
