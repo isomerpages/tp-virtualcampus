@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Institute-Varsity-Polytechnic Games (AY2023/24)
+      subtitle: IVP Games (AY2023/24)
+      id: infopic
+      description: Throughout the season, close to 300 student-athletes gave their all
+        and put up a spirited showing against many heavyweight opponents across
+        22 sports!
+      button: Check out the action here!
+      url: /events/sports/ivp2024/
+      image: /images/Sports/IVP_eDM_01.jpg
+      alt: Image alt text
+  - infopic:
       title: TP CCA Scholarships AY2023/24
       id: infopic
       description: Heartiest congratulations to our 30 exemplary recipients, who have
