@@ -26,17 +26,6 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: TP CCA Scholarships AY2023/24
-      id: infopic
-      description: Heartiest congratulations to our 30 exemplary recipients, who have
-        made outstanding contributions to TP through their diverse CCAs. Keep
-        pursuing your passion!
-      button: BE INSPIRED HERE!
-      url: /events/tp-cca-scholarships2023/
-      image: /images/TP_CCA_Ceremony_Holding_Slide.jpg
-      alt: Image alt text
-      subtitle: TP CCA Scholarships AY2023/24
-  - infopic:
       title: Institute-Varsity-Polytechnic Games (AY2023/24)
       subtitle: IVP Games (AY2023/24)
       id: infopic
@@ -47,6 +36,17 @@ sections:
       url: /events/sports/ivp2024/
       image: /images/Sports/IVP_eDM_01.jpg
       alt: Image alt text
+  - infopic:
+      title: TP CCA Scholarships AY2023/24
+      id: infopic
+      description: Heartiest congratulations to our 30 exemplary recipients, who have
+        made outstanding contributions to TP through their diverse CCAs. Keep
+        pursuing your passion!
+      button: BE INSPIRED HERE!
+      url: /events/tp-cca-scholarships2023/
+      image: /images/TP_CCA_Ceremony_Holding_Slide.jpg
+      alt: Image alt text
+      subtitle: TP CCA Scholarships AY2023/24
   - infopic:
       title: POL-ITE GAMES 2023
       subtitle: Polytechnic-ITE Games 2023
