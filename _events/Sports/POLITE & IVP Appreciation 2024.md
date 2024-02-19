@@ -42,54 +42,84 @@ and for making TP truly a home of the champions! &nbsp;
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__32_of_92_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__32_of_92_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__31_of_92_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__31_of_92_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__68_of_92_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__80_of_92_.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__92_of_92_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__91_of_92_.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__89_of_92_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__88_of_92_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__86_of_92_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__85_of_92_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__83_of_92_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/AppreciationDinner_1__82_of_92_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
