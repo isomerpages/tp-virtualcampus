@@ -11,6 +11,19 @@ variant: markdown
 			</tr><tr>
 			<td style="width:35%">
 			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/AppreciationDinner_1_(80_of_92).jpg?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/sports/polite-ivp-appreciation/"><h4 style="margin-top:0%">POL-ITE &amp; IVP APPRECIATION 2024</h4></a>
+				<h6 style="margin-top:0%"><i>16 February 2024</i></h6>
+				<p style="margin-top:0%">
+
+As a fitting end to the competitive sports season, we celebrated the contributions, achievements and fighting spirit of our student-athletes – present and past – at the&nbsp;Polytechnic-ITE (POL-ITE)&nbsp;and&nbsp;Institute-Varsity-Polytechnic (IVP) Games (AY2023/24)!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+		<tr><td style="width:35%">
 				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/TP_CCA_Ceremony_Holding_Slide.jpg?width=590&amp;height=590&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
