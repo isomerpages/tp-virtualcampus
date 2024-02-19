@@ -14,7 +14,7 @@ variant: markdown
 				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/AppreciationDinner_1_(80_of_92).jpg?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/sports/polite-ivp-appreciation/"><h4 style="margin-top:0%">POL-ITE &amp; IVP APPRECIATION 2024</h4></a>
+			<a href="/events/sports/polite-ivp-appreciation/"><h4 style="margin-top:0%">POL-ITE &amp; IVP Appreciation 2024</h4></a>
 				<h6 style="margin-top:0%"><i>16 February 2024</i></h6>
 				<p style="margin-top:0%">
 
