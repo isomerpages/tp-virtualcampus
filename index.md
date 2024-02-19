@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: POL-ITE & IVP APPRECIATION 2024
+      subtitle: LAUDING OUR SPORTING WARRIORS
+      id: infopic
+      description: To mark the end of the competitive sports season, we celebrated the
+        contributions and spirit of our student-athletes at this special
+        appreciation event!
+      button: WELL DONE, TEAM TEMASEK!
+      url: /events/sports/polite-ivp-appreciation/
+      image: /images/Sports/AppreciationDinner_1__80_of_92_.jpg
+      alt: Image alt text
+  - infopic:
       title: Institute-Varsity-Polytechnic Games (AY2023/24)
       subtitle: IVP Games (AY2023/24)
       id: infopic
