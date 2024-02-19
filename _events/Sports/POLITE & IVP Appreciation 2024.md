@@ -5,24 +5,31 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-### Sports Appreciation &amp; Alumni Homecoming 2023
+### POL-ITE &amp; IVP Appreciation 2024
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/23yFE9kcoqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+As a fitting end to the competitive sports season, TP celebrated the contributions and achievements of our student-athletes – present and past – at the **Polytechnic-ITE (POL-ITE)** and **Institute-Varsity-Polytechnic (IVP) Games (AY2023/24)**! 
 
-As a fitting end to the competitive sports season (POL-ITE and IVP Games AY22/23), we celebrated the efforts, achievements and victories of our athletes – present and past – at the Sports Appreciation &amp; Alumni Homecoming 2023! 
+This special occasion was graced by Senior Director Ms Chia Li Hwei, with various supporters, partners and stakeholders in attendance. These included our amazing and dedicated coaches too, who have been instrumental to TP’s sporting successes over the years. 
 
-This special occasion was graced by our Principal &amp; CEO, Mr Peter Lam, with various supporters, partners and stakeholders in attendance. These included our amazing and dedicated sports coaches too, who have been instrumental to TP’s sporting success over the years.
- 
-AY22/23 also marked an exciting sporting calendar for TP, where we finally saw the full-scale resumption of the POL-ITE and IVP Games since the COVID-19 pandemic. Refer to [this link](/events/sports/polite-ivp/) for the results and highlights of the Games!
- 
-Kudos to all our student-athletes for your commitment to sporting excellence, for your fighting spirit even in the face of loss/adversity, and importantly, for demonstrating how humility always leads to greater success!
+AY2023/24 also marked an exciting sporting calendar for TP, where we were given so many reasons to cheer in the name of #TPpride! Collectively, we recorded a commendable haul of **10 Gold**,&nbsp;**10 Silver**&nbsp;and&nbsp;**9 Bronze**&nbsp;medals in POL-ITE, and **4&nbsp;Gold**,&nbsp;**1**&nbsp;**Silver** and&nbsp;**3**&nbsp;**Bronze** medals&nbsp;in IVP. We couldn’t be prouder of this strong and spirited showing from Team Temasek!
 
-![](images/Events/Sports/SAAH_1.jpg)
+&nbsp;Kudos to all our student-athletes for your commitment to sporting excellence, for your valiant fighting spirit even in the face of loss/adversity, and for making TP a truly home of the champions! &nbsp;
+<br>
+<br>
 
-![](images/Events/Sports/SAAH_2.jpg)
-
-![](images/Events/Sports/SAAH_3.jpg)
-
-![](images/Events/Sports/SAAH_4.jpg)
-
-*(Photo Credit: TP Corporate Communications, Digital Media &amp; Production Crew)*
+src="https://hosting.photobucket.com/images/i/tracyng81/IMG_2563_copy.jpg?width=320&amp;height=320&amp;fit=bounds" style="float: left; width: 51.7%; margin-right: 1%; margin-bottom: 0.5em;"&gt;
+<img style="float: left; width: 46%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-2-3.jpg?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 51.6%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/IMG_0506_copy.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="float: left; width: 46%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-10.jpg?width=320&amp;height=320&amp;fit=bounds"><img style="float: left; width: 48.8%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-8.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="float: left; width: 48.9%; margin-right: 1%; margin-bottom: 0.5em;" src="https://hosting.photobucket.com/images/i/tracyng81/PF_2023-9-2.jpg?width=320&amp;height=320&amp;fit=bounds"><a></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
