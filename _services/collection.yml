@@ -1,0 +1,6 @@
+collections:
+  services:
+    output: true
+    order:
+      - Student Wellness.md
+      - Specialist Services.md
