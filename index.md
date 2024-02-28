@@ -31,8 +31,18 @@ sections:
       id: infopic
       description: "Hey Freshies, welcome to the #TPFAM! Get ready for a series of
         exciting Freshmen Orientation activities to kickstart your TP journey on
-        the right note! "
-      button: "DISCOVER THE ACTION! "
+        the right note!"
+      button: DISCOVER THE ACTION!
+      url: /events/freshmen-orientation-programme-2024/
+      alt: Image alt text
+  - infopic:
+      title: TEMASEK REGATTA X SPECTACULAR 2024
+      subtitle: FRESHMEN ORIENTATION PROGRAMME
+      id: infopic
+      description: "Wrap up your onboarding experience at this finale programme,
+        featuring exciting dragon boat races, aqua tele-matches, as well as
+        enthralling arts performances! "
+      button: BE CAPTIVATED HERE!
       url: /events/freshmen-orientation-programme-2024/
       alt: Image alt text
   - infopic:
@@ -130,15 +140,6 @@ sections:
       url: /events/highlights/tpnationaldayconcert2023/
       image: /images/homepage-images/ndc_2023 .png
       alt: Image alt text
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2023
-      description: Heartiest congratulations to all our deserving recipients of the
-        TSEA 2023!
-      button: FIND THE ROLL OF HONOUR HERE!
-      url: /events/highlights/tsea2023/
-      image: /images/temasek excellence award congrats_2023_homepage.jpg
-      alt: TSEA 2023
-      subtitle: TSEA 2023
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
