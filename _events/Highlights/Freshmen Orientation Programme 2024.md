@@ -137,7 +137,6 @@ Mark the dates for the CCA Fair 2024 now!</p>
 <p><strong>Venue: </strong>The Plaza</p>
 </li>
 </ul>
-<p><strong><em>(Besides Freshmen, Juniors and Seniors are also welcome at the CCA Fair 2024. Keen to find out more? Create your journey </em></strong>
-<a href="https://virtualcampus.tp.edu.sg/events/ccafair2024/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong><em>!)</em></strong>
+<p><strong><em>(Besides Freshmen, Juniors and Seniors are also welcome at the CCA Fair 2024. Keen to find out more? Create your journey <a href="https://virtualcampus.tp.edu.sg/events/ccafair2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>!)</em></strong>
 </p>
 <p></p>
