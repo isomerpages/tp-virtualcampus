@@ -137,6 +137,6 @@ Mark the dates for the CCA Fair 2024 now!</p>
 <p><strong>Venue: </strong>The Plaza</p>
 </li>
 </ul>
-<p>(Besides Freshmen, Juniors and Seniors are also welcome at the CCA Fair
-2024. Keen to find out more? Join in the action here!)</p>
+<p><strong><em>(Besides Freshmen, Juniors and Seniors are also welcome at the CCA Fair 2024. Keen to find out more? Join in the action here!)</em></strong>
+</p>
 <p></p>
