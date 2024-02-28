@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<h4><strong>Freshmen Orientation Programme 2024</strong></h4>
+<h3><strong>Freshmen Orientation Programme 2024</strong></h3>
 <p>[Image]</p>
 <p><strong>Welcome, Freshmen!</strong>
 </p>
@@ -68,7 +68,7 @@ and Care for others.</p>
 <p><strong><em>For more information on the useful onboarding resources that we have in store for you, head over to <a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen-Orientation.aspx" rel="noopener noreferrer nofollow" target="_blank">TP Oei 2.0</a> now!)</em></strong>
 </p>
 <hr>
-<h4><strong>Temasek Regatta x SpecTACular 2024</strong></h4>
+<h3><strong>Temasek Regatta x SpecTACular 2024</strong></h3>
 <p>[Image]</p>
 <p>Annually, our staple FOP highlights – Temasek Regatta (dragon boat contest)
 and Temasek SpecTACular (arts concert) – are held to mark the end of your
@@ -102,8 +102,9 @@ vibrant campus.</p>
 <p>What’s more, this riveting showcase is fully conceptualised, produced
 and executed by our very own talented students. Be inspired by TP’s collective
 values of strength, resilience, community and hope at SpecTACular!</p>
-<p><strong>Go Green with TP!</strong> 
-<br>At TP, we are dedicated to promoting sustainability and actively strive
+<p><strong>Go Green with TP!</strong>
+</p>
+<p>At TP, we are dedicated to promoting sustainability and actively strive
 to support this cause. We strongly encourage you to bring your own bottles
 for this fun afternoon out at Bedok Reservoir, where you can conveniently
 refill your bottles at the designated water points on-site to stay hydrated.</p>
