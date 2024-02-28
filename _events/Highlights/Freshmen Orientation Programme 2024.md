@@ -6,7 +6,10 @@ third_nav_title: Highlights
 variant: tiptap
 ---
 <h3><strong>Freshmen Orientation Programme 2024</strong></h3>
-<p>[Image]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/FOP_Page_1920_X_1080px.jpg">
+</div>
 <p><strong>Welcome, Freshmen!</strong>
 </p>
 <p>Congratulations on your successful enrolment to Temasek Polytechnic (TP)!</p>
@@ -69,7 +72,10 @@ and Care for others.</p>
 </p>
 <hr>
 <h3><strong>Temasek Regatta x SpecTACular 2024</strong></h3>
-<p>[Image]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek_Regatta_Page_1920_X_1080px.jpg">
+</div>
 <p>Annually, our staple FOP highlights – Temasek Regatta (dragon boat contest)
 and Temasek SpecTACular (arts concert) – are held to mark the end of your
 FOP journey, as well as the start of your Polytechnic life. Brought to
