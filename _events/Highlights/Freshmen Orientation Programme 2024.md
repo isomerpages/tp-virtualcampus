@@ -68,3 +68,44 @@ and Care for others.</p>
 </p>
 <p><strong><em>For more information on the useful onboarding resources that we have in store for you, head over to <a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen-Orientation.aspx" rel="noopener noreferrer nofollow" target="_blank">TP Oei 2.0</a> now!)</em></strong>
 </p>
+<hr>
+<h4>Temasek Regatta x SpecTACular 2024</h4>
+<p>[Image]</p>
+<p>Annually, our staple FOP highlights – Temasek Regatta (dragon boat contest)
+and Temasek SpecTACular (arts concert) – are held to mark the end of your
+FOP journey, as well as the start of your Polytechnic life. Brought to
+you in an integrated and immersive format, this event also encapsulates
+the very best of TP’s creative energies, sporting excellence and artistic
+splendour.</p>
+<p>Presenting to you.. the <strong>Temasek Regatta x SpecTACular</strong>,
+happening in our own backyard (Bedok Reservoir) on <strong>12 April 2024</strong>!</p>
+<p><strong>Temasek Regatta: Make a Splash &amp; Have Fun in the Sun!</strong>
+</p>
+<p>What better way is there to end your freshmen orientation experience on
+a high note than by bonding with your friends, while experiencing a slice
+of the campus vibrancy that TP is known for?</p>
+<p>A time-honoured tradition in the FOP calendar, the <strong>Temasek Regatta</strong> brings
+together our TP family for a day of fun, play and action!</p>
+<p>Watch your friends paddle their hardest through a series of exciting dragon
+boat races and aqua tele-matches. Be stoked for your peers as they perform
+creative cheers that epitomise your School’s spirit, camaraderie and values
+– all in the name of friendly and sporting fun!</p>
+<p><strong>SpecTACular: Be Dazzled by Our Finest Arts Talents!</strong>
+</p>
+<p>Another memorable experience shared across generations of TPians, the
+arts component of our FOP – SpecTACular – will be staged as a consolidated
+experience for you this year!</p>
+<p>Featuring the finest talents of the Temasek Arts Centre, be enthralled
+by the lively acts that represent our Arts Groups. From groovy beats, melodious
+voices to high-octane dances that promise to get you moving, get a first-hand
+glimpse of the energy and dynamism that our student-artists bring to our
+vibrant campus.</p>
+<p>What’s more, this riveting showcase is fully conceptualised, produced
+and executed by our very own talented students. Be inspired by TP’s collective
+values of strength, resilience, community and hope at SpecTACular!</p>
+<p><strong>Go Green with TP!</strong>
+<br>At TP, we are dedicated to promoting sustainability and actively strive
+to support this cause. We strongly encourage you to bring your own bottles
+for this fun afternoon out at Bedok Reservoir, where you can conveniently
+refill your bottles at the designated water points on-site to stay hydrated.</p>
+<p></p>
