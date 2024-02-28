@@ -36,12 +36,12 @@ sections:
       url: /events/freshmen-orientation-programme-2024/
       alt: Image alt text
   - infopic:
-      title: TEMASEK REGATTA X SPECTACULAR 2024
+      title: TEMASEK REGATTA x SPECTACULAR 2024
       subtitle: FRESHMEN ORIENTATION PROGRAMME
       id: infopic
-      description: "Wrap up your onboarding experience at this finale programme,
+      description: Wrap up your onboarding experience at this finale programme,
         featuring exciting dragon boat races, aqua tele-matches, as well as
-        enthralling arts performances! "
+        enthralling arts performances!
       button: BE CAPTIVATED HERE!
       url: /events/freshmen-orientation-programme-2024/
       alt: Image alt text
