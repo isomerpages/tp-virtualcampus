@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: FRESHMEN ORIENTATION PROGRAMME 2024
+      subtitle: FRESHMEN ORIENTATION PROGRAMME
+      id: infopic
+      description: "Hey Freshies, welcome to the #TPFAM! Get ready for a series of
+        exciting Freshmen Orientation activities to kickstart your TP journey on
+        the right note! "
+      button: "DISCOVER THE ACTION! "
+      url: /events/freshmen-orientation-programme-2024/
+      alt: Image alt text
+  - infopic:
       title: POL-ITE & IVP APPRECIATION 2024
       subtitle: LAUDING OUR SPORTING WARRIORS
       id: infopic
