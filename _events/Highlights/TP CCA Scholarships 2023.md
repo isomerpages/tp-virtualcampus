@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Highlights
 variant: markdown
 ---
-### **TP CCA Scholarships AY2023/24**
+### **TP CCA Scholarships (AY2023/24)**
 
 ![](/images/CCA_Scholarship_Ceremony_2023_0319.jpg)
 
