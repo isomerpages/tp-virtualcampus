@@ -116,7 +116,10 @@ for this fun afternoon out at Bedok Reservoir, where you can conveniently
 refill your bottles at the designated water points on-site to stay hydrated.</p>
 <hr>
 <h3><strong>CCA Fair 2024</strong></h3>
-<p>[Image]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Banner_1920px_by_1080px_2.jpg">
+</div>
 <p>Discover your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.</p>
 <p>Life as a TP student can be as exciting, engaging and empowering as you
