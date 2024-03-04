@@ -68,7 +68,7 @@ and Care for others.</p>
 <p></p>
 <p><strong><em>(This page is constantly being updated with new information. Please remember to visit again nearer to April 2024.</em></strong>
 </p>
-<p><strong><em>For more information on the useful onboarding resources that we have in store for you, head over to <a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen-Orientation.aspx" rel="noopener noreferrer nofollow" target="_blank">TP Oei 2.0</a> now!)</em></strong>
+<p><strong><em>For more information on the useful onboarding resources that we have in store for you, head over to <a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202024.aspx" rel="noopener noreferrer nofollow" target="_blank">TP Oei 2.0</a> now!)</em></strong>
 </p>
 <hr>
 <h3><strong>Temasek Regatta x SpecTACular 2024</strong></h3>
