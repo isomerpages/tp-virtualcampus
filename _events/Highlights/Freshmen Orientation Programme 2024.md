@@ -116,7 +116,6 @@ for this fun afternoon out at Bedok Reservoir, where you can conveniently
 refill your bottles at the designated water points on-site to stay hydrated.</p>
 <hr>
 <h3><strong>CCA Fair 2024</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Banner_1920px_by_1080px_2.jpg">
 </div>
@@ -148,4 +147,3 @@ Mark the dates for the CCA Fair 2024 now!</p>
 </ul>
 <p><strong><em>(Besides Freshmen, Juniors and Seniors are also welcome at the CCA Fair 2024. Keen to find out more? Create your journey <a href="https://virtualcampus.tp.edu.sg/events/ccafair2023/" rel="noopener noreferrer nofollow" target="_blank">here</a>!)</em></strong>
 </p>
-<p></p>
