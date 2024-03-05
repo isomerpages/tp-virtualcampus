@@ -1,8 +1,9 @@
 ---
 title: CCA Fair 2023
-permalink: /events/ccafair2023/
+permalink: /events/ccafair2024/
 description: ""
 third_nav_title: Highlights
+variant: tiptap
 ---
 ## CCA Fair 2023
 

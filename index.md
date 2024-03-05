@@ -26,6 +26,28 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: FRESHMEN ORIENTATION PROGRAMME 2024
+      subtitle: FRESHMEN ORIENTATION PROGRAMME
+      id: infopic
+      description: "Hey Freshies, welcome to the #TPFAM! Get ready for a series of
+        exciting Freshmen Orientation activities to kickstart your TP journey on
+        the right note!"
+      button: DISCOVER THE ACTION!
+      url: /events/freshmen-orientation-programme-2024/
+      alt: Image alt text
+      image: /images/FOP_Page_1920_X_1080px.jpg
+  - infopic:
+      title: TEMASEK REGATTA x SPECTACULAR 2024
+      subtitle: FRESHMEN ORIENTATION PROGRAMME
+      id: infopic
+      description: Wrap up your onboarding experience at this finale programme,
+        featuring exciting dragon boat races, aqua tele-matches, as well as
+        enthralling arts performances!
+      button: BE CAPTIVATED HERE!
+      url: /events/freshmen-orientation-programme-2024/
+      alt: Image alt text
+      image: /images/Temasek_Regatta_Page_1920_X_1080px.jpg
+  - infopic:
       title: POL-ITE & IVP APPRECIATION 2024
       subtitle: LAUDING OUR SPORTING WARRIORS
       id: infopic
@@ -120,15 +142,6 @@ sections:
       url: /events/highlights/tpnationaldayconcert2023/
       image: /images/homepage-images/ndc_2023 .png
       alt: Image alt text
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2023
-      description: Heartiest congratulations to all our deserving recipients of the
-        TSEA 2023!
-      button: FIND THE ROLL OF HONOUR HERE!
-      url: /events/highlights/tsea2023/
-      image: /images/temasek excellence award congrats_2023_homepage.jpg
-      alt: TSEA 2023
-      subtitle: TSEA 2023
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us

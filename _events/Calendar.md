@@ -11,6 +11,40 @@ variant: markdown
 			</tr><tr>
 			<td style="width:35%">
 			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/FOP_Page_1920_X_1080px.jpg?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/freshmen-orientation-programme-2024/"><h4 style="margin-top:0%">Freshmen Orientation Programme 2024</h4></a>
+				<h6 style="margin-top:0%"><i>8-12 April 2024</i></h6>
+				<p style="margin-top:0%">
+
+Hey, Freshies! Congratulations on your successful admission to Temasek Polytechnic and here's wishing you a very warm welcome to the TP Family!
+<br>
+<br>
+The Freshmen Orientation Programme (FOP) occupies a special spot in TP’s calendar, as it celebrates a momentous milestone in your tertiary academic journey. Feeling jittery before the commencement of Polytechnic life? Fret not! TP has lined up an exciting array of activities to help you kickstart your journey on the right note!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr><td style="width:35%">
+			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/Temasek_Regatta_Page_1920_X_1080px.jpg?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/freshmen-orientation-programme-2024/"><h4 style="margin-top:0%">Temasek Regatta x SpecTACular 2024</h4></a>
+				<h6 style="margin-top:0%"><i>12 April 2024</i></h6>
+				<p style="margin-top:0%">
+
+Your freshmen onboarding experience will culminate in a fun afternoon out at the&nbsp;Temasek Regatta x SpecTACular! Held specially to mark the end of your orientation journey and the start of your Polytechnic life, this event also encapsulates the very best of TP’s creative energies, sporting excellence and artistic splendour.
+<br>
+<br>
+Make a splash and have fun in the sun at Temasek Regatta, and be dazzled by our finest arts talents at SpecTACular!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr><td style="width:35%">
+			<br>
 				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/AppreciationDinner_1_(80_of_92).jpg?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
