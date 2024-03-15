@@ -9,7 +9,7 @@ variant: markdown
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="/images/CCA_ac.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club"></td>
+            <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/image.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Adventure Club"></td>
             <td>
                 <p>
                     TP Adventure Club (TPAC) serves to provide TP students with exciting and engaging activities suitable for all skill levels. These activities traverse all terrains, cultures and experiences, which include overseas expeditions, overnight camps, river-scrambling, kayaking, caving, trekking, mountaineering, wildlife/environmental appreciation and other campus-wide experiences. The club also offers collaborations and connections within TP and extending beyond the transnational level. 
