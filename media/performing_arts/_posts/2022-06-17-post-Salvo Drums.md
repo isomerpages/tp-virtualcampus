@@ -4,6 +4,7 @@ title: Salvo Drums
 permalink: /performing-arts/salvo-drums/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -35,9 +36,9 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Temasek Spectacular (2022)</li>
+  <li>Temasek Polytechnic National Day Concert (2023)</li>  
+	<li>Temasek Spectacular (2022)</li>
     <li>DREAMS XII (2022)</li>
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
 </ul>
 
 ##### Achievements
@@ -65,7 +66,6 @@ description: ""
 	<li>
     <a href="mailto:fayanne_tan@tp.edu.sg">Ms Fayanne Tan</a>
 		<br>
-		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
