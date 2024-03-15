@@ -83,50 +83,40 @@ variant: markdown
 </a>
 </td></tr><tr>
 <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/interest-groups/japanese-cultural-group/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/JCG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interest-groups/LEAD-ambassadors/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/LEAD_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interest-groups/nyaa-challenge/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/NYAA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interest-groups/peer-supporters-in-action/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/PSIA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interest-groups/project-innov8/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/PROJECT INNOV8_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interest-groups/senvocates/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/SENVOCATES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interest-groups/toastmasters/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/TOASTMASTERS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr><tr>
+<a href="/interest-groups/japanese-cultural-group/" style="text-decoration: none">
+<img src="/images/Interest Groups/JCG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+</a>
+</td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<a href="/interest-groups/LEAD-ambassadors/" style="text-decoration: none">
+<img src="/images/Interest Groups/LEAD_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
+</a>
+<a href="/interest-groups/nyaa-challenge/" style="text-decoration: none">
+<img src="/images/Interest Groups/NYAA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge">
+</a>
+</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<a href="/interest-groups/peer-supporters-in-action/" style="text-decoration: none">
+<img src="/images/Interest Groups/PSIA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Peer Supporters-in-Action">
+</a>
+</td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<a href="/interest-groups/project-innov8/" style="text-decoration: none">
+<img src="/images/Interest Groups/PROJECT INNOV8_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+</a>
+</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<a href="/interest-groups/senvocates/" style="text-decoration: none">
+<img src="/images/Interest Groups/SENVOCATES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates">
+</a>
+</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<a href="/interest-groups/toastmasters/" style="text-decoration: none">
+<img src="/images/Interest Groups/TOASTMASTERS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
+</a>
+</td></tr><tr>
 					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interest-groups/spirit-of-enterprise/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/SOE_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Spirit of Enterprise">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/interest-groups/visual-arts-and-writing-club/" style="text-decoration: none">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/VAWC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts &amp; Writing Club">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td></tr></tbody></table>
+<a href="/interest-groups/spirit-of-enterprise/" style="text-decoration: none">
+<img src="/images/Interest Groups/SOE_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Spirit of Enterprise">
+</a>
+</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<a href="/interest-groups/visual-arts-and-writing-club/" style="text-decoration: none">
+<img src="/images/Interest Groups/VAWC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts &amp; Writing Club">
+</a>
+</td></tr></tbody></table>
 </div>
