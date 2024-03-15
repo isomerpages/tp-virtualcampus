@@ -21,12 +21,12 @@ variant: markdown
                     <li>Tuesday &amp; Thursday, 4pm</li>
 					<li>Saturday, 8am</li>
                 </ul>
-               <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Nur_Soleha_KAMAL@tp.edu.sg">Ms Nur Soleha Kamal</a><br>
+					<p>
+         <b>CCA Staff Advisor:</b> <a href="mailto:Nur_Soleha_KAMAL@tp.edu.sg">Ms Nur Soleha Kamal</a><br>
                 <br>
-                CCA <a href="https://www.instagram.com/temasekpoly_basketball/">Instagram</a><br>
+                CCA <a href="https://www.instagram.com/tparchery/">Instagram</a><br>
                 <br>
-            <p></p>
+            </p>
         </td>
     </tr>
 </tbody></table>
