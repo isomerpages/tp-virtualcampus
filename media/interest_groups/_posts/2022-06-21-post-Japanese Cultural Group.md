@@ -4,57 +4,61 @@ title: Japanese Cultural Group
 permalink: /interest-groups/japanese-cultural-group/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
-        <tr>
-            <td style="width:45%"><image src="/images/CCA_japanese_cultural_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group"></image></td>
+        <tbody><tr>
+            <td style="width:45%"><img src="/images/CCA_japanese_cultural_group.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group"></td>
             <td>
                 <p>
-                    The Japanese Cultural Group promotes Japanese culture and inculcate life skills such as people management and events management, in a fun and interactive way. Our activities are broad and varied, ranging from Anime and Manga, Arts and Entertainment, Cuisines to Japanese Language and Cultural Research, E-Xchanges with foreign tertiary institutions in Japan and where possible, a Cultural Immersion Trip to Japan. There is certainly something for you with our numerous unique events and weekly sessions.<br>
-                    <br>
+                   The Japanese Cultural Group (JCG) is your gateway to a vibrant world of Japanese culture. JCG offers a blend of fun and interactive activities that promote Japanese traditions and foster essential life skills, such as people and events management. From Anime and Manga to Arts and Entertainment to Cuisines, our diverse range of activities caters to varied interests.<br>
+									<br>We also facilitate E-Xchanges with foreign tertiary institutions in Japan and, when possible, organise Cultural Immersion Trips to Japan. Whether your idea of fun is to sing your heart out with friends over karaoke, explore ramen recipes or draw anime and manga characters – there is something for everyone.<br> 
+                    <br>Join us and embark on an enriching journey into the heart of Japan's rich cultural tapestry!<br>
+									<br>
                     <b>Highlights:</b><br>
-                    We have partnered these organisations and have been involved in their events:<br>
                 </p>
                     <ul>
-                        <li>Ishikawa Prefecture Kanazawa Commercial High School, taking part in an e-exchange programme with their students</li>
-                        <li>Japanese Association of Singapore (JAS), taking part in their annual Sports Carnival and Natsu Matsuri (summer festival)</li>
-                        <li>Shizuoka Prefectural Government Representative Office (registered in Singapore), flying drones at the foot of Mt Fuji – remotely in Singapore</li>
+                        <li>Overseas Study Trip to Kanazawa, Japan (2024)</li>
+                        <li>Physical and E-Xchange with staff and students from Ishikawa Prefecture Kanazawa Commercial High School [KINSHO] (2024)</li>
+                        <li>Annual Sports Carnival and Natsu Matsuri (Summer Festival) organised by Japanese Association of Singapore (2024)</li>
                     </ul>
-                <p>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:chanlj@tp.edu.sg">Mr Leslie Chan</a>, <a href="mailto:Nurulhuda_ADANAN@TP.EDU.SG">Ms Nurulhuda Adanan</a><br>
+							<p>
+                    <b>Meeting Day:</b> Event basis
+                </p><p>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Nurulhuda_ADANAN@TP.EDU.SG">Ms Nurulhuda Adanan</a>, <a href="mailto:LEE_Siang_Jin@TP.EDU.SG">Ms Lee Siang Jin</a>, <a href="mailto:Leslie_CHAN@TP.EDU.SG">Mr Leslie Chan</a> &amp; <a href="mailto:LIM_Lin_Da@TP.EDU.SG">Ms Lim Lin Da</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpjcg">Instagram</a>
                 </p>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
 
 #### Latest Happenings
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CegwXzoPBpX/">
-                <image src="/images/Interest Groups/JCG_Notebook Design Workshop.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <img src="/images/Interest Groups/JCG_Notebook Design Workshop.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
                 <h6 style="margin-top:0%">Notebook Design Workshop</h6>    
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CeBdESLBhgJ/">
-                <image src="/images/Interest Groups/JCG_AE Physical Event (AEPE).png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <img src="/images/Interest Groups/JCG_AE Physical Event (AEPE).png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
                 <h6 style="margin-top:0%">AE Physical Event (AEPE)</h6> 
-                </image>
+                
             </a>
         </td>
         <td style="width:33%"><br>
             <a href="https://www.instagram.com/p/CdQgfBHpa-8/">
-                <image src="/images/Interest Groups/JCG_Gyoza Cookalong.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
+                <img src="/images/Interest Groups/JCG_Gyoza Cookalong.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
                 <h6 style="margin-top:0%">Gyoza Cookalong</h6>
-                </image>
+                
             </a>
         </td>
     </tr>
-</table>
+</tbody></table>
