@@ -43,28 +43,19 @@ variant: markdown
 <img src="/images/Interest Groups/ESA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Student Ambassadors">
 </a>
 	</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<a href="/interest-groups/business-ambassadors/" style="text-decoration: none">
-<img src="/images/Interest Groups/BA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Ambassadors">
-</a>
-</td>
-	<td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<a href="/interest-groups/business-ambassadors/" style="text-decoration: none">
-<img src="/images/Interest Groups/BA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Ambassadors">
-</a>
-</td>
-
-					</tr>
-			<tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/engineering-makers-club/" style="text-decoration: none">
 <img src="/images/Interest Groups/EMC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club">
 </a>
-					</td>
-					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</td>
+	<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/entrepreneurship-club/" style="text-decoration: none">
 <img src="/images/Interest Groups/EC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Club">
 </a>
 </td>
-					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+					</tr>
+
+
+					<tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/fitness-through-science/" style="text-decoration: none">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/FITS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Club">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
