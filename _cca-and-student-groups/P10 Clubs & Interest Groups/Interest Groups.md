@@ -71,6 +71,7 @@ variant: markdown
 					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/ies-student-chapter/" style="text-decoration: none">
 <img src="/images/Interest Groups/IES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Institution of Engineers, Singapore Student Chapter">
+	
 </a>
 </td></tr><tr>
 					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
