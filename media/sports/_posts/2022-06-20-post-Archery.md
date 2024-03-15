@@ -22,7 +22,7 @@ variant: markdown
 					<li>Saturday, 8am</li>
                 </ul>
                <br>
-                <b>CCA Staff Advisor:</b> <a href="Nur_Soleha_KAMAL@tp.edu.sg">Ms Nur Soleha Kamal</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Nur_Soleha_KAMAL@tp.edu.sg">Ms Nur Soleha Kamal</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/temasekpoly_basketball/">Instagram</a><br>
                 <br>
