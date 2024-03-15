@@ -4,6 +4,7 @@ title: Music Vox
 permalink: /performing-arts/music-vox/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -32,8 +33,9 @@ description: ""
 ##### Features
 	
 <ul>
+	<li>Tapestry Arts Festival - 'Our Canvas' (2023)</li>
 	<li>MOE Media Appreciation Dinner (2022)</li>
-	<li>Backstage Pass with Music & Drama Company on Power98 Love Songs (2022)</li>
+	<li>Backstage Pass with Music &amp; Drama Company on Power98 Love Songs (2022)</li>
 	<li>'Full Bloom' LP Launch on Spotify (2022)</li>
 	<li>‘Beginnings’ EP Launch on Spotify (2021)</li>  
 	<li>National Day Observance Ceremony at the MOE HQ (2019)</li>
@@ -44,7 +46,8 @@ description: ""
 ##### Achievements
 	
 <ul>
-	<li>Awarded Temasek Polytechnic’s Arts Group Excellence Award (2019 &amp; 2020)</li>
+	<li>Awarded Temasek Polytechnic's Arts Group of the Year Award (2023)</li>
+	<li>Awarded Temasek Polytechnic’s Arts Group Excellence Award (2019, 2020 &amp; 2022)</li>
 	<li>Awarded Temasek Polytechnic's Arts Group of the Year Award (2016)</li>
 </ul>
 
@@ -55,7 +58,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-	<li>Sectional Training (Once weekly or fortnightly), 6.30pm to 9pm</li>
+	<li>Sectional Training (Once fortnightly or monthly), 6.30pm to 9pm</li>
 	<li>Rehearsal Jamming (Daily, subject to upcoming performances/recording)</li>
 </ul>
 
@@ -64,9 +67,8 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
+		<a href="mailto:nigel_tan@tp.edu.sg">Mr Nigel Tan</a>
 		<br>
-		<i>Senior Executive, Student Development & Alumni Affairs</i>
 	</li>
 </ul>
 
