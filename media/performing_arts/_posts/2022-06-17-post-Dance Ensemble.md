@@ -71,7 +71,7 @@ variant: markdown
 
 <ul>
 	<li>
-		<a href="Fayanne_Tan@tp.edu.sg">Ms Fayanne Tan</a>
+		<a href="mailto:Fayanne_Tan@tp.edu.sg">Ms Fayanne Tan</a>
 </li></ul>
 
 
