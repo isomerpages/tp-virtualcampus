@@ -21,7 +21,7 @@ variant: markdown
                     <li>Champion in the Area S4 Table Topics Competition (2024) </li>
                     <li>Second runner-up in the Area S4 Table Topics Competition (2024)</li>
 							  <li>Second runner-up in the Area S4 International Speech Competition (2024)</li>
-								  <li>Second runner-up in the Area S4 Speech Contest Contest (2021)</li>
+								  <li>Second runner-up in the Area S4 Speech Contest (2021)</li>
 									  <li>Second runner up in the S1/S4 District 80 Table Topics Contest (2020)</li>
 							  <li>Organised and hosted the TP Public Speaking Competition for all TP students (2023)</li>
                     </ul>
