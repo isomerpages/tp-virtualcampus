@@ -15,7 +15,6 @@ variant: markdown
                 <br>
                 <b>Achievements:</b><br>
                 POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team) <br>
-                <br>
              </p><p></p>
             <p>
                 <b>Training Days:</b><br>
