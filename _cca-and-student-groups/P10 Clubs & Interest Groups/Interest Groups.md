@@ -53,8 +53,6 @@ variant: markdown
 </a>
 </td>
 					</tr>
-
-
 					<tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/fitness-through-science/" style="text-decoration: none">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/Interest Groups/FITS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Club">
