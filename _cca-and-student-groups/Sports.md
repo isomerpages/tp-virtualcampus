@@ -62,7 +62,7 @@ ___
 <img src="/images/Sports/JUDO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Judo">
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<img src="/images/Sports/KARATE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Karate">
+<img src="https://hosting.photobucket.com/images/i/tracyng81/Karate.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Karate">
 </td></tr><tr>			
 
 <td style="max-width:33%; vertical-align:bottom; border:none"><br>
