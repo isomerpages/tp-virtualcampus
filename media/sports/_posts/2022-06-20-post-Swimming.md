@@ -24,7 +24,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Wednesday &amp; Friday, 6.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tplsst">Instagram</a>
             </p>
