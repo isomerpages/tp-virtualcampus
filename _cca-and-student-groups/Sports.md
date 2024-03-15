@@ -59,7 +59,7 @@ ___
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/judo/" style="text-decoration: none">
-<img src="/images/Sports/JUDO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Judo">
+<img src="https://hosting.photobucket.com/images/i/tracyng81/JUDO.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Judo">
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/karate/" style="text-decoration: none">
