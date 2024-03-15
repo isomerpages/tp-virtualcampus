@@ -5,41 +5,39 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<h3>CCA Fair 2024</h3>
+<h3><strong>CCA Fair 2024</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Banner_1920px_by_1080px_2.jpg">
+</div>
 <p>Discover your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.</p>
 <p>Life as a TP student can be as exciting, engaging and empowering as you
-want it to be! From 26-27 April 2023, join us to discover the infectious
-Team Temasek spirit and experience campus vibrancy like never before! Take
-your pick from the diverse CCAs offered in TP – ranging from performing
-arts, sports, adventure, community service to entrepreneurship – and lots
-more!</p>
-<p>This year, we are excited to bring back the CCA Fair in a fully physical
-format. What’s more, you can look forward to electrifying performances
-by our arts groups that are sure to enthrall and entertain you!</p>
-<p>And that’s not all! Fancy a great thirst-quenching drink to beat the sweltering
-heat these days? Get your fix from the friendly folks at the Milo van,
-which will make a special appearance at the event on 26 Apr 2023, 11am
-to 2pm!</p>
-<p>So, mark the dates for the CCA Fair 2023 now! See you there!</p>
-<p><em>(Note: Juniors and Seniors are also welcome!)</em>
-</p>
+want it to be! As you prepare to embark on your Polytechnic journey, do
+take time to discover the TP community beyond the academics, and build
+friendships, memories and skills that will last you a lifetime.</p>
+<p>Join us at the&nbsp;<strong>CCA Fair 2024</strong>&nbsp;to create your
+own journey and experience campus vibrancy like never before. Take your
+pick from the diverse CCAs offered in TP – ranging from performing arts,
+sports, adventure, community service to entrepreneurship – and lots more!</p>
+<p>Besides learning more about what makes your dream CCA tick and find out
+if it is indeed the one for you, you can also look forward to captivating
+performances by our arts groups that are sure to entertain.</p>
+<p>Mark the dates for the CCA Fair 2024 now. See you there!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Dates:</strong> 26-27 April 2023</p>
+<p><strong>Dates:</strong>&nbsp;17-18 April 2024</p>
 </li>
 <li>
-<p><strong>Time:</strong> 10am to 4pm</p>
+<p><strong>Time:&nbsp;</strong>11am to 5pm</p>
 </li>
 <li>
-<p><strong>Venue:</strong> The Plaza (Horseshoe area)</p>
+<p><strong>Venue:&nbsp;</strong>The Plaza</p>
 </li>
 </ul>
-<p>Keen to find out more about our CCAs, Clubs and Interest Groups prior
-to the event? Check them out via the links below!</p>
-<p>(If you are unable to attend the CCA Fair, please contact the respective
-Staff Advisors for details on how to sign up or if you have any further
-enquiries.)</p>
+<p><em>(Calling all Juniors and Seniors too! Besides Freshmen, you are also welcome to explore many exciting possibilities at the CCA Fair 2024. Keen to find out more? Check out our CCAs via the links below!)</em>
+</p>
+<p><em>(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)</em>
+</p>
 <table>
 <tbody>
 <tr>
