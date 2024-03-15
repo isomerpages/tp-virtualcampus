@@ -16,7 +16,8 @@ variant: markdown
 <br>
                 </p>
                 <p>
-                    <b>Meeting day:</b> Event Basis<br>
+                    <b>Meeting day:</b> 
+									<br>Event Basis<br>
                 </p><p>
                     <b>CCA Staff Advisor:</b> <a href="mailto:ng_qihui@tp.edu.sg">Ms Ng Qihui</a> &amp; <a href="mailto:Desmond_CK_LIM@TP.EDU.SG">Mr Desmond Lim</a><br>
                     <br>
