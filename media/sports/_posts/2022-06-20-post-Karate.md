@@ -4,6 +4,7 @@ title: Karate
 permalink: /sports/karate/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -15,7 +16,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz Amin</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Tan_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpkarate/">Instagram</a><br>
                 <br>
