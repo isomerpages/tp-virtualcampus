@@ -35,7 +35,7 @@ variant: markdown
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Christina_Chu@tp.edu.sg">Ms Christina Chu</a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/senvocates/">Instagram</a>
+                    CCA <a href="https://www.instagram.com/tp_senvocates/">Instagram</a>
                 </p>
             </td>
         </tr>
