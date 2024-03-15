@@ -54,7 +54,7 @@ variant: markdown
             
 <ul>    
     <li>Monday &amp; Thursday, 6pm to 9pm</li>
-    <li>Additional training days, nearing show day</li>
+    <li>Additional training days as required for productions</li>
 </ul>
 
 
