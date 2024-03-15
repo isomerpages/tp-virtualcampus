@@ -24,7 +24,7 @@ variant: markdown
                     <b>Meeting Day:</b><br>
                     Monthly EXCO meeting / Event Basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="John_LOW@TP.EDU.SG">Mr John Low</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:John_LOW@TP.EDU.SG">Mr John Low</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/soe__tp">Instagram</a>
                 </p>
