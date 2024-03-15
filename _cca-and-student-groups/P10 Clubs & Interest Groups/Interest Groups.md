@@ -55,17 +55,19 @@ variant: markdown
 					</tr>
 					<tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/fitness-through-science/" style="text-decoration: none">
-<img src="/images/Interest Groups/FITS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Club">
+<img src="/images/Interest Groups/FITS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fitness Through Science">
 </a>
-</td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+						</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/global-connect-student-group/" style="text-decoration: none">
 <img src="/images/Interest Groups/GCSG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Student Group">
 </a>
-</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+						</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/green-interest-group/" style="text-decoration: none">
-<img src="/images/Interest Groups/GIG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
+<img src="/images/Interest Groups/GIG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sustainability Interest Group">
 </a>
 </td>
+					</tr>
+					<tr>
 					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/ies-student-chapter/" style="text-decoration: none">
 <img src="/images/Interest Groups/IES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Institution of Engineers, Singapore Student Chapter">
