@@ -16,7 +16,7 @@ want it to be! As you prepare to embark on your Polytechnic journey, do
 take time to discover the TP community beyond the academics, and build
 friendships, memories and skills that will last you a lifetime.</p>
 <p>Join us at the&nbsp;<strong>CCA Fair 2024</strong>&nbsp;to create your
-own journey and experience campus vibrancy like never before. Take your
+own journey and experience campus vibrancy like never before! Take your
 pick from the diverse CCAs offered in TP – ranging from performing arts,
 sports, adventure, community service to entrepreneurship – and lots more!</p>
 <p>Besides learning more about what makes your dream CCA tick and find out
