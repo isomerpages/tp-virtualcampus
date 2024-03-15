@@ -21,7 +21,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Monday &amp; Thursday, 6.30 to 8.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Koh_Wen_Kiat@tp.edu.sg">Mr Koh Wen Kiat</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Koh_Wen_Kiat@tp.edu.sg">Mr Koh Wen Kiat</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpbadminton/">Instagram</a><br>
                 <br>
