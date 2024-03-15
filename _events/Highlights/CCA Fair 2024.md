@@ -34,7 +34,7 @@ performances by our arts groups that are sure to entertain.</p>
 <p><strong>Venue:&nbsp;</strong>The Plaza</p>
 </li>
 </ul>
-<p><em>(Calling all Juniors and Seniors too! Besides Freshmen, you are also welcome to explore many exciting possibilities at the CCA Fair 2024. Keen to find out more? Check out our CCAs via the links below!)</em>
+<p><em>(Calling all Juniors and Seniors! Besides Freshmen, you are also welcome to explore many exciting possibilities at the CCA Fair 2024. Keen to find out more? Check out our CCAs via the links below!)</em>
 </p>
 <p><em>(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)</em>
 </p>
@@ -72,7 +72,7 @@ performances by our arts groups that are sure to entertain.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Diploma_Interest_Groups_copy.jpg">
 </div>
-<p><strong><a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/" rel="noopener noreferrer nofollow" target="_blank">Diploma Interest Groups</a></strong>
+<p><strong><a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/" rel="noopener noreferrer nofollow" target="_blank">Diploma Interest Groups</a></strong> 
 <br>
 </p>
 </td>
