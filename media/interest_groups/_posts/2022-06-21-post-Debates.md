@@ -13,10 +13,13 @@ variant: markdown
             <td>
                 <p>
                    Ever wished you could be more confident in speaking and in persuading others to your point of view? If yes, join TP Debates!<br>
-                    <br>
-                    1.   Learn the art of logic and rhetoric through thrilling, parliamentary-style debating;<br> 
-2.   Expand your knowledge and view of the world as we debate major topics and current affairs;<br>
-3.   Participate in competitions to face off against other like-minded debaters.<br><br>
+									</p>
+                    <ul>
+                        <li>Learn the art of logic and rhetoric through thrilling, parliamentary-style debating</li>
+                        <li>Expand your knowledge and view of the world as we debate major topics and current affairs</li>
+                        <li>Participate in competitions to face off against other like-minded debaters.</li>
+                    </ul>
+                <p>
         TP Debates clinched the championship title in the Inter-Polytechnic Debate Championships 2023, hosted our 3rd Charity Championship 2023, and participated in competitions featuring high level debaters.
         </p><p>
                     <b>Training Days:</b><br>
