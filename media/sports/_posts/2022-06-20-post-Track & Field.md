@@ -14,10 +14,8 @@ variant: markdown
                 Track and field events are divided into three broad categories: track events, field events and combined events. Track events include sprints, middle and long-distance events, hurdles and relays. Field events are grouped into 2 broad categories, jumps and throws. TP Track &amp; Field Team competes in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Track &amp; Field Championship annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                </p>
-                    POL-ITE Games 2023: 3rd Position (Men's Team) &amp; 5th Position (Women’s Team)
-                
-            <p></p>
+                POL-ITE Games 2023: 3rd Position (Men's Team) &amp; 5th Position (Women’s Team)<br>
+            </p><p></p>
             <p>
                 <b>Training Days:</b><br>
                 Monday &amp; Wednesday, 6.30pm<br>
