@@ -15,7 +15,7 @@ variant: markdown
                 <br>
                 <b>Achievements:</b><br>
                 </p><ul>
-                    <li>IVP Games 2023: Gold (Men’s Team), Bronze (Women’s Team) &amp; Gold (Team Overall)</li>
+                    <li>IVP Games AY2023/24: Gold (Men’s Team), Bronze (Women’s Team) &amp; Gold (Team Overall)</li>
                     <li>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
 </li>
                 </ul>
