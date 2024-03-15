@@ -37,7 +37,7 @@ variant: markdown
                     <li>Regular monthly events for members and sub-committees</li>
                 </ul>
                 <p>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong (Advisor)</a>, <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng (Co-advisor)</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:NG_Shin_Leong@TP.EDU.SG">Mr Ng Shin Leong</a> (Main Advisor) &amp; <a href="mailto:CHEN_Yireng@TP.EDU.SG">Ms Chen Yireng</a> (Co-advisor)<br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpec.enspire/">Instagram</a>
                 </p>
