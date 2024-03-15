@@ -94,12 +94,12 @@ ___
 <a href="/sports/sport-climbing/" style="text-decoration: none">
 <img src="/images/Sports/SPORT CLIMBING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
 </a>
-</td></tr><tr>
-					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/swimming/" style="text-decoration: none">
 <img src="/images/Sports/SWIMMING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming">
-</a>
-</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</a></td></tr><tr>	
+
+<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/table-tennis/" style="text-decoration: none">
 <img src="/images/Sports/TABLE TENNIS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
 </a>
@@ -107,12 +107,12 @@ ___
 <a href="/sports/taekwondo/" style="text-decoration: none">
 <img src="/images/Sports/TAEKWONDO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo">
 </a>
-</td></tr><tr>
-					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/tchoukball/" style="text-decoration: none">
 <img src="/images/Sports/TCHOUKBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
-</a>
-</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</a></td></tr><tr>			
+
+<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/tennis/" style="text-decoration: none">
 <img src="/images/Sports/TENNIS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tennis">
 </a>
