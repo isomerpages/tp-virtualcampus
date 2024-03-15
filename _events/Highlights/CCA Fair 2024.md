@@ -6,6 +6,7 @@ third_nav_title: Highlights
 variant: tiptap
 ---
 <h3><strong>CCA Fair 2024</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Banner_1920px_by_1080px_2.jpg">
 </div>
