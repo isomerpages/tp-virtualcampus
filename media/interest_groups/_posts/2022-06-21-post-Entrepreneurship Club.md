@@ -5,11 +5,12 @@ permalink: /interest-groups/entrepreneurship-club/
 date: 2022-06-21
 description: ""
 image: ""
+variant: markdown
 ---
 <div>
     <table>
-        <tr>
-            <td style="width:45%"><image src="/images/Interest Groups/TPEC.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Group"></image></td>
+        <tbody><tr>
+            <td style="width:47%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Entrepreneurship_Group.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Entrepreneurship Group"></td>
             <td>
                 <p>
                     The Temasek Polytechnic Entrepreneurship Club aims to provide a platform to identify, nurture and groom students who possess interest and strength in innovation and entrepreneurship (including social entrepreneurship). Members will be expected to promote entrepreneurial mindset and organise relevant activities such as talks, workshops, competitions, trips and events for their TP peers and the community. Members will also have opportunities to plan, execute and manage entreprenuerial-themed ventures.<br>
@@ -17,10 +18,16 @@ image: ""
                     <b>Achievements:</b><br>
                 </p>
 								<ul>
-									<li>2022 was an eventful year for the Entrepreneurship Group. We witnessed teams (comprising Entrepreneurship Group members) winning the gold and silver placings at the Asean Virtual Entrepreneurship Hackathon 2022. This event was organised by the Passage to Asean Association (P2A), which TP played the part of co-host.</li>
-									<li>We also hosted two social media marketing workshops with Tampines Residency to support homebakers. These workshops were faciliated by members of the Entrepreneurship Group, who also contributed as workshop trainers. </li>
-									<li>The return of the Campus Care Network (CCN) Day 2022 (physical event) provided an opportunity for members to hone their entrepreneurial skills, where students successfully sold hand-crafted flower bouquets and contributed to the CCN Fund. </li>
-									<li>On the fun side of things, the Entrepreneurship Group collaborated with a fellow TP student start-up, SGFishingRigz, to co-organise a fishing appreciation and competition session for TP students in Nov 2022.</li>
+									<li>In 2023, TPEC organised an inter-poly networking event, Entresion #2: Business Launch During Polytechnic Days, where the five polytechnics came together to learn more about entrepreneurship and network with aspiring entrepreneurs from different polytechnics. Students found this event beneficial as they gained new insights from the panel discussion with founders and co-founders of Asmara, Ezcompostr, and Oishii Daily.
+</li>
+									<li>TPEC provided a platform for its members to showcase their entrepreneurship skills by organising the TPEC Bazaar, enabling them to experience being their own boss. Booth holders found this experience fulfilling as they learned to balance costs and profits in running a business, while also having opportunities to expose their businesses to the TP community. It was truly an event created for students, by students!
+</li>
+									<li>Other than emphasising profits solely, TPEC instils members with a spirit of volunteering and social entrepreneurship. This is evident through our TPEC x MINDS Christmas Event, where MINDS trainees joined TPEC for a heartwarming day of song and dance, celebrating the joy of togetherness. This has promoted meaningful connections, inclusivity, and a sense of belonging among MINDS participants.
+</li>
+									<li>TPEC sub-committees also organised wonderful events throughout the year, providing opportunities for members to learn the ropes of running a business. These events include the Resin Magic Workshop, where students learned how to create and decorate a phone case using resin; Paws for a Cause, where our sub-committees designed and sold cute animal keychains to support animals by donating 50% of the project profits to the Society for the Prevention of Cruelty to Animals (SPCA); and lastly, the Twilight event, where students collaborated with TP Stargazers to put together a relaxing evening with games, snacks, and telescopes.
+</li>
+									<li>Besides organising entrepreneurial events, TPEC also sends students for competitions. In 2022, we witnessed teams (comprising Entrepreneurship Group members) winning the gold and silver placings at the Asean Virtual Entrepreneurship Hackathon 2022. This event was organised by the Passage to Asean Association (P2A), which TP played the part of co-host. 
+</li>
 									</ul>
                 <p>    
                     <b>Meeting Day:</b><br>
@@ -36,35 +43,35 @@ image: ""
                 </p>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
 
 #### Latest Happenings
 
 <div>
     <table>
-        <tr>
+        <tbody><tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/Cd-fD_BJ0MS/">
-                    <image src="/images/Interest Groups/EC_Subcommittee Recruitment AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="EC Subcommittee Recruitment AY22/23">
+                    <img src="/images/Interest Groups/EC_Subcommittee Recruitment AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="EC Subcommittee Recruitment AY22/23">
                     <h6 style="margin-top:0%">Subcommittee Recruitment AY22/23</h6>
-                    </image>
+                    
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/Cd55wxrJHJ4/">
-                    <image src="/images/Interest Groups/EC_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Introducing Main Committee AY22/23">
+                    <img src="/images/Interest Groups/EC_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Introducing Main Committee AY22/23">
                     <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-                    </image>
+                    
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CciYi1Jv3UG/">
-                    <image src="/images/Interest Groups/EC_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="CCA Fair 2022">
+                    <img src="/images/Interest Groups/EC_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="CCA Fair 2022">
                     <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                    </image>
+                    
                 </a>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
