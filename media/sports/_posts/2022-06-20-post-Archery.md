@@ -17,12 +17,15 @@ variant: markdown
                 POL-ITE Games 2023: Silver (Men’s Team) &amp; Bronze (Women's Team)<br>
                 <br>
                 <b>Training Days:</b><br>
-                Saturday, 9am<br>
+                </p><ul>
+                    <li>Tuesday &amp; Thursday, 4pm</li>
+					<li>Saturday, 8am</li>
+                </ul>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Pang_Seng_Hui@tp.edu.sg">Ms Pang Seng Hui</a><br>
+                <b>CCA Staff Advisor:</b> <a href="Nur_Soleha_KAMAL@tp.edu.sg">Ms Nur Soleha Kamal</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tparchery">Instagram</a>
-            </p>
+            <p></p>
         </td>
     </tr>
 </tbody></table>
