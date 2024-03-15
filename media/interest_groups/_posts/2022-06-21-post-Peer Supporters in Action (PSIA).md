@@ -29,7 +29,8 @@ variant: markdown
                 <p>
                     All students are welcome to join us in this peer support movement!<br>
                     <br>
-                    <b>Meeting Day:</b> Event basis<br>
+                    <b>Meeting Day:</b> 
+									<br>Event basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Yap_Hui_Ting@tp.edu.sg">Ms Yap Hui Ting</a><br>
                     <br>
