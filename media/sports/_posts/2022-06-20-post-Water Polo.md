@@ -8,7 +8,7 @@ variant: markdown
 ---
 <table>
     <tbody><tr>
-        <td style="width:45%"><img src="/images/Sports/WATER POLO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo"></td>
+        <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Water_Polo.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo"></td>
         <td>
             <p>
                 Water Polo is a physically demanding team water sport played over 4 quarters, consisting of two teams of 6 field players and 1 goalkeeper each. Gameplay involves swimming, handling and passing the ball, and players score by throwing the ball into the goal defended by a goalkeeper. TP Water Polo team competes in the Polytechnic-ITE (POL-ITE) Water Polo Games annually.<br>
@@ -18,7 +18,7 @@ variant: markdown
 <br>
                 <br>
                 <b>Training Days:</b><br>
-                Tuesday &amp; Thursday, 6.30pm<br>
+                Thursday, 7pm<br>
                 <br>
                 <b>CCA Staff Advisor:</b> <a href="mailto:Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
                 <br>
