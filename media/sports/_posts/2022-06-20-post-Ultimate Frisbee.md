@@ -4,6 +4,7 @@ title: Ultimate Frisbee
 permalink: /sports/ultimate-frisbee/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -14,7 +15,7 @@ description: ""
                 <br>
 							<b>Achievements:</b>
 							<br>
-							POL-ITE Games 2022: 4th Position
+							POL-ITE Games 2023: Bronze
 							<br>
 							<br>
                 <b>Training Days:</b><br>
