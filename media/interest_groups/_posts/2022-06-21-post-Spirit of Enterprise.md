@@ -9,7 +9,7 @@ variant: markdown
 <div>
     <table>
         <tbody><tr>
-            <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Spirit_Of_Enterprise_(SOE)-TP_Student_Chapter.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></td>
+            <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Picture1.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></td>
             <td>
                 <p>
                     The Spirit Of Enterprise (SOE)-TP Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
