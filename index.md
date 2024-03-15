@@ -48,6 +48,17 @@ sections:
       alt: Image alt text
       image: /images/Temasek_Regatta_Page_1920_X_1080px.jpg
   - infopic:
+      title: "CCA Fair 2024 "
+      subtitle: EXCITE. ENGAGE. EMPOWER.
+      id: infopic
+      description: Keen to channel the TP spirit and make your days on campus count?
+        Swing by this event to find out how you can be a part of the diverse
+        CCAs offered in TP!
+      button: Create Your Journey!
+      url: /events/ccafair2024/
+      image: /images/CCA_Banner_1920px_by_1080px_FA_copy.jpg
+      alt: Image alt text
+  - infopic:
       title: POL-ITE & IVP Appreciation 2024
       subtitle: LAUDING OUR SPORTING WARRIORS
       id: infopic
