@@ -14,7 +14,7 @@ variant: markdown
                     The Temasek Polytechnic Chinese Orchestra (TPCO) performs Chinese music using various Chinese instruments such as the Yangqin, Erhu and Pipa to explore the world of traditional and contemporary Chinese music.
 					<br>
 					<br>
-                    The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as Band and Music Vox, also ventures out for public performances and overseas exchange programmes.
+                    The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as Band and Music Vox, and also ventures out for public performances and overseas exchange programmes.
 					<br>
 					<br>
 				</p>
