@@ -24,13 +24,13 @@ variant: markdown
 							<li><b>Overseas Exchange Trips:</b> Expand your horizons and explore sustainability efforts around the globe with our overseas exchange trips. Connect with like-minded individuals from different cultures and gain invaluable insights into international environmental initiatives.</li>
 							<li><b>Community Environmental Activities:</b> Make a difference in your local community through hands-on environmental projects and activities. Whether it is tree planting, beach cleanups, or urban gardening, we are committed to creating a cleaner, greener future for all.</li>
 								<p>
-							<br>Joining our interest group is not just about attending events – it is about being part of a supportive and inclusive community that shares your passion for sustainability and climate action. Together, we can drive positive change both on and off campus.<br>
+Joining our interest group is not just about attending events – it is about being part of a supportive and inclusive community that shares your passion for sustainability and climate action. Together, we can drive positive change both on and off campus.<br>
 													<br>Ready to join the movement? Sign up with SIG today and be a part of something bigger than yourself. Together, let's build a more sustainable world for future generations!<br>
 							</p><p>
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="Rita_Woo@TP.EDU.SG">Ms Rita Woo</a> &amp; <a href="Yu_Zhang@tp.edu.sg">Ms Zhang Yu</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Rita_Woo@TP.EDU.SG">Ms Rita Woo</a> &amp; <a href="mailto:Yu_Zhang@tp.edu.sg">Ms Zhang Yu</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpgig">Instagram</a>
 							</p>
