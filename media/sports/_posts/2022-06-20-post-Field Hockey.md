@@ -4,6 +4,7 @@ title: Field Hockey
 permalink: /sports/field-hockey/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -13,7 +14,7 @@ description: ""
                 Field hockey is played on natural grass and artificial turf with a small, hard ball. The game is popular in numerous parts of the world, particularly in Europe, Asia, Australia and New Zealand. In Singapore, the sport is very well supported at the secondary and tertiary levels. TP Hockey teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Hockey Games annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2022: Gold (Men’s Team) &amp; 4th Position (Women's Team)<br>
+                POL-ITE Games 2023: Silver (Men’s Team) &amp; 4th Position (Women's Team)<br>
                 <br>
                 <b>Training Days:</b><br>
                 </p><ul>
