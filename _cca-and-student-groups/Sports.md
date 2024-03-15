@@ -83,7 +83,7 @@ ___
 <img src="/images/Sports/NETBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball">
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/rugby/" style="text-decoration: none">
-<img src="/images/Sports/RUGBY_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Rugby">
+<img src="https://hosting.photobucket.com/images/i/tracyng81/Rugby_uexc8VcYzJJ2CpVWWNNux1.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Rugby">
 </a>
 	</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <img src="/images/Sports/SILAT_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Silat">
