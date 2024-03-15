@@ -83,10 +83,10 @@ ___
 <a href="/sports/rugby/" style="text-decoration: none">
 <img src="/images/Sports/RUGBY_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Rugby">
 </a>
-</td></tr><tr>
-					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+	</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <img src="/images/Sports/SILAT_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Silat">
-
+</td></tr><tr>			
+	<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/soccer/" style="text-decoration: none">
 <img src="/images/Sports/SOCCER_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer">
 </a>
