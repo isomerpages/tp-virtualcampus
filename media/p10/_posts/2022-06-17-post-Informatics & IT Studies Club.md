@@ -4,6 +4,7 @@ title: Informatics & IT Studies Club
 permalink: /p10/informatics-and-it-studies-club/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <div>
     <table>
@@ -23,9 +24,10 @@ description: ""
                     </ul>
                 <p></p>
                 <p>
-                    <b>Meeting day:</b> Event Basis<br>
+                    <b>Meeting day:</b> 
+									<br>Event Basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="Dion_ANG@TP.EDU.SG">Mr Ang Dion Xavier</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Dion_ANG@TP.EDU.SG">Mr Ang Dion Xavier</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/officialiitsc">Instagram</a>
                 </p>
