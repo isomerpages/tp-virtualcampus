@@ -13,7 +13,7 @@ variant: markdown
             <td style="width:45%"><img src="/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></td>
             <td>
                 <p>
-                    Project Innov8 focuses on providing students with the opportunities to learn design thinking-based skills and rapid prototyping, as well as enabling students to refine these skills in inter-disciplinary teams by working on various internal and industry projects. Members of Project Innov8 will be able to fully utilise Makerspace+ in Temasek Launchpad, as well as get certified as a makercoach to teach and help other students with prototyping-based skills.            <br>
+                    Spacehaus (previously known as "Project Innov8") focuses on providing students with the opportunities to learn design thinking-based skills and rapid prototyping, as well as enabling students to refine these skills in inter-disciplinary teams by working on various internal and industry projects. Members of Spacehaus will be able to fully utilise Makerspace+ in Temasek Launchpad, as well as get certified as a makercoach to teach and help other students with prototyping-based skills.            <br>
                     <br>
                     <b>Achievements:</b><br>
                 </p>
@@ -29,7 +29,7 @@ variant: markdown
                     <b>Meeting Day:</b><br>
                     Event &amp; Project basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b><a href="mailto:Nathanael_MAH@tp.edu.sg">Mr Nathanael Mah</a><br>
+                    <b>CCA Staff Advisor:</b><a href="mailto:Thalia_Lam@tp.edu.sg">Ms Thalia Lam</a> &amp; <a href="mailto:Huang_Tengyi@tp.edu.sg">Mr Huang Tengyi</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/projectinnov8/">Instagram</a>
                 </p>
