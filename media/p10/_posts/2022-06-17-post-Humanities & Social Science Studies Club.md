@@ -29,7 +29,8 @@ variant: markdown
 											<li>Local Community Projects</li>
                     </ul>
                 <p>
-                    <b>Meeting Day:</b> Once a Month<br>
+                    <b>Meeting Day:</b> 
+									<br>Once a Month<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Sheena_Kumari_SINGH@tp.edu.sg">Ms Sheena Kumari Singh</a>, <a href="mailto:Miansi_Caroline_LU@tp.edu.sg">Ms Caroline Lu</a> &amp; <a href="mailto:Emil_Cheong@tp.edu.sg">Mr Emil Cheong</a><br>
                     <br>
