@@ -4,13 +4,14 @@ title: Teatro
 permalink: /performing-arts/teatro/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
 		<tr>
 			<td>
 				<p>
-                    Teatro, meaning Theatre in Spanish, is made up of a diverse collective of students who share a passion for performance, drama and ideation. Through high quality "live" productions, filmed scrips and concert narratives, Teatro is always seeking to explore the unknown and push the boundaries of creativity. 
+                    Teatro, meaning Theatre in Spanish, is made up of a diverse collective of students who share a passion for performance, drama and ideation. Through high quality "live" and recorded productions as well as concert narratives, Teatro is always seeking to explore the unknown and push the boundaries of creativity. 
                     <br>
                     <br>
 				</p>
@@ -29,7 +30,13 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>TP National Day Concert 2022 (Creative Direction)</li>
+   <li>"Threads of Connection" Tapestry (2023)</li>
+	<li>"Epiphany" Tapestry Open Concert (Creative Direction) (2023)</li>
+	<li>"Paraverse" (Original devised play, 2023)</li>
+	<li>"Don't Steal Happiness" - Collaboration with Curious Thoughts Giving (2023)</li>
+	<li>TeatroFest "Alice" (AY22/23)</li>
+	<li>"Intramural" (Original devised play, 2022)</li>
+	<li>TP National Day Concert 2022 (Creative Direction)</li>
     <li>"TeatroFest AY2020/21" (Online Triple-bill)</li>
     <li>"The Lift" (2019)</li>
     <li>"Those Who Can't, Teach" (2019)</li>
@@ -46,7 +53,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Wednesday &amp; Friday, 6:30pm to 9pm (On-campus)</li>
+    <li>Monday &amp; Thursday, 6pm to 9pm</li>
     <li>Additional training days, nearing show day</li>
 </ul>
 
@@ -55,9 +62,8 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:magtotod@tp.edu.sg"> Jarmane Denise</a>
+		<a href="mailto:Denise_CABALTERA@tp.edu.sg>"> Ms Denise Cabaltera</a>
 		<br>
-		<i>Executive, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
