@@ -6,23 +6,6 @@ third_nav_title: Highlights
 variant: tiptap
 ---
 <h2>CCA Fair 2024</h2>
-<hr>
-<h4>CCA Trial / Audition / Meeting Dates</h4>
-<p>Thank you for attending the CCA Fair 2023! Please refer to the following
-CCA Trial / Audition / Meeting schedules for the respective groups:</p>
-<p><a href="/files/arts%20groups.pdf" rel="noopener noreferrer nofollow" target="_blank">Arts Groups</a>
-</p>
-<p><a href="/files/sports%20groups.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports Groups</a>
-</p>
-<p><a href="/files/interest%20groups.pdf" rel="noopener noreferrer nofollow" target="_blank">Interest Groups</a>
-</p>
-<hr>
-<p>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qcJwduU7FMg"></iframe>
-</div>
 <p>Discover your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.</p>
 <p>Life as a TP student can be as exciting, engaging and empowering as you
