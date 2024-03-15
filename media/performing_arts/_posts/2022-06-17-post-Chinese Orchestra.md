@@ -4,6 +4,7 @@ title: Chinese Orchestra
 permalink: /performing-arts/chinese-orchestra/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -13,7 +14,7 @@ description: ""
                     The Temasek Polytechnic Chinese Orchestra (TPCO) performs Chinese music using various Chinese instruments such as the Yangqin, Erhu and Pipa to explore the world of traditional and contemporary Chinese music.
 					<br>
 					<br>
-                    The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as CO and String Ensemble and also ventures out for public performances and overseas exchange programmes.
+                    The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as Band and Music Vox, also ventures out for public performances and overseas exchange programmes.
 					<br>
 					<br>
 				</p>
@@ -32,13 +33,11 @@ description: ""
 ##### Features
 	
 <ul>
-		<li>Tapestry: MELODY Music Festival - 87.2 FM Tunes (2023)
+	<li>Chinese Orchestra Concert - Echoes of Time (2024)	
+			</li><li>Magical Autumn XIII (2023)
     </li><li>Temasek Spectacular (2022)</li>
     <li>DREAMS XII (2022)</li>
-    <li>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</li>
     <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
-    <li>Temasek Arts Festival - Temasek Polytechnic Chinese Orchestra Recital: Travelogue (2021)</li>
-    <li>Annual Chinese Orchestra Concerts, Magical Autumn XII (2019)</li>
     <li>NAC Arts In Your Neighbour: Music On The Move (2019)</li>
     <li>HKCO Singapore Tour Campus Concert (2018)</li>
 </ul>
@@ -60,10 +59,7 @@ description: ""
 <ul>
 	<li>
 		<a href="Fayanne_tan@tp.edu.sg">Ms Fayanne Tan</a>
-		<br>
-		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
-	</li>
-</ul>
+</li></ul>
 
 ##### Pages
 
