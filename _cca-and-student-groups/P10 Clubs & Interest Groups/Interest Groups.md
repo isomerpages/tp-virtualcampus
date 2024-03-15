@@ -32,7 +32,13 @@ variant: markdown
 <a href="/interest-groups/design-student-ambassadors/" style="text-decoration: none">
 <img src="/images/Interest Groups/DSA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors">
 </a>
-</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+						</td>
+					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<a href="/interest-groups/ecgambassadors/" style="text-decoration: none">
+<img src="https://hosting.photobucket.com/images/i/tracyng81/ECG_AMBASSADORS.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="ECG Ambassadors">
+</a>
+</td></tr><tr>
+<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/engineering-student-ambassadors/" style="text-decoration: none">
 <img src="/images/Interest Groups/ESA_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Student Ambassadors">
 </a>
