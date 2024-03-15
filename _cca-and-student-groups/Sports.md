@@ -126,12 +126,12 @@ ___
 <a href="/sports/ultimate-frisbee/" style="text-decoration: none">
 <img src="/images/Sports/ULTIMATE FRISBEE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
 </a>
-</td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none">
+</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/volleyball/" style="text-decoration: none">
-<img src="/images/Sports/VOLLEYBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
-</a></td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<img src="/images/Sports/VOLLEYBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
+		</a></td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/water-polo/" style="text-decoration: none">
-<img src="/images/Sports/WATER POLO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
+<img src="/images/Sports/WATER POLO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track &amp; Field">
 </a>
 </td></tr></tbody></table>
 </div>
