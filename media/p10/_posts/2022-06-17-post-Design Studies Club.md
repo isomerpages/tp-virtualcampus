@@ -16,7 +16,7 @@ variant: markdown
                     <br>
                     The events and activities run through-out the entire academic year. On average, DSC runs about 15 events or activities per academic year.<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Joshua_Lim@TP.EDU.SG">Mr Joshua Lim</a> and <a href="Julian_SIAU@TP.EDU.SG">Mr Julian Siau</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Joshua_Lim@TP.EDU.SG">Mr Joshua Lim</a> &amp; <a href="mailto:Julian_SIAU@TP.EDU.SG">Mr Julian Siau</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/designstudiesclub">Instagram</a>
                 </p>
