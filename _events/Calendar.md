@@ -19,8 +19,12 @@ variant: markdown
 				<p style="margin-top:0%">
 
 Discover your passion. Unleash your creativity. Forge lasting friendships. Maximise your fun.
-
-Life as a TP student can be as exciting, engaging and empowering as you want it to be! Join us at the&nbsp;CCA Fair 2024&nbsp;to create your own journey and experience campus vibrancy like never before. Mark the dates now!
+<br>
+					<br>
+Life as a TP student can be as exciting, engaging and empowering as you want it to be! As you prepare to embark on your Polytechnic journey, do take time to discover the TP community beyond the academics, and build friendships, memories and skills that will last you a lifetime. 
+					<br>
+					<br>
+					Join us at the&nbsp;CCA Fair 2024 and take your pick from the diverse CCAs offered in TP. See you there!
 <br><br>
 			<br>
 		</p></td>
