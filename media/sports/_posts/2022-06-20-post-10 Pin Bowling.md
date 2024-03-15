@@ -21,7 +21,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Tuesday &amp; Wednesday, 8pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Sheena_Wang@tp.edu.sg">Ms Sheena Wang</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Sheena_Wang@tp.edu.sg">Ms Sheena Wang</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp.bowling/">Instagram</a><br>
                 <br>
