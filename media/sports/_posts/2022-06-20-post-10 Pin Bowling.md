@@ -14,10 +14,7 @@ variant: markdown
                 In recent years, this popular sport has gained a strong following in Singapore among secondary and tertiary students. Similarly, the TP Bowling Team (Men &amp; Women) attracts all levels of bowlers, and our best bowlers compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Games annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                </p><ul>
-                    <li>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team) 
- </li>
-                </ul>
+                </p>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team) 
              <p></p>
             <p>
                 <b>Training Days:</b><br>
