@@ -5,73 +5,96 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-## CCA Fair 2023
-
-
+<h2>CCA Fair 2024</h2>
 <hr>
-
-#### CCA Trial / Audition / Meeting Dates
-
-Thank you for attending the CCA Fair 2023! Please refer to the following CCA Trial / Audition / Meeting schedules for the respective groups:
-
-
-<a target="_blank" href="/files/arts%20groups.pdf">Arts Groups</a>
-
-<a target="_blank" href="/files/sports%20groups.pdf">Sports Groups</a>
-
-<a target="_blank" href="/files/interest%20groups.pdf">Interest Groups</a>
-
+<h4>CCA Trial / Audition / Meeting Dates</h4>
+<p>Thank you for attending the CCA Fair 2023! Please refer to the following
+CCA Trial / Audition / Meeting schedules for the respective groups:</p>
+<p><a href="/files/arts%20groups.pdf" rel="noopener noreferrer nofollow" target="_blank">Arts Groups</a>
+</p>
+<p><a href="/files/sports%20groups.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports Groups</a>
+</p>
+<p><a href="/files/interest%20groups.pdf" rel="noopener noreferrer nofollow" target="_blank">Interest Groups</a>
+</p>
 <hr>
-
+<p>
 <br>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qcJwduU7FMg" height="400" width="100%"></iframe>
-
-Discover your passion. Unleash your creativity. Forge lasting friendships. Maximise your fun. 
-
-Life as a TP student can be as exciting, engaging and empowering as you want it to be! From 26-27 April 2023, join us to discover the infectious Team Temasek spirit and experience campus vibrancy like never before! Take your pick from the diverse CCAs offered in TP – ranging from performing arts, sports, adventure, community service to entrepreneurship – and lots more! 
-
-This year, we are excited to bring back the CCA Fair in a fully physical format. What’s more, you can look forward to electrifying performances by our arts groups that are sure to enthrall and entertain you! 
-
-And that’s not all! Fancy a great thirst-quenching drink to beat the sweltering heat these days? Get your fix from the friendly folks at the Milo van, which will make a special appearance at the event on 26 Apr 2023, 11am to 2pm!
-
-So, mark the dates for the CCA Fair 2023 now! See you there!
-
-_(Note: Juniors and Seniors are also welcome!)_
-
-
-* **Dates:** 26-27 April 2023
-* **Time:** 10am to 4pm
-* **Venue:** The Plaza (Horseshoe area)
-
-Keen to find out more about our CCAs, Clubs and Interest Groups prior to the event? Check them out via the links below!
-
-
-(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)
-
+</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qcJwduU7FMg"></iframe>
+</div>
+<p>Discover your passion. Unleash your creativity. Forge lasting friendships.
+Maximise your fun.</p>
+<p>Life as a TP student can be as exciting, engaging and empowering as you
+want it to be! From 26-27 April 2023, join us to discover the infectious
+Team Temasek spirit and experience campus vibrancy like never before! Take
+your pick from the diverse CCAs offered in TP – ranging from performing
+arts, sports, adventure, community service to entrepreneurship – and lots
+more!</p>
+<p>This year, we are excited to bring back the CCA Fair in a fully physical
+format. What’s more, you can look forward to electrifying performances
+by our arts groups that are sure to enthrall and entertain you!</p>
+<p>And that’s not all! Fancy a great thirst-quenching drink to beat the sweltering
+heat these days? Get your fix from the friendly folks at the Milo van,
+which will make a special appearance at the event on 26 Apr 2023, 11am
+to 2pm!</p>
+<p>So, mark the dates for the CCA Fair 2023 now! See you there!</p>
+<p><em>(Note: Juniors and Seniors are also welcome!)</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Dates:</strong> 26-27 April 2023</p>
+</li>
+<li>
+<p><strong>Time:</strong> 10am to 4pm</p>
+</li>
+<li>
+<p><strong>Venue:</strong> The Plaza (Horseshoe area)</p>
+</li>
+</ul>
+<p>Keen to find out more about our CCAs, Clubs and Interest Groups prior
+to the event? Check them out via the links below!</p>
+<p>(If you are unable to attend the CCA Fair, please contact the respective
+Staff Advisors for details on how to sign up or if you have any further
+enquiries.)</p>
 <table>
-    <tbody><tr>
-        <td style="width:50%"><br> 
-            <a href="/cca-and-student-groups/performing-arts/">
-                <img src="/images/Buttons/Performing Arts v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Arts">                
-            </a>
-        </td>
-        <td style="width:50%"><br>
-            <a href="/cca-and-student-groups/sports/">
-                <img src="/images/Buttons/Sports v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports">
-                           </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="width:50%"><br>
-            <a href="/cca-and-student-groups/p10-and-interest-groups/p10-clubs/">
-                <img src="/images/Buttons/P10 &amp; IG v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="P10IG">                
-            </a>
-        </td>
-        <td style="width:50%"><br>
-            <a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/">
-                <img src="/images/Buttons/Diploma Interest Groups-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SchoolIG">                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Arts" src="/images/Buttons/Performing Arts v2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Sports" src="/images/Buttons/Sports v2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="P10IG" src="/images/Buttons/P10 &amp; IG v2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="SchoolIG" src="/images/Buttons/Diploma Interest Groups-01.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
