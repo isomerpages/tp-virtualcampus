@@ -48,7 +48,7 @@ sections:
       alt: Image alt text
       image: /images/Temasek_Regatta_Page_1920_X_1080px.jpg
   - infopic:
-      title: POL-ITE & IVP APPRECIATION 2024
+      title: POL-ITE & IVP Appreciation 2024
       subtitle: LAUDING OUR SPORTING WARRIORS
       id: infopic
       description: To mark the end of the competitive sports season, we celebrated the
