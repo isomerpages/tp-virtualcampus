@@ -19,7 +19,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Tuesday &amp; Thursday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/temasekpolyrugby">Instagram</a>
             </p>
