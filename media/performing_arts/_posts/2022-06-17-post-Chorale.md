@@ -4,6 +4,7 @@ title: Chorale
 permalink: /performing-arts/chorale/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -35,7 +36,8 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Tapestry: MELODY Music Festival - EVOS VII - Reflection (2023)</li>
+  <li>Tapestry Arts Festival - Our Canvas - Supernova (2023)</li>  
+	<li>Tapestry: MELODY Music Festival - EVOS VII - Reflection (2023)</li>
     <li>A Renaissance by Singapore Lyric Opera Youth Chorus (2022)
 </li>     
     <li> Community Chest Christmas On A Great Street Light-Up Ceremony (2022)</li>
@@ -47,7 +49,7 @@ description: ""
 ##### Achievements
 	
 <ul>
-    <li>First and Second Prize at Golden Voices at Montserrat, Spain (2016)</li>      
+    <li>First &amp; Second Prize at Golden Voices at Montserrat, Spain (2016)</li>      
 </ul>
 
 <hr>
@@ -65,11 +67,8 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
-		<br>
-		<i>Senior Executive, Student Development &amp; Alumni Affairs</i>
-	</li>
-</ul>
+		<a href="mailto:nigel_tan@tp.edu.sg">Mr Nigel Tan</a>
+</li></ul>
 
 ##### Pages
 
