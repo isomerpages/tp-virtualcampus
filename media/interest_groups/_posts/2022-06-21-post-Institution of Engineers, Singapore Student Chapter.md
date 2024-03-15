@@ -4,6 +4,7 @@ title: Institution of Engineers, Singapore Student Chapter
 permalink: /interest-groups/ies-student-chapter/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
@@ -23,7 +24,7 @@ description: ""
                     <b>Meeting Day:</b><br>
                     Once a month<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="Fang_HU@tp.edu.sg">Ms Hu Fang</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Fang_HU@tp.edu.sg">Ms Hu Fang</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/iestemasekpoly">Instagram</a>
                 </p>
