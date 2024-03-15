@@ -20,7 +20,7 @@ variant: markdown
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:kinghar@tp.edu.sg">Ms Lily Lim</a> and <a href="Eunice_CHUA@tp.edu.sg">Ms Eunice Chua </a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Lily_Lim@tp.edu.sg">Ms Lily Lim</a> and <a href="mailto:Eunice_CHUA@tp.edu.sg">Ms Eunice Chua </a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tp_iprs">Instagram</a>
                 </p>
