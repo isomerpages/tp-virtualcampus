@@ -29,7 +29,7 @@ variant: markdown
                     <b>Meeting Day:</b><br>
                     Event &amp; Project basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b><a href="mailto:Thalia_Lam@tp.edu.sg">Ms Thalia Lam</a> &amp; <a href="mailto:Huang_Tengyi@tp.edu.sg">Mr Huang Tengyi</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Thalia_Lam@tp.edu.sg">Ms Thalia Lam</a> &amp; <a href="mailto:Huang_Tengyi@tp.edu.sg">Mr Huang Tengyi</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/projectinnov8/">Instagram</a>
                 </p>
