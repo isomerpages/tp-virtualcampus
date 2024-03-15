@@ -35,14 +35,8 @@ variant: markdown
                     Event basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b>
-									<br>
-									</p><ul>
-										<li>General: <a href="mailto:metrat@tp.edu.sg">Mr Cedric Metrat-Depardon</a>, <a href="mailto:Leslie_CHAN@TP.EDU.SG">Mr Leslie Chan</a><br></li>
-										<li>UNSDG &amp; Sustainability: <a href="mailto:Yu_ZHANG@tp.edu.sg">Ms Zhang Yu</a>, <a href="mailto:LEE_Siang_Jin@TP.EDU.SG">Ms Lee Siang Jin</a><br></li>
-										<li>Diversity &amp; Inclusion: <a href="mailto:TING_Lee_Hoon@TP.EDU.SG">Ms Ting Lee Hoon</a><br></li>
-										<li>Arts, Culture, Heritage: <a href="mailto:LIM_Lin_Da@TP.EDU.SG">Ms Lim Lin Da</a><br></li>
-							</ul>
-										<p>
+									<a href="mailto:Leslie_Chan@tp.edu.sg">Mr Leslie Chan</a>, <a href="mailto:Ruhi_LAL@tp.edu.sg">Ms Ruhi Lal</a> &amp; <a href="mailto:Lim_Lin_Da@tp.edu.sg">Ms Lim Lin Da</a><br>
+                    <br>
                     CCA <a href="https://www.instagram.com/TP.GCSG">Instagram</a>
 							</p>
                 <p></p>
