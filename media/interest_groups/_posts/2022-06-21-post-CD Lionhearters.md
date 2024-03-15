@@ -4,6 +4,7 @@ title: CD Lionhearters
 permalink: /interest-groups/cd-lionhearters/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
@@ -24,7 +25,7 @@ description: ""
                     <b>Training Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="LYE_Khim_Fatt@TP.EDU.SG">Mr Lye Khim Fatt</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:LYE_Khim_Fatt@TP.EDU.SG">Mr Lye Khim Fatt</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpcdlionhearters">Instagram</a>
                 </p>
