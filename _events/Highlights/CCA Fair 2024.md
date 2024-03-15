@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<h2>CCA Fair 2024</h2>
+<h3>CCA Fair 2024</h3>
 <p>Discover your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.</p>
 <p>Life as a TP student can be as exciting, engaging and empowering as you
