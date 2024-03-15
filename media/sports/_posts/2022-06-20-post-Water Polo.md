@@ -4,6 +4,7 @@ title: Water Polo
 permalink: /sports/water-polo/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -19,7 +20,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Tuesday &amp; Thursday, 6.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/temasekwaterpolo/">Instagram</a>
             </p>
