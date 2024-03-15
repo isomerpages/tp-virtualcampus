@@ -15,7 +15,7 @@ variant: markdown
                 <br>
                 <b>Achievements:</b><br>
                 </p><ul>
-                    <li>IVP Games 2023: 4th Position</li>
+                    <li>IVP Games AY2023/24: 4th Position</li>
                     <li>POL-ITE Games 2023: Gold</li>
                 </ul>
             <p></p>
