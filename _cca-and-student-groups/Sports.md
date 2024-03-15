@@ -80,7 +80,7 @@ ___
 </a></td></tr><tr>			
 
 <td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<a href="/netball/" style="text-decoration: none">
+<a href="/sports/netball/" style="text-decoration: none">
 	<img src="/images/Sports/NETBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball">
 </a></td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/rugby/" style="text-decoration: none">
