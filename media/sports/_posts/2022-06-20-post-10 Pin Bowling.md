@@ -4,6 +4,7 @@ title: 10 Pin Bowling
 permalink: /sports/10-pin-bowling/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -14,9 +15,8 @@ description: ""
                 <br>
                 <b>Achievements:</b><br>
                 </p><ul>
-                    <li>IVP Games 2022: Gold (Men’s Team) &amp; Bronze (Women’s Team)</li>
-                    <li>POL-ITE Games 2022: Gold (Men’s Team) &amp; Bronze (Women’s Team) 
-</li>
+                    <li>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team) 
+ </li>
                 </ul>
              <p></p>
             <p>
