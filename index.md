@@ -81,7 +81,7 @@ sections:
       alt: Image alt text
       subtitle: TP CCA Scholarships AY2023/24
   - infopic:
-      title: POL-ITE GAMES 2023
+      title: POL-ITE Games 2023
       subtitle: Polytechnic-ITE Games 2023
       id: infopic
       description: Huge kudos to our committed student-athletes, who flew the TP flag
