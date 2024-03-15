@@ -23,7 +23,7 @@ variant: markdown
                 </ul>
             <p></p>
             <p>
-               <b>CCA Staff Advisor:</b> <a href="Pang_Seng_Hui@tp.edu.sg">Ms Pang Seng Hui</a> &amp; <a href="mailto:Sheena_Wang@tp.edu.sg">Ms Sheena Wang<br>
+               <b>CCA Staff Advisor:</b> <a href="mailto:Pang_Seng_Hui@tp.edu.sg">Ms Pang Seng Hui</a> &amp; <a href="mailto:Sheena_Wang@tp.edu.sg">Ms Sheena Wang<br>
                <br>
                CCA </a><a href="https://www.instagram.com/tp_tennis">Instagram</a>
             </p>
