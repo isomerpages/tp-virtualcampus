@@ -83,7 +83,6 @@ variant: markdown
 	</td>
 					</tr>
 					<tr>
-						
 					<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/international-students-group/" style="text-decoration: none">
 <img src="/images/Interest Groups/ISG_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="International Students Group">
