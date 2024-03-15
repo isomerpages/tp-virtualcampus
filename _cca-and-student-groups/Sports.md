@@ -111,7 +111,6 @@ ___
 <a href="/sports/tchoukball/" style="text-decoration: none">
 <img src="/images/Sports/TCHOUKBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tchoukball">
 </a></td></tr><tr>			
-
 <td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/tennis/" style="text-decoration: none">
 <img src="/images/Sports/TENNIS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Tennis">
@@ -119,24 +118,18 @@ ___
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/touch-football/" style="text-decoration: none">
 <img src="/images/Sports/TOUCH FOOTBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Touch Football">
-</a>
-</td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+	</a></td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/track-and-field/" style="text-decoration: none">
 <img src="/images/Sports/TRACK &amp; FIELD_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Track &amp; Field">
-</a>
-</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<a href="/sports/triathlon/" style="text-decoration: none">
-<img src="/images/Sports/TRIATHLON_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Triathlon">
-</a>
-</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</a></td></tr><tr>		
+	<td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/ultimate-frisbee/" style="text-decoration: none">
 <img src="/images/Sports/ULTIMATE FRISBEE_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
 </a>
-</td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</td></tr><tr><td style="max-width:33%; vertical-align:bottom; border:none">
 <a href="/sports/volleyball/" style="text-decoration: none">
 <img src="/images/Sports/VOLLEYBALL_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball">
-</a>
-</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</a></td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/water-polo/" style="text-decoration: none">
 <img src="/images/Sports/WATER POLO_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Water Polo">
 </a>
