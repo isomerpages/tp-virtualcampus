@@ -20,9 +20,10 @@ ___
 <img src="/images/Sports/BOWLING_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<img src="https://hosting.photobucket.com/images/i/tracyng81/Aikido.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido">
+<a href="/sports/aikido/" style="text-decoration: none">
+	<img src="https://hosting.photobucket.com/images/i/tracyng81/Aikido.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Aikido">
 
-</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+</a></td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/sports/archery/" style="text-decoration: none">
 <img src="/images/Sports/ARCHERY_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Archery">
 </a>
