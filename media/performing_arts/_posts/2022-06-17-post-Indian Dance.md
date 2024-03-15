@@ -4,19 +4,17 @@ title: Indian Dance
 permalink: /performing-arts/indian-dance/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
 		<tr>
 			<td>
 				<p>
-                    Temasek Polytechnic Indian Dance Group (TPIDG) trains in various dance forms, such as Bharatha-Natyam, Bollywood, folk and other semi-classical Indian dance forms.
+                   Temasek Polytechnic Indian Dance Group (TPIDG) delves into an array of Indian dance styles, ranging from the graceful Bharatanatyam to the spirited rhythms of Bollywood. Under the esteemed guidance of Mrs Premela Balakrishnan, Director of Rudram Arts, our dedicated dancers blend tradition with innovation to captivate audiences both within our school community and on larger stages. 
                     <br>
 					<br>
-					Under the guidance of Mrs Premela Balakrishnan, Director of Rudram Arts, TPIDG has been featured in both school performances and various external performances, such as the 2022 Lisha Women’s Wing 10th Anniversary Celebrations: 200th Event, where President Halimah Yacob was the Guest of Honour. 
-					<br>
-					<br>
-Besides promoting and showcasing the colourful and enthralling Indian Dance forms through their charming performances, TPIDG also aims to provide a space to forge new friendships and encourage individual development of good values, which will remain in members throughout their future endeavours.
+We take immense pride in showcasing our talents at high-profile events such as the WorldSkills ASEAN Opening Ceremony, graced by former President Mdm Halimah Yacob in 2023. From school functions to prestigious gatherings, TPIDG consistently demonstrates a commitment to the art of dance and excellence in performance. Join us in this journey of cultural celebration and artistic expression, where every step tells a story and every movement resonates with passion.
 <br>
 					<br>
 				</p>
@@ -35,19 +33,15 @@ Besides promoting and showcasing the colourful and enthralling Indian Dance form
 ##### Features
 	
 <ul>
-    <li>21st IUFoST World Congress of Food Science &amp; Technology: Gala Dinner (2022)</li>
-    <li>Lisha Women’s Wing 10th Anniversary Celebrations: 200th Event (GOH: President Halimah Yacob, 2022)</li>  
-    <li>Staff Appreciation Day (2022)</li>
-    <li>Tapestry Move (2022)</li>
+   <li>WorldSkills ASEAN Opening Ceremony (GOH: Former President Halimah Yacob, 2023)</li> 
+	<li>Match for Life (2023)</li>
+	<li>RP Momentum x TP IDG (2023)</li>
+	<li>GOPIO Gala Dinner x IDG (2023)</li>
+	<li>21st IUFoST World Congress of Food Science &amp; Technology: Gala Dinner (2022)</li>
+    <li>Lisha Women’s Wing 10th Anniversary Celebrations: 200th Event (GOH: Former President Halimah Yacob, 2022)</li>  
     <li>Tapestry Move: Lit! Concert (Organised by TPIDG, 2022)</li>
-    <li>Cultural Museum (2022)</li>
     <li>NUS Tamil Language Society Production (2022)
 </li>
-    <li>International Day for Older Persons Virtual Celebration with RSVP Singapore (2021)</li>  
-	<li>TP National Day Celebrations Concert (2021)</li>
-	<li>Temasek Arts Festival - Dwi-Rasa: Aaruyire (2021)</li>
-	<li>Electric Dreams (2020)</li>
-	<li>Sunset Showcase: Move It (2019)</li>
 </ul>
 
 <hr>
@@ -66,11 +60,9 @@ Besides promoting and showcasing the colourful and enthralling Indian Dance form
 
 <ul>
 	<li>
-		<a href="mailto:jasmine_leong@tp.edu.sg">Ms Jasmine Leong</a>
+		<a href="mailto:Giles_RAQUIZA@tp.edu.sg">Mr Giles Raquiza</a>
 		<br>
-		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
-	</li>
-</ul>
+</li></ul>
 
 ##### Pages
 
