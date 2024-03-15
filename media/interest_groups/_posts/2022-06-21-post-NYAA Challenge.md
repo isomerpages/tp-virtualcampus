@@ -4,14 +4,17 @@ title: NYAA Challenge
 permalink: /interest-groups/nyaa-challenge/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="/images/CCA_nyaa_challenge.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge"></td>
+            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/NYAA_Challenge.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="NYAA Challenge"></td>
             <td>
                 <p>
-                    The National Youth Achievement Award (NYAA) is a prestigious award that is recognised in many countries including Singapore. TP NYAA Challenge Interest Group aims to help Gold Award Participants (GAPs) in the completion of the NYAA (Gold) by organising activities that meet the following criteria:<br>
+                    The National Youth Achievement Award (NYAA) Is one of the premier youth development programmes in Singapore. Officially launched on 9 May 1992 by the President of the Republic of Singapore, the NYAA Programme aims to encourage young people between the ages of 13 and 30 years to develop personal qualities of self-reliance, perseverance and a sense of responsibility to themselves, to society and to the nation.<br>
+									<br>
+The TP NYAA Challenge Interest Group is dedicated to support all Gold Award Participants (GAPs) in the successful completion of the prestigious NYAA (Gold) by orchestrating a diverse array of activities meticulously designed to fulfill the following four components:<br>
                 </p>
                     <ol>
                         <li>Healthy Living</li>
@@ -19,10 +22,14 @@ description: ""
                         <li>Service Learning</li>
                         <li>Community Leadership Initiative</li>
                     </ol>
+							<br>
+Stay connected and informed about the latest developments, events and initiatives by following us on Instagram and Telegram (links below)!
                 <p>
-                    <b>CCA Staff Advisor:</b> <a href="Simon_CHEW@TP.EDU.SG">Mr Simon Chew</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Simon_CHEW@TP.EDU.SG">Mr Simon Chew</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpnyaa">Instagram</a>
+									<br>
+                    CCA <a href="https://t.me/+hSAtHDMSQGplZmI9">Telegram</a>
                 </p>
             </td>
         </tr>
