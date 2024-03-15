@@ -106,7 +106,6 @@ variant: markdown
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 	<a href="/interest-groups/senvocates/" style="text-decoration: none">
-</a><a href="href=" style="text-decoration: none">
 <img src="/images/Interest Groups/SENVOCATES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates">
 </a>
 </td></tr><tr>
@@ -116,7 +115,7 @@ variant: markdown
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/toastmasters/" style="text-decoration: none">
-<img src="/images/Interest Groups/TOASTMASTERS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">																																																												
+<img src="/images/Interest Groups/TOASTMASTERS_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">																																																									
 </a></td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/visual-arts-and-writing-club/" style="text-decoration: none">
 <img src="/images/Interest Groups/VAWC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts &amp; Writing Club">
