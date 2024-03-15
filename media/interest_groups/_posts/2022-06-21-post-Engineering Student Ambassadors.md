@@ -4,6 +4,7 @@ title: Engineering Student Ambassadors
 permalink: /interest-groups/engineering-student-ambassadors/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
@@ -15,7 +16,7 @@ description: ""
                     <br>
                     Ambassadors take turns to support outreach activities to promote the School of Engineering to secondary school students.<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="Andrew_THAM@TP.EDU.SG">Mr Andrew Tham</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="Andrew_THAM@TP.EDU.SG">Mr Andrew Tham</a> &amp; <a href="Goh_Qiu_Ting@TP.EDU.SG">Ms Goh Qiu Ting</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpeng_sa">Instagram</a>
                 </p>
