@@ -4,6 +4,7 @@ title: Fusion Percussion
 permalink: /performing-arts/fusion-percussion/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -59,9 +60,8 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
+		<a href="mailto:nigel_tan@tp.edu.sg">Mr Nigel Tan</a>
 		<br>
-		<i>Senior Executive, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
