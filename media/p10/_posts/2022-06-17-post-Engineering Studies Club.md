@@ -25,8 +25,8 @@ These events include (not limited to):
 										<li>End of Academic Year event (i.e. ENG Inter-Diploma Sports Day)</li>
 							</ul>
 							<p>
-                    <br>
-                    <b>Meeting Day:</b> Event Basis<br>
+                    <b>Meeting Day:</b> 
+								<br>Event Basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:YONG_Sheng_Ming@tp.edu.sg">Mr Tyler Yong</a><br>
                     <br>
