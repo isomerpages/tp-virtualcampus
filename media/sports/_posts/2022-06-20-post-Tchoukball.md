@@ -19,7 +19,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Tuesday &amp; Friday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz Amin</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz Amin</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tptchouk">Instagram</a>
             </p>
