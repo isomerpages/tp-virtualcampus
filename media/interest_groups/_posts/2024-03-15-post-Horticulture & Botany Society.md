@@ -22,7 +22,7 @@ We also offer a wealth of opportunities for members to participate in outreach p
 Regardless of your skill level, there is a place for you here in this interest group!
 <br>
 									<br>
-									<b>Meeting Day:</b> Wednesday, 6pm<br> 
+									<b>Meeting Day:</b><br> Wednesday, 6pm<br> 
 									<br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Shruti_PILARE@TP.EDU.SG">Ms Shruti Pilare</a>, <a href="mailto:Kadamb_PATEL@TP.EDU.SG">Mr Kadamb Patel</a> &amp; <a href="mailto:Ganapathy_Rajaseger@tp.edu.sg">Mr Rajaseger Ganapathy</a><br>
                     <br>
