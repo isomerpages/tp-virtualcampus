@@ -8,7 +8,7 @@ variant: markdown
 ---
 <table>
     <tbody><tr>
-        <td style="width:45%"><img src="/images/Sports/TAEKWONDO.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo"></td>
+        <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Taekwondo.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Taekwondo"></td>
         <td>
             <p>
                 Taekwondo is the oldest Korean martial art and is still included in the Korean military training today. Taekwondo competitions involve poomsae, a set of defined pattern defence and attack techniques, and kyorugi, which involves sparring with an opponent. TP Taekwondo Team competes in the Polytechnic-ITE (POL-ITE) Taekwondo Games and external competitions annually.<br>
