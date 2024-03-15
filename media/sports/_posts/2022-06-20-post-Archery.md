@@ -4,6 +4,7 @@ title: Archery
 permalink: /sports/archery/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -13,7 +14,7 @@ description: ""
                 Competitive archery involves shooting arrows at a target for accuracy over several set distances. TP Archery Team competes in the Polytechnic-ITE (POL-ITE) Archery Games and external competitions annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2022: Gold (Men’s Team) &amp; 5th Position (Women's Team)<br>
+                POL-ITE Games 2023: Silver (Men’s Team) &amp; Bronze (Women's Team)<br>
                 <br>
                 <b>Training Days:</b><br>
                 Saturday, 9am<br>
