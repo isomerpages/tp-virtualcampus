@@ -26,7 +26,7 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: FRESHMEN ORIENTATION PROGRAMME 2024
+      title: Freshmen Orientation Programme 2024
       subtitle: FRESHMEN ORIENTATION PROGRAMME
       id: infopic
       description: "Hey Freshies, welcome to the #TPFAM! Get ready for a series of
