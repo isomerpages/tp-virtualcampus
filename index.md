@@ -37,7 +37,7 @@ sections:
       alt: Image alt text
       image: /images/FOP_Page_1920_X_1080px.jpg
   - infopic:
-      title: TEMASEK REGATTA x SPECTACULAR 2024
+      title: Temasek Regatta x SpecTACular 2024
       subtitle: FRESHMEN ORIENTATION PROGRAMME
       id: infopic
       description: Wrap up your onboarding experience at this finale programme,
