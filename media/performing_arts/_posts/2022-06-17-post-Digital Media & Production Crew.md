@@ -38,7 +38,7 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
 	<li>Temasek Student Excellence Awards Ceremony (2020-2023)</li>
 	<li>Temasek Regatta x Samudra (2023)</li>
 	<li>Union Management Games (2023)</li>
-	<li>National Day Concert (2022)</li>
+	<li>National Day Concert (2022 &amp; 2023)</li>
     <li>Temasek Spectacular (2022)</li>
     <li>DREAMS XII (2022)</li>
     <li>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</li>
