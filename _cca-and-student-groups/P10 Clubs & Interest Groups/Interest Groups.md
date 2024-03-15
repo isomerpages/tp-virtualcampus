@@ -105,7 +105,8 @@ variant: markdown
 <img src="/images/Interest Groups/PROJECT INNOV8_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<a href="href=" style="text-decoration: none">
+	<a href="/interest-groups/SENvocates/" style="text-decoration: none">
+</a><a href="href=" style="text-decoration: none">
 <img src="/images/Interest Groups/SENVOCATES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates">
 </a>
 </td></tr><tr>
