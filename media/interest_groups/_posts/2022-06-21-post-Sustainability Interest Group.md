@@ -13,30 +13,29 @@ variant: markdown
             <td style="width:45%"><img src="/images/Interest Groups/TPGIG.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group"></td>
             <td>
                 <p>
-                    Going Green is not a good-to-have anymore. It is a must-have right now! You and I have a mission to make our Home GREEN. The TP Green Interest Group (TPGIG) was founded in 2009. It aims to raise awareness about Environmental and Animal Conservation and is a CCA for students who wish to contribute to the environment. The events and programmes organised include coastal clean-ups, talks, nature hikes, upcycling art and learning journeys, which are all designed to have fun while encouraging students to be involved in and responsible for the environment. <br><br>
-									In addition, TPGIG works closely with TP’s Eco-Campus Committee to improve our school’s environment. Hence, students will have opportunities for their environmental ideas to be implemented in the whole of TP; Young Voices Matter. Remember, we have just one home – Earth. Let’s take care of her.
+                    Join our Sustainability Interest Group (previously known as "Green Interest Group")!<br><br>
+									Are you passionate about making a positive impact on the planet? Do you want to be part of a dynamic community dedicated to creating a more sustainable and eco-friendly future? Look no further – our Sustainability Interest Group is the perfect place for you!
 <br>
                     <br>
-                    Be part of us. Be Green. Join TPGIG today!
+                    At our group, we believe in the power of collective action to drive meaningful change. Whether you are a seasoned environmental advocate or just beginning your journey towards sustainability, there is a place for you here. Here's what you can look forward to as a member:
                     <br>
-                    <br>
-                    <b>Past Large-Scale Projects:</b><br>
                   </p><ul>
-										<li>Wynist Mass Coastal Clean Up (2022)</li>
-										<li>Eco-conference (2022)</li>
-										<li>Prime Minister’s Chinese New Year Garden Party (2023)</li>
-										<li>Christmas Tree Moments &amp; Adopt-A-Christmas Tree (2021)</li>
-							</ul>
-							<p>
+							<li><b>TP Eco Events:</b> Get ready for a series of exciting and educational events right here on campus! From sustainability workshops and green tech showcases to eco-friendly fashion shows and plant-based cooking classes, there's something for everyone to enjoy.</li>
+							<li><b>Overseas Exchange Trips:</b> Expand your horizons and explore sustainability efforts around the globe with our overseas exchange trips. Connect with like-minded individuals from different cultures and gain invaluable insights into international environmental initiatives.</li>
+							<li><b>Community Environmental Activities:</b> Make a difference in your local community through hands-on environmental projects and activities. Whether it is tree planting, beach cleanups, or urban gardening, we are committed to creating a cleaner, greener future for all.</li>
+								<p>
+							<br>Joining our interest group is not just about attending events – it is about being part of a supportive and inclusive community that shares your passion for sustainability and climate action. Together, we can drive positive change both on and off campus.<br>
+													<br>Ready to join the movement? Sign up with SIG today and be a part of something bigger than yourself. Together, let's build a more sustainable world for future generations!<br>
+							</p><p>
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="Aubrey_KOH@TP.EDU.SG">Mr Aubrey Koh</a>, <a href="Thomas_MARY@tp.edu.sg">Mrs Mary Thomas</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="Rita_Woo@TP.EDU.SG">Ms Rita Woo</a> &amp; <a href="Yu_Zhang@tp.edu.sg">Ms Zhang Yu</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tpgig">Instagram</a>
 							</p>
                 <p></p>
-            </td>
+            </ul></td>
         </tr>
     </tbody></table>
 </div>
