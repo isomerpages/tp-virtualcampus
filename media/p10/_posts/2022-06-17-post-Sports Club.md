@@ -17,7 +17,8 @@ variant: markdown
 									An impactful event organised for the TP population in AY2023/2024 was the National Day Sports Carnival that embodied the theme of “Onward As One” through the team-based booth games. Another notable event was the TPSC February Sports Fest - Sports Saga &amp; TParalympia - that introduced the world of para-sports to the TP community and public, instilling the value of inclusivity. Come join us now and let's bring a change to TP together!
 <br>
                     <br>
-                    <b>Training Day:</b> Event Basis<br>
+                    <b>Training Day:</b> 
+									<br>Event Basis<br>
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Heinz_LOY@tp.edu.sg">Mr Heinz Loy</a><br>
                     <br>
