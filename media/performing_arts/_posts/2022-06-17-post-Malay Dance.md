@@ -75,7 +75,7 @@ variant: markdown
 <ul>
 	<li><a href="https://www.instagram.com/keseniansianaktari/">Instagram</a></li>
     <li><a href="https://linktr.ee/TPMalayDanceGroup">Linktree</a></li>
-	    <li><a href="https://www.tiktok.com/@keseniansianaktari">TikTok</a></li>
+	    <li><a href="https://www.tiktok.com/@keseniansianaktari?_t=8kgtzhj3vnk&amp;_r=1">TikTok</a></li>
 	    <li><a href="https://www.youtube.com/@keseniansianaktari7995">YouTube</a></li>
 </ul>
 
