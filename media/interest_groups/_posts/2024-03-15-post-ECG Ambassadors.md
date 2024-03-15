@@ -32,7 +32,7 @@ At ECG Ambassadors Interest Group, we aim to equip ECG Ambassadors with the reso
 														<li>Mentoring by management of SSCS and ECCs</li>
                     </ul>
 							<p>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Karen_Yap@tp.edu.sg">Ms Karen Yap (Main Advisor)</a> &amp; <a href="mailto:Corinne_Cheng_Hong_TAN@tp.edu.sg">Ms Corinne Tan (Co-advisor) </a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Karen_Yap@tp.edu.sg">Ms Karen Yap</a> (Main Advisor) &amp; <a href="mailto:Corinne_Cheng_Hong_TAN@tp.edu.sg">Ms Corinne Tan</a> (Co-advisor)<br>
                 </p>
             </td>
         </tr>
