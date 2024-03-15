@@ -4,6 +4,7 @@ title: Malay Dance
 permalink: /performing-arts/malay-dance/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -13,7 +14,7 @@ description: ""
                     TP Malay Dance Group, also called Kesenian Si Anak Tari (Seni Nak Tari or SNT), takes pride in promoting the arts and providing high-quality traditional and contemporary performances.  
                     <br>
 					<br>
-                    Featuring genres such as Inang and Zapin SNT’s movements are enhanced by their elaborate costumes and accessories, showcasing the rich heritage of the various styles portrayed.
+                    Founded since the establishment of the polytechnic in 1990, SNT continues to nurture youth student artists and leaders through traditional and contemporary Malay dance movements featuring elaborate costumes and accessories, showcasing the rich Malay heritage of the various styles portrayed.
                     <br>
                     <br>
 				</p>
@@ -32,11 +33,12 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>DREAMS XII - Back to LIVE! (2022)</li>
-    <li>Tapestry: MOVE (2022)</li>
-    <li>Temasek Arts Festival – Dwi-Rasa: Berkebaya Biru (2021)</li>  
+    <li>Irama Perayaan (2023)</li>
+	 <li>NTU: Rentak Budaya (2023)</li>
+	 <li>Muara Festival @ Esplanade (2023)</li>
+	 <li>DIAN Dancers: Cahayaloka (2023) </li>
+    <li>Tapestry: MOVE (2022)</li> 
     <li>Ekspresi (2021)</li>
-    <li>TP Concert Champion (2019)</li>
     <li>Pesta Raya @ Esplanade (2019)</li>
 </ul>
 
@@ -55,6 +57,7 @@ description: ""
             
 <ul>    
     <li>Monday &amp; Wednesday, 6pm to 9pm (On-campus)</li>
+	 <li>Additional training days, nearing show day</li>
 </ul>
 
 
@@ -62,9 +65,8 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:jasmine_leong@tp.edu.sg">Ms Jasmine Leong</a>
+		<a href="mailto:Giles_RAQUIZA@tp.edu.sg">Mr Giles Raquiza</a>
 		<br>
-		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 
