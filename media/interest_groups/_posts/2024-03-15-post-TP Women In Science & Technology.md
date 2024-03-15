@@ -16,11 +16,13 @@ variant: markdown
 Temasek Polytechnic Women in Science and Technology (TWIST) is dedicated to empowering and guiding women by offering engaging, innnovative and educational programmes. Our aim is to raise awareness of STEM fields and their career opportunities and offer hands-on experiences to equip women with the skills and confidence to pursue STEM careers.<br> 
 <br>
 TWIST organises a variety of events including:<br> 
-<br>
-1) Symposiums: Featuring talks and discussions by industry experts<br>
-2) Workplace Visits: Provding exposure to real-world work environments in STEM fields<br>
-3) Workshops: Offering practical training and skill development opportunities<br>
-<br>
+	</p>
+                    <ul>
+                        <li>Symposiums: Featuring talks and discussions by industry experts</li>
+                        <li>Workplace Visits: Provding exposure to real-world work environments in STEM fields</li>
+                        <li>Workshops: Offering practical training and skill development opportunities</li>
+                    </ul>
+                <p>
 TWIST also collaborates with external organisations to offer opportunities for student innovation and leadership development in STEM.                       
 <br>
 									<br>
