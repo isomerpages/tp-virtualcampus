@@ -27,7 +27,7 @@ variant: markdown
                 </ul>
             <p></p>
             <p>
-                <b>CCA Staff Advisor:</b> <a href="TAN_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:TAN_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
             </p>
             <p>
                 CCA <a href="https://www.instagram.com/tp_msoccer">Instagram</a> (Men's Soccer)<br>
