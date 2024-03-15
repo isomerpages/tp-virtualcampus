@@ -9,29 +9,17 @@ variant: markdown
 <div>
     <table>
         <tbody><tr>
-            <td style="width:47%"><img src="https://hosting.photobucket.com/images/i/tracyng81/SENvocates_2.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></td>
+            <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/SENvocates_2.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></td>
             <td>
                 <p>
-                    SENvocates is a CCA interest group in Temasek Polytechnic (TP) dedicated to:
-                   </p><li>Raising awareness and advocating for disabilities and Special Educational Needs (SEN)</li>    
-									<li>Providing peer support to fellow TP students with disabilities/SEN</li>
-											<li>Promoting an inclusive community by organising and participating in disability/SEN-related events</li>
-								<li>Collaborating with external partners on disability/SEN-related projects and volunteering work</li>
-                     
-                 <p></p>
-                 <p>
-                 Together with the SEN Support Division from Student Support &amp; Career Services, we aim to foster an environment that is inclusive for every TP student, regardless of their challenges, and to make a difference to the disability/SEN community beyond TP.<br>
-									 <br>Some events and projects that you can look forward to organising and/or participating in include:<br>	
-									 </p><li>Bi-weekly "Let’s Hang Out!" sessions</li>
-									 	 <li>Disability Awareness Sessions </li>
-									 	 <li>Purple Parade Campus Activation</li>
-									 <br>
-                    <b>Meeting Day:</b> Event basis<br>
+ SENvocates is a CCA interest group in Temasek Polytechnic (TP) dedicated to:<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Christina_CHU@tp.edu.sg">Ms Christina Chu</a><br>
+                    To equip members with the necessary skills, training is provided in a wide range of areas such as, but not limited to, laser cutting, 3D modeling and printing, as well as microbit programming. These skills will be helpful in students' project work and even through their internship in their final year.<br>
                     <br>
-                    CCA <a href="https://www.instagram.com/senvocates/">Instagram</a>
-                <p></p>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Pasan_Bhashitha_DE_SILVA@tp.edu.sg">Mr Pasan De Silva</a><br>
+                    <br>
+                    CCA <a href="https://www.instagram.com/tpemc/?hl=en">Instagram</a>
+                </p>
             </td>
         </tr>
     </tbody></table>
