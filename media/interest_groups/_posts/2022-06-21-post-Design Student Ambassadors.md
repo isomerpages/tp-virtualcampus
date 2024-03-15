@@ -4,6 +4,7 @@ title: Design Student Ambassadors
 permalink: /interest-groups/design-student-ambassadors/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
@@ -16,7 +17,7 @@ description: ""
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="Julian_SIAU@TP.EDU.SG">Mr Julian Siau</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Julian_SIAU@TP.EDU.SG">Mr Julian Siau</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/designstudentambassadors">Instagram</a>
                 </p>
