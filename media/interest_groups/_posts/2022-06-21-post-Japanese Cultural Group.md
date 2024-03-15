@@ -24,7 +24,7 @@ variant: markdown
                         <li>Annual Sports Carnival and Natsu Matsuri (Summer Festival) organised by Japanese Association of Singapore (2024)</li>
                     </ul>
 							<p>
-                    <b>Meeting Day:</b> Event basis
+                    <b>Meeting Day:</b><br> Event basis
                 </p><p>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Nurulhuda_ADANAN@TP.EDU.SG">Ms Nurulhuda Adanan</a>, <a href="mailto:LEE_Siang_Jin@TP.EDU.SG">Ms Lee Siang Jin</a>, <a href="mailto:Leslie_CHAN@TP.EDU.SG">Mr Leslie Chan</a> &amp; <a href="mailto:LIM_Lin_Da@TP.EDU.SG">Ms Lim Lin Da</a><br>
                     <br>
