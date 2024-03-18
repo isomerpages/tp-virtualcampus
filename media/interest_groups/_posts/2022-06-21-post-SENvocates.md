@@ -9,25 +9,33 @@ variant: markdown
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/SENvocates_2.jpeg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates"></td>
+            <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/SENvocates_2.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Engineering Makers Club"></td>
             <td>
                 <p>
-                    SENvocates is a CCA interest group dedicated to:<br>
-                    </p><ul>
-                        <li>Raising awareness / advocating for special educational needs (SEN) and disabilities</li>
-                        <li>Participating in / organising disability-related events such as the Purple Parade</li>
-                        <li>Providing peer support to fellow TP students with SEN</li>
-											<li>Volunteering with external organisations and social service agencies, such as SG Enable and SPD</li>
-                     </ul>
-                 <p></p>
-                 <p>
-                 Together with the SEN Support Division from Student Support &amp; Career Services, we aim to foster a TP that is inclusive for all – where every TP student, regardless of one’s challenges, is empowered by the support of our SENvocates, as well as making a difference to the disabled communities outside of TP.<br>
-									 <br>
-                    <b>Meeting Day:</b> Event basis<br>
+ SENvocates is an interest group in Temasek Polytechnic (TP) dedicated to:<br>
+									</p>
+                    <ul>
+                        <li>Raising awareness and advocating for disabilities and Special Educational Needs (SEN)</li>
+                        <li>Providing peer support to fellow TP students with disabilities/SEN</li>
+                        <li>Promoting an inclusive community by organising and participating in disability/SEN-related events</li>
+											   <li>Collaborating with external partners on disability/SEN-related projects and volunteering work</li>
+                    </ul>
+                <p>
+                    Together with the SEN Support Division from Student Support &amp; Career Services, we aim to foster an environment that is inclusive for every TP student, regardless of their challenges, and to make a difference to the disability/SEN community beyond TP.<br>
+									<br>Some events and projects that you can look forward to organising and/or participating in include:
+									</p>
+                    <ul>
+                        <li>Bi-weekly "Let’s Hang Out!" sessions</li>
+                        <li>Disability Awareness Sessions</li>
+                        <li>Purple Parade Campus Activation</li>
+                    </ul>
+                <p>
+									 <b>Meeting Day:</b>
+									<br>Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Christina_CHU@tp.edu.sg">Ms Christina Chu</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Christina_Chu@tp.edu.sg">Ms Christina Chu</a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/senvocates/">Instagram</a>
+                    CCA <a href="https://www.instagram.com/tp_senvocates/">Instagram</a>
                 </p>
             </td>
         </tr>

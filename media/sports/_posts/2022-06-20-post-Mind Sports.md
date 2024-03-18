@@ -4,6 +4,7 @@ title: Mind Sports
 permalink: /sports/mind-sports/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -15,7 +16,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="TAN_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:TAN_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp_mindsports">Instagram</a>
             </p>

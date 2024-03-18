@@ -4,25 +4,27 @@ title: Swimming
 permalink: /sports/swimming/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
-        <td style="width:45%"><img src="/images/Sports/SWIMMING.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming"></td>
+        <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Swimming.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming"></td>
         <td>
             <p>
                 Swimming is the second most popular exercise activity in Singapore and is one of the most popular Olympic sports. It requires the use of one's entire body to move through water. For competition, the swimming events generally consists of butterfly, backstroke, breaststroke, freestyle and individual medley. Swimming is good for physical health as it burns lots of calories, is easy on the joints, supports your weight, builds muscular strength and endurance. TP Swimming teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming Championship annually.<br>
                 <br>
                 <b>Achievements:</b><br>
                 </p><ul>
-                    <li>IVP Games 2022: Silver (Men’s Team), Gold (Women’s Team) &amp; Gold (Team Overall)</li>
-                    <li> POL-ITE Games 2022: Gold (Men’s Team) &amp; Gold (Women’s Team)</li>
+                    <li>IVP Games AY2023/24: Gold (Men’s Team), Bronze (Women’s Team) &amp; Gold (Team Overall)</li>
+                    <li>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
+</li>
                 </ul>
             <p></p>
             <p>
                 <b>Training Days:</b><br>
-                Wednesday &amp; Friday, 7pm<br>
+                Wednesday &amp; Friday, 6.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tplsst">Instagram</a>
             </p>

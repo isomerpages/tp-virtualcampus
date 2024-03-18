@@ -4,6 +4,7 @@ title: Fusion Percussion
 permalink: /performing-arts/fusion-percussion/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -36,7 +37,7 @@ description: ""
 	
 <ul>
     <li>Community Chest Heartstrings Walk (2022)</li>
-    <li>Kaki Bukit Youth Carnival (2022)</li>  
+    <li>Kaki Bukit Youth Carnival (2022 &amp; 2023)</li>  
     <li>Reflections Arts Festival 2022: World Drum Night V (2022)</li>
     <li>Tampines Changkat CC Golf Tournament &amp; Appreciation Dinner (2022)</li>
     <li>"In-Youthful-Company” @ Esplanade Waterfront (2019)</li>
@@ -59,9 +60,8 @@ description: ""
 
 <ul>
 	<li>
-		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
+		<a href="mailto:nigel_tan@tp.edu.sg">Mr Nigel Tan</a>
 		<br>
-		<i>Senior Executive, Student Development &amp; Alumni Affairs</i>
 	</li>
 </ul>
 

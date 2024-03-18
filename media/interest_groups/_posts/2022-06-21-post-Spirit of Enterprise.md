@@ -4,11 +4,12 @@ title: Spirit of Enterprise
 permalink: /interest-groups/spirit-of-enterprise/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="/images/CCA_tp_spirit_of_enterprise.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></td>
+            <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Picture1.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></td>
             <td>
                 <p>
                     The Spirit Of Enterprise (SOE)-TP Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
@@ -23,7 +24,7 @@ description: ""
                     <b>Meeting Day:</b><br>
                     Monthly EXCO meeting / Event Basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="John_LOW@TP.EDU.SG">Mr John Low</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:John_LOW@TP.EDU.SG">Mr John Low</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/soe__tp">Instagram</a>
                 </p>

@@ -4,10 +4,11 @@ title: Karate
 permalink: /sports/karate/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
-        <td style="width:45%"><img src="/images/Sports/KARATE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Karate"></td>
+        <td style="width:48%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Karate.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Karate"></td>
         <td>
             <p>
                 Karate is a martial art developed in Japan under the influence Chinese Kung Fu. A karate practitioner is called a karateka and the aim is to master the art of punching, kicking, knee strikes, elbow strikes and open-hand techniques such as knife-hands, palm-heel hands and spear hands. TP Karate team competes in external competitions annually.<br>
@@ -15,7 +16,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz Amin</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Tan_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpkarate/">Instagram</a><br>
                 <br>

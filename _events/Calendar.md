@@ -6,7 +6,27 @@ variant: markdown
 ---
 <table>
 		<tbody>
-		<tr></tr><tr>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>
+			<td style="width:35%">
+			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/CCA_Banner_1920px_by_1080px_FA.jpg?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/events/ccafair2024/"><h4 style="margin-top:0%">CCA Fair 2024</h4></a>
+				<h6 style="margin-top:0%"><i>17-18 April 2024</i></h6>
+				<p style="margin-top:0%">
+
+Discover your passion. Unleash your creativity. Forge lasting friendships. Maximise your fun.
+<br>
+					<br>
+Life as a TP student can be as exciting, engaging and empowering as you want it to be! Join us at the&nbsp;CCA Fair 2024 and take your pick from the diverse CCAs offered in TP. See you there!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr></tr><tr>
 		</tr><tr>
 			</tr><tr>
 			<td style="width:35%">

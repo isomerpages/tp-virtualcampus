@@ -4,6 +4,7 @@ title: Dikir Barat
 permalink: /performing-arts/dikir-barat/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
@@ -32,20 +33,21 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Temasek Spectacular (2022)</li>
-    <li>DREAMS XII (2022)</li>
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
-    <li>Temasek Arts Festival – “PLAY” The Series: Experimental Collective (Collaboration with Dance Ensemble, 2021)</li>               
+  <li>Istana Open House Performance (2023)</li>
+	<li>Dreams XII - TPDK-driven video and music production, “Berani Berubah” (2022)</li>
+	               
 </ul>
 
 ##### Achievements
 	
 <ul>
-	    <li>Piala Suara Serumpun 2022 - Women’s: Second Placing; Best Percussionists; Nominated for Best Lyrics; Best Tukang Karut; Best Awok-Awok</li>
-	    <li>Piala Suara Serumpun 2022 - Men’s: Third Placing, Nominated for Best Lyrics; Best Tukang Karut</li>
-    <li>Piala Suara Serumpun 2019 - Women’s: Champion; Best Lyrics; Men’s: The Green Pen Award</li>
-    <li>Piala Tinta Dikir 2018 - Women’s: First Runner-up; Best Percussion; Best Lyrics, Men’s: Champion; Best Lead Singer; Best Lead Singer; Best Chorus; Best Song; Best Art</li>
-    <li>Piala Suara Serumpun 2018 - Women’s: Champion; Best Lead Singer; Best Percussion; Best Song; Men’s: Champion; Best Lead Singer; Best Lyrics</li>   
+	    <li>Piala Suara Serumpun 2023 (Women’s): Nominated for Best Tukang Karut and Best Awok-Awok</li>
+	    <li>Piala Suara Serumpun 2022 (Women's): Second Placing, Best Percussionists, Nominated for Best Lyrics, Best Tukang Karut and Best Awok-Awok</li>
+    <li>Piala Suara Serumpun 2022 (Men's): Third Placing, Nominated for Best Lyrics and Best Tukang Karut</li>
+    <li>Piala Suara Serumpun 2019 (Women's): Champion, Best Lyrics</li>
+    <li>Piala Suara Serumpun 2019 (Men’s): The Green Pen Award</li>     <li>Piala Suara Serumpun 2018 (Women's): Champion, Best Lead Singer, Best Percussion, Best Song</li> 
+	 <li>Piala Suara Serumpun 2018 (Men’s): Champion, Best Lead Singer, Best Lyrics</li> 
+	 <li>Piala Suara Serumpun 2017 (Women’s): Best Lead Singer</li> 
 	
 </ul>
 
@@ -56,7 +58,7 @@ description: ""
 ##### Training Days
             
 <ul>    
-    <li>Monday &amp; Wednesday, 6pm to 9pm (On-Campus)</li>
+    <li>Monday &amp; Wednesday, 6.30pm to 9.30pm (On-Campus)</li>
     <li>Additional training days, nearing show day</li>
 </ul>
 
@@ -67,9 +69,7 @@ description: ""
 	<li>
 		<a href="mailto:jasmine_leong@tp.edu.sg">Ms Jasmine Leong</a>
 		<br>
-		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
-	</li>
-</ul>
+</li></ul>
 
 ##### Pages
 

@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Project Innov8
+title: Spacehaus
 permalink: /interest-groups/project-innov8/
 date: 2022-06-21
 description: ""
+image: ""
+variant: markdown
 ---
 <div>
     <table>
-        <tr>
-            <td style="width:45%"><image src="/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></image></td>
+        <tbody><tr>
+            <td style="width:45%"><img src="/images/CCA-projectinnov8.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8"></td>
             <td>
                 <p>
-                    Project Innov8 focuses on providing students with the opportunities to learn design thinking-based skills and rapid prototyping, as well as enabling students to refine these skills in inter-disciplinary teams by working on various internal and industry projects. Members of Project Innov8 will be able to fully utilise Makerspace+ in Temasek Launchpad, as well as get certified as a makercoach to teach and help other students with prototyping-based skills.            <br>
+                    Spacehaus (previously known as "Project Innov8") focuses on providing students with the opportunities to learn design thinking-based skills and rapid prototyping, as well as enabling students to refine these skills in inter-disciplinary teams by working on various internal and industry projects. Members of Spacehaus will be able to fully utilise Makerspace+ in Temasek Launchpad, as well as get certified as a makercoach to teach and help other students with prototyping-based skills.            <br>
                     <br>
                     <b>Achievements:</b><br>
                 </p>
@@ -25,43 +27,43 @@ description: ""
                 </ul>
                 <p>
                     <b>Meeting Day:</b><br>
-                    Event & Project basis<br>
+                    Event &amp; Project basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b><a href="mailto:Nathanael_MAH@tp.edu.sg">Mr Nathanael Mah</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Thalia_Lam@tp.edu.sg">Ms Thalia Lam</a> &amp; <a href="mailto:Huang_Tengyi@tp.edu.sg">Mr Huang Tengyi</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/projectinnov8/">Instagram</a>
                 </p>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>
 
 #### Latest Happenings
 
 <div>
     <table>
-        <tr>
+        <tbody><tr>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/Ccm5x2VJnqJ/">
-                    <image src="/images/Interest Groups/PROJECT INNOV8_Recruitment Drive 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <img src="/images/Interest Groups/PROJECT INNOV8_Recruitment Drive 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">Recruitment Drive 2022</h6>
-                    </image>
+                    
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/Cbz6yX2pec4/">
-                    <image src="/images/Interest Groups/PROJECT INNOV8_Disruptive Innovation.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <img src="/images/Interest Groups/PROJECT INNOV8_Disruptive Innovation.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">Disruptive Innovation</h6>
-                    </image>
+                    
                 </a>
             </td>
             <td style="width:33%"><br>
                 <a href="https://www.instagram.com/p/CZ511xAPArF/">
-                    <image src="/images/Interest Groups/PROJECT INNOV8_5 Strangest but Fascinating Fitness Products.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+                    <img src="/images/Interest Groups/PROJECT INNOV8_5 Strangest but Fascinating Fitness Products.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">5 Strangest but Fascinating Fitness Products</h6>
-                    </image>
+                    
                 </a>
             </td>
         </tr>
-    </table>
+    </tbody></table>
 </div>

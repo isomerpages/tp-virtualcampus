@@ -4,19 +4,20 @@ title: Volleyball
 permalink: /sports/volleyball/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
-        <td style="width:45%"><img src="/images/Sports/VOLLEYBALL.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball"></td>
+        <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Volleyball.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Volleyball"></td>
         <td>
             <p>
                 Volleyball is played by two teams of six players, separated by a net. By grounding a ball on the other team's court, each team tries to score points. The ball is usually played with the hands or arms, but players can contact the ball with any part of the body. Techniques used in volleyball include spiking and blocking, passing, setting, and specialised player positions and offensive and defensive structures. TP Volleyball (Men &amp; Women) teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Volleyball Games annually.<br>
                 <br>
                 <b>Achievements:</b><br>
                 </p><ul>
-                    <li>POL-ITE Games 2022: Gold (Men’s Team) &amp; Gold (Women’s Team)
+                    <li>POL-ITE Games 2023: Gold (Men’s Team) &amp; Gold (Women’s Team)
 </li>
-                    <li>IVP Games 2022: Gold (Men’s Team) &amp; Silver (Women’s Team)
+                    <li>IVP Games AY2023/24: Silver (Men’s Team) &amp; Bronze (Women’s Team)
 </li>
                 </ul>
             <p></p>
@@ -24,7 +25,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Wednesday &amp; Friday, 6.30pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="TAN_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:TAN_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp.volleyball">Instagram</a>
             </p>

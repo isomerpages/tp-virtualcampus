@@ -4,18 +4,19 @@ title: Business Ambassadors
 permalink: /interest-groups/business-ambassadors/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="/images/CCA_business_ambassadors.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Ambassadors"></td>
+            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Business_Ambassadors.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Business Ambassadors"></td>
             <td>
                 <p>
-                    The Business Ambassadors (BA) is a group of students from all Business diplomas trained to undertake the smooth execution of events and functions hosted by the School of Business. Some of the key roles that BAs perform are emceeing, registration, crowd control, presenting and assisting in school talks and outreach exhibitions. The BAs have also participated in events such as Partners-in-Education, TP Graduation Ceremony and TP Open House.<br>
+                    The Business Ambassadors (BA) are a select group of students from various Business diplomas at the TP School of Business (BUS). Trained to deliver exceptional service, they serve as exemplary hosts for both internal and external visitors. From emceeing to event hosting, they represent BUS at various functions and gatherings. The BAs are also adept content creators for BUS' social media platforms, such as Instagram and LinkedIn. Notable events they participate in include TP Open House, Partners-in-Education, TP Graduation Ceremony, and internal/external Learning Journeys.<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="Selene_GOH@TP.EDU.SG">Ms Selene Goh </a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Selene_GOH@TP.EDU.SG">Ms Selene Goh </a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/tp.ba">Instagram</a>
+                    CCA <a href="https://www.instagram.com/tpbizschool/?hl=en">Instagram</a>
                 </p>
             </td>
         </tr>

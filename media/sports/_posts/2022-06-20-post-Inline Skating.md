@@ -4,6 +4,7 @@ title: Inline Skating
 permalink: /sports/inline-skating/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -15,7 +16,7 @@ description: ""
                 <b>Training Days:</b><br>
                 Friday, 6pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Celine_LIM@TP.EDU.SG">Ms Celine Clare Lim</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Celine_LIM@TP.EDU.SG">Ms Celine Clare Lim</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpinlineskate/">Instagram</a><br>
                 <br>

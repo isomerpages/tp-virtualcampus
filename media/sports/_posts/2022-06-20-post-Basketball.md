@@ -4,24 +4,23 @@ title: Basketball
 permalink: /sports/basketball/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
-        <td style="width:45%"><img src="/images/Sports/BASKETBALL.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Basketball"></td>
+        <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Basketball.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Basketball"></td>
         <td>
             <p>
-                Competitive basketball is another popular team sport in which two competing teams of 5 players play on a rectangle court to try and outscore each other through the basketball hoops at opposing ends. TP Men’s and Women’s Basketball teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Games annually.<br>
+                Competitive basketball is a popular team sport in which two competing teams of 5 players play on a rectangle court to try and outscore each other through the basketball hoops at opposing ends. TP Men’s and Women’s Basketball teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Games annually.<br>
                 <br>
-                <b>Achievements:</b><br>
-                </p><ul>
-                    <li>POL-ITE Games 2022: Silver (Men’s Team) &amp; 5th Position (Women's Team)</li>
-                </ul>
-            <p></p>
+                 <b>Achievements:</b><br>
+                POL-ITE Games 2023: 5th Position (Men’s Team) &amp; Silver (Women's Team)<br>
+             </p><p></p>
             <p>
                 <b>Training Days:</b><br>
                 Monday &amp; Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/temasekpoly_basketball/">Instagram</a><br>
                 <br>

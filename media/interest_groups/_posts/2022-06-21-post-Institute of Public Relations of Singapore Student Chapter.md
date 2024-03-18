@@ -4,11 +4,12 @@ title: Institute of Public Relations of Singapore Student Chapter
 permalink: /interest-groups/iprs-student-chapter/
 date: 2022-06-21
 description: ""
+variant: markdown
 ---
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="/images/CCA_tp_iprs_student_chapter.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter"></td>
+            <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/TP-Institute_of_Public_Relations_of_SG.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Institute of Public Relations of Singapore Student Chapter"></td>
             <td>
                 <p>
                     The TP-Institute of Public Relations of Singapore Student Chapter is an industry-based interest group that seeks to create greater awareness of public relations (PR) and the industry among TP students. We aim to equip TP students with essential PR skills and provide opportunities for exposure to the industry through mentorship programmes and talks.<br>
@@ -19,7 +20,7 @@ description: ""
                     <b>Meeting Day:</b><br>
                     Event basis<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:kinghar@tp.edu.sg">Ms Lily Lim</a> and <a href="Eunice_CHUA@tp.edu.sg">Ms Eunice Chua </a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Lily_Lim@tp.edu.sg">Ms Lily Lim</a> and <a href="mailto:Eunice_CHUA@tp.edu.sg">Ms Eunice Chua </a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/tp_iprs">Instagram</a>
                 </p>

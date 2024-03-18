@@ -4,6 +4,7 @@ title: Tennis
 permalink: /sports/tennis/
 date: 2022-06-20
 description: ""
+variant: markdown
 ---
 <table>
     <tbody><tr>
@@ -13,7 +14,7 @@ description: ""
                 Tennis is a familiar racquet sport that is usually played on outdoor courts between two players (singles) or between two teams of two players each (doubles). An Olympic sport, tennis is popular with many people of all ages regardless of their social background. TP Tennis Teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Tennis Games annually.<br>
                 <br>
                 <b>Achievements:</b><br>
-                POL-ITE Games 2022: Bronze (Men’s Team) &amp; Silver (Women’s Team)<br>
+                POL-ITE Games 2023: Bronze (Men’s &amp; Women’s Teams)<br>
                 <br>
                 <b>Training Days:</b><br>
                 </p><ul>
@@ -22,9 +23,9 @@ description: ""
                 </ul>
             <p></p>
             <p>
-               <b>CCA Staff Advisor:</b> <a href="Pang_Seng_Hui@tp.edu.sg">Ms Pang Seng Hui</a><br>
+               <b>CCA Staff Advisor:</b> <a href="mailto:Pang_Seng_Hui@tp.edu.sg">Ms Pang Seng Hui</a> &amp; <a href="mailto:Sheena_Wang@tp.edu.sg">Ms Sheena Wang<br>
                <br>
-               CCA <a href="https://www.instagram.com/tp_tennis">Instagram</a>
+               CCA </a><a href="https://www.instagram.com/tp_tennis">Instagram</a>
             </p>
         </td>
     </tr>

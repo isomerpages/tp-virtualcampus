@@ -4,16 +4,17 @@ title: Dance Ensemble
 permalink: /performing-arts/dance-ensemble/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
 		<tr>
 			<td>
 				<p>
-                    The Temasek Polytechnic Dance Ensemble (TPDE) comprises 3 main dance genres; Hip Hop, Modern Dance &amp; Breakin’. 
+                    The Temasek Polytechnic Dance Ensemble (TPDE) comprises three main dance genres; Hip Hop, Modern Dance and Breakin’. 
 					<br>
 					<br>
-                    Modern Dance is a dance form developed from classical ballet in the early 20th century, shedding the classical ballet technique, costume and shoes. Hip Hop is a popular dance style involving energetic &amp; funky street dance. Breakin’ includes a multitude of different floorwork &amp; explosive movements. 
+                    Modern Dance is a dance form developed from classical ballet in the early 20th century, shedding the classical ballet technique, costume and shoes. Hip Hop is a popular dance style involving energetic and funky street dance. Breakin’ includes a multitude of different floorwork and explosive movements. 
 					<br>
 					<br>
                     Dance Ensemble’s Hip Hop, Modern Dance &amp; Breakin’ are under the tutelage of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.
@@ -35,17 +36,18 @@ description: ""
 ##### Features
 	
 <ul>
-    <li>Temasek Spectacular (2022)</li>
-    <li>DREAMS XII (2022)</li>
-    <li>TPDE GROOV-ED (2022)</li>
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
+    <li>Motiv 2023 (Site-specific concert)</li>
+	<li>Temasek Spectacular (2022) (7 shows for TP Freshmen)</li>
     <li>Temasek Arts Festival – “PLAY” The Series: Experimental Collective (2021)</li>
 </ul>
 
 ##### Achievements
 	
 <ul>
-    <li>Super 24 2019 (Champion for Tertiary Category)</li>
+    <li>Super 24 2023 (Champion for Tertiary Category)</li>
+	   <li>Origins Interschool 2023 (Champion for Breakin' Category)</li>
+		   <li>World Supremacy Battlegrounds 2023 (First runner-up for Tertiary Category)</li>
+	<li>Super 24 2019 (Champion for Tertiary Category)</li>
     <li>TRDO Duet 2019 (Champion for Inter-poly Category)</li>
     <li>Origins: Interschool 2018 (Champion)</li>
     <li>Mighty Nomads' BBOY POL-ITE 2018 (Champion)</li>
@@ -69,11 +71,8 @@ description: ""
 
 <ul>
 	<li>
-		<a href="Fayanne_Tan@tp.edu.sg">Ms Fayanne Tan</a>
-		<br>
-		<i>Assistant Manager, Student Development &amp; Alumni Affairs</i>
-	</li>
-</ul>
+		<a href="mailto:Fayanne_Tan@tp.edu.sg">Ms Fayanne Tan</a>
+</li></ul>
 
 
 ##### Pages

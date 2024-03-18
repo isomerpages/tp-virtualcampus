@@ -4,13 +4,14 @@ title: Digital Media & Production Crew
 permalink: /performing-arts/digital-media-and-production-crew/
 date: 2022-06-17
 description: ""
+variant: markdown
 ---
 <table>
 	<tbody>
 		<tr>
 			<td>
 				<p>
-The Digital Media &amp; Production Crew (DMPC) enables all of our performing arts groups to be experienced both in-person and via a host of other media formats. Through event organisation, production management and technical support, DMPC brings ideas to life. 
+Temasek Polytechnic Digital Media &amp; Production Crew (DMPC) enables all of our performing arts groups to be experienced both in-person and via a host of other media formats. Through event organisation, production management and technical support, DMPC brings ideas to life. 
 					<br>
 					<br>
 Engaging in audio, lighting, staging, visual media and post-production, the close-knit and dedicated group makes magic happen. Members receive training in a multitude of areas with current industry practitioners, and have abundant opportunites to practice these skills in real-world situations.
@@ -32,8 +33,12 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
 ##### Features
 	
 <ul>
-    <li>National Day Concert (2022)</li>
-    <li>Music Vox Afterhours (2022)</li>
+  <li>Tapestry Arts Festival (2023)</li>
+	<li>Polytechnic Forum (2023)</li>
+	<li>Temasek Student Excellence Awards Ceremony (2020-2023)</li>
+	<li>Temasek Regatta x Samudra (2023)</li>
+	<li>Union Management Games (2023)</li>
+	<li>National Day Concert (2022 &amp; 2023)</li>
     <li>Temasek Spectacular (2022)</li>
     <li>DREAMS XII (2022)</li>
     <li>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</li>
@@ -54,9 +59,11 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
 ##### Training Days
             
 <ul>    
-    <li>Monday &amp; Thursday, 6:30pm to 9:30pm</li>
-	<li>Additional ad-hoc workshops will be conducted</li>
-	<li>Extra hours during production periods required</li>
+    <li>Audio: Monday, 7pm to 9pm</li>
+	<li>Lights: Wednesday, 7pm to 9pm</li>
+	<li>Photo/Video: Thursday, 7pm to 9pm</li>
+	<li>Graphics: Alternate Tuesdays, 7pm to 9pm</li>
+	<li>Stage: Friday, 7pm to 9pm</li>
 </ul>
 
 
@@ -64,17 +71,8 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
 
 <ul>
 	<li>
-		<a href="mailto:mark_spencer@tp.edu.sg">Mr Mark Spencer</a>
-		<br>
-		<i>Manager, Student Development &amp; Alumni Affairs</i>
-	</li>
-	<br>
-	<li>
-		<a href="mailto:nigeltan@tp.edu.sg">Mr Nigel Tan</a>
-		<br>
-		<i>Senior Executive, Student Development &amp; Alumni Affairs</i>
-	</li>
-</ul>
+		<a href="mailto:Giles_RAQUIZA@tp.edu.sg">Mr Giles Raquiza</a>
+</li></ul>
 
 ##### Pages
 
