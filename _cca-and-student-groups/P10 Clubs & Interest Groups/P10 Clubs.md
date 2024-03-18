@@ -3,14 +3,11 @@ title: P10 Clubs
 permalink: /cca-and-student-groups/p10-and-interest-groups/p10-clubs/
 description: ""
 third_nav_title: P10 Clubs & Interest Groups
+variant: markdown
 ---
 Temasek Polytechnic offers our students exciting opportunities for leadership development through our P10 Clubs (Students' Union and 9 Constituent Clubs), CCAs and Interest Groups. Serve, lead and make a positive impact to the student community, and in the process stretch and hone your leadership skills and develop competencies in the non-academic domains, as you create a fun, caring and vibrant campus that you will be proud of.
 
-**Find out more from TP Students' Union - Managed by Students for Students**
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nV-4sHZ6l_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
 
 ---
 
