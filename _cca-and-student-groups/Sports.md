@@ -6,12 +6,6 @@ variant: markdown
 ---
 Over many years of discipline, diligence and doggedness, many of Temasek Polytechnic’s high performing sports teams have achieved sustained results at the Polytechnic-ITE (POL-ITE) and Institute-Varsity-Polytechnic (IVP) Games. They have brought much honour and pride to TP. In addition, TP has a wide range of sports facilities that serve as venues for sports competitions and friendlies. The close proximity to the scenic and idyllic Bedok Reservoir is also an ideal backyard with ample green and blue spaces for our students to be engaged in trail running or water sports activities. Sports in TP will surely provide plenty of excitement and spectacle for athletes, fans and supporters.
 
-Watch these videos on our Sports Champions and be Inspired!
-
-[![CCA Talk Show (Arts)](/images/Sports/Sports_Take the Podium.jpg)](https://www.youtube.com/watch?v=KR5fxA9nfJg){:target="_blank"}{:rel="noopener"}
-
-[![CCA Talk Show (Arts)](/images/Sports/Sports_Home of Champions.jpg)](https://www.youtube.com/watch?v=nW7-AL2YaCo){:target="_blank"}{:rel="noopener"}
-
 ___
 
 <div>
