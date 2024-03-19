@@ -130,7 +130,7 @@ diverse CCAs offered in TP – ranging from performing arts, sports, adventure,
 community service to entrepreneurship – and lots more! Besides learning
 more about what makes your dream CCA tick and find out if it is indeed
 the one for you, you can also look forward to captivating performances
-by our arts groups that are sure to entertain.</p>
+by our arts groups that are certain to entertain.</p>
 <p>So, get warmed up to the plethora of exciting possibilities and take advantage
 of the many CCAs available to help you achieve your fullest potential.
 Mark the dates for the CCA Fair 2024 now!</p>
