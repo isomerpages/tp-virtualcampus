@@ -29,7 +29,7 @@ performances by our arts groups that are sure to entertain.</p>
 <p><strong>Dates:</strong>&nbsp;17-18 April 2024</p>
 </li>
 <li>
-<p><strong>Time:&nbsp;</strong>11am to 5pm</p>
+<p><strong>Time:&nbsp;</strong>10am to 4pm</p>
 </li>
 <li>
 <p><strong>Venue:&nbsp;</strong>The Plaza</p>
