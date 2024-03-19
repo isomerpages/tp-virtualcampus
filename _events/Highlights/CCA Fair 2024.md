@@ -14,15 +14,15 @@ variant: tiptap
 Maximise your fun.</p>
 <p>Life as a TP student can be as exciting, engaging and empowering as you
 want it to be! As you prepare to embark on your Polytechnic journey, do
-take time to discover the TP community beyond the academics, and build
-friendships, memories and skills that will last you a lifetime.</p>
+take time to discover the TP community beyond your academic pursuits to
+build friendships, memories and skills that will last you a lifetime.</p>
 <p>Join us at the&nbsp;<strong>CCA Fair 2024</strong>&nbsp;to create your
 own journey and experience campus vibrancy like never before! Take your
 pick from the diverse CCAs offered in TP – ranging from performing arts,
 sports, adventure, community service to entrepreneurship – and lots more!</p>
 <p>Besides learning more about what makes your dream CCA tick and find out
 if it is indeed the one for you, you can also look forward to captivating
-performances by our arts groups that are sure to entertain.</p>
+performances by our arts groups that are certain to entertain.</p>
 <p>Mark the dates for the CCA Fair 2024 now. See you there!</p>
 <ul data-tight="true" class="tight">
 <li>
