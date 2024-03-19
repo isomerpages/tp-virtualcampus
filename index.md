@@ -35,7 +35,7 @@ sections:
       button: DISCOVER THE ACTION!
       url: /events/freshmen-orientation-programme-2024/
       alt: Image alt text
-      image: /images/FOP_Page_1920_X_1080px.jpg
+      image: /images/Events/Highlights/FOP_Page_1920_X_1080px_copy.jpg
   - infopic:
       title: Temasek Regatta x SpecTACular 2024
       subtitle: FRESHMEN ORIENTATION PROGRAMME
@@ -48,7 +48,7 @@ sections:
       alt: Image alt text
       image: /images/Temasek_Regatta_Page_1920_X_1080px.jpg
   - infopic:
-      title: "CCA Fair 2024 "
+      title: CCA Fair 2024
       subtitle: EXCITE. ENGAGE. EMPOWER.
       id: infopic
       description: Keen to channel the TP spirit and make your days on campus count?
