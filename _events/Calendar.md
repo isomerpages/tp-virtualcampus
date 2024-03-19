@@ -35,7 +35,7 @@ Life as a TP student can be as exciting, engaging and empowering as you want it 
 		</td>
 		<td style="width:65%"><br>
 			<a href="/events/freshmen-orientation-programme-2024/"><h4 style="margin-top:0%">Freshmen Orientation Programme 2024</h4></a>
-				<h6 style="margin-top:0%"><i>8-12 April 2024</i></h6>
+				<h6 style="margin-top:0%"><i>5-12 April 2024</i></h6>
 				<p style="margin-top:0%">
 
 Hey, Freshies! Congratulations on your successful admission to Temasek Polytechnic and here's wishing you a very warm welcome to the TP Family!
