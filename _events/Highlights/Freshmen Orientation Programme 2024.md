@@ -8,12 +8,12 @@ variant: tiptap
 <h3><strong>Freshmen Orientation Programme 2024</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/FOP_Page_1920_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/FOP_Page_1920_X_1080px_copy.jpg">
 </div>
 <p><strong>Welcome, Freshmen!</strong>
 </p>
 <p>Congratulations on your successful enrolment to Temasek Polytechnic (TP)!</p>
-<p>The Freshmen Orientation Programme (FOP) occupies a special spot in TP’s
+<p>The Freshmen Orientation (FO) Programme occupies a special spot in TP’s
 calendar. It not only celebrates a momentous milestone in your academic
 journey as you progress into tertiary education, it also heralds the start
 of your exciting journey of growth and discovery.</p>
@@ -21,8 +21,8 @@ of your exciting journey of growth and discovery.</p>
 TP has lined up an exciting array of activities to help you kickstart your
 journey on the right note, and to support you in making your transition
 into the Polytechnic less daunting and more enjoyable.</p>
-<p>As part of the FOP, you will get to experience various onboarding activities
-organised by your respective Academic Schools, which are scheduled from <strong>8-12 April 2024</strong>.
+<p>As part of the FO, you will get to experience various onboarding activities
+organised by your respective Academic Schools, which are scheduled from <strong>5-12 April 2024</strong>.
 These activities are specially curated to optimise your assimilation into
 Polytechnic life, while allowing you ample time and space to induct yourself
 into TP’s environment, people and culture.</p>
@@ -123,14 +123,14 @@ refill your bottles at the designated water points on-site to stay hydrated.</p>
 Maximise your fun.</p>
 <p>Life as a TP student can be as exciting, engaging and empowering as you
 want it to be! As you prepare to embark on your Polytechnic journey, do
-take time to discover the TP community beyond the academics, and build
-friendships, memories and skills that will last you a lifetime.</p>
+take time to discover the TP community beyond your academic pursuits and
+build friendships, memories and skills that will last you a lifetime.</p>
 <p>Join us at the <strong>CCA Fair 2024</strong> and take your pick from the
 diverse CCAs offered in TP – ranging from performing arts, sports, adventure,
 community service to entrepreneurship – and lots more! Besides learning
 more about what makes your dream CCA tick and find out if it is indeed
 the one for you, you can also look forward to captivating performances
-by our arts groups that are sure to entertain.</p>
+by our arts groups that are certain to entertain.</p>
 <p>So, get warmed up to the plethora of exciting possibilities and take advantage
 of the many CCAs available to help you achieve your fullest potential.
 Mark the dates for the CCA Fair 2024 now!</p>
@@ -139,11 +139,11 @@ Mark the dates for the CCA Fair 2024 now!</p>
 <p><strong>Dates:</strong> 17-18 April 2024</p>
 </li>
 <li>
-<p><strong>Time: </strong>11am to 5pm</p>
+<p><strong>Time: </strong>10am to 4pm</p>
 </li>
 <li>
 <p><strong>Venue: </strong>The Plaza</p>
 </li>
 </ul>
-<p><strong><em>(Besides Freshmen, Juniors and Seniors are also welcome at the CCA Fair 2024. Keen to find out more? Create your journey <a href="https://virtualcampus.tp.edu.sg/events/ccafair2023/" rel="noopener noreferrer nofollow" target="_blank">here</a>!)</em></strong>
+<p><strong><em>(Besides Freshmen, Juniors and Seniors are also welcome at the CCA Fair 2024. Keen to find out more? Create your journey <a href="https://virtualcampus.tp.edu.sg/events/ccafair2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>!)</em></strong>
 </p>
