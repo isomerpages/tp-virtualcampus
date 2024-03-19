@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>Freshmen Orientation Programme 2024</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/FOP_Page_1920_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/FOP_Page_1920_X_1080px_copy.jpg">
 </div>
 <p><strong>Welcome, Freshmen!</strong>
 </p>
