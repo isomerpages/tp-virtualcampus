@@ -13,7 +13,7 @@ variant: markdown
             <td style="width:45%"><img src="/images/Interest Groups/TPGIG.jpeg" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group"></td>
             <td>
                 <p>
-                    Join our Sustainability Interest Group (previously known as "Green Interest Group")!<br><br>
+                    Join the TP Sustainability Interest Group (previously known as "Green Interest Group")!<br><br>
 									Are you passionate about making a positive impact on the planet? Do you want to be part of a dynamic community dedicated to creating a more sustainable and eco-friendly future? Look no further – our Sustainability Interest Group is the perfect place for you!
 <br>
                     <br>
