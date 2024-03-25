@@ -90,6 +90,13 @@ reproduced below for your convenience.)
 <summary><strong><u>Individual Awards: Categories</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>1.&nbsp;&nbsp; CCA Merit Award (Arts/Sports/Leadership)</strong>
 </p>
 <p>This is awarded to students who have been actively involved in their respective
@@ -98,8 +105,8 @@ CCAs over the past academic year (AY2023/2024).</p>
 </p>
 <p>This is awarded to students who have been actively involved in their competitions
 CCAs over the past academic year (AY2023/2024).</p>
-<p>Submit your nominations for <strong> CCA Merit Award (Arts/Sports/Leadership)</strong> and <strong>Half Colours/Full Colours Award </strong>via
-the prescribed nomination form to the TSEA Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;<a rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></em>
+<p>Submit your nominations for <strong>CCA Merit Award (Arts/Sports/Leadership)</strong> and <strong>Half Colours/Full Colours Award </strong>via
+the prescribed nomination form to the TSEA Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;<a rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></em> 
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[DC(1]</a>&nbsp;<em>.)</em>
 </p>
 <p><strong>3. &nbsp;&nbsp;Temasek CCA Gold Award</strong>
@@ -159,8 +166,6 @@ management skills and strong commitment to TP.</p>
 <p>Submit your nominations <a href="https://forms.office.com/r/zQMqhZafMs?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
-</div>
-<p></p>
 <hr>
 <p><strong><u>Group/Team Awards</u></strong>
 </p>
@@ -168,7 +173,7 @@ management skills and strong commitment to TP.</p>
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
 all Group/Team Awards<strong> </strong><u>here</u>.</p>
-<p><strong>(N/B: Please hyperlink “here” to the downloadable PDF document attached below.)</strong>
+<p><strong>(N/B: Please hyperlink “here” to the downloadable PDF document attached below.)</strong> 
 <br><strong>Step 2</strong>: Submit your nominations by <strong><u>19 April 2024 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in Step 1, and also
 reproduced below for your convenience.)</p>
