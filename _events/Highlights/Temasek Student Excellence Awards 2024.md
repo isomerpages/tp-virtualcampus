@@ -90,13 +90,6 @@ reproduced below for your convenience.)
 <summary><strong><u>Individual Awards: Categories</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>1.&nbsp;&nbsp; CCA Merit Award (Arts/Sports/Leadership)</strong>
 </p>
 <p>This is awarded to students who have been actively involved in their respective
@@ -166,6 +159,7 @@ management skills and strong commitment to TP.</p>
 <p>Submit your nominations <a href="https://forms.office.com/r/zQMqhZafMs?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
+</div>
 <hr>
 <p><strong><u>Group/Team Awards</u></strong>
 </p>
