@@ -73,17 +73,106 @@ any of the awards if no suitable candidates are identified.</p>
 <p></p>
 <p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;<a href="/files/TSEA/2024/TSEA_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</strong>
 </p>
-<p></p>
+<hr>
 <p><strong><u>Individual Awards</u></strong>
 </p>
-<p></p>
 <p>Have an outstanding nominee who deserves to be recognised in any of these
 award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
 all Individual Awards <a href="/files/TSEA/2024/tsea_2024___individual_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p><strong>Step 2:</strong> Submit your nominations by <strong><u>19&nbsp; April 2023 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in Step 1, and also
+reproduced below for your convenience.)
+<br>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Individual Awards: Categories</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>1.&nbsp;&nbsp; CCA Merit Award (Arts/Sports/Leadership)</strong>
+</p>
+<p>This is awarded to students who have been actively involved in their respective
+CCAs over the past academic year (AY2023/2024).</p>
+<p><strong>2. &nbsp;&nbsp;Half Colours/Full Colours Award</strong>
+</p>
+<p>This is awarded to students who have been actively involved in their competitions
+CCAs over the past academic year (AY2023/2024).</p>
+<p>Submit your nominations for <strong> CCA Merit Award (Arts/Sports/Leadership)</strong> and <strong>Half Colours/Full Colours Award </strong>via
+the prescribed nomination form to the TSEA Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;<a rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></em>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[DC(1]</a>&nbsp;<em>.)</em>
+</p>
+<p><strong>3. &nbsp;&nbsp;Temasek CCA Gold Award</strong>
+</p>
+<p>This is awarded to an exemplary and outstanding <strong>final-year student (AY2023/2024)</strong>,
+who has been actively involved in his/her CCA throughout his/her course
+of study in TP.</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/czi5if3rFS?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>4. &nbsp;&nbsp;Artist of the Year</strong>
+</p>
+<p>This is awarded to an artist who has displayed exemplary artistic merit
+and conduct in his/her CCA over the past academic year (AY2023/2024).</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/czi5if3rFS?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>5. &nbsp;&nbsp;Sportsperson of the Year</strong>
+</p>
+<p>This is awarded to a sportsperson who has displayed exemplary sportsmanship
+and conduct in his/her CCA over the past academic year (AY2023/2024).</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/czi5if3rFS?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>6.&nbsp;&nbsp; Student Leader of the Year</strong>
+</p>
+<p>This is awarded to a student leader who has displayed exemplary leadership
+and conduct in his/her CCA over the past academic year (AY2023/2024).</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/czi5if3rFS?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>7.&nbsp;&nbsp; TP Character Award</strong>
+</p>
+<p>This is awarded to students of&nbsp;outstanding character, who exemplify
+key values such as integrity, respect, responsibility, resilience and compassion.</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/czi5if3rFS?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>8. &nbsp;&nbsp;Promising Young Entrepreneur Award</strong>
+</p>
+<p>This is awarded to entrepreneurial students / fresh graduates, whose businesses
+exhibit excellent growth or high potential for growth and scalability.</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/czi5if3rFS?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>9. &nbsp;&nbsp;Community Service Excellence Award</strong>
+</p>
+<p>This is awarded to students who have demonstrated commitment to advance
+the welfare of their community at large, and/or who have made significant
+contributions to this community over the past academic year (AY2023/2024).</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/czi5if3rFS?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>10. &nbsp;&nbsp;Service Excellence Award</strong>
+</p>
+<p>This is awarded to students who have demonstrated a high level of commitment
+to supporting TP activities, and who have made significant contributions
+to the wider TP community over the past academic year (AY2023/2024)</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/czi5if3rFS?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>11. &nbsp;Temasek Student Eco-Award</strong>
+</p>
+<p>This is awarded to students who have demonstrated a high level of commitment
+to championing or supporting eco-initiatives, and who have contributed
+significantly to sustainability efforts over the past academic year (AY2023/2024).</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/Vn5WVcuj7m?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>12.&nbsp; Outstanding Coach/Instructor Award</strong>
+</p>
+<p>This is awarded to an <strong>officially-appointed TP coach or instructor</strong> who
+has performed consistently well, and who has demonstrated excellent student/team
+management skills and strong commitment to TP.</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/zQMqhZafMs?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</div>
+</details>
+</div>
+<p></p>
+<hr>
+<p><strong><u>Group/Team Awards</u></strong>
+</p>
+<p>Have an outstanding group of students who deserves to be recognised in
+any of these award categories? Submit your nomination today!</p>
+<p><strong>Step 1</strong>: Download and read the eligibility criteria for
+all Group/Team Awards<strong> </strong><u>here</u>.</p>
+<p><strong>(N/B: Please hyperlink “here” to the downloadable PDF document attached below.)</strong>
+<br><strong>Step 2</strong>: Submit your nominations by <strong><u>19 April 2024 (Friday), 11.59pm</u></strong>.
+(Nomination links are provided in the PDF document in Step 1, and also
 reproduced below for your convenience.)</p>
+<hr>
 <p></p>
 <p>For enquiries, please contact:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
