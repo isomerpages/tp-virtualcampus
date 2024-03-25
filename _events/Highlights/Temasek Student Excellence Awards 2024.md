@@ -73,5 +73,17 @@ any of the awards if no suitable candidates are identified.</p>
 <p></p>
 <p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;<a href="/files/TSEA/2024/TSEA_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</strong>
 </p>
+<p></p>
+<p><strong><u>Individual Awards</u></strong>
+</p>
+<p></p>
+<p>Have an outstanding nominee who deserves to be recognised in any of these
+award categories? Submit your nomination today!</p>
+<p><strong>Step 1:</strong> Download and read the eligibility criteria for
+all Individual Awards <a href="/files/TSEA/2024/tsea_2024___individual_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p><strong>Step 2:</strong> Submit your nominations by <strong><u>19&nbsp; April 2023 (Friday), 11.59pm</u></strong>.
+(Nomination links are provided in the PDF document in Step 1, and also
+reproduced below for your convenience.)</p>
+<p></p>
 <p>For enquiries, please contact:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
