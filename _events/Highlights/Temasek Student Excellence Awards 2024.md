@@ -20,13 +20,20 @@ to announce that nominations for the TSEA are now open!</p>
 commitment, and inspiring leadership by nominating them for the TSEA today.
 Let's uplift their spirits and give them the recognition they truly deserve!</p>
 <p>Nominate them for the TSEA today!</p>
-<p><strong>Announcement<br></strong>Nominations for the TSEA are open from
-now till <strong><a rel="noopener noreferrer nofollow" target="_blank"><u>19 April 2023 (Friday</u></a><u>)</u></strong>.
-Please refer to the full list of awards, as well as the eligibility criteria,
-nomination process and submission forms/links below.</p>
 <p></p>
+<blockquote>
+<p><strong>Announcement</strong>
+</p>
+</blockquote>
+<p><strong><br></strong>Nominations for the TSEA are open from now till 19
+April 2024 (Friday). Please refer to the full list of awards, as well as
+the eligibility criteria, nomination process and submission forms/links
+below.</p>
+<p></p>
+<blockquote>
 <p><strong>General Information (Award Nomination)</strong>
 </p>
+</blockquote>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Nominations for the TSEA are open from now till <strong><u>19 April 2023 (Friday),11.59pm</u></strong>.
 Nominations received after the deadline will strictly not be accepted.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Unless otherwise specified, only TP CCAs registered
@@ -51,8 +58,10 @@ before submitting their nominations.&nbsp;</p>
 <p></p>
 <p><em>(*Students are allowed to nominate themselves for the Temasek Student Eco-Award. TP staff can submit nominations for this award as well.)</em>
 </p>
+<blockquote>
 <p>&nbsp;<strong>Selection (Award Selection)</strong>
 </p>
+</blockquote>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; All forms must clearly indicate the nominated
 award category. However, the Selection Panel will make the final decision
 for the category that is most applicable.</p>
@@ -64,8 +73,10 @@ of artistic merit, leadership skills and sportsmanship.</p>
 Selection Panel and the decision of the Panel is final. Neither direct
 communication nor appeals will be entertained.</p>
 <p></p>
+<blockquote>
 <p><strong>Conditions</strong>
 </p>
+</blockquote>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; The award may be withdrawn from the recipient,
 should inaccurate facts or information be provided at the time of nomination.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; The Polytechnic reserves the right not to award
@@ -160,7 +171,6 @@ management skills and strong commitment to TP.</p>
 </div>
 </details>
 </div>
-<hr>
 <p><strong><u>Group/Team Awards</u></strong>
 </p>
 <p>Have an outstanding group of students who deserves to be recognised in
@@ -176,73 +186,49 @@ reproduced below for your convenience.)</p>
 <summary><strong><u>Group/Team Awards: Categories</u></strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p><strong>1.&nbsp;&nbsp; Arts Group of the Year</strong>
 </p>
-<p></p>
 <p>This is awarded to an outstanding arts group that has displayed high artistic
 merit and contributed to the vibrancy of campus life over the past academic
 year (AY2023/2024).</p>
-<p>&nbsp;</p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p><strong>2.&nbsp;&nbsp; Sports Team of the Year</strong>
 </p>
-<p></p>
 <p>This is awarded to an outstanding sports team that has met the requirements
 (refer to the eligibility criteria in the PDF document) over the past academic
 year (AY2023/2024).</p>
-<p>&nbsp;</p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p><strong>3.&nbsp;&nbsp; School Club of the Year</strong>
 </p>
-<p></p>
 <p>This is applicable to the respective Studies Clubs of the six schools,
 which has contributed in an impactful way to its School as well as the
 wider community over the past academic year (AY2023/2024).</p>
-<p></p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>4.&nbsp;&nbsp; Interest Group of the Year</strong>
 </p>
-<p></p>
 <p>This is awarded to an outstanding Interest Group that that has met the
 requirements (refer to the eligibility criteria in the PDF document) over
 the past academic year (AY2023/2024).</p>
-<p></p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p><strong>5. &nbsp;&nbsp;Promising Young Entrepreneur Award</strong>
 </p>
-<p></p>
 <p>This is awarded to groups of entrepreneurial students / fresh graduates,
 whose businesses exhibit excellent growth or high potential for growth
 and scalability.</p>
-<p></p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p><strong>6. &nbsp;&nbsp;Community Service Excellence Award</strong>
 </p>
-<p></p>
 <p>This is awarded to groups of students who have demonstrated commitment
 to advance the welfare of their community at large, and/or who have made
 significant contributions to this community over the past academic year
-(AY2023/2024).</p>
-<p></p>
+(AY2023/2024)</p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 <p><strong>7. &nbsp;&nbsp;Service Excellence Award</strong>
 </p>
-<p></p>
 <p>This is awarded to groups of students who have demonstrated a high level
 of commitment to supporting TP activities, and who have made significant
 contributions to the wider TP community over the past academic year (AY2023/2024).</p>
-<p></p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
 </div>
 </details>
 </div>
