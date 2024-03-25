@@ -35,7 +35,7 @@ with the Student Development &amp; Alumni Affairs Department are eligible
 for the TSEA.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; For the CCA Merit Award (Arts/Sports/Leadership),
 Full Colours and Half Colours Award, CCA advisors are to submit their nominations&nbsp;via
-the prescribed nomination form&nbsp;to the TSEA Secretariat at:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong> (Only
+the prescribed nomination form&nbsp;to the TSEA Secretariat at: <a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a> (Only
 electronic submissions will be accepted.)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; For the Individual Higher Awards, Group/Team
 Higher Awards and Outstanding Coach/Instructor Award, nominations must
@@ -162,8 +162,7 @@ management skills and strong commitment to TP.</p>
 <p>Have an outstanding group of students who deserves to be recognised in
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
-all Group/Team Awards<strong> </strong><a href="/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>
+all Group/Team Awards<strong> </strong><a href="/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 <br><strong>Step 2</strong>: Submit your nominations by <strong><u>19 April 2024 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in Step 1, and also
 reproduced below for your convenience.)</p>
