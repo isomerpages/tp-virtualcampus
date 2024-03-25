@@ -171,6 +171,81 @@ all Group/Team Awards<strong> </strong><u>here</u>.</p>
 <br><strong>Step 2</strong>: Submit your nominations by <strong><u>19 April 2024 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in Step 1, and also
 reproduced below for your convenience.)</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Group/Team Awards: Categories</u></strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>1.&nbsp;&nbsp; Arts Group of the Year</strong>
+</p>
+<p></p>
+<p>This is awarded to an outstanding arts group that has displayed high artistic
+merit and contributed to the vibrancy of campus life over the past academic
+year (AY2023/2024).</p>
+<p>&nbsp;</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong>2.&nbsp;&nbsp; Sports Team of the Year</strong>
+</p>
+<p></p>
+<p>This is awarded to an outstanding sports team that has met the requirements
+(refer to the eligibility criteria in the PDF document) over the past academic
+year (AY2023/2024).</p>
+<p>&nbsp;</p>
+<p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong>3.&nbsp;&nbsp; School Club of the Year</strong>
+</p>
+<p></p>
+<p>This is applicable to the respective Studies Clubs of the six schools,
+which has contributed in an impactful way to its School as well as the
+wider community over the past academic year (AY2023/2024).</p>
+<p></p>
+<p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>4.&nbsp;&nbsp; Interest Group of the Year</strong>
+</p>
+<p></p>
+<p>This is awarded to an outstanding Interest Group that that has met the
+requirements (refer to the eligibility criteria in the PDF document) over
+the past academic year (AY2023/2024).</p>
+<p></p>
+<p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong>5. &nbsp;&nbsp;Promising Young Entrepreneur Award</strong>
+</p>
+<p></p>
+<p>This is awarded to groups of entrepreneurial students / fresh graduates,
+whose businesses exhibit excellent growth or high potential for growth
+and scalability.</p>
+<p></p>
+<p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong>6. &nbsp;&nbsp;Community Service Excellence Award</strong>
+</p>
+<p></p>
+<p>This is awarded to groups of students who have demonstrated commitment
+to advance the welfare of their community at large, and/or who have made
+significant contributions to this community over the past academic year
+(AY2023/2024).</p>
+<p></p>
+<p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong>7. &nbsp;&nbsp;Service Excellence Award</strong>
+</p>
+<p></p>
+<p>This is awarded to groups of students who have demonstrated a high level
+of commitment to supporting TP activities, and who have made significant
+contributions to the wider TP community over the past academic year (AY2023/2024).</p>
+<p></p>
+<p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <p>For enquiries, please contact:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
