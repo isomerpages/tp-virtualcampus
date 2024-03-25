@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2024
+      subtitle: TSEA 2024
+      id: infopic
+      description: "Celebrate your students’ contributions, passion and spirit.
+        Inspire them to continue the good fight. Nominate them for the TSEA
+        today! "
+      button: "NOMINATE NOW! "
+      url: /tsea-2024/
+      image: /images/Events/Highlights/TSEA_Banner_Drafts_JPG.jpg
+      alt: Image alt text
+  - infopic:
       title: Freshmen Orientation Programme 2024
       subtitle: FRESHMEN ORIENTATION PROGRAMME
       id: infopic
