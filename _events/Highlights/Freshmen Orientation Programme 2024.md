@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<h3><strong>Freshmen Orientation Programme 2024</strong></h3>
+<h3><strong>Freshmen Orientation 2024</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/FOP_Page_1920_X_1080px_copy.jpg">
@@ -13,10 +13,10 @@ variant: tiptap
 <p><strong>Welcome, Freshmen!</strong>
 </p>
 <p>Congratulations on your successful enrolment to Temasek Polytechnic (TP)!</p>
-<p>The Freshmen Orientation (FO) Programme occupies a special spot in TP’s
-calendar. It not only celebrates a momentous milestone in your academic
-journey as you progress into tertiary education, it also heralds the start
-of your exciting journey of growth and discovery.</p>
+<p>The Freshmen Orientation (FO) occupies a special spot in TP’s calendar.
+It not only celebrates a momentous milestone in your academic journey as
+you progress into tertiary education, it also heralds the start of your
+exciting journey of growth and discovery.</p>
 <p>Feeling jittery before the commencement of Polytechnic life? Fret not!
 TP has lined up an exciting array of activities to help you kickstart your
 journey on the right note, and to support you in making your transition
