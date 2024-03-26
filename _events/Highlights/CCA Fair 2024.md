@@ -35,6 +35,26 @@ performances by our arts groups that are certain to entertain.</p>
 <p><strong>Venue:&nbsp;</strong>The Plaza</p>
 </li>
 </ul>
+<p><strong>👉 Follow our socials to stay connected with TP!</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.facebook.com/temasekpoly/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/school/temasek-polytechnic/?viewAsMember=true" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tiktok.com/%40temasekpoly?lang=en" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>
+</p>
+</li>
+</ul>
 <p><em>(Calling all Juniors and Seniors! Besides Freshmen, you are also welcome to explore many exciting possibilities at the CCA Fair 2024. Keen to find out more? Check out our CCAs via the links below!)</em>
 </p>
 <p><em>(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)</em>
