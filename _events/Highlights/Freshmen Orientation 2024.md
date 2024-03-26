@@ -64,7 +64,6 @@ hope that you will embrace the <strong>Team Temasek Spirit</strong> – a specia
 bond shared by our TP family across varied backgrounds, cultures and countries,
 and cemented by our collective Spirit of Excellence, Resilience, Respect
 and Care for others.</p>
-<p>We look forward to welcoming you to TP!</p>
 <p>Last but not least, do follow our socials to stay connected (refer to
 links below). We look forward to welcoming you to TP!</p>
 <ul data-tight="true" class="tight">
