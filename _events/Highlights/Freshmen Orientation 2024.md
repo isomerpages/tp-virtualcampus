@@ -65,6 +65,26 @@ bond shared by our TP family across varied backgrounds, cultures and countries,
 and cemented by our collective Spirit of Excellence, Resilience, Respect
 and Care for others.</p>
 <p>We look forward to welcoming you to TP!</p>
+<p>Last but not least, do follow our socials to stay connected (refer to
+links below). We look forward to welcoming you to TP!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.facebook.com/temasekpoly/" rel="noopener noreferrer" target="_blank"><u>Facebook</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener noreferrer" target="_blank"><u>Instagram</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/school/temasek-polytechnic/?viewAsMember=true" rel="noopener noreferrer" target="_blank"><u>LinkedIn</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tiktok.com/%40temasekpoly?lang=en" rel="noopener noreferrer" target="_blank"><u>TikTok</u></a>
+</p>
+</li>
+</ul>
 <p></p>
 <p><strong><em>(This page is constantly being updated with new information. Please remember to visit again nearer to April 2024.</em></strong>
 </p>
