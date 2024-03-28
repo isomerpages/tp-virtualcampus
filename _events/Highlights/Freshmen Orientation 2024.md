@@ -25,7 +25,8 @@ into the Polytechnic less daunting and more enjoyable.</p>
 organised by your respective Academic Schools, which are scheduled from <strong>5-12 April 2024</strong>.
 These activities are specially curated to optimise your assimilation into
 Polytechnic life, while allowing you ample time and space to induct yourself
-into TP’s environment, people and culture.</p>
+into TP’s environment, people and culture. Do check your&nbsp;<strong>TP Student email</strong>&nbsp;<strong>(240XXXXX@student.tp.edu.sg)</strong>&nbsp;to
+find out more about the FO dates/activities applicable to you!</p>
 <p>During these activities, you will get to:</p>
 <ul data-tight="true" class="tight">
 <li>
