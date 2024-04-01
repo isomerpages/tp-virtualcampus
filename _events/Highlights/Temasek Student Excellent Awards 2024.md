@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>Temasek Student Excellence Awards 2024</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png">
-</div>
+<h3><strong>Temasek Student Excellence Awards 2024</strong></h3><a class="isomer-image-wrapper" href="https://virtualcampus.tp.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png"></a>
 <p>The Temasek Student Excellence Awards (TSEA) are presented annually to
 recognise the inspiring achievements and outstanding contributions of students
 in non-academic domains , such as the arts, sports, leadership, service,
