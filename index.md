@@ -33,7 +33,7 @@ sections:
         them to continue the good fight. Nominate them for the TSEA today!
       button: NOMINATE NOW!
       url: /tsea-2024/
-      image: /images/Events/Highlights/TSEA_Banner_Drafts_JPG.jpg
+      image: /images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png
       alt: Image alt text
   - infopic:
       title: Freshmen Orientation 2024
