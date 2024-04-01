@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>Temasek Student Excellence Awards 2024</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TSEA 2024 Banner" src="/images/Events/Highlights/TSEA_Banner_Drafts_JPG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png">
 </div>
 <p>The Temasek Student Excellence Awards (TSEA) are presented annually to
 recognise the inspiring achievements and outstanding contributions of students
