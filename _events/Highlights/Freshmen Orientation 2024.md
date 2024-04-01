@@ -1,11 +1,11 @@
 ---
-title: Freshmen Orientation Programme 2024
+title: Freshmen Orientation 2024
 permalink: /events/freshmen-orientation-programme-2024/
 description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<h3><strong>Freshmen Orientation Programme 2024</strong></h3>
+<h3><strong>Freshmen Orientation 2024</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/FOP_Page_1920_X_1080px_copy.jpg">
@@ -13,10 +13,10 @@ variant: tiptap
 <p><strong>Welcome, Freshmen!</strong>
 </p>
 <p>Congratulations on your successful enrolment to Temasek Polytechnic (TP)!</p>
-<p>The Freshmen Orientation (FO) Programme occupies a special spot in TP’s
-calendar. It not only celebrates a momentous milestone in your academic
-journey as you progress into tertiary education, it also heralds the start
-of your exciting journey of growth and discovery.</p>
+<p>The Freshmen Orientation (FO) occupies a special spot in TP’s calendar.
+It not only celebrates a momentous milestone in your academic journey as
+you progress into tertiary education, it also heralds the start of your
+exciting journey of growth and discovery.</p>
 <p>Feeling jittery before the commencement of Polytechnic life? Fret not!
 TP has lined up an exciting array of activities to help you kickstart your
 journey on the right note, and to support you in making your transition
@@ -25,7 +25,8 @@ into the Polytechnic less daunting and more enjoyable.</p>
 organised by your respective Academic Schools, which are scheduled from <strong>5-12 April 2024</strong>.
 These activities are specially curated to optimise your assimilation into
 Polytechnic life, while allowing you ample time and space to induct yourself
-into TP’s environment, people and culture.</p>
+into TP’s environment, people and culture. Do check your&nbsp;<strong>TP Student email</strong>&nbsp;<strong>(240XXXXX@student.tp.edu.sg)</strong>&nbsp;to
+find out more about the FO dates/activities applicable to you!</p>
 <p>During these activities, you will get to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -64,7 +65,26 @@ hope that you will embrace the <strong>Team Temasek Spirit</strong> – a specia
 bond shared by our TP family across varied backgrounds, cultures and countries,
 and cemented by our collective Spirit of Excellence, Resilience, Respect
 and Care for others.</p>
-<p>We look forward to welcoming you to TP!</p>
+<p>Last but not least, do follow our socials to stay connected (refer to
+links below). We look forward to welcoming you to TP!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.facebook.com/temasekpoly/" rel="noopener noreferrer" target="_blank"><u>Facebook</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener noreferrer" target="_blank"><u>Instagram</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/school/temasek-polytechnic/?viewAsMember=true" rel="noopener noreferrer" target="_blank"><u>LinkedIn</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tiktok.com/%40temasekpoly?lang=en" rel="noopener noreferrer" target="_blank"><u>TikTok</u></a>
+</p>
+</li>
+</ul>
 <p></p>
 <p><strong><em>(This page is constantly being updated with new information. Please remember to visit again nearer to April 2024.</em></strong>
 </p>

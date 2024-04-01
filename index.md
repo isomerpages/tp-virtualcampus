@@ -26,8 +26,18 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: Freshmen Orientation Programme 2024
-      subtitle: FRESHMEN ORIENTATION PROGRAMME
+      title: Temasek Student Excellence Awards 2024
+      subtitle: TSEA 2024
+      id: infopic
+      description: Celebrate your students’ contributions, passion and spirit. Inspire
+        them to continue the good fight. Nominate them for the TSEA today!
+      button: NOMINATE NOW!
+      url: /tsea-2024/
+      image: /images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png
+      alt: Image alt text
+  - infopic:
+      title: Freshmen Orientation 2024
+      subtitle: "WELCOME TO THE #TPFAM!"
       id: infopic
       description: "Hey Freshies, welcome to the #TPFAM! Get ready for a series of
         exciting Freshmen Orientation activities to kickstart your TP journey on
@@ -38,7 +48,7 @@ sections:
       image: /images/Events/Highlights/FOP_Page_1920_X_1080px_copy.jpg
   - infopic:
       title: Temasek Regatta x SpecTACular 2024
-      subtitle: FRESHMEN ORIENTATION PROGRAMME
+      subtitle: "WELCOME TO THE #TPFAM!"
       id: infopic
       description: Wrap up your onboarding experience at this finale programme,
         featuring exciting dragon boat races, aqua tele-matches, as well as
