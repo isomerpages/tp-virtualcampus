@@ -162,8 +162,7 @@ management skills and strong commitment to TP.</p>
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
 all Group/Team Awards<strong> </strong><a href="/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>
-<br><strong>Step 2</strong>: Submit your nominations by <strong><u>19 April 2024 (Friday), 11.59pm</u></strong>.
+<p><strong>Step 2</strong>: Submit your nominations by <strong><u>19 April 2024 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in Step 1, and also
 reproduced below for your convenience.)</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
