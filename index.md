@@ -26,7 +26,7 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2024
+      title: Temasek Student Excellence Awards 2024
       subtitle: TSEA 2024
       id: infopic
       description: Celebrate your students’ contributions, passion and spirit. Inspire
