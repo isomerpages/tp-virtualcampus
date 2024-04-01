@@ -79,7 +79,7 @@ any of the awards if no suitable candidates are identified.</p>
 award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
 all Individual Awards <a href="/files/TSEA/2024/tsea_2024___individual_awards.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Step 2:</strong> Submit your nominations by <strong><u>19&nbsp; April 2024 (Friday), 11.59pm</u></strong>.
+<p><strong>Step 2:</strong> Submit your nominations by <strong><u>19 April 2024 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in Step 1, and also
 reproduced below for your convenience.)</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -96,8 +96,8 @@ CCAs over the past academic year (AY2023/2024).</p>
 <p>This is awarded to students who have been actively involved in their competitions
 CCAs over the past academic year (AY2023/2024).</p>
 <p>Submit your nominations for <strong>CCA Merit Award (Arts/Sports/Leadership)</strong> and <strong>Half Colours/Full Colours Award </strong>via
-the prescribed nomination form to the TSEA Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;</em> 
-<a href="https://studenttpedu-my.sharepoint.com/:x:/r/personal/ongbk_tp_edu_sg/Documents/TSEA%202024/TSEA%202024%20-%20Merit%20and%20Colours.xlsx?d=wadc314dfa65d466799f28e833686dc74&amp;csf=1&amp;web=1&amp;e=ARssAr&amp;nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0" rel="noopener noreferrer nofollow" target="_blank">here</a><em>.)</em>
+the prescribed nomination form to the TSEA Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;</em>
+<a href="https://teams.microsoft.com/l/message/19:b9e4ce7c-3077-4950-97b0-c2b88ac0379a_e70a8fb9-5c34-4e00-80de-f26fa24fca43@unq.gbl.spaces/1711942073059?context=%7B%22contextType%22%3A%22chat%22%7D" rel="noopener noreferrer nofollow" target="_blank">here</a><em>.)</em>
 </p>
 <p><strong>3. &nbsp;&nbsp;Temasek CCA Gold Award</strong>
 </p>
