@@ -176,8 +176,8 @@ year (AY2023/2024).</p>
 <p><strong>2.&nbsp;&nbsp; Sports Team of the Year</strong>
 </p>
 <p>This is awarded to an outstanding sports team that has met the requirements
-(refer to the eligibility criteria in the PDF document) over the past academic
-year (AY2023/2024).</p>
+(refer to the eligibility criteria in the PDF document <a href="/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>)
+over the past academic year (AY2023/2024).</p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>3.&nbsp;&nbsp; School Club of the Year</strong>
 </p>
@@ -188,8 +188,8 @@ wider community over the past academic year (AY2023/2024).</p>
 <p><strong>4.&nbsp;&nbsp; Interest Group of the Year</strong>
 </p>
 <p>This is awarded to an outstanding Interest Group that that has met the
-requirements (refer to the eligibility criteria in the PDF document) over
-the past academic year (AY2023/2024).</p>
+requirements (refer to the eligibility criteria in the PDF document <a href="/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>)
+over the past academic year (AY2023/2024).</p>
 <p>Submit your nominations <a href="https://forms.office.com/r/gP6Cwp42Xg?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>5. &nbsp;&nbsp;Promising Young Entrepreneur Award</strong>
 </p>
