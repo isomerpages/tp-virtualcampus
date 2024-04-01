@@ -96,7 +96,7 @@ CCAs over the past academic year (AY2023/2024).</p>
 <p>This is awarded to students who have been actively involved in their competitions
 CCAs over the past academic year (AY2023/2024).</p>
 <p>Submit your nominations for <strong>CCA Merit Award (Arts/Sports/Leadership)</strong> and <strong>Half Colours/Full Colours Award </strong>via
-the prescribed nomination form to the TSEA Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;</em>
+the prescribed nomination form to the TSEA Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;</em> 
 <a href="https://studenttpedu-my.sharepoint.com/:x:/g/personal/ongbk_tp_edu_sg/Ed8Uw61dpmdGmfKOgzaG3HQBYrCfsgx_FD-hjmwK9ER75A" rel="noopener noreferrer nofollow" target="_blank">here</a><em>.)</em>
 </p>
 <p><strong>3. &nbsp;&nbsp;Temasek CCA Gold Award</strong>
