@@ -24,7 +24,7 @@ forms/links below.</p>
 <p></p>
 <p><strong>General Information (Award Nomination)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Nominations for the TSEA are open from now till <strong><u>19 April 2023 (Friday),11.59pm</u></strong>.
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Nominations for the TSEA are open from now till <strong><u>19 April 2024 (Friday),11.59pm</u></strong>.
 Nominations received after the deadline will strictly not be accepted.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; Unless otherwise specified, only TP CCAs registered
 with the Student Development &amp; Alumni Affairs Department are eligible
