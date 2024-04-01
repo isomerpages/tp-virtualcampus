@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>Temasek Student Excellence Awards 2024</strong></h3><a class="isomer-image-wrapper" href="https://virtualcampus.tp.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png"></a>
+<h3><strong>Temasek Student Excellence Awards 2024</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png">
+</div>
 <p>The Temasek Student Excellence Awards (TSEA) are presented annually to
 recognise the inspiring achievements and outstanding contributions of students
 in non-academic domains , such as the arts, sports, leadership, service,
@@ -158,7 +161,8 @@ management skills and strong commitment to TP.</p>
 <p>Have an outstanding group of students who deserves to be recognised in
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
-all Group/Team Awards<strong> </strong><a href="/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+all Group/Team Awards<strong> </strong><a href="/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>
 <br><strong>Step 2</strong>: Submit your nominations by <strong><u>19 April 2024 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in Step 1, and also
 reproduced below for your convenience.)</p>
