@@ -96,12 +96,11 @@ links below). We look forward to welcoming you to TP!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Temasek_Regatta_Page_1920_X_1080px.jpg">
 </div>
-<p>Annually, our staple FOP highlights – Temasek Regatta (dragon boat contest)
+<p>Annually, our staple FO highlights – Temasek Regatta (dragon boat contest)
 and Temasek SpecTACular (arts concert) – are held to mark the end of your
-FOP journey, as well as the start of your Polytechnic life. Brought to
-you in an integrated and immersive format, this event also encapsulates
-the very best of TP’s creative energies, sporting excellence and artistic
-splendour.</p>
+FO journey, as well as the start of your Polytechnic life. Brought to you
+in an integrated and immersive format, this event also encapsulates the
+very best of TP’s creative energies, sporting excellence and artistic splendour.</p>
 <p>Presenting to you.. the <strong>Temasek Regatta x SpecTACular</strong>,
 happening in our own backyard (Bedok Reservoir) on <strong>12 April 2024</strong>!</p>
 <p><strong>Temasek Regatta: Make a Splash &amp; Have Fun in the Sun!</strong>
@@ -109,7 +108,7 @@ happening in our own backyard (Bedok Reservoir) on <strong>12 April 2024</strong
 <p>What better way is there to end your freshmen orientation experience on
 a high note than by bonding with your friends, while experiencing a slice
 of the campus vibrancy that TP is known for?</p>
-<p>A time-honoured tradition in the FOP calendar, the <strong>Temasek Regatta</strong> brings
+<p>A time-honoured tradition in the FO calendar, the <strong>Temasek Regatta</strong> brings
 together our TP family for a day of fun, play and action!</p>
 <p>Watch your friends paddle their hardest through a series of exciting dragon
 boat races and aqua tele-matches. Be stoked for your peers as they perform
@@ -118,7 +117,7 @@ creative cheers that epitomise your School’s spirit, camaraderie and values
 <p><strong>SpecTACular: Be Dazzled by Our Finest Arts Talents!</strong>
 </p>
 <p>Another memorable experience shared across generations of TPians, the
-arts component of our FOP – SpecTACular – will be staged as a consolidated
+arts component of our FO – SpecTACular – will be staged as a consolidated
 experience for you this year!</p>
 <p>Featuring the finest talents of the Temasek Arts Centre, be enthralled
 by the lively acts that represent our Arts Groups. From groovy beats, melodious
