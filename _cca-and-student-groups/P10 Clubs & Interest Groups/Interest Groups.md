@@ -64,7 +64,7 @@ variant: markdown
 </a>
 						</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/green-interest-group/" style="text-decoration: none">
-<img src="/images/Interest Groups/GIG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sustainability Interest Group">
+<img src="https://hosting.photobucket.com/images/i/tracyng81/Icons-01.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Sustainability Interest Group">
 </a>
 </td>
 					</tr>
