@@ -23,6 +23,9 @@ sports, adventure, community service to entrepreneurship – and lots more!</p>
 <p>Besides learning more about what makes your dream CCA tick and find out
 if it is indeed the one for you, you can also look forward to captivating
 performances by our arts groups that are certain to entertain.</p>
+<p>Also, fancy a great thirst-quenching drink to beat the sweltering heat
+these days? Get your fix from the friendly folks at the MILO van, which
+will make a special appearance on <strong>17 Apr 2024</strong>, <strong>11am to 2pm</strong>!</p>
 <p>Mark the dates for the CCA Fair 2024 now. See you there!</p>
 <ul data-tight="true" class="tight">
 <li>
