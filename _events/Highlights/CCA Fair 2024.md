@@ -7,7 +7,9 @@ variant: tiptap
 ---
 <h3><strong>CCA Fair 2024</strong></h3>
 <p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fFXSTxuJtHY?si=XssRfvfau48p9GSP"></iframe>
+</div>
 <p>Discover your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.</p>
 <p>Life as a TP student can be as exciting, engaging and empowering as you
@@ -56,6 +58,10 @@ will make a special appearance on <strong>17 Apr 2024</strong>, <strong>11am to 
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Banner_1920px_by_1080px_FA_copy.jpg">
+</div>
 <p><em>(Calling all Juniors and Seniors! Besides Freshmen, you are also welcome to explore many exciting possibilities at the CCA Fair 2024. Keen to find out more? Check out our CCAs via the links below!)</em>
 </p>
 <p><em>(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)</em>
