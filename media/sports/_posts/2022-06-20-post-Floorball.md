@@ -27,7 +27,7 @@ variant: markdown
                 </ul>
               <p></p>
               <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Tan_Thian_Seng@tp.edu.sg">Mr Tan Thian Seng</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG)"> Mr Muhammad Haffiz Amin</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tpfloorball/">Instagram</a><br>
                 <br>
