@@ -31,7 +31,7 @@ variant: markdown
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Thalia_Lam@tp.edu.sg">Ms Thalia Lam</a> &amp; <a href="mailto:Huang_Tengyi@tp.edu.sg">Mr Huang Tengyi</a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/projectinnov8/">Instagram</a>
+                    CCA <a href="https://www.instagram.com/space__haus/?hl=en">Instagram</a>
                 </p>
             </td>
         </tr>
@@ -58,7 +58,7 @@ variant: markdown
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CZ511xAPArF/">
+                <a href="https://www.instagram.com/space__haus/?hl=en">
                     <img src="/images/Interest Groups/PROJECT INNOV8_5 Strangest but Fascinating Fitness Products.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">5 Strangest but Fascinating Fitness Products</h6>
                     

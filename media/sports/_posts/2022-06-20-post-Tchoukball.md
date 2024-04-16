@@ -19,7 +19,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Tuesday &amp; Friday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG">Mr Muhammad Haffiz Amin</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Tan_Thian_Seng@TP.EDU.SG">Mr Tan Thian Seng</a> (Men's Team) &amp; <a href="mailto:Nur_Soleha_Kamal@TP.EDU.SG">Ms Nur Soleha Kamal</a> (Women's Team)<br>
                 <br>
                 CCA <a href="https://www.instagram.com/tptchouk">Instagram</a>
             </p>

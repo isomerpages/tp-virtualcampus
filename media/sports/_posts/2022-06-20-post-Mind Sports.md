@@ -16,7 +16,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Wednesday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:TAN_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Koh_Wen_Kiat@TP.EDU.SG">Mr Koh Wen Kiat</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tp_mindsports">Instagram</a>
             </p>

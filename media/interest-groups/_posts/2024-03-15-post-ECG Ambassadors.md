@@ -10,7 +10,7 @@ variant: markdown
 <div>
     <table>
         <tbody><tr>
-            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/ECG_Ambassadors.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts &amp; Writing Club"></td>
+            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/ECG_Square.png?width=300&amp;height=4300&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts &amp; Writing Club"></td>
             <td>
                 <p>
 At ECG Ambassadors Interest Group, we aim to equip ECG Ambassadors with the resources, tools and knowledge to help fellow TP students feel supported and confident in navigating the various post-poly pathways available.<br> <br><b>Objectives:</b>

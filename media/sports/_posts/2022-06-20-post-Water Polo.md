@@ -20,7 +20,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Thursday, 7pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Tan_Thian_Seng@tp.edu.sg">Mr Tan Thian Seng</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/temasekwaterpolo/">Instagram</a>
             </p>
