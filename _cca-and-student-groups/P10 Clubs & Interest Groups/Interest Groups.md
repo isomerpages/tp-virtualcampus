@@ -132,5 +132,9 @@ variant: markdown
 <a href="/interest-groups/visual-arts-and-writing-club/" style="text-decoration: none">
 <img src="/images/Interest Groups/VAWC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts &amp; Writing Club">
 </a>
+		</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
+<a href="/interest-groups/global-ambassadors-engineering/" style="text-decoration: none">
+<img src="/images/Interest Groups/VAWC_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Visual Arts &amp; Writing Club">
+</a>
 </td></tr></tbody></table>
 </div>
