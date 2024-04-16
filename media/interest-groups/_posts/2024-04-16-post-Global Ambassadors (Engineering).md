@@ -20,7 +20,7 @@ variant: tiptap
 <p>Global Ambassadors (Engineering) aims to showcase Singapore, Temasek Polytechnic,
 and the School of Engineering to our international guests.
 <br>
-<br><strong>Our mission in Global Ambassadors (Engineering):</strong>
+<br><strong>Our mission in Global Ambassadors (Engineering):</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -68,12 +68,12 @@ to the world
 <p>Promoting Singapore, Temasek Polytechnic, and School of Engineering to
 overseas students
 <br>
-<br><strong>Meeting Day:</strong>
+<br><strong>Meeting Day:</strong> 
 <br>Event basis
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:yokemoon@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Moon</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:yokemoon@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Moon</a> 
 <br>
-<br>CCA <a href="[https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm\_source=qr](https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr)" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br>CCA <a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
 <p></p>
 </li>
