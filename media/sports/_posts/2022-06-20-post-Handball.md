@@ -16,7 +16,7 @@ variant: markdown
                 <b>Training Days:</b><br>
                 Saturday, 2pm<br>
                 <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Nur_Soleha_KAMAL@tp.edu.sg">Ms Nur Soleha Kamal</a><br>
+                <b>CCA Staff Advisor:</b> <a href="mailto:Tan_Thian_Seng@tp.edu.sg">Mr Tan Thian Seng</a><br>
                 <br>
                 CCA <a href="https://www.instagram.com/tphandball/">Instagram</a><br>
                 <br>
