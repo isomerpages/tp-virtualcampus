@@ -31,7 +31,7 @@ variant: markdown
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Thalia_Lam@tp.edu.sg">Ms Thalia Lam</a> &amp; <a href="mailto:Huang_Tengyi@tp.edu.sg">Mr Huang Tengyi</a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/projectinnov8/">Instagram</a>
+                    CCA <a href="https://www.instagram.com/space__haus/?hl=en">Instagram</a>
                 </p>
             </td>
         </tr>
