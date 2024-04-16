@@ -5,38 +5,81 @@ date: 2024-04-16
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:45%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Global_Ambassadors_(Engineering).jpg?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Design Student Ambassadors"></td>
-            <td>
-                <p>
-                             
-
-Global Ambassadors (Engineering) aims to showcase Singapore, Temasek Polytechnic, and the School of Engineering to our international guests.<br>
-<br>
-**Our mission in Global Ambassadors (Engineering):**<br>
-* Provide opportunities for students to develop a global mindset<br>
-* Provide opportunities for overseas exposure to ensure students are world-ready<br>
-* Embrace cultural diversity and respect for others<br>
-* Promote Singapore and take pride in enhancing service and hospitality to the world<br>
-
-**Activities we offer in Global Ambassadors (Engineering) include:**
-* Hosting exchange students from overseas<br>
-* Participating and promoting overseas immersion programmes<br>
-* Coordinating cultural exchange programmes physically and virtually<br>
-* Promoting Singapore, Temasek Polytechnic, and School of Engineering to overseas students<br>
-                    <br>
-                    <b>Meeting Day:</b><br>
-                    Event basis<br>
-                    <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Andrew_Tham@TP.EDU.SG">Mr Andrew Tham</a> &amp; <a href="mailto:yokemoon@TP.EDU.SG">Ms Wong Yoke Moon</a><br>
-                    <br>
-                    CCA <a href="[https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm\_source=qr](https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr)">Instagram</a>
-                </p>
-            </td>
-        </tr>
-    </tbody></table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Design Student Ambassadors" src="https://hosting.photobucket.com/images/i/tracyng81/Global_Ambassadors_(Engineering).jpg?width=590&amp;height=590&amp;fit=bounds">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Global Ambassadors (Engineering) aims to showcase Singapore, Temasek Polytechnic,
+and the School of Engineering to our international guests.
+<br>
+<br><strong>Our mission in Global Ambassadors (Engineering):</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide opportunities for students to develop a global mindset
+<br>
+</p>
+</li>
+<li>
+<p>Provide opportunities for overseas exposure to ensure students are world-ready
+<br>
+</p>
+</li>
+<li>
+<p>Embrace cultural diversity and respect for others
+<br>
+</p>
+</li>
+<li>
+<p>Promote Singapore and take pride in enhancing service and hospitality
+to the world
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Activities we offer in Global Ambassadors (Engineering) include:</strong>
+</p>
+<ul>
+<li>
+<p>Hosting exchange students from overseas
+<br>
+</p>
+</li>
+<li>
+<p>Participating and promoting overseas immersion programmes
+<br>
+</p>
+</li>
+<li>
+<p>Coordinating cultural exchange programmes physically and virtually
+<br>
+</p>
+</li>
+<li>
+<p>Promoting Singapore, Temasek Polytechnic, and School of Engineering to
+overseas students
+<br>
+<br><strong>Meeting Day:</strong>
+<br>Event basis
+<br>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:yokemoon@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Moon</a>
+<br>
+<br>CCA <a href="[https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm\_source=qr](https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr)" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
