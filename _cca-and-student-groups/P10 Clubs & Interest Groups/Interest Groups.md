@@ -107,7 +107,7 @@ variant: markdown
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/project-innov8/" style="text-decoration: none">
-<img src="/images/Interest Groups/PROJECT INNOV8_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
+<img src="https://hosting.photobucket.com/images/i/tracyng81/Spacehaus.png?width=590&amp;height=590&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
 						</a></td>
 					</tr>
 <tr>
