@@ -58,7 +58,7 @@ variant: markdown
                 </a>
             </td>
             <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CZ511xAPArF/">
+                <a href="https://www.instagram.com/space__haus/?hl=en">
                     <img src="/images/Interest Groups/PROJECT INNOV8_5 Strangest but Fascinating Fitness Products.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
                     <h6 style="margin-top:0%">5 Strangest but Fascinating Fitness Products</h6>
                     
