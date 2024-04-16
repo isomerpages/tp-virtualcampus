@@ -15,26 +15,18 @@ variant: markdown
                 <p>
                              
 
-Global Ambassadors (Engineering) aims to showcase Singapore, Temasek Polytechnic, and the School of Engineering to our international guests.
-
-**Our mission in Global Ambassadors (Engineering):**
-
-* Provide opportunities for students to develop a global mindset
-
-* Provide opportunities for overseas exposure to ensure students are world-ready
-
-* Embrace cultural diversity and respect for others
-
-* Promote Singapore and take pride in enhancing service and hospitality to the world
+Global Ambassadors (Engineering) aims to showcase Singapore, Temasek Polytechnic, and the School of Engineering to our international guests.<br>
+<br>
+**Our mission in Global Ambassadors (Engineering):**<br>
+* Provide opportunities for students to develop a global mindset<br>
+* Provide opportunities for overseas exposure to ensure students are world-ready<br>
+* Embrace cultural diversity and respect for others<br>
+* Promote Singapore and take pride in enhancing service and hospitality to the world<br>
 
 **Activities we offer in Global Ambassadors (Engineering) include:**
-
-* Hosting exchange students from overseas
-
-* Participating and promoting overseas immersion programmes
-
-* Coordinating cultural exchange programmes physically and virtually
-
+* Hosting exchange students from overseas<br>
+* Participating and promoting overseas immersion programmes<br>
+* Coordinating cultural exchange programmes physically and virtually<br>
 * Promoting Singapore, Temasek Polytechnic, and School of Engineering to overseas students<br>
                     <br>
                     <b>Meeting Day:</b><br>
