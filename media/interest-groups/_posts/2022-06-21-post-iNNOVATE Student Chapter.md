@@ -13,7 +13,7 @@ image: ""
             <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Picture1.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></td>
             <td>
                 <p>
-                    The Spirit Of Enterprise (SOE)-TP Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
+                    The iNNOVATE Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
                     <br>
                     The Student Chapter develops entrepreneurship capabilities by organising entrepreneurship events, webinars, workshops, networking sessions with industry mentors and start-ups, as well as encouraging members to participate in and organise hackathons.<br>
                     <br>
