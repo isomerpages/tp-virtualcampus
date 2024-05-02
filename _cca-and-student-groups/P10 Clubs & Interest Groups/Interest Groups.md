@@ -116,8 +116,8 @@ variant: markdown
 <img src="/images/Interest Groups/SENVOCATES_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="SENvocates">
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<a href="/interest-groups/spirit-of-enterprise/" style="text-decoration: none">
-<img src="/images/Interest Groups/SOE_button-01-v2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Spirit of Enterprise">
+<a href="/interest-groups/innovate-student-chapter/" style="text-decoration: none">
+<img src="https://hosting.photobucket.com/images/i/tracyng81/iNNOVATE_Icon-01.png?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Spirit of Enterprise">
 </a>
 </td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
 <a href="/interest-groups/twist/" style="text-decoration: none">

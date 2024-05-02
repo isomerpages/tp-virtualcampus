@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Spirit of Enterprise
-permalink: /interest-groups/spirit-of-enterprise/
+title: iNNOVATE Student Chapter
+permalink: /interest-groups/innovate-student-chapter/
 date: 2022-06-21
 description: ""
 variant: markdown
+image: ""
 ---
 <div>
     <table>
@@ -12,7 +13,7 @@ variant: markdown
             <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Picture1.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></td>
             <td>
                 <p>
-                    The Spirit Of Enterprise (SOE)-TP Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
+                    The iNNOVATE Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
                     <br>
                     The Student Chapter develops entrepreneurship capabilities by organising entrepreneurship events, webinars, workshops, networking sessions with industry mentors and start-ups, as well as encouraging members to participate in and organise hackathons.<br>
                     <br>
@@ -26,7 +27,7 @@ variant: markdown
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:John_LOW@TP.EDU.SG">Mr John Low</a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/soe__tp">Instagram</a>
+                    CCA <a href="https://www.instagram.com/innovate_tp_/">Instagram</a>
                 </p>
             </td>
         </tr>
