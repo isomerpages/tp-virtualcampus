@@ -27,7 +27,7 @@ image: ""
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:John_LOW@TP.EDU.SG">Mr John Low</a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/soe__tp">Instagram</a>
+                    CCA <a href="https://www.instagram.com/innovate_tp_/">Instagram</a>
                 </p>
             </td>
         </tr>
