@@ -14,7 +14,7 @@ variant: markdown
 				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/CCA_Banner_1920px_by_1080px_FA.jpg?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
-			<a href="/events/ccafair2024/"><h4 style="margin-top:0%">TP Waterfront X-Challenge Run 2024</h4></a>
+			<a href="/tp-waterfront-xchallenge-run-2024/"><h4 style="margin-top:0%">TP Waterfront X-Challenge Run 2024</h4></a>
 				<h6 style="margin-top:0%"><i>26 July 2024</i></h6>
 				<p style="margin-top:0%">
 
