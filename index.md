@@ -26,7 +26,7 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: "TP Waterfront X-Challenge Run 2024 "
+      title: TP Waterfront X-Challenge Run 2024
       subtitle: RUN FOR THE STORY!
       id: infopic
       description: Get ready to lace up your running shoes and join us for an exciting
