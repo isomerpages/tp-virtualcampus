@@ -33,7 +33,7 @@ sections:
         event like no other. Look forward to an experience filled with action
         and plenty of fun!
       button: THE ROAD IS CALLING!
-      url: /xchallenge-2024/
+      url: /tp-waterfront-xchallenge-run-2024/
       alt: Image alt text
   - infopic:
       title: Temasek Student Excellence Awards 2024
