@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
+<h3><strong>TP Waterfront X-Challenge Run 2024</strong></h3>
 <p><strong><em>Stride for Glory. Run for the Story!</em></strong>
 </p>
 <p>This July, get ready to lace up your running shoes and join us for an
