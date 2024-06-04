@@ -47,8 +47,8 @@ in FREE food treats, while soaking up the wonderful live atmosphere.</p>
 </li>
 <li>
 <p><strong>Unite in Solidarity:</strong> As a precursor to our National Day
-celebrations 🇸🇬, cap off your run with a symbolic mass singing of the
-National Anthem and TP Song, demonstrating your love and pride for Singapore!</p>
+celebrations, cap off your run with a symbolic mass singing of the National
+Anthem and TP Song, demonstrating your love and pride for Singapore!</p>
 </li>
 </ul>
 <p>Whether you are a seasoned runner seeking a competitive edge or simply
