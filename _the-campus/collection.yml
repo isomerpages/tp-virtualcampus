@@ -1,0 +1,6 @@
+collections:
+  the-campus:
+    output: true
+    order:
+      - facilities.md
+      - getting-there.md

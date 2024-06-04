@@ -1,0 +1,7 @@
+collections:
+  happenings:
+    output: true
+    order:
+      - CCA & Student Groups.md
+      - Events.md
+      - Alumni.md

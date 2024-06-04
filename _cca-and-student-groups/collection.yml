@@ -1,0 +1,16 @@
+collections:
+  cca-and-student-groups:
+    output: true
+    order:
+      - Performing Arts.md
+      - Sports.md
+      - P10 Clubs & Interest Groups/.keep
+      - P10 Clubs & Interest Groups/P10 Clubs.md
+      - P10 Clubs & Interest Groups/Interest Groups.md
+      - Diploma Interest Groups/.keep
+      - Diploma Interest Groups/School of Applied Science.md
+      - Diploma Interest Groups/School of Business.md
+      - Diploma Interest Groups/School of Design.md
+      - Diploma Interest Groups/School of Engineering.md
+      - Diploma Interest Groups/School of Humanities & Social Sciences.md
+      - Diploma Interest Groups/School of Informatics & IT.md

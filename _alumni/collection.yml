@@ -1,0 +1,10 @@
+collections:
+  alumni:
+    output: true
+    order:
+      - Highlights.md
+      - Alumni Businesses.md
+      - Alumni Buzz.md
+      - Personal Development.md
+      - Career Navigator.md
+      - Join the Alumni Family!.md
