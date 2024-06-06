@@ -9,8 +9,36 @@ variant: tiptap
 <p>Check out our past and upcoming LEAD events through the monthly TPLA Newsletters.
 Enjoy reading and have fun participating!</p>
 <hr>
+<h4>May 2024</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/TPLA Newsletters/LA_Issue_20__Page_1__May24.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/LA_Issue_20__Page_2__May24.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4>April 2024</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -30,7 +58,11 @@ Enjoy reading and have fun participating!</p>
 </table>
 <hr>
 <h4>March 2024</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
