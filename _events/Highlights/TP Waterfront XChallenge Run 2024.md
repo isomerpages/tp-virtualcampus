@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>TP Waterfront X-Challenge Run 2024</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__2.jpg">
+</div>
 <p><strong><em>Stride for Glory. Run for the Story!</em></strong>
 </p>
 <p>This July, get ready to lace up your running shoes and join us for an
