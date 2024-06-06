@@ -26,12 +26,23 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: TP Waterfront X-Challenge Run 2024
+      subtitle: RUN FOR THE STORY!
+      id: infopic
+      description: Get ready to lace up your running shoes and join us for an exciting
+        event like no other. Look forward to an experience filled with action
+        and plenty of fun!
+      button: THE ROAD IS CALLING!
+      url: /tp-waterfront-xchallenge-run-2024/
+      alt: Image alt text
+      image: /images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__2.jpg
+  - infopic:
       title: Temasek Student Excellence Awards 2024
       subtitle: TSEA 2024
       id: infopic
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
-      button: NOMINATE NOW!
+      description: Celebrate your students’ contributions, passion and spirit. Stay
+        tuned for the thrilling announcement of the nominations results!
+      button: Nominations are now closed!
       url: /tsea-2024/
       image: /images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png
       alt: Image alt text
@@ -78,60 +89,6 @@ sections:
       button: WELL DONE, TEAM TEMASEK!
       url: /events/sports/polite-ivp-appreciation/
       image: /images/Sports/AppreciationDinner_1__80_of_92_.jpg
-      alt: Image alt text
-  - infopic:
-      title: Institute-Varsity-Polytechnic Games (AY2023/24)
-      subtitle: IVP Games (AY2023/24)
-      id: infopic
-      description: Throughout the season, close to 300 student-athletes gave their all
-        and put up a spirited showing against many heavyweight opponents across
-        22 sports!
-      button: Check out the action here!
-      url: /events/sports/ivp2024/
-      image: /images/Sports/IVP_eDM_01.jpg
-      alt: Image alt text
-  - infopic:
-      title: TP CCA Scholarships AY2023/24
-      id: infopic
-      description: Heartiest congratulations to our 30 exemplary recipients, who have
-        made outstanding contributions to TP through their diverse CCAs. Keep
-        pursuing your passion!
-      button: BE INSPIRED HERE!
-      url: /events/tp-cca-scholarships2023/
-      image: /images/TP_CCA_Ceremony_Holding_Slide.jpg
-      alt: Image alt text
-      subtitle: TP CCA Scholarships AY2023/24
-  - infopic:
-      title: POL-ITE Games 2023
-      subtitle: Polytechnic-ITE Games 2023
-      id: infopic
-      description: Huge kudos to our committed student-athletes, who flew the TP flag
-        high with their strong and spirited performances at the POL-ITE Games
-        2023!
-      button: Cheer for Team Temasek!
-      url: /events/sports/pol-ite23/
-      alt: Image alt text
-      image: /images/POL_ITE_2023_eDM.jpg
-  - infopic:
-      title: "Tapestry Arts Festival 2023: Our Canvas"
-      subtitle: ANNUAL ARTS FESTIVAL
-      id: infopic
-      description: The Temasek Arts Centre proudly presents this month-long festival,
-        featuring an enthralling line-up of events that showcases the best of
-        TP’s arts groups!
-      button: BE CAPTIVATED HERE!
-      url: /events/highlights/tapestry2023/
-      alt: Image alt text
-      image: /images/homepage-images/1(main).png
-  - infopic:
-      title: Polytechnic Forum 2023
-      subtitle: INTER-POLY PROGRAMME
-      description: PF provides an annual platform for polytechnic students to gain a
-        deeper understanding of important national issues through an eclectic
-        array of activities.
-      button: FIND OUT MORE!
-      url: /events/highlights/polytechnicforum2023/
-      image: /images/homepage-images/pf 2023 - web banner 3 .jpg
       alt: Image alt text
   - infopic:
       title: Want to be featured on this Virtual Campus?

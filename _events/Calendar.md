@@ -11,6 +11,32 @@ variant: markdown
 			</tr><tr>
 			<td style="width:35%">
 			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/TP_Web_Banner_2_(Virtual_Campus_Homepage_Inner_Page_TP_Oei_BUS_Video_Wall)_2.jpg?width=590&amp;height=590&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/tp-waterfront-xchallenge-run-2024/"><h4 style="margin-top:0%">TP Waterfront X-Challenge Run 2024</h4></a>
+				<h6 style="margin-top:0%"><i>26 July 2024</i></h6>
+				<p style="margin-top:0%">
+
+This July, get ready to lace up your running shoes and join us for an exhilarating event like no other!
+<br>
+					<br>
+Whether you are a seasoned runner or simply looking to enjoy a leisurely run amidst the picturesque backdrop of Bedok Reservoir, there is definitely something for everyone. Mark your calendars and rally your friends to be a part of this iconic campus experience!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>
+			<td style="width:35%">
+			<br>
+		</td></tr></tbody><tbody>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>
+			<td style="width:35%">
+			<br>
 				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/CCA_Banner_1920px_by_1080px_FA.jpg?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
