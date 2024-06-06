@@ -64,5 +64,4 @@ together as one #TPFAM.</p>
 <p>Ready to conquer the challenge and embrace the joy of running? Don't miss
 out! Mark your calendars and rally your friends to be a part of this iconic
 campus experience.</p>
-<p>We look forward to seeing you at the <strong>TP Waterfront X-Challenge 2024</strong>
-</p>
+<p>We look forward to seeing you at the <strong>TP Waterfront X-Challenge 2024</strong>!</p>
