@@ -32,7 +32,7 @@ variant: markdown
                     <b>Meeting Day:</b> 
 									<br>Once a Month<br>
                     <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:Wendy_Soh@tp.edu.sg">Ms Wendy Soh</a><br>
+                    <b>CCA Staff Advisor:</b> <a href="mailto:Wendy_Soh@tp.edu.sg">Ms Wendy Soh</a> &amp; <a href="mailto:Emil_Cheong@tp.edu.sg">Mr Emil Cheong</a><br>
                     <br>
                     CCA <a href="https://www.instagram.com/hss_sc">Instagram</a>
                 </p>
