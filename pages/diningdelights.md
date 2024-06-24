@@ -51,15 +51,7 @@ variant: markdown
             </td>
          </tr>
         <tr>
-            <td style="width:35%"><br>
-                <a href="https://www.hatterstreet.com/">
-                <img src="/images/MerchantDining-HatterStreetBakehouseCafe.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights5">                                       
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Hatter Street Bakehouse &amp; Café</h3>
-                <h5 style="margin-top:0%"><i>By alumna Yvette Chua (BUS)</i></h5>
-            </td>
+            
          </tr>
         <tr>
             <td style="width:35%"><br>
