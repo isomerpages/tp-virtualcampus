@@ -92,7 +92,7 @@ variant: markdown
 <img src="/images/Interest Groups/JCG_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Japanese Cultural Group">
 </a>
 	</td><td style="max-width:33%; vertical-align:bottom; border:none"><br>
-<a href="/interest-groups/LEAD-ambassadors/" style="text-decoration: none">
+<a href="/interest-groups/lead-ambassadors/" style="text-decoration: none">
 <img src="/images/Interest Groups/LEAD_button-01.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
 						</a></td>
 					</tr>
