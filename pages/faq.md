@@ -307,7 +307,7 @@ involvement in TP CCA groups.</p>
 </p>
 <ol start="7" data-tight="true" class="tight">
 <li>
-<p><strong>How are CCA points allocated? </strong>
+<p><strong>How are CCA points allocated?</strong>
 </p>
 </li>
 </ol>
@@ -320,7 +320,7 @@ Portal.</p>
 <p><em>1. Swimming Complex</em>
 </p>
 <p>Blk 31A
-<br>Mon to Fri: 9 am to 10 pm
+<br>Mon to Fri: 9 am to 9 pm
 <br>Sat, Sun &amp; Public Holidays: 8.30 am to 6 pm</p>
 <p><em>2. Gym</em>
 </p>
