@@ -56,17 +56,6 @@ variant: markdown
          </tr>
         <tr>
             <td style="width:35%"><br>
-                <a href="https://mastfitness.com/">
-                <img src="/images/MerchantLifetyle-MastFitness.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle6">                                       
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Mast Fitness</h3>
-                <h5 style="margin-top:0%"><i>By alumnus Alfred Sim (ENG)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
                 <a href="https://weescollection.com">
                 <img src="/images/MerchantLifetyle-WeeCollection.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lifestyle7">                                       
                 </a>
