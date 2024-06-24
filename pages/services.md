@@ -23,7 +23,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<h3>Cayman Management Consultants</h3>
+<h3><a href="https://www.caymangh.com/" rel="noopener noreferrer nofollow" target="_blank">Cayman Management Consultants</a></h3>
 <h5><em>By alumnus Dainial Lim (BUS)</em></h5>
 </td>
 </tr>
