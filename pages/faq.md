@@ -5,26 +5,46 @@ variant: tiptap
 ---
 <h3><strong>FAQ</strong></h3>
 <h4>SEAL</h4>
-<p><strong>1. Who can create the event name?</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Who can create the event name?</strong>
 </p>
+</li>
+</ol>
 <p>EPC (Events/Programmes/Competitions) names creation can only be done by
 Staff and approved by SEAL Coordinator.</p>
-<p><strong>2. Where can I access the system?</strong>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Where can I access the system?</strong>
 </p>
+</li>
+</ol>
 <p>The SEAL website can be accessed through TP Student Portal.</p>
-<p><strong>3. How can I submit the participation?</strong>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>How can I submit the participation?</strong>
 </p>
+</li>
+</ol>
 <p>Submission of participation record(s) by students can only be done with
 EPC code from Staff.</p>
-<p><strong>4. I have missed my deadline for submission, what can I do?</strong>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>I have missed my deadline for submission, what can I do?</strong>
 </p>
+</li>
+</ol>
 <p>All CCA participation records must be submitted via the system for verification
 within 30 Days upon the completion of an event. As you have missed the
 deadline given, we regret that the system will not be able to accept your
 submission. However, you could seek your staff advisor’s assistance who
 could seek approval from Director/SDAA for extension of deadline.</p>
-<p><strong>5. I have taken part in the school events, who are the SEAL coordinators to endorse my CCA participation?</strong>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>I have taken part in the school events, who are the SEAL coordinators to endorse my CCA participation?</strong>
 </p>
+</li>
+</ol>
 <p>Each school has appointed at least one SEAL Coordinator to assist you.
 They are:</p>
 <table style="minWidth: 50px">
@@ -243,8 +263,12 @@ They are:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>6. If I am a student who has been actively involved in non-TP CCA, can my involvement be recognised by TP and will it be recorded under the SEAL System?</strong>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong>If I am a student who has been actively involved in non-TP CCA, can my involvement be recognised by TP and will it be recorded under the SEAL System?</strong>
 </p>
+</li>
+</ol>
 <p>All non-TP related CCA involvements will be recorded under SEAL system
 provided they could be verified and the activities must not be religious
 or political in nature.</p>
@@ -264,24 +288,32 @@ and/or competitions approved by the Polytechnic.</p>
 </li>
 </ul>
 <p>With regards to students’ involvement and participation in non-TP related
-CCAs, the following staff can help to endorse (Endorsement should be sought
-prior to the events):</p>
+CCAs, the following staff can help to endorse (<strong>Endorsement should be sought prior to the events</strong>):</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Appointed staffs who are in charge of a particular project that involves
-students' assistance</p>
+<p>Appointed SEAL coordinators in the respective schools/depts</p>
 </li>
 <li>
 <p>Care Persons who are in charge of their respective class.</p>
 </li>
 <li>
-<p>Appointed SEAL Coordinators in the respective schools/depts</p>
+<p>Appointed staff who are in-charge of a particular project that involve
+students' assistance.</p>
 </li>
 </ul>
 <p><strong>Note:</strong> SDAA will only endorse students' participation and
 involvement in TP CCA groups.</p>
 <p><strong>SEAL Points will not be applicable to Polytechnic Foundation Programme students.</strong>
 </p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><strong>How are CCA points allocated? </strong>
+</p>
+</li>
+</ol>
+<p>CCA points allocation information can be found on the SEAL system (top
+right tab : 'Help' -&gt; 'FAQ') website can be accessed through TP Student
+Portal.</p>
 <h4>Sports Facilities</h4>
 <p><strong>1. What are the opening hours of Sports Facilities?</strong>
 </p>
