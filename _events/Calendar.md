@@ -11,7 +11,7 @@ variant: markdown
 			</tr><tr>
 			<td style="width:35%">
 			<br>
-				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/TP_Web_Banner_2_(Virtual_Campus_Homepage_Inner_Page_TP_Oei_BUS_Video_Wall)_2.jpg?width=590&amp;height=590&amp;fit=bounds">
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/TP_Web_Banner_2_(Virtual_Campus_Homepage_Inner_Page_TP_Oei_BUS_Video_Wall)_FA_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
 			<a href="/tp-waterfront-xchallenge-run-2024/"><h4 style="margin-top:0%">TP Waterfront X-Challenge Run 2024</h4></a>
