@@ -3,12 +3,12 @@ title: TP's Film & Media Talents
 permalink: /events/tp-film-and-media-talents/
 description: ""
 third_nav_title: Temasek Arts Centre
+variant: markdown
 ---
-
 ### Winner of Singapore's 4th Viddsee Juree Awards
-Singaporean short film, highlighting the dark underbelly of society, "Booking" took home the Gold at the [Viddsee Juree Awards Singapore 2021](https://press.viddsee.com/eight-local-filmmakers-selected-as-winners-of-singapores-4th-viddsee-juree-awards/), an annual storytelling award celebrating some of the best short films from Singapore.  Haziq is also the youngest winner to win Gold at the Juree Awards Singapore, recently completed his diploma in Digital Film and Television at Temasek Polytechnic.
+Singaporean short film, highlighting the dark underbelly of society, "Booking" took home the Gold at the [Viddsee Juree Awards Singapore 2021](https://www.viddsee.com/c/juree-singapore-2021?locale=en), an annual storytelling award celebrating some of the best short films from Singapore.  Haziq is also the youngest winner to win Gold at the Juree Awards Singapore, recently completed his diploma in Digital Film and Television at Temasek Polytechnic.
 
-[![Booking - Viddsee Juree Awards Singapore 2021](/images/FMT_Booking.png)](https://drive.google.com/file/d/1CSGYFLwBlTmmwLaQcK138l6hfONgk1hE/view){:target="_blank"}{:rel="noopener"}
+[![Booking - Viddsee Juree Awards Singapore 2021](/images/FMT_Booking.png)](https://www.viddsee.com/video/booking/l4b4s?channel=juree&edition=singapore2021&playlist=in-competition){:target="_blank"}{:rel="noopener"}
 
 ### Viddsee Juree Awards Singapore 2021: In Competition
 3 films from Temasek Polytechnic have been selected as finalists in this year's Viddsee Juree Awards Singapore 2021, an annual festival of short films that celebrates and supports filmmaker communities in Asia.
@@ -33,12 +33,3 @@ TP Design took home the Inter-School Challenge Trophy🏆  at the 2021 ciNE65 Mo
 Congrats to the Diploma in Digital Film & Television. !! 👏👏👏🏼  ciNE65 is the largest national platform for film students and budding filmmakers to share short films on our Singapore story. Well Done DFT!!
 
 ![2021 ciNE65 Movie Makers Awards](/images/ciNE65_Movie_Makers_Awards.png)
-
----
-
-### In High Regard
-For this April semester AY2021/22, the CMM Audio Production subject team collaborated with MediaCorp to design a podcast assignment titled **‘In High Regard’** where students share about who inspires them.
-The top 8 pieces of work were selected by MediaCorp to pioneer their new series ‘Student Podcast Features’, which showcases clips produced by media and broadcasting students from Mediacorp's educational institute partners all across Singapore.
-The 8 episodes of the podcast are now LIVE on [meListen](https://bit.ly/CMMonMeListen) and also on [Spotify](https://bit.ly/CMMonSpotify).
-
-![CMM Podcast](/images/events/Mediacorp - Let Us Tell You About The Time.jpg)

@@ -2,24 +2,25 @@
 layout: post
 title: Dining Delights
 permalink: /alumni/diningdelights/
+variant: markdown
 ---
 <div>
     <table>
-        <tr>
+        <tbody><tr>
             <td style="width:35%"><br>
                 <a href="https://botart.sg/">
-                <image src="/images/MerchantDining-Botart.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights1">                                       </image>
+                <img src="/images/MerchantDining-Botart.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights1">                                       
                 </a>
             </td>
             <td style="width:65%"><br>
                 <h3 style="margin-top:0%">Botart</h3>
-                <h5 style="margin-top:0%"><i>By alumni Timothy Chia (BUS) & Shaun Tan (ASC)</i></h5>
+                <h5 style="margin-top:0%"><i>By alumni Timothy Chia (BUS) &amp; Shaun Tan (ASC)</i></h5>
             </td>
          </tr>
         <tr>
             <td style="width:35%"><br>
                 <a href="https://brotherbird.sg/">
-                <image src="/images/MerchantDining-BrotherbirdCoffeeHouse.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights2">                          </image>
+                <img src="/images/MerchantDining-BrotherbirdCoffeeHouse.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights2">                          
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -30,7 +31,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/elevenstrands/">
-                <image src="/images/MerchantDining-ElevenStrands.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights3">                                       </image>
+                <img src="/images/MerchantDining-ElevenStrands.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights3">                                       
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -41,7 +42,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="http://fatcat.sg/">
-                <image src="/images/MerchantDining-FatcatIceCreamBar.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights4">                                       </image>
+                <img src="/images/MerchantDining-FatcatIceCreamBar.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights4">                                       
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -50,20 +51,12 @@ permalink: /alumni/diningdelights/
             </td>
          </tr>
         <tr>
-            <td style="width:35%"><br>
-                <a href="https://www.hatterstreet.com/">
-                <image src="/images/MerchantDining-HatterStreetBakehouseCafe.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights5">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Hatter Street Bakehouse & Café</h3>
-                <h5 style="margin-top:0%"><i>By alumna Yvette Chua (BUS)</i></h5>
-            </td>
+            
          </tr>
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.lauwangclaypot.com/">
-                <image src="/images/MerchantDining-LauWangClaypotDelights.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights6">                                       </image>
+                <img src="/images/MerchantDining-LauWangClaypotDelights.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights6">                                       
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -73,19 +66,19 @@ permalink: /alumni/diningdelights/
          </tr>
         <tr>
             <td style="width:35%"><br>
-                <a href="https://www.oneprawnnoodle.com/">
-                <image src="/images/MerchantDining-OnePrawnNoodle.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights7">                                       </image>
+                <a href="https://www.instagram.com/zhupzhup_by_oneprawnnco/?hl=en">
+                <img src="/images/MerchantDining-OnePrawnNoodle.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights7">                                       
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h3 style="margin-top:0%">One Prawn Noodle</h3>
+                <h3 style="margin-top:0%">Zhup Zhup by One Prawn &amp; Co</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Gwyneth Ang (BUS)</i></h5>
             </td>
          </tr>
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/southunionpark/">
-                <image src="/images/MerchantDining-SouthUnionPark.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights8">                                       </image>
+                <img src="/images/MerchantDining-SouthUnionPark.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights8">                                       
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -96,7 +89,7 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://www.facebook.com/the.burning.oak.singapore/">
-                <image src="/images/MerchantDining-TheBurningOak.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights9">                                       </image>
+                <img src="/images/MerchantDining-TheBurningOak.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights9">                                       
                 </a>
             </td>
             <td style="width:65%"><br>
@@ -107,15 +100,15 @@ permalink: /alumni/diningdelights/
         <tr>
             <td style="width:35%"><br>
                 <a href="https://thepopulus.cafe/">
-                <image src="/images/MerchantDining-ThePopulusCoffeeFood.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights10">                                       </image>
+                <img src="/images/MerchantDining-ThePopulusCoffeeFood.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Dining Delights10">                                       
                 </a>
             </td>
             <td style="width:65%"><br>
-                <h3 style="margin-top:0%">The Populus Coffee & Food Co.</h3>
+                <h3 style="margin-top:0%">The Populus Coffee &amp; Food Co.</h3>
                 <h5 style="margin-top:0%"><i>By alumnus Kang Yi Yang (BUS)</i></h5>
             </td>
          </tr>
-    </table>
+    </tbody></table>
 </div>
 
 ---

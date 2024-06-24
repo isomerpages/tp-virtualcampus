@@ -35,7 +35,7 @@ sections:
       button: THE ROAD IS CALLING!
       url: /tp-waterfront-xchallenge-run-2024/
       alt: Image alt text
-      image: /images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__2.jpg
+      image: /images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__FA_copy.jpg
   - infopic:
       title: Temasek Student Excellence Awards 2024
       subtitle: TSEA 2024
