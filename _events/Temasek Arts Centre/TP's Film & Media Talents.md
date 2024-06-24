@@ -6,7 +6,7 @@ third_nav_title: Temasek Arts Centre
 variant: markdown
 ---
 ### Winner of Singapore's 4th Viddsee Juree Awards
-Singaporean short film, highlighting the dark underbelly of society, "Booking" took home the Gold at the [Viddsee Juree Awards Singapore 2021](https://press.viddsee.com/eight-local-filmmakers-selected-as-winners-of-singapores-4th-viddsee-juree-awards/), an annual storytelling award celebrating some of the best short films from Singapore.  Haziq is also the youngest winner to win Gold at the Juree Awards Singapore, recently completed his diploma in Digital Film and Television at Temasek Polytechnic.
+Singaporean short film, highlighting the dark underbelly of society, "Booking" took home the Gold at the [Viddsee Juree Awards Singapore 2021](https://www.viddsee.com/c/juree-singapore-2021?locale=en), an annual storytelling award celebrating some of the best short films from Singapore.  Haziq is also the youngest winner to win Gold at the Juree Awards Singapore, recently completed his diploma in Digital Film and Television at Temasek Polytechnic.
 
 [![Booking - Viddsee Juree Awards Singapore 2021](/images/FMT_Booking.png)](https://www.viddsee.com/video/booking/l4b4s?channel=juree&edition=singapore2021&playlist=in-competition){:target="_blank"}{:rel="noopener"}
 
