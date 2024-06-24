@@ -20,11 +20,12 @@ home!</p>
 to take the Pre-Enlistee IPPT as you go through a modified basic training
 programme. Thus, you do not qualify for the 8-week reduction in your full-time
 NS duration.</p>
-<p>Submit your <a href="https://forms.office.com/r/Bhns64X6cm" rel="noopener noreferrer nofollow" target="_blank">IPPT exemption</a>{:target="_blank"}{:rel="noopener"}.</p>
+<p>Submit your <a href="https://forms.office.com/r/Bhns64X6cm" rel="noopener noreferrer nofollow" target="_blank">IPPT exemption</a>
+</p>
 <hr>
 <h3>NS - How It Began vs How It's Going</h3>
 <h3>How NS all started!</h3>
-<p>[![NSstart](/images/BeAwesome-NSstart.png)](https://www.channelnewsasia.com/news/video-on-demand/the-beginning){:target="_blank"}{:rel="noopener"}</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.channelnewsasia.com/news/video-on-demand/the-beginning"><img style="width: 100%" height="auto" width="100%" alt="How NS all started" src="/images/BeAwesome-NSstart.png"></a>
 <h3>How It's Going</h3>
 <p>[![NSstart](/images/BeAwesome-NSgoing.png)](https://www.mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2020-Q1/02jan20_news1){:target="_blank"}{:rel="noopener"}</p>
 <hr>
