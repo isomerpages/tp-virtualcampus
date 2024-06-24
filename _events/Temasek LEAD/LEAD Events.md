@@ -3,8 +3,9 @@ title: LEAD Events
 permalink: /events/temasek-lead/lead-events/
 description: ""
 third_nav_title: Temasek LEAD
+variant: markdown
 ---
-## Past & Upcoming Events
+## Past &amp; Upcoming Events
 
 ### LEAD CORE
 ![LEAD Core](/images/Events/Temasek%20LEAD/LEAD_Core-v2.jpg)
@@ -38,49 +39,26 @@ Through an experiential learning journey walk thru the rental flat estate and em
 
 ![EU Comes to TP](/images/BeInvolved-LeadEUbanner.jpg)
 
-Themed **“EU comes to your School”**, this initiative by the Ambassadors and diplomats from the EU and its member states based in Singapore, is to visit education institutions to give talks about the EU, touching on topics such as the EU's history, institutions, and their growing role in the face of the global health crisis.  
-
-We are honoured to have **His Excellency [Peter Guschelbauer](https://www.bmeia.gv.at/en/austrian-embassy-singapore/about-us/the-ambassador/)**, Ambassador, Austrian Embassy Singapore, speak to us about the EU and its relations with ASEAN as well as global issues such as climate change. Students will also have a chance to dialogue with the Ambassador.
-
-<table>
-    <tr>
-        <td style="width:33%"><br>
-              <image src="/images/BeInvolved-LeadEUGOH1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="QRcode">
-                 </image>
-        </td>
-        <td style="width:33%"><br>
-           </td>
-        <td style="width:33%"><br>
-        </td>
-    </tr>
-</table>
-
 The Global Experience Programme is a thematic programme within LEAD. The objectives of the Global Experience Programme are to broaden the minds of our LEAD students on regional and global issues affecting Singapore and to develop and expose LEAD students to critical thinking and leadership perspectives.
 
-##### Event Details
+Themed **“EU comes to your School”**, this initiative by the Ambassadors and diplomats from the EU and its member states based in Singapore, is to visit education institutions to give talks about the EU, touching on topics such as the EU's history, institutions, and their growing role in the face of the global health crisis.  
 
-Date: **08 October 2021, Saturday**  
-Time: 10am to 11.30am  
-Venue: Email will be sent to confirmed registrants
-
-#### Sign-up
-
-Register [here](https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328bwwAd0fhRxEhHsQyxN2mNRUREFLSzlZVU1LWFVaQjdFVVBHUUxSQUM2Mi4u&fsw=0) or scan this QR code now!
+Held on 08 Oct 2021,  we were honoured to have **His Excellency [Peter Guschelbauer](https://www.bmeia.gv.at/en/austrian-embassy-singapore/about-us/the-ambassador/)**, Ambassador, Austrian Embassy Singapore, speak to us about the EU and its relations with ASEAN as well as global issues such as climate change. Students also had a chance to dialogue with the Ambassador.
 
 <table>
-    <tr>
+    <tbody><tr>
         <td style="width:33%"><br>
-              <image src="/images/BeInvolved-LeadEUQRcode.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="QRcode">
-                 </image>
+              <img src="/images/BeInvolved-LeadEUGOH1.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="QRcode">
+                 
         </td>
         <td style="width:33%"><br>
            </td>
         <td style="width:33%"><br>
         </td>
     </tr>
-</table>
+</tbody></table>
 
-**Registration closes on <u>6 October</u> or when slots are taken up.**
+
 
 
 ---
@@ -109,16 +87,16 @@ Professor Mahbubani closed up the session by sharing his thoughts on the differe
 [Watch all the insightful views from Professor Mahbubani here!](https://youtu.be/dca3nQVgud8){:target="_blank"}{:rel="noopener"}
 
 <table>
-    <tr>
-        <td style="width:50%"><image src="/images/BeInvolved-LEADsummitKishore1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit1"></image>       
+    <tbody><tr>
+        <td style="width:50%"><img src="/images/BeInvolved-LEADsummitKishore1.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit1">       
         </td>
-        <td style="width:50%"><image src="/images/BeInvolved-LEADsummitKishore2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit2"></image>       
-        </td>
-    </tr>
-    <tr>
-        <td style="width:50%"><image src="/images/BeInvolved-LEADsummitKishore3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit3"></image>       
-        </td>
-        <td style="width:50%"><image src="/images/BeInvolved-LEADsummitKishore4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit4"></image>       
+        <td style="width:50%"><img src="/images/BeInvolved-LEADsummitKishore2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit2">       
         </td>
     </tr>
-</table>
+    <tr>
+        <td style="width:50%"><img src="/images/BeInvolved-LEADsummitKishore3.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit3">       
+        </td>
+        <td style="width:50%"><img src="/images/BeInvolved-LEADsummitKishore4.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Lead Summit4">       
+        </td>
+    </tr>
+</tbody></table>
