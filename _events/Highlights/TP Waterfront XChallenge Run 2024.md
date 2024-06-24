@@ -9,7 +9,9 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__FA_copy.jpg">
 </div>
-<p></p>
+<p><strong><em>(UPDATE! – Due to overwhelming response, registration for the Leisure Run is now closed. Spots for the Competitive Run are still available, so do register now!)</em></strong>
+</p>
+<hr>
 <p><strong><em>Stride for Glory. Run for the Story!</em></strong>
 </p>
 <p>This July, get ready to lace up your running shoes and join us for an
