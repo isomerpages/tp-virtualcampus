@@ -27,7 +27,7 @@ NS duration.</p>
 <h3>How NS all started!</h3>
 <p></p><a class="isomer-image-wrapper" href="https://www.channelnewsasia.com/news/video-on-demand/the-beginning"><img style="width: 100%" height="auto" width="100%" alt="How NS all started" src="/images/BeAwesome-NSstart.png"></a>
 <h3>How It's Going</h3>
-<p>[![NSstart](/images/BeAwesome-NSgoing.png)](https://www.mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2020-Q1/02jan20_news1){:target="_blank"}{:rel="noopener"}</p>
+<p></p><a class="isomer-image-wrapper" href="https://www.mindef.gov.sg/web/portal/pioneer/article/regular-article-detail/ops-and-training/2020-Q1/02jan20_news1"><img style="width: 100%" height="auto" width="100%" alt="How it's going" src="/images/BeAwesome-NSgoing.png"></a>
 <hr>
 <h3>Our Singapore Armed Forces</h3>
 <p>Kudos to all our NS men and women for putting themselves at the frontline
