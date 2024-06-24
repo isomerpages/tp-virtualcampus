@@ -2,121 +2,169 @@
 layout: post
 title: Services
 permalink: /alumni/services/
+variant: tiptap
 ---
-<div>
-    <table>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://www.caymangh.com/">
-                <image src="/images/MerchantServices-CaymanManagementConsultants.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services1">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Cayman Management Consultants</h3>
-                <h5 style="margin-top:0%"><i>By alumnus Dainial Lim (BUS)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://sg.diningbutler.com/">
-                <image src="/images/MerchantServices-DiningButler.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services2">                          </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Dining Butler</h3>
-                <h5 style="margin-top:0%"><i>By alumnus Lui Chuian Feng (IIT)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://www.foodzaps.com/">
-                <image src="/images/MerchantServices-FoodZapsTechnology.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services3">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">FoodZaps Technology</h3>
-                <h5 style="margin-top:0%"><i>By alumna Chelsea Chan (IIT)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://handsonklay.com/">
-                <image src="/images/MerchantServices-HandsOnKlay.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services4">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Hands On Klay</h3>
-                <h5 style="margin-top:0%"><i>By alumna Samantha Chua (BUS)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="http://www.kinetic.com.sg/main.html">
-                <image src="/images/MerchantServices-KineticSingapore.PNG" style="display:block;margin-left:auto;margin-right:auto;" alt="Services5">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Kinetic Singapore</h3>
-                <h5 style="margin-top:0%"><i>By alumnus Pann Lim (DES)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://readyspace.com.sg/">
-                <image src="/images/MerchantServices-ReadySpace.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services6">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">ReadySpace Singapore</h3>
-                <h5 style="margin-top:0%"><i>By alumnus David Loke (IIT)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://refinedefine.com">
-                <image src="/images/MerchantServices-RefineDefine.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Services7">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Refine Define</h3>
-                <h5 style="margin-top:0%"><i>By alumna Emilyn Cheong (DES)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://trickavu.com.sg/">
-                <image src="/images/MerchantServices-Trickavu.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services8">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Trickavu</h3>
-                <h5 style="margin-top:0%"><i>By alumnus Gerald Lim (ENG)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://upgrownfarming.co/">
-                <image src="/images/MerchantServices-UpgrownFarmingCo.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services9">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Upgrown Farming Co.</h3>
-                <h5 style="margin-top:0%"><i>By alumni Lionel Wong (ASC) & Terrence Tan (ASC)</i></h5>
-            </td>
-         </tr>
-        <tr>
-            <td style="width:35%"><br>
-                <a href="https://www.zeemart.asia/">
-                <image src="/images/MerchantServices-Zeemart.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Services10">                                       </image>
-                </a>
-            </td>
-            <td style="width:65%"><br>
-                <h3 style="margin-top:0%">Zeemart</h3>
-                <h5 style="margin-top:0%"><i>By alumni Neeraj Sundarajoo (ENG) & Keith Tan (IIT)</i></h5>
-            </td>
-         </tr>
-    </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services1" src="/images/MerchantServices-CaymanManagementConsultants.png">
 </div>
-
----
-**Back to [Alumni Business Directory](/alumni/alumni-businesses)**
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>Cayman Management Consultants</h3>
+<h5><em>By alumnus Dainial Lim (BUS)</em></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services3" src="/images/MerchantServices-FoodZapsTechnology.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>FoodZaps Technology</h3>
+<h5><em>By alumna Chelsea Chan (IIT)</em></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services4" src="/images/MerchantServices-HandsOnKlay.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>Hands On Klay</h3>
+<h5><em>By alumna Samantha Chua (BUS)</em></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services5" src="/images/MerchantServices-KineticSingapore.PNG">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>Kinetic Singapore</h3>
+<h5><em>By alumnus Pann Lim (DES)</em></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services6" src="/images/MerchantServices-ReadySpace.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>ReadySpace Singapore</h3>
+<h5><em>By alumnus David Loke (IIT)</em></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services7" src="/images/MerchantServices-RefineDefine.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>Refine Define</h3>
+<h5><em>By alumna Emilyn Cheong (DES)</em></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services8" src="/images/MerchantServices-Trickavu.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>Trickavu</h3>
+<h5><em>By alumnus Gerald Lim (ENG)</em></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services9" src="/images/MerchantServices-UpgrownFarmingCo.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>Upgrown Farming Co.</h3>
+<h5><em>By alumni Lionel Wong (ASC) &amp; Terrence Tan (ASC)</em></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Services10" src="/images/MerchantServices-Zeemart.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<h3>Zeemart</h3>
+<h5><em>By alumni Neeraj Sundarajoo (ENG) &amp; Keith Tan (IIT)</em></h5>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Back to <a href="/alumni/alumni-businesses" rel="noopener noreferrer nofollow" target="_blank">Alumni Business Directory</a></strong>
+</p>
