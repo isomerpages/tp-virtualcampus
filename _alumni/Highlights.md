@@ -60,4 +60,3 @@ Nicholas was awarded the NSF of the Year 2019 and served as Platoon Commander in
 </div>
 
 **Watch the [video](https://www.facebook.com/watch/?v=1190947567933381&amp;extid=qpzqHagoFYC7JSF3){:target="_blank"}{:rel="noopener"} to hear Nicholas relate about his NS experience**
-
