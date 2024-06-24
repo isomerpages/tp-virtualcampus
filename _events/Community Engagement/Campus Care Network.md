@@ -12,4 +12,4 @@ TP's inaugural Virtual Campus Care Network Day held in August 2020, in conjuncti
 
 **Check out past year's CCN Day via [Instagram](https://www.instagram.com/tp_ccn/){:target="_blank"}{:rel="noopener"}!**
 
-[Campus Care Network](/images/Events/CCN 2022.png)
+[![Campus Care Network](/images/Events/CCN 2022.png)
