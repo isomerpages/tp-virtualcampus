@@ -6,10 +6,12 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>TP Waterfront X-Challenge Run 2024</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__FA_copy.jpg">
 </div>
+<p><strong><em>(UPDATE! – Due to overwhelming response, registration for the Leisure Run is now closed. Spots for the Competitive Run are still available, so do register now!)</em></strong>
+</p>
+<hr>
 <p><strong><em>Stride for Glory. Run for the Story!</em></strong>
 </p>
 <p>This July, get ready to lace up your running shoes and join us for an
@@ -19,12 +21,12 @@ an eclectic experience filled with excitement, action, and plenty of fun!</p>
 <p><strong>Event Details:</strong>
 </p>
 <p><strong>📅 </strong>26 July 2024 (Friday)</p>
-<p><strong>🕐 </strong>4.30pm (Competitive Run) | 5.00pm (Leisure Run)</p>
+<p><strong>🕐 </strong>3.00pm (Registration) | 4.30pm (Competitive Run) |
+5.00pm (Leisure Run)</p>
 <p><strong>📍 </strong>Temasek Polytechnic Stadium &amp; Bedok Reservoir</p>
-<p><strong>&nbsp;Race Categories &amp; Registration:</strong>
+<p><strong>Registration for Competitive Run (5.5km):</strong>
 </p>
-<p><strong>1.&nbsp;&nbsp;&nbsp; Competitive Run:</strong> 5.5km - <strong><em>Sign up <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2FAzZ9NnzF3j&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C8f18f6ad4423457835b108dc74aa4e44%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638513522015769865%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=vZFewG%2FOJn1%2FOpFiCPNdm8GZ467eY4M1ahqjtAbL0lk%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a></em></strong>!</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp; Leisure Run:</strong> 3.2km - <strong><em>Sign up <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2FArRXhceCwB&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C8f18f6ad4423457835b108dc74aa4e44%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638513522015779740%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=T%2BDaVZmCXDpmLo8JNqvJf4PI9%2BlmOs3LW%2BYg71ndMfU%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a></em></strong>!</p>
+<p>👉 Sign up <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2FAzZ9NnzF3j&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C8f18f6ad4423457835b108dc74aa4e44%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638513522015769865%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=vZFewG%2FOJn1%2FOpFiCPNdm8GZ467eY4M1ahqjtAbL0lk%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>!</p>
 <p>&nbsp;<strong>Why You Should Join:</strong>
 </p>
 <ul data-tight="true" class="tight">
