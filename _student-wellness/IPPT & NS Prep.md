@@ -20,7 +20,7 @@ home!</p>
 to take the Pre-Enlistee IPPT as you go through a modified basic training
 programme. Thus, you do not qualify for the 8-week reduction in your full-time
 NS duration.</p>
-<p>Submit your <a href="https://forms.office.com/r/Bhns64X6cm" rel="noopener noreferrer nofollow" target="_blank">IPPT exemption</a>
+<p>Submit your <a href="https://forms.office.com/pages/responsepage.aspx?id=8JupJXKOKkeuUK373w328ZokkyLVERJKmYkruLdXtjBUNkpZQ0JGS1pXMk8zOUNRQk9NOVJNOERUUi4u" rel="noopener noreferrer nofollow" target="_blank">IPPT exemption</a>
 </p>
 <hr>
 <h3>NS - How It Began vs How It's Going</h3>
