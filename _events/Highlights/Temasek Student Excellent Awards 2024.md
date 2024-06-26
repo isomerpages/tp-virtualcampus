@@ -41,7 +41,7 @@ otherwise specified), as well as the eligibility criteria and nomination
 process, please refer to the links below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/tsea_2024___individual_awards" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/tsea_2024___individual_awards.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 the full list of Individual Awards.</p>
 </li>
 <li>
@@ -53,7 +53,8 @@ the full list of Group/Team Awards.</p>
 <a href="https://virtualcampus.tp.edu.sg/files/TSEA/2023/tsea%202023%20-%20faqs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </li>
 </ul>
-<p>If you have any enquiries on the TSEA, please contact:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>.</p>
+<p>If you have any enquiries on the TSEA, please contact:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>
+</p>
 <p>See you next year!</p>
 <p></p>
 <p></p>
