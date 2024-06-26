@@ -27,7 +27,7 @@ in TP.&nbsp;</p>
 <p><strong>And to all our awardees:</strong>&nbsp;A BIG thank you for your
 amazing dedication and spirit, and for your unstinting efforts in making
 TP a campus that truly throbs with vibrancy all year round!&nbsp;</p>
-<p><strong>Check out the TSEA 2024 Roll of Honour </strong><a href="TSEA_2024___Higer_Award_Recipients__List" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
+<p><strong>Check out the TSEA 2024 Roll of Honour </strong><a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/TSEA_2024___Higer_Award_Recipients__List.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
 </p>
 <hr>
 <h4><strong>Announcement</strong></h4>
