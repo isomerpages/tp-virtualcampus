@@ -45,12 +45,12 @@ process, please refer to the links below:</p>
 the full list of Individual Awards.</p>
 </li>
 <li>
-<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2023/tsea%202023%20-%20group-team%20awards.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 the full list of Group/Team Awards.</p>
 </li>
 <li>
 <p>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;
-<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2023/tsea%202023%20-%20faqs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/TSEA_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </li>
 </ul>
 <p>If you have any enquiries on the TSEA, please contact:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>
