@@ -21,9 +21,11 @@ an eclectic experience filled with excitement, action, and plenty of fun!</p>
 <p><strong>Event Details:</strong>
 </p>
 <p><strong>📅 </strong>26 July 2024 (Friday)</p>
-<p><strong>🕐 </strong>3.00pm (Registration) | 4.30pm (Competitive Run) |
-5.00pm (Leisure Run)</p>
+<p><strong>🕐 </strong>3.00pm (Registration) | *5.00pm (Leisure Run) | *5.30pm
+(Competitive Run)</p>
 <p><strong>📍 </strong>Temasek Polytechnic Stadium &amp; Bedok Reservoir</p>
+<p><em>(*Timings subjected to change. Do look out for the confirmation email closer to the event date.)</em>
+</p>
 <p><strong>Registration for Competitive Run (5.5km):</strong>
 </p>
 <p>👉 Sign up <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2FAzZ9NnzF3j&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C8f18f6ad4423457835b108dc74aa4e44%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638513522015769865%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=vZFewG%2FOJn1%2FOpFiCPNdm8GZ467eY4M1ahqjtAbL0lk%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>!</p>
