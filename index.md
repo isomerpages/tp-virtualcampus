@@ -40,9 +40,9 @@ sections:
       title: Temasek Student Excellence Awards 2024
       subtitle: TSEA 2024
       id: infopic
-      description: Celebrate your students’ contributions, passion and spirit. Stay
-        tuned for the thrilling announcement of the nominations results!
-      button: Nominations are now closed!
+      description: Celebrate your students’ contributions, passion and spirit. Check
+        out the TSEA 2024 Roll of Honour here!
+      button: Congratulations!
       url: /tsea-2024/
       image: /images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png
       alt: Image alt text
