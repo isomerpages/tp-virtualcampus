@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>Temasek Student Excellence Awards 2024</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png">
-</div>
 <p>Heartiest congratulations to all our recipients of the <strong>Temasek Student Excellence Awards (TSEA) 2024</strong>!</p>
 <p>Organised annually, the TSEA recognises the inspiring achievements and
 myriad contributions of students in non-academic areas, such as arts,&nbsp;sports,
@@ -24,7 +21,9 @@ received the Outstanding Coach Award for their contributions.</p>
 Hear their heartfelt thoughts and memorable CCA takeaways, and discover
 what inspired them to continue the good fight while navigating their ride
 in TP.&nbsp;</p>
-<p>[Video]</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WXiqk81C21Y?si=N4s_t7y8lpZeoTKj"></iframe>
+</div>
 <p><strong>And to all our awardees:</strong>&nbsp;A BIG thank you for your
 amazing dedication and spirit, and for your unstinting efforts in making
 TP a campus that truly throbs with vibrancy all year round!&nbsp;</p>
@@ -42,7 +41,7 @@ otherwise specified), as well as the eligibility criteria and nomination
 process, please refer to the links below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2023/tsea%202023%20-%20individual%20awards.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/tsea_2024___individual_awards" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 the full list of Individual Awards.</p>
 </li>
 <li>
