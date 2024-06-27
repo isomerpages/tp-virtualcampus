@@ -6,21 +6,56 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>Temasek Student Excellence Awards 2024</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png">
+<p>Heartiest congratulations to all our recipients of the <strong>Temasek Student Excellence Awards (TSEA) 2024</strong>!</p>
+<p>Organised annually, the TSEA recognises the inspiring achievements and
+myriad contributions of students in non-academic areas, such as arts,&nbsp;sports,
+leadership, service, entrepreneurship, sustainability and character.&nbsp;This
+year, we honoured <strong>378</strong> students across the Higher Award categories
+(Individual and Group/Team).<strong>&nbsp;</strong>In addition,&nbsp;<strong>1,148</strong>&nbsp;CCA
+Merit Awards (Arts/Sports/ Leadership), <strong>434</strong> Full Colours
+Awards, and <strong>118</strong> Half Colours Awards have been accorded.
+On top of these awards, <strong>4</strong> officially-appointed TP coaches
+received the Outstanding Coach Award for their contributions.</p>
+<p>Here’s a special shout-out to the recipients of our pinnacle accolades
+– <strong>Temasek CCA Gold</strong>&nbsp;<strong>and Silver Awards</strong>!
+Hear their heartfelt thoughts and memorable CCA takeaways, and discover
+what inspired them to continue the good fight while navigating their ride
+in TP.&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WXiqk81C21Y?si=N4s_t7y8lpZeoTKj"></iframe>
 </div>
-<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
-recognise the inspiring achievements and outstanding contributions of students
-in non-academic domains , such as the arts, sports, leadership, service,
-entrepreneurship and character.</p>
-<p>We would like to inform you that the nominations for TSEA 2024 have now <strong><u>closed.</u></strong> We
-extend our sincere gratitude to all who submitted their nominations.</p>
-<p>The TSEA Secretariat has duly received and acknowledged all nominations
-via email. If you have not received an acknowledgment for any of your submissions,
-please do not hesitate to contact the TSEA Secretariat at :<a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>.</p>
-<p>We encourage you to stay tuned to this page as we will soon announce the
-results. Join us in celebrating and honoring the winners as we recognize
-their exceptional achievements!</p>
+<p><strong>And to all our awardees:</strong>&nbsp;A BIG thank you for your
+amazing dedication and spirit, and for your unstinting efforts in making
+TP a campus that truly throbs with vibrancy all year round!&nbsp;</p>
+<p><strong>Check out the TSEA 2024 Roll of Honour <a href="/files/TSEA/2024/TSEA_2024___Higer_Award_Recipients__List.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+</p>
+<hr>
+<h4><strong>Announcement</strong></h4>
+<p>Thank you to all CCA advisors/staff for your active support in recognising
+deserving students, who have made outstanding achievements and contributed
+significantly to the vibrancy of our campus.</p>
+<p>Nominations for the TSEA 2025 will open from March to April next year
+(tentative). Do watch this space for more updates on the call for nominations!</p>
+<p>For information on the TSEA awards available for nomination annually (unless
+otherwise specified), as well as the eligibility criteria and nomination
+process, please refer to the links below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/tsea_2024___individual_awards.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+the full list of Individual Awards.</p>
+</li>
+<li>
+<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/tsea_2024___group_team_awards.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+the full list of Group/Team Awards.</p>
+</li>
+<li>
+<p>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;
+<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/TSEA_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+</li>
+</ul>
+<p>If you have any enquiries on the TSEA, please contact:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>
+</p>
+<p>See you next year!</p>
 <p></p>
 <p></p>
 <p></p>
