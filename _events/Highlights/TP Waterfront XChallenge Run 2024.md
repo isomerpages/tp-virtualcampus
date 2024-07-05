@@ -5,11 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP Waterfront X-Challenge Run 2024</strong></h3>
+<h3><strong>TP Waterfront X-Challenge Run 2024 - Limited Slots Left!</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__FA_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TP WaterFront X Challenge, Last Chance to Sign up" src="/images/homepage-images/LAST_CHANCE_TP_Web_Banner_3__FB__IG__LI__Telegram___Happenings__1.jpg">
 </div>
-<p><strong><em>(UPDATE! – Due to overwhelming response, registration for the Leisure Run is now closed. Spots for the Competitive Run are still available, so do register now!)</em></strong>
+<p><strong><em>(UPDATE! – Due to overwhelming response, registration for the Leisure Run is now closed. Spots for the Competitive Run are limited, so do register now!)</em></strong>
 </p>
 <hr>
 <p><strong><em>Stride for Glory. Run for the Story!</em></strong>
