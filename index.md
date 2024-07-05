@@ -32,10 +32,10 @@ sections:
       description: Get ready to lace up your running shoes and join us for an exciting
         event like no other. Look forward to an experience filled with action
         and plenty of fun!
-      button: THE ROAD IS CALLING!
+      button: FINAL CHANCE, SIGN UP NOW!
       url: /tp-waterfront-xchallenge-run-2024/
       alt: Image alt text
-      image: /images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__FA_copy.jpg
+      image: /images/homepage-images/LAST_CHANCE_TP_Web_Banner_3__FB__IG__LI__Telegram___Happenings__1.jpg
   - infopic:
       title: Temasek Student Excellence Awards 2024
       subtitle: TSEA 2024
