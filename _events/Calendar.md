@@ -18,7 +18,7 @@ variant: markdown
 				<h6 style="margin-top:0%"><i>26 July 2024</i></h6>
 				<p style="margin-top:0%">
 
-In support of the <a href="/tp-waterfront-xchallenge-run-2024/">**TP Waterfront X-Challenge Run 2024**</a>, Temasek Arts Centre proudly presents a brand-new initiative – “**Temasek Tides Concert 2024**”!
+In support of the <a href="/tp-waterfront-xchallenge-run-2024/">TP Waterfront X-Challenge Run 2024</a>, Temasek Arts Centre proudly presents a brand-new initiative – “Temasek Tides Concert 2024”!
 <br>
 					<br>
 This hour-long concert features something for everyone! Whether you are a runner or not, it is your ticket to a memorable evening of great fun, electrifying performances, and delish food. So grab your friends, let loose, and psych up for an amazing celebration on campus!
