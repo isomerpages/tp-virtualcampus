@@ -32,7 +32,7 @@ sections:
       description: Get ready to lace up your running shoes and join us for an exciting
         event like no other. Look forward to an experience filled with action
         and plenty of fun!
-      button: FINAL CHANCE, SIGN UP NOW!
+      button: REGISTRATION CLOSED!
       url: /tp-waterfront-xchallenge-run-2024/
       alt: Image alt text
       image: /images/homepage-images/LAST_CHANCE_TP_Web_Banner_3__FB__IG__LI__Telegram___Happenings__1.jpg
