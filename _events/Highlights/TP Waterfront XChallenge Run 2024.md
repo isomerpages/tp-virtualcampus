@@ -5,12 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP Waterfront X-Challenge Run 2024 - Limited Slots Left!</strong></h3>
+<h3><strong>TP Waterfront X-Challenge Run 2024 - Registration Closed!</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TP WaterFront X Challenge, Last Chance to Sign up" src="/images/homepage-images/LAST_CHANCE_TP_Web_Banner_3__FB__IG__LI__Telegram___Happenings__1.jpg">
 </div>
-<p><strong><em>(UPDATE! – Due to overwhelming response, registration for the Leisure Run is now closed. Spots for the Competitive Run are limited, so do register now!)</em></strong>
+<p><strong><em>(UPDATE! – Thank you for your support! Registration for the Run is now closed. Do look out for our confirmation email on the race details soon.</em></strong>
+</p>
+<p><strong><em>That's not all! Whether you are running or not, we encourage you to drop by the TP Stadium to participate in the festivities at the Temasek Tides Concert 2024 - where free food and great entertainment await you. Watch this space for more updates!)</em></strong>
 </p>
 <hr>
 <p><strong><em>Stride for Glory. Run for the Story!</em></strong>
@@ -27,9 +29,8 @@ an eclectic experience filled with excitement, action, and plenty of fun!</p>
 <p><strong>📍 </strong>Temasek Polytechnic Stadium &amp; Bedok Reservoir</p>
 <p><em>(*Timings subjected to change. Do look out for the confirmation email closer to the event date.)</em>
 </p>
-<p><strong>Registration for Competitive Run (5.5km):</strong>
+<p><strong><em>(Registration for the Run is now closed. Thank you for your support!)</em></strong>
 </p>
-<p>👉 Sign up <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2FAzZ9NnzF3j&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C8f18f6ad4423457835b108dc74aa4e44%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638513522015769865%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=vZFewG%2FOJn1%2FOpFiCPNdm8GZ467eY4M1ahqjtAbL0lk%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>!</p>
 <p>&nbsp;<strong>Why You Should Join:</strong>
 </p>
 <ul data-tight="true" class="tight">
