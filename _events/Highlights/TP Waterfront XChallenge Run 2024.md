@@ -12,7 +12,7 @@ third_nav_title: Highlights
 </div>
 <p><strong><em>(UPDATE! – Thank you for your support! Registration for the Run is now closed. Do look out for our confirmation email on the race details soon.</em></strong>
 </p>
-<p><strong><em>That's not all! Whether you are running or not, we encourage you to drop by the TP Stadium to participate in the festivities at the Temasek Tides Concert 2024 - where free food and great entertainment await you. Watch this space for more updates!)</em></strong>
+<p><strong><em>That's not all! Whether you are running or not, we encourage you to drop by the TP Stadium to participate in the festivities at the <a href="https://virtualcampus.tp.edu.sg/temasek-tides-concert-2024/" rel="noopener noreferrer nofollow" target="_blank">Temasek Tides Concert 2024</a> - where free food and great entertainment await you. Watch this space for more updates!)</em></strong>
 </p>
 <hr>
 <p><strong><em>Stride for Glory. Run for the Story!</em></strong>
