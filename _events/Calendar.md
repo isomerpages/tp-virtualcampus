@@ -5,7 +5,31 @@ description: ""
 variant: markdown
 ---
 <table>
-		<tbody>
+	<tbody>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>
+			<td style="width:35%">
+			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/TP_Web_Banner_2_(Virtual_Campus_Homepage_Inner_Page_TP_Oei_BUS_Video_Wall)_FA_copy.jpg?width=590&amp;height=590&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/temasek-tides-concert-2024/"><h4 style="margin-top:0%">Temasek Tides Concert 2024</h4></a>
+				<h6 style="margin-top:0%"><i>26 July 2024</i></h6>
+				<p style="margin-top:0%">
+
+In support of the **[TP Waterfront X-Challenge Run 2024](https://virtualcampus.tp.edu.sg/tp-waterfront-xchallenge-run-2024/)**, Temasek Arts Centre proudly presents a brand-new initiative – “**Temasek Tides Concert 2024**”!
+<br>
+					<br>
+This hour-long concert features something for everyone! Whether you are a runner or not, it is your ticket to a memorable evening of great fun, electrifying performances, and delish food. So grab your friends, let loose, and psych up for an amazing celebration on campus!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>	
+	</tr></tbody><tbody>
 			<tr></tr><tr>
 		</tr><tr>
 			</tr><tr>
