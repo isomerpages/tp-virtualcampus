@@ -27,7 +27,7 @@ dance choreography to today’s top music hits, enjoy an eclectic mix of
 campus favourites lighting up the stage!</p>
 </li>
 <li>
-<p><strong>A Special Guest:</strong> Local acapella group, <strong>The Apex Project</strong>,
+<p><strong>A Special Guest:</strong> Local acapella group, <strong><a href="https://apexprojectsg.band/" rel="noopener noreferrer nofollow" target="_blank">The Apex Project</a></strong>,
 will charm you with their unique vocal magic and a special National Day
 Song performance!</p>
 </li>
