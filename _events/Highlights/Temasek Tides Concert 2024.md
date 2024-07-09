@@ -18,7 +18,6 @@ and psych up for an amazing celebration on campus!</p>
 <p>📅&nbsp;26 July 2024 (Friday)</p>
 <p>🕐&nbsp;5.30pm to 7.30pm</p>
 <p>📍&nbsp;Blk 29, TP Stadium</p>
-<p></p>
 <p><strong>Catch the Following Highlights:</strong>
 </p>
 <ul data-tight="true" class="tight">
