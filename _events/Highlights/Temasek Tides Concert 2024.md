@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong><em>Groove, Chill &amp; Feast:</em></strong></h3>
 <h3><strong>Dive Into The Temasek Tides Concert 2024!</strong></h3>
 <p>[Insert eDM here]</p>
 <p>In support of the <strong><a href="https://virtualcampus.tp.edu.sg/tp-waterfront-xchallenge-run-2024/" rel="noopener noreferrer nofollow" target="_blank">TP Waterfront X-Challenge Run 2024</a></strong>,
