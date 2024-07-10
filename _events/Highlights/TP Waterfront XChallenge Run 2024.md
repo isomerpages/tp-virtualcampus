@@ -10,7 +10,7 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TP WaterFront X Challenge, Last Chance to Sign up" src="/images/homepage-images/LAST_CHANCE_TP_Web_Banner_3__FB__IG__LI__Telegram___Happenings__1.jpg">
 </div>
-<p><strong><em>(UPDATE! – Thank you for your support! Registration for the Run is now closed. Do look out for our confirmation email on the race details soon.</em></strong>
+<p><strong><em>(UPDATE! – Thank you for your support! Registration for the TP Waterfront X-Challenge Run is now closed. Do look out for our confirmation email on the race details soon.</em></strong>
 </p>
 <p><strong><em>That's not all! Whether you are running or not, we encourage you to drop by the TP Stadium to participate in the festivities at the <a href="https://virtualcampus.tp.edu.sg/temasek-tides-concert-2024/" rel="noopener noreferrer nofollow" target="_blank">Temasek Tides Concert 2024</a> - where free food and great entertainment await you. Watch this space for more updates!)</em></strong>
 </p>
@@ -29,7 +29,7 @@ an eclectic experience filled with excitement, action, and plenty of fun!</p>
 <p><strong>📍 </strong>Temasek Polytechnic Stadium &amp; Bedok Reservoir</p>
 <p><em>(*Timings subjected to change. Do look out for the confirmation email closer to the event date.)</em>
 </p>
-<p><strong><em>(Registration for the Run is now closed. Thank you for your support!)</em></strong>
+<p><strong><em>(Registration for the TP Waterfront X-Challenge Run is now closed. Thank you for your support!)</em></strong>
 </p>
 <p>&nbsp;<strong>Why You Should Join:</strong>
 </p>
