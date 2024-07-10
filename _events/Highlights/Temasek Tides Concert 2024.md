@@ -9,7 +9,7 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Tides_EDM_01_01_01_01.jpg">
 </div>
-<p><strong><em>(Note: Record your attendance for this event onsite and be awarded SEAL points for participation!)</em></strong>
+<p><strong><em>(Note: Record your attendance onsite and be awarded SEAL points for participation!)</em></strong>
 </p>
 <p>In support of the <strong><a href="https://virtualcampus.tp.edu.sg/tp-waterfront-xchallenge-run-2024/" rel="noopener noreferrer nofollow" target="_blank">TP Waterfront X-Challenge Run 2024</a></strong>,
 Temasek Arts Centre proudly presents a brand-new initiative – “<strong>Temasek Tides Concert 2024</strong>”!</p>
