@@ -5,7 +5,31 @@ description: ""
 variant: markdown
 ---
 <table>
-		<tbody>
+	<tbody>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>
+			<td style="width:35%">
+			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/Temasek_Tides_EDM-01-01-01-01.jpg?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/temasek-tides-concert-2024/"><h4 style="margin-top:0%">Temasek Tides Concert 2024</h4></a>
+				<h6 style="margin-top:0%"><i>26 July 2024</i></h6>
+				<p style="margin-top:0%">
+
+In support of the <a href="/tp-waterfront-xchallenge-run-2024/">TP Waterfront X-Challenge Run 2024</a>, Temasek Arts Centre proudly presents a brand-new initiative – “Temasek Tides Concert 2024”!
+<br>
+					<br>
+This hour-long concert features something for everyone! Whether you are a runner or not, it is your ticket to a memorable evening of great fun, electrifying performances, and delish food. So grab your friends, let loose, and psych up for an amazing celebration on campus!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>	
+	</tr></tbody><tbody>
 			<tr></tr><tr>
 		</tr><tr>
 			</tr><tr>

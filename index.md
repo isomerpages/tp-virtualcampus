@@ -26,13 +26,24 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek Tides Concert 2024
+      subtitle: GROOVE, CHILL & FEAST!
+      id: infopic
+      description: In support of the TP Waterfront X-Challenge Run 2024, Temasek Arts
+        Centre proudly presents this amazing concert, where an evening of great
+        fun awaits!
+      button: PSYCH UP HERE!
+      url: /temasek-tides-concert-2024/
+      alt: Image alt text
+      image: /images/Events/Highlights/Temasek_Tides_EDM_01_01_01_01.jpg
+  - infopic:
       title: TP Waterfront X-Challenge Run 2024
       subtitle: RUN FOR THE STORY!
       id: infopic
       description: Get ready to lace up your running shoes and join us for an exciting
         event like no other. Look forward to an experience filled with action
         and plenty of fun!
-      button: FINAL CHANCE, SIGN UP NOW!
+      button: REGISTRATION CLOSED!
       url: /tp-waterfront-xchallenge-run-2024/
       alt: Image alt text
       image: /images/homepage-images/LAST_CHANCE_TP_Web_Banner_3__FB__IG__LI__Telegram___Happenings__1.jpg
