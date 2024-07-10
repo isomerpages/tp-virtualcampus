@@ -35,6 +35,7 @@ sections:
       button: PSYCH UP HERE!
       url: /temasek-tides-concert-2024/
       alt: Image alt text
+      image: /images/Events/Highlights/Temasek_Tides_EDM_01_01_01_01.jpg
   - infopic:
       title: TP Waterfront X-Challenge Run 2024
       subtitle: RUN FOR THE STORY!
