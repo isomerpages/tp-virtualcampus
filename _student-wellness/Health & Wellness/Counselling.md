@@ -1,8 +1,11 @@
 ---
 title: Counselling
 permalink: /student-wellness/health-and-wellness/counselling/
-description: ""
+description: TP provides counselling support for students dealing with academic
+  and personal challenges. Schedule an appointment with qualified counsellors
+  today.
 third_nav_title: Health & Wellness
+variant: tiptap
 ---
 ## Student Care
 
@@ -14,6 +17,6 @@ You will find an array of support services and resources to help you through you
 
 Tel:  6780 5959  
 Email: <a href="mailto:care@tp.edu.sg">care@tp.edu.sg</a> <br>
-Opening hours: Mon – Fri (8.30 – 5.30 pm) (closed on Weekends & Public Holidays)
+Opening hours: Mon – Fri (8.30 – 5.30 pm) (closed on Weekends &amp; Public Holidays)
 
 **[Make your appointment](https://bit.ly/booktpcs)**

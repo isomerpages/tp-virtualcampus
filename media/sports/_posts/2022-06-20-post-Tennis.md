@@ -3,8 +3,10 @@ layout: post
 title: Tennis
 permalink: /sports/tennis/
 date: 2022-06-20
-description: ""
+description: Join TP's Tennis team as your CCA and get the opportunity to train
+  and compete in the annual Polytechnic-ITE (POL-ITE) Tennis Games.
 variant: markdown
+image: ""
 ---
 <table>
     <tbody><tr>
