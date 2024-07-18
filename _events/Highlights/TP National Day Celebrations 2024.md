@@ -66,7 +66,7 @@ buns and refreshing Thai milk tea as you partake in all the fun games!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>TP Waterfront X-Challenge Run x Temasek Tides Concert 2024</strong>
+<summary><strong>TP Waterfront X-Challenge Run x Temasek Tides Concert 2024 (26 Jul 2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
