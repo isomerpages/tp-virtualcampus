@@ -252,32 +252,103 @@ the month of August! &nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>School of Applied Science</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>In celebration of National Day, a sculpture-making competition will be
 held for ASC freshmen. Students will be organised into “Houses”, where
 they will fabricate their own sculptures using recycled materials to showcase
 their vision of Singapore. These works of art will be exhibited in ASC
-throughout the month of August 2024.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+throughout the month of <strong>August 2024</strong>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>School of Business</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Jul &amp; Aug:</strong>  <strong>“Wishes for SG”</strong> – BUS staff/students
+are encouraged to pen their well wishes for Singapore during the <strong>last two weeks of July</strong>,
+which will be displayed on the video wall located along the BUS Concourse
+throughout the month of <strong>August 2024</strong>.</p>
+</li>
+<li>
+<p><strong>1-8 Aug: </strong>As a show of national pride, RadioActive will
+broadcast familiar National Day songs for the TP community’s enjoyment.</p>
+</li>
+<li>
+<p><strong>1-8 Aug:</strong> To rally everyone’s spirits, the NDP 2024 song
+will be played on loop on the video wall located along the BUS Concourse.</p>
+</li>
+<li>
+<p><strong>7-8 Aug: </strong>BUS staff/students are encouraged to celebrate
+National Day together by coming to campus in red/white attire.</p>
+</li>
+<li>
+<p><strong>8 Aug:</strong> National Day-themed (red/white) helium balloons
+and removable tattoos will be distributed at the BUS Concourse to mark
+the special occasion.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School of Design</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8 Aug: </strong>DES staff/students are encouraged to celebrate
+National Day together by coming to campus in red/white attire.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School of Engineering</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>8 Aug:</strong> The ENG Studies Club will organise a National Day
+Carnival for the ENG community, featuring game booths, karaoke/broadcasting
+of National Day songs, and video dedications to showcase their well wishes
+for Singapore.</p>
+</li>
+<li>
+<p><strong>8 Aug: </strong>ENG staff/students are encouraged to celebrate
+National Day together by coming to campus in red/white attire.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School of Humanities &amp; Social Sciences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Aug (Date TBC):</strong> Organised by the HSS Studies Club, HSS
+staff/students are encouraged to participate in the <strong>#HSSDressUpDay</strong> in
+National Day-themed colours (red/white). Photos of them in their creative
+outfits will also be shared on HSS’ social media channels (Facebook, LinkedIn).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School of Informatics &amp; IT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Aug (Date TBC):</strong> The IIT Studies Club will organise a National
+Day-themed <strong>“IIT Friendship Day”</strong> for the IIT community, featuring
+carnival-style games/activities, for both staff and students to celebrate
+National Day together.</p>
 </td>
 </tr>
 </tbody>
