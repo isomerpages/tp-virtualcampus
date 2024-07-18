@@ -127,4 +127,17 @@ and support for our nation.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Broadcast of National Day Songs on RadioActive (Aug 2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>What’s a birthday celebration without the playing of evergreen National
+Day hits? Sing along to your favourite songs and be regaled with these
+tunes on campus via RadioActive, and even film a viral TikTok video of
+you and your friends grooving to the beat!</p>
+</div>
+</details>
+</div>
 <p></p>
