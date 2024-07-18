@@ -24,11 +24,9 @@ an eclectic experience filled with excitement, action, and plenty of fun!</p>
 <p><strong>Event Details:</strong>
 </p>
 <p><strong>📅 </strong>26 July 2024 (Friday)</p>
-<p><strong>🕐 </strong>3.00pm (Registration) | *5.00pm (Leisure Run) | *5.30pm
+<p><strong>🕐 </strong>4.00pm (Registration) | 5.00pm (Leisure Run) | 5.30pm
 (Competitive Run)</p>
 <p><strong>📍 </strong>Temasek Polytechnic Stadium &amp; Bedok Reservoir</p>
-<p><em>(*Timings subjected to change. Do look out for the confirmation email closer to the event date.)</em>
-</p>
 <p><strong><em>(Registration for the TP Waterfront X-Challenge Run is now closed. Thank you for your support!)</em></strong>
 </p>
 <p>&nbsp;<strong>Why You Should Join:</strong>
