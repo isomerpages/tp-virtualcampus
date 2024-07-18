@@ -37,6 +37,16 @@ sections:
       image: /images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg
       alt: Image alt text
   - infopic:
+      title: TP National Day Concert 2024
+      subtitle: TOGETHER, AS ONE UNITED PEOPLE
+      id: infopic
+      description: Be a guest at TP’s biggest party, where a line-up of enthralling
+        performances, rousing acts and awesome games await you!
+      button: CATCH THE CONCERT!
+      url: /tp-national-day-concert-2024/
+      image: /images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__Without_QR_Code_.png
+      alt: Image alt text
+  - infopic:
       title: Temasek Tides Concert 2024
       subtitle: GROOVE, CHILL & FEAST!
       id: infopic
