@@ -96,6 +96,21 @@ buns and refreshing Thai milk tea as you partake in all the fun games!</p>
 <p>Get ready to lace up your running shoes and join us at the&nbsp;<a href="https://virtualcampus.tp.edu.sg/tp-waterfront-xchallenge-run-2024/" rel="noopener noreferrer nofollow" target="_blank">TP Waterfront X-Challenge Run 2024</a>,
 which promises an experience filled with excitement, action, and plenty
 of fun!</p>
+<p></p>
+<p><strong>📅&nbsp;</strong>26 Jul 2024 (Friday)</p>
+<p><strong>🕐&nbsp;</strong>3.00pm (Registration) | 5.00pm (Leisure Run)
+| 5.30pm (Competitive Run) | 6.00pm (Concert)</p>
+<p><strong>📍&nbsp;</strong>Temasek Polytechnic Stadium &amp; Bedok Reservoir</p>
+<p></p>
+<p>In support of this exciting event, the Temasek Arts Centre proudly presents
+a brand-new initiative – <a href="https://virtualcampus.tp.edu.sg/temasek-tides-concert-2024/" rel="noopener noreferrer nofollow" target="_blank">Temasek Tides Concert 2024</a>.
+Whether you are running or not, it is your ticket to a memorable evening
+of <strong>captivating performances</strong>, <strong>free hawker treats</strong>,
+and a celebratory <strong>mass sing-along session</strong> (National Anthem
+and TP Song) for everyone!</p>
+<p></p>
+<p>So grab your friends and loved ones, let loose, and psych up for an amazing
+evening on campus – the perfect way to kickstart your National Day celebrations!</p>
 </div>
 </details>
 </div>
