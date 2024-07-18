@@ -235,4 +235,18 @@ await you!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Celebrations in the Schools (Aug 2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Commemorate National Day with your respective Schools through an array
+of meaningful activities – reflecting both your distinctive <strong>School spirit</strong> and
+our <strong>collective love and aspirations for Singapore</strong> – over
+the month of August! &nbsp;</p>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
