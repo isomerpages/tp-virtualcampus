@@ -23,4 +23,47 @@ Schools, CCAs and Clubs across TP!</p>
 <h3><strong>NDC 2024: Fringe Activities</strong></h3>
 <p>Kickstart your celebrations on campus and engage in a rousing line-up
 of National Day-themed activities, organised just for you!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Racial Harmony Day Carnival 2024 (25 Jul 2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/LAxRHD_2024.png">
+</div>
+<p>Celebrate Singapore’s vibrant tapestry of cultures with a day full of
+fun, learning and unity! This exciting event is organised by the <a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener noreferrer nofollow" target="_blank">LEAD Ambassadors</a> in
+collaboration with the <a href="https://www.instagram.com/tpsuonline/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Students' Union</a>,
+<a href="https://www.instagram.com/tpisg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a>, <a href="https://www.instagram.com/designstudiesclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Design Studies Club</a>,
+<a href="https://www.instagram.com/tpeng_sa/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Engineering Student Ambassadors</a>, and <a href="https://www.instagram.com/tp_mindsports/" rel="noopener noreferrer nofollow" target="_blank">TP Mind Sports</a>.</p>
+<p>&nbsp;</p>
+<p>📅 25 Jul 2024 (Thursday)</p>
+<p>🕑 10.00am to 4.00pm
+<br>📍 The Plaza</p>
+<p>ℹ️ Visit <a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp.lead</a> for
+more information.</p>
+<p>&nbsp;</p>
+<p><strong>How to Participate:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Register:</strong> Start at the registration booth to get your
+Carnival Coupon.</p>
+</li>
+<li>
+<p><strong>Play &amp; Enjoy:</strong> Visit each booth, participate in the
+activities, and collect stamps on your coupon.</p>
+</li>
+<li>
+<p><strong>Redeem:</strong> Use the stamps on your coupon to redeem free treats,
+such as sliced ice cream and candy floss!</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>That’s not all – enjoy a <strong>free lunch</strong> on us right after you
+register<strong> (while stocks last)</strong>. Indulge in delicious hotdog
+buns and refreshing Thai Milk Tea as you partake in all the fun games!</p>
+</div>
+</details>
+</div>
 <p></p>
