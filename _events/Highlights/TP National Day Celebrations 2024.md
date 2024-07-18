@@ -283,7 +283,7 @@ broadcast familiar National Day songs for the TP community’s enjoyment.</p>
 </li>
 <li>
 <p><strong>1-8 Aug:</strong> To rally everyone’s spirits, the NDP 2024 song
-will be played on loop on the video wall located along the BUS Concourse.</p>
+will be played on the video wall located along the BUS Concourse.</p>
 </li>
 <li>
 <p><strong>7-8 Aug: </strong>BUS staff/students are encouraged to celebrate
