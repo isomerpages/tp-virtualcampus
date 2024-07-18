@@ -60,7 +60,7 @@ such as sliced ice cream and candy floss!</p>
 <p></p>
 <p>That’s not all – enjoy a <strong>free lunch</strong> on us right after you
 register<strong> (while stocks last)</strong>. Indulge in delicious hotdog
-buns and refreshing Thai Milk Tea as you partake in all the fun games!</p>
+buns and refreshing Thai milk tea as you partake in all the fun games!</p>
 </div>
 </details>
 </div>
