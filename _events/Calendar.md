@@ -11,6 +11,44 @@ variant: markdown
 			</tr><tr>
 			<td style="width:35%">
 			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/02_Virtual_Campus_Homepage_Inner_Page_1920_X_1080-02-02.jpg?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/tp-national-day-celebration-2024/"><h4 style="margin-top:0%">TP National Day Celebrations 2024</h4></a>
+				<h6 style="margin-top:0%"><i>Aug 2024</i></h6>
+				<p style="margin-top:0%">
+					<br>
+This August, muster up all your patriotic fervour, don your best red/white ensemble, and be all set to celebrate Singapore’s 59th birthday! As part of the&nbsp;<b>National Day Celebrations 2024</b>, let’s welcome an eclectic host of events specially brought to you by the Schools, CCAs and Clubs across TP!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>	
+			</tr><tr>
+			</tr><tr>
+			<td style="width:35%">
+			<br>
+				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/VC_BUS_Video_Wall_TP_Oei_(Without_QR_Code).png?width=320&amp;height=320&amp;fit=bounds">
+		</td>
+		<td style="width:65%"><br>
+			<a href="/tp-national-day-concert-2024/"><h4 style="margin-top:0%">TP National Day Concert 2024</h4></a>
+				<h6 style="margin-top:0%"><i>8 Aug 2024</i></h6>
+				<p style="margin-top:0%">
+					<br>
+					Hey #TPFAM, be a guest at TP’s biggest party! Themed <b>"Semangat Kisah Kita"</b> (or <b>"The Spirit of Our Stories"</b>), this year’s National Day Concert will present specially curated performances that celebrate our artistic and cultural diversity, featuring an awesome line-up you will not want to miss!
+<br><br>
+			<br>
+		</p></td>
+	</tr>
+			<tr></tr><tr>
+		</tr><tr>
+			</tr><tr>	
+		</tr><tr>
+			</tr><tr>
+			<td style="width:35%">
+			<br>
 				<img style="display:block;margin-left:auto;margin-right:auto;" src="https://hosting.photobucket.com/images/i/tracyng81/Temasek_Tides_EDM-01-01-01-01.jpg?width=320&amp;height=320&amp;fit=bounds">
 		</td>
 		<td style="width:65%"><br>
