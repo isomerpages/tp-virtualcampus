@@ -145,7 +145,6 @@ you and your friends grooving to the beat!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TD40_Logo__JPEG___1_.jpg">
 </div>
-<p></p>
 <p>This year marks 40 years of Total Defence (TD) in Singapore since its
 inception in 1984. In support of this milestone, a <strong>TD40 Exhibition</strong> will
 be displayed at the TP Library to reinforce the key messages underlying
