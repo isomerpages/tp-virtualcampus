@@ -140,4 +140,29 @@ you and your friends grooving to the beat!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>TD40 Exhibition (5-8 Aug 2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TD40_Logo__JPEG___1_.jpg">
+</div>
+<p></p>
+<p>This year marks 40 years of Total Defence (TD) in Singapore since its
+inception in 1984. In support of this milestone, a <strong>TD40 Exhibition</strong> will
+be displayed at the TP Library to reinforce the key messages underlying
+the importance of TD.&nbsp;</p>
+<p></p>
+<p>This exhibition invites you to take your first step on your own hero’s
+journey. Whether you are a hero to one or 100, no part played is too small.
+Unravel your response when faced with new threats and your role in the
+Singapore Story!</p>
+<p></p>
+<p><strong>📅&nbsp;</strong>5-8 Aug 2024</p>
+<p><strong>📍&nbsp;</strong>TP Library, Level 2</p>
+</div>
+</details>
+</div>
 <p></p>
