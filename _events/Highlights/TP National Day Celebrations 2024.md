@@ -161,4 +161,21 @@ Singapore Story!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>PFP National Day Captain’s Ball Games (6-8 Aug 2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Captain’s Ball is a team sport that facilitates teamwork and inclusivity,
+as well as promotes a sense of community spirit amongst its players. As
+part of their <strong>Fitness &amp; Wellness</strong> lessons, students from
+the <strong>Polytechnic Foundation Programme </strong>will have the opportunity
+to celebrate National Day (ND) through their very own ND-themed <strong>Captain’s Ball Games</strong>!</p>
+<p></p>
+<p>Students will also be encouraged to don national colours (red/white) as
+they sweat it out on the court in the name of sporting fun, with prizes
+awarded to the top two winning classes for each day!</p>
+</div>
+</details>
+</div>
 <p></p>
