@@ -245,7 +245,43 @@ of meaningful activities – reflecting both your distinctive <strong>School spi
 our <strong>collective love and aspirations for Singapore</strong> – over
 the month of August! &nbsp;</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>School of Applied Science</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>In celebration of National Day, a sculpture-making competition will be
+held for ASC freshmen. Students will be organised into “Houses”, where
+they will fabricate their own sculptures using recycled materials to showcase
+their vision of Singapore. These works of art will be exhibited in ASC
+throughout the month of August 2024.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
