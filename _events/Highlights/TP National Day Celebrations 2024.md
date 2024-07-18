@@ -362,7 +362,7 @@ National Day together.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__Without_QR_Code_.png">
 </div>
 <p>Round up all these fantastic celebrations across TP with a rousing finale
-that we have put together specially for you. Join us at our very own <strong>National Day Concert 2024</strong>,
+that we have put together specially for you. Join us at our very own <strong><a href="/tp-national-day-concert-2024/" rel="noopener noreferrer nofollow" target="_blank">National Day Concert 2024</a></strong>,
 featuring an awesome line-up you will not want to miss!</p>
 <p>Themed “<strong>Semangat Kisah Kita</strong>” (or “<strong>The Spirit of Our Stories</strong>”),
 this year’s concert will present specially curated performances that celebrate
