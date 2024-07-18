@@ -177,4 +177,62 @@ awarded to the top two winning classes for each day!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Military Defence Display by 23SA (8 Aug 2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/NDC23_0012.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/NDC23_0008.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Military Defence is a pivotal pillar of our Total Defence (TD) as a nation.
+In conjunction with TD40, the <strong>23rd Battalion, Singapore Artillery (23SA)</strong> will
+proudly display the following artillery hardware right on our campus grounds!</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>High Mobility Artillery Rocket System (HIMARS)</p>
+</li>
+<li>
+<p>Singapore Light Weight Howitzer (SLWH) Pegasus</p>
+</li>
+<li>
+<p>5-pounder Howitzer</p>
+</li>
+</ul>
+<p></p>
+<p><strong>📅&nbsp;</strong>8 Aug 2024 (Thursday)</p>
+<p><strong>🕐&nbsp;</strong>9.00am to 3.00pm</p>
+<p><strong>📍&nbsp;</strong>Triangular Gardens</p>
+<p></p>
+<p>Do remember to drop by and view these spectacular displays, snap lots
+of photos with your fellow colleagues and students, and tag <strong>@temasekpoly</strong> to
+your social media posts!</p>
+<p></p>
+<p>As part of this showcase, there will also be <strong>interactive exhibits</strong> of
+small arms and field rations at The Plaza, where a series of engaging activities
+await you!</p>
+</div>
+</details>
+</div>
 <p></p>
