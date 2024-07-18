@@ -97,8 +97,8 @@ which promises an experience filled with excitement, action, and plenty
 of fun!</p>
 <p></p>
 <p><strong>📅&nbsp;</strong>26 Jul 2024 (Friday)</p>
-<p><strong>🕐&nbsp;</strong>3.00pm (Registration) | 5.00pm (Leisure Run)
-| 5.30pm (Competitive Run) | 6.00pm (Concert)</p>
+<p><strong>🕐&nbsp;</strong>4pm (Registration) | 5pm (Leisure Run) | 5pm
+(Competitive Run) | 6pm (Concert)</p>
 <p><strong>📍&nbsp;</strong>Temasek Polytechnic Stadium &amp; Bedok Reservoir</p>
 <p></p>
 <p>In support of this exciting event, the Temasek Arts Centre proudly presents
