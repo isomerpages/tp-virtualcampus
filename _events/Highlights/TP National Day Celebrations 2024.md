@@ -36,13 +36,11 @@ fun, learning and unity! This exciting event is organised by the <a href="https:
 collaboration with the <a href="https://www.instagram.com/tpsuonline/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Students' Union</a>,
 <a href="https://www.instagram.com/tpisg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a>, <a href="https://www.instagram.com/designstudiesclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Design Studies Club</a>,
 <a href="https://www.instagram.com/tpeng_sa/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Engineering Student Ambassadors</a>, and <a href="https://www.instagram.com/tp_mindsports/" rel="noopener noreferrer nofollow" target="_blank">TP Mind Sports</a>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>📅 25 Jul 2024 (Thursday)</p>
-<p>🕑 10.00am to 4.00pm
-<br>📍 The Plaza</p>
-<p>ℹ️ Visit <a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp.lead</a> for
-more information.</p>
-<p>&nbsp;</p>
+<p>🕑 10.00am to 4.00pm</p>
+<p>📍 The Plaza</p>
+<p></p>
 <p><strong>How to Participate:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -59,10 +57,19 @@ activities, and collect stamps on your coupon.</p>
 such as sliced ice cream and candy floss!</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>That’s not all – enjoy a <strong>free lunch</strong> on us right after you
 register<strong> (while stocks last)</strong>. Indulge in delicious hotdog
 buns and refreshing Thai Milk Tea as you partake in all the fun games!</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>TP Waterfront X-Challenge Run x Temasek Tides Concert 2024 (26 Jul 2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
