@@ -114,4 +114,17 @@ evening on campus – the perfect way to kickstart your National Day celebration
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Campus National Day Decorations (Aug 2024)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Be a proud Singaporean on our beautiful campus! Soak up the National Day
+vibes and be greeted by a colourful display of national flags and décor
+around The Plaza (and other locations in TP), in a special show of solidarity
+and support for our nation.</p>
+</div>
+</details>
+</div>
 <p></p>
