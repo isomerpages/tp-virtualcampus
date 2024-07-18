@@ -21,4 +21,6 @@ let’s welcome an eclectic host of events specially brought to you by the
 Schools, CCAs and Clubs across TP!</p>
 <hr>
 <h3><strong>NDC 2024: Fringe Activities</strong></h3>
+<p>Kickstart your celebrations on campus and engage in a rousing line-up
+of National Day-themed activities, organised just for you!</p>
 <p></p>
