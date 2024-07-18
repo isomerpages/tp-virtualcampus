@@ -69,7 +69,6 @@ buns and refreshing Thai milk tea as you partake in all the fun games!</p>
 <summary><strong>TP Waterfront X-Challenge Run x Temasek Tides Concert 2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -119,7 +118,6 @@ evening on campus – the perfect way to kickstart your National Day celebration
 <summary><strong>Campus National Day Decorations (Aug 2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Be a proud Singaporean on our beautiful campus! Soak up the National Day
 vibes and be greeted by a colourful display of national flags and décor
 around The Plaza (and other locations in TP), in a special show of solidarity
@@ -132,7 +130,6 @@ and support for our nation.</p>
 <summary><strong>Broadcast of National Day Songs on RadioActive (Aug 2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>What’s a birthday celebration without the playing of evergreen National
 Day hits? Sing along to your favourite songs and be regaled with these
 tunes on campus via RadioActive, and even film a viral TikTok video of
@@ -145,7 +142,6 @@ you and your friends grooving to the beat!</p>
 <summary><strong>TD40 Exhibition (5-8 Aug 2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TD40_Logo__JPEG___1_.jpg">
 </div>
