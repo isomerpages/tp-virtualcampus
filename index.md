@@ -40,8 +40,8 @@ sections:
       title: TP National Day Concert 2024
       subtitle: TOGETHER, AS ONE UNITED PEOPLE
       id: infopic
-      description: Be a guest at TP’s biggest party, where a line-up of enthralling
-        performances, rousing acts and awesome games await you!
+      description: Be a guest at TP’s biggest party, where an exciting line-up of
+        enthralling performances, rousing acts and awesome games await you!
       button: CATCH THE CONCERT!
       url: /tp-national-day-concert-2024/
       image: /images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__Without_QR_Code_.png
