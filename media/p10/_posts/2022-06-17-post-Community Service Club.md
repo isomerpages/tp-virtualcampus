@@ -53,6 +53,6 @@ a member now!
 <div class="isomer-card-title">Walk for Rice 2023</div>
 <div class="isomer-card-link">Keep Fit &amp; Walk for a Good Cause!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/p/CyHl2gVSi7M/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/P10/CSC_Outreach.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CSC Outreach Programme</div><div class="isomer-card-link">Learn More About the Volunteering Opportunities Available!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/p/CyHl2gVSi7M/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/P10/CSC_Outreach.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CSC Outreach Programme</div><div class="isomer-card-link">Check Out the Volunteering Opportunities Available!</div></div></a>
 </div>
 <p></p>
