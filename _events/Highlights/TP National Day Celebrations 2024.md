@@ -358,8 +358,9 @@ National Day together.</p>
 </div>
 <hr>
 <h3><strong>TP National Day Concert 2024</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__Without_QR_Code_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__With_QR_Code_.png">
 </div>
 <p>Round up all these fantastic celebrations across TP with a rousing finale
 that we have put together specially for you. Join us at our very own <strong><a href="/tp-national-day-concert-2024/" rel="noopener noreferrer nofollow" target="_blank">National Day Concert 2024</a></strong>,
@@ -382,8 +383,7 @@ with their heartwarming performance!</p>
 </li>
 <li>
 <p>Sway to the melodious tunes of the <strong>Lion City Brass Band</strong> as
-they bring alive iconic NDP songs, conducted by TP alumnus and Director
-of Music, SAF Central Band – <strong>Ignatius Wang</strong>!</p>
+they bring alive iconic NDP songs!</p>
 </li>
 <li>
 <p>Look forward to a special <strong>TP Staff Performance</strong> and <strong>engaging games</strong> led
@@ -399,13 +399,15 @@ everyone!</p>
 <p>📅 8 August 2024 (Thursday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
+<p>👉 <strong>Secure your seat NOW! </strong>- <a href="https://tinyurl.com/NDConcert2024" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/NDConcert2024</a>
+</p>
 <p><strong>Things to Note:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Registration</strong> – SEAL points will be awarded to students
-for full concert participation. Look out for the registration details from
-your respective Schools!</p>
+for full concert participation. Limited seats available, so do sign up
+early!</p>
 </li>
 <li>
 <p><strong>Celebrate in Style</strong> – Express your love for Singapore through
