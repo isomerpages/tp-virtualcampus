@@ -44,7 +44,7 @@ sections:
         enthralling performances, rousing acts and awesome games await you!
       button: CATCH THE CONCERT!
       url: /tp-national-day-concert-2024/
-      image: /images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__Without_QR_Code_.png
+      image: /images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__With_QR_Code_.png
       alt: Image alt text
   - infopic:
       title: Temasek Tides Concert 2024
