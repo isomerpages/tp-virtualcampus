@@ -220,14 +220,14 @@ and supporters.</p>
 <p><strong><a href="/sports/touch-football" rel="noopener noreferrer nofollow" target="_blank">Touch Football</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Touch Football" src="https://hosting.photobucket.com/images/i/tracyng81/Touch_Football.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Touch_Football_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Track &amp; Field" src="https://hosting.photobucket.com/images/i/tracyng81/Track_Field_cQ6wB7Zu5eeQGFvqWssPuu.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Track___Field_1.jpg">
 </div>
 </td>
 </tr>
@@ -243,14 +243,14 @@ and supporters.</p>
 <p><strong><a href="/sports/volleyball" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Touch Football" src="https://hosting.photobucket.com/images/i/tracyng81/Volleyball_nbZJUDbmARuvV6o2jNkrVj.jpg?width=320&amp;height=320&amp;fit=boundsg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Volleyball_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/water-polo" rel="noopener noreferrer nofollow" target="_blank">Water Polo</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Track &amp; Field" src="https://hosting.photobucket.com/images/i/tracyng81/Water_Polo.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Water_Polo_1.jpg">
 </div>
 </td>
 </tr>
