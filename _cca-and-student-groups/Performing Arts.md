@@ -24,8 +24,7 @@ landscapes.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/performing-arts/band/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<br><strong><a href="/performing-arts/band" rel="noopener noreferrer nofollow" target="_blank">Band</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Band" src="/images/Arts/BAND_button-01.png">
