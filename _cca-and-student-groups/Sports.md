@@ -118,14 +118,14 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="sports/kayak-racing" rel="noopener noreferrer nofollow" target="_blank">Kayak Racing</a></strong>
+<p><strong><a href="/sports/kayak-racing/" rel="noopener noreferrer nofollow" target="_blank">Kayak Racing</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="sports/life-saving" rel="noopener noreferrer nofollow" target="_blank">Life Saving</a></strong>
+<p><strong><a href="/sports/life-saving/" rel="noopener noreferrer nofollow" target="_blank">Life Saving</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Life_Saving_1.jpg">
