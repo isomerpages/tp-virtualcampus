@@ -95,25 +95,20 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/inline-skating" rel="noopener noreferrer nofollow" target="_blank">Inline Skating</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Inline Skating" src="/images/Sports/INLINE SKATING_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Judo" src="https://hosting.photobucket.com/images/i/tracyng81/JUDO.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Karate" src="https://hosting.photobucket.com/images/i/tracyng81/Karate.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
@@ -121,24 +116,19 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Kayak Racing" src="https://hosting.photobucket.com/images/i/tracyng81/Kayak_Racing.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Life Saving" src="https://hosting.photobucket.com/images/i/tracyng81/Life_Saving.jpg?width=320&amp;height=320&amp;fit=boundsg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/mind-sports" rel="noopener noreferrer nofollow" target="_blank">Mind Sports</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Mind Sports" src="/images/Sports/MIND SPORTS_button-01.png">
@@ -147,25 +137,20 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/netball" rel="noopener noreferrer nofollow" target="_blank">Netball</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Netball" src="/images/Sports/NETBALL_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Rugby" src="https://hosting.photobucket.com/images/i/tracyng81/Rugby_uexc8VcYzJJ2CpVWWNNux1.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Silat" src="https://hosting.photobucket.com/images/i/tracyng81/Silat_37EyFJyjNZk8nuSxxGSKcz.jpeg?width=320&amp;height=320&amp;fit=bounds">
 </div>
@@ -173,25 +158,20 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Soccer" src="https://hosting.photobucket.com/images/i/tracyng81/Soccer_d9sfSKUUNZv6s8nJKos9V6.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/sport-climbing" rel="noopener noreferrer nofollow" target="_blank">Sport Climbing</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Sport Climbing" src="/images/Sports/SPORT CLIMBING_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Swimming" src="https://hosting.photobucket.com/images/i/tracyng81/Swimming.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
@@ -199,24 +179,20 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Table Tennis" src="/images/Sports/TABLE TENNIS_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Taekwondo" src="https://hosting.photobucket.com/images/i/tracyng81/Taekwondo_fF1Qotz1BPcZ4jFvxvvd7n.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/tchoukball" rel="noopener noreferrer nofollow" target="_blank">Tchoukball</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Tchoukball" src="/images/Sports/TCHOUKBALL_button-01.png">
@@ -225,25 +201,20 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/tennis" rel="noopener noreferrer nofollow" target="_blank">Tennis</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Tennis" src="/images/Sports/TENNIS_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Touch Football" src="https://hosting.photobucket.com/images/i/tracyng81/Touch_Football.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Track &amp; Field" src="https://hosting.photobucket.com/images/i/tracyng81/Track_Field_cQ6wB7Zu5eeQGFvqWssPuu.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
@@ -251,25 +222,20 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/ultimate-frisbee" rel="noopener noreferrer nofollow" target="_blank">Ultimate Frisbee</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Ultimate Frisbee" src="/images/Sports/ULTIMATE FRISBEE_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Touch Football" src="https://hosting.photobucket.com/images/i/tracyng81/Volleyball_nbZJUDbmARuvV6o2jNkrVj.jpg?width=320&amp;height=320&amp;fit=boundsg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Track &amp; Field" src="https://hosting.photobucket.com/images/i/tracyng81/Water_Polo.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
