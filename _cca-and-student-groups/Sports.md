@@ -25,8 +25,7 @@ and supporters.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>
-<br>
-</p>
+<br>10-Pin Bowling</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="10 Pin Bowling" src="/images/Sports/BOWLING_button-01.png">
 </div>
