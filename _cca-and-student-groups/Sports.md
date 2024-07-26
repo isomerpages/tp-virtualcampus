@@ -72,24 +72,21 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/field-hockey" rel="noopener noreferrer nofollow" target="_blank">Field Hockey</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Field Hockey" src="/images/Sports/FIELD HOCKEY_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/floorball" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Floorball" src="/images/Sports/FLOORBALL_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/handball" rel="noopener noreferrer nofollow" target="_blank">Handball</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Handball" src="/images/Sports/HANDBALL_button-01.png">
