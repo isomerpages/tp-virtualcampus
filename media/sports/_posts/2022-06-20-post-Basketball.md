@@ -15,6 +15,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Basketball_New.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Competitive basketball is a popular team sport in which two competing
