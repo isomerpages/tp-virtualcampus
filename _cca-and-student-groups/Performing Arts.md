@@ -84,7 +84,8 @@ landscapes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/performing-arts/emcees" rel="noopener noreferrer nofollow" target="_blank">TP Emcees</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="TP Emcees" src="/images/Arts/EMCEES_button-01-v2.png">
 </div>
@@ -93,7 +94,8 @@ landscapes.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/performing-arts/fusion-percussion" rel="noopener noreferrer nofollow" target="_blank">Fusion Percussion</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Fusion Percussion" src="/images/Arts/FP_button-02.png">
 </div>
@@ -102,7 +104,8 @@ landscapes.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/performing-arts/indian-dance" rel="noopener noreferrer nofollow" target="_blank">Indian Dance</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Indian Dance" src="/images/Arts/IDG_button-01.png">
 </div>
@@ -113,7 +116,8 @@ landscapes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/performing-arts/malay-dance" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Malay Dance" src="/images/Arts/MDG_button-01.png">
 </div>
@@ -121,7 +125,8 @@ landscapes.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/performing-arts/music-vox" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Music Vox" src="/images/Arts/MV_button-01.png">
 </div>
@@ -130,7 +135,8 @@ landscapes.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/performing-arts/salvo-drums" rel="noopener noreferrer nofollow" target="_blank">Salvo Drums</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Salvo_Drums_2.jpg">
 </div>
@@ -141,7 +147,8 @@ landscapes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/performing-arts/teatro" rel="noopener noreferrer nofollow" target="_blank">Teatro</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/TEATRO_button-01.png">
 </div>
