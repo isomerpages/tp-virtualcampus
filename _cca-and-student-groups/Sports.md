@@ -24,23 +24,21 @@ and supporters.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br><a href="/sports/10-pin-bowling/" rel="noopener noreferrer nofollow" target="_blank">10-Pin Bowling</a></strong>
+<p><strong><a href="/sports/10-pin-bowling/" rel="noopener noreferrer nofollow" target="_blank">10-Pin Bowling</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="10 Pin Bowling" src="/images/Sports/BOWLING_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br><strong><a href="/sports/aikido" rel="noopener noreferrer nofollow" target="_blank">Aikido</a></strong>
+<p><strong><a href="/sports/aikido" rel="noopener noreferrer nofollow" target="_blank">Aikido</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Aikido.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/archery" rel="noopener noreferrer nofollow" target="_blank">Archery</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Archery" src="/images/Sports/ARCHERY_button-01.png">
@@ -50,24 +48,20 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/badminton" rel="noopener noreferrer nofollow" target="_blank">Badminton</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Badminton" src="/images/Sports/BADMINTON_button-01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Basketball" src="https://hosting.photobucket.com/images/i/tracyng81/Basketball_j4RK1FUweLZLSwkwLYFewT.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong><a href="/sports/dragon-boat" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Dragon Boat" src="/images/Sports/DRAGONBOAT_button-01.png">
