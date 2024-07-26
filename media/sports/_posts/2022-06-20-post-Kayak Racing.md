@@ -4,59 +4,52 @@ title: Kayak Racing
 permalink: /sports/kayak-racing/
 date: 2022-06-20
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-    <tbody><tr>
-        <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Kayak_Racing.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing"></td>
-        <td>
-            <p>
-                Kayak racing is a water sport growing in popularity. The first kayaks were made of driftwood and animal skins by the natives of Asia and North America. Modern kayaks are made of metal, fiberglass and rubber, making them stronger, more durable and portable. TP Kayak Racing team competes in the Polytechnic-ITE (POL-ITE) Canoe Sprints and external competitions annually.<br>
-                <br>
-                <b>Achievements:</b><br>
-                POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kayak racing is a water sport growing in popularity. The first kayaks
+were made of driftwood and animal skins by the natives of Asia and North
+America. Modern kayaks are made of metal, fiberglass and rubber, making
+them stronger, more durable and portable. TP Kayak Racing team competes
+in the Polytechnic-ITE (POL-ITE) Canoe Sprints and external competitions
+annually.
 <br>
-                <br>
-                <b>Training Days:</b><br>
-                </p><ul>
-                    <li>Tuesday &amp; Wednesday, 6.30pm (TP Sports Complex)</li>
-                    <li>Saturday, 8.30am (Bedok Reservoir)</li>
-                </ul>
-            <p></p>
-            <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:KOH_Wen_Kiat@TP.EDU.SG">Mr Koh Wen Kiat</a><br>
-                <br>
-                CCA <a href="https://www.instagram.com/tpkayakracingteam/">Instagram</a><br>
-                <br>
-            </p>
-        </td>
-    </tr>
-</tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcfWj0tPWPN/">
-                <img src="/images/Sports/KAYAK RACING_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcfNIuIvk4L/">
-                <img src="/images/Sports/KAYAK RACING_POL-ITE 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
-                <h6 style="margin-top:0%">POL-ITE 2022</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcW7xvNv-AD/">
-                <img src="/images/Sports/KAYAK RACING_AGM 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Kayak Racing">
-                <h6 style="margin-top:0%">AGM 2022</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
+<br><strong>Achievements:</strong>
+<br>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
+<br>
+<br><strong>Training Days:</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday &amp; Wednesday, 6.30pm (TP Sports Complex)</p>
+</li>
+<li>
+<p>Saturday, 8.30am (Bedok Reservoir)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:KOH_Wen_Kiat@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Wen Kiat</a>
+<br>
+<br>CCA <a href="https://www.instagram.com/tpkayakracingteam/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
