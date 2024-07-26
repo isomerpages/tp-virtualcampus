@@ -194,7 +194,8 @@ and supporters.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/sports/taekwondo" rel="noopener noreferrer nofollow" target="_blank">Taekwondo</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Taekwondo" src="https://hosting.photobucket.com/images/i/tracyng81/Taekwondo_fF1Qotz1BPcZ4jFvxvvd7n.jpg?width=320&amp;height=320&amp;fit=bounds">
 </div>
