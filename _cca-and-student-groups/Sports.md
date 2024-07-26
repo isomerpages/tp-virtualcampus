@@ -164,9 +164,10 @@ and supporters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/sports/soccer" rel="noopener noreferrer nofollow" target="_blank">Soccer</a></strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Soccer" src="https://hosting.photobucket.com/images/i/tracyng81/Soccer_d9sfSKUUNZv6s8nJKos9V6.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,9 +178,10 @@ and supporters.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/sports/swimming" rel="noopener noreferrer nofollow" target="_blank">Swimming</a></strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Swimming" src="https://hosting.photobucket.com/images/i/tracyng81/Swimming.jpg?width=320&amp;height=320&amp;fit=bounds">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_1.jpg">
 </div>
 </td>
 </tr>
