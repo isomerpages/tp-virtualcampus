@@ -35,35 +35,4 @@ These events include (not limited to):
                 <p></p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CdVUi2dJYNr/">
-                    <img src="/images/P10/ESC_Subcommittee Recruitment 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ESC">
-                    <h6 style="margin-top:0%">Subcommittee Recruitment 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CbKLFGupGvD/">
-                    <img src="/images/P10/ESC_Engineering Tech Show 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ESC">
-                    <h6 style="margin-top:0%">Engineering Tech Show 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CWAHj7ZPJBW/">
-                    <img src="/images/P10/ESC_Blood Donation Drive 2021.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ESC">
-                    <h6 style="margin-top:0%">Blood Donation Drive 2021</h6>    
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
