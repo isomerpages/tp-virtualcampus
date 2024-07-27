@@ -77,33 +77,6 @@ variant: markdown
 
 <hr>
 
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cco1SjBJ28_/">
-                <img src="/images/Arts/Salvo/SALVO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CbXZNd3pj72/">
-                <img src="/images/Arts/Salvo/SALVO_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
-                <h6 style="margin-top:0%">DREAMS XII</h6>    
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CSJ3niJn7Ak/">
-                <img src="/images/Arts/Salvo/SALVO_National Day Concert 2021.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Salvo Drums">
-                <h6 style="margin-top:0%">National Day Concert 2021</h6>
-            </a>
-        </td>
-    </tr>
-</tbody></table>
-	
-<hr>
-
 ### Gallery
 
 <table>
