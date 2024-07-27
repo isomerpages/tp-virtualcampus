@@ -12,8 +12,6 @@ student community, and in the process stretch and hone your leadership
 skills and develop competencies in the non-academic domains, as you create
 a fun, caring and vibrant campus that you will be proud of.</p>
 <hr>
-<h2>Our P10 Clubs&nbsp;&nbsp;</h2>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
