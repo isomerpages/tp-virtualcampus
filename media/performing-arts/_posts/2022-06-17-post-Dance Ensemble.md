@@ -84,33 +84,6 @@ variant: markdown
 
 <hr>
 
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeNkaevJlGe/">
-                <img src="/images/Arts/DE/DE_Induction Camp.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">Induction Camp</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc9hPUxp-dV/">
-                <img src="/images/Arts/DE/DE_Recruitment Drive.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">Recruitment Drive</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc76eMTJxD6/">
-                <img src="/images/Arts/DE/DE_Rice N Shine.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dance Ensemble">
-                <h6 style="margin-top:0%">Introducing Main Committee AY22/23 - Rice N Shine</h6>    
-            </a>
-        </td>
-    </tr>
-</tbody></table>
-	
-<hr>
-
 ### Gallery
 
 <table>
