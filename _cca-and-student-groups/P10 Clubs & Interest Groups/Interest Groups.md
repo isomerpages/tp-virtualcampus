@@ -165,6 +165,7 @@ variant: tiptap
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Japanese Cultural Group" src="/images/Interest Groups/JCG_button-01.png">
 </div>
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
