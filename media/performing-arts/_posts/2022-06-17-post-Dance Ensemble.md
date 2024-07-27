@@ -4,113 +4,155 @@ title: Dance Ensemble
 permalink: /performing-arts/dance-ensemble/
 date: 2022-06-17
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody>
-		<tr>
-			<td>
-				<p>
-                    The Temasek Polytechnic Dance Ensemble (TPDE) comprises three main dance genres; Hip Hop, Modern Dance and Breakin’. 
-					<br>
-					<br>
-                    Modern Dance is a dance form developed from classical ballet in the early 20th century, shedding the classical ballet technique, costume and shoes. Hip Hop is a popular dance style involving energetic and funky street dance. Breakin’ includes a multitude of different floorwork and explosive movements. 
-					<br>
-					<br>
-                    Dance Ensemble’s Hip Hop, Modern Dance &amp; Breakin’ are under the tutelage of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.
-                    <br>
-                    <br>
-				</p>
-			</td>
-			<td style="width:40%">
-				<img alt="DE" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DE/DE_logo.png">
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Temasek Polytechnic Dance Ensemble (TPDE) comprises three main dance
+genres; Hip Hop, Modern Dance and Breakin’.
+<br>
+<br>Modern Dance is a dance form developed from classical ballet in the early
+20th century, shedding the classical ballet technique, costume and shoes.
+Hip Hop is a popular dance style involving energetic and funky street dance.
+Breakin’ includes a multitude of different floorwork and explosive movements.
+<br>
+<br>Dance Ensemble’s Hip Hop, Modern Dance &amp; Breakin’ are under the tutelage
+of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DE" src="/images/Arts/DE/DE_logo.png">
+</div>
+</td>
+</tr>
+</tbody>
 </table>
-	
 <hr>
-	
-### Recognitions
-
-##### Features
-	
-<ul>
-    <li>Motiv 2023 (Site-specific concert)</li>
-	<li>Temasek Spectacular (2022) (7 shows for TP Freshmen)</li>
-    <li>Temasek Arts Festival – “PLAY” The Series: Experimental Collective (2021)</li>
+<h3>Recognitions</h3>
+<h5>Features</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Motiv 2023 (Site-specific concert)</p>
+</li>
+<li>
+<p>Temasek Spectacular (2022) (7 shows for TP Freshmen)</p>
+</li>
+<li>
+<p>Temasek Arts Festival – “PLAY” The Series: Experimental Collective (2021)</p>
+</li>
 </ul>
-
-##### Achievements
-	
-<ul>
-    <li>Super 24 2023 (Champion for Tertiary Category)</li>
-	   <li>Origins Interschool 2023 (Champion for Breakin' Category)</li>
-		   <li>World Supremacy Battlegrounds 2023 (First runner-up for Tertiary Category)</li>
-	<li>Super 24 2019 (Champion for Tertiary Category)</li>
-    <li>TRDO Duet 2019 (Champion for Inter-poly Category)</li>
-    <li>Origins: Interschool 2018 (Champion)</li>
-    <li>Mighty Nomads' BBOY POL-ITE 2018 (Champion)</li>
-    <li>Super 24 2017 (Champion for Open Category)</li>    
+<h5>Achievements</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Super 24 2023 (Champion for Tertiary Category)</p>
+</li>
+<li>
+<p>Origins Interschool 2023 (Champion for Breakin' Category)</p>
+</li>
+<li>
+<p>World Supremacy Battlegrounds 2023 (First runner-up for Tertiary Category)</p>
+</li>
+<li>
+<p>Super 24 2019 (Champion for Tertiary Category)</p>
+</li>
+<li>
+<p>TRDO Duet 2019 (Champion for Inter-poly Category)</p>
+</li>
+<li>
+<p>Origins: Interschool 2018 (Champion)</p>
+</li>
+<li>
+<p>Mighty Nomads' BBOY POL-ITE 2018 (Champion)</p>
+</li>
+<li>
+<p>Super 24 2017 (Champion for Open Category)</p>
+</li>
 </ul>
-
 <hr>
-
-### About CCA
-
-##### Training Days
-            
-<ul>    
-    <li>Modern: Tuesday, 6pm to 9pm</li>
-    <li>Hip Hop: Wednesday, 6pm to 9pm</li>
-    <li>Breakin’: Thursday, 6pm to 9pm</li>
+<h3>About CCA</h3>
+<h5>Training Days</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Modern: Tuesday, 6pm to 9pm</p>
+</li>
+<li>
+<p>Hip Hop: Wednesday, 6pm to 9pm</p>
+</li>
+<li>
+<p>Breakin’: Thursday, 6pm to 9pm</p>
+</li>
 </ul>
-
-
-##### Staff Advisor
-
-<ul>
-	<li>
-		<a href="mailto:Fayanne_Tan@tp.edu.sg">Ms Fayanne Tan</a>
-</li></ul>
-
-
-##### Pages
-
-<ul>
-	<li><a href="https://www.instagram.com/tpdeofficial">Instagram</a></li>
-	<li><a href="https://linktr.ee/tpdeofficial">Linktree</a></li>
+<h5>Staff Advisor</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="mailto:Fayanne_Tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fayanne Tan</a>
+</p>
+</li>
 </ul>
-
+<h5>Pages</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.instagram.com/tpdeofficial" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+</li>
+<li>
+<p><a href="https://linktr.ee/tpdeofficial" rel="noopener noreferrer nofollow" target="_blank">Linktree</a>
+</p>
+</li>
+</ul>
 <hr>
-
-### Gallery
-
-<table>
-	<tbody>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="DE" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DE/DE_pic_1.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="DE" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DE/DE_pic_2.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="DE" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DE/DE_pic_3.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="DE" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DE/DE_pic_4.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="DE" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DE/DE_pic_5.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="DE" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/DE/DE_pic_6.jpg">
-			</td>
-		</tr>
-	</tbody>
+<h3>Gallery</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DE" src="/images/Arts/DE/DE_pic_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DE" src="/images/Arts/DE/DE_pic_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DE" src="/images/Arts/DE/DE_pic_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DE" src="/images/Arts/DE/DE_pic_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DE" src="/images/Arts/DE/DE_pic_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DE" src="/images/Arts/DE/DE_pic_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
