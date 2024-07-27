@@ -7,7 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -101,57 +105,22 @@ crowds of people!
 </li>
 </ul>
 <hr>
-<h3>Latest Happenings</h3>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/EMCEES_128 Circle X TP Emcees Meet The Stars.png">
-</div>
-<h6>128 Circle X TP Emcees: Meet The Stars</h6>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/EMCEES_CCA Fair 2022.png">
-</div>
-<h6>CCA Fair 2022</h6>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/EMCEES_Temasek Spectacular 2022.png">
-</div>
-<h6>Temasek Spectacular 2022</h6>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h3>Gallery</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_1-v2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_2-v2.jpg">
 </div>
@@ -159,17 +128,13 @@ crowds of people!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_4.jpg">
 </div>
@@ -177,17 +142,13 @@ crowds of people!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_6.jpg">
 </div>
