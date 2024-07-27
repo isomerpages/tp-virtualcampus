@@ -35,31 +35,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcudGyLhC_h/">
-                <img src="/images/Sports/FLOORBALL_Temasek Polytechnic Women’s Floorball Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
-                <h6 style="margin-top:0%">Temasek Polytechnic Women’s Floorball Recruitment</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcudGyLhC_h/">
-                <img src="/images/Sports/FLOORBALL_Temasek Polytechnic Men’s Floorball Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
-                <h6 style="margin-top:0%">Temasek Polytechnic Men’s Floorball Recruitment</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcAbeH5FXdT/">
-                <img src="/images/Sports/FLOORBALL_POL-ITE AY21-22.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Floorball">
-                <h6 style="margin-top:0%">POL-ITE Floorball Championship AY21/22</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
