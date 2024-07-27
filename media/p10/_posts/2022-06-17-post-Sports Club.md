@@ -26,35 +26,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CdZrsNoJTVr/">
-                    <img src="/images/P10/SPORTS CLUB_Student Election 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club">
-                    <h6 style="margin-top:0%">Student Election 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CcoZKjQv7WB/">
-                    <img src="/images/P10/SPORTS CLUB_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club">
-                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CbKiSnppwgj/">
-                    <img src="/images/P10/SPORTS CLUB_TPSC X Laser Tag.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sports Club">
-                    <h6 style="margin-top:0%">TPSC X Laser Tag.png</h6>    
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
