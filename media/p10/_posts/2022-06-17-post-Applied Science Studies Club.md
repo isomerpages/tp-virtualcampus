@@ -24,35 +24,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CdIbQVBJTLr/">
-                    <img src="/images/P10/ASSC_Freshmen Orientation 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ASCSC">
-                    <h6 style="margin-top:0%">Freshmen Orientation 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cc2obh3JtNM/">
-                    <img src="/images/P10/ASSC_ASC Befriender.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ASCSC">
-                    <h6 style="margin-top:0%">ASC Befrienders</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cb_enxTvt8O/">
-                    <img src="/images/P10/ASSC_Main Committee Recruitment AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="ASCSC">
-                    <h6 style="margin-top:0%">Main Committee Recruitment AY22/23</h6>    
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
