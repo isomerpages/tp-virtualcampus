@@ -29,7 +29,6 @@ entrepreneurship events, webinars, workshops, networking sessions with
 industry mentors and start-ups, as well as encouraging members to participate
 in and organise hackathons.
 <br>
-<br>
 </p>
 <p><strong>Achievements:</strong>
 <br>The Student Chapter has collaborated with both the School of Business
