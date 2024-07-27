@@ -160,6 +160,32 @@ journey on the right note!</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/Temasek_Regatta_Page_1920_X_1080px.jpg">
+</div>
+<p><em>12 Apr 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong><a href="/events/freshmen-orientation-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">Temasek Regatta x SpecTACular 2024</a></strong>
+</p>
+<p></p>
+<p>Your freshmen onboarding experience will culminate in a fun afternoon
+out at the&nbsp;Temasek Regatta x SpecTACular! Held specially to mark the
+end of your orientation journey and the start of your Polytechnic life,
+this event also encapsulates the very best of TP’s creative energies, sporting
+excellence and artistic splendour.
+<br>
+<br>Make a splash and have fun in the sun at Temasek Regatta, and be dazzled
+by our finest arts talents at SpecTACular!</p>
+<p></p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
