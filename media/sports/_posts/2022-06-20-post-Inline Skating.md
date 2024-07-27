@@ -24,31 +24,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdH9N_Fpnwr/">
-                <img src="/images/Sports/INLINE SKATING_Introduction to TP Skate.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
-                <h6 style="margin-top:0%">Introduction to TP Skate</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdAK3U9JOUB/">
-                <img src="/images/Sports/INLINE SKATING_Recruitment Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
-                <h6 style="margin-top:0%">Recruitment Fair 2022</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcvAndeJb_l/">
-                <img src="/images/Sports/INLINE SKATING_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Inline Skating">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
