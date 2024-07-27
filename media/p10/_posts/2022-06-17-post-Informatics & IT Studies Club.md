@@ -33,35 +33,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CbEoa9bpQ1T/">
-                    <img src="/images/P10/IITSC_Orientation Leaders' Training Camp 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IITSC">
-                    <h6 style="margin-top:0%">Orientation Leaders' Training Camp 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CarQrQ3l9t_/">
-                    <img src="/images/P10/IITSC_Volunteers for InfoTech Day 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IITSC">
-                    <h6 style="margin-top:0%">Volunteers for InfoTech Day 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CagjHD1vtFN/">
-                    <img src="/images/P10/IITSC_Project R.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IITSC">
-                    <h6 style="margin-top:0%">Project R</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
