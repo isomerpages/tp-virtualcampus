@@ -81,35 +81,6 @@ Engaging in audio, lighting, staging, visual media and post-production, the clos
     <li><a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">Flickr</a></li>
 		<li><a href="https://linktr.ee/tp.dmpc">Linktree</a></li>
 </ul>
-
-
-
-<hr>
-
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdAuZJ3J8o7/">
-                <img src="/images/Arts/DMPC/DMPC_Join DMPC.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
-                <h6 style="margin-top:0%">Join DMPC!</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Ccxkq7UpUca/">
-                <img src="/images/Arts/DMPC/DMPC_Introduction Video.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Video">
-                <h6 style="margin-top:0%">Introduction Video</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.flickr.com/photos/digitalmediacrewtp/albums">
-                <img src="/images/Arts/DMPC/DMPC_Flickr.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DMPC">
-                <h6 style="margin-top:0%">DMPC Flickr Page</h6> 
-            </a>
-        </td>
-    </tr>
-</tbody></table>
 	
 <hr>
 
