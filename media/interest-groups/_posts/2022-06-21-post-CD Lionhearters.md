@@ -31,35 +31,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CcpNLKBJes5/">
-                    <img src="/images/Interest Groups/LIONHEARTERS_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
-                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CbtRxKgvW3e/">
-                    <img src="/images/Interest Groups/LIONHEARTERS_Main Committee Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
-                    <h6 style="margin-top:0%">Main Committee Recruitment</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CaBfr1uv_zA/">
-                    <img src="/images/Interest Groups/LIONHEARTERS_SCDF X TP-CDLH myResponder Sign-up Challenge.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-CD Lionhearters">
-                    <h6 style="margin-top:0%">SCDF X TP-CDLH myResponder Sign-up Challenge</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
