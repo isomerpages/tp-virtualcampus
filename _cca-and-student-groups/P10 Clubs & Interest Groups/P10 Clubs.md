@@ -79,7 +79,7 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/p10/humanities-and-social-sciences-studies-club" rel="noopener noreferrer nofollow" target="_blank">HSS Studies Club</a>
+<p><strong><a href="/p10/humanities-and-social-sciences-studies-club" rel="noopener noreferrer nofollow" target="_blank">HSS Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Humanities &amp; Social Sciences Studies Club" src="/images/P10/HSSSC_button-01.png">
