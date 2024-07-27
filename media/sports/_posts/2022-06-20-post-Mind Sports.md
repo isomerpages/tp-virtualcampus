@@ -23,32 +23,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdUsob3po2K/">
-                <img src="/images/Sports/MIND SPORTS_NP Open Invitationals.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
-                <h6 style="margin-top:0%">NP Open Invitationals</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdCguqhpdM_/">
-                <img src="/images/Sports/MIND SPORTS_LCCM Labor Day Hari Raya Tournament.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
-                <h6 style="margin-top:0%">LCCM Labor Day + Hari Raya Tournament</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc0OKNWvhB-/">
-                <img src="/images/Sports/MIND SPORTS_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Mindsports">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
