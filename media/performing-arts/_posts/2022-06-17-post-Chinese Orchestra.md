@@ -66,5 +66,3 @@ variant: markdown
 <ul>
 	<li><a href="https://www.instagram.com/tpchineseorchestra">Instagram</a></li>
 </ul>
-
-<hr>
