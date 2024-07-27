@@ -31,35 +31,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cc_5_rQJBYI/">
-                    <img src="/images/Interest Groups/DEBATES_Temasek Polytechnic Charity Competition.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
-                    <h6 style="margin-top:0%">Temasek Polytechnic Charity Competition</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cc7q45HJClu/">
-                    <img src="/images/Interest Groups/DEBATES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
-                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CczXlGxPS1d/">
-                    <img src="/images/Interest Groups/DEBATES_What do we do.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP Debates">
-                    <h6 style="margin-top:0%">What do we do?</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
