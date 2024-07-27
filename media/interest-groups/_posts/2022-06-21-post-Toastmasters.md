@@ -36,35 +36,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CeIYkPNpXEO/">
-                    <img src="/images/Interest Groups/TOASTMASTERS_Anxiety On Stage.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
-                    <h6 style="margin-top:0%">Anxiety On Stage</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cdt9Eu-DKOP/">
-                    <img src="/images/Interest Groups/TOASTMASTERS_2nd Chapter Meeting Fast Food.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
-                    <h6 style="margin-top:0%">2nd Chapter Meeting: Fast Food</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CdLBlPKp7e3/">
-                    <img src="/images/Interest Groups/TOASTMASTERS_1st Chapter Meeting Endangered Animals.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Toastmasters">
-                    <h6 style="margin-top:0%">1st Chapter Meeting: Endangered Animals</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
