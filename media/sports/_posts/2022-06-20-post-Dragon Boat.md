@@ -27,31 +27,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CedhRACJQkE/">
-                <img src="/images/Sports/DRAGONBOAT_Singapore Dragon Boat Festival 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">Singapore Dragon Boat Festival 2022</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cd5mLVbpMYo/">
-                <img src="/images/Sports/DRAGONBOAT_Volunteer Work.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">Volunteer Work</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc7Q4BtJQU-/">
-                <img src="/images/Sports/DRAGONBOAT_Recruitment Drive.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPDB">
-                <h6 style="margin-top:0%">TPDB is Recruiting!</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
