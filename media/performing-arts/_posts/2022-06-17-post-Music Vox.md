@@ -81,35 +81,6 @@ variant: markdown
 
 <hr>
 
-### Latest Happenings
-
-<table>
-	<tbody>
-		<tr>
-			<td style="width:33%"><br>
-				<a href="https://www.instagram.com/p/CeNWR5tJ88z/">
-				<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_Audition Results.png">
-				<h6 style="margin-top:0%">Audition Results</h6>				
-			</a>
-		</td>
-		<td style="width:33%"><br>
-			<a href="https://www.instagram.com/p/Cc5ADHYP89e/">
-				<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_CCA Fair 2022.png">
-				<h6 style="margin-top:0%">CCA Fair 2022</h6>				
-			</a>
-		</td>
-		<td style="width:33%"><br>
-			<a href="https://www.instagram.com/p/CbaUTZLJwn7/">
-				<img alt="Musicvox" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/MV/MV_DREAMS XII.png">
-				<h6 style="margin-top:0%">DREAMS XII</h6>    				
-				</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
-	
-<hr>
-
 ### Gallery
 
 <table>
