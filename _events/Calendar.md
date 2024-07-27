@@ -49,7 +49,8 @@ and Clubs across TP!</p>
 <p>Hey #TPFAM, be a guest at TP’s biggest party! Themed <strong>"Semangat Kisah Kita"</strong> (or <strong>"The Spirit of Our Stories"</strong>),
 this year’s National Day Concert will present specially curated performances
 that celebrate our artistic and cultural diversity, featuring an awesome
-line-up you will not want to miss!
+line-up you will not want to miss!</p>
+<p>
 <br>
 </p>
 </td>
@@ -76,7 +77,8 @@ Tides Concert 2024”!
 <br>This hour-long concert features something for everyone! Whether you are
 a runner or not, it is your ticket to a memorable evening of great fun,
 electrifying performances, and delish food. So grab your friends, let loose,
-and psych up for an amazing celebration on campus!
+and psych up for an amazing celebration on campus!</p>
+<p>
 <br>
 </p>
 </td>
@@ -101,7 +103,8 @@ exhilarating event like no other!
 <br>Whether you are a seasoned runner or simply looking to enjoy a leisurely
 run amidst the picturesque backdrop of Bedok Reservoir, there is definitely
 something for everyone. Mark your calendars and rally your friends to be
-a part of this iconic campus experience!
+a part of this iconic campus experience!</p>
+<p>
 <br>
 </p>
 </td>
