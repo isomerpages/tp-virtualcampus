@@ -78,33 +78,6 @@ variant: markdown
 	    <li><a href="https://www.tiktok.com/@keseniansianaktari?_t=8kgtzhj3vnk&amp;_r=1">TikTok</a></li>
 	    <li><a href="https://www.youtube.com/@keseniansianaktari7995">YouTube</a></li>
 </ul>
-
-<hr>
-
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdUraqdgNbh/">
-                <img src="/images/Arts/MDG/MDG_Zapin Pak Ngah Balik.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
-                <h6 style="margin-top:0%">Zapin Pak Ngah Balik</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdDnCkLB8nk/">
-                <img src="/images/Arts/MDG/MDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
-                <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcuPdcGrSOo/">
-                <img src="/images/Arts/MDG/MDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Malay Dance">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>   
-            </a>
-        </td>
-    </tr>
-</tbody></table>
 	
 <hr>
 
