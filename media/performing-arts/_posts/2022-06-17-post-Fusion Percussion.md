@@ -71,33 +71,6 @@ variant: markdown
 	<li><a href="https://www.instagram.com/fusionpercussion">Instagram</a></li>
     <li><a href="https://linktr.ee/fusionpercussion">Linktree</a></li>
 </ul>
-
-<hr>
-
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdAvXXhh0hi/">
-                <img src="/images/Arts/FP/FP_Who are WE.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
-                <h6 style="margin-top:0%">Who Are WE?</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc4yL8hLswq/">
-                <img src="/images/Arts/FP/FP_Sign Up Now.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
-                <h6 style="margin-top:0%">Sign Up Now!</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CczULZQBlj9/">
-                <img src="/images/Arts/FP/FP_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Fusion Percussion">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-            </a>
-        </td>
-    </tr>
-</tbody></table>
 	
 <hr>
 
