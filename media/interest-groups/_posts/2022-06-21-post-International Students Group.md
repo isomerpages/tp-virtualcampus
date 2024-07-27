@@ -32,35 +32,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CdndJ3dJlaX/">
-                    <img src="/images/Interest Groups/ISG_4ever Caring REenergized.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
-                    <h6 style="margin-top:0%">4ever Caring REenergized</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CdKjgw4JmAj/">
-                    <img src="/images/Interest Groups/ISG_S-CAPE Game.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
-                    <h6 style="margin-top:0%">S-CAPE Game</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cc4K8OEPRfh/">
-                    <img src="/images/Interest Groups/ISG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP International Students Group">
-                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
