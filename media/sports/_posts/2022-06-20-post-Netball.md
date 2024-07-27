@@ -30,32 +30,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdfVcMPpCgt/">
-                <img src="/images/Sports/NETBALL_Introducing Our Excos AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball">
-                <h6 style="margin-top:0%">Introducing Our Excos AY22/23</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CczQgSzPQjG/">
-                <img src="/images/Sports/NETBALL_Netball Trials.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball">
-                <h6 style="margin-top:0%">Netball Trials</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CckBQlspfy5/">
-                <img src="/images/Sports/NETBALL_Join TP Netball.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Netball">
-                <h6 style="margin-top:0%">Join TP Netball!</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
