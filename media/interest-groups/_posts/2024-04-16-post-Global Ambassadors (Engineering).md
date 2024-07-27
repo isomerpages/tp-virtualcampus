@@ -7,16 +7,20 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Design Student Ambassadors" src="https://hosting.photobucket.com/images/i/tracyng81/Global_Ambassadors_(Engineering).jpg?width=590&amp;height=590&amp;fit=bounds">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Global_Ambassadors__Engineering_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Global Ambassadors (Engineering) aims to showcase Singapore, Temasek Polytechnic,
 and the School of Engineering to our international guests.
 <br>
