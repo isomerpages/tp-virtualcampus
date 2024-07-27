@@ -16,7 +16,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg">
 </div>
-<p><strong>Aug 2024</strong>
+<p><em>Aug 2024</em>
 </p>
 <p></p>
 </td>
@@ -39,7 +39,7 @@ and Clubs across TP!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__With_QR_Code_.png">
 </div>
-<p><strong>8 Aug 2024</strong>
+<p><em>8 Aug 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ line-up you will not want to miss!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Tides_EDM_01_01_01_01.jpg">
 </div>
-<p><strong>26 Jul 2024</strong>
+<p><em>26 Jul 2024</em>
 <br>
 </p>
 </td>
@@ -90,7 +90,7 @@ and psych up for an amazing celebration on campus!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__FA_copy.jpg">
 </div>
-<p><strong>26 Jul 2024</strong>
+<p><em>26 Jul 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +116,8 @@ a part of this iconic campus experience!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/CCA_Banner_1920px_by_1080px_FA_copy.jpg">
 </div>
-<p>17-18 Apr 2024</p>
+<p><em>17-18 Apr 2024</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -129,6 +130,34 @@ Maximise your fun.
 <br>Life as a TP student can be as exciting, engaging and empowering as you
 want it to be! Join us at the&nbsp;CCA Fair 2024 and take your pick from
 the diverse CCAs offered in TP. See you there!</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/FOP_Page_1920_X_1080px_copy.jpg">
+</div>
+<p><em>5-12 Apr 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong><a href="/events/freshmen-orientation-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2024</a></strong>
+</p>
+<p></p>
+<p>Hey, Freshies! Congratulations on your successful admission to Temasek
+Polytechnic and here's wishing you a very warm welcome to the TP Family!
+<br>
+<br>The Freshmen Orientation occupies a special spot in TP’s calendar, as
+it celebrates a momentous milestone in your tertiary academic journey.
+Feeling jittery before the commencement of Polytechnic life? Fret not!
+TP has lined up an exciting array of activities to help you kickstart your
+journey on the right note!</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
