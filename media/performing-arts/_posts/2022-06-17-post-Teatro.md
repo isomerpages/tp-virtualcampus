@@ -73,33 +73,6 @@ variant: markdown
 	<li><a href="https://www.instagram.com/tpteatro/">Instagram</a></li>
     <li><a href="https://linktr.ee/teatroyanni?utm_source=linktree_profile_share&amp;ltsid=42b31363-646a-46cd-ba10-0344d7744466">Linktree</a></li>
 </ul>
-
-<hr>
-
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc-OIRkLQNb/">
-                <img src="/images/Arts/Teatro/TEATRO_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
-                <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcxJynILCnA/">
-                <img src="/images/Arts/Teatro/TEATRO_Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
-                <h6 style="margin-top:0%">Recruitment</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcmvDgDpCRj/">
-                <img src="/images/Arts/Teatro/TEATRO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-            </a>
-        </td>
-    </tr>
-</tbody></table>
 	
 <hr>
 
