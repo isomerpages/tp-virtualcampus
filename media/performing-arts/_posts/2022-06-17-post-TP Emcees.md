@@ -114,13 +114,11 @@ crowds of people!
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_1-v2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_2-v2.jpg">
 </div>
@@ -128,13 +126,11 @@ crowds of people!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_4.jpg">
 </div>
@@ -142,13 +138,11 @@ crowds of people!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_6.jpg">
 </div>
