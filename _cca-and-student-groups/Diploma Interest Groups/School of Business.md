@@ -21,7 +21,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.instagram.com/tp.anf/" rel="noopener noreferrer nofollow" target="_blank">Accountacy &amp; Finance</a></strong>
+<p><strong><a href="https://www.instagram.com/tp.anf/" rel="noopener noreferrer nofollow" target="_blank">Accountancy &amp; Finance</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Accounting &amp; Finance Interest Group" src="/images/BUS/ANF_button-01.png">
