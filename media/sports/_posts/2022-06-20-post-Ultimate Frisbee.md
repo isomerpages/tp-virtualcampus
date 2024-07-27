@@ -28,31 +28,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeQ1t9KpKX3/">
-                <img src="/images/Sports/ULTIMATE FRISBEE_Introducing the Excos AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
-                <h6 style="margin-top:0%">Introducing the Excos AY22/23</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CczLDRlPAwk/">
-                <img src="/images/Sports/ULTIMATE FRISBEE_Ultybeginner 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
-                <h6 style="margin-top:0%">Ultybeginner 2022</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcvAENYJbWb/">
-                <img src="/images/Sports/ULTIMATE FRISBEE_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Ultimate Frisbee">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
