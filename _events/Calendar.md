@@ -30,6 +30,7 @@ of the&nbsp;<strong>National Day Celebrations 2024</strong>, let’s welcome
 an eclectic host of events specially brought to you by the Schools, CCAs
 and Clubs across TP!</p>
 <p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -107,6 +108,27 @@ a part of this iconic campus experience!</p>
 <p>
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/CCA_Banner_1920px_by_1080px_FA_copy.jpg">
+</div>
+<p>17-18 Apr 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong><a href="/events/ccafair2024/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2024</a></strong>
+</p>
+<p></p>
+<p>Discover your passion. Unleash your creativity. Forge lasting friendships.
+Maximise your fun.
+<br>
+<br>Life as a TP student can be as exciting, engaging and empowering as you
+want it to be! Join us at the&nbsp;CCA Fair 2024 and take your pick from
+the diverse CCAs offered in TP. See you there!</p>
 </td>
 </tr>
 </tbody>
