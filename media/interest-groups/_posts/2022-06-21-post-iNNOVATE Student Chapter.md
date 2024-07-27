@@ -4,62 +4,48 @@ title: iNNOVATE Student Chapter
 permalink: /interest-groups/innovate-student-chapter/
 date: 2022-06-21
 description: ""
-variant: markdown
+variant: tiptap
 image: ""
 ---
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Picture1.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise"></td>
-            <td>
-                <p>
-                    The iNNOVATE Student Chapter aims to foster an entrepreneurial spirit and mindset among students in the School of Business and TP.<br>
-                    <br>
-                    The Student Chapter develops entrepreneurship capabilities by organising entrepreneurship events, webinars, workshops, networking sessions with industry mentors and start-ups, as well as encouraging members to participate in and organise hackathons.<br>
-                    <br>
-                </p>
-                <p>
-                   <b>Achievements:</b><br>
-                   The Student Chapter has collaborated with both the School of Business and School of Informatics &amp; IT to co-create a TP marketplace app (a ‘sandbox’ on Mobile Commerce), which aims to influence fellow students to embark on an innovation and entrepreneurial journey.<br>
-                    <br>
-                    <b>Meeting Day:</b><br>
-                    Monthly EXCO meeting / Event Basis<br>
-                    <br>
-                    <b>CCA Staff Advisor:</b> <a href="mailto:John_LOW@TP.EDU.SG">Mr John Low</a><br>
-                    <br>
-                    CCA <a href="https://www.instagram.com/innovate_tp_/">Instagram</a>
-                </p>
-            </td>
-        </tr>
-    </tbody></table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Spirit_Of_Enterprise__SOE__TP_Student_Chapter.jpg">
 </div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CdVHWqrhX__/">
-                    <img src="/images/Interest Groups/SOE_What is an Entrepreneur.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">What is an Entrepreneur?</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CdUyAaDhvmd/">
-                    <img src="/images/Interest Groups/SOE_Entrepreneurship Awareness Week.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">Entrepreneurship Awareness Week</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cc16eHGB15x/">
-                    <img src="/images/Interest Groups/SOE_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TP-Spirit of Enterprise">
-                    <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The iNNOVATE Student Chapter aims to foster an entrepreneurial spirit
+and mindset among students in the School of Business and TP.
+<br>
+<br>The Student Chapter develops entrepreneurship capabilities by organising
+entrepreneurship events, webinars, workshops, networking sessions with
+industry mentors and start-ups, as well as encouraging members to participate
+in and organise hackathons.
+<br>
+<br>
+</p>
+<p><strong>Achievements:</strong>
+<br>The Student Chapter has collaborated with both the School of Business
+and School of Informatics &amp; IT to co-create a TP marketplace app (a
+‘sandbox’ on Mobile Commerce), which aims to influence fellow students
+to embark on an innovation and entrepreneurial journey.
+<br>
+<br><strong>Meeting Day:</strong>
+<br>Monthly EXCO meeting / Event Basis
+<br>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:John_LOW@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr John Low</a>
+<br>
+<br>CCA <a href="https://www.instagram.com/innovate_tp_/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
