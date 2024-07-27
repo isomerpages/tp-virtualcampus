@@ -28,32 +28,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeFhJdCpkWF/">
-                <img src="/images/Sports/SPORT CLIMBING_Selection Trials AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">Selection Trials AY22/23</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcnDCvHJ7Wk/">
-                <img src="/images/Sports/SPORT CLIMBING_About Sport Climbing.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">About Sport Climbing</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcfWyg6vHRe/">
-                <img src="/images/Sports/SPORT CLIMBING_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Sport Climbing">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
