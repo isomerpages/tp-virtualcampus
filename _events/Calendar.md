@@ -95,7 +95,7 @@ and psych up for an amazing celebration on campus!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><a href="/tp-waterfront-xchallenge-run-2024/" rel="noopener noreferrer nofollow" target="_blank">TP Waterfront X-Challenge Run</a></strong>
+<p><strong><a href="/tp-waterfront-xchallenge-run-2024/" rel="noopener noreferrer nofollow" target="_blank">TP Waterfront X-Challenge Run 2024</a></strong>
 </p>
 <p></p>
 <p>This July, get ready to lace up your running shoes and join us for an
