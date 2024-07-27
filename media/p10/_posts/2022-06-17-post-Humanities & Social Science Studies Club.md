@@ -38,35 +38,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cec1z2npEak/">
-                    <img src="/images/P10/HSSSC_Mismatched Socks.png" style="display:block;margin-left:auto;margin-right:auto;" alt="HSSSC">
-                    <h6 style="margin-top:0%">#HSSDRESSUPDAY - Mismatched Socks</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CeK7cYJpiwF/">
-                    <img src="/images/P10/HSSSC_Cartoons.png" style="display:block;margin-left:auto;margin-right:auto;" alt="HSSSC">
-                    <h6 style="margin-top:0%">#HSSDRESSUPDAY – Cartoons</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cd5ElpxJV_Z/">
-                    <img src="/images/P10/HSSSC_Rainbow.png" style="display:block;margin-left:auto;margin-right:auto;" alt="HSSSC">
-                    <h6 style="margin-top:0%">#HSSDRESSUPDAY – Rainbow</h6>    
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>
