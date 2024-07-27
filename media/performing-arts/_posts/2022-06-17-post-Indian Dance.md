@@ -72,33 +72,6 @@ We take immense pride in showcasing our talents at high-profile events such as t
 
 <hr>
 
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cd3MXyuvr_w/">
-                <img src="/images/Arts/IDG/IDG_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
-                <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cdxyq_RPn0_/">
-                <img src="/images/Arts/IDG/IDG_Trial Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
-                <h6 style="margin-top:0%">Trial Session</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcwslAUvgt4/">
-                <img src="/images/Arts/IDG/IDG_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Indiandance">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-            </a>
-        </td>
-    </tr>
-</tbody></table>
-	
-<hr>
-
 ### Gallery
 
 <table>
