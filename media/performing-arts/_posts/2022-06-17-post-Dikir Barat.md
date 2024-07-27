@@ -80,33 +80,6 @@ variant: markdown
 
 <hr>
 
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcxifZzB8a8/">
-                <img src="/images/Arts/DK/DK_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CbY8xXDBJD3/">
-                <img src="/images/Arts/DK/DK_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
-                <h6 style="margin-top:0%">DREAMS XII</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CVCoeDgok7L/">
-                <img src="/images/Arts/DK/DK_Kem Budaya.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Dikir Barat">
-                <h6 style="margin-top:0%">Kem Budaya</h6>
-            </a>
-        </td>
-    </tr>
-</tbody></table>
-	
-<hr>
-
 ### Gallery
 
 <table>
