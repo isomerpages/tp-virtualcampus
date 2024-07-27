@@ -20,7 +20,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://www.instagram.com/tpcdfsig/" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity &amp; Digital Forensics</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="AISP &amp; ISACA" src="/images/IIT/AISP &amp; ISACA_button-01.png">
 </div>
@@ -29,6 +30,8 @@ variant: tiptap
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><a href="https://www.instagram.com/tp.bda" rel="noopener noreferrer nofollow" target="_blank">Big Data &amp; Analytics</a></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Big Data &amp; Analytics Student Interest Group" src="/images/Interest%20Groups/UPDATED%20BUTTONS/bigdataanalytics_button_02_ver060723.png">
@@ -38,7 +41,8 @@ variant: tiptap
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://www.instagram.com/tp.itsig/" rel="noopener noreferrer nofollow" target="_blank">Information Technology</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Information Technology Student Interest Group" src="/images/IIT/IT_button-01.png">
 </div>
@@ -49,6 +53,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="https://www.instagram.com/igd_sig/" rel="noopener noreferrer nofollow" target="_blank">Immersive Media &amp; Game Development</a></strong>
+</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
