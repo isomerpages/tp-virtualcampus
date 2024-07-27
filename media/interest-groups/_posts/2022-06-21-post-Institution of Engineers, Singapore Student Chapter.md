@@ -30,33 +30,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeQ0uPxppnG/">
-                <img src="/images/Interest Groups/IES_ENGNewsletter.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
-                <h6 style="margin-top:0%">ENGNewsletter</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeL25YVpOzj/">
-                <img src="/images/Interest Groups/IES_NUS' Built Environment Case Competition.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
-                <h6 style="margin-top:0%">NUS' Built Environment Case Competition</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-					<a href="https://www.instagram.com/p/CcxdktppdCR/">
-                <img src="/images/Interest Groups/IES_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="IES Student Chapter">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
+    </tbody></table></div>
