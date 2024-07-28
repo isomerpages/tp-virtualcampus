@@ -26,11 +26,11 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/tp_airborne/" rel="noopener noreferrer nofollow" target="_blank">Aerospace Engineering</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Aerospace Engineering (AEG)" src="/images/Interest%20Groups/UPDATED%20BUTTONS/aerospaceengineering_button_01_ver060723.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Logos_for_Web_03.png">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.instagram.com/ifmclub/" rel="noopener noreferrer nofollow" target="_blank">Integrated Facility Management</a></strong>
@@ -62,7 +62,7 @@ variant: tiptap
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.instagram.com/amsaviators/" rel="noopener noreferrer nofollow" target="_blank">Aviation Management</a></strong>
@@ -72,7 +72,7 @@ variant: tiptap
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.instagram.com/eng_tpbze/" rel="noopener noreferrer nofollow" target="_blank">Business Process &amp; Systems Engineering</a></strong>
@@ -82,7 +82,7 @@ variant: tiptap
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
