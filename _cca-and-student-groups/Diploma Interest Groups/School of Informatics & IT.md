@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Big Data &amp; Analytics Student Interest Group" src="/images/Interest%20Groups/UPDATED%20BUTTONS/bigdataanalytics_button_02_ver060723.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Logos_for_Web_08.png">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
