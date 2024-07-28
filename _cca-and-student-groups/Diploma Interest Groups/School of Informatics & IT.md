@@ -31,7 +31,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.instagram.com/tp.bda" rel="noopener noreferrer nofollow" target="_blank">Big Data &amp; Analytics</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Logos_for_Web_08.png">
 </div>
