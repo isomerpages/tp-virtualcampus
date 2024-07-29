@@ -27,31 +27,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc3Fdf2PNTZ/">
-                <img src="/images/Sports/TABLE TENNIS_Online CCA Fair.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
-                <h6 style="margin-top:0%">Online CCA Fair</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc0MkqDJ9GU/">
-                <img src="/images/Sports/TABLE TENNIS_In-Person CCA Fair.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
-                <h6 style="margin-top:0%">In-Person CCA Fair</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CCqZxS7nPpF/">
-                <img src="/images/Sports/TABLE TENNIS_E-CCA Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis">
-                <h6 style="margin-top:0%">E-CCA Session</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>

@@ -28,31 +28,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAxWibTnnXo/">
-                <img src="/images/Sports/BADMINTON_Maintaining Fitness in Circuit Breaker.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton">
-                <h6 style="margin-top:0%">Maintaining Fitness in Circuit Breaker</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAC5H18DwbD/">
-                <img src="/images/Sports/BADMINTON_Recruitment Drive.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton">
-                <h6 style="margin-top:0%">Join TP Badminton!</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAAmYXfDPcR/">
-                <img src="/images/Sports/BADMINTON_Introduction to Badminton.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Badminton">
-                <h6 style="margin-top:0%">Introduction to TP Badminton</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>

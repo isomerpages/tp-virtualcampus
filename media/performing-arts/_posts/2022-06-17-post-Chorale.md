@@ -4,135 +4,137 @@ title: Chorale
 permalink: /performing-arts/chorale/
 date: 2022-06-17
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody>
-		<tr>
-			<td>
-				<p>
-                    The Temasek Polytechnic Chorale performs choral and acappella arrangements in traditional as well as contemporary styles. Let the singers bring music to your ears with the human instrument – the voice. 
-					<br>
-					<br>
-                    TP Chorale is a renowned choir CCA group comprising a diverse group of Sopranos, Altos, Tenors and Basses, led by resident conductor, Ms Choy Siew Woon. 
-					<br>
-					<br>
-                    They are bonded by their strong passion for singing and endeavour to convey their love for choral singing through the specially curated concert repertoire.
-                    <br>
-                    <br>
-				</p>
-			</td>
-			<td style="width:40%">
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_logo.png">
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Temasek Polytechnic Chorale performs choral and acappella arrangements
+in traditional as well as contemporary styles. Let the singers bring music
+to your ears with the human instrument – the voice.
+<br>
+<br>TP Chorale is a renowned choir CCA group comprising a diverse group of
+Sopranos, Altos, Tenors and Basses, led by resident conductor, Ms Choy
+Siew Woon.
+<br>
+<br>They are bonded by their strong passion for singing and endeavour to convey
+their love for choral singing through the specially curated concert repertoire.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Chorale" src="/images/Arts/Chorale/Chorale_logo.png">
+</div>
+</td>
+</tr>
+</tbody>
 </table>
-	
 <hr>
-	
-### Recognitions
-
-##### Features
-	
-<ul>
-  <li>Tapestry Arts Festival - Our Canvas - Supernova (2023)</li>  
-	<li>Tapestry: MELODY Music Festival - EVOS VII - Reflection (2023)</li>
-    <li>A Renaissance by Singapore Lyric Opera Youth Chorus (2022)
-</li>     
-    <li> Community Chest Christmas On A Great Street Light-Up Ceremony (2022)</li>
-    <li> North East Community Give Back Golf &amp; Appreciation Dinner (2022)</li>
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)
-</li>  
+<h3>Recognitions</h3>
+<h5>Features</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tapestry Arts Festival - Our Canvas - Supernova (2023)</p>
+</li>
+<li>
+<p>Tapestry: MELODY Music Festival - EVOS VII - Reflection (2023)</p>
+</li>
+<li>
+<p>A Renaissance by Singapore Lyric Opera Youth Chorus (2022)</p>
+</li>
+<li>
+<p>Community Chest Christmas On A Great Street Light-Up Ceremony (2022)</p>
+</li>
+<li>
+<p>North East Community Give Back Golf &amp; Appreciation Dinner (2022)</p>
+</li>
+<li>
+<p>Temasek Polytechnic National Day Virtual Concert (2021)</p>
+</li>
 </ul>
-
-##### Achievements
-	
-<ul>
-    <li>First &amp; Second Prize at Golden Voices at Montserrat, Spain (2016)</li>      
+<h5>Achievements</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>First &amp; Second Prize at Golden Voices at Montserrat, Spain (2016)</p>
+</li>
 </ul>
-
 <hr>
-
-### About CCA
-
-##### Training Days
-            
-<ul>    
-    <li>Tuesday &amp; Thursday, 6.30pm to 9.30pm</li>
+<h3>About CCA</h3>
+<h5>Training Days</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday &amp; Thursday, 6.30pm to 9.30pm</p>
+</li>
 </ul>
-
-
-##### Staff Advisor
-
-<ul>
-	<li>
-		<a href="mailto:nigel_tan@tp.edu.sg">Mr Nigel Tan</a>
-</li></ul>
-
-##### Pages
-
-<ul>
-	<li><a href="https://www.instagram.com/tpchorale">Instagram</a></li>
-  	<li><a href="https://linktr.ee/tp.chorale">Linktree</a></li>
+<h5>Staff Advisor</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a>
+</p>
+</li>
 </ul>
-
+<h5>Pages</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.instagram.com/tpchorale" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+</li>
+<li>
+<p><a href="https://linktr.ee/tp.chorale" rel="noopener noreferrer nofollow" target="_blank">Linktree</a>
+</p>
+</li>
+</ul>
 <hr>
-
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcsIBpJvXpl/">
-                <img src="/images/Arts/Chorale/CHORALE_Virtual Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
-                <h6 style="margin-top:0%">Virtual Fair 2022</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcNM5Y0PbWl/">
-                <img src="/images/Arts/Chorale/CHORALE_Temasek Spectacular.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
-                <h6 style="margin-top:0%">Temasek Spectacular 2022</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CbaE6TppP9c/">
-                <img src="/images/Arts/Chorale/CHORALE_DREAMS XII.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chorale">
-                <h6 style="margin-top:0%">DREAMS XII</h6> 
-            </a>
-        </td>
-    </tr>
-</tbody></table>
-	
-<hr>
-
-### Gallery
-
-<table>
-	<tbody>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_1.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_2.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_3.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_4-v2.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_5-v2.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="Chorale" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Chorale/Chorale_pic_6.jpg">
-			</td>
-		</tr>
-	</tbody>
+<h3>Gallery</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>

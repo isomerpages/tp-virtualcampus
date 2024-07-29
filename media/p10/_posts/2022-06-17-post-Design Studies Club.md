@@ -22,35 +22,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CeXlZyOJViB/">
-                    <img src="/images/P10/DSC_Sub-Committee Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSC">
-                    <h6 style="margin-top:0%">Sub-Committee Recruitment</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CeXlM4YpSdJ/">
-                    <img src="/images/P10/DSC_Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSC">
-                    <h6 style="margin-top:0%">Main Committee AY22/23</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CaZDfOpP43J/">
-                    <img src="/images/P10/DSC_Collaboration with SimpleJobs.png" style="display:block;margin-left:auto;margin-right:auto;" alt="DSC">
-                    <h6 style="margin-top:0%">Collaboration with SimpleJobs</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>

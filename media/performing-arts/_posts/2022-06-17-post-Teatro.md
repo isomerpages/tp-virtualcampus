@@ -4,132 +4,154 @@ title: Teatro
 permalink: /performing-arts/teatro/
 date: 2022-06-17
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody>
-		<tr>
-			<td>
-				<p>
-                    Teatro, meaning Theatre in Spanish, is made up of a diverse collective of students who share a passion for performance, drama and ideation. Through high quality "live" and recorded productions as well as concert narratives, Teatro is always seeking to explore the unknown and push the boundaries of creativity. 
-                    <br>
-                    <br>
-				</p>
-			</td>
-			<td style="width:40%">
-				<img alt="Teatro" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Teatro/Teatro_logo.png">
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teatro, meaning Theatre in Spanish, is made up of a diverse collective
+of students who share a passion for performance, drama and ideation. Through
+high quality "live" and recorded productions as well as concert narratives,
+Teatro is always seeking to explore the unknown and push the boundaries
+of creativity.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/Teatro/Teatro_logo.png">
+</div>
+</td>
+</tr>
+</tbody>
 </table>
-	
 <hr>
-	
-### Recognitions
-
-##### Features
-	
-<ul>
-   <li>"Threads of Connection" Tapestry (2023)</li>
-	<li>"Epiphany" Tapestry Open Concert (Creative Direction) (2023)</li>
-	<li>"Paraverse" (Original devised play, 2023)</li>
-	<li>"Don't Steal Happiness" - Collaboration with Curious Thoughts Giving (2023)</li>
-	<li>TeatroFest "Alice" (AY22/23)</li>
-	<li>"Intramural" (Original devised play, 2022)</li>
-	<li>TP National Day Concert 2022 (Creative Direction)</li>
-    <li>"TeatroFest AY2020/21" (Online Triple-bill)</li>
-    <li>"The Lift" (2019)</li>
-    <li>"Those Who Can't, Teach" (2019)</li>
-    <li>"Tujuh" (original devised play, 2019)</li>
-    <li>“Land Ho!” (TP National Day Concert, 2019)</li>
-    <li>"Caucasian Chalk Circle (2018)</li>
-    <li>"No More Tears" (devised play, 2018)</li>
+<h3>Recognitions</h3>
+<h5>Features</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>"Threads of Connection" Tapestry (2023)</p>
+</li>
+<li>
+<p>"Epiphany" Tapestry Open Concert (Creative Direction) (2023)</p>
+</li>
+<li>
+<p>"Paraverse" (Original devised play, 2023)</p>
+</li>
+<li>
+<p>"Don't Steal Happiness" - Collaboration with Curious Thoughts Giving (2023)</p>
+</li>
+<li>
+<p>TeatroFest "Alice" (AY22/23)</p>
+</li>
+<li>
+<p>"Intramural" (Original devised play, 2022)</p>
+</li>
+<li>
+<p>TP National Day Concert 2022 (Creative Direction)</p>
+</li>
+<li>
+<p>"TeatroFest AY2020/21" (Online Triple-bill)</p>
+</li>
+<li>
+<p>"The Lift" (2019)</p>
+</li>
+<li>
+<p>"Those Who Can't, Teach" (2019)</p>
+</li>
+<li>
+<p>"Tujuh" (original devised play, 2019)</p>
+</li>
+<li>
+<p>“Land Ho!” (TP National Day Concert, 2019)</p>
+</li>
+<li>
+<p>"Caucasian Chalk Circle (2018)</p>
+</li>
+<li>
+<p>"No More Tears" (devised play, 2018)</p>
+</li>
 </ul>
-
 <hr>
-
-### About CCA
-
-##### Training Days
-            
-<ul>    
-    <li>Monday &amp; Thursday, 6pm to 9pm</li>
-    <li>Additional training days as required for productions</li>
+<h3>About CCA</h3>
+<h5>Training Days</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday &amp; Thursday, 6pm to 9pm</p>
+</li>
+<li>
+<p>Additional training days as required for productions</p>
+</li>
 </ul>
-
-
-##### Staff Advisor
-
-<ul>
-	<li>
-		<a href="mailto:Denise_CABALTERA@tp.edu.sg>"> Ms Denise Cabaltera</a>
-		<br>
-	</li>
+<h5>Staff Advisor</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="mailto:Denise_CABALTERA@tp.edu.sg>" rel="noopener noreferrer nofollow" target="_blank">Ms Denise Cabaltera</a> 
+<br>
+</p>
+</li>
 </ul>
-
-##### Pages
-
-<ul>
-	<li><a href="https://www.instagram.com/tpteatro/">Instagram</a></li>
-    <li><a href="https://linktr.ee/teatroyanni?utm_source=linktree_profile_share&amp;ltsid=42b31363-646a-46cd-ba10-0344d7744466">Linktree</a></li>
+<h5>Pages</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.instagram.com/tpteatro/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+</li>
+<li>
+<p><a href="https://linktr.ee/teatroyanni?utm_source=linktree_profile_share&amp;ltsid=42b31363-646a-46cd-ba10-0344d7744466" rel="noopener noreferrer nofollow" target="_blank">Linktree</a>
+</p>
+</li>
 </ul>
-
 <hr>
-
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc-OIRkLQNb/">
-                <img src="/images/Arts/Teatro/TEATRO_Introducing Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
-                <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcxJynILCnA/">
-                <img src="/images/Arts/Teatro/TEATRO_Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
-                <h6 style="margin-top:0%">Recruitment</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcmvDgDpCRj/">
-                <img src="/images/Arts/Teatro/TEATRO_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Teatro">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>    
-            </a>
-        </td>
-    </tr>
-</tbody></table>
-	
-<hr>
-
-### Gallery
-
-<table>
-	<tbody>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="Teatro" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Teatro/Teatro_pic_1.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="Teatro" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Teatro/Teatro_pic_2.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="Teatro" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Teatro/Teatro_pic_3.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="Teatro" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Teatro/Teatro_pic_4.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="Teatro" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Teatro/Teatro_pic_5.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="Teatro" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/Teatro/Teatro_pic_6.jpg">
-			</td>
-		</tr>
-	</tbody>
+<h3>Gallery</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/Teatro/Teatro_pic_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/Teatro/Teatro_pic_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/Teatro/Teatro_pic_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/Teatro/Teatro_pic_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/Teatro/Teatro_pic_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/Teatro/Teatro_pic_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>

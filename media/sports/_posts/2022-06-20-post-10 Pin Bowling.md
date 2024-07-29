@@ -28,31 +28,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcsQ0ceJcjT/">
-                <img src="/images/Sports/BOWLING_Introducing the Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
-                <h6 style="margin-top:0%">Introducing the Committee AY22/23</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcnPd8dpDIP/">
-                <img src="/images/Sports/BOWLING_CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
-                <h6 style="margin-top:0%">CCA Fair 2022</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CZRtHusP0Hn/">
-                <img src="/images/Sports/BOWLING_POL-ITE 21-22.png" style="display:block;margin-left:auto;margin-right:auto;" alt="10 Pin Bowling">
-                <h6 style="margin-top:0%">POL-ITE 21/22</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>

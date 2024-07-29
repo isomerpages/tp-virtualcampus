@@ -4,64 +4,62 @@ title: Soccer
 permalink: /sports/soccer/
 date: 2022-06-20
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-    <tbody><tr>
-        <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Soccer.jpg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer"></td>
-        <td>
-            <p>
-                The sport that needs no introduction. Commonly known in this region as football, the game is estimated to be played by over 250 million players in over 200 countries, making it the world’s most popular sport. TP Soccer teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Soccer Games and SR Nathan Challenge Trophy Soccer Tournament annually.<br>
-                <br>
-                <b>Achievements:</b><br>
-                </p><ul>
-                    <li>S R Nathan Soccer Challenge Trophy 2023: Gold (Men’s Team)</li>
-                    <li>POL-ITE Games 2023: Bronze (Men's Team) &amp; 5th Position (Women’s Team)</li>
-                </ul>
-            <p></p>
-            <p>
-                <b>Training Days:</b><br>
-                </p><ul>
-                    <li>Men's: Monday &amp; Thursday, 7pm</li>
-                    <li>Women's: Monday &amp; Wednesday, 7pm</li>
-                </ul>
-            <p></p>
-            <p>
-                <b>CCA Staff Advisor:</b> <a href="mailto:TAN_Yeuan_Huei@TP.EDU.SG">Mr Tan Yeuan Huei</a><br>
-            </p>
-            <p>
-                CCA <a href="https://www.instagram.com/tp_msoccer">Instagram</a> (Men's Soccer)<br>
-                CCA <a href="https://www.instagram.com/tpgazelles">Instagram</a> (Women's Soccer)<br>
-            </p>
-        </td>
-    </tr>
-</tbody></table>
-
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdNzExHrVij/">
-                <img src="/images/Sports/SOCCER_Men's Soccer Trials.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer">
-                <h6 style="margin-top:0%">Men's Soccer Trials</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cc5fx46pScq/">
-                <img src="/images/Sports/SOCCER_Men's Soccer Team Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer">
-                <h6 style="margin-top:0%">Men's Soccer Team - Recruitment</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CczGdhSgPWV/">
-                <img src="/images/Sports/SOCCER_Women's Soccer Team CCA Fair 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Soccer">
-                <h6 style="margin-top:0%">Women's Soccer Team - CCA Fair 2022</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>The sport that needs no introduction. Commonly known in this region as
+football, the game is estimated to be played by over 250 million players
+in over 200 countries, making it the world’s most popular sport. TP Soccer
+teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Soccer
+Games and SR Nathan Challenge Trophy Soccer Tournament annually.
+<br>
+<br><strong>Achievements:</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>S R Nathan Soccer Challenge Trophy 2023: Gold (Men’s Team)</p>
+</li>
+<li>
+<p>POL-ITE Games 2023: Bronze (Men's Team) &amp; 5th Position (Women’s Team)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Training Days:</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Men's: Monday &amp; Thursday, 7pm</p>
+</li>
+<li>
+<p>Women's: Monday &amp; Wednesday, 7pm</p>
+</li>
+</ul>
+<p></p>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:TAN_Yeuan_Huei@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yeuan Huei</a>
+<br>
+</p>
+<p>CCA <a href="https://www.instagram.com/tp_msoccer" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Men's
+Soccer)
+<br>CCA <a href="https://www.instagram.com/tpgazelles" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Women's
+Soccer)
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -4,59 +4,53 @@ title: Swimming
 permalink: /sports/swimming/
 date: 2022-06-20
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-    <tbody><tr>
-        <td style="width:50%"><img src="https://hosting.photobucket.com/images/i/tracyng81/Swimming.jpeg?width=320&amp;height=320&amp;fit=bounds" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming"></td>
-        <td>
-            <p>
-                Swimming is the second most popular exercise activity in Singapore and is one of the most popular Olympic sports. It requires the use of one's entire body to move through water. For competition, the swimming events generally consists of butterfly, backstroke, breaststroke, freestyle and individual medley. Swimming is good for physical health as it burns lots of calories, is easy on the joints, supports your weight, builds muscular strength and endurance. TP Swimming teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming Championship annually.<br>
-                <br>
-                <b>Achievements:</b><br>
-                </p><ul>
-                    <li>IVP Games AY2023/24: Gold (Men’s Team), Bronze (Women’s Team) &amp; Gold (Team Overall)</li>
-                    <li>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swimming is the second most popular exercise activity in Singapore and
+is one of the most popular Olympic sports. It requires the use of one's
+entire body to move through water. For competition, the swimming events
+generally consists of butterfly, backstroke, breaststroke, freestyle and
+individual medley. Swimming is good for physical health as it burns lots
+of calories, is easy on the joints, supports your weight, builds muscular
+strength and endurance. TP Swimming teams (Men &amp; Women) compete in
+the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming
+Championship annually.
+<br>
+<br><strong>Achievements:</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>IVP Games AY2023/24: Gold (Men’s Team), Bronze (Women’s Team) &amp; Gold
+(Team Overall)</p>
 </li>
-                </ul>
-            <p></p>
-            <p>
-                <b>Training Days:</b><br>
-                Wednesday &amp; Friday, 6.30pm<br>
-                <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Pei_Jun_JOW@tp.edu.sg">Ms Jow Pei Jun</a><br>
-                <br>
-                CCA <a href="https://www.instagram.com/tplsst">Instagram</a>
-            </p>
-        </td>
-    </tr>
-</tbody></table>
-
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CddUcTlJ7lS/">
-                <img src="/images/Sports/SWIMMING_SEA Games 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming">
-                <h6 style="margin-top:0%">SEA Games 2022</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Ccm-TO4JuV3/">
-                <img src="/images/Sports/SWIMMING_CCA Recruitment 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming">
-                <h6 style="margin-top:0%">CCA Recruitment 2022</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Ccfklfvv0nt/">
-                <img src="/images/Sports/SWIMMING_Introducing Swimming Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Swimming">
-                <h6 style="margin-top:0%">Introducing Swimming Committee AY22/23</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
+<li>
+<p>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Training Days:</strong>
+<br>Wednesday &amp; Friday, 6.30pm
+<br>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jow Pei Jun</a>
+<br>
+<br>CCA <a href="https://www.instagram.com/tplsst" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

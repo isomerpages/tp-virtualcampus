@@ -30,31 +30,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COKKODJnpLf/">
-                <img src="/images/Sports/FIELD HOCKEY_Join the Mens Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
-                <h6 style="margin-top:0%">Join the Men’s Hockey Team!</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COKKDhNHNWx/">
-                <img src="/images/Sports/FIELD HOCKEY_Join the Womens Team.png" style="dplay:block;margin-left:auto;margin-right:auto;" alt="Hockey">
-                <h6 style="margin-top:0%">Join the Women’s Hockey Team!</h6>    
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CAFyWQKBC9t/">
-                <img src="/images/Sports/FIELD HOCKEY_Join the TP Hockey Family.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Hockey">
-                <h6 style="margin-top:0%">Join the TP Hockey Family!</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>

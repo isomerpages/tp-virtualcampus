@@ -25,35 +25,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cdci-K2Jfsd/">
-                    <img src="/images/P10/TPSU_Student Election 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPSU">
-                    <h6 style="margin-top:0%">Student Election 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CcNJHpuPo0o/">
-                    <img src="/images/P10/TPSU_School Cheer Challenge 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPSU">
-                    <h6 style="margin-top:0%">School Cheer Challenge 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/CbKk1UNJQiV/">
-                    <img src="/images/P10/TPSU_TPSUxSCH Meet-The-Students Session.png" style="display:block;margin-left:auto;margin-right:auto;" alt="TPSU">
-                    <h6 style="margin-top:0%">TPSUxSCH Meet-The-Students Session</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>

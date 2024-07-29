@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spacehaus
-permalink: /interest-groups/project-innov8/
+permalink: /interest-groups/spacehaus/
 date: 2022-06-21
 description: ""
 image: ""
@@ -35,35 +35,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<div>
-    <table>
-        <tbody><tr>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Ccm5x2VJnqJ/">
-                    <img src="/images/Interest Groups/PROJECT INNOV8_Recruitment Drive 2022.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-                    <h6 style="margin-top:0%">Recruitment Drive 2022</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/p/Cbz6yX2pec4/">
-                    <img src="/images/Interest Groups/PROJECT INNOV8_Disruptive Innovation.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-                    <h6 style="margin-top:0%">Disruptive Innovation</h6>
-                    
-                </a>
-            </td>
-            <td style="width:33%"><br>
-                <a href="https://www.instagram.com/space__haus/?hl=en">
-                    <img src="/images/Interest Groups/PROJECT INNOV8_5 Strangest but Fascinating Fitness Products.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Project Innov8">
-                    <h6 style="margin-top:0%">5 Strangest but Fascinating Fitness Products</h6>
-                    
-                </a>
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+    </tbody></table></div>

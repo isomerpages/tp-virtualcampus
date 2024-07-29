@@ -24,31 +24,3 @@ variant: markdown
         </td>
     </tr>
 </tbody></table>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/COKRXgPnn2E/">
-                <img src="/images/Sports/HANDBALL_Handball Training Days.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Handball">
-                <h6 style="margin-top:0%">Handball Training Days</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_uhDNTHeh2/">
-                <img src="/images/Sports/HANDBALL_Join the TP Handball Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Handball">
-                <h6 style="margin-top:0%">Join the TP Handball Team!</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/B_Sr3T8nddV/">
-                <img src="/images/Sports/HANDBALL_CCA Recruitment Drive 2020.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Handball">
-                <h6 style="margin-top:0%">CCA Recruitment Drive 2020</h6>
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>

@@ -42,33 +42,4 @@ variant: markdown
                 <p></p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeDhAYqJXMA/">
-                <img src="/images/Interest Groups/GCSG_Internal Diversity.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Internal Diversity</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeAWo1ZpYZM/">
-                <img src="/images/Interest Groups/GCSG_Religion &amp; Culture.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Religion &amp; Culture</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cd5oGQvJ8FX/">
-                <img src="/images/Interest Groups/GCSG_Food Wastage in Singapore.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Global Connect Club">
-                <h6 style="margin-top:0%">Food Wastage in Singapore</h6> 
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
+    </tbody></table></div>

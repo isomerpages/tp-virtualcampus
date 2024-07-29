@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TP Sustainability Interest Group
-permalink: /interest-groups/green-interest-group/
+permalink: /interest-groups/sustainability-interest-group/
 date: 2022-06-21
 description: ""
 image: ""
@@ -37,33 +37,4 @@ Joining our interest group is not just about attending events – it is about be
                 <p></p>
             </ul></td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CePpEVXvU3T/">
-                <img src="/images/Interest Groups/GIG_Keep TP Clean Campaign.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
-                <h6 style="margin-top:0%">Keep TP Clean Campaign</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cd-8dDOpMB4/">
-                <img src="/images/Interest Groups/GIG_The Smooth-Coated Otter.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
-                <h6 style="margin-top:0%">The Smooth-Coated Otter</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cd8XuwaJg3D/">
-                <img src="/images/Interest Groups/GIG_Join WE'RECYCLERS as a Volunteer!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Green Interest Group">
-                <h6 style="margin-top:0%">Join WE'RECYCLERS as a Volunteer!</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
+    </tbody></table></div>

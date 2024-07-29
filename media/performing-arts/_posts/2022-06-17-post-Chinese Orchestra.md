@@ -4,125 +4,131 @@ title: Chinese Orchestra
 permalink: /performing-arts/chinese-orchestra/
 date: 2022-06-17
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<tbody>
-		<tr>
-			<td>
-				<p>
-                    The Temasek Polytechnic Chinese Orchestra (TPCO) performs Chinese music using various Chinese instruments such as the Yangqin, Erhu and Pipa to explore the world of traditional and contemporary Chinese music.
-					<br>
-					<br>
-                    The elegant and soulful music presented by the Chinese Orchestra will enchant and enthral the audience. The orchestra collaborates with other CCAs such as Band and Music Vox, and also ventures out for public performances and overseas exchange programmes.
-					<br>
-					<br>
-				</p>
-			</td>
-			<td style="width:40%">
-				<img alt="CO" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/CO/CO_logo.png">
-			</td>
-		</tr>
-	</tbody>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Temasek Polytechnic Chinese Orchestra (TPCO) performs Chinese music
+using various Chinese instruments such as the Yangqin, Erhu and Pipa to
+explore the world of traditional and contemporary Chinese music.
+<br>
+<br>The elegant and soulful music presented by the Chinese Orchestra will
+enchant and enthral the audience. The orchestra collaborates with other
+CCAs such as Band and Music Vox, and also ventures out for public performances
+and overseas exchange programmes.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="CO" src="/images/Arts/CO/CO_logo.png">
+</div>
+</td>
+</tr>
+</tbody>
 </table>
-	
 <hr>
-	
-### Recognitions
-
-##### Features
-	
-<ul>
-	<li>Chinese Orchestra Concert - Echoes of Time (2024)	
-			</li><li>Magical Autumn XIII (2023)
-    </li><li>Temasek Spectacular (2022)</li>
-    <li>DREAMS XII (2022)</li>
-    <li>Temasek Polytechnic National Day Virtual Concert (2021)</li>
-    <li>NAC Arts In Your Neighbour: Music On The Move (2019)</li>
-    <li>HKCO Singapore Tour Campus Concert (2018)</li>
+<h3>Recognitions</h3>
+<h5>Features</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Orchestra Concert - Echoes of Time (2024)</p>
+</li>
+<li>
+<p>Magical Autumn XIII (2023)</p>
+</li>
+<li>
+<p>Temasek Spectacular (2022)</p>
+</li>
+<li>
+<p>DREAMS XII (2022)</p>
+</li>
+<li>
+<p>Temasek Polytechnic National Day Virtual Concert (2021)</p>
+</li>
+<li>
+<p>NAC Arts In Your Neighbour: Music On The Move (2019)</p>
+</li>
+<li>
+<p>HKCO Singapore Tour Campus Concert (2018)</p>
+</li>
 </ul>
-
 <hr>
-
-### About CCA
-
-##### Training Days
-            
-<ul>    
-    <li>Wednesday (Combined), 7pm to 9pm</li>
-    <li>Thursday &amp; Friday (Sectionals), 7pm to 9pm</li>
+<h3>About CCA</h3>
+<h5>Training Days</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesday (Combined), 7pm to 9pm</p>
+</li>
+<li>
+<p>Thursday &amp; Friday (Sectionals), 7pm to 9pm</p>
+</li>
 </ul>
-
-
-#####  Staff Advisor
-
-<ul>
-	<li>
-		<a href="mailto:Fayanne_tan@tp.edu.sg">Ms Fayanne Tan</a>
-</li></ul>
-
-##### Pages
-
-<ul>
-	<li><a href="https://www.instagram.com/tpchineseorchestra">Instagram</a></li>
+<h5>Staff Advisor</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="mailto:Fayanne_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fayanne Tan</a>
+</p>
+</li>
 </ul>
-
+<h5>Pages</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.instagram.com/tpchineseorchestra" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+</p>
+</li>
+</ul>
 <hr>
-
-### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CdxoOHQJIHI/">
-                <img src="/images/Arts/CO/CO_Induction Day.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">Induction Day</h6>
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/Cco2MFnpiUd/">
-                <img src="/images/Arts/CO/CO_CCA Fair AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">CCA Fair AY22/23</h6> 
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CcfdpjZPW8H/">
-                <img src="/images/Arts/CO/CO_Main Committee AY22-23.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Chinese Orchestra">
-                <h6 style="margin-top:0%">Introducing Main Committee AY22/23</h6>
-            </a>
-        </td>
-    </tr>
-</tbody></table>
-	
-<hr>
-
-### Gallery
-
-<table>
-	<tbody>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="CO" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/CO/CO_pic_1.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="CO" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/CO/CO_pic_2.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="CO" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/CO/CO_pic_3.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="CO" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/CO/CO_pic_4.jpg">
-			</td>
-		</tr>
-		<tr>
-			<td style="width:50%"><br>
-				<img alt="CO" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/CO/CO_pic_5.jpg">
-			</td>
-			<td style="width:50%"><br>
-				<img alt="CO" style="display:block;margin-left:auto;margin-right:auto;" src="/images/Arts/CO/CO_pic_6.jpg">
-			</td>
-		</tr>
-	</tbody>
+<h3>Gallery</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/CO/CO_pic_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/CO/CO_pic_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Band/Band_pic_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Band/Band_pic_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/CO/CO_pic_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/CO/CO_pic_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>

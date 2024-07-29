@@ -21,33 +21,4 @@ variant: markdown
                 </p>
             </td>
         </tr>
-    </tbody></table>
-</div>
-
-#### Latest Happenings
-
-<table>
-    <tbody><tr>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CefIv-rJbcp/">
-                <img src="/images/Interest Groups/LEAD_LEAD Heart Organisers Recruitment.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
-                <h6 style="margin-top:0%">LEAD Heart Organisers Recruitment</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CedjKhAJJGd/">
-                <img src="/images/Interest Groups/LEAD_Meet the Core Team.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
-                <h6 style="margin-top:0%">Meet The Core Team</h6>
-                
-            </a>
-        </td>
-        <td style="width:33%"><br>
-            <a href="https://www.instagram.com/p/CeLcFKYpM-y/">
-                <img src="/images/Interest Groups/LEAD_We are Recruiting!.png" style="display:block;margin-left:auto;margin-right:auto;" alt="LEAD Ambassadors">
-                <h6 style="margin-top:0%">We are Recruiting!</h6>    
-                
-            </a>
-        </td>
-    </tr>
-</tbody></table>
+    </tbody></table></div>
