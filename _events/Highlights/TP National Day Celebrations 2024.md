@@ -345,10 +345,9 @@ outfits will also be shared on HSS’ social media channels (Facebook, LinkedIn)
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Aug (Date TBC):</strong> The IIT Studies Club will organise a National
-Day-themed <strong>“IIT Friendship Day”</strong> for the IIT community, featuring
-carnival-style games/activities, for both staff and students to celebrate
-National Day together.</p>
+<p><strong>7 Aug:</strong> The IIT Studies Club will organise a National Day-themed <strong>“IIT Friendship Day”</strong> for
+the IIT community, featuring carnival-style games/activities, for both
+staff and students to celebrate National Day together.</p>
 </td>
 </tr>
 </tbody>
@@ -399,7 +398,7 @@ everyone!</p>
 <p>📅 8 August 2024 (Thursday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
-<p>👇 <strong>Secure your seats NOW! </strong> 
+<p>👇 <strong>Secure your seats NOW!</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -407,7 +406,7 @@ everyone!</p>
 </p>
 </li>
 <li>
-<p><strong>Staff Registration</strong> - <a href="https://tinyurl.com/NDC2024Staff" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/NDC2024Staff</a> 
+<p><strong>Staff Registration</strong> - <a href="https://tinyurl.com/NDC2024Staff" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/NDC2024Staff</a>
 </p>
 </li>
 <li>
