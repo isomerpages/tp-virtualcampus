@@ -45,8 +45,22 @@ everyone!</p>
 <p>📅 8 August 2024 (Thursday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
-<p>👉 <strong>Secure your seat NOW! </strong>- <a href="https://tinyurl.com/NDConcert2024" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/NDConcert2024</u></a>
+<p>👇 <strong>Secure your seats NOW! </strong> 
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Student Registration</strong> - <a href="https://tinyurl.com/NDConcert2024" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/NDConcert2024</a>
+</p>
+</li>
+<li>
+<p><strong>Staff Registration</strong> - <a href="https://tinyurl.com/NDC2024Staff" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/NDC2024Staff</a> 
+</p>
+</li>
+<li>
+<p><strong>Alumni Registration</strong> - <a href="https://tinyurl.com/NDC2024Al" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/NDC2024Al</a>
+</p>
+</li>
+</ul>
 <p><strong>Things to Note:</strong>
 </p>
 <ul data-tight="true" class="tight">
