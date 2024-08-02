@@ -32,7 +32,7 @@ sections:
       description: Don’t let financial constraints hold you back. Tap on the CCA
         Assistance Fund to pursue your passion. Apply today!
       button: FIND OUT HERE!
-      url: /cca-assistance-fund-2024/
+      url: /cca-assistance-fund/
       alt: Image alt text
   - infopic:
       title: TP National Day Celebrations 2024
