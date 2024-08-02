@@ -138,8 +138,7 @@ in the role(s) of:</p>
 <p></p>
 <p><em>(Guide for event organising – 1 organising role: 12 to 15 participants.</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <p><em>For more than 8 roles, the Staff Advisor will need justify based on the event size and/or complexity of event organisation.)</em>
 </p>
 <p></p>
