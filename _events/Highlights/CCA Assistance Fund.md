@@ -6,7 +6,9 @@ description: CCA Assistance Fund
 third_nav_title: Highlights
 ---
 <h3><strong>CCA Assistance Fund</strong></h3>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/CCA_Banner_1920_X_1080px_01_01.jpg">
+</div>
 <p>The<strong> CCA Assistance Fund (CCA AF) </strong>is established to support
 students facing financial challenges, who have significantly contributed
 to TP through their respective CCAs. Eligible students can receive <strong>$300 per Academic Year (AY)</strong>,
