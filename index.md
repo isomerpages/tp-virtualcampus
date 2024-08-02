@@ -34,6 +34,7 @@ sections:
       button: FIND OUT HERE!
       url: /cca-assistance-fund/
       alt: Image alt text
+      image: /images/Events/Highlights/CCA_Banner_1920_X_1080px_01_01.jpg
   - infopic:
       title: TP National Day Celebrations 2024
       subtitle: INGITE THE FESTIVITIES!
