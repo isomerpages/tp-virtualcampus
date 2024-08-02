@@ -21,17 +21,17 @@ benefitted from the CCA AF.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Helps significant CCA contributors, who may be facing financial challenges/difficulties.</p>
+<p>Helps significant CCA contributors, who may be facing financial challenges/difficulties</p>
 </li>
 <li>
 <p>Covers CCA-related expenses (e.g. equipment, subscription fees, coaching
-fees, training courses).</p>
+fees, training courses)</p>
 </li>
 <li>
-<p>Two application periods per AY (August &amp; November).</p>
+<p>Two application periods per AY (August &amp; November)</p>
 </li>
 <li>
-<p>$300 disbursed per student/AY.</p>
+<p>$300 disbursed per student/AY</p>
 </li>
 </ul>
 </div>
