@@ -181,7 +181,8 @@ in the role(s) of:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Financially deserving students who meet the<strong> income eligibility criteria</strong> ​of
-the higher education government bursary</p>
+the <strong>higher education government bursary</strong>
+</p>
 </td>
 </tr>
 <tr>
