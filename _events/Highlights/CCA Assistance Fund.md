@@ -252,11 +252,11 @@ between <strong>16 July to 31 October</strong>.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff Advisors will nominate students who meet the CCA AF’s eligibility
+<p>Staff Advisors will nominate students who meet the funding eligibility
 criteria.</p>
 </li>
 <li>
-<p>Thereafter, students will receive invitations to apply.</p>
+<p>Thereafter, students will receive invitations to apply for the CCA AF.</p>
 </li>
 <li>
 <p>Submit your application form <strong><u>here</u></strong> by the respective
