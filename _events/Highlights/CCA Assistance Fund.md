@@ -14,6 +14,8 @@ and <strong>up to 500 students</strong> may potentially be awarded every
 AY.</p>
 <p>Since its inception in AY2022/23, <strong>close to 300 students</strong> have
 benefitted from the CCA AF.</p>
+<p>Keep your dreams alive while pursuing your passion. Apply for the CCA
+AF today!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>About the CCA Assistance Fund</strong>
