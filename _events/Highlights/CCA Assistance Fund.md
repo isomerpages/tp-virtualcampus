@@ -245,4 +245,35 @@ between <strong>16 July to 31 October</strong>.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>How to Apply</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Staff Advisors will nominate students who meet the CCA AF’s eligibility
+criteria.</p>
+</li>
+<li>
+<p>Thereafter, students will receive invitations to apply.</p>
+</li>
+<li>
+<p>Submit your application form <strong><u>here</u></strong> by the respective
+closing dates for each application window.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Contact Us</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For enquiries, please reach out to the <strong>CCA AF Secretariat</strong> at <strong><a href="mailto:ccaaf@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ccaaf@tp.edu.sg</a> </strong>
+</p>
+</div>
+</details>
+</div>
 <p></p>
