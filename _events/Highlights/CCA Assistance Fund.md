@@ -101,7 +101,56 @@ fees, training courses).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Students who have played a key role in organising<strong> School/Department-initiated TP-wide </strong>or <strong>external events </strong>(e.g.
+CCA Fair, Sports Clinics &amp; Workshops, National Day Concert, CCN Day),
+in the role(s) of:</p>
+</li>
+</ol>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Organiser</p>
+</li>
+<li>
+<p>Assistant Organiser</p>
+</li>
+<li>
+<p>Coordinator</p>
+</li>
+<li>
+<p>Assistant Coordinator</p>
+</li>
+<li>
+<p>Admin Coordinator</p>
+</li>
+<li>
+<p>Logistics Coordinator</p>
+</li>
+<li>
+<p>Publicity Coordinator</p>
+</li>
+<li>
+<p>Welfare Coordinator</p>
+</li>
+</ul>
+<p></p>
+<p><em>(Guide for event organising – 1 organising role: 12 to 15 participants.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>For more than 8 roles, the Staff Advisor will need justify based on the event size and/or complexity of event organisation.)</em>
+</p>
+<p></p>
+<p><strong>OR</strong>
+</p>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Students who have <strong>represented TP </strong>in <strong>endorsed CCA-related competitions</strong>.</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
@@ -110,7 +159,8 @@ fees, training courses).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Open to <strong>all nationalities</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +169,10 @@ fees, training courses).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Clear Pass* (Except for students who are in Semester 1.1)</p>
+<p>&nbsp;</p>
+<p><em>(*Students who do not meet the Academic Standing requirement will be considered on a case-by-case basis.)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +181,8 @@ fees, training courses).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Financially deserving students who meet the<strong> income eligibility criteria</strong> ​of
+the higher education government bursary</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +191,14 @@ fees, training courses).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full time students​</p>
+</li>
+<li>
+<p>Cannot be financially sponsored by employers</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -146,7 +207,37 @@ fees, training courses).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>First Window</u></strong>
+</p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Qualifying Period: </strong>Events/competitions should happen
+between <strong>15 April to 15 July</strong>.</p>
+</li>
+<li>
+<p><strong>Application Period: </strong>8-15 August</p>
+</li>
+<li>
+<p><strong>Disbursement Period:</strong> Around end-November</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Second Window</u></strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Qualifying Period: </strong>Events/competitions should happen
+between <strong>16 July to 31 October</strong>.</p>
+</li>
+<li>
+<p><strong>Application Period: </strong>8-15 November</p>
+</li>
+<li>
+<p><strong>Disbursement Period:</strong> Around end-February</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
