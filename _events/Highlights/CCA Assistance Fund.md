@@ -170,7 +170,7 @@ in the role(s) of:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Clear Pass* (Except for students who are in Semester 1.1)</p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>(*Students who do not meet the Academic Standing requirement will be considered on a case-by-case basis.)</em>
 </p>
 </td>
@@ -271,7 +271,7 @@ closing dates for each application window.</p>
 <summary><strong>Contact Us</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For enquiries, please reach out to the <strong>CCA AF Secretariat</strong> at <strong><a href="mailto:ccaaf@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ccaaf@tp.edu.sg</a> </strong>
+<p>For enquiries, please reach out to the <strong>CCA AF Secretariat</strong> at <strong><a href="mailto:ccaaf@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ccaaf@tp.edu.sg</a></strong>
 </p>
 </div>
 </details>
