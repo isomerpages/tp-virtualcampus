@@ -272,9 +272,8 @@ criteria.</p>
 <p>Thereafter, students will receive invitations to apply for the CCA AF.</p>
 </li>
 <li>
-<p>Click <strong><a href="https://forms.office.com/r/7ajZntS0WW" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> (or
-scan the QR code below) to submit your application form by the closing
-dates for each application window.</p>
+<p>Submit your application form <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2F7ajZntS0WW&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7Cd66bc7f95fa045c8bcd508dcb5cf2430%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638585148485128044%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=bwqfZ9iTI7ItjpBOrjvSniv8vuHjbBv4LR0t4D50JJk%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> by
+the closing date for each application window.</p>
 </li>
 </ul>
 </div>
