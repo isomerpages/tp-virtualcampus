@@ -51,6 +51,9 @@ fees, training courses)</p>
 <p>Purchase of personal equipment/gear</p>
 </li>
 <li>
+<p>Purchase of musical instruments/accessories</p>
+</li>
+<li>
 <p>IT products</p>
 </li>
 <li>
@@ -60,10 +63,16 @@ fees, training courses)</p>
 <p>Coaching/instructor fees</p>
 </li>
 <li>
+<p>External competition fees</p>
+</li>
+<li>
 <p>Training courses</p>
 </li>
 <li>
 <p>Nutritional supplements</p>
+</li>
+<li>
+<p>Physiology/TCM treatment</p>
 </li>
 <li>
 <p>Transport</p>
@@ -263,10 +272,25 @@ criteria.</p>
 <p>Thereafter, students will receive invitations to apply for the CCA AF.</p>
 </li>
 <li>
-<p>Submit your application form <strong><u>here</u></strong> by the respective
-closing dates for each application window.</p>
+<p>Click <strong><a href="https://forms.office.com/r/7ajZntS0WW" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> (or
+scan the QR code below) to submit your application form by the closing
+dates for each application window.</p>
 </li>
 </ul>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/QR_Code.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
