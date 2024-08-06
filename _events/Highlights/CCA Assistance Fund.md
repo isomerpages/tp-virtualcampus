@@ -277,20 +277,6 @@ scan the QR code below) to submit your application form by the closing
 dates for each application window.</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/QR_Code.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
