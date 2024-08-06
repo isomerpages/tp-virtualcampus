@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: CCA Assistance Fund
+      subtitle: KEEP YOUR DREAMS ALIVE!
+      id: infopic
+      description: Don’t let financial constraints hold you back. Tap on the CCA
+        Assistance Fund to pursue your passion. Apply for it today!
+      button: FIND OUT HERE!
+      url: /cca-assistance-fund/
+      alt: Image alt text
+      image: /images/Events/Highlights/CCA_Banner_1920_X_1080px_01_01.jpg
+  - infopic:
       title: TP National Day Celebrations 2024
       subtitle: INGITE THE FESTIVITIES!
       id: infopic
@@ -77,17 +87,6 @@ sections:
       button: Congratulations!
       url: /tsea-2024/
       image: /images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png
-      alt: Image alt text
-  - infopic:
-      title: CCA Fair 2024
-      subtitle: EXCITE. ENGAGE. EMPOWER.
-      id: infopic
-      description: Keen to channel the TP spirit and make your days on campus count?
-        Swing by this event to find out how you can be a part of the diverse
-        CCAs offered in TP!
-      button: Create Your Journey!
-      url: /events/ccafair2024/
-      image: /images/CCA_Banner_1920px_by_1080px_FA_copy.jpg
       alt: Image alt text
   - infopic:
       title: Want to be featured on this Virtual Campus?
