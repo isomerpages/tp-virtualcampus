@@ -9,6 +9,11 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__With_QR_Code_.png">
 </div>
+<p><strong><em>(Note: Thank you for your overwhelming support of the National Day Concert (NDC) 2024! If you did not manage to catch this concert, do look out for our registration call and sign up early next year to secure your seats. We can't wait to celebrate with you again!</em></strong>
+</p>
+<p><strong><em>Can't get enough? Catch the NDC 2024 highlights <a href="https://www.instagram.com/p/C-aFKuEyS4F/?hl=en" rel="noopener noreferrer nofollow" target="_blank">here</a>)</em></strong>
+</p>
+<hr>
 <p>Hey #TPFAM, be a guest at TP’s biggest party! Join us at our very own <strong>National Day Concert 2024</strong>,
 featuring an awesome line-up you will not want to miss!</p>
 <p>Themed “<strong>Semangat Kisah Kita</strong>” (or “<strong>The Spirit of Our Stories</strong>”),
@@ -45,7 +50,7 @@ everyone!</p>
 <p>📅 8 August 2024 (Thursday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
-<p>👇 <strong>Secure your seats NOW! </strong> 
+<p>👇 <strong>Secure your seats NOW!</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -53,7 +58,7 @@ everyone!</p>
 </p>
 </li>
 <li>
-<p><strong>Staff Registration</strong> - <a href="https://tinyurl.com/NDC2024Staff" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/NDC2024Staff</a> 
+<p><strong>Staff Registration</strong> - <a href="https://tinyurl.com/NDC2024Staff" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/NDC2024Staff</a>
 </p>
 </li>
 <li>
