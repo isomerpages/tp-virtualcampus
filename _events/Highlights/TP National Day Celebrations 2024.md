@@ -368,6 +368,9 @@ staff and students to celebrate National Day together.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__With_QR_Code_.png">
 </div>
+<p><strong><em>(Note: Thank you for your support of the National Day Concert 2024! If you did not manage to catch this concert, do look out for our registration call and sign up early next year to secure your seats. We can't wait to celebrate with you again!)</em></strong>
+</p>
+<hr>
 <p>Round up all these fantastic celebrations across TP with a rousing finale
 that we have put together specially for you. Join us at our very own <strong><a href="/tp-national-day-concert-2024/" rel="noopener noreferrer nofollow" target="_blank">National Day Concert 2024</a></strong>,
 featuring an awesome line-up you will not want to miss!</p>
