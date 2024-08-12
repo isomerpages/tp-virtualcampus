@@ -21,7 +21,7 @@ your seats. We can't wait to celebrate with you again!</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Military Defence Display by 23SA</a></strong>
+<p><strong><a href="https://www.instagram.com/p/C-c3n66S9mP/?hl=en&amp;img_index=1" rel="noopener noreferrer nofollow" target="_blank">Military Defence Display by 23SA</a></strong>
 </p>
 </li>
 </ul>
