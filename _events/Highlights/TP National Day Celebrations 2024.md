@@ -9,16 +9,23 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg">
 </div>
-<p>Every year on 9 August, we celebrate <strong>National Day</strong> and the
-momentous milestones we have attained since independence. It is also a
-significant occasion where we come together to pledge how we, as Singaporeans,
-will continue to build a stronger nation – for ourselves, our families,
-as well as our future generations.</p>
-<p>This August, muster up all your patriotic fervour, don your best red/white
-ensemble, and be all set to celebrate Singapore’s 59th birthday! As part
-of the <strong>National Day Celebrations (NDC)</strong>  <strong>2024</strong>,
-let’s welcome an eclectic host of events specially brought to you by the
-Schools, CCAs and Clubs across TP!</p>
+<p>Thank you so much for your enthusiastic support of the TP National Day
+Celebrations 2024! If you missed the National Day Concert (NDC) and our
+exciting fringe activities this year, don't worry! Keep an eye out for
+our registration call and sign up early for the NDC next year to secure
+your seats. We can't wait to celebrate with you again!</p>
+<p>Can't get enough? Catch the following recap highlights:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.instagram.com/p/C-aFKuEyS4F/?hl=en" rel="noopener noreferrer nofollow" target="_blank">National Day Concert 2024</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Military Defence Display by 23SA</a></strong>
+</p>
+</li>
+</ul>
+<p>See you next year!</p>
 <hr>
 <h3><strong>NDC 2024: Fringe Activities</strong></h3>
 <p>Kickstart your celebrations on campus and engage in a rousing line-up
