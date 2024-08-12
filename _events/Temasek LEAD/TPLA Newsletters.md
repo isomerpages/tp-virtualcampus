@@ -19,12 +19,12 @@ Enjoy reading and have fun participating!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Jul_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Jul_2024_1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Jul_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Jul_2024_2.png">
 </div>
 </th>
 </tr>
