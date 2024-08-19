@@ -105,4 +105,50 @@ capabilities to overcome team challenges.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Community Leadership</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>LEAD students are given platforms to be actively engaged in leading service
+learning initiatives, both locally and overseas. The programme aims to
+groom compassionate leaders with a heart for others, who think beyond themselves
+and their immediate teams, to be socially responsible citizens, and to
+serve and care for their community.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Overseas_Community_Leadership_Projects.jpg">
+</div>
+<p><em>Overseas Community Leadership Projects</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Community_Outreach_in_Singapore.jpg">
+</div>
+<p><em>Community Outreach in Singapore</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Self_initiated_Community_Events.jpg">
+</div>
+<p><em>Self-initiated Community Events</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
