@@ -107,7 +107,7 @@ trainers dedicated to developing human capital and maximising human potential.</
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Choy_Wai_Fann_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Choy_Wai_Fann_3.png">
 </div>
 <p><strong><a href="mailto:CHOY_Wai_Fann@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Choy Wai Fann</a></strong>
 </p>
