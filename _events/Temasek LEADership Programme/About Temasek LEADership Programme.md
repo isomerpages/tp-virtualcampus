@@ -5,4 +5,56 @@ variant: tiptap
 description: ""
 third_nav_title: Temasek LEADership Programme
 ---
+<p>Temasek LEAD aims to develop LEAD students into future leaders with <strong>VISION</strong>, <strong>CHARACTER</strong> and <strong>HEART</strong>.
+Our unique approach is crafted to stretch the potential of our high-performing
+students. Students can expect to embark on an exciting journey of self-discovery
+and holistic development to attain the following <strong>four</strong> key
+areas of leadership:</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Personal Leadership</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>LEAD students will be developed to become effective leaders by raising
+their self-awareness, helping them understand their leadership profile
+and providing them with opportunities to lead from their strengths. Students
+will be provided opportunities to learn essential skills such as effective
+communication, planning and organising, problem solving, decision making
+and situational adaptability.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Professional_Development_Workshops.png">
+</div>
+<p><em>Professional Development Workshops</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Leadership_Development_Workshops.png">
+</div>
+<p><em>Leadership Development Workshops</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Mentorship_Programmes.jpg">
+</div>
+<p><em>Mentorship Programmes</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
