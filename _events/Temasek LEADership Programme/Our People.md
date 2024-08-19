@@ -37,9 +37,8 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p>Deputy Director/SDAA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Ng_Qihui_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Ng_Qihui_2.png">
 </div>
 <p><strong><a href="mailto:NG_Qihui@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ng Qihui</a></strong>
 </p>
