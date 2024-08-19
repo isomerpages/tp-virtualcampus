@@ -21,7 +21,7 @@ trainers dedicated to developing human capital and maximising human potential.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Paul_Yap.jpg">
 </div>
-<p><a href="Paul_YAP@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Paul Yap</a>
+<p><a href="mailto:Paul_YAP@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Paul Yap</a>
 </p>
 <p>Director/Student Development &amp; Alumni Affairs</p>
 </th>
@@ -29,17 +29,23 @@ trainers dedicated to developing human capital and maximising human potential.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Desmond_Lim.png">
 </div>
-<p><a href="Desmond_CK_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Desmond Lim</a>
+<p><a href="mailto:Desmond_CK_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Desmond Lim</a>
 </p>
 <p>Deputy Director/Student Development &amp; Alumni Affairs</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Ng_Qihui.png">
+</div>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Simon_Chew.png">
+</div>
 </td>
 </tr>
 <tr>
