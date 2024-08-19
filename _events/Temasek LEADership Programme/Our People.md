@@ -99,13 +99,19 @@ trainers dedicated to developing human capital and maximising human potential.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Wong_Si_Y.jpg">
 </div>
-<p></p>
+<p><strong><a href="mailto:WONG_Si-Y@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Wong Si-Y</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
+<p>ASC LEAD Advisor</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Choy_Wai_Fann_1.png">
 </div>
+<p><strong><a href="mailto:CHOY_Wai_Fann@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Choy Wai Fann</a></strong>
+</p>
+<p>LEAD Student Development Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
