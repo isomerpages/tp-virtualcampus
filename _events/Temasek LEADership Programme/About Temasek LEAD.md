@@ -220,7 +220,7 @@ espoused by Temasek LEAD.&nbsp;&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Temasek_LEAD_Challenge_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Temasek_LEAD_Challenge_Logo_1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
