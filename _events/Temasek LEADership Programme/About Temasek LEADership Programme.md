@@ -57,4 +57,52 @@ and situational adaptability.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Team Leadership</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>LEAD students will be offered practice and experiential platforms to lead
+in challenging situations. They will acquire skills to organise teams,
+strengthen their awareness of teamwork and group dynamics, develop team
+resilience, conflict management and negotiation skills, emotional intelligence,
+and collaboration strategies. Exciting outdoor adventure programmes, including
+caving and white water rafting in various countries, will dev elop their
+capabilities to overcome team challenges.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Overseas_Adventure_Trips.jpg">
+</div>
+<p><em>Overseas Adventure Trips</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Adventure_Learning_Expeditions.jpg">
+</div>
+<p><em>Adventure Learning Expeditions</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Team_Building_Workshops.jpg">
+</div>
+<p><em>Team Building Workshops</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
