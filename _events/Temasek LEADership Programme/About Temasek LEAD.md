@@ -274,6 +274,8 @@ and interests.</p>
 <p>Finally, Temasek LEAD offers a series of specially curated&nbsp;<strong>(3) Excel programmes</strong>&nbsp;to
 stretch our very best students, who have displayed outstanding achievements
 in the areas of academic studies, leadership roles and/or specialised talents.&nbsp;</p>
+<p>For more information, please email <strong><a rel="noopener noreferrer nofollow" target="_blank">LEAD@tp.edu.sg</a></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -306,4 +308,12 @@ in the areas of academic studies, leadership roles and/or specialised talents.&n
 </tr>
 </tbody>
 </table>
+<p><strong>2022 Global Experience Programme Study Trip (United Kingdom) Video by Excel Students</strong>
+</p>
+<p>Please click <a href="https://for.edu.sg/2022gepvid" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the video.</p>
+<p><strong>2024 Global Experience Programme Study Trip (United Kingdom) Video by Excel Students</strong>
+</p>
+<p>Please click <a href="https://for.edu.sg/2024gepvid" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the video.</p>
 <p></p>
