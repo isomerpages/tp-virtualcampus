@@ -35,6 +35,7 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p><strong><a href="mailto:Desmond_CK_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Desmond Lim</a></strong>
 </p>
 <p>Deputy Director/Student Development &amp; Alumni Affairs</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -122,4 +123,5 @@ trainers dedicated to developing human capital and maximising human potential.</
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
