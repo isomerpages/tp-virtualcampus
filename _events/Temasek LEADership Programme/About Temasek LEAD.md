@@ -274,4 +274,36 @@ and interests.</p>
 <p>Finally, Temasek LEAD offers a series of specially curated&nbsp;<strong>(3) Excel programmes</strong>&nbsp;to
 stretch our very best students, who have displayed outstanding achievements
 in the areas of academic studies, leadership roles and/or specialised talents.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Global_Experience_Programme_Study_Trip_to_the_United_Kingdom.jpg">
+</div>
+<p><em>Global Experience Programme Study Trip to the United Kingdom</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Pre_University_Seminar_2023.jpg">
+</div>
+<p><em>Pre-University Seminar 2023</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Visit_to_Parliament.jpg">
+</div>
+<p><em>Visit to Parliament</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
