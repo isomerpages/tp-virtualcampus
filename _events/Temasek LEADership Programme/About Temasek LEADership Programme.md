@@ -151,4 +151,55 @@ serve and care for their community.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Global Perspectives</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Finally, LEAD students are provided opportunities to engage global and
+local government agencies, non-governmental organisations, industries,
+and educational institutions. They will develop 21st century competencies,
+such as critical and inventive thinking, global awareness and cross-cultural
+skills, change readiness, and an enterprising spirit; and be groomed to
+be adaptable future-oriented leaders. LEAD students can look forward to
+participating in immersive and intellectual symposiums such as those organised
+by the United Nations, local and overseas universities and agencies, as
+well as engagements with government officials, industry and thought leaders,
+and exchanges with peers across the world.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Local_Forums.png">
+</div>
+<p><em>Local Forums</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Overseas_Conferences.jpg">
+</div>
+<p><em>Overseas Conferences</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Overseas_Exchange_Programmes.jpg">
+</div>
+<p><em>Overseas Exchange Programmes</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
