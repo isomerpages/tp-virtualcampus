@@ -182,32 +182,32 @@ TPLA Newsletters. Enjoy reading and have fun participating!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%207_apr23.png">
 </div>
 <hr>
-<h4>March 2023</h4>
+<h4><strong>March 2023</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%206_mar23.png">
 </div>
 <hr>
-<h4>February 2023</h4>
+<h4><strong>February 2023</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%205_feb23.png">
 </div>
 <hr>
-<h4>January 2023</h4>
+<h4><strong>January 2023</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%204_jan23.png">
 </div>
 <hr>
-<h4>December 2022</h4>
+<h4><strong>December 2022</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%203_dec22.png">
 </div>
 <hr>
-<h4>November 2022</h4>
+<h4><strong>November 2022</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%202_nov22.png">
 </div>
 <hr>
-<h4>October 2022</h4>
+<h4><strong>October 2022</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%201_oct22.png">
 </div>
