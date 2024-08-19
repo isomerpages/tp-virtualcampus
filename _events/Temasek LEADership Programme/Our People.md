@@ -79,11 +79,19 @@ trainers dedicated to developing human capital and maximising human potential.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Terence_Lin_1.png">
 </div>
+<p><strong><a href="mailto:Terence_LJ_LIN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Terence Lin</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
+<p>BUS LEAD Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Farhan_Kamis.png">
 </div>
+<p><strong><a href="mailto:Farhan_BIN_KAMIS@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Farhan Kamis</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
+<p>IIT LEAD Advisor</p>
 </td>
 </tr>
 <tr>
