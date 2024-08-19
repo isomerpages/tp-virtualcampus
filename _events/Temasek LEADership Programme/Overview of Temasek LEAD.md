@@ -5,12 +5,26 @@ description: ""
 third_nav_title: Temasek LEADership Programme
 variant: tiptap
 ---
-<h3>Temasek LEADership Programme - Developing You to Become Future Leaders</h3>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/ZBHOirv1ixc"></iframe>
-</div>
-<hr>
-<h3>LEAD Core Programmes</h3>
+<h3><strong>Overview</strong></h3>
+<p>At Temasek Polytechnic, we believe that talent should be nurtured, and
+every student deserves opportunities to achieve their personal best. The <strong>Temasek LEADership Programme (Temasek LEAD)</strong> embodies
+this belief. As an inclusive talent development programme for promising
+students, Temasek LEAD participants can look forward to an amazing journey
+of self-discovery and enjoy exciting experiences that extend beyond the
+classroom and academic pursuits.</p>
+<h3><strong>Aims of Temasek LEAD</strong></h3>
+<p>Temasek LEAD<strong> </strong>aims to foster individual growth in the
+leadership domains of <strong>Personal &amp; Team Leadership</strong>, <strong>Community Leadership</strong>,
+and <strong>Global Perspectives</strong>. This is achieved through a series
+of unique, interactive and exciting activities such as overseas engagement
+study trips, community service projects, local and overseas adventure expeditions,
+and leadership forums.</p>
+<p>Temasek LEAD participants will be equipped with the leadership competencies
+needed to thrive in an increasingly complex and interconnected world, transforming
+into the next generation of leaders with vision, character, and a heart
+to serve others.</p>
+<h3><strong>About Temasek LEAD</strong></h3>
+<p></p>
 <h4>LEAD Induction</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LEAD Induction" src="/images/BeInvolved-lead_inductionlogo1.png">
