@@ -25,7 +25,7 @@ trainers dedicated to developing human capital and maximising human potential.</
 </div>
 <p><strong><a href="mailto:Paul_YAP@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Paul Yap</a></strong>
 </p>
-<p>Director/SDAA</p>
+<p>Director/Student Development &amp; Alumni Affairs</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,7 +34,7 @@ trainers dedicated to developing human capital and maximising human potential.</
 </div>
 <p><strong><a href="mailto:Desmond_CK_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Desmond Lim</a></strong>
 </p>
-<p>Deputy Director/SDAA</p>
+<p>Deputy Director/Student Development &amp; Alumni Affairs</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
