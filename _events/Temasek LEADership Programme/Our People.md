@@ -43,6 +43,7 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p><strong><a href="mailto:NG_Qihui@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ng Qihui</a></strong>
 </p>
 <p>Manager/Student Clubs &amp; Service Learning</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
