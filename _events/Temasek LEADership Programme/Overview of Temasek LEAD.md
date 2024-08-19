@@ -24,9 +24,8 @@ needed to thrive in an increasingly complex and interconnected world, transformi
 into the next generation of leaders with vision, character, and a heart
 to serve others.</p>
 <h4><strong>About Temasek LEAD</strong></h4>
-<p>Please click <a href="https://for.edu.sg/leadonboardingvid" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Please click <a href="https://for.edu.sg/leadonboardingvideo" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Temasek LEAD onboarding video.</p>
 <h4><strong>Temasek LEAD through Our Students’ Lens</strong></h4>
 <p>Please click <a href="https://for.edu.sg/scholarshipleadvid" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the TP Scholarship LEAD video.</p>
-<p></p>
