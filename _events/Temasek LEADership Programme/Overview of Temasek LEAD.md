@@ -24,7 +24,8 @@ needed to thrive in an increasingly complex and interconnected world, transformi
 into the next generation of leaders with vision, character, and a heart
 to serve others.</p>
 <h3><strong>About Temasek LEAD</strong></h3>
-<p></p>
+<p>Please click <a href="https://for.edu.sg/leadonboardingvid" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the Temasek LEAD onboarding video.</p>
 <h4>LEAD Induction</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LEAD Induction" src="/images/BeInvolved-lead_inductionlogo1.png">
