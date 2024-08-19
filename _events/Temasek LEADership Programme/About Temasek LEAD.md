@@ -68,7 +68,7 @@ in challenging situations. They will acquire skills to organise teams,
 strengthen their awareness of teamwork and group dynamics, develop team
 resilience, conflict management and negotiation skills, emotional intelligence,
 and collaboration strategies. Exciting outdoor adventure programmes, including
-caving and white water rafting in various countries, will dev elop their
+caving and white water rafting in various countries, will develop their
 capabilities to overcome team challenges.</p>
 <p></p>
 <table style="minWidth: 75px">
