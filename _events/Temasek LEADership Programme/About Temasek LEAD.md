@@ -240,4 +240,35 @@ espoused by Temasek LEAD.&nbsp;&nbsp;</p>
 array of&nbsp;<strong>(2) Elective programmes</strong>, which would allow
 them the freedom to pursue leadership areas that match their personal needs
 and interests.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Overseas_Experience_Programme_to_Seoul__South_Korea.png">
+</div>
+<p><em>Overseas Experience Programme to Seoul, South Korea</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/7th_St_Gallen_Symposium_Singapore_Forum_2023.png">
+</div>
+<p><em>7th St Gallen Symposium Singapore Forum 2023</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Harmony_Champions_Programme.png">
+</div>
+<p><em>Harmony Champions Programm</em>e</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
