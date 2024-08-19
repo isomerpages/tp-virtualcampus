@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Temasek LEADership Programme
 ---
+<h4><strong>About Temasek LEAD</strong></h4>
 <p>Temasek LEAD aims to develop LEAD students into future leaders with <strong>VISION</strong>, <strong>CHARACTER</strong> and <strong>HEART</strong>.
 Our unique approach is crafted to stretch the potential of our high-performing
 students. Students can expect to embark on an exciting journey of self-discovery
@@ -202,4 +203,41 @@ and exchanges with peers across the world.</p>
 </div>
 </details>
 </div>
+<h4><strong>How Are the Programmes Run?</strong></h4>
+<p>LEAD students will engage themselves in their leadership journey through
+a suite of programmes that are run in three main categories. These programmes
+are highly funded, with some overseas programmes funded as much as 90%.
+The&nbsp;<strong>(1) Core programmes</strong>&nbsp;ensure that participants
+are exposed to and developed in the <strong>four</strong> key areas of leadership
+espoused by Temasek LEAD.&nbsp;&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Temasek_LEAD_Challenge_Logo.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/LEAD_Heart.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/LEAD_Summit.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>In addition to the Core programmes, LEAD students will be offered a wide
+array of&nbsp;<strong>(2) Elective programmes</strong>, which would allow
+them the freedom to pursue leadership areas that match their personal needs
+and interests.</p>
 <p></p>
