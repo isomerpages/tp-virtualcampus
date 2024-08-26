@@ -369,7 +369,7 @@ staff and students to celebrate National Day together.</p>
 </div>
 <p><strong><em>(Note: Thank you for your overwhelming support of the National Day Concert (NDC) 2024! If you did not manage to catch this concert, do look out for our registration call and sign up early next year to secure your seats. We can't wait to celebrate with you again!</em></strong>
 </p>
-<p><strong><em>Can't get enough? Catch the NDC 2024 highlights <a href="https://www.instagram.com/p/C-aFKuEyS4F/?hl=en" rel="noopener noreferrer nofollow" target="_blank">here</a>)</em></strong>
+<p><strong><em>Can't get enough? Catch the NDC 2024 highlights <a href="https://www.instagram.com/p/C-aFKuEyS4F/?hl=en" rel="noopener nofollow" target="_blank">here</a>!)</em></strong>
 </p>
 <hr>
 <p>Round up all these fantastic celebrations across TP with a rousing finale
