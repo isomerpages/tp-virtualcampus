@@ -10,9 +10,9 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TP WaterFront X Challenge, Last Chance to Sign up" src="/images/homepage-images/LAST_CHANCE_TP_Web_Banner_3__FB__IG__LI__Telegram___Happenings__1.jpg">
 </div>
-<p><strong><em>(UPDATE! – Thank you for your support! Registration for the TP Waterfront X-Challenge Run is now closed. Do look out for our confirmation email on the race details soon.</em></strong>
+<p><strong><em>(Note: Thank you for your overwhelming support of the TP Waterfront X-Challenge Run 2024. If you did not manage to flex your running chops this year, do look out for our registration call and sign up early next year to secure your slots. We can't wait to run with you again!</em></strong>
 </p>
-<p><strong><em>That's not all! Whether you are running or not, we encourage you to drop by the TP Stadium to participate in the festivities at the <a href="https://virtualcampus.tp.edu.sg/temasek-tides-concert-2024/" rel="noopener noreferrer nofollow" target="_blank">Temasek Tides Concert 2024</a> - where free food and great entertainment await you. Watch this space for more updates!)</em></strong>
+<p><strong><em>Can't get enough? Relive the adrenaline rush and catch the exciting highlights <a href="https://www.instagram.com/p/C-ADZgUyaXD/?hl=en" rel="noopener nofollow" target="_blank">here</a>!)</em></strong>
 </p>
 <hr>
 <p><strong><em>Stride for Glory. Run for the Story!</em></strong>
