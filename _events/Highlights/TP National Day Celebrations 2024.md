@@ -9,23 +9,16 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg">
 </div>
-<p>(Note: Thank you so much for your enthusiastic support of the TP National
-Day Celebrations 2024! If you missed the National Day Concert (NDC) and
-our exciting fringe activities this year, don't worry! Keep an eye out
-for our registration call and sign up early for the NDC next year to secure
-your seats. We can't wait to celebrate with you again!</p>
-<p>Can't get enough? Catch the following recap highlights:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.instagram.com/p/C-aFKuEyS4F/?hl=en" rel="noopener noreferrer nofollow" target="_blank">National Day Concert 2024</a>
+<p><strong><em>(Note: Thank you so much for your enthusiastic support of the TP National Day Celebrations 2024! If you missed the National Day Concert (NDC) and our exciting fringe activities this year, don't worry! Keep an eye out for our registration call and sign up early for the NDC next year to secure your seats. We can't wait to celebrate with you again!</em></strong>
 </p>
-</li>
-<li>
-<p><a href="https://www.instagram.com/p/C-c3n66S9mP/?hl=en&amp;img_index=1" rel="noopener noreferrer nofollow" target="_blank">Military Defence Display by 23SA</a>
+<p><strong><em>Can't get enough? Catch the following recap highlights:</em></strong>
 </p>
-</li>
-</ul>
-<p>See you next year!)</p>
+<p><strong><em>National Day Concert 2024</em></strong>
+</p>
+<p><strong><em>Military Defence Display by 23SA</em></strong>
+</p>
+<p><strong><em>See you next year!)</em></strong>
+</p>
 <hr>
 <h3><strong>NDC 2024: Fringe Activities</strong></h3>
 <p>Kickstart your celebrations on campus and engage in a rousing line-up
