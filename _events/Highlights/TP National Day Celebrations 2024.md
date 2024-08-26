@@ -13,10 +13,16 @@ third_nav_title: Highlights
 </p>
 <p><strong><em>Can't get enough? Catch the following recap highlights:</em></strong>
 </p>
-<p><strong><em>National Day Concert 2024</em></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em><a href="https://www.instagram.com/p/C-aFKuEyS4F/?hl=en" rel="noopener nofollow" target="_blank">National Day Concert 2024</a></em></strong>
 </p>
-<p><strong><em>Military Defence Display by 23SA</em></strong>
+</li>
+<li>
+<p><strong><em><a href="https://www.instagram.com/p/C-c3n66S9mP/?hl=en&amp;img_index=1" rel="noopener nofollow" target="_blank">Military Defence Display by 23SA</a></em></strong>
 </p>
+</li>
+</ul>
 <p><strong><em>See you next year!)</em></strong>
 </p>
 <hr>
