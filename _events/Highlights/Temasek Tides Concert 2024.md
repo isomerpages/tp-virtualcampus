@@ -9,6 +9,11 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Tides_EDM_01_01_01_01.jpg">
 </div>
+<p><strong><em>(Note: Thank you for your overwhelming support of the Temasek Tides 2024. If you did not manage to catch this concert, you can relive the electrifying atmosphere and catch the exciting highlights <a href="https://www.instagram.com/reel/C94stPay-ZA/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener nofollow" target="_blank">here</a>! </em></strong>
+</p>
+<p><strong><em>We can't wait to celebrate with you again. See you next year!)</em></strong>
+</p>
+<hr>
 <p><strong><em>(✨ Record your attendance onsite and be awarded SEAL points for participation! ✨)</em></strong>
 </p>
 <p>In support of the <strong><a href="https://virtualcampus.tp.edu.sg/tp-waterfront-xchallenge-run-2024/" rel="noopener noreferrer nofollow" target="_blank">TP Waterfront X-Challenge Run 2024</a></strong>,
