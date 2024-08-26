@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: TP CCA Scholarships 2024
+      subtitle: GIVE YOUR DREAMS A CHANCE!
+      id: infopic
+      description: Unlock your potential and pursue your aspirations. Take the first
+        step towards a brighter future with financial support provided by the TP
+        CCA Scholarships!
+      button: CHASE YOUR PASSION!
+      url: /tp-cca-scholarships-2024/
+      image: /images/Events/Highlights/TP_CCA_Scholarship_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: CCA Assistance Fund
       subtitle: KEEP YOUR DREAMS ALIVE!
       id: infopic
