@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP Co-Curricular Activities Scholarships 2024</strong></h3>
+<h3><strong>TP CCA Scholarships 2024</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_CCA_Scholarship_2024.jpg">
 </div>
