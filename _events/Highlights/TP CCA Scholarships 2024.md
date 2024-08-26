@@ -12,6 +12,9 @@ third_nav_title: Highlights
 <p>The annual <strong>TP Co-Curricular Activities (CCA) Scholarships</strong> are
 awarded to <strong>full-time students</strong> who have contributed significantly
 to their respective CCAs in Temasek Polytechnic.</p>
+<p>Unlock your potential with the&nbsp;TP CCA Scholarships! Whether you excel
+in the arts, sports or leadership domain, this is your chance to be recognised
+and supported.</p>
 <p>We are happy to announce that applications for the TP CCA Scholarships
 2024 are now open from <strong>2 to 20 September 2024 (Friday), 11.59pm</strong>.</p>
 <p>Apply for the TP CCA Scholarships 2024 <strong><a href="https://for.edu.sg/applyccascholarship2024" rel="noopener nofollow" target="_blank">here</a></strong>!</p>
