@@ -223,12 +223,6 @@ the <strong>NTU@one-north Auditorium.</strong>
 <br><strong>SEAL records will be updated upon full participation</strong>.
 See you there! 👋🏼
 <br>
-<br>For enquiries, please email to:
-<br><a href="mailto:2200940A@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tay Yi Ning Charlotte</a>
-<br>Dip in Social Sciences in Gerontology
-<br>Vice President of TP Sports Club
-<br>REACH Youth Advisory Panel member
-<br>
 </p>
 <hr>
 <div class="isomer-image-wrapper">
