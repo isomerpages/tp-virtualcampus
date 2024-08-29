@@ -50,8 +50,6 @@ everyone!</p>
 <p>📅 8 August 2024 (Thursday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
-<p>👇 <strong>Secure your seats NOW!</strong>
-</p>
 <p><strong>Things to Note:</strong>
 </p>
 <ul data-tight="true" class="tight">
