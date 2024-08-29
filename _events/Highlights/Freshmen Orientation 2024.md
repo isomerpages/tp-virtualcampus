@@ -81,7 +81,7 @@ links below). We look forward to welcoming you to TP!</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.tiktok.com/%40temasekpoly?lang=en" rel="noopener noreferrer" target="_blank"><u>TikTok</u></a>
+<p><a href="https://www.tiktok.com/@temasekpoly?lang=en" rel="noopener noreferrer" target="_blank"><u>TikTok</u></a>
 </p>
 </li>
 </ul>
