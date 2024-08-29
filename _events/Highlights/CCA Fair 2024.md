@@ -58,7 +58,6 @@ will make a special appearance on <strong>17 Apr 2024</strong>, <strong>11am to 
 </p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Banner_1920px_by_1080px_FA_copy.jpg">
 </div>
