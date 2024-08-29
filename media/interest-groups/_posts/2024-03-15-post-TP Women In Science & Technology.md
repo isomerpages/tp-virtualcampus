@@ -47,7 +47,7 @@ for student innovation and leadership development in STEM.
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Rufaihah_ABDUL_JALIL@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Rufaihah Abdul Jalil</a> &amp;
 <a href="mailto:Louisa_CHEW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Louisa Chew</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp.twist/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp.twist/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>

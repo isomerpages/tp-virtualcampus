@@ -14,9 +14,30 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_CCA_Scholarship_2024.jpg">
+</div>
+<p><em>September 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tp-cca-scholarships-2024/" rel="noopener nofollow" target="_blank">TP CCA Scholarships 2024</a></strong>
+</p>
+<p></p>
+<p>Unlock your potential with the <strong>TP CCA Scholarships 2024</strong>!
+Whether you excel in the arts, sports or leadership domain, this is your
+chance to be recognised and supported. Apply by <strong>20 September 2024</strong> to
+pursue your aspirations and make your CCA journey even more rewarding.
+Don’t miss out!</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg">
 </div>
-<p><em>Aug 2024</em>
+<p><em>August 2024</em>
 </p>
 <p></p>
 </td>
@@ -39,7 +60,7 @@ and Clubs across TP!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__With_QR_Code_.png">
 </div>
-<p><em>8 Aug 2024</em>
+<p><em>8 August 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +83,7 @@ line-up you will not want to miss!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Tides_EDM_01_01_01_01.jpg">
 </div>
-<p><em>26 Jul 2024</em>
+<p><em>26 July 2024</em>
 <br>
 </p>
 </td>
@@ -90,7 +111,7 @@ and psych up for an amazing celebration on campus!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__FA_copy.jpg">
 </div>
-<p><em>26 Jul 2024</em>
+<p><em>26 July 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +137,7 @@ a part of this iconic campus experience!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/CCA_Banner_1920px_by_1080px_FA_copy.jpg">
 </div>
-<p><em>17-18 Apr 2024</em>
+<p><em>17-18 April 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +161,7 @@ the diverse CCAs offered in TP. See you there!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/FOP_Page_1920_X_1080px_copy.jpg">
 </div>
-<p><em>5-12 Apr 2024</em>
+<p><em>5-12 April 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,7 +187,7 @@ journey on the right note!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/Temasek_Regatta_Page_1920_X_1080px.jpg">
 </div>
-<p><em>12 Apr 2024</em>
+<p><em>12 April 2024</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
