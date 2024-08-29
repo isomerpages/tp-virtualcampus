@@ -96,18 +96,6 @@ to orientate you prior to the start of the camp.</p>
 <br>(9 Woodlands Ave 9, Singapore 738964)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>How do you Sign Up?</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Complete the <strong>registration form</strong> on <strong><a href="https://go.gov.sg/mxpoly-oct2023-sch" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mxpoly-oct2023-sch</a></strong>&nbsp;by <strong><u>1 September 2023</u></strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Event details (October Run)</strong>
