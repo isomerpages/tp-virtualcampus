@@ -32,7 +32,7 @@ You may also unknowingly form unforgettable and meaningful friendships
 based on a common love of the outdoors and adventure. Are you ready to
 join us?
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:cyrano_latiff@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Cyrano Latiff</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Terence_LJ_LIN@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Terence Lim</a>
 <br>
 <br>CCA <a href="https://www.instagram.com/tpadventureclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
