@@ -60,8 +60,11 @@ students</p>
 <p>Mentoring by management of SSCS and ECCs</p>
 </li>
 </ul>
+<p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Karen_Yap@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karen Yap</a> (Main Advisor) &amp;
-<a href="mailto:Corinne_Cheng_Hong_TAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Corinne Tan</a>(Co-advisor)
+<a href="mailto:Corinne_Cheng_Hong_TAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Corinne Tan</a>(Co-advisor)</p>
+<p></p>
+<p><strong>CCA <a href="https://www.instagram.com/tp_ecga/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 <br>
 </p>
 </td>
