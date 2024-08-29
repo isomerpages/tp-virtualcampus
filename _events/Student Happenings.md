@@ -191,10 +191,7 @@ stages as you prepare to pitch your proposal to a panel of judges.
 </li>
 </ol>
 <p>To find out more and register for the Hackathon, simply scan the QR code
-in the poster or click on these links:</p>
-<p>a) Registration: <a href="www.go.gov.sg/necdccommshackathon" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/necdccommshackathon</a> 
-<br>b) Terms and condition: <a href="www.go.gov.sg/necdccommshackathonterms" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/necdccommshackathonterms</a>
-</p>
+in the poster:</p>
 <p>Closing date for registration: <strong>27 August 2023</strong>
 </p>
 <p>If you require any clarifications, please email to <a href="Mailto:Angela_YEO@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Angela Yeo</a> or <a href="mailto:TAN_Yu_Xuan@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jules Tan</a>
