@@ -274,7 +274,7 @@ and interests.</p>
 <p>Finally, Temasek LEAD offers a series of specially curated&nbsp;<strong>(3) Excel programmes</strong>&nbsp;to
 stretch our very best students, who have displayed outstanding achievements
 in the areas of academic studies, leadership roles and/or specialised talents.&nbsp;</p>
-<p>For more information, please email <strong><a rel="noopener noreferrer nofollow" target="_blank">LEAD@tp.edu.sg</a></strong>
+<p>For more information, please email <strong><a href="mailto:LEAD@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LEAD@tp.edu.sg</a></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
