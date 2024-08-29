@@ -58,7 +58,7 @@ the full list of Group/Team Awards.</p>
 <a href="https://virtualcampus.tp.edu.sg/files/TSEA/2024/TSEA_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 </li>
 </ul>
-<p>If you have any enquiries on the TSEA, please contact:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>
+<p>If you have any enquiries on the TSEA, please contact:&nbsp;<a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>
 </p>
 <p>See you next year!</p>
 <p></p>

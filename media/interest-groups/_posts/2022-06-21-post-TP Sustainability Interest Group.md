@@ -32,7 +32,7 @@ Joining our interest group is not just about attending events – it is about be
                     <br>
                     <b>CCA Staff Advisor:</b> <a href="mailto:Rita_Woo@TP.EDU.SG">Ms Rita Woo</a> &amp; <a href="mailto:Yu_Zhang@tp.edu.sg">Ms Zhang Yu</a><br>
                     <br>
-                    CCA <a href="https://www.instagram.com/tpgig">Instagram</a>
+                    CCA <a href="https://www.instagram.com/tpsustig/">Instagram</a>
 							</p>
                 <p></p>
             </ul></td>

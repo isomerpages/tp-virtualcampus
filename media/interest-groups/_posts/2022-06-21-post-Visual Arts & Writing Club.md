@@ -29,7 +29,7 @@ so tomorrow will be brighter and better.
 <br><strong>Meeting Day:</strong>
 <br>Wednesday evenings
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Thomas_MARY@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Mary Thomas</a> and <a href="mailto:Nazlene_ZAINAL_ALIAS@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Nazlene Zainal Alias</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Nazlene_ZAINAL_ALIAS@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Nazlene Zainal Alias</a>
 <br>
 <br>CCA <a href="https://www.instagram.com/vawctp/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>

@@ -21,6 +21,6 @@ Keep pursuing your passion, guys!
 
 <hr>
 
-For information on the selection process and conditions of the TP CCA Scholarships, please download&nbsp;the resources [here.](/files/CCA%20Scholarships/tp%20cca%20scholarship%202023-criteria.pdf)
+For information on the selection process and conditions of the TP CCA Scholarships, please download&nbsp;the resources [here.](https://for.edu.sg/criteria-cca-scholarship-2024)
 
 For enquiries, please contact the TP CCA Scholarships Secretariat at:&nbsp;[**tsea@tp.edu.sg**](mailto:tsea@tp.edu.sg)

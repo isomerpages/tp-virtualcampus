@@ -96,18 +96,6 @@ to orientate you prior to the start of the camp.</p>
 <br>(9 Woodlands Ave 9, Singapore 738964)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>How do you Sign Up?</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Complete the <strong>registration form</strong> on <strong><a href="https://go.gov.sg/mxpoly-oct2023-sch" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mxpoly-oct2023-sch</a></strong>&nbsp;by <strong><u>1 September 2023</u></strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Event details (October Run)</strong>
@@ -158,18 +146,6 @@ to orientate you prior to the start of the camp.</p>
 <br>(9 Woodlands Ave 9, Singapore 738964)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>How do you Sign Up?</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Complete the <strong>registration form</strong> on <strong><a href="https://go.gov.sg/mxpoly-oct2023-sch" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mxpoly-oct2023-sch</a></strong>&nbsp;by <strong><u>1 September 2023</u></strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>For more information: <a href="https://go.gov.sg/missionx-poly-factsheet" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/missionx-poly-factsheet</a>
@@ -215,10 +191,7 @@ stages as you prepare to pitch your proposal to a panel of judges.
 </li>
 </ol>
 <p>To find out more and register for the Hackathon, simply scan the QR code
-in the poster or click on these links:</p>
-<p>a) Registration: <a href="www.go.gov.sg/necdccommshackathon" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/necdccommshackathon</a> 
-<br>b) Terms and condition: <a href="www.go.gov.sg/necdccommshackathonterms" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/necdccommshackathonterms</a>
-</p>
+in the poster.</p>
 <p>Closing date for registration: <strong>27 August 2023</strong>
 </p>
 <p>If you require any clarifications, please email to <a href="Mailto:Angela_YEO@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Angela Yeo</a> or <a href="mailto:TAN_Yu_Xuan@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jules Tan</a>
@@ -245,17 +218,10 @@ navigate an uncertain job landscape and increasingly volatile world. 🧭</p>
 <p>The session will be held on <strong>7 Sep (Thu), 7pm to 9pm</strong> at
 the <strong>NTU@one-north Auditorium.</strong>
 </p>
-<p>Sign up and share any questions you may have at <a href="https://go.gov.sg/pif2023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pif2023</a> by 31 August
-2023! <strong>Limited seats available!</strong> 
+<p>Sign up and share any questions you may have by 31 August 2023! <strong>Limited seats available!</strong> 
 <br>
 <br><strong>SEAL records will be updated upon full participation</strong>.
 See you there! 👋🏼
-<br>
-<br>For enquiries, please email to:
-<br><a href="mailto:2200940A@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tay Yi Ning Charlotte</a>
-<br>Dip in Social Sciences in Gerontology
-<br>Vice President of TP Sports Club
-<br>REACH Youth Advisory Panel member
 <br>
 </p>
 <hr>
