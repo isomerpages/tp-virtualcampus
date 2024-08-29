@@ -3,8 +3,8 @@ title: Caring for Environment
 permalink: /events/community-engagement/caring-for-environment/
 description: ""
 third_nav_title: Community Engagement
+variant: markdown
 ---
-
 ### #NEXTGEN VIDEO CHALLENGE COMPETITION 2021-TELLING THE CLIMATE CHANGE STORY ###
 Calling all aspiring filmmakers and environmental enthusiasts to PARTICIPATE in the **#NEXTGEN VIDEO CHALLENGE COMPETITION 2021 - TELLING THE CLIMATE CHANGE STORY**. Create a video  on the climate change story based on one of the four topics below:
 * **Climate Change and Community: How Are We Responding?**
@@ -36,13 +36,13 @@ Pass It On Channel is a sharing channel on the TP Oei app that makes giving and 
 **Check out the [TP Oei](https://www.tp.edu.sg/life-at-tp/tp-students-digital-access-it-matters/students-it-needs.html#tpoei){:target="_blank"}{:rel="noopener"} app and pass on items that you don't need!**
 
 <table>
-    <tr>
-        <td style="width:50%"><image src="/images/BeCaring-Env-PassItOn11.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Care for Environment"></image>       
+    <tbody><tr>
+        <td style="width:50%"><img src="/images/BeCaring-Env-PassItOn11.jpg" style="display:block;margin-left:auto;margin-right:auto;" alt="Care for Environment">       
         </td>
-        <td style="width:50%"><image src="/images/BeCaring-Env-PassItOn2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Care for Environment2"></image>       
+        <td style="width:50%"><img src="/images/BeCaring-Env-PassItOn2.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Care for Environment2">       
         </td>
     </tr>
-</table>
+</tbody></table>
 
 ---
 
@@ -59,4 +59,4 @@ The inaugural ECO Fest Campaign was held with a series of interesting activities
 
 Being a champion in caring for the environment and sustainability, TP Green Interest Group organised several environmental events such as beach clean-ups and hiking trips. In 2019, the group was invited to join the R.I.S.E Champion Network together with many organisations such as the National Environment Agency and National Parks Boards.
 
-**Find out more about [TP Green Interest Group](/interest_groups/green_interest_group/)**
+**Find out more about [TP Sustainability Interest Group](https://www.instagram.com/tpsustig/)**
