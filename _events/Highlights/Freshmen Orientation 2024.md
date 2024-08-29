@@ -59,7 +59,7 @@ peers, and catch enthralling arts performances by TP’s finest talents!</p>
 <p>At TP, your safety and wellbeing is our utmost priority. We have a zero-tolerance
 policy on hazing and derogatory behaviour on campus. Should you encounter
 or come across such incidents, you are strongly encouraged to report them
-to any TP staff or via our whistle blower hotline at <a rel="noopener noreferrer nofollow" target="_blank">sdaa@tp.edu.sg</a>.</p>
+to any TP staff or via our whistle blower hotline at <a href="mailto:sdaa@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sdaa@tp.edu.sg</a>.</p>
 <p>As you immerse yourself in the exciting line-up of FOP activities, we
 hope that you will embrace the <strong>Team Temasek Spirit</strong> – a special
 bond shared by our TP family across varied backgrounds, cultures and countries,
