@@ -19,7 +19,7 @@ and supported.</p>
 2024 are now open from <strong>2 to 20 September 2024 (Friday), 11.59pm</strong>.</p>
 <p>Apply for the TP CCA Scholarships 2024 <strong><a href="https://for.edu.sg/applyccascholarship2024" rel="noopener nofollow" target="_blank">here</a></strong>!</p>
 <p>For information on the selection process and conditions of the TP CCA
-Scholarships 2024, please download the resources <strong><a href="https://for.edu.sg/criteriaccascholarship2024" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
+Scholarships 2024, please download the resources <strong><a href="https://for.edu.sg/criteria-cca-scholarship-2024" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
 <p>For enquiries, do contact the TSEA &amp; CCA Scholarships Secretariat
 at <strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
