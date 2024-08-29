@@ -218,8 +218,7 @@ navigate an uncertain job landscape and increasingly volatile world. 🧭</p>
 <p>The session will be held on <strong>7 Sep (Thu), 7pm to 9pm</strong> at
 the <strong>NTU@one-north Auditorium.</strong>
 </p>
-<p>Sign up and share any questions you may have at <a href="https://go.gov.sg/pif2023" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pif2023</a> by 31 August
-2023! <strong>Limited seats available!</strong> 
+<p>Sign up and share any questions you may have by 31 August 2023! <strong>Limited seats available!</strong> 
 <br>
 <br><strong>SEAL records will be updated upon full participation</strong>.
 See you there! 👋🏼
