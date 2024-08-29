@@ -54,7 +54,7 @@ will make a special appearance on <strong>17 Apr 2024</strong>, <strong>11am to 
 </p>
 </li>
 <li>
-<p><a href="https://www.tiktok.com/%40temasekpoly?lang=en" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>
+<p><a href="https://www.tiktok.com/@temasekpoly?lang=en" rel="noopener noreferrer nofollow" target="_blank">TikTok</a>
 </p>
 </li>
 </ul>
@@ -66,7 +66,11 @@ will make a special appearance on <strong>17 Apr 2024</strong>, <strong>11am to 
 </p>
 <p><em>(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)</em>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
