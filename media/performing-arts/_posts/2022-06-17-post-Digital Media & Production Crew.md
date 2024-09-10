@@ -93,10 +93,7 @@ have abundant opportunites to practice these skills in real-world situations.
 <p>Photo/Video: Thursday, 7pm to 9pm</p>
 </li>
 <li>
-<p>Graphics: Alternate Tuesdays, 7pm to 9pm</p>
-</li>
-<li>
-<p>Stage: Friday, 7pm to 9pm</p>
+<p>Graphics: Alternate Fridays, 7pm to 9pm</p>
 </li>
 </ul>
 <h5>Staff Advisors</h5>
@@ -117,7 +114,7 @@ have abundant opportunites to practice these skills in real-world situations.
 </p>
 </li>
 <li>
-<p><a href="https://linktr.ee/tp.dmpc" rel="noopener noreferrer nofollow" target="_blank">Linktree</a>
+<p><a href="https://linktr.ee/tpdmpc" rel="noopener noreferrer nofollow" target="_blank">Linktree</a>
 </p>
 </li>
 </ul>
