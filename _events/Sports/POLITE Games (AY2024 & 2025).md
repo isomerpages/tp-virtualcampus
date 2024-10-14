@@ -20,7 +20,7 @@ venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
 here for updates on the epic battles and exciting matchups for the different
 sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
-of champions!</p>
+of the champions!</p>
 <hr>
 <h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
