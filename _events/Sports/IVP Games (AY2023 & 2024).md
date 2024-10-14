@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sports
 ---
-<h3>Institute-Varsity-Polytechnic Games (AY2023/24)</h3>
+<h3><strong>Institute-Varsity-Polytechnic Games (AY2023/24)</strong></h3>
 <p>Team Temasek has given us so many reasons to cheer and unite at the recently
 concluded <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2023/24)</strong>!</p>
 <p>Throughout the action-packed season, close to <strong>300</strong> student-athletes
@@ -38,8 +38,13 @@ of themselves!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_eDM_01.jpg">
 </div>
 <hr>
-<h3>IVP Games (AY2023/24) Medal Tally</h3>
-<table>
+<h3><strong>IVP Games (AY2023/24) Medal Tally</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
