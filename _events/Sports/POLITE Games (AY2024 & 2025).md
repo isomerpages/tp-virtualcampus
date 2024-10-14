@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sports
 ---
-<h3><strong>Polytechnic-ITE Games (AY2023/24)</strong></h3>
+<h3><strong>Polytechnic-ITE Games (AY2024/25)</strong></h3>
 <p>[Insert eDM here]</p>
 <p>The heat is on! Get ready for some adrenaline-pumping action as we cheer
 for our Team Temasek athletes, who are standing tall, playing hard, and
