@@ -7,18 +7,18 @@ third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2023/24)</strong></h3>
 <p>[Insert eDM here]</p>
-<p>Hey #TPFAM! Get ready for some adrenaline-pumping action as we cheer on
-our Team Temasek athletes, who are standing tall, playing hard, and giving
-their all for TP in the annual Polytechnic-ITE (POL-ITE) Games!</p>
-<p>The heat is on! This season, let’s rally behind our sporting warriors
-as they vie for glory at the POL-ITE Games 2024. Your cheers will fuel
-their aspirations, your passion will uplift their spirits, and together
-we will forge a path towards pride and excellence in this annual showdown!</p>
+<p>The heat is on! Get ready for some adrenaline-pumping action as we cheer
+for our Team Temasek athletes, who are standing tall, playing hard, and
+giving their all for TP in the annual Polytechnic-ITE (POL-ITE) Games!</p>
+<p>This season, let’s rally behind our sporting warriors as they vie for
+glory at the POL-ITE Games 2024. Your cheers will fuel their aspirations,
+your passion will uplift their spirits, and together we will forge a path
+towards pride and excellence in this annual showdown!</p>
 <p>Keen to soak up the electrifying atmosphere in person? Come support Team
 Temasek and witness the thrilling action live in TP and across various
-venues in the other Institutes of Higher Learning<strong>. </strong>Stay
-tuned here for updates on the epic battles and exciting matchups for the
-different sports in the coming weeks.</p>
+venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
+here for updates on the epic battles and exciting matchups for the different
+sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of champions!</p>
 <hr>
