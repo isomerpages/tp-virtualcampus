@@ -21,3 +21,123 @@ tuned here for updates on the epic battles and exciting matchups for the
 different sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of champions!</p>
+<hr>
+<h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>10-Pin Bowling</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Archery</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dragon Boat</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Floorball</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hockey</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Kayak Racing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Netball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Road Race</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rugby</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Soccer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sport Climbing</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Swimming</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Table Tennis</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Taekwondo</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tchoukball</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tennis</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Touch Football</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Track &amp; Field</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ultimate Frisbee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Volleyball</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
