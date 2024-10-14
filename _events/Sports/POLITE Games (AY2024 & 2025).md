@@ -6,8 +6,10 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2024/25)</strong></h3>
-<p>[Insert eDM here]</p>
-<p>The heat is on! Get ready for some adrenaline-pumping action as we cheer
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_LITE_EDM_1920_X_1080px_01.jpg">
+</div>
+<p>The heat is on! Gt ready for some adrenaline-pumping action as we cheer
 for our Team Temasek athletes, who are standing tall, playing hard, and
 giving their all for TP in the annual Polytechnic-ITE (POL-ITE) Games!</p>
 <p>This season, let’s rally behind our sporting warriors as they vie for
