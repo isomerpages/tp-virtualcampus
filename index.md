@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: POL-ITE Games 2024
+      subtitle: THE HEAT IS ON!
+      id: infopic
+      description: Feel the excitement! Join us in cheering on our Team Temasek
+        athletes as they contest for sporting glory at the annual
+        Polytechnic-ITE Games!
+      button: DISCOVER THE ACTION!
+      url: /polite-games-2024/
+      alt: Image alt text
+  - infopic:
       title: TP CCA Scholarships 2024
       subtitle: GIVE YOUR DREAMS A CHANCE!
       id: infopic
