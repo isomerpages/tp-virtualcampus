@@ -13,10 +13,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_LITE_EDM_1920_X_1080px_01.jpg">
+</div>
 <p><em>October to November 2024</em>
 </p>
 </td>
