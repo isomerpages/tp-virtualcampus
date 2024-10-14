@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>The heat is on! This season, get ready for some adrenaline-pumping action
-as we cheer on our Team Temasek athletes who are standing tall, playing
+as we cheer for our Team Temasek athletes who are standing tall, playing
 hard, and giving their all for TP in the annual Polytechnic-ITE (POL-ITE)
 Games!</p>
 <p></p>
