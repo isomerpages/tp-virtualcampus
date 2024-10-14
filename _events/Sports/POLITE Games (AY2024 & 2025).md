@@ -23,6 +23,11 @@ different sports in the coming weeks.</p>
 of champions!</p>
 <hr>
 <h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>10-Pin Bowling</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,123 +35,20 @@ of champions!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>10-Pin Bowling</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___10_Pin_Bowling__Women_.jpg">
-</div>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___10_Pin_Bowling__Men_.jpg">
 </div>
-</th>
+</td>
 <th rowspan="1" colspan="1">
-<p>Archery</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Archery__Men___Women_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___10_Pin_Bowling__Women_.jpg">
 </div>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Basketball</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dragon Boat</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Floorball</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hockey</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Kayak Racing</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Netball</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Road Race</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Rugby</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Soccer</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sport Climbing</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Swimming</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Table Tennis</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Taekwondo</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tchoukball</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tennis</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Touch Football</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Track &amp; Field</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ultimate Frisbee</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Volleyball</strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <p></p>
