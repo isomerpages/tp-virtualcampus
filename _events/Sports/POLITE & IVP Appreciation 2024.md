@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h3>POL-ITE &amp; IVP Appreciation 2024</h3>
+<h3><strong>POL-ITE &amp; IVP Appreciation 2024</strong></h3>
 <p>As a fitting end to the competitive sports season, we celebrated the contributions
 and achievements of our student-athletes – present and past – at the <strong>Polytechnic-ITE (POL-ITE)</strong> and <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2023/24)</strong>!</p>
 <p>This special occasion was graced by <strong>Senior Director Ms Chia Li Hwe</strong>i,
@@ -22,7 +22,13 @@ excellence, for your valiant fighting spirit even in the face of loss/adversity,
 and for making TP truly a home of the champions! &nbsp;
 <br>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">

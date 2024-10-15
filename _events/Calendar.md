@@ -14,6 +14,25 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_LITE_EDM_1920_X_1080px_01.jpg">
+</div>
+<p><em>October to November 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/polite-games-2024/" rel="noopener nofollow" target="_blank">Polytechnic-ITE Games (AY2024/25)</a></strong>
+</p>
+<p></p>
+<p>The heat is on! This season, get ready for some adrenaline-pumping action
+as we cheer for our Team Temasek athletes who are standing tall, playing
+hard, and giving their all for TP in the annual Polytechnic-ITE (POL-ITE)
+Games!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_CCA_Scholarship_2024.jpg">
 </div>
 <p><em>September 2024</em>
