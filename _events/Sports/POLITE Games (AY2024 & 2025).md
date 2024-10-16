@@ -24,6 +24,9 @@ sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
 <hr>
+<h4><strong>Catch the Exhilarating Action at Selected Games in TP!</strong></h4>
+<p></p>
+<hr>
 <h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
