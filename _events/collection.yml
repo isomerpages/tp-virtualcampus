@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - POL ITE Games 2024/.keep
       - Calendar.md
       - Student Happenings.md
       - Highlights/TP CCA Scholarships 2024.md
