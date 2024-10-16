@@ -27,21 +27,11 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
       title: POL-ITE Games 2024
-      subtitle: CHEER WITH US!
-      id: infopic
-      description: Come support Team Temasek (Soccer and Volleyball) as they hit the
-        field and court at these thrilling annual games, happening right here in
-        TP!
-      button: CATCH THE ACTION!
-      url: /polite-games-viewing-2024/
-      alt: Image alt text
-  - infopic:
-      title: POL-ITE Games 2024
       subtitle: THE HEAT IS ON!
       id: infopic
-      description: Feel the excitement! Join us in cheering on our Team Temasek
-        athletes as they contest for sporting glory at the annual
-        Polytechnic-ITE Games!
+      description: Feel the excitement! Join us in cheering on Team Temasek as our
+        athletes contest for sporting glory at these thrilling annual games,
+        happening right here in TP!
       button: DISCOVER THE ACTION!
       url: /polite-games-2024/
       alt: Image alt text
