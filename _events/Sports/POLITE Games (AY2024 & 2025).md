@@ -38,10 +38,10 @@ in TP!</p>
 <p><strong>Here are some exciting highlights that you can look forward to:</strong>
 </p>
 <p>✨ Earn SEAL points just by joining in the fun!</p>
-<p>✨ Indulge in complimentary snacks and live food stations!</p>
+<p>✨ Indulge in free snacks and live food stations!</p>
 <p>✨ Enjoy awesome beverage giveaways from Luckin Coffee!</p>
 <p>✨ Catch a spectacular half-time show by TP’s arts groups!</p>
-<p><em>(Note: Live stations, Luckin beverages and half-time entertainment are for Soccer matches only.)</em>
+<p><em>(Note: Live stations, Luckin beverages and half-time entertainment are available at the Soccer matches only.)</em>
 </p>
 <p>Let's make some noise and bring it home for TP!</p>
 <p><strong><u>Match Schedule</u></strong>
