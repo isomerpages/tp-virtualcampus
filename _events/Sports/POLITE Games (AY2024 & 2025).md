@@ -10,8 +10,8 @@ third_nav_title: Sports
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_LITE_EDM_1920_X_1080px_01.jpg">
 </div>
 <p>The heat is on! Get ready for some adrenaline-pumping action as we cheer
-for our Team Temasek athletes, who are standing tall, playing hard, and
-giving their all for TP in the annual Polytechnic-ITE (POL-ITE) Games!</p>
+for our <strong>Team Temasek </strong>athletes, who are standing tall, playing
+hard, and giving their all for TP in the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
 <p>This season, let’s rally behind our sporting warriors as they vie for
 glory at the POL-ITE Games 2024. Your cheers will fuel their aspirations,
 your passion will uplift their spirits, and together we will forge a path
@@ -25,6 +25,7 @@ sports in the coming weeks.</p>
 of the champions!</p>
 <hr>
 <h4><strong>Catch the Exhilarating Action at Selected Games in TP!</strong></h4>
+<p>[Insert eDM here]</p>
 <p>Hey #TPFAM! Are you ready for an adrenaline-fueled experience right here
 on campus?</p>
 <p>Get set to rally behind our <strong>Team Temasek</strong> athletes as they
@@ -42,7 +43,58 @@ in TP!</p>
 <p>✨ Catch a spectacular half-time show by TP’s talented arts groups (for
 soccer matches only)!</p>
 <p>Let's make some noise and bring it home for TP!</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
