@@ -43,6 +43,8 @@ in TP!</p>
 <p>✨ Catch a spectacular half-time show by TP’s talented arts groups (for
 soccer matches only)!</p>
 <p>Let's make some noise and bring it home for TP!</p>
+<p><strong><u>Match Schedule</u></strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -53,44 +55,105 @@ soccer matches only)!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Date</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Match</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Venue</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>28 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Soccer (W) / TP vs. RP</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>Blk 29, Sports Complex</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Soccer (M) / TP vs. RP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Volleyball (W) / TBC</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Blk 26A, Sports Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (M) / TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (W) / TBC</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Blk 26A, Sports Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (M) / TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (W) / TBC</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Blk 26A, Sports Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.45pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (M) / TBC</p>
 </td>
 </tr>
 </tbody>
