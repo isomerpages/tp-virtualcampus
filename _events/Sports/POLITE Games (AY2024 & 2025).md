@@ -25,6 +25,23 @@ sports in the coming weeks.</p>
 of the champions!</p>
 <hr>
 <h4><strong>Catch the Exhilarating Action at Selected Games in TP!</strong></h4>
+<p>Hey #TPFAM! Are you ready for an adrenaline-fueled experience right here
+on campus?</p>
+<p>Get set to rally behind our <strong>Team Temasek</strong> athletes as they
+rise to the occasion, compete with their fiercest spirit, and pour their
+hearts into every moment at the annual <strong>POL-ITE Games</strong>! We
+invite you to unleash your boundless energy, bring your loudest cheers,
+and join us for the electrifying live action at selected POL-ITE matches
+(<strong>Soccer</strong> and <strong>Volleyball</strong>) – all happening
+in TP!</p>
+<p><strong>Here are some exciting highlights that you can look forward to:</strong>
+</p>
+<p>&nbsp;✨ Earn SEAL points just by joining in the fun!</p>
+<p>✨ Indulge in free snacks and drinks on us!</p>
+<p>✨ Enjoy awesome beverage giveaways from Luckin Coffee!</p>
+<p>✨ Catch a spectacular half-time show by TP’s talented arts groups (for
+soccer matches only)!</p>
+<p>Let's make some noise and bring it home for TP!</p>
 <p></p>
 <hr>
 <h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
