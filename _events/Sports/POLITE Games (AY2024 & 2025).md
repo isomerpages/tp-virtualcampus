@@ -37,11 +37,12 @@ and join us for the electrifying live action at selected POL-ITE matches
 in TP!</p>
 <p><strong>Here are some exciting highlights that you can look forward to:</strong>
 </p>
-<p>&nbsp;✨ Earn SEAL points just by joining in the fun!</p>
-<p>✨ Indulge in free snacks and drinks on us!</p>
+<p>✨ Earn SEAL points just by joining in the fun!</p>
+<p>✨ Indulge in complimentary snacks and live food stations!</p>
 <p>✨ Enjoy awesome beverage giveaways from Luckin Coffee!</p>
-<p>✨ Catch a spectacular half-time show by TP’s talented arts groups (for
-soccer matches only)!</p>
+<p>✨ Catch a spectacular half-time show by TP’s arts groups!</p>
+<p><em>(Note: Live stations, Luckin beverages and half-time entertainment are for Soccer matches only.)</em>
+</p>
 <p>Let's make some noise and bring it home for TP!</p>
 <p><strong><u>Match Schedule</u></strong>
 </p>
@@ -92,13 +93,13 @@ soccer matches only)!</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>TBC</p>
+<p>6 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball (W) / TBC</p>
+<p>Volleyball (W) / TP vs. NYP</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Blk 26A, Sports Hall</p>
@@ -109,18 +110,18 @@ soccer matches only)!</p>
 <p>8.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball (M) / TBC</p>
+<p>Volleyball (M) / TP vs. NYP</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>TBC</p>
+<p>13 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball (W) / TBC</p>
+<p>Volleyball (W) / TP vs. SP</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Blk 26A, Sports Hall</p>
@@ -131,29 +132,7 @@ soccer matches only)!</p>
 <p>8.45pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball (M) / TBC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Volleyball (W) / TBC</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Blk 26A, Sports Hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8.45pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Volleyball (M) / TBC</p>
+<p>Volleyball (M) / TP vs. SP</p>
 </td>
 </tr>
 </tbody>
