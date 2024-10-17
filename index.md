@@ -35,7 +35,7 @@ sections:
       button: DISCOVER THE ACTION!
       url: /polite-games-2024/
       alt: Image alt text
-      image: /images/Sports/POL_LITE_EDM_1920_X_1080px_01.jpg
+      image: /images/Sports/POL_ITE_Games_2024_EDMs_01.jpg
   - infopic:
       title: TP CCA Scholarships 2024
       subtitle: GIVE YOUR DREAMS A CHANCE!
