@@ -24,7 +24,7 @@ sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
 <hr>
-<h4><strong>Catch the Exhilarating Action at Selected Games in TP!</strong></h4>
+<h4><strong>Catch the Exhilarating Sporting Action in TP!</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024_EDMs_01.jpg">
 </div>
