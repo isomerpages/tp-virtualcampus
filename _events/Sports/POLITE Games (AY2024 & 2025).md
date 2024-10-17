@@ -25,7 +25,9 @@ sports in the coming weeks.</p>
 of the champions!</p>
 <hr>
 <h4><strong>Catch the Exhilarating Action at Selected Games in TP!</strong></h4>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024_EDMs_01.jpg">
+</div>
 <p>Hey #TPFAM! Are you ready for an adrenaline-fueled experience right here
 on campus?</p>
 <p>Get set to rally behind our <strong>Team Temasek</strong> athletes as they
