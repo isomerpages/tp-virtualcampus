@@ -29,13 +29,13 @@ sections:
       title: POL-ITE Games 2024
       subtitle: THE HEAT IS ON!
       id: infopic
-      description: Feel the excitement! Join us in cheering on our Team Temasek
-        athletes as they contest for sporting glory at the annual
-        Polytechnic-ITE Games!
+      description: Feel the excitement! Join us in cheering on Team Temasek as our
+        athletes contest for sporting glory at these thrilling annual games,
+        happening right here in TP!
       button: DISCOVER THE ACTION!
       url: /polite-games-2024/
       alt: Image alt text
-      image: /images/Sports/POL_LITE_EDM_1920_X_1080px_01.jpg
+      image: /images/Sports/POL_ITE_Games_2024_Updated.jpg
   - infopic:
       title: TP CCA Scholarships 2024
       subtitle: GIVE YOUR DREAMS A CHANCE!
@@ -77,38 +77,6 @@ sections:
       button: CATCH THE CONCERT!
       url: /tp-national-day-concert-2024/
       image: /images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__With_QR_Code_.png
-      alt: Image alt text
-  - infopic:
-      title: Temasek Tides Concert 2024
-      subtitle: GROOVE, CHILL & FEAST!
-      id: infopic
-      description: In support of the TP Waterfront X-Challenge Run 2024, Temasek Arts
-        Centre proudly presents this amazing concert, where an evening of great
-        fun awaits!
-      button: PSYCH UP HERE!
-      url: /temasek-tides-concert-2024/
-      alt: Image alt text
-      image: /images/Events/Highlights/Temasek_Tides_EDM_01_01_01_01.jpg
-  - infopic:
-      title: TP Waterfront X-Challenge Run 2024
-      subtitle: RUN FOR THE STORY!
-      id: infopic
-      description: Get ready to lace up your running shoes and join us for an exciting
-        event like no other. Look forward to an experience filled with action
-        and plenty of fun!
-      button: REGISTRATION CLOSED!
-      url: /tp-waterfront-xchallenge-run-2024/
-      alt: Image alt text
-      image: /images/homepage-images/LAST_CHANCE_TP_Web_Banner_3__FB__IG__LI__Telegram___Happenings__1.jpg
-  - infopic:
-      title: Temasek Student Excellence Awards 2024
-      subtitle: TSEA 2024
-      id: infopic
-      description: Celebrate your students’ contributions, passion and spirit. Check
-        out the TSEA 2024 Roll of Honour here!
-      button: Congratulations!
-      url: /tsea-2024/
-      image: /images/homepage-images/TSEA_Banner_Updated_QR_Compressed.png
       alt: Image alt text
   - infopic:
       title: Want to be featured on this Virtual Campus?
