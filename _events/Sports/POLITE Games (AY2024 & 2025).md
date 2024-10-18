@@ -26,7 +26,7 @@ of the champions!</p>
 <hr>
 <h4><strong>Catch the Exhilarating Sporting Action in TP!</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024_EDMs_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024_Updated.jpg">
 </div>
 <p>Hey #TPFAM! Are you ready for an adrenaline-fueled experience right here
 on campus?</p>
@@ -41,9 +41,8 @@ in TP!</p>
 </p>
 <p>✨ Earn SEAL points just by joining in the fun!</p>
 <p>✨ Indulge in free snacks and live food stations!</p>
-<p>✨ Enjoy awesome beverage giveaways from Luckin Coffee!</p>
 <p>✨ Catch a spectacular half-time show by TP’s arts groups!</p>
-<p><em>(Note: Live stations, Luckin beverages and half-time entertainment are available at the Soccer matches only.)</em>
+<p><em>(Note: Live food stations and half-time entertainment are available at the Soccer matches only.)</em>
 </p>
 <p>Let's make some noise and bring it home for TP!</p>
 <p><strong><u>Match Schedule</u></strong>
