@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>The <strong>Temasek Arts Centre</strong> proudly presents this month-long
-festival, happening from <strong>28 Oct to 29 Nov 2024</strong>. Look forward
+festival, happening from <strong>28 Oct to 30 Nov 2024</strong>. Look forward
 to an enthralling line-up of events featuring the very best of TP’s performing
 arts groups, as they take to the stage to engage, excite and captivate
 your senses. With the eclectic ensemble of activities staged across various
