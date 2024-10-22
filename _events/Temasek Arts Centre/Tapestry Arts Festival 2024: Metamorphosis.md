@@ -92,7 +92,7 @@ official website at: <strong><a href="https://tapestryartsfestiv.wixsite.com/202
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fusion Percussion: ‘Echoes of Harmony’ Concert</p>
+<p>Fusion Percussion Concert: ‘Echoes of Harmony’</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7 Nov 2024, 8pm to 9pm, Blk 26B, Sports &amp; Arts Centre Foyer</p>
