@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Campus Shutdown Exercise
+      subtitle: IMPORTANT ANNOUNCEMENT
+      id: infopic
+      description: Please be informed that the TP campus will be closed to all
+        visitors for an institutional-wide exercise from 29 Oct 2024 (2pm) to 1
+        Nov 2024 (10pm).
+      button: FIND OUT MORE!
+      url: /alumni/highlights/
+      image: /images/tp_website_banner_2800x1200.jpg
+      alt: Image alt text
+  - infopic:
       title: POL-ITE Games 2024
       subtitle: THE HEAT IS ON!
       id: infopic
