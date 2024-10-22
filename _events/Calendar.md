@@ -23,12 +23,12 @@ variant: tiptap
 <p><strong><a href="/tapestry-arts-festival-2024-metamorphosis/" rel="noopener nofollow" target="_blank">Tapestry Arts Festival 2024: Metamorphosis</a></strong>
 </p>
 <p></p>
-<p>The <strong>Temasek Arts Centre</strong> proudly presents this month-long
-festival, happening from <strong>28 Oct to 30 Nov 2024</strong>. Look forward
-to an enthralling line-up of events featuring the very best of TP’s performing
-arts groups, as they take to the stage to engage, excite and captivate
-your senses. With the eclectic ensemble of activities staged across various
-art forms, there is something for everyone to enjoy!</p>
+<p>The <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong> proudly
+presents this month-long festival, happening from <strong>28 Oct to 30 Nov 2024</strong>.
+Look forward to an enthralling line-up of events featuring the very best
+of TP’s performing arts groups, as they take to the stage to engage, excite
+and captivate your senses. With the eclectic ensemble of activities staged
+across various art forms, there is something for everyone to enjoy!</p>
 <p></p>
 </td>
 </tr>
