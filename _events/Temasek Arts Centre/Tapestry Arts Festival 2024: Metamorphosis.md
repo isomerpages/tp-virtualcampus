@@ -27,7 +27,7 @@ and keychains before the Festival ends. Check the link below to grab yours!</p>
 <p>Be part of the transformation as new visions take shape, possibilities
 unfold, and creativity thrives. See you at the <strong>Tapestry Arts Festival 2024: Metamorphosis</strong>!</p>
 <p>👀 For more information on the Festival and its events, check out the
-official website at: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://tapestryartsfestiv.wixsite.com/2024</a></strong>
+official website at: <strong><a href="https://tapestryartsfestiv.wixsite.com/2024" rel="noopener noreferrer nofollow" target="_blank">https://tapestryartsfestiv.wixsite.com/2024</a></strong>
 </p>
 <p>👉 Follow us on Instagram:&nbsp;<strong><a href="https://www.instagram.com/tapestryartsfest/" rel="noopener noreferrer nofollow" target="_blank">@tapestryartsfest</a></strong>
 </p>
