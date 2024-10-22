@@ -9,10 +9,10 @@ third_nav_title: Temasek Arts Centre
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/1920x1080px_Banner.png">
 </div>
-<p>The <strong>Temasek Arts Centre</strong> proudly presents this month-long
-festival, happening from <strong>28 Oct to 30 Nov 2024</strong>, showcasing
-the very best of TP’s performing arts groups as they come together to transform
-their creative ideas into reality!&nbsp;</p>
+<p>The <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong> proudly
+presents this month-long festival, happening from <strong>28 Oct to 30 Nov 2024</strong>,
+showcasing the very best of TP’s performing arts groups as they come together
+to transform their creative ideas into reality!&nbsp;</p>
 <p>A student-led initiative, “Tapestry” was launched in 2022 to provide a
 platform for artistic ownership and expression. This year’s theme,&nbsp;“<strong>Metamorphosis</strong>”,
 invites everyone to witness the collaborative and transformative power
