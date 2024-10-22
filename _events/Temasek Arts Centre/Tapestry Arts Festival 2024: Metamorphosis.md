@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Temasek Arts Centre
 ---
 <h3><strong>Tapestry Arts Festival 2024: Metamorphosis</strong></h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/1920x1080px_Banner.png">
+</div>
 <p>The <strong>Temasek Arts Centre</strong> proudly presents this month-long
 festival, happening from <strong>28 Oct to 29 Nov 2024</strong>, showcasing
 the very best of TP’s performing arts groups as they come together to transform
