@@ -39,35 +39,174 @@ official website at: <strong><a rel="noopener noreferrer nofollow" target="_blan
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Event</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Date / Time / Venue</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Performing Arts Groups</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Malay Dance Group Open Class: ‘Alunan Permulaan’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4 Nov 2024, 7pm to 9pm, Blk 26A-02-05, Studio 14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/keseniansianaktari/" rel="noopener noreferrer nofollow" target="_blank">Malay Dance Group</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Music Vox Outreach: ‘Believe! III’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6 Nov 2024, 5.30pm to 6.30pm, Black Box Theatre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/tpmusicvox" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Dance Group: Workshop (LIT 3.0)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 &amp; 8 Nov 2024 (Not open to public)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpindiandance" rel="noopener noreferrer nofollow" target="_blank">Indian Dance Group</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fusion Percussion: ‘Echoes of Harmony’ Concert</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Nov 2024, 8pm to 9pm, Blk 26B, Sports &amp; Arts Centre Foyer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/fusionpercussion" rel="noopener noreferrer nofollow" target="_blank">Fusion Percussion</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra Recital: ‘Harmony in Strings: The Time-Travelling Adventure’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Nov 2024, 7pm to 8pm, Black Box Theatre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpchineseorchestra" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance Ensemble: ‘Watcha Got’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Nov 2024, 9am to 5pm, Black Box Theatre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpdeofficial" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dikir Barat Workshop: ‘Jom Berdikir with TPDK!’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Nov 2024, 10am to 3.30pm (Not open to public)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpdikir" rel="noopener noreferrer nofollow" target="_blank">Dikir Barat</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Music Vox x Teatro: ‘Shredded Notes’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Nov 2024, 8pm to 9pm, Auditorium 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpmusicvox" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a> &amp;
+<a href="https://www.instagram.com/tpteatro/" rel="noopener noreferrer nofollow" target="_blank">Teatro</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chorale Annual Concert: ‘Evos XIII – Oasis’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 Nov 2024, 8pm to 9.30pm, Temasek Convention Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpchorale" rel="noopener noreferrer nofollow" target="_blank">Chorale</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance Ensemble Site-Specific Performance: ‘MOTIV’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 &amp; 23 Nov 2024, 7pm &amp; 8pm, Blk 28A, School of Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpdeofficial" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Band Annual Concert: ‘Avec L’Expression XIV: Intarsia'</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 Nov 2024, 3pm to 5pm, Auditorium 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/temasekpolyband" rel="noopener noreferrer nofollow" target="_blank">Band</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dance Ensemble Freshmen Competition: ‘OOMPH!’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 Nov 2024, 7pm to 8.40pm, Auditorium 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpdeofficial" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Salvo Drums Interactive Exhibition: ‘Drum Seasons: Salvo’s Legacy in Rhythm’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 &amp; 30 Nov 2024, 6pm to 9.30pm, Black Box Theatre (Open to public
+only on 28 Nov)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/tpsalvo/" rel="noopener noreferrer nofollow" target="_blank">Salvo Drums</a>
+</p>
 </td>
 </tr>
 </tbody>
