@@ -193,7 +193,7 @@ Adventure’</p>
 <p>Dance Ensemble Freshmen Competition: ‘OOMPH!’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Nov 2024, 7pm to 8.40pm, Auditorium 1</p>
+<p>29 Nov 2024, 7pm to 8.40pm, Auditorium 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.instagram.com/tpdeofficial" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>
