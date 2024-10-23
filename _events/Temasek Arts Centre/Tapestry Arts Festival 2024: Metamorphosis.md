@@ -144,7 +144,7 @@ Adventure’</p>
 <p>Music Vox x Teatro: ‘Shredded Notes’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Nov 2024, 8pm to 9pm, Auditorium 1</p>
+<p>18 Nov 2024, 8pm to 9pm, Auditorium 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.instagram.com/tpmusicvox" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a> &amp;
