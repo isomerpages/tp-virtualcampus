@@ -21,7 +21,7 @@ of the performing arts.&nbsp;</p>
 offering a captivating mix of concerts, masterclasses, workshops, and satellite
 performances. With such an eclectic array of activities spanning multiple
 art forms, there is something for everyone to enjoy!&nbsp;</p>
-<p>What’s more, limited edition Festival merchandise is now up for pre-order
+<p>What’s more, limited edition Festival merchandise will be up for pre-order
 on the official website, starting from 25 Oct 2024. Don’t miss out on snagging
 the exclusive T-shirts and keychains before the Festival ends. Check the
 link below to grab yours!</p>
