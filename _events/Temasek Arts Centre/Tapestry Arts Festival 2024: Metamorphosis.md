@@ -181,7 +181,7 @@ Adventure’</p>
 <p>Band Annual Concert: ‘Avec L’Expression XIV: Intarsia'</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 Nov 2024, 3pm to 5pm, Auditorium 1</p>
+<p>23 Nov 2024, 4pm to 6pm, Auditorium 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.instagram.com/temasekpolyband" rel="noopener noreferrer nofollow" target="_blank">Band</a>
