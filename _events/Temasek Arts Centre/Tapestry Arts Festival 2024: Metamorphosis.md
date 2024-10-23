@@ -205,8 +205,14 @@ Adventure’</p>
 <p>Salvo Drums Interactive Exhibition: ‘Drum Seasons: Salvo’s Legacy in Rhythm’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 &amp; 30 Nov 2024, 6pm to 9.30pm, Black Box Theatre (Open to public
-only on 28 Nov)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>28 Nov 2024, 6pm to 9.30pm, Black Box Theatre</p>
+</li>
+<li>
+<p>30 Nov 2024, 10am to 1pm, Black Box Theatre (Not open to public)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.instagram.com/tpsalvo/" rel="noopener noreferrer nofollow" target="_blank">Salvo Drums</a>
