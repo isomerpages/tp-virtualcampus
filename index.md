@@ -26,6 +26,28 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Campus Shutdown Exercise
+      subtitle: IMPORTANT ANNOUNCEMENT
+      id: infopic
+      description: Please be informed that the TP campus will be closed to all
+        visitors for an institutional-wide exercise from 29 Oct 2024 (2pm) to 1
+        Nov 2024 (10pm).
+      button: FIND OUT MORE!
+      url: /alumni/highlights/
+      image: /images/tp_website_banner_2800x1200.jpg
+      alt: Image alt text
+  - infopic:
+      title: "Tapestry Arts Festival 2024: Metamorphosis"
+      subtitle: ANNUAL ARTS FESTIVAL
+      id: infopic
+      description: The Temasek Arts Centre proudly presents this month-long festival,
+        featuring an enthralling line-up of events that showcases the very best
+        of TP’s arts groups!
+      button: BE CAPTIVATED HERE!
+      url: /tapestry-arts-festival-2024-metamorphosis/
+      image: /images/Events/Temasek Arts Centre/1920x1080px_Banner.png
+      alt: Image alt text
+  - infopic:
       title: POL-ITE Games 2024
       subtitle: THE HEAT IS ON!
       id: infopic
