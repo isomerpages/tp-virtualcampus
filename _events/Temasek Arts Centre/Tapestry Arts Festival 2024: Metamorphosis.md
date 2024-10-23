@@ -104,7 +104,8 @@ official website at: <strong><a href="https://tapestryartsfestiv.wixsite.com/202
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra Recital: ‘Harmony in Strings: The Time-Travelling Adventure’</p>
+<p>Chinese Orchestra Recital: ‘Harmony in Strings: The Time-Travelling Music
+Adventure’</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Nov 2024, 7pm to 8pm, Black Box Theatre</p>
