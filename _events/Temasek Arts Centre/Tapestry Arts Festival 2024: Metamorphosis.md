@@ -132,7 +132,7 @@ Adventure’</p>
 <p>Dikir Barat Workshop: ‘Jom Berdikir with TPDK!’</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 Nov 2024, 10am to 3.30pm (Not open to public)</p>
+<p>16 Nov 2024, 10am to 3pm (Not open to public)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.instagram.com/tpdikir" rel="noopener noreferrer nofollow" target="_blank">Dikir Barat</a>
