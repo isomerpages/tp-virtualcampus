@@ -117,7 +117,7 @@ Adventure’</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance Ensemble: ‘Watcha Got’</p>
+<p>Dance Ensemble: ‘WatchaGot!’</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16 Nov 2024, 9am to 5pm, Black Box Theatre</p>
