@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://virtualcampus.tp.edu.sg/events/clubs/tp-walk-for-rice/" rel="noopener nofollow" target="_blank">TP Walk for Rice</a></strong>
+<p><strong><a href="/events/clubs/tp-walk-for-rice/" rel="noopener nofollow" target="_blank">TP Walk for Rice</a></strong>
 </p>
 <p></p>
 <p>This November, we would like to invite you to lace up your shoes in support
