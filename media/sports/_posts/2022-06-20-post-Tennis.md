@@ -25,7 +25,7 @@ image: ""
                 </ul>
             <p></p>
             <p>
-               <b>CCA Staff Advisor:</b> <a href="mailto:Pang_Seng_Hui@tp.edu.sg">Ms Pang Seng Hui</a><br>
+               <b>CCA Staff Advisor:</b> <a href="mailto:Jane_YANG@tp.edu.sg">Ms Jane Yang</a><br>
                <br>
                CCA <a href="https://www.instagram.com/tp_tennis">Instagram</a>
             </p>
