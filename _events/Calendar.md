@@ -21,7 +21,15 @@ variant: tiptap
 <p><strong><a href="https://virtualcampus.tp.edu.sg/events/clubs/tp-walk-for-rice/" rel="noopener nofollow" target="_blank">TP Walk for Rice</a></strong>
 </p>
 <p></p>
+<p>This November, we would like to invite you to lace up your shoes in support
+of the <strong>TP Walk for Rice</strong>! Back bigger and better this year,
+this is not just a walk – it is your chance to make a real difference.
+Transform every <strong>300m</strong> you walk into <strong>three bowls of grains</strong> for
+vulnerable families residing in the South East District, courtesy of the
+FairPrice Foundation!</p>
 <p></p>
+<p>Ready to step up and join this meaningful cause? Check out the link above
+to see how you can contribute!</p>
 </td>
 </tr>
 <tr>
