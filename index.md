@@ -26,12 +26,15 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: TP Walk for Rice
+      subtitle: TRANSFORM STEPS INTO MEALS!
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Our annual community initiative is back – bigger and better! Learn
+        how you can step up to make a difference and win attractive prizes at
+        the same time!
+      button: JOIN THE CAUSE!
       alt: Image alt text
+      url: /clubs/tp-walk-for-rice/
   - infopic:
       title: Campus Shutdown Exercise
       subtitle: IMPORTANT ANNOUNCEMENT
