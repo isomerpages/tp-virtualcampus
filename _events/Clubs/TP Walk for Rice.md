@@ -78,8 +78,8 @@ November. See you there!</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learn more about how you can contribute towards WFR and get a shot at
-winning awesome prizes!</p>
+<p>Learn about how you can contribute to WFR and get a shot at winning awesome
+prizes!</p>
 </td>
 </tr>
 <tr>
