@@ -45,7 +45,7 @@ November. See you there!</p>
 <p>Dates / Venue</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Remarks</p>
+<p>Details</p>
 </th>
 </tr>
 <tr>
