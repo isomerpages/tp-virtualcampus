@@ -29,6 +29,7 @@ featuring awesome prizes like Apple HomePod Mini, digital cameras, and
 more!</p>
 <p>Ready to step up and join this meaningful cause? Mark your calendar this
 November. See you there!</p>
+<h4><strong>WFR - Event Line-up</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,9 +65,17 @@ November. See you there!</p>
 <p>Physical Booth</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>11-12 Nov 2024</p>
+</li>
+<li>
 <p>11.30am to 2.30pm</p>
+</li>
+<li>
 <p>The Plaza (Outside TP Library)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learn more about how you can contribute towards WFR and get a shot at
@@ -78,12 +87,20 @@ winning awesome prizes!</p>
 <p>Physical Event</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>18-20 Nov 2024</p>
+</li>
+<li>
 <p>9-11am &amp; 2.30-8pm</p>
+</li>
+<li>
 <p>Triangular Gardens&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Registration: </strong><a href="https://for.edu.sg/tpwfr2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpwfr2024</a> 
+<p><strong>Registration: </strong><a href="https://for.edu.sg/tpwfr2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpwfr2024</a>
 </p>
 <p></p>
 <p><em>(Note: You may register onsite too.)</em>
