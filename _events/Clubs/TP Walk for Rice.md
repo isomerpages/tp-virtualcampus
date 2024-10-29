@@ -27,9 +27,9 @@ Music Vox and be moved by <strong>live performances</strong> by our community
 partners on the final day. Don’t miss the <strong>grand lucky draw</strong> too,
 featuring awesome prizes like Apple HomePod Mini, digital cameras, and
 more!</p>
+<h4><strong>WFR - Event Line-up</strong></h4>
 <p>Ready to step up and join this meaningful cause? Mark your calendar this
 November. See you there!</p>
-<h4><strong>WFR - Event Line-up</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
