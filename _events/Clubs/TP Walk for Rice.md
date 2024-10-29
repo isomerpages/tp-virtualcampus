@@ -30,7 +30,7 @@ more!</p>
 <p>Ready to step up and join this meaningful cause? Mark your calendar this
 November. See you there!</p>
 <p><strong>⭐ Virtual Event: </strong>21 Oct to 29 Nov 2024</p>
-<p>👉 <strong>Submission (Virtual Event):</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpwfr2024vitual</a>
+<p>👉 <strong>Submission (Virtual Event):</strong>  <a href="https://for.edu.sg/tpwfr2024vitual" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpwfr2024vitual</a>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -42,7 +42,7 @@ at winning awesome prizes!</p>
 </p>
 <p><strong>⭐ Physical Event: </strong>18-20 Nov 2024 | 9-11am &amp; 2.30-8pm
 | Triangular Gardens&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>👉 <strong>Registration (Physical Event):</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpwfr2024</a>  <em>(Note: You may register onsite too.)</em>
+<p>👉 <strong>Registration (Physical Event):</strong>  <a href="https://for.edu.sg/tpwfr2024" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpwfr2024</a>  <em>(Note: You may register onsite too.)</em>
 </p>
 <p></p>
 <p><strong>Follow the buzz on Instagram below! 👇</strong>
