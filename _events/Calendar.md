@@ -13,6 +13,19 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p><em>18-20 November 2024</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://virtualcampus.tp.edu.sg/events/clubs/tp-walk-for-rice/" rel="noopener nofollow" target="_blank">TP Walk for Rice</a></strong>
+</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/1920x1080px_Banner.png">
 </div>
