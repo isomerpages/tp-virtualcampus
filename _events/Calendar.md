@@ -13,7 +13,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Clubs/TP___Walk_for_Rice_Banner_2_1920px_x_1080px.jpg">
+</div>
 <p><em>18-20 November 2024</em>
 </p>
 </td>
