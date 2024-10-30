@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: TP Walk for Rice
+      subtitle: TRANSFORM STEPS INTO MEALS!
+      id: infopic
+      description: Our annual community initiative is back – bigger and better! Learn
+        how you can step up to make a difference and win attractive prizes at
+        the same time!
+      button: JOIN THE CAUSE!
+      alt: Image alt text
+      url: /events/clubs/tp-walk-for-rice/
+      image: /images/Events/Clubs/TP___Walk_for_Rice_Banner_2_1920px_x_1080px.jpg
+  - infopic:
       title: Campus Shutdown Exercise
       subtitle: IMPORTANT ANNOUNCEMENT
       id: infopic
@@ -79,27 +90,6 @@ sections:
       url: /cca-assistance-fund/
       alt: Image alt text
       image: /images/Events/Highlights/CCA_Banner_1920_X_1080px_01_01.jpg
-  - infopic:
-      title: TP National Day Celebrations 2024
-      subtitle: INGITE THE FESTIVITIES!
-      id: infopic
-      description: Muster up all your patriotic fervour and celebrate Singapore’s 59th
-        birthday through an exciting host of activities, happening right on
-        campus!
-      button: EXPLORE THE BUZZ!
-      url: /tp-national-day-celebrations-2024/
-      image: /images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg
-      alt: Image alt text
-  - infopic:
-      title: TP National Day Concert 2024
-      subtitle: TOGETHER, AS ONE UNITED PEOPLE
-      id: infopic
-      description: Be a guest at TP’s biggest party, where an exciting line-up of
-        enthralling performances, rousing acts and awesome games await you!
-      button: CATCH THE CONCERT!
-      url: /tp-national-day-concert-2024/
-      image: /images/Events/Highlights/VC__BUS_Video_Wall___TP_Oei__With_QR_Code_.png
-      alt: Image alt text
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
