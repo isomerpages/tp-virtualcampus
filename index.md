@@ -35,6 +35,7 @@ sections:
       button: JOIN THE CAUSE!
       alt: Image alt text
       url: /events/clubs/tp-walk-for-rice/
+      image: /images/Events/Clubs/TP___Walk_for_Rice_Banner_2_1920px_x_1080px.jpg
   - infopic:
       title: Campus Shutdown Exercise
       subtitle: IMPORTANT ANNOUNCEMENT
