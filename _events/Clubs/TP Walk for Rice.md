@@ -6,7 +6,9 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h3><strong>TP Walk for Rice</strong></h3>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Clubs/TP___Walk_for_Rice_Banner_2_1920px_x_1080px.jpg">
+</div>
 <p>Hey #TPFAM! Get ready to lace up your shoes for the <strong>TP Walk for Rice (WFR)</strong>,
 proudly presented by the P4 Clubs in support of the South East Community
 Development Council’s annual campaign!</p>
@@ -109,7 +111,7 @@ prizes!</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Follow the buzz on Instagram below! 👇</strong>
+<p><strong>Follow the buzz on Instagram below! </strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
