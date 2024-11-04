@@ -226,13 +226,13 @@ the <strong>higher education government bursary</strong>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Qualifying Period: </strong>Events/competitions should happen
-between <strong>15 April to 15 July</strong>.</p>
+between <strong>15 April to 15 July 2024</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>8-15 August</p>
+<p><strong>Application Period: </strong>8-15 August 2024</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-November</p>
+<p><strong>Disbursement Period:</strong> Around end-November 2024</p>
 </li>
 </ul>
 <p></p>
@@ -242,13 +242,13 @@ between <strong>15 April to 15 July</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Qualifying Period: </strong>Events/competitions should happen
-between <strong>16 July to 31 October</strong>.</p>
+between <strong>15 July to 10 November 2024</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>8-15 November</p>
+<p><strong>Application Period: </strong>14-24 November 2024</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-February</p>
+<p><strong>Disbursement Period:</strong> Around end-February 2024</p>
 </li>
 </ul>
 </td>
