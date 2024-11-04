@@ -37,17 +37,6 @@ sections:
       url: /events/clubs/tp-walk-for-rice/
       image: /images/Events/Clubs/TP___Walk_for_Rice_Banner_2_1920px_x_1080px.jpg
   - infopic:
-      title: Campus Shutdown Exercise
-      subtitle: IMPORTANT ANNOUNCEMENT
-      id: infopic
-      description: Please be informed that the TP campus will be closed to all
-        visitors for an institutional-wide exercise from 29 Oct 2024 (2pm) to 1
-        Nov 2024 (10pm).
-      button: FIND OUT MORE!
-      url: /alumni/highlights/
-      image: /images/tp_website_banner_2800x1200.jpg
-      alt: Image alt text
-  - infopic:
       title: "Tapestry Arts Festival 2024: Metamorphosis"
       subtitle: ANNUAL ARTS FESTIVAL
       id: infopic
