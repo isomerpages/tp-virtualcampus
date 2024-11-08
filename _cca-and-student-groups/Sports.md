@@ -14,6 +14,8 @@ is also an ideal backyard with ample green and blue spaces for our students
 to be engaged in trail running or water sports activities. Sports in TP
 will surely provide plenty of excitement and spectacle for athletes, fans
 and supporters.</p>
+<p><em>(Note: Successful passing of trials is necessary for acceptance into the sports CCAs. You can register your interest at the annual </em><strong><em>CCA Fair</em></strong><em>, scheduled for end-April. Alternatively, please reach out to the relevant Staff Advisor to express your interest and learn more about how to join your desired CCA!)</em>
+</p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
