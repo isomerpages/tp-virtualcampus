@@ -15,10 +15,7 @@ sporting excellence! Find out who we are and our areas of interest / specialisat
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff-team-images/Raymond_Loh.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto:Raymond_Loh@tp.edu.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff-team-images/Raymond_Loh.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
