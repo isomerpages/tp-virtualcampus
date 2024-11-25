@@ -7,49 +7,27 @@ third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2024/25)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_LITE_EDM_1920_X_1080px_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games__Medal_Tele__2024_1920_X_1080.jpg">
 </div>
-<p>The heat is on! Get ready for some adrenaline-pumping action as we cheer
-for our <strong>Team Temasek </strong>athletes, who are standing tall, playing
-hard, and giving their all for TP in the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
-<p>This season, let’s rally behind our sporting warriors as they vie for
-glory at the POL-ITE Games 2024. Your cheers will fuel their aspirations,
-your passion will uplift their spirits, and together we will forge a path
-towards pride and excellence in this annual showdown!</p>
-<p>Keen to soak up the electrifying atmosphere in person? Come support Team
-Temasek and witness the thrilling action live in TP and across various
-venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
-here for updates on the epic battles and exciting matchups for the different
-sports in the coming weeks.</p>
-<p>One spirit, one dream, one team. Let’s unite and make TP truly a home
-of the champions!</p>
+<p>Heartiest congratulations to all our student-athletes, who have flown
+the TP flag high with their spirited performances at the <strong>Polytechnic-ITE (POL-ITE) Games 2024</strong>!</p>
+<p>Throughout the challenging but rewarding season, Team Temasek recorded
+a commendable haul of&nbsp;<strong>12 Gold</strong>,<strong> 11 Silver </strong>and<strong> 2 Bronze</strong> medals.
+Well done to our sporting warriors for their teamwork, resilience and fortitude!
+Huge props to our dedicated coaches and staff advisors for their expert
+guidance and unwavering commitment too, as well as fervent supporters from
+our TP family for their strong backing all the way!</p>
+<p>The POL-ITE Games 2024 was also a meaningful season, uniting our diverse
+student-athletes on an inspiring journey to represent TP in their respective
+sports. Here are some highlights of this season:</p>
+<p>[Insert highlights here]</p>
+<p>We are so, so proud of all of you. Keep reaching for the stars!</p>
+<p><strong><em>(Get ready! Team Temasek is gearing up for the annual Institute-Varsity-Polytechnic Games in January 2025, where we will be challenging the tertiary institutions across a range of sports. Don’t miss the action – stay tuned to this space for more details!)</em></strong>
+</p>
 <hr>
-<h4><strong>Catch the Exhilarating Sporting Action in TP!</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024_Updated.jpg">
-</div>
-<p>Hey #TPFAM! Are you ready for an adrenaline-fueled experience right here
-on campus?</p>
-<p>Get set to rally behind our <strong>Team Temasek</strong> athletes as they
-rise to the occasion, compete with their fiercest spirit, and pour their
-hearts into every moment at the annual <strong>POL-ITE Games</strong>! We
-invite you to unleash your boundless energy, bring your loudest cheers,
-and join us for the electrifying live action at selected POL-ITE matches
-(<strong>Soccer</strong> and <strong>Volleyball</strong>) – all happening
-in TP!</p>
-<p><strong>Here are some exciting highlights that you can look forward to:</strong>
-</p>
-<p>✨ Earn SEAL points just by joining in the fun!</p>
-<p>✨ Indulge in free snacks and live food stations!</p>
-<p>✨ Catch a spectacular half-time show by TP’s arts groups!</p>
-<p><em>(Note: Live food stations and half-time entertainment are available at the Soccer matches only.)</em>
-</p>
-<p>Let's make some noise and bring it home for TP!</p>
-<p><strong><u>Match Schedule</u></strong>
-</p>
-<table style="minWidth: 100px">
+<h4><strong>POL-ITE Games 2024 - Medal Tally</strong></h4>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -57,83 +35,145 @@ in TP!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Date</strong>
-</p>
+<p>Gold</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time</p>
+<p>Silver</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Match</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
+<p>Bronze</p>
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>28 Oct 2024</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.15pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soccer (W) / TP vs. RP</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Blk 29, Sports Complex</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.15pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soccer (M) / TP vs. RP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>6 Nov 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Volleyball (W) / TP vs. NYP</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Blk 26A, Sports Hall</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.45pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball (M) / TP vs. NYP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>13 Nov 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Volleyball (W) / TP vs. SP</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Blk 26A, Sports Hall</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.45pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball (M) / TP vs. SP</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
