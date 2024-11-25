@@ -6,9 +6,7 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2024/25)</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games__Medal_Tele__2024_1920_X_1080.jpg">
-</div>
+<p></p>
 <p>Heartiest congratulations to all our student-athletes, who have flown
 the TP flag high with their spirited performances at the <strong>Polytechnic-ITE (POL-ITE) Games 2024</strong>!</p>
 <p>Throughout the challenging but rewarding season, Team Temasek recorded
@@ -22,28 +20,27 @@ student-athletes on an inspiring journey to represent TP in their respective
 sports. Here are some highlights of this season:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Tops All the Way: </strong>Shoutout to<strong> Rugby</strong> and <strong>Touch Football</strong> for
-maintaining an undefeated streak throughout their POL-ITE campaigns!</p>
+<p>We commend the <strong>Rugby</strong> and <strong>Touch Football</strong> teams
+for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
 </li>
 <li>
-<p><strong>Gold Glitters Again:</strong> Hats off to <strong>Dragon Boat (Men, Women &amp; Mixed)</strong>, <strong>Swimming (Men)</strong>, <strong>Taekwondo</strong>, <strong>Touch Football</strong>,
-and <strong>Volleyball (Men)</strong> for successfully defending their championship
-titles!</p>
+<p>Congratulations to the <strong>Dragon Boat (Men, Women &amp; Mixed)</strong>, <strong>Swimming (Men)</strong>, <strong>Taekwondo</strong>, <strong>Touch Football</strong>,
+and <strong>Volleyball (Men)</strong> teams for successfully defending their
+championship titles.</p>
 </li>
 <li>
-<p><strong>Long-awaited Victory:</strong> Kudos to <strong>Tennis (Women)</strong> for
-capturing the championship for the first time in 12 years!</p>
+<p>We applaud the <strong>Rugby</strong>, <strong>Swimming (Women)</strong> and <strong>Hockey (Men)</strong> teams
+for reclaiming the top spot after last year’s silver finish, and the <strong>Hockey (Women)</strong> team
+for their proud return to the podium after an absence.</p>
 </li>
 <li>
-<p><strong>Staging Inspiring Comebacks:</strong> Applause for <strong>Rugby</strong>, <strong>Swimming (Women)</strong> and <strong>Hockey (Men)</strong>,
-who are<strong> </strong>are back at the top after last year’s silver finish;
-while <strong>Hockey (Women)</strong> also made a proud return to the podium
-after a hiatus!</p>
+<p>A special mention to the <strong>Tennis (Women)</strong> team for capturing
+the championship for the first time in 12 years.</p>
 </li>
 <li>
-<p><strong>Champs in a Row: </strong>We celebrate the teams who have achieved
-consecutive years of championship (see table below), showcasing many years
-of heartfelt endeavour and unwavering discipline!</p>
+<p>Lastly, we celebrate the teams that have achieved <strong>consecutive POL-ITE championship victories</strong>,
+demonstrating years of dedicated effort and unwavering discipline. (Please
+see the table below for details.)</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
