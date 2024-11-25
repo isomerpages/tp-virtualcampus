@@ -37,8 +37,8 @@ capturing the championship for the first time in 12 years!</p>
 <li>
 <p><strong>Staging Inspiring Comebacks:</strong> Applause for <strong>Rugby</strong>, <strong>Swimming (Women)</strong> and <strong>Hockey (Men)</strong>,
 who are<strong> </strong>are back at the top after last year’s silver finish;
-while <strong>Hockey (Women)</strong> made a proud return to the podium after
-a hiatus!</p>
+while <strong>Hockey (Women)</strong> also made a proud return to the podium
+after a hiatus!</p>
 </li>
 <li>
 <p><strong>Champs in a Row: </strong>We celebrate the teams who have achieved
