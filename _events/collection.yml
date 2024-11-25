@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Calendar.md
-      - Student Happenings.md
       - Highlights/.keep
       - Highlights/CCA Assistance Fund.md
       - Highlights/TP CCA Scholarships 2024.md
