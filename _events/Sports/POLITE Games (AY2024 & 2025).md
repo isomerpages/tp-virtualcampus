@@ -35,12 +35,13 @@ titles!</p>
 capturing the championship for the first time in 12 years!</p>
 </li>
 <li>
-<p><strong>Staging Inspiring Comebacks:</strong>  <strong>Rugby</strong>, <strong>Swimming (Women)</strong> and <strong>Hockey (Men) </strong>are
-back at the top after last year’s silver finish, while <strong>Hockey (Women)</strong> made
-a proud return to the podium after a hiatus!</p>
+<p><strong>Staging Inspiring Comebacks:</strong> Applause for <strong>Rugby</strong>, <strong>Swimming (Women)</strong> and <strong>Hockey (Men)</strong>,
+who are<strong> </strong>are back at the top after last year’s silver finish;
+while <strong>Hockey (Women)</strong> made a proud return to the podium after
+a hiatus!</p>
 </li>
 <li>
-<p><strong>Champs in a Row: </strong>We celebrate the teams that have achieved
+<p><strong>Champs in a Row: </strong>We celebrate the teams who have achieved
 consecutive years of championship (see table below), showcasing many years
 of heartfelt endeavour and unwavering discipline!</p>
 </li>
