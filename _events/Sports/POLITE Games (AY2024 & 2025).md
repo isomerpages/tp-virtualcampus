@@ -872,7 +872,3 @@ see the table below for details.)</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games__Medal_Tele__2024_1920_X_1080.jpg">
-</div>
-<p></p>
