@@ -20,7 +20,102 @@ our TP family for their strong backing all the way!</p>
 <p>The POL-ITE Games 2024 was also a meaningful season, uniting our diverse
 student-athletes on an inspiring journey to represent TP in their respective
 sports. Here are some highlights of this season:</p>
-<p>[Insert highlights here]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Tops All the Way: </strong>Shoutout to<strong> Rugby</strong> and <strong>Touch Football</strong> for
+maintaining an undefeated streak throughout their POL-ITE campaigns!</p>
+</li>
+<li>
+<p><strong>Gold Glitters Again:</strong> Hats off to <strong>Dragon Boat (Men, Women &amp; Mixed)</strong>, <strong>Swimming (Men)</strong>, <strong>Taekwondo</strong>, <strong>Touch Football</strong>,
+and <strong>Volleyball (Men)</strong> for successfully defending their championship
+titles!</p>
+</li>
+<li>
+<p><strong>Long-awaited Victory:</strong> Kudos to <strong>Tennis (Women)</strong> for
+capturing the championship for the first time in 12 years!</p>
+</li>
+<li>
+<p><strong>Staging Inspiring Comebacks:</strong>  <strong>Rugby</strong>, <strong>Swimming (Women)</strong> and <strong>Hockey (Men) </strong>are
+back at the top after last year’s silver finish, while <strong>Hockey (Women)</strong> made
+a proud return to the podium after a hiatus!</p>
+</li>
+<li>
+<p><strong>Champs in a Row: </strong>We celebrate the teams that have achieved
+consecutive years of championship (see table below), showcasing many years
+of heartfelt endeavour and unwavering discipline!</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Team</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Number of Years of Championship</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Boat (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 (since 2017)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Boat (Women)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 (since 2021)^</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Boat (Mixed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 (since 2017)^</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swimming (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 (since 2017)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 (since inception)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 (since 2013)*</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*No games in 2020 due to COVID-19.</em>
+</p>
+<p><em>^No games in 2020 &amp; 2021 due to COVID-19.</em>
+</p>
+<p></p>
 <p>We are so, so proud of all of you. Keep reaching for the stars!</p>
 <p><strong><em>(Get ready! Team Temasek is gearing up for the annual Institute-Varsity-Polytechnic Games in January 2025, where we will be challenging the tertiary institutions across a range of sports. Don’t miss the action – stay tuned to this space for more details!)</em></strong>
 </p>
