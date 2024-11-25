@@ -30,7 +30,7 @@ sections:
       subtitle: HUGE CHEERS FOR TEAM TEMASEK!
       id: infopic
       description: The curtain has fallen on these annual games, and what a thrilling
-        season it has been been! Dive into Team Temasek's journey to sporting
+        season it has been been. Dive into Team Temasek's journey to sporting
         glory here!
       button: RELIVE THE EXCITEMENT!
       url: /polite-games-2024/
