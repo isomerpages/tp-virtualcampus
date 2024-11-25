@@ -46,10 +46,32 @@ sports. Here are some highlights of this season:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dragon Boat (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10-Pin Bowling (Women)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hockey (Women)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Boat (Women)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Archery (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floorball (Men)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Boat (Mixed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton (Women)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -57,21 +79,10 @@ sports. Here are some highlights of this season:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hockey (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Basketball (Women)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -79,21 +90,10 @@ sports. Here are some highlights of this season:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kayak Racing (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Kayak Racing (Women)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -101,21 +101,10 @@ sports. Here are some highlights of this season:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Soccer (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,21 +112,10 @@ sports. Here are some highlights of this season:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Swimming (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Table Tennis (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -145,21 +123,10 @@ sports. Here are some highlights of this season:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Swimming (Women)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Tennis (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -167,7 +134,40 @@ sports. Here are some highlights of this season:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field (men)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tennis (Women)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ultimate Frisbee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Touch Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Women)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
