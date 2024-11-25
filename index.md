@@ -27,7 +27,7 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
       title: POL-ITE Games 2024
-      subtitle: HUGE CHEERS TO TEAM TEMASEK!
+      subtitle: HUGE CHEERS FOR TEAM TEMASEK!
       id: infopic
       description: The curtain has fallen on these annual games, and what a
         transformative season it has been been! Dive into Team Temasek's journey
