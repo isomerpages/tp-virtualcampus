@@ -74,7 +74,7 @@ of heartfelt endeavour and unwavering discipline!</p>
 <p>Dragon Boat (Women)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 (since 2021)^</p>
+<p>4 (since 2021)*</p>
 </td>
 </tr>
 <tr>
