@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: POL-ITE Games 2024
+      subtitle: HUGE CHEERS TO TEAM TEMASEK!
+      id: infopic
+      description: The curtain has fallen on these annual games, and what a
+        transformative season it has been been! Dive into Team Temasek's journey
+        to sporting glory here!
+      button: RELIVE THE EXCITEMENT!
+      url: /polite-games-2024/
+      alt: Image alt text
+      image: /images/Events/Sports/POL_ITE_Games__Medal_Tele__2024_1920_X_1080.jpg
+  - infopic:
       title: TP Walk for Rice
       subtitle: TRANSFORM STEPS INTO MEALS!
       id: infopic
@@ -47,17 +58,6 @@ sections:
       url: /tapestry-arts-festival-2024-metamorphosis/
       image: /images/Events/Temasek Arts Centre/1920x1080px_Banner.png
       alt: Image alt text
-  - infopic:
-      title: POL-ITE Games 2024
-      subtitle: THE HEAT IS ON!
-      id: infopic
-      description: Feel the excitement! Join us in cheering on Team Temasek as our
-        athletes contest for sporting glory at these thrilling annual games,
-        happening right here in TP!
-      button: DISCOVER THE ACTION!
-      url: /polite-games-2024/
-      alt: Image alt text
-      image: /images/Sports/POL_ITE_Games_2024_Updated.jpg
   - infopic:
       title: TP CCA Scholarships 2024
       subtitle: GIVE YOUR DREAMS A CHANCE!
