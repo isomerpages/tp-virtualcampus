@@ -59,27 +59,6 @@ sections:
       image: /images/Events/Temasek Arts Centre/1920x1080px_Banner.png
       alt: Image alt text
   - infopic:
-      title: TP CCA Scholarships 2024
-      subtitle: GIVE YOUR DREAMS A CHANCE!
-      id: infopic
-      description: Unlock your potential and pursue your aspirations. Take the first
-        step towards a brighter future with financial support provided by the TP
-        CCA Scholarships!
-      button: CHASE YOUR PASSION!
-      url: /tp-cca-scholarships-2024/
-      image: /images/Events/Highlights/TP_CCA_Scholarship_2024.jpg
-      alt: Image alt text
-  - infopic:
-      title: CCA Assistance Fund
-      subtitle: KEEP YOUR DREAMS ALIVE!
-      id: infopic
-      description: Don’t let financial constraints hold you back. Tap on the CCA
-        Assistance Fund to pursue your passion. Apply for it today!
-      button: FIND OUT HERE!
-      url: /cca-assistance-fund/
-      alt: Image alt text
-      image: /images/Events/Highlights/CCA_Banner_1920_X_1080px_01_01.jpg
-  - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
       image: /images/Contact-Shoutout.jpg
