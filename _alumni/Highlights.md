@@ -4,15 +4,6 @@ permalink: /alumni/highlights/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Announcement</strong></h3>
-<p>Please be informed that the TP campus will be closed to all visitors (including
-alumni) for an institutional-wide exercise from <strong><u>29 Oct 2024 (2pm) to 1 Nov 2024 (10pm)</u></strong>.
-All facilities on campus will also not be available for alumni use. We
-apologise for any inconvenience caused.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tp_website_banner_2800x1200.jpg">
-</div>
-<hr>
 <h3><strong>Stay Connected With Us</strong></h3>
 <p>Once in TP, always in TP! Welcome to the TP Alumni Family! As a TP alumnus,
 you are part of our valued family of more than 100,000 graduates from all
