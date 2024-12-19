@@ -77,26 +77,6 @@ hard, and giving their all for TP in the annual <strong>Polytechnic-ITE (POL-ITE
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_CCA_Scholarship_2024.jpg">
-</div>
-<p><em>September 2024</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/tp-cca-scholarships-2024/" rel="noopener nofollow" target="_blank">TP CCA Scholarships 2024</a></strong>
-</p>
-<p></p>
-<p>Unlock your potential with the <strong>TP CCA Scholarships 2024</strong>!
-Whether you excel in the arts, sports or leadership domain, this is your
-chance to be recognised and supported. Apply by <strong>20 September 2024</strong> to
-pursue your aspirations and make your CCA journey even more rewarding.
-Don’t miss out!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg">
 </div>
 <p><em>August 2024</em>
