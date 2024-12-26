@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Institute-Varsity-Polytechnic Games (AY2024/25)
+      subtitle: THE HEAT IS ON!
+      id: infopic
+      description: Feel the excitement! Join us in cheering on our Team Temasek
+        athletes as they contest for sporting glory at the annual IVP Games!
+      button: DISCOVER THE ACTION!
+      url: /ivp24/
+      image: /images/Sports/IVP_EDM_1920_X_1080.jpg
+      alt: Image alt text
+  - infopic:
       title: POL-ITE Games 2024
       subtitle: HUGE CHEERS FOR TEAM TEMASEK!
       id: infopic
