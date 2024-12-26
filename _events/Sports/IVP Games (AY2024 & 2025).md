@@ -30,7 +30,26 @@ of the champions!</p>
 <summary><strong>10-Pin Bowling (Men &amp; Women)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_Games___10_Pin_Bowling__Men_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_Games___10_Pin_Bowling__Women_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
