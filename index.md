@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Institute-Varsity-Polytechnic Games (AY2024/25)
+      subtitle: THE HEAT IS ON!
+      id: infopic
+      description: Feel the excitement! Join us in cheering on our Team Temasek
+        athletes as they contest for sporting glory at the annual IVP Games!
+      button: DISCOVER THE ACTION!
+      url: /ivp-games-2025/
+      image: /images/Sports/IVP_EDM_1920_X_1080.jpg
+      alt: Image alt text
+  - infopic:
       title: POL-ITE Games 2024
       subtitle: HUGE CHEERS FOR TEAM TEMASEK!
       id: infopic
@@ -58,27 +68,6 @@ sections:
       url: /tapestry-arts-festival-2024-metamorphosis/
       image: /images/Events/Temasek Arts Centre/1920x1080px_Banner.png
       alt: Image alt text
-  - infopic:
-      title: TP CCA Scholarships 2024
-      subtitle: GIVE YOUR DREAMS A CHANCE!
-      id: infopic
-      description: Unlock your potential and pursue your aspirations. Take the first
-        step towards a brighter future with financial support provided by the TP
-        CCA Scholarships!
-      button: CHASE YOUR PASSION!
-      url: /tp-cca-scholarships-2024/
-      image: /images/Events/Highlights/TP_CCA_Scholarship_2024.jpg
-      alt: Image alt text
-  - infopic:
-      title: CCA Assistance Fund
-      subtitle: KEEP YOUR DREAMS ALIVE!
-      id: infopic
-      description: Don’t let financial constraints hold you back. Tap on the CCA
-        Assistance Fund to pursue your passion. Apply for it today!
-      button: FIND OUT HERE!
-      url: /cca-assistance-fund/
-      alt: Image alt text
-      image: /images/Events/Highlights/CCA_Banner_1920_X_1080px_01_01.jpg
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
