@@ -32,7 +32,7 @@ sections:
       description: Feel the excitement! Join us in cheering on our Team Temasek
         athletes as they contest for sporting glory at the annual IVP Games!
       button: DISCOVER THE ACTION!
-      url: /ivp24/
+      url: /ivp-games-2024/
       image: /images/Sports/IVP_EDM_1920_X_1080.jpg
       alt: Image alt text
   - infopic:
