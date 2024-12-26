@@ -24,9 +24,11 @@ sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
 <hr>
+<h4><strong>List of IVP Sports Participated by TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>10-Pin Bowling</summary>
+<summary><strong>10-Pin Bowling (Men &amp; Women)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
