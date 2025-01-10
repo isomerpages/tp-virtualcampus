@@ -14,6 +14,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_EDM_1920_X_1080.jpg">
+</div>
+<p><em>January to February 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/ivp-games-2025/" rel="noopener nofollow" target="_blank">Institute-Varsity-Polytechnic Games (AY2024/25)</a></strong>
+</p>
+<p></p>
+<p>The heat is on! This season, get ready for some adrenaline-pumping action
+as we cheer for our Team Temasek athletes who are standing tall, playing
+hard, and giving their all for TP in the annual <strong>Institute-Varsity-Polytechnic Games</strong>!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Clubs/TP___Walk_for_Rice_Banner_2_1920px_x_1080px.jpg">
 </div>
 <p><em>18-20 November 2024</em>
@@ -53,24 +71,6 @@ Look forward to an enthralling line-up of events featuring the very best
 of TP’s performing arts groups, as they take to the stage to engage, excite
 and captivate your senses. With the eclectic ensemble of activities staged
 across various art forms, there is something for everyone to enjoy!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024_Updated.jpg">
-</div>
-<p><em>October to November 2024</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/polite-games-2024/" rel="noopener nofollow" target="_blank">Polytechnic-ITE Games (AY2024/25)</a></strong>
-</p>
-<p></p>
-<p>The heat is on! This season, get ready for some adrenaline-pumping action
-as we cheer for our Team Temasek athletes who are standing tall, playing
-hard, and giving their all for TP in the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
 <p></p>
 </td>
 </tr>
