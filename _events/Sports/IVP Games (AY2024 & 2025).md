@@ -23,8 +23,7 @@ here for updates on the epic battles and exciting matchups for the different
 sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
-<p><strong><em>(Support Team Temasek at the IVP Games! Download the full fixtures </em></strong>
-<a href="/files/IVP_Games_Fixtures__AY2024_25_.pdf" rel="noopener nofollow" target="_blank">file</a><strong><em>here.)</em></strong>
+<p><strong><em>(Support Team Temasek at the IVP Games! Download the full fixtures <a href="/files/IVP_Games_Fixtures__AY2024_25_.pdf" rel="noopener nofollow" target="_blank">here</a>.)</em></strong>
 </p>
 <hr>
 <h4><strong>List of IVP Sports Participated by TP</strong></h4>
