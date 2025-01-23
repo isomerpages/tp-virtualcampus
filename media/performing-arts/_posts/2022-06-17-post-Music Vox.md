@@ -105,6 +105,38 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 </p>
 </li>
 </ul>
+<p></p>
+<h5>Newsletters</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://for.edu.sg/tpmvay2425term3" rel="noopener nofollow" target="_blank">AY2024/25 (Term 3)</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/tpmvay2425terms1and2" rel="noopener nofollow" target="_blank">AY2024/25 (Terms 1 &amp; 2)</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/tpmvay2324term2" rel="noopener nofollow" target="_blank">AY2023/24 (Term 2)</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/tpmvay2223term4" rel="noopener nofollow" target="_blank">AY2022/23 (Term 4)</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/tpmvay2223term3" rel="noopener nofollow" target="_blank">AY2022/23 (Term 3)</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/tpmvay2223term2" rel="noopener nofollow" target="_blank">AY2022/23 (Term 2)</a>
+</p>
+</li>
+<li>
+<p><a href="https://for.edu.sg/tpmvay2223term1" rel="noopener nofollow" target="_blank">AY2022/23 (Term 1)</a>
+</p>
+</li>
+</ul>
 <hr>
 <h3>Gallery</h3>
 <table style="minWidth: 50px">
