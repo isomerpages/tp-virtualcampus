@@ -105,6 +105,20 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 </p>
 </li>
 </ul>
+<p></p>
+<h5>Newletters</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/TPMV_Newsletter__AY2425_Term_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">AY2024/25 (Term 3)</a>
+</p>
+</li>
+<li>
+<p>AY2024/25 (Terms 1 &amp; 2)</p>
+</li>
+<li>
+<p>AY2023/24 (Term 2)</p>
+</li>
+</ul>
 <hr>
 <h3>Gallery</h3>
 <table style="minWidth: 50px">
