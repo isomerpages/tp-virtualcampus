@@ -121,10 +121,12 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 </p>
 </li>
 <li>
-<p>AY2022/23 (Term 4)</p>
+<p><a href="https://for.edu.sg/tpmvay2223term4" rel="noopener nofollow" target="_blank">AY2022/23 (Term 4)</a>
+</p>
 </li>
 <li>
-<p>AY2022/23 (Term 3)</p>
+<p><a href="https://for.edu.sg/tpmvay2223term3" rel="noopener nofollow" target="_blank">AY2022/23 (Term 3)</a>
+</p>
 </li>
 <li>
 <p><a href="https://for.edu.sg/tpmvay2223term2" rel="noopener nofollow" target="_blank">AY2022/23 (Term 2)</a>
