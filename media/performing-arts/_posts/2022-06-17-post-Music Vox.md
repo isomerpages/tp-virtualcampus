@@ -113,7 +113,8 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 </p>
 </li>
 <li>
-<p>AY2024/25 (Terms 1 &amp; 2)</p>
+<p><a href="/files/TPMV_Newsletter__AY2425_Terms_1___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">AY2024/25 (Terms 1 &amp; 2)</a>
+</p>
 </li>
 <li>
 <p>AY2023/24 (Term 2)</p>
