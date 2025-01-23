@@ -109,11 +109,10 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 <h5>Newsletters</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/TPMV_Newsletter__AY2425_Term_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">AY2024/25 (Term 3)</a>
-</p>
+<p>AY2024/25 (Term 3)</p>
 </li>
 <li>
-<p><a href="/files/TPMV_Newsletter__AY2425_Terms_1___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">AY2024/25 (Terms 1 &amp; 2)</a>
+<p><a href="https://for.edu.sg/tpmvay2425terms1and2" rel="noopener nofollow" target="_blank">AY2024/25 (Terms 1 &amp; 2)</a>
 </p>
 </li>
 <li>
