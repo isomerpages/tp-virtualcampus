@@ -106,7 +106,7 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 </li>
 </ul>
 <p></p>
-<h5>Newletters</h5>
+<h5>Newsletters</h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/TPMV_Newsletter__AY2425_Term_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">AY2024/25 (Term 3)</a>
