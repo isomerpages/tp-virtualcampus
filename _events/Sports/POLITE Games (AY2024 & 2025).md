@@ -117,8 +117,6 @@ see the table below for details.)</p>
 </p>
 <p></p>
 <p>We are so, so proud of all of you. Keep reaching for the stars!</p>
-<p><strong><em>(Get ready! Team Temasek is gearing up for the annual Institute-Varsity-Polytechnic Games in January 2025, where we will be challenging the tertiary institutions across a range of sports. Don’t miss the action – stay tuned to this space for more details!)</em></strong>
-</p>
 <hr>
 <h4><strong>POL-ITE Games 2024 - Medal Tally</strong></h4>
 <table style="minWidth: 75px">
