@@ -37,6 +37,9 @@ year’s ninth position.</p>
 <p>We are immensely proud of all our student-athletes. Keep shining and reaching
 for the stars!</p>
 <hr>
+<h4><strong>POL-ITE Games 2024 - Medal Tally</strong></h4>
+<p></p>
+<hr>
 <h4><strong>List of IVP Sports Participated by TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
