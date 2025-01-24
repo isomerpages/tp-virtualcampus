@@ -65,7 +65,7 @@ for the stars!</p>
 <p>Volleyball (men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Track &amp; Field</p>
+<p>Track &amp; Field (Men &amp; Women)</p>
 </td>
 </tr>
 <tr>
