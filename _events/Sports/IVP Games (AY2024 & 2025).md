@@ -11,7 +11,7 @@ third_nav_title: Sports
 TP with pride at the <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2024/25)</strong>!</p>
 <p></p>
 <p>This season has been nothing short of challenging, but Team Temasek rose
-to the occasion, bringing home a commendable total of <strong>X Gold</strong>, <strong>X Silver</strong> and <strong>X Bronze</strong> medals.
+to the occasion, bringing home a commendable total of <strong>1 Gold</strong>, <strong>2 Silver</strong> and <strong>1 Bronze</strong> medals.
 Kudos to our sporting warriors for their wonderful display of teamwork,
 resilience and determination!</p>
 <p></p>
@@ -25,7 +25,8 @@ our diverse student-athletes on an inspiring sporting journey in the name
 of TP pride and unity. Here are some highlights of this season:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>XXXXXXXXX</p>
+<p>Congratulations to the <strong>Swimming (Men)</strong> team for successfully
+defending their championship title.</p>
 </li>
 <li>
 <p>A special mention to <strong>Track &amp; Field (Men &amp; Women)</strong> for
@@ -59,10 +60,10 @@ for the stars!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Swimming (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball (men)</p>
+<p>Volleyball (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Track &amp; Field (Men &amp; Women)</p>
@@ -73,7 +74,7 @@ for the stars!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Swimming (Overall)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
