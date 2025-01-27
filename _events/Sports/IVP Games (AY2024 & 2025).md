@@ -11,7 +11,7 @@ third_nav_title: Sports
 TP with pride at the <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2024/25)</strong>!</p>
 <p></p>
 <p>This season has been nothing short of challenging, but Team Temasek rose
-to the occasion, bringing home a commendable total of <strong>1 Gold</strong>, <strong>2 Silver</strong> and <strong>1 Bronze</strong> medals.
+to the occasion, bringing home a commendable total of <strong>1 Gold</strong>, <strong>2 Silver</strong> and <strong>2 Bronze</strong> medals.
 Kudos to our sporting warriors for their wonderful display of teamwork,
 resilience and determination!</p>
 <p></p>
@@ -66,7 +66,7 @@ for the stars!</p>
 <p>Volleyball (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Track &amp; Field (Overall)</p>
+<p>Track &amp; Field (Men)</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ for the stars!</p>
 <p>Swimming (Overall)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Track &amp; Field (Overall)</p>
 </td>
 </tr>
 </tbody>
