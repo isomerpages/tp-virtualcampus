@@ -35,8 +35,8 @@ ninth position.</p>
 <p></p>
 </li>
 </ul>
-<p>We are immensely proud of all our student-athletes. Keep shining and reaching
-for the stars!</p>
+<p>We are immensely proud of all our student-athletes. Keep striving for
+greatness!</p>
 <hr>
 <h4><strong>IVP Games (AY2024/25) - Medal Tally</strong></h4>
 <table style="minWidth: 75px">
