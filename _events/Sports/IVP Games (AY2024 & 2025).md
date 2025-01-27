@@ -29,9 +29,9 @@ of TP pride and unity. Here are some highlights of this season:</p>
 defending their championship title.</p>
 </li>
 <li>
-<p>A special mention to <strong>Track &amp; Field (Men &amp; Women)</strong> for
-clinching a combined third place, making this an impressive leap from last
-year’s ninth position.</p>
+<p>A special mention to the <strong>Track &amp; Field </strong>team for clinching
+a combined third place, making this an impressive leap from last year’s
+ninth position.</p>
 <p></p>
 </li>
 </ul>
@@ -66,7 +66,7 @@ for the stars!</p>
 <p>Volleyball (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Track &amp; Field (Men &amp; Women)</p>
+<p>Track &amp; Field (Overall)</p>
 </td>
 </tr>
 <tr>
