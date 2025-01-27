@@ -7,24 +7,83 @@ third_nav_title: Sports
 ---
 <h3><strong>Institute-Varsity-Polytechnic Games (AY2024/25)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_EDM_1920_X_1080.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_Games_AY24_25__Medal_Tally__1920_X_1080.jpg">
 </div>
-<p>The heat is on! Get ready for some adrenaline-pumping action as we cheer
-for our Team Temasek athletes, who are standing tall, playing hard, and
-giving their all for TP at the annual <strong>Institute-Varsity-Polytechnic (IVP) Games</strong>!</p>
-<p>This season, let’s rally behind our sporting warriors as they vie for
-glory at the IVP Games (AY2024/25). Your cheers will fuel their aspirations,
-your passion will uplift their spirits, and together we will forge a path
-towards pride and excellence in this annual showdown!</p>
-<p>Keen to soak up the electrifying atmosphere in person? Come support Team
-Temasek and witness the thrilling action live in TP and across various
-venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
-here for updates on the epic battles and exciting matchups for the different
-sports in the coming weeks.</p>
-<p>One spirit, one dream, one team. Let’s unite and make TP truly a home
-of the champions!</p>
-<p><strong><em>(Support Team Temasek at the IVP Games! Download the full fixtures <a href="/files/IVP_Games_Fixtures__AY2024_25_.pdf" rel="noopener nofollow" target="_blank">here</a>.)</em></strong>
+<p>Here’s a big shout-out to all our amazing student-athletes for representing
+TP with pride at the <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2024/25)</strong>!</p>
+<p></p>
+<p>This season has been nothing short of challenging, but Team Temasek rose
+to the occasion, bringing home a commendable total of <strong>1 Gold</strong>, <strong>2 Silver</strong> and <strong>2 Bronze</strong> medals.
+Kudos to our sporting warriors for their wonderful display of teamwork,
+resilience and determination!</p>
+<p></p>
+<p>A special thank you to our incredible coaches and staff advisors for their
+expert leadership and unwavering commitment too, as well as to our passionate
+supporters from the TP family for cheering on Team Temasek every step of
+the way!</p>
+<p></p>
+<p>The IVP Games (AY2024/25) was also a meaningful season, bringing together
+our diverse student-athletes on an inspiring sporting journey in the name
+of TP pride and unity. Here are some highlights:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Congratulations to the <strong>Swimming (Men)</strong> team for successfully
+defending their championship title.</p>
+</li>
+<li>
+<p>A special mention to the <strong>Track &amp; Field </strong>team for clinching
+a combined third place, making this an impressive leap from last year’s
+ninth position.</p>
+<p></p>
+</li>
+</ul>
+<p>We are immensely proud of all our student-athletes. Keep striving for
+greatness!</p>
+<hr>
+<h4><strong>IVP Games (AY2024/25) - Medal Tally</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Gold</strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Silver</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Bronze</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swimming (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field (Men)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swimming (Overall)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field (Overall)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h4><strong>List of IVP Sports Participated by TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
