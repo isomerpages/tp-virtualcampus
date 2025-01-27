@@ -22,7 +22,7 @@ the way!</p>
 <p></p>
 <p>The IVP Games (AY2024/25) was also a meaningful season, bringing together
 our diverse student-athletes on an inspiring sporting journey in the name
-of TP pride and unity. Here are some highlights of this season:</p>
+of TP pride and unity. Here are some highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Congratulations to the <strong>Swimming (Men)</strong> team for successfully
