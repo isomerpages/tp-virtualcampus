@@ -34,7 +34,7 @@ sections:
         here!
       button: CELEBRATE WITH TP!
       url: /ivp-games-2025/
-      image: /images/Sports/IVP_EDM_1920_X_1080.jpg
+      image: /images/Sports/IVP_Games_AY24_25__Medal_Tally__1920_X_1080.jpg
       alt: Image alt text
   - infopic:
       title: POL-ITE Games 2024
