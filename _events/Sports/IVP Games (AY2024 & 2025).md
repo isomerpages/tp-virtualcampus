@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Institute-Varsity-Polytechnic Games (AY2024/25)</strong></h3>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_Games_AY24_25__Medal_Tally__1920_X_1080.jpg">
+</div>
 <p>Here’s a big shout-out to all our amazing student-athletes for representing
 TP with pride at the <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2024/25)</strong>!</p>
 <p></p>
