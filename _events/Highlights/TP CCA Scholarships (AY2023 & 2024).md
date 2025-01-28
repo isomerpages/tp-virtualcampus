@@ -5,29 +5,67 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<h3><strong>TP CCA Scholarships (AY2023/24)</strong></h3>
+<h3><strong>Temasek Polytechnic Scholarships Presentation</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Scholarship_Ceremony_2023_0319.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/All.jpg">
 </div>
-<p>Heartiest congratulations to our recipients of the <strong>TP CCA Scholarships (AY2023/24)</strong>!</p>
-<p>Introduced in the year 2000, the TP CCA Scholarships recognise and reward
-students who have made outstanding contributions to TP through their CCAs.
-A total of 30 recipients – comprising exemplary student leaders from a
-diversity of CCAs – celebrated their achievements at an intimate and heartfelt
-ceremony graced by our Principal &amp; CEO, Mr Peter Lam, on <strong>19 Jan 2024</strong>.</p>
-<p>These scholarships also reflect how seriously TP values our students’
-total development as people, as well as their contributions to the vibrancy
-of our campus. We hope our recipients’ accomplishments will inspire many
-more of their peers to contribute, transform, and engage through meaningful
-and exciting ways beyond the classroom.</p>
-<p>Also, here’s a special shoutout to our CCA advisors! They have supported
-our students selflessly and witnessed their tremendous growth, guiding
-them through both sunny days and turbulent storms. Thank you for nurturing
-our #TPFAM to be the best version of themselves!</p>
-<p>Keep pursuing your passion, guys!</p>
+<p>Huge congratulations to our scholars who were celebrated at the <strong>Temasek Polytechnic Scholarships Presentation</strong> held
+on 27 January 2025, graced by our Principal &amp; CEO, Mr Peter Lam.</p>
+<p>80 Year 1 scholars were presented with the premier <strong>TP Scholarship</strong> and <strong>TP Scholarship (Engineering)</strong> in
+recognition of their outstanding academic results, stellar CCA achievements,
+as well as their exceptional leadership and potential. 30 Year 2 and 3
+student leaders were awarded the <strong>Daisy Phay-TP Foundation CCA Scholarship</strong> and <strong>TP CCA Scholarship</strong> for
+their remarkable contributions to TP through the diverse range of CCAs
+from arts, sports and leadership.</p>
+<p>These scholarships are a testament to TP's commitment to nurturing not
+just academic excellence but also the holistic development of our students,
+as well as recognising their role in enriching the vibrancy of our campus
+in meaningful ways.</p>
+<p>Keep pursuing your passion, #TPFAM!</p>
 <hr>
-<p>For information on the selection process and conditions of the TP CCA
-Scholarships, please download&nbsp;the resources <a href="https://for.edu.sg/criteria-cca-scholarship-2024" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>For information on the eligibility criteria, tenure and value, and application
+process for these Scholarships, please visit the following:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Scholarship</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Website</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship" rel="noopener noreferrer nofollow" target="_blank">https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship.html</a>
 </p>
-<p>For enquiries, please contact the TP CCA Scholarships Secretariat at:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic Scholarship (Engineering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-engineering-scholarship.html" rel="noopener noreferrer nofollow" target="_blank">https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-engineering-scholarship.html</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic CCA Scholarship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/co-curricular-activities-scholarship.html" rel="noopener noreferrer nofollow" target="_blank">https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/co-curricular-activities-scholarship.html</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
