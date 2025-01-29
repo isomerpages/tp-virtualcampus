@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek Polytechnic Scholarships Presentation
+      subtitle: SHOUT-OUT TO OUR SCHOLARS!
+      id: infopic
+      description: From impressive academics to stellar CCA achievements, our scholars
+        are all shining stars enriching the vibrancy of our campus in meaningful
+        ways!
+      button: BE INSPIRED HERE!
+      url: /events/tp-scholarship-presentation/
+      image: /images/Events/Highlights/All.jpg
+      alt: Image alt text
+  - infopic:
       title: Institute-Varsity-Polytechnic Games (AY2024/25)
       subtitle: KUDOS TO TEAM TEAMSEK!
       id: infopic
