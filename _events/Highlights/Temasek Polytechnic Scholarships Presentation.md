@@ -89,7 +89,7 @@ process for these Scholarships, please visit the following:</p>
 <p>Temasek Polytechnic Scholarship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship" rel="noopener noreferrer nofollow" target="_blank">https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship.html</a>
+<p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship.html" rel="noopener noreferrer nofollow" target="_blank">https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship.html</a>
 </p>
 </td>
 </tr>
