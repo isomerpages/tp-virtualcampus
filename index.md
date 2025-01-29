@@ -34,7 +34,7 @@ sections:
         ways!
       button: BE INSPIRED HERE!
       url: /events/tp-scholarship-presentation/
-      image: /images/Events/Highlights/All.jpg
+      image: /images/Events/Highlights/ENG.jpg
       alt: Image alt text
   - infopic:
       title: Institute-Varsity-Polytechnic Games (AY2024/25)
