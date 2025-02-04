@@ -14,8 +14,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DREAMS___Celebrating_TP35__1920px_by_1080px_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35__1920px_by_1080px_.png">
 </div>
+<p><em>22 March 2025</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/dreams-celebrating-tp35/" rel="noopener nofollow" target="_blank">DREAMS: Celebrating TP35</a></strong>
