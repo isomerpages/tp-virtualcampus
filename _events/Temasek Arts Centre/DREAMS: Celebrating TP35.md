@@ -28,7 +28,7 @@ together!</p>
 <p>📆 22 March 2025 (Saturday)</p>
 <p>🕑 3pm to 4.30pm</p>
 <p>📍 Blk 34, Temasek Convention Centre (Temasek Polytechnic)</p>
-<p>👉 <strong>Grab your tickets here!</strong> - <strong><a rel="noopener noreferrer nofollow" target="_blank">https://dreams-tp35.peatix.com</a></strong>
+<p>👉 <strong>Grab your tickets here!</strong> - <strong><a href="https://dreams-tp35.peatix.com" rel="noopener noreferrer nofollow" target="_blank">https://dreams-tp35.peatix.com</a></strong>
 </p>
 <p></p>
 <p>(Note: All proceeds from the ticket sales will go to…..)</p>
