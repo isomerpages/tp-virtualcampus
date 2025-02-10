@@ -7,7 +7,7 @@ third_nav_title: Temasek Arts Centre
 ---
 <h3><strong>DREAMS: Celebrating TP35</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35__Staff_Portal_Homepage____Copy.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35__1920px_by_1080px____Copy.png">
 </div>
 <p>This year’s edition of <strong>“DREAMS”</strong> kicks off an exciting and
 vibrant year, as <strong>Temasek Polytechnic (TP)</strong> celebrates <strong>35 years</strong> with
