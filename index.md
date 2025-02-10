@@ -34,7 +34,8 @@ sections:
         best of our arts groups!
       button: FIND OUT MORE!
       url: /dreams-celebrating-tp35/
-      image: /images/Arts/DREAMS___Celebrating_TP35__1920px_by_1080px_.png
+      image: /images/Events/Temasek Arts
+        Centre/DREAMS___Celebrating_TP35__Staff_Portal_Homepage____Copy.png
       alt: Image alt text
   - infopic:
       title: Temasek Polytechnic Scholarships Presentation
