@@ -19,7 +19,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/dreams-celebrating-tp35/" rel="noopener nofollow" target="_blank">Institute-Varsity-Polytechnic Games (AY2024/25)</a></strong>
+<p><strong><a href="/dreams-celebrating-tp35/" rel="noopener nofollow" target="_blank">DREAMS: Celebrating TP 35</a></strong>
 </p>
 <p></p>
 <p>This year’s edition of <strong>“DREAMS” </strong>kicks off an exciting
