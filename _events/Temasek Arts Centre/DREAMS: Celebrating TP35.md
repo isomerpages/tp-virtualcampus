@@ -24,7 +24,7 @@ growth. In addition to this, TP35 will see the launch of the&nbsp;<strong><a hre
 which will enable us to provide scholarships and bursaries to empower our
 students to reach their full potential!</p>
 <p></p>
-<p><strong>Grab your tickets here!</strong> 👉<strong> <a rel="noopener noreferrer nofollow" target="_blank">https://dreams-tp35.peatix.com</a></strong>&nbsp;</p>
+<p><strong>Grab your tickets here!</strong> 👉<strong> <a href="https://dreams-tp35.peatix.com" rel="noopener noreferrer nofollow" target="_blank">https://dreams-tp35.peatix.com</a></strong>&nbsp;</p>
 <p></p>
 <p><strong>Event Details</strong>:</p>
 <p>📆 22 March 2025 (Saturday)</p>
