@@ -35,6 +35,7 @@ sections:
       button: GRAB YOUR TICKETS!
       url: /dreams-celebrating-tp35/
       alt: Image alt text
+      image: /images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35.png
   - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: SHOUT-OUT TO OUR SCHOLARS!
