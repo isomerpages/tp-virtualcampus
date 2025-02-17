@@ -24,7 +24,8 @@ celebrates the <strong>present</strong>, and looks confidently to the <strong>fu
 which helps to maintain our caring culture and ensures student's personal
 growth. In addition to this, TP35 will see the launch of the&nbsp;<strong><a href="https://www.tp.edu.sg/about-tp/donate-and-collaborate.html" rel="noopener noreferrer nofollow" target="_blank">TP Endowment Fund</a></strong>,
 which will enable us to provide scholarships and bursaries to empower our
-students to reach their full potential!</p>
+students to reach their full potential. <strong><a href="https://www.tp.edu.sg/about-tp/donate-and-collaborate.html" rel="noopener noreferrer" target="_blank">Please donate</a> </strong>and
+make a lasting impact in the lives of our students!</p>
 <p></p>
 <p><strong>Grab your tickets here!</strong> 👉<strong> <a href="https://dreams-tp35.peatix.com" rel="noopener noreferrer nofollow" target="_blank">https://dreams-tp35.peatix.com</a></strong>&nbsp;</p>
 <p></p>
