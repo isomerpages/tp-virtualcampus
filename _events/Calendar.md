@@ -13,6 +13,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p><em>22 March 2025</em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/dreams-celebrating-tp35/" rel="noopener nofollow" target="_blank">DREAMS: Celebrating TP35</a></strong>
+</p>
+<p></p>
+<p>This year’s edition of <strong>“DREAMS” </strong>kicks off an exciting
+year for TP, as we celebrate <strong>35 years </strong>with this special
+concert featuring our talented performing artists – both present and past.
+Look forward to an enthralling line-up of performances showcasing the very
+best of our arts groups, where they take to the stage to engage, excite
+and captivate your senses!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/IVP_EDM_1920_X_1080.jpg">
 </div>

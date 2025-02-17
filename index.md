@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: "DREAMS: Celebrating TP35"
+      subtitle: KICKING OFF A SPECIAL YEAR!
+      id: infopic
+      description: The Temasek Arts Centre proudly presents this concert staged in
+        celebration of TP35, featuring an enthralling line-up showcasing the
+        best of our arts groups!
+      button: GRAB YOUR TICKETS!
+      url: /dreams-celebrating-tp35/
+      alt: Image alt text
+      image: /images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35.png
+  - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: SHOUT-OUT TO OUR SCHOLARS!
       id: infopic
