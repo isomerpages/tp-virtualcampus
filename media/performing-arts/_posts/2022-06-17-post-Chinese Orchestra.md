@@ -14,10 +14,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Temasek Polytechnic Chinese Orchestra (TPCO) performs a wide range
-of music using well-loved Chinese instruments such as the Guzheng, Erhu
-and Pipa. It seeks to explore the world of traditional and contemporary
-Chinese music.</p>
+<p>Temasek Polytechnic Chinese Orchestra (TPCO) performs a wide range of
+music using well-loved Chinese instruments such as the Guzheng, Erhu and
+Pipa. It seeks to explore the world of traditional and contemporary Chinese
+music.</p>
 <p></p>
 <p>The elegant and soulful music presented by TPCO always enchants and enthrals
 every audience. The orchestra regularly collaborates with other CCAs such
