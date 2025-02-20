@@ -23,10 +23,6 @@ Chinese music.</p>
 every audience. The orchestra regularly collaborates with other CCAs such
 as Band and Music Vox, as well as ventures out for public performances
 and overseas exchange programmes.</p>
-<p>
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
