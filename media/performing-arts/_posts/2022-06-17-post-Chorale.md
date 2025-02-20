@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Temasek Polytechnic Chorale is a lively community comprising passionate
+<p>Temasek Polytechnic Chorale is a lively community comprising passionate
 singers. Guided by Resident Conductor Ms Choy Siew Woon, the choir consists
 of four sections — Sopranos, Altos, Tenors and Basses — united in their
 love for music. TP Chorale offers students an opportunity to explore the
