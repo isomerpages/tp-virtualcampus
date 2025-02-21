@@ -14,15 +14,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Digital Media &amp; Production Crew (DMPC) enables
-all of our performing arts groups to be experienced both in-person and
-via a host of other media formats. Through event organisation, production
-management and technical support, DMPC brings ideas to life.
-<br>
-<br>Engaging in audio, lighting, staging, visual media and post-production,
-the close-knit and dedicated group makes magic happen. Members receive
-training in a multitude of areas with current industry practitioners, and
-have abundant opportunites to practice these skills in real-world situations.</p>
+<p>The Digital Media &amp; Production Crew (DMPC) is a dynamic, student-led
+CCA that offers comprehensive technical services for a wide range of events,
+both on and off campus. We specialise in key production areas such as stage
+management, lighting design, audio engineering, photography, videography
+and graphic design, ensuring that every event is brought to life with precision
+and creativity. Our team collaborates closely with event organisers to
+execute technical operations, transforming ideas and visions into polished
+productions.</p>
+<p></p>
+<p>At DMPC, members are trained in various technical disciplines by industry
+practitioners, giving them invaluable insights into the latest tools, techniques,
+and trends in media and production. Through hands-on training and real-world
+event applications, members refine their skills in a practical and fast-paced
+environment. DMPC provides a platform for members to build expertise across
+a variety of productions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
