@@ -101,7 +101,7 @@ and supporters.</p>
 <p><strong><a href="/sports/inline-skating" rel="noopener noreferrer nofollow" target="_blank">Inline Skating</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/INLINE SKATING_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inline_Skating_Resized.png">
 </div>
 <p></p>
 </td>
