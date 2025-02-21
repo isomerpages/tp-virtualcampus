@@ -14,19 +14,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Temasek Polytechnic Dance Ensemble (TPDE) comprises three main dance
-genres; Hip Hop, Modern Dance and Breakin’.
+<p>Temasek Polytechnic Dance Ensemble (TPDE) comprises three main dance genres;
+Hip Hop, Modern Dance and Breakin’.
 <br>
 <br>Modern Dance is a dance form developed from classical ballet in the early
 20th century, shedding the classical ballet technique, costume and shoes.
 Hip Hop is a popular dance style involving energetic and funky street dance.
 Breakin’ includes a multitude of different floorwork and explosive movements.
 <br>
-<br>Dance Ensemble’s Hip Hop, Modern Dance &amp; Breakin’ are under the tutelage
-of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.
-<br>
-<br>
-</p>
+<br>TPDE's Hip Hop, Modern Dance &amp; Breakin’ are under the tutelage of
+Ahmad Kamil, Nikki Chan and Gerald Chan respectively.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -41,7 +38,7 @@ of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Motiv 2023 (Site-specific concert)</p>
+<p>Motiv 2023 &amp; 2024 (Site-specific concert)</p>
 </li>
 <li>
 <p>Temasek Spectacular (2022) (7 shows for TP Freshmen)</p>
@@ -52,6 +49,12 @@ of Ahmad Kamil, Nikki Chan and Gerald Chan respectively.
 </ul>
 <h5>Achievements</h5>
 <ul data-tight="true" class="tight">
+<li>
+<p>Super 24 2024 (Second runner-up for Tertiary Category)</p>
+</li>
+<li>
+<p>World Supremacy Battlegrounds 2024 (First runner-up for Tertiary Category)</p>
+</li>
 <li>
 <p>Super 24 2023 (Champion for Tertiary Category)</p>
 </li>
