@@ -28,7 +28,7 @@ with different experiences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Salvo" src="/images/Arts/Salvo/Salvo_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Salvo/Salvo_Drums.jpg">
 </div>
 </td>
 </tr>
