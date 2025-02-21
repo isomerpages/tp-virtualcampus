@@ -27,7 +27,7 @@ of growth and discovery.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Chorale" src="/images/Arts/Chorale/Chorale_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale.png">
 </div>
 </td>
 </tr>
