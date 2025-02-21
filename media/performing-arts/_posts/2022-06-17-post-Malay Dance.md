@@ -25,7 +25,7 @@ the rich Malay heritage of the various styles portrayed.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="MDG" src="/images/Arts/MDG/MDG_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/MDG/MDG_pic_5.jpg">
 </div>
 </td>
 </tr>
