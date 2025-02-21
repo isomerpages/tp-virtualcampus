@@ -25,7 +25,7 @@ such as "Piala Suara Serumpun" (Cluster of Voices Trophy).</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DK" src="/images/Arts/DK/DK_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DK/Dikir_Barat.png">
 </div>
 </td>
 </tr>
