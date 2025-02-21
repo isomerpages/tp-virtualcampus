@@ -32,7 +32,7 @@ every step tells a story, and every movement resonates with passion.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/IDG/IDG_pic_4.jpg">
 </div>
 </td>
 </tr>
