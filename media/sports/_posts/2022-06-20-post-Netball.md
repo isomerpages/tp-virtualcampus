@@ -27,7 +27,6 @@ of the ball. TP Netball team competes in the Polytechnic-ITE (POL-ITE)
 Games and Institute-Varsity Polytechnic (IVP) Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
