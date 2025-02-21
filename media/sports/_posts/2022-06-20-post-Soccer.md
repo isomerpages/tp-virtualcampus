@@ -26,7 +26,6 @@ teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Soccer
 Games and SR Nathan Challenge Trophy Soccer Tournament annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +37,6 @@ Games and SR Nathan Challenge Trophy Soccer Tournament annually.
 </ul>
 <p></p>
 <p><strong>Training Days:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
