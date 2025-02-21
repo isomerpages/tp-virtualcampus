@@ -30,7 +30,6 @@ annually.
 <br>POL-ITE Games 2023: Silver (Men’s Team) &amp; 4th Position (Women's Team)
 <br>
 <br><strong>Training Days:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
