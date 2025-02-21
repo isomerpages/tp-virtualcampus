@@ -35,6 +35,12 @@ to performance.</p>
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p>"Shredded Notes" Tapestry (2024)</p>
+</li>
+<li>
+<p>"Don't Steal Happiness" (2024)</p>
+</li>
+<li>
 <p>"Threads of Connection" Tapestry (2023)</p>
 </li>
 <li>
@@ -43,46 +49,13 @@ to performance.</p>
 <li>
 <p>"Paraverse" (Original devised play, 2023)</p>
 </li>
-<li>
-<p>"Don't Steal Happiness" - Collaboration with Curious Thoughts Giving (2023)</p>
-</li>
-<li>
-<p>TeatroFest "Alice" (AY22/23)</p>
-</li>
-<li>
-<p>"Intramural" (Original devised play, 2022)</p>
-</li>
-<li>
-<p>TP National Day Concert 2022 (Creative Direction)</p>
-</li>
-<li>
-<p>"TeatroFest AY2020/21" (Online Triple-bill)</p>
-</li>
-<li>
-<p>"The Lift" (2019)</p>
-</li>
-<li>
-<p>"Those Who Can't, Teach" (2019)</p>
-</li>
-<li>
-<p>"Tujuh" (original devised play, 2019)</p>
-</li>
-<li>
-<p>“Land Ho!” (TP National Day Concert, 2019)</p>
-</li>
-<li>
-<p>"Caucasian Chalk Circle (2018)</p>
-</li>
-<li>
-<p>"No More Tears" (devised play, 2018)</p>
-</li>
 </ul>
 <hr>
 <h3>About CCA</h3>
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday &amp; Thursday, 6pm to 9pm</p>
+<p>Thursday &amp; Friday, 6pm to 9pm</p>
 </li>
 <li>
 <p>Additional training days as required for productions</p>
