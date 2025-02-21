@@ -67,7 +67,6 @@ and supporters.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/dragon-boat" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Dragon_Boat_Resized.jpg">
 </div>
