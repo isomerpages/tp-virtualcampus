@@ -124,11 +124,9 @@ and supporters.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/kayak-racing/" rel="noopener noreferrer nofollow" target="_blank">Kayak Racing</a></strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing_Resized.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -268,4 +266,8 @@ and supporters.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing_Resized.png">
+</div>
 <p></p>
