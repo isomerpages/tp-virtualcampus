@@ -59,7 +59,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/dance-ensemble" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Dance_Ensemble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DE/Dance_Ensemble_Resized.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
