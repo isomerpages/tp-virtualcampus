@@ -65,7 +65,7 @@ elements.
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday &amp; Thursday, 6.00pm to 9.00pm</p>
+<p>Tuesday &amp; Thursday, 6pm to 9pm</p>
 </li>
 </ul>
 <h5>Staff Advisor</h5>
