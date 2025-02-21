@@ -38,10 +38,7 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tapestry Arts Festival - 'Our Canvas' (2023)</p>
-</li>
-<li>
-<p>MOE Media Appreciation Dinner (2022)</p>
+<p>Homegrown Festival @ OCBC Square (2024)</p>
 </li>
 <li>
 <p>Backstage Pass with Music &amp; Drama Company on Power98 Love Songs (2022)</p>
@@ -53,7 +50,7 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <p>‘Beginnings’ EP Launch on Spotify (2021)</p>
 </li>
 <li>
-<p>National Day Observance Ceremony at the MOE HQ (2019)</p>
+<p>National Day Observance Ceremony at the MOE HQ (Annually, 2019-2024)</p>
 </li>
 <li>
 <p>“In Youthful Company” at The Esplanade Outdoor Theatre (2018)</p>
@@ -62,7 +59,8 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <h5>Achievements</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Awarded Temasek Polytechnic's Arts Group of the Year Award (2023)</p>
+<p>Awarded Temasek Polytechnic's Arts Group of the Year Award (2023 &amp;
+2024)</p>
 </li>
 <li>
 <p>Awarded Temasek Polytechnic’s Arts Group Excellence Award (2019, 2020
@@ -77,10 +75,10 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sectional Training (Once fortnightly or monthly), 6.30pm to 9pm</p>
+<p>Sectional Training (Once fortnightly or monthly), 7pm to 9pm</p>
 </li>
 <li>
-<p>Rehearsal Jamming (Daily, subject to upcoming performances/recording)</p>
+<p>Rehearsal Jamming (Two to four times a week, subject to upcoming performances/recording)</p>
 </li>
 </ul>
 <h5>Staff Advisor</h5>
