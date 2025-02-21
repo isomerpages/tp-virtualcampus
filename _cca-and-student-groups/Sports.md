@@ -252,16 +252,12 @@ and supporters.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/volleyball" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Volleyball_1.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/water-polo" rel="noopener noreferrer nofollow" target="_blank">Water Polo</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Water_Polo_1.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
