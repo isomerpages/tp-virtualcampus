@@ -205,10 +205,11 @@ and supporters.</p>
 <p><strong><a href="/sports/taekwondo" rel="noopener noreferrer nofollow" target="_blank">Taekwondo</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Taekwondo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Taekwondo_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong><a href="/sports/tchoukball" rel="noopener noreferrer nofollow" target="_blank">Tchoukball</a></strong>
 </p>
 <div class="isomer-image-wrapper">
