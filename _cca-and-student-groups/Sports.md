@@ -180,16 +180,12 @@ and supporters.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/sport-climbing" rel="noopener noreferrer nofollow" target="_blank">Sport Climbing</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Sport Climbing" src="/images/Sports/SPORT CLIMBING_button-01.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/swimming" rel="noopener noreferrer nofollow" target="_blank">Swimming</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_1.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
