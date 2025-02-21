@@ -88,7 +88,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/fusion-percussion" rel="noopener noreferrer nofollow" target="_blank">Fusion Percussion</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Fusion Percussion" src="/images/Arts/FP_button-02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/FP/Fusion_Percussion_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
