@@ -197,7 +197,7 @@ and supporters.</p>
 <p><strong><a href="/sports/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/TABLE TENNIS_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Table_Tennis_Resized.png">
 </div>
 <p></p>
 </td>
