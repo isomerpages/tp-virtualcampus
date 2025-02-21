@@ -36,7 +36,7 @@ and supporters.</p>
 <p><strong><a href="/sports/aikido" rel="noopener noreferrer nofollow" target="_blank">Aikido</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Aikido.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Aikido_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
