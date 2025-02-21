@@ -31,7 +31,6 @@ Track &amp; Field Championship annually.
 Team)
 <br>
 </p>
-<p></p>
 <p><strong>Training Days:</strong>
 <br>Monday &amp; Wednesday, 6.30pm
 <br>
