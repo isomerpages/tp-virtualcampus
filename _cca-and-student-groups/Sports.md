@@ -133,7 +133,7 @@ and supporters.</p>
 <p><strong><a href="/sports/life-saving/" rel="noopener noreferrer nofollow" target="_blank">Life Saving</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Life_Saving_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Life_Saving_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +157,7 @@ and supporters.</p>
 <p><strong><a href="/sports/rugby" rel="noopener noreferrer nofollow" target="_blank">Rugby</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_Resized.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
