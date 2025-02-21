@@ -47,7 +47,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/chorale" rel="noopener noreferrer nofollow" target="_blank">Chorale</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Chorale" src="/images/Arts/CHORALE_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
