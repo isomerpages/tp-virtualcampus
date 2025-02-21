@@ -119,7 +119,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/music-vox" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Music Vox" src="/images/Arts/MV_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/MV/Music_Vox_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -129,7 +129,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/salvo-drums" rel="noopener noreferrer nofollow" target="_blank">Salvo Drums</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Salvo_Drums_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Salvo/Salvo_Drums_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -139,7 +139,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/teatro" rel="noopener noreferrer nofollow" target="_blank">Teatro</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/TEATRO_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Teatro/Teatro_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
