@@ -29,7 +29,6 @@ Women) teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
 Polytechnic (IVP) Volleyball Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
