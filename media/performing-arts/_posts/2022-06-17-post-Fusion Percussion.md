@@ -23,7 +23,7 @@ Get them to liven up shows and they will deliver the party to your doorstep!
 <br>
 <br>They live by their slogan “with a burning passion, we play to the beat
 of our hearts”. Brazilian Samba forms the cornerstone of TPFP's creative
-rhythms such as Samba Temasek - a fusion of Brazilian samba and Singapore
+rhythms, such as Samba Temasek - a fusion of Brazilian samba and Singapore
 elements.
 <br>
 <br>
@@ -42,6 +42,9 @@ elements.
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p>Homegrown Festival @ OCBC Square (2024)</p>
+</li>
+<li>
 <p>Community Chest Heartstrings Walk (2022)</p>
 </li>
 <li>
@@ -55,12 +58,6 @@ elements.
 </li>
 <li>
 <p>"In-Youthful-Company” @ Esplanade Waterfront (2019)</p>
-</li>
-<li>
-<p>Pink Ribbon Walk Breast Cancer Foundation (2019)</p>
-</li>
-<li>
-<p>World Drum Night 4: Even When No One Sees (2018)</p>
 </li>
 </ul>
 <hr>
