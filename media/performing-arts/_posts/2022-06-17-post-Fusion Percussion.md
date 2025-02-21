@@ -24,10 +24,7 @@ Get them to liven up shows and they will deliver the party to your doorstep!
 <br>They live by their slogan “with a burning passion, we play to the beat
 of our hearts”. Brazilian Samba forms the cornerstone of TPFP's creative
 rhythms, such as Samba Temasek - a fusion of Brazilian samba and Singapore
-elements.
-<br>
-<br>
-</p>
+elements.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
