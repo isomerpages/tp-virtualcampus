@@ -156,16 +156,15 @@ and supporters.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/rugby" rel="noopener noreferrer nofollow" target="_blank">Rugby</a></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_Resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_Resized_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/silat/" rel="noopener noreferrer nofollow" target="_blank">Silat</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Silat_1.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
