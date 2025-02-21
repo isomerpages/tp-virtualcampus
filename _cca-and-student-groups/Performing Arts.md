@@ -76,7 +76,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/dikir-barat" rel="noopener noreferrer nofollow" target="_blank">Dikir Barat</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Dikir Barat" src="/images/Arts/DK_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DK/Dikir_Barat_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
