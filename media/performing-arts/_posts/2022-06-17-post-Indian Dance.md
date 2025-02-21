@@ -43,31 +43,29 @@ every step tells a story, and every movement resonates with passion.</p>
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>WorldSkills ASEAN Opening Ceremony (GOH: Former President Halimah Yacob,
-2023)</p>
+<p>Harmony Fest (2024)</p>
 </li>
 <li>
-<p>Match for Life (2023)</p>
+<p>DREAMS (2024)</p>
 </li>
 <li>
-<p>RP Momentum x TP IDG (2023)</p>
+<p>RP Momentum (2024)</p>
 </li>
 <li>
-<p>GOPIO Gala Dinner x IDG (2023)</p>
+<p>TP Waterfront X-Challenge Run x Temasek Tides Concert (2024)</p>
 </li>
 <li>
-<p>21st IUFoST World Congress of Food Science &amp; Technology: Gala Dinner
-(2022)</p>
+<p>Indian Heritage Arts Fiesta (2024)</p>
 </li>
 <li>
-<p>Lisha Women’s Wing 10th Anniversary Celebrations: 200th Event (GOH: Former
-President Halimah Yacob, 2022)</p>
+<p>Parai Workshop (2024)</p>
 </li>
 <li>
-<p>Tapestry Move: Lit! Concert (Organised by TPIDG, 2022)</p>
+<p>Tapestry: Lit 2.0 (2024)</p>
 </li>
 <li>
-<p>NUS Tamil Language Society Production (2022)</p>
+<p>Performed at "Largest Mass Performance of Indian Traditional Folk Arts
+in Singapore" (13 July 2024)</p>
 </li>
 </ul>
 <hr>
@@ -75,7 +73,7 @@ President Halimah Yacob, 2022)</p>
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday &amp; Friday, 6pm to 9pm (On Campus)</p>
+<p>Tuesday &amp; Friday, 6pm to 9pm</p>
 </li>
 <li>
 <p>Additional training days, nearing show day</p>
