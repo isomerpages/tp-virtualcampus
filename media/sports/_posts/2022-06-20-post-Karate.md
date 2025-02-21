@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Karate_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Karate.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,8 +31,6 @@ team competes in external competitions annually.
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tan_Yeuan_Huei@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yeuan Huei</a>
 <br>
 <br>CCA <a href="https://www.instagram.com/tpkarate/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
-<br>
-<br>
 </p>
 </td>
 </tr>
