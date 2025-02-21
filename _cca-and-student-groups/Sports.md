@@ -116,7 +116,7 @@ and supporters.</p>
 <p><strong><a href="/sports/karate" rel="noopener noreferrer nofollow" target="_blank">Karate</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Karate_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Karate_Resized.png">
 </div>
 </td>
 </tr>
@@ -124,9 +124,11 @@ and supporters.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/kayak-racing/" rel="noopener noreferrer nofollow" target="_blank">Kayak Racing</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing_1.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
