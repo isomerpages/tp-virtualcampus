@@ -14,22 +14,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Indian Dance Group (TPIDG) delves into an array of
-Indian dance styles, ranging from the graceful Bharatanatyam to the spirited
-rhythms of Bollywood. Under the esteemed guidance of Mrs Premela Balakrishnan,
-Director of Rudram Arts, our dedicated dancers blend tradition with innovation
-to captivate audiences both within our school community and on larger stages.
-<br>
-<br>We take immense pride in showcasing our talents at high-profile events
-such as the WorldSkills ASEAN Opening Ceremony, graced by former President
-Mdm Halimah Yacob in 2023. From school functions to prestigious gatherings,
-TPIDG consistently demonstrates a commitment to the art of dance and excellence
-in performance. Join us in this journey of cultural celebration and artistic
-expression, where every step tells a story and every movement resonates
-with passion.
-<br>
-<br>
-</p>
+<p>Temasek Polytechnic Indian Dance Group (TPIDG) passionately explores a
+diverse range of Indian dance styles, from the grace of Bharatanatyam to
+the vibrant energy of Bollywood. Under the esteemed guidance of Mrs Premela
+Balakrishnan, Director of Rudram Arts, our dedicated dancers seamlessly
+blend tradition with innovation, captivating audiences both within our
+school community and on grander stages.</p>
+<p></p>
+<p>Our journey is marked by remarkable performances at prestigious events,
+including the Largest Mass Performance of Indian Traditional Folk Arts
+in Singapore (13 July 2024), setting two new national records.</p>
+<p></p>
+<p>From school functions to nationwide celebrations, TPIDG remains committed
+to excellence in performance and the rich heritage of Indian dance. Join
+us on this journey of cultural celebration and artistic expression - where
+every step tells a story, and every movement resonates with passion.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
