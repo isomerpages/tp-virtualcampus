@@ -29,7 +29,6 @@ Games annually.
 <br>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
 <br>
 </p>
-<p></p>
 <p><strong>Training Days:</strong>
 <br>Tuesday &amp; Wednesday, 8pm
 <br>
