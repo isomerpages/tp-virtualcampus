@@ -14,14 +14,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teatro, meaning Theatre in Spanish, is made up of a diverse collective
-of students who share a passion for performance, drama and ideation. Through
-high quality "live" and recorded productions as well as concert narratives,
-Teatro is always seeking to explore the unknown and push the boundaries
-of creativity.
-<br>
-<br>
-</p>
+<p>Temasek Polytechnic Teatro, meaning ‘Theatre’ in Spanish, is a vibrant
+and diverse community of students united by a passion for performance,
+drama, and creative expression. Over the years, the CCA has expanded its
+focus beyond traditional theatre, embracing script writing and hands-on
+roles in prop making, costume design, lighting and sound. Teatro is dedicated
+to exploring new artistic realms and experimenting with innovative approaches
+to performance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
