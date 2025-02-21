@@ -14,19 +14,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TP Music Vox (TPMV) is a family of musicians, typically made up of vocalists,
-guitarists, bassists, keyboardists, songwriters, drummers and even producers,
-who play, record and perform assorted genres including pop, rock and indie
-of original and cover music.
+<p>Temasek Polytechnic Music Vox (TPMV) is a family of musicians, typically
+made up of vocalists, guitarists, bassists, keyboardists, songwriters,
+drummers and even producers, who play, record and perform assorted genres
+including pop, rock and indie of original and cover music.
 <br>
 <br>They are often invited to perform for events on and off campus such as
-Esplanade's "In Youthful Company" and Temasek Spectacular, having been
-recognised for their musical synergy and crowd appeal. They have released
-their EP and LP albums of original music, titled ‘Beginnings’ and 'Full
-Bloom' respectively, on Spotify and other major streaming platforms.
-<br>
-<br>
-</p>
+Esplanade's "In Youthful Company" and "Homegrown Festival" at OCBC Square,
+having been recognised for their musical synergy and crowd appeal. They
+have released their EP and LP albums of original music, titled ‘Beginnings’
+and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
