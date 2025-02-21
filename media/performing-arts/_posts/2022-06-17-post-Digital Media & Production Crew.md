@@ -43,31 +43,38 @@ a variety of productions.</p>
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tapestry Arts Festival (2023)</p>
+<p>TP Open House (2025)</p>
 </li>
 <li>
-<p>Polytechnic Forum (2023)</p>
+<p>Alchemy (2024)</p>
 </li>
 <li>
-<p>Temasek Student Excellence Awards Ceremony (2020-2023)</p>
+<p>DREAMS (2016-2019, 2021-2022, 2024)</p>
+</li>
+<li>
+<p>Tapestry Arts Festival (2022-2024)</p>
+</li>
+<li>
+<p>Temasek Polytechnic National Day Concert (2016, 2022-2024)</p>
+</li>
+<li>
+<p>Temasek Spectacular (2016-2019, 2022, 2024)</p>
 </li>
 <li>
 <p>Temasek Regatta x Samudra (2023)</p>
 </li>
 <li>
-<p>Union Management Games (2023)</p>
+<p>Union Management Games (2023, 2024)</p>
 </li>
 <li>
-<p>National Day Concert (2022 &amp; 2023)</p>
+<p>Temasek Student Excellence Awards Ceremony (2017-2024)</p>
 </li>
 <li>
-<p>Temasek Spectacular (2022)</p>
-</li>
-<li>
-<p>DREAMS XII (2022)</p>
+<p>Polytechnic Forum (2017, 2023)</p>
 </li>
 <li>
 <p>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</p>
+<p></p>
 </li>
 </ul>
 <h5>Achievements</h5>
