@@ -22,10 +22,7 @@ management and technical support, DMPC brings ideas to life.
 <br>Engaging in audio, lighting, staging, visual media and post-production,
 the close-knit and dedicated group makes magic happen. Members receive
 training in a multitude of areas with current industry practitioners, and
-have abundant opportunites to practice these skills in real-world situations.
-<br>
-<br>
-</p>
+have abundant opportunites to practice these skills in real-world situations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
