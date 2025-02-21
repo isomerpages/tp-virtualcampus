@@ -27,7 +27,6 @@ over several set distances. TP Archery Team competes in the Polytechnic-ITE
 <br>POL-ITE Games 2023: Silver (Men’s Team) &amp; Bronze (Women's Team)
 <br>
 <br><strong>Training Days:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
