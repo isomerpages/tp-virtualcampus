@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Touch_Football_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Touch_Football_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +30,6 @@ females and the team competes in the Polytechnic-ITE (POL-ITE) and Institute-Var
 Polytechnic (IVP) Touch Football Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
