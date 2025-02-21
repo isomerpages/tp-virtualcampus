@@ -29,7 +29,6 @@ Table-Tennis Games annually.
 <br>POL-ITE Games 2023: Bronze (Men’s Team) &amp; Silver (Women’s Team)
 <br>
 </p>
-<p></p>
 <p><strong>Training Days:</strong>
 <br>Monday &amp; Wednesday, 7pm
 <br>
