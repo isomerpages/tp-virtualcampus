@@ -172,7 +172,9 @@ and supporters.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/soccer" rel="noopener noreferrer nofollow" target="_blank">Soccer</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_Resized.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/sport-climbing" rel="noopener noreferrer nofollow" target="_blank">Sport Climbing</a></strong>
