@@ -77,7 +77,13 @@ Ahmad Kamil, Nikki Chan and Gerald Chan respectively.</p>
 <p>Mighty Nomads' BBOY POL-ITE 2018 (Champion)</p>
 </li>
 <li>
+<p>Super 24 2018: The Passionate Dancing Elders (Champion for Open Category)</p>
+</li>
+<li>
 <p>Super 24 2017 (Champion for Open Category)</p>
+</li>
+<li>
+<p>TRDO Duet 2016 (Champion)</p>
 </li>
 </ul>
 <hr>
