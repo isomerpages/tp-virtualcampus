@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,9 +55,7 @@ Games and SR Nathan Challenge Trophy Soccer Tournament annually.
 <p>CCA <a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Men's
 Soccer)
 <br>CCA <a href="https://www.instagram.com/tpgazelles" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Women's
-Soccer)
-<br>
-</p>
+Soccer)</p>
 </td>
 </tr>
 </tbody>
