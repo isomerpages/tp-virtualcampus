@@ -29,8 +29,6 @@ momentum and turn them into various throws or joint locks.
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:TAN_Lui_Hua@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Lui Hua</a>
 <br>
 <br>CCA <a href="https://www.instagram.com/tpaikido/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
-<br>
-<br>
 </p>
 </td>
 </tr>
