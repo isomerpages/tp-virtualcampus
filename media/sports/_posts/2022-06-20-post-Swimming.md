@@ -30,7 +30,6 @@ the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming
 Championship annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
