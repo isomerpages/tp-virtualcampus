@@ -163,7 +163,9 @@ and supporters.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/silat/" rel="noopener noreferrer nofollow" target="_blank">Silat</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Silat_Resized.png">
+</div>
 </td>
 </tr>
 <tr>
