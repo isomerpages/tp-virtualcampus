@@ -30,7 +30,6 @@ annually.
 <br>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
 <br>
 <br><strong>Training Days:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,8 +43,6 @@ annually.
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:KOH_Wen_Kiat@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Wen Kiat</a>
 <br>
 <br>CCA <a href="https://www.instagram.com/tpkayakracingteam/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
-<br>
-<br>
 </p>
 </td>
 </tr>
