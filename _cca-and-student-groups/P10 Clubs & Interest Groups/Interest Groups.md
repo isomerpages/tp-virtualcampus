@@ -203,48 +203,35 @@ variant: tiptap
 <p><strong><a href="/interest-groups/senvocates/" rel="noopener noreferrer nofollow" target="_blank">SENvocates</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="SENvocates" src="/images/Interest Groups/SENVOCATES_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/SENvocates_Resized.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/spacehaus/" rel="noopener noreferrer nofollow" target="_blank">SpaceHaus</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Spacehaus.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/toastmasters/" rel="noopener noreferrer nofollow" target="_blank">Toastmasters</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Toastmasters" src="/images/Interest Groups/TOASTMASTERS_button-01.png">
-</div>
+<p></p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/sustainability-interest-group/" rel="noopener noreferrer nofollow" target="_blank">TP Sustainability Interest Group</a></strong>
+<p><strong><a href="/interest-groups/sustainability-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Interest Group</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/SUSTIC_Logo.png">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank">TWIST</a></strong>
+<p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank">TP Women In Science &amp; Technology</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TWIST.png">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/visual-arts-and-writing-club/" rel="noopener noreferrer nofollow" target="_blank">Visual Arts &amp; Writing Club</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Visual Arts &amp; Writing Club" src="/images/Interest Groups/VAWC_button-01.png">
-</div>
 <p></p>
 </td>
 </tr>
