@@ -163,7 +163,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/SENvocates_Resized.png">
 </div>
 <p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -192,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/tp- debates/" rel="noopener noreferrer nofollow" target="_blank">TP Debates</a></strong>
+<p><strong><a href="/interest-groups/tp- debates/" rel="noopener noreferrer nofollow" target="_blank">TP Debate</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debates_Resized.png">
@@ -204,7 +203,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_International_Students_Group_Resized.png">
 </div>
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,8 +225,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Women_In_Science___Technology_Resized.png">
 </div>
-<p></p>
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
