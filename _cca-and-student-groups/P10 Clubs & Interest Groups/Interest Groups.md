@@ -75,6 +75,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/engineering-makers-club/" rel="noopener noreferrer nofollow" target="_blank">Engineering Makers Club</a></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Makers_Club_Resized.png">
 </div>
@@ -82,6 +83,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/entrepreneurship-club/" rel="noopener noreferrer nofollow" target="_blank">Entrepreneurship Club</a></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Club_Resized.png">
 </div>
@@ -90,26 +92,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/fitness-through-science/" rel="noopener noreferrer nofollow" target="_blank">Fitness Through Science</a></strong>
+<p><strong><a href="/interest-groups/fitness-through-science/" rel="noopener noreferrer nofollow" target="_blank">Fitness Through Science </a></strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Fitness Through Science" src="/images/Interest Groups/FITS_button-01.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/global-ambassadors-engineering/" rel="noopener noreferrer nofollow" target="_blank">Global Ambassadors (ENG)</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Global_Ambassadors.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/global-connect-student-group/" rel="noopener noreferrer nofollow" target="_blank">Global Connect Student Group</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Global Connect Student Group" src="/images/Interest Groups/GCSG_button-01.png">
-</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
