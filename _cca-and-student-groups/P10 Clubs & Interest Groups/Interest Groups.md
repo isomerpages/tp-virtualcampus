@@ -90,6 +90,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/glocal-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">Glocal Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -190,17 +201,6 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
