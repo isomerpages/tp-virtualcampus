@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/debates/" rel="noopener noreferrer nofollow" target="_blank">Debates</a></strong>
+<p><strong><a href="/interest-groups/debates/" rel="noopener noreferrer nofollow" target="_blank">TP Debates</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debates_Resized.png">
@@ -49,10 +49,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/design-student-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">DES Student Ambassadors</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Design_Student_Ambassadors_Resized.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/ecgambassadors/" rel="noopener noreferrer nofollow" target="_blank">ECG Ambassadors</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/ECG_Ambassadors_Resized.png">
+</div>
 <p></p>
 <p></p>
 </td>
