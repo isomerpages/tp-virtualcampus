@@ -73,14 +73,15 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/humanities-and-social-sciences-studies-club" rel="noopener noreferrer nofollow" target="_blank">HSS Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Humanities &amp; Social Sciences Studies Club" src="/images/P10/HSSSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/HSS_Studies_Club_Resized.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/informatics-and-it-studies-club" rel="noopener noreferrer nofollow" target="_blank">IIT Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Informatics &amp; IT Studies Club" src="/images/P10/IITSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/IIT_Studies_Club_Resized.png">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -90,7 +91,7 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/sports-club" rel="noopener noreferrer nofollow" target="_blank">Sports Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Sports Club" src="/images/P10/SPORTS CLUB_button-01-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Sports_Club_Resized.png">
 </div>
 </td>
 </tr>
@@ -99,7 +100,7 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/students-union" rel="noopener noreferrer nofollow" target="_blank">Students' Union</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Students’ Union" src="/images/P10/TPSU_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Students__Union_Resized.png">
 </div>
 <p></p>
 </td>
