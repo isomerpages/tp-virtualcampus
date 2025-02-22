@@ -148,22 +148,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/nyaa-challenge/" rel="noopener noreferrer nofollow" target="_blank">NYAA Challenge</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/NYAA_Challenge_Interest_Group_Resized_1.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/peer-supporters-in-action/" rel="noopener noreferrer nofollow" target="_blank">Peer Supporters-in-Action</a></strong>
@@ -171,8 +160,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Peer_Supporters_In_Action_Resized_1.png">
 </div>
-<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/senvocates/" rel="noopener noreferrer nofollow" target="_blank">SENvocates</a></strong>
 </p>
@@ -181,8 +171,6 @@ variant: tiptap
 </div>
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/spacehaus/" rel="noopener noreferrer nofollow" target="_blank">SpaceHaus</a></strong>
 </p>
@@ -197,12 +185,21 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Sustainability_Interest_Group_Resized.png">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/tp-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">TP Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Ambassadors_Resized.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <p></p>
 <p></p>
