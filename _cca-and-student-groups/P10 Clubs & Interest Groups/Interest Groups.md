@@ -139,6 +139,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/innovate-committee/" rel="noopener noreferrer nofollow" target="_blank">iNNOVATE Committee</a></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/iNNOVATE_Committee_Resized.png">
 </div>
@@ -146,25 +147,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/international-students-group/" rel="noopener noreferrer nofollow" target="_blank">International Students Group</a></strong>
+<p><strong><a href="/interest-groups/international-students-group/" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="International Students Group" src="/images/Interest Groups/ISG_button-01-v2.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/iprs-student-chapter/" rel="noopener noreferrer nofollow" target="_blank">TP-IPRS Student Chapter</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Institute of Public Relations of Singapore Student Chapter" src="/images/Interest Groups/IPRS_button-01-v2.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/japanese-cultural-group/" rel="noopener noreferrer nofollow" target="_blank">Japanese Cultural Group</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Japanese Cultural Group" src="/images/Interest Groups/JCG_button-01.png">
-</div>
 <p></p>
 <p></p>
 </td>
