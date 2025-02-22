@@ -76,6 +76,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/engineering-makers-club/" rel="noopener noreferrer nofollow" target="_blank">Engineering Makers Club</a></strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Makers_Club_Resized.png">
 </div>
@@ -83,6 +84,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/entrepreneurship-club/" rel="noopener noreferrer nofollow" target="_blank">Entrepreneurship Club</a></strong>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Club_Resized.png">
@@ -246,4 +248,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
