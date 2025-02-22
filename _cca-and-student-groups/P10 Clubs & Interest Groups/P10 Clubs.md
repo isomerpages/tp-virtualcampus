@@ -48,17 +48,15 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/community-service-club" rel="noopener noreferrer nofollow" target="_blank">Community Service Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Community Service Club" src="/images/P10/CSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Community_Service_Club_Resized.png">
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/design-studies-club" rel="noopener noreferrer nofollow" target="_blank">Design Studies Club</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Design Studies Club" src="/images/P10/DSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Design_Studies_Club_Resized.png">
 </div>
 <p></p>
 </td>
@@ -66,9 +64,8 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/engineering-studies-club" rel="noopener noreferrer nofollow" target="_blank">Engineering Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Engineering Studies Club" src="/images/P10/ESC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club_Resized.png">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
