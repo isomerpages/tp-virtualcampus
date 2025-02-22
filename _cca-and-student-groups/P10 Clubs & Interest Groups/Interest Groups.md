@@ -244,6 +244,10 @@ variant: tiptap
 <p><strong><a href="/interest-groups/visual-arts-and-writing-club/" rel="noopener noreferrer nofollow" target="_blank">Visual Arts &amp; Writing Club</a></strong>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Visual_Arts___Writing_Club_Resized.png">
+</div>
 </td>
 </tr>
 </tbody>
