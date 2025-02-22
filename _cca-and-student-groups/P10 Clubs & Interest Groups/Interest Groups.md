@@ -178,23 +178,19 @@ variant: tiptap
 <p><strong><a href="/interest-groups/lead-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">LEAD Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="LEAD Ambassadors" src="/images/Interest Groups/LEAD_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/LEAD_Ambassadors_Resized.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/nyaa-challenge/" rel="noopener noreferrer nofollow" target="_blank">NYAA Challenge</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="NYAA Challenge" src="/images/Interest Groups/NYAA_button-01.png">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/peer-supporters-in-action/" rel="noopener noreferrer nofollow" target="_blank">Peer Supporters-in-Action</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Peer Supporters-in-Action" src="/images/Interest Groups/PSIA_button-01.png">
-</div>
+<p></p>
 <p></p>
 </td>
 </tr>
