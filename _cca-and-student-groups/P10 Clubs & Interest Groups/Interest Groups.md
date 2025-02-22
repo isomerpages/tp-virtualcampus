@@ -92,23 +92,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/fitness-through-science/" rel="noopener noreferrer nofollow" target="_blank">Fitness Through Science </a></strong>
+<p><strong><a href="/interest-groups/fitness-through-science/" rel="noopener noreferrer nofollow" target="_blank">Fitness Through Science</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Fitness_Through_Science_Interest_Group_Resized.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/global-ambassadors-engineering/" rel="noopener noreferrer nofollow" target="_blank">Global Ambassadors (ENG)</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Global_Ambassadors__Engineering__Resized.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/global-connect-student-group/" rel="noopener noreferrer nofollow" target="_blank">Global Connect Student Group</a></strong>
+<p><strong><a href="/interest-groups/glocal-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">Glocal Ambassadors</a></strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Glocal_Ambassadors_Resized.png">
+</div>
 <p></p>
 </td>
 </tr>
@@ -238,4 +242,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Fitness_Through_Science_Interest_Group_Resized.png">
+</div>
 <p></p>
