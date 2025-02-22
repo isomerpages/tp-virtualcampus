@@ -42,22 +42,17 @@ variant: tiptap
 <p><strong><a href="/interest-groups/debates/" rel="noopener noreferrer nofollow" target="_blank">Debates</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Debates" src="/images/Interest Groups/DEBATES_button-01-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debates_Resized.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/design-student-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">DES Student Ambassadors</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Design Student Ambassadors" src="/images/Interest Groups/DSA_button-01.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/ecgambassadors/" rel="noopener noreferrer nofollow" target="_blank">ECG Ambassadors</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/ECG_Square.png">
-</div>
 <p></p>
 <p></p>
 </td>
