@@ -97,24 +97,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="https://cms.isomer.gov.sg/interest-groups/glocal-ambassadors/" rel="noopener noreferrer nofollow" target="_blank"><u>Glocal Ambassadors</u></a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Glocal_Ambassadors_Resized.png">
 </div>
-<p></p>
-<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,13 +110,24 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Horticulture___Botany_Society_Resized.png">
 </div>
+<p></p>
+<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/ies-student-chapter/" rel="noopener noreferrer nofollow" target="_blank">IES Student Chapter</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/IES_Student_Chapter_Resized.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
