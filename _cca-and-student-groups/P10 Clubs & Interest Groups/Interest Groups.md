@@ -93,41 +93,46 @@ variant: tiptap
 <p><strong><a href="/interest-groups/glocal-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">Glocal Ambassadors</a></strong>
 </p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <p></p>
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/horticulture/" rel="noopener noreferrer nofollow" target="_blank">Horticulture &amp; Botany Society</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Horticulture___Botany_Society_Resized.png">
 </div>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/ies-student-chapter/" rel="noopener noreferrer nofollow" target="_blank">IES Student Chapter</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/IES_Student_Chapter_Resized.png">
 </div>
+<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/innovate-committee/" rel="noopener noreferrer nofollow" target="_blank">iNNOVATE Committee</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/iNNOVATE_Committee_Resized.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/interest-groups/japanese-cultural-group/" rel="noopener noreferrer nofollow" target="_blank">Japanese Cultural Group</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Japanese_Cultural_Group_Resized.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -148,12 +153,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/japanese-cultural-group/" rel="noopener noreferrer nofollow" target="_blank">Japanese Cultural Group</a></strong>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Japanese_Cultural_Group_Resized.png">
-</div>
+<p></p>
 <p></p>
 <p></p>
 </td>
