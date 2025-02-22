@@ -45,7 +45,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/interest-groups/ecgambassadors/" rel="noopener noreferrer nofollow" target="_blank">ECG Ambassadors</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/ECG_Ambassadors_Resized.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,11 +58,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/ecgambassadors/" rel="noopener noreferrer nofollow" target="_blank">ECG Ambassadors</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/ECG_Ambassadors_Resized.png">
-</div>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
