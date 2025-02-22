@@ -65,24 +65,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/engineering-student-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">Engineering Student Ambassadors</a></strong>
+<p><strong><a href="/interest-groups/engineering-student-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">ENG Student Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Engineering Student Ambassadors" src="/images/Interest Groups/ESA_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Studen_Ambassadors_Resized.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/engineering-makers-club/" rel="noopener noreferrer nofollow" target="_blank">Engineering Makers Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Engineering Makers Club" src="/images/Interest Groups/EMC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Makers_Club_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/entrepreneurship-club/" rel="noopener noreferrer nofollow" target="_blank">Entrepreneurship Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Entrepreneurship Club" src="/images/Interest Groups/EC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Club_Resized.png">
 </div>
 <p></p>
 </td>
