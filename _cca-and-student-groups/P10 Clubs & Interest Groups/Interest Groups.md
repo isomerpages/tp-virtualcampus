@@ -32,7 +32,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/design-ai-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Design Ai Interest Group</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Design_AI_Interest_Group_Resized.png">
+</div>
 </td>
 </tr>
 <tr>
