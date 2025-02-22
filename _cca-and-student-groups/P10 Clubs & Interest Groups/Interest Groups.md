@@ -15,19 +15,12 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/tp-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">TP Ambassadors</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Ambassadors_Resized.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/business-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">BUS Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Business_Ambassadors_Resized.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/cd-lionhearters/" rel="noopener noreferrer nofollow" target="_blank">CD Lionhearters</a></strong>
@@ -36,16 +29,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/CD_Lionhearters_Resized.png">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/tp- debates/" rel="noopener noreferrer nofollow" target="_blank">TP Debates</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debates_Resized.png">
-</div>
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/design-student-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">DES Student Ambassadors</a></strong>
 </p>
@@ -53,12 +36,21 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Design_Student_Ambassadors_Resized.png">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/ecgambassadors/" rel="noopener noreferrer nofollow" target="_blank">ECG Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/ECG_Ambassadors_Resized.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <p></p>
 </td>
@@ -232,6 +224,7 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank">TP Women In Science &amp; Technology</a></strong>
@@ -241,13 +234,32 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><a href="/interest-groups/tp-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">TP Ambassadors</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Ambassadors_Resized.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/interest-groups/tp- debates/" rel="noopener noreferrer nofollow" target="_blank">TP Debates</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debates_Resized.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/visual-arts-and-writing-club/" rel="noopener noreferrer nofollow" target="_blank">Visual Arts &amp; Writing Club</a></strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Visual_Arts___Writing_Club_Resized.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
