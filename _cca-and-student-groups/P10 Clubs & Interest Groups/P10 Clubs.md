@@ -24,24 +24,17 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong>&nbsp;<a href="/p10/adventure-club" rel="noopener noreferrer nofollow" target="_blank">Adventure Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Adventure Club" src="/images/P10/TPAC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Adventure_Club_Resized.png">
 </div>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/applied-science-studies-club" rel="noopener noreferrer nofollow" target="_blank">ASC Studies Club</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Applied Science Studies Club" src="/images/P10/ASSC_button-01.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/business-studies-club" rel="noopener noreferrer nofollow" target="_blank">BUS Studies Club</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Business Studies Club" src="/images/P10/BSC_button-01.png">
-</div>
 <p>&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
