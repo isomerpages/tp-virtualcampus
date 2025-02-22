@@ -18,7 +18,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/ambassadors/" rel="noopener noreferrer nofollow" target="_blank">TP Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/AMBASSADORS_button-01-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Ambassadors_Resized.png">
 </div>
 <p></p>
 </td>
@@ -26,14 +26,14 @@ variant: tiptap
 <p><strong><a href="/interest-groups/business-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">BUS Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Business Ambassadors" src="/images/Interest Groups/BA_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Business_Ambassadors_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/cd-lionhearters/" rel="noopener noreferrer nofollow" target="_blank">CD Lionhearters</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="CD Lionhearters" src="/images/Interest Groups/LIONHEARTERS_button-01-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/CD_Lionhearters_Resized.png">
 </div>
 </td>
 </tr>
@@ -41,7 +41,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/debates/" rel="noopener noreferrer nofollow" target="_blank">Debates</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Debates" src="/images/Interest Groups/DEBATES_button-01-v2.png">
 </div>
@@ -56,7 +55,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/ecgambassadors/" rel="noopener noreferrer nofollow" target="_blank">ECG Ambassadors</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/ECG_Square.png">
 </div>
@@ -75,7 +73,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/engineering-makers-club/" rel="noopener noreferrer nofollow" target="_blank">Engineering Makers Club</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Engineering Makers Club" src="/images/Interest Groups/EMC_button-01.png">
 </div>
@@ -83,7 +80,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/entrepreneurship-club/" rel="noopener noreferrer nofollow" target="_blank">Entrepreneurship Club</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Entrepreneurship Club" src="/images/Interest Groups/EC_button-01.png">
 </div>
@@ -130,7 +126,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/ies-student-chapter/" rel="noopener noreferrer nofollow" target="_blank">IES Student Chapter</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Institution of Engineers, Singapore Student Chapter" src="/images/Interest Groups/IES_button-01.png">
 </div>
@@ -229,7 +224,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank">TWIST</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TWIST.png">
 </div>
