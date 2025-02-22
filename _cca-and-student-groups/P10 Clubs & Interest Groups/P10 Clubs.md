@@ -31,11 +31,16 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/applied-science-studies-club" rel="noopener noreferrer nofollow" target="_blank">ASC Studies Club</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Applied_Science_Studies_Club_Resized.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/business-studies-club" rel="noopener noreferrer nofollow" target="_blank">BUS Studies Club</a></strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Business_Studies_Club_Resized.png">
+</div>
 </td>
 </tr>
 <tr>
