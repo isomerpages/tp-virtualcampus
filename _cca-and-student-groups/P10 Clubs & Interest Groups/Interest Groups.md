@@ -227,12 +227,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/sustainability-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Interest Group</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Sustainability_Interest_Group_Resized.png">
+</div>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank">TP Women In Science &amp; Technology</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Women_In_Science___Technology_Resized.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/visual-arts-and-writing-club/" rel="noopener noreferrer nofollow" target="_blank">Visual Arts &amp; Writing Club</a></strong>
