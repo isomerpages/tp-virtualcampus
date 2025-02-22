@@ -30,6 +30,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><a href="/interest-groups/design-ai-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Design Ai Interest Group</a></strong>
+</p>
 <p></p>
 </td>
 </tr>
