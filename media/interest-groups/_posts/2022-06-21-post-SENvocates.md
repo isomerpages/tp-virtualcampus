@@ -40,6 +40,7 @@ events</p>
 and volunteering work</p>
 </li>
 </ul>
+<p></p>
 <p>Together with the SEN Support Division from Student Support &amp; Career
 Services, we aim to foster an environment that is inclusive for every TP
 student, regardless of their challenges, and to make a difference to the
@@ -58,6 +59,7 @@ participating in include:</p>
 <p>Purple Parade Campus Activation</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Meeting Day:</strong> 
 <br>Event basis
 <br>
