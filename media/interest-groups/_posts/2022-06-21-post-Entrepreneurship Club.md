@@ -75,8 +75,8 @@ Entrepreneurship Hackathon 2022. This event was organised by the Passage
 to Asean Association (P2A), which TP played the part of co-host.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Meeting Day:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -86,6 +86,7 @@ to Asean Association (P2A), which TP played the part of co-host.</p>
 <p>Regular monthly events for members and sub-committees</p>
 </li>
 </ul>
+<p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:NG_Shin_Leong@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Shin Leong</a> (Main Advisor)
 &amp; <a href="mailto:CHEN_Yireng@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Yireng</a> (Co-advisor)
 <br>
