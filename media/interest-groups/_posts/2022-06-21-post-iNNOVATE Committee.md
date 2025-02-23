@@ -16,7 +16,7 @@ image: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Spirit_Of_Enterprise__SOE__TP_Student_Chapter.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/iNNOVATE_Committee.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,7 @@ to embark on an innovation and entrepreneurial journey.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:John_LOW@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr John Low</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/innovate_tp_/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/innovate_tp_/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
