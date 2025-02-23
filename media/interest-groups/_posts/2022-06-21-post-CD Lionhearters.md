@@ -48,7 +48,7 @@ forward to include:</p>
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:LYE_Khim_Fatt@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Lye Khim Fatt</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpcdlionhearters" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpcdlionhearters" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
