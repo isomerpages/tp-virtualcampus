@@ -16,7 +16,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Club.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ to Asean Association (P2A), which TP played the part of co-host.</p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:NG_Shin_Leong@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Shin Leong</a> (Main Advisor)
 &amp; <a href="mailto:CHEN_Yireng@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Yireng</a> (Co-advisor)
 <br>
-<br>CCA <a href="https://www.instagram.com/tpec.enspire/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpec.enspire/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
