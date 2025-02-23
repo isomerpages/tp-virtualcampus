@@ -196,7 +196,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/interest-groups/engineering-peer-mentors/" rel="noopener noreferrer nofollow" target="_blank">Engineering Peer Mentors</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
