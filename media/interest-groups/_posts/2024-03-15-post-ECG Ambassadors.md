@@ -41,6 +41,7 @@ students</p>
 <p>Encourage self-directedness of students among TP students in ECG matters</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Planned Activities:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -64,8 +65,7 @@ students</p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Karen_Yap@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karen Yap</a> (Main Advisor) &amp;
 <a href="mailto:Corinne_Cheng_Hong_TAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Corinne Tan</a>(Co-advisor)</p>
 <p></p>
-<p><strong>CCA <a href="https://www.instagram.com/tp_ecga/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
-<br>
+<p>CCA <a href="https://www.instagram.com/tp_ecga/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
 </td>
 </tr>
