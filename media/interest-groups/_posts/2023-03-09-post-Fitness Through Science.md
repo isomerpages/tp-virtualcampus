@@ -16,7 +16,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Entrepreneurship Group" src="/images/Interest Groups/FITS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Fitness_Through_Science_Interest_Group.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ Week.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Lester_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Lester Lim</a> &amp; <a href="mailto:Glendon_TEO@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Glendon Teo</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/asc.fits/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/asc.fits/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
