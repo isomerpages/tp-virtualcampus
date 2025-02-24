@@ -29,7 +29,7 @@ sport improves balance, and strengthens the upper and lower body muscles.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Celine_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Celine Clare Lim</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpinlineskate/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpinlineskate/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
