@@ -34,7 +34,7 @@ side). TP Badminton Teams (Men &amp; Women) compete in the Polytechnic-ITE
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Koh_Wen_Kiat@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Wen Kiat</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpbadminton/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpbadminton/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
