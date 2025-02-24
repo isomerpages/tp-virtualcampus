@@ -30,7 +30,7 @@ TP Handball (Men) team competes in external competitions annually.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tan_Thian_Seng@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Thian Seng</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tphandball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tphandball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
