@@ -33,7 +33,7 @@ team competes in the Polytechnic-ITE (POL-ITE) Water Polo Games annually.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tan_Thian_Seng@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Thian Seng</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/temasekwaterpolo/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/temasekwaterpolo/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
