@@ -67,7 +67,7 @@ overseas students</p>
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:yokemoon@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Moon</a> 
 <br>
-<br>CCA <a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
