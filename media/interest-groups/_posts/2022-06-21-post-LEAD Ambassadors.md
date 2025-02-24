@@ -29,7 +29,7 @@ on possible collaborations to benefit the LEAD community.</p>
 <p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Farhan_Bin_Kamis@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Farhan Kamis</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
