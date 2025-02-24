@@ -64,6 +64,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="/interest-groups/engineering-peer-mentors/" rel="noopener noreferrer nofollow" target="_blank">Engineering Peer Mentors</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Peer_Mentors_Resized.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/engineering-student-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">ENG Student Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -196,11 +212,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/engineering-peer-mentors/" rel="noopener noreferrer nofollow" target="_blank">Engineering Peer Mentors</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Peer_Mentors_Resized.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
