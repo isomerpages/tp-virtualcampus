@@ -45,7 +45,7 @@ Polytechnic (IVP) Touch Football Games annually.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Haffiz Amin</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpiranhas" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpiranhas" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
