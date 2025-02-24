@@ -54,7 +54,7 @@ as:
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:boey_suit_yim@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Boey Suit Yim</a>, <a href="mailto:Aidli_MOSBIT@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Aidli Mosbit</a>,
 <a href="mailto:Mindy_NGUYEN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mindy Nguyen</a>, <a href="mailto:Leslie_Chan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leslie Chan</a> &amp; <a href="mailto:Lim_Lin_Da@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lin Da</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpisg" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpisg" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
