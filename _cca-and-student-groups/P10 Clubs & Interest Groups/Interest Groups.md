@@ -213,24 +213,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/international-students-group/" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -245,8 +227,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_IPRS_Student_Chapter_Resized.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/tp-toastmasters/" rel="noopener noreferrer nofollow" target="_blank">TP Toastmasters</a></strong>
 </p>
@@ -254,12 +234,29 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Toastmasters_Resized.png">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank">TP Women In Science &amp; Technology</a></strong>
+<p><strong><a href="https://cms.isomer.gov.sg/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Women In Science &amp; Technology</u></a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Women_In_Science___Technology_Resized.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
