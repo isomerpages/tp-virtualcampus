@@ -69,9 +69,8 @@ future generations!
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Rita_Woo@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Rita Woo</a> &amp; <a href="mailto:Yu_Zhang@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Yu</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpsustig/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpsustig/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
-<p></p>
 </li>
 </ul>
 </td>
