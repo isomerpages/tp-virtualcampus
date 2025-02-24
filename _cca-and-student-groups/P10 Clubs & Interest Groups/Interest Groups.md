@@ -237,7 +237,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://cms.isomer.gov.sg/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Women In Science &amp; Technology</u></a></strong>
+<p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Women In Science &amp; Technology</u></a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Women_In_Science___Technology_Resized.png">
