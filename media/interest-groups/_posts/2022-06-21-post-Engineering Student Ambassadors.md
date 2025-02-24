@@ -30,7 +30,7 @@ of Engineering to secondary school students.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_THAM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:Goh_Qiu_Ting@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Qiu Ting</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpeng_sa" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpeng_sa" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
