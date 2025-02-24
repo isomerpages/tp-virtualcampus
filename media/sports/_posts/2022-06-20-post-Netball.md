@@ -42,7 +42,7 @@ Games and Institute-Varsity Polytechnic (IVP) Games annually.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Nur_Soleha_KAMAL@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Soleha Kamal</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpnetball_" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpnetball_" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
