@@ -44,7 +44,7 @@ annually.
 &amp; <a href="mailto:Charis_Woo@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charis Woo</a> (Women's
 Team)
 <br>
-<br>CCA <a href="https://www.instagram.com/tphockey_rays" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tphockey_rays" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
