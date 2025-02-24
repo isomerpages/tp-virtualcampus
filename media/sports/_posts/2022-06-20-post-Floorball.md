@@ -44,7 +44,7 @@ Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechni
 <p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG)" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Haffiz Amin</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpfloorball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpfloorball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
