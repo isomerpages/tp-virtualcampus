@@ -33,8 +33,7 @@ a member now!
 <br>
 <br><strong>CCA Staff Advisors:</strong>  <a href="mailto:Zara_CHOO@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zara Choo</a>, <a href="mailto:NG_Qihui@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Qihui</a> 
 <br>
-<br>CSC <a href="mailto:csc@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a>
-<br>CCA <a href="https://www.instagram.com/tp_csc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CSC <a href="mailto:csc@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a><br>CCA <a href="https://www.instagram.com/tp_csc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
