@@ -43,7 +43,7 @@ Women) compete in the Polytechnic-ITE (POL-ITE) Tennis Games annually.
 <p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Sheena_WANG@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheena Wang</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp_tennis" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp_tennis" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
