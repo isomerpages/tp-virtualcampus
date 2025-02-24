@@ -65,7 +65,7 @@ students</p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Karen_Yap@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karen Yap</a> (Main Advisor) &amp;
 <a href="mailto:Corinne_Cheng_Hong_TAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Corinne Tan</a>(Co-advisor)</p>
 <p></p>
-<p>CCA <a href="https://www.instagram.com/tp_ecga/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<p><strong>CCA <a href="https://www.instagram.com/tp_ecga/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
