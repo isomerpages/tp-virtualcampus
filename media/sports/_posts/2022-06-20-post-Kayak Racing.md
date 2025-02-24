@@ -42,7 +42,7 @@ annually.
 <p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:KOH_Wen_Kiat@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Wen Kiat</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpkayakracingteam/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpkayakracingteam/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
