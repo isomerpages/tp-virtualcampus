@@ -34,7 +34,7 @@ Table-Tennis Games annually.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charis_Woo@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charis Woo</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tptabletennis" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tptabletennis" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
