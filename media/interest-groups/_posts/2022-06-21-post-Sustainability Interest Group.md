@@ -16,7 +16,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Green Interest Group" src="/images/Interest Groups/TPGIG.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Sustainability_Interest_Group_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
