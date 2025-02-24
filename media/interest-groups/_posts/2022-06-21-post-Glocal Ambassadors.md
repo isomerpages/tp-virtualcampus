@@ -60,9 +60,8 @@ Integration In Action and Cross-Cultural Symposium (2024)</p>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Leslie_Chan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leslie Chan</a>, <a href="mailto:Ruhi_LAL@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruhi Lal</a> &amp;
 <a href="mailto:Lim_Lin_Da@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lin Da</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/TP.GCSG" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/TP.GCSG" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
-<p></p>
 </td>
 </tr>
 </tbody>
