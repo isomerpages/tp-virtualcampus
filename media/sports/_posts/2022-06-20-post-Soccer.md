@@ -50,10 +50,8 @@ Games and SR Nathan Challenge Trophy Soccer Tournament annually.
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:TAN_Yeuan_Huei@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yeuan Huei</a>
 <br>
 </p>
-<p>CCA <a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Men's
-Soccer)
-<br>CCA <a href="https://www.instagram.com/tpgazelles" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Women's
-Soccer)</p>
+<p><strong>CCA <a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Men's Soccer) <br>CCA <a href="https://www.instagram.com/tpgazelles" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Women's Soccer)</strong>
+</p>
 </td>
 </tr>
 </tbody>
