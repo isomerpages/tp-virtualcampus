@@ -39,7 +39,7 @@ over several set distances. TP Archery Team competes in the Polytechnic-ITE
 <p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Nur_Soleha_KAMAL@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Soleha Kamal</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tparchery/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tparchery/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
