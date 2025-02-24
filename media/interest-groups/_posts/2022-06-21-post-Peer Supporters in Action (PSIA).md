@@ -56,7 +56,7 @@ expand social circle</p>
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Yap_Hui_Ting@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Hui Ting</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp.psia/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp.psia/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
