@@ -44,7 +44,7 @@ interest group!
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Shruti_PILARE@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Shruti Pilare</a>, <a href="mailto:Kadamb_PATEL@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Kadamb Patel</a> &amp;
 <a href="mailto:Ganapathy_Rajaseger@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Rajaseger Ganapathy</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/hnbsoc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/hnbsoc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
