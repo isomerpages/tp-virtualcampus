@@ -16,7 +16,7 @@ image: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Institute_of_Public_Relations_of_SG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_IPRS_Student_Chapter.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ sharing their thoughts and opinions about the industry.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Lily_Lim@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lily Lim</a> and <a href="mailto:Eunice_CHUA@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Eunice Chua </a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp_iprs" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp_iprs" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
