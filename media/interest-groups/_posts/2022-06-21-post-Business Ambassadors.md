@@ -30,7 +30,7 @@ TP Graduation Ceremony, and internal/external Learning Journeys.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Selene_GOH@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Selene Goh </a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpbizschool/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpbizschool/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
