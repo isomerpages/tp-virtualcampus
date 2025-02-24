@@ -216,7 +216,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/tp-international-students-group/" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_International_Students_Group_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_International_Students_Group_Resized_2.png">
 </div>
 <p></p>
 </td>
