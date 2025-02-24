@@ -47,7 +47,7 @@ in competitions featuring high level debaters.</p>
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:CHOY_Wai_Fann@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Choy Wai Fann</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpdebates" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpdebates" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
