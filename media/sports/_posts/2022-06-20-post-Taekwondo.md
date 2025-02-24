@@ -33,7 +33,7 @@ involves sparring with an opponent. TP Taekwondo Team competes in the Polytechni
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tan_Lui_Hua@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Lui Hua</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp_taekwondo" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp_taekwondo" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
