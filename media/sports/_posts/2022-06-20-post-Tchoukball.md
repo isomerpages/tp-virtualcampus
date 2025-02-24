@@ -38,7 +38,7 @@ without being caught by the defending team.
 &amp; <a href="mailto:Nur_Soleha_Kamal@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Soleha Kamal</a> (Women's
 Team)
 <br>
-<br>CCA <a href="https://www.instagram.com/tptchouk" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tptchouk" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
