@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Japanese Cultural Group" src="/images/CCA_japanese_cultural_group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Japanese_Cultural_Group.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ Japanese Association of Singapore (2024)</p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Nurulhuda_ADANAN@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Nurulhuda Adanan</a>, <a href="mailto:LEE_Siang_Jin@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Siang Jin</a>,
 <a href="mailto:Leslie_CHAN@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Leslie Chan</a>&amp; <a href="mailto:LIM_Lin_Da@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lin Da</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpjcg" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpjcg" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
