@@ -30,7 +30,7 @@ team competes in external competitions annually.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tan_Yeuan_Huei@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Yeuan Huei</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpkarate/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpkarate/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
