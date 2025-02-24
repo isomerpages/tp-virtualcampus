@@ -34,7 +34,7 @@ join us?
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Terence_LJ_LIN@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Terence Lim</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpadventureclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpadventureclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
