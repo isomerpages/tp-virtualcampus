@@ -30,7 +30,7 @@ too.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Julian_SIAU@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Julian Siau</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/designstudentambassadors" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/designstudentambassadors" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
