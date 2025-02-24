@@ -43,7 +43,7 @@ or supporting overseas student exchange programmes.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Fang_HU@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hu Fang</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/iestemasekpoly" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/iestemasekpoly" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
