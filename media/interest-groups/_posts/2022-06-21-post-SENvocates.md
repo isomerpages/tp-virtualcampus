@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/SENvocates.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Japanese_Cultural_Group.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,6 +48,7 @@ disability/SEN community beyond TP.
 <br>
 <br>Some events and projects that you can look forward to organising and/or
 participating in include:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bi-weekly "Let’s Hang Out!" sessions</p>
@@ -65,7 +66,7 @@ participating in include:</p>
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Christina_Chu@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Christina Chu</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp_senvocates/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp_senvocates/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
