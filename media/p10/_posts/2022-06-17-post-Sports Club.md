@@ -37,7 +37,7 @@ value of inclusivity. Come join us now and let's bring a change to TP together!
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Heinz_LOY@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Heinz Loy</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp_sportsclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp_sportsclub" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
