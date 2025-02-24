@@ -37,7 +37,7 @@ their talents and gain the recognition they deserve.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Haffiz Amin</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/teamtpsc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/teamtpsc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
