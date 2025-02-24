@@ -34,7 +34,7 @@ teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jow Pei Jun</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/temasekpoly_basketball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/temasekpoly_basketball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
