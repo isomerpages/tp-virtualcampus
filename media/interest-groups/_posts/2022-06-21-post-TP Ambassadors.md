@@ -36,7 +36,7 @@ on various fronts.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tiffany_Goh@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Tiffany Goh</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp_ambassadors" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp_ambassadors" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
