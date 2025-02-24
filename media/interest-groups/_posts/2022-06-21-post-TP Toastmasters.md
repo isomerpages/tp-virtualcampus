@@ -16,7 +16,7 @@ image: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Toastmasters" src="/images/Interest Groups/Toastmasters.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Toastmasters.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +65,7 @@ zone and experience revolutionary transformation.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charmaine_OEI@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Charmaine Oei</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tptoastmasters" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tptoastmasters" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
