@@ -36,6 +36,16 @@ sections:
       url: /events/freshmen-orientation-2025/
       alt: Image alt text
   - infopic:
+      title: Temasek Olympiad x SpecTACular
+      subtitle: A THRILLING FO FINALE!
+      id: infopic
+      description: Dear Freshies, wrap up your onboarding experience at this special
+        finale, featuring dragon boat races, team challenges, and captivating
+        arts performances!
+      button: BE ENTHRALLED HERE!
+      url: /events/freshmen-orientation-2025/
+      alt: Image alt text
+  - infopic:
       title: "DREAMS: Celebrating TP35"
       subtitle: KICKING OFF A SPECIAL YEAR!
       id: infopic
