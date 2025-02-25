@@ -59,4 +59,36 @@ needs;</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mark Your Calendar for the Grand Finale!</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>[Insert image here]</p>
+<p></p>
+<p>Gear up for an adrenaline-fueled finale at the <strong>Temasek Olympiad x SpecTACular</strong>!</p>
+<p>&nbsp;</p>
+<p>A special edition organised in celebration of TP’s 35th anniversary, this
+event encapsulates the best of our campus’ vibrant spirit, creative energy,
+and artistic splendour – all packed into an immersive experience on <strong>17 April 2025</strong>!</p>
+<p>&nbsp;</p>
+<p>As part of this finale, you will get to paddle or cheer on your friends
+in the thrilling dragon boat races, happening in the morning at our stunning
+waterfront backyard – Bedok Reservoir. In the afternoon, an exciting host
+of <strong>Olympiad-style</strong> team challenges will await you. In the
+spirit of friendly competition, get ready to put your physical skills and
+mental prowess to the test, or root for your peers along with a dash of
+sporting fun!</p>
+<p>&nbsp;</p>
+<p>As the sun sets, unwind under the evening stars at our <strong>SpecTACular – “Jam &amp; Hop”</strong> concert,
+while catching electrifying arts performances by TP’s finest talents. Finally,
+grab your friends and end this memorable day with a bang by grooving to
+the hottest tracks spun by our guest DJ!</p>
+<p>&nbsp;</p>
+<p>Packed with boundless energy and endless fun, this is one epic finale
+you will not want to miss. Come experience and immerse yourself in the
+vibrant spirit that makes TP truly special. See you there!</p>
+</div>
+</details>
+</div>
 <p></p>
