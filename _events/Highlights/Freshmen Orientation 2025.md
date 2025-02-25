@@ -91,4 +91,22 @@ vibrant spirit that makes TP truly special. See you there!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>TP: A Safe &amp; Fun Place to Study &amp; Play</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>At TP, your safety and well-being is our utmost priority. We have a zero-tolerance
+policy on hazing and derogatory behaviour on campus. Should you witness
+or experience anything concerning, you are strongly encouraged to report
+them to any TP staff or contact us via our whistle blower hotline at <strong><a rel="noopener noreferrer nofollow" target="_blank">sdaa@tp.edu.sg</a></strong>.</p>
+<p>&nbsp;</p>
+<p>We look forward welcoming you to TP!</p>
+<p>&nbsp;</p>
+<p><strong><em>(This page is constantly being updated with new information. Please remember to visit again nearer to April 2025.)</em></strong>
+</p>
+</div>
+</details>
+</div>
 <p></p>
