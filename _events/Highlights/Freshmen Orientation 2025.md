@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<h3><strong>Freshmen Orientation 2024</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/FOP_Page_1920_X_1080px_copy.jpg">
-</div>
+<h3><strong>Freshmen Orientation 2025</strong></h3>
+<p>[Insert image here]</p>
 <p><strong>Welcome, Freshmen!</strong>
 </p>
 <p>Congratulations on your successful enrolment to Temasek Polytechnic (TP)!</p>
