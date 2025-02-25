@@ -13,19 +13,19 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Dear Freshmen,</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Congratulations on your successful enrolment to Temasek Polytechnic (TP).</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Get ready for an amazing <strong>Freshmen Orientation (FO)</strong>! A
 highlight of TP’s calendar, the FO marks a momentous milestone in your
 academic journey as you progress into tertiary education. It is the perfect
 launchpad for your thrilling adventure of growth and discovery in TP.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Feeling those first-day jitters? Fret not! TP has lined up an exciting
 array of activities to help you kickstart this new chapter of your life
 on the right note, and to support your transition into the Polytechnic
 with confidence and fun.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>As part of FO, you will get to explore a series of onboarding activities
 organised by your respective Academic Schools. These experiences are specially
 curated to help you assimilate into polytechnic life, while providing you
@@ -34,7 +34,7 @@ eye on your <strong>TP Student email (<a rel="noopener noreferrer nofollow" targ
 find out more about the FO dates and activities applicable to you.</p>
 <p></p>
 <p>Here’s a sneak peek of what you can expect during FO:</p>
-<p>&nbsp;</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Meet your Care Persons and classmates from the same course of study;&nbsp;&nbsp;</p>
