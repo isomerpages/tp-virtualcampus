@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Freshmen Orientation 2025
+      subtitle: "WELCOME TO THE #TPFAM!"
+      id: infopic
+      description: "Hey Freshies, welcome to the #TPFAM! Get ready for a series of
+        exciting and engaging FO activities to kickstart your TP journey on the
+        right note!"
+      button: DISCOVER THE ACTION!
+      url: /events/freshmen-orientation-2025/
+      alt: Image alt text
+  - infopic:
       title: "DREAMS: Celebrating TP35"
       subtitle: KICKING OFF A SPECIAL YEAR!
       id: infopic
@@ -69,28 +79,6 @@ sections:
       url: /polite-games-2024/
       alt: Image alt text
       image: /images/Events/Sports/POL_ITE_Games__Medal_Tele__2024_1920_X_1080.jpg
-  - infopic:
-      title: TP Walk for Rice
-      subtitle: TRANSFORM STEPS INTO MEALS!
-      id: infopic
-      description: Our annual community initiative is back – bigger and better! Learn
-        how you can step up to make a difference and win attractive prizes at
-        the same time!
-      button: JOIN THE CAUSE!
-      alt: Image alt text
-      url: /events/clubs/tp-walk-for-rice/
-      image: /images/Events/Clubs/TP___Walk_for_Rice_Banner_2_1920px_x_1080px.jpg
-  - infopic:
-      title: "Tapestry Arts Festival 2024: Metamorphosis"
-      subtitle: ANNUAL ARTS FESTIVAL
-      id: infopic
-      description: The Temasek Arts Centre proudly presents this month-long festival,
-        featuring an enthralling line-up of events that showcases the very best
-        of TP’s arts groups!
-      button: BE CAPTIVATED HERE!
-      url: /tapestry-arts-festival-2024-metamorphosis/
-      image: /images/Events/Temasek Arts Centre/1920x1080px_Banner.png
-      alt: Image alt text
   - infopic:
       title: Want to be featured on this Virtual Campus?
       subtitle: Reach out to us
