@@ -110,4 +110,61 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Queries? Direct them to your respective Academic Schools!</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Applied Science</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>aschotline@tp.edu.sg</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Business</a></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>bushotline@tp.edu.sg</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Design</a></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>deshotline@tp.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Engineering</a></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>enghotline@tp.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Humanities &amp; Social <a rel="noopener noreferrer nofollow" target="_blank">Sciences</a></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>hsshotline@tp.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Informatics &amp; <a rel="noopener noreferrer nofollow" target="_blank">IT</a></strong>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>iit@tp.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <p></p>
