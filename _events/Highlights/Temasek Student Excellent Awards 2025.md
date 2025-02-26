@@ -120,7 +120,8 @@ The links are also provided below for your convenience.)</p>
 <p>This is awarded to students who have been actively involved in their respective
 CCAs over the past academic year (AY2024/2025).</p>
 <p>Submit your nominations via the prescribed nomination form to the TSEA
-Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;<u>here</u>.)</em>
+Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded via </em>
+<a href="https://for.edu.sg/ccaandcolouraward" rel="noopener nofollow" target="_blank">here</a><em>.)</em>
 </p>
 <p></p>
 <p></p>
