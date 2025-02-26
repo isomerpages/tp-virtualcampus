@@ -21,12 +21,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Table tennis, also known as ping-pong, is another familiar sport in Singapore.
 Play is fast and demands quick reactions and movements, making it an exciting
-sport to watch as well. TP Table Tennis Teams (Men &amp; Women) compete
+sport to watch as well. The TP Table Tennis Teams (Men &amp; Women) compete
 in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP)
 Table-Tennis Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2023: Bronze (Men’s Team) &amp; Silver (Women’s Team)
+<br>POL-ITE Games 2024: Silver (Men’s Team)
 <br>
 </p>
 <p><strong>Training Days:</strong>
