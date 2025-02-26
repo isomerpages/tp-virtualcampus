@@ -41,4 +41,27 @@ and values – all in the name of friendly competition and fun!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>SpecTACular – “Jam &amp; Hop”: Be Dazzled by Our Finest Arts Talents!</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Get ready for a “SpecTACular” concert at this year’s revitalised arts
+segment of our FO finale!</p>
+<p></p>
+<p>As the evening falls, kick back under the stars and enjoy captivating
+performances by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
+From pulsating beats and melodious vocals to electrifying dance moves that
+will have you on your feet, get a first-hand glimpse of the creative energy
+that our student-artists bring to our vibrant campus. Finally, wrap up
+your FO journey by dancing the night away to the hottest tracks spun by
+our guest DJ!</p>
+<p></p>
+<p>This riveting showcase is fully conceptualised and brought to life by
+our talented students, reflecting TP’s collective values of strength, community
+and hope. Come join us at <strong>SpecTACular – “Jam &amp; Hop”</strong> and
+be inspired!</p>
+</div>
+</details>
+</div>
 <p></p>
