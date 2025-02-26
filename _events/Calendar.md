@@ -28,9 +28,8 @@ Maximise your fun.
 <br>
 <br>Life as a TP student can be as exciting, engaging and empowering as you
 want it to be! Join us at the <strong>CCA Fair 2025</strong> and dive into
-a world of thrilling opportunities offered in TP. Ready to embrace a wealth
-of exciting possibilities to help you achieve your full potential? Mark
-your calendar now!</p>
+a world of thrilling opportunities offered in TP to realise your full potential.
+Mark your calendar now!</p>
 <p></p>
 </td>
 </tr>
@@ -71,7 +70,7 @@ fun!</p>
 <p></p>
 <p>Dear Freshies, your onboarding experience will culminate in a fun day
 at the&nbsp;<strong>Temasek Olympiad x SpecTACular</strong>, held specially
-to mark the end of your FO journey and the start of your polytechnic life.
+to mark the end of your FO journey and the start of your polytechnic life!
 A special edition organised in celebration of TP’s 35th anniversary, this
 event also encapsulates the best of our campus’ vibrant spirit, creative
 energy, and artistic splendour – all packed into an immersive experience
