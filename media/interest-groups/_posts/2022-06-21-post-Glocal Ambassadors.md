@@ -40,19 +40,20 @@ enclaves, showcasing Singapore's multiculturalism and government initiatives.</p
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Enhanced Glocal Awareness: Gain a deeper understanding of glocal issues
-and cultural diversity through various programmes and activities.</p>
+<p><strong>Enhanced Glocal Awareness: </strong>Gain a deeper understanding
+of glocal issues and cultural diversity through various programmes and
+activities.</p>
 <p></p>
 </li>
 <li>
-<p>Academic Enrichment: Complement your academic studies with practical experiences
-and insights gained from GS and SCA.</p>
+<p><strong>Academic Enrichment:</strong> Complement your academic studies
+with practical experiences and insights gained from GS and SCA.</p>
 <p></p>
 </li>
 <li>
-<p>Personal Growth: Broaden your horizons, build confidence, and become a
-well-rounded individual capable of navigating and contributing to both
-global and local contexts effectively.</p>
+<p><strong>Personal Growth:</strong> Broaden your horizons, build confidence,
+and become a well-rounded individual capable of navigating and contributing
+to both global and local contexts effectively.</p>
 </li>
 </ol>
 <p></p>
@@ -63,8 +64,7 @@ to both your local community and the global society.</p>
 <p><strong>Meeting Day:</strong>
 <br>Event basis
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Leslie_Chan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leslie Chan</a>, <a href="mailto:Ruhi_LAL@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruhi Lal</a> &amp;
-<a href="mailto:Lim_Lin_Da@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lin Da</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Leslie_Chan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leslie Chan</a> &amp; <a href="mailto:Lim_Lin_Da@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lin Da</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/TP.GCSG" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
