@@ -77,7 +77,7 @@ communication nor appeals will be entertained.</p>
 should inaccurate facts or information be provided at the time of nomination.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp; The Polytechnic reserves the right not to award
 any of the awards if no suitable candidates are identified.</p>
-<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;<a href="/files/TSEA/2024/FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs <a href="/files/TSEA/2025/2025_TSEA_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <p></p>
 <p></p>
