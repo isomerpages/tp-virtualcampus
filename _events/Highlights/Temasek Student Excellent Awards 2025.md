@@ -21,58 +21,83 @@ Let's uplift their spirits and give them the recognition they truly deserve!</p>
 <p>Nominate them for the TSEA today!</p>
 <hr>
 <h4><strong>Announcement</strong></h4>
-<p>Nominations for the TSEA are open from now till <strong><a rel="noopener noreferrer nofollow" target="_blank"><u>21 March 2025 (Friday</u></a><u>)</u></strong>.
+<p>Nominations for the TSEA are open from now till <strong><u>21 Mar 2025 (Friday)</u></strong>.
 Please refer to the full list of awards, as well as the eligibility criteria,
 nomination process and submission forms/links below.</p>
-<p>For enquiries, please contact:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
+<p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
 <hr>
 <p><strong><u>Award Information (Nomination and Selection)</u></strong>
 </p>
 <p><strong>General Information (Award Nomination)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Nominations for the TSEA are open from now till <strong><u>21 March 2025 (Friday),11.59pm</u></strong>.
+<ul data-tight="true" class="tight">
+<li>
+<p>Nominations for the TSEA are open from now till <strong><u>21 March 2025 (Friday),11.59pm</u></strong>.
 Nominations received after the deadline will strictly not be accepted.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Unless otherwise specified, only TP CCAs registered
-with the Student Development &amp; Alumni Affairs Department are eligible
-for the TSEA.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; For the CCA Merit Award (Arts/Sports/Leadership),
-Full Colours and Half Colours Award, CCA advisors are to submit their nominations&nbsp;via
-the prescribed nomination form&nbsp;to the TSEA Secretariat at:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong> (Only
+</li>
+<li>
+<p>Unless otherwise specified, only TP CCAs registered with the Student Development
+&amp; Alumni Affairs Department are eligible for the TSEA.</p>
+</li>
+<li>
+<p>For the CCA Merit Award (Arts/Sports/Leadership), Full Colours and Half
+Colours Award, CCA advisors are to submit their nominations&nbsp;via the
+prescribed nomination form&nbsp;to the TSEA Secretariat at:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong> (Only
 electronic submissions will be accepted.)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; For the Individual Higher Awards, Group/Team
-Higher Awards and Outstanding Coach/Instructor Award, nominations must
-be submitted via the official online forms.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Nominations must be submitted by TP staff for
-all the awards (with the exception of the <em>*Temasek Student Eco-Award</em>).
-Nominations sent by students are deemed to be unsupported by TP staff and
-will hence not be accepted. Students who are found to have submitted their
-nominations without the endorsement of TP staff will have their awards
-withdrawn.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; It is the TP staff’s responsibility to verify
-the accuracy of all information, including the nominees’ SEAL records,
-before submitting their nominations.&nbsp;</p>
+</li>
+<li>
+<p>For the Individual Higher Awards, Group/Team Higher Awards and Outstanding
+Coach/Instructor Award, nominations must be submitted via the official
+online forms.</p>
+</li>
+<li>
+<p>Nominations must be submitted by TP staff for all the awards (with the
+exception of the <em>*Temasek Student Eco-Award</em>). Nominations sent
+by students are deemed to be unsupported by TP staff and will hence not
+be accepted. Students who are found to have submitted their nominations
+without the endorsement of TP staff will have their awards withdrawn.</p>
+</li>
+<li>
+<p>It is the TP staff’s responsibility to verify the accuracy of all information,
+including the nominees’ SEAL records, before submitting their nominations.&nbsp;</p>
+</li>
+</ul>
 <p><em>(*Students are allowed to nominate themselves for the Temasek Student Eco-Award. TP staff can submit nominations for this award as well.)</em>
 </p>
 <hr>
 <p><strong>Selection (Award Selection)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; All forms must clearly indicate the nominated
-award category. However, the Selection Panel will make the final decision
-for the category that is most applicable.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; Selection is based on a set of pre-determined
-criteria, which includes amongst other things, standard of achievement,
-attendance, level of contribution, scale and number of projects, and demonstration
-of artistic merit, leadership skills and sportsmanship.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; The selection of nominees will be left to the
-Selection Panel and the decision of the Panel is final. Neither direct
-communication nor appeals will be entertained.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All forms must clearly indicate the nominated award category. However,
+the Selection Panel will make the final decision for the category that
+is most applicable.</p>
+</li>
+<li>
+<p>Selection is based on a set of pre-determined criteria, which includes
+amongst other things, standard of achievement, attendance, level of contribution,
+scale and number of projects, and demonstration of artistic merit, leadership
+skills and sportsmanship.</p>
+</li>
+<li>
+<p>The selection of nominees will be left to the Selection Panel and the
+decision of the Panel is final. Neither direct communication nor appeals
+will be entertained.</p>
+</li>
+</ul>
 <p><strong>Conditions</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; The award may be withdrawn from the recipient,
-should inaccurate facts or information be provided at the time of nomination.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; The Polytechnic reserves the right not to award
-any of the awards if no suitable candidates are identified.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The award may be withdrawn from the recipient, should inaccurate facts
+or information be provided at the time of nomination.</p>
+</li>
+<li>
+<p>The Polytechnic reserves the right not to award any of the awards if no
+suitable candidates are identified.</p>
+</li>
+</ul>
 <p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs <a href="/files/TSEA/2025/2025_TSEA_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <p></p>
