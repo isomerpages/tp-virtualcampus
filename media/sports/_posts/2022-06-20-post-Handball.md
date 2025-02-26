@@ -23,7 +23,7 @@ variant: tiptap
 one goalkeeper pass the ball around with the objective of throwing it into
 the goal of the opposing team. The game consists of two halves of 30 minutes
 each and the team with the most goals at the end of the game wins the match.
-TP Handball (Men) team competes in external competitions annually.
+The TP Handball Team (Men) competes in external competitions annually.
 <br>
 <br><strong>Training Days:</strong>
 <br>Saturday, 2pm
