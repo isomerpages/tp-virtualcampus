@@ -23,8 +23,9 @@ variant: tiptap
 a field. The objective is to score by catching the disc in the opponent’s
 end zone. Ultimate Frisbee is a fast-paced game, demanding its players
 to demonstrate sharp throwing and catching skills, along with great stamina
-and agility. TP Ultimate Frisbee team competes in the Polytechnic-ITE (POL-ITE)
-and Institute-Varsity Polytechnic (IVP) Ultimate Frisbee Games annually.
+and agility. The TP Ultimate Frisbee team competes in the Polytechnic-ITE
+(POL-ITE) and Institute-Varsity Polytechnic (IVP) Ultimate Frisbee Games
+annually.
 <br>
 <br><strong>Achievements:</strong> 
 <br>POL-ITE Games 2023: Bronze
