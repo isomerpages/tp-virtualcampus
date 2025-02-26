@@ -34,12 +34,14 @@ the diverse CCAs offered in TP. See you there!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><em>5-12 April 2024</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg">
+</div>
+<p><em>8 &amp; 15-17 April 2025</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/events/freshmen-orientation-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2024</a></strong>
+<p><strong><a href="/events/freshmen-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2024</a></strong>
 </p>
 <p></p>
 <p>Hey, Freshies! Congratulations on your successful admission to Temasek
@@ -50,16 +52,19 @@ it celebrates a momentous milestone in your tertiary academic journey.
 Feeling jittery before the commencement of Polytechnic life? Fret not!
 TP has lined up an exciting array of activities to help you kickstart your
 journey on the right note!</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><em>12 April 2024</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg">
+</div>
+<p><em>17 April 2025</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/events/freshmen-orientation-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">Temasek Regatta x SpecTACular 2024</a></strong>
+<p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular </a></strong>
 </p>
 <p></p>
 <p>Your freshmen onboarding experience will culminate in a fun afternoon
