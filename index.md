@@ -57,6 +57,7 @@ sections:
       button: CREATE YOUR JOURNEY!
       alt: Image alt text
       url: /events/cca-fair-2025/
+      image: /images/Events/CCA_Banner_1920px_by_1080px_FA.jpg
   - infopic:
       title: "DREAMS: Celebrating TP35"
       subtitle: KICKING OFF A SPECIAL YEAR!
