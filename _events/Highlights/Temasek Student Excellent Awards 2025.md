@@ -142,45 +142,45 @@ of study in TP.</p>
 </p>
 <p>This is awarded to an artist who has displayed exemplary artistic merit
 and conduct in his/her CCA over the past academic year (AY2024/2025).</p>
-<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>5. &nbsp;&nbsp;Sportsperson of the Year</strong>
 </p>
 <p>This is awarded to a sportsperson who has displayed exemplary sportsmanship
 and conduct in his/her CCA over the past academic year (AY2024/2025).</p>
-<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>6.&nbsp;&nbsp; Student Leader of the Year</strong>
 </p>
 <p>This is awarded to a student leader who has displayed exemplary leadership
 and conduct in his/her CCA over the past academic year (AY2024/2025).</p>
-<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>7.&nbsp;&nbsp; TP Character Award</strong>
 </p>
 <p>This is awarded to students of&nbsp;outstanding character, who exemplify
 key values such as integrity, respect, responsibility, resilience and compassion.</p>
-<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>8. &nbsp;&nbsp;Promising Young Entrepreneur Award</strong>
 </p>
 <p>This is awarded to entrepreneurial students / fresh graduates, whose businesses
 exhibit excellent growth or high potential for growth and scalability.</p>
-<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>9. &nbsp;&nbsp;Community Service Excellence Award</strong>
 </p>
 <p>This is awarded to students who have demonstrated commitment to advance
 the welfare of their community at large, and/or who have made significant
 contributions to this community over the past academic year (AY2024/2025).</p>
-<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>10. &nbsp;&nbsp;Service Excellence Award</strong>
 </p>
 <p>This is awarded to students who have demonstrated a high level of commitment
 to supporting TP activities, and who have made significant contributions
 to the wider TP community over the past academic year (AY2024/2025)</p>
-<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>11. &nbsp;Temasek Student Eco-Award</strong>
 </p>
 <p>This is awarded to students who have demonstrated a high level of commitment
 to championing or supporting eco-initiatives, and who have contributed
 significantly to sustainability efforts over the past academic year (AY2024/2025).</p>
-<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328WU49qfiFKFKrC42KmBY5WdUMVhKWVhOODYxS1U5UjA4MVhVR08yUFczSC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN0UyMjZIQ09FR0NXUDZENjNCOERDUE5WSS4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>12.&nbsp; Outstanding Coach/Instructor Award</strong>
 </p>
 <p>This is awarded to an <strong>officially-appointed TP coach or instructor</strong> who
