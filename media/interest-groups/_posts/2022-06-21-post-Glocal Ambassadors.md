@@ -20,7 +20,7 @@ image: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Glocal Ambassadors (formerly Global Connect Student Group) is an interest
+<p>The Glocal Ambassadors (formerly Global Connect Student Group) is an interest
 group under Temasek Polytechnic’s International Relations/Centre of Transcultural
 Studies, which oversees the fundamental subjects of Global Studies (GS)
 and Sustainability &amp; Climate Action (SCA).</p>
@@ -32,28 +32,50 @@ insights with local initiatives, we create a unique platform for cultural
 exchange, global learning and community engagement.</p>
 <p></p>
 <p>Students not only participate but also help plan and host activities,
-such as below. Many programmes include visits to Singapore sites and ethnic
-enclaves, showcasing Singapore's multiculturalism and government initiatives.</p>
+such as those listed below. Many programmes include visits to Singapore
+sites and ethnic enclaves, showcasing Singapore's multiculturalism and
+government initiatives.</p>
+<p></p>
+<p><strong>Key Activities:</strong>
+</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Glocal Exchanges: Participate in physical and virtual exchanges that incorporate
+Theinternational best practices, providing a comprehensive learning experience.</p>
+<p></p>
+</li>
+<li>
+<p>Cultural Immersion Programmes: Engage in TP-wide activities such as Carousel
+of Cultures (formerly known as Global Community Day) to promote understanding
+and appreciation of diverse cultures, both within Singapore and globally.</p>
+<p></p>
+</li>
+<li>
+<p>Glocal Dialogues: Join inter-polytechnic events such as Civic Conversations
+Engagement, Workplace Integration In Action, Cross-Cultural Symposium and
+Youth Model ASEAN Conference.</p>
+</li>
+</ol>
 <p></p>
 <p><strong>Key Benefits:</strong>
 </p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Enhanced Glocal Awareness: </strong>Gain a deeper understanding
-of glocal issues and cultural diversity through various programmes and
-activities.</p>
+<p>Enhanced Glocal Awareness: Gain a deeper understanding of glocal issues
+and cultural diversity through various programmes and activities.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Academic Enrichment:</strong> Complement your academic studies
-with practical experiences and insights gained from GS and SCA.</p>
+<p>Academic Enrichment: Complement your academic studies with practical experiences
+and insights gained from GS and SCA.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Personal Growth:</strong> Broaden your horizons, build confidence,
-and become a well-rounded individual capable of navigating and contributing
-to both global and local contexts effectively.</p>
+<p>Personal Growth: Broaden your horizons, build confidence, and become a
+well-rounded individual capable of navigating and contributing to both
+global and local contexts effectively.</p>
 </li>
 </ol>
 <p></p>
