@@ -22,7 +22,7 @@ variant: tiptap
 <p>Another common and popular racquet sport, badminton requires aerobic stamina,
 agility, strength, speed and precision. The common forms of the game are
 "singles" (with one player per side) and "doubles" (with two players per
-side). The TP Badminton Team (Men &amp; Women) competes in the Polytechnic-ITE
+side). The TP Badminton Teams (Men &amp; Women) compete in the Polytechnic-ITE
 (POL-ITE) and Institute-Varsity Polytechnic (IVP) Badminton Games annually.
 <br>
 <br><strong>Achievements:</strong>
