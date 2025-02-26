@@ -20,12 +20,12 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Temasek Polytechnic Entrepreneurship Club (TPEC) empowers members
-to develop entrepreneurial skills through hands-on experiences. Our events,
-such as the inter-polytechnic bazaar and workshops, allow members to navigate
-the challenges and rewards of running a business, while showcasing their
-ventures to the TP community. We also foster a spirit of volunteering and
-social entrepreneurship, as seen in our TPEC x MINDS Christmas Event.</p>
+<p>The TP Entrepreneurship Club (TPEC) empowers members to develop entrepreneurial
+skills through hands-on experiences. Our events, such as the inter-polytechnic
+bazaar and workshops, allow members to navigate the challenges and rewards
+of running a business, while showcasing their ventures to the TP community.
+We also foster a spirit of volunteering and social entrepreneurship, as
+seen in our TPEC x MINDS Christmas Event.</p>
 <p>At TPEC, we value holistic development beyond entrepreneurship. We offer
 a range of events, including Entresion workshops, business startup guides,
 and educational visits to NUS Hangar. Our members have achieved notable
