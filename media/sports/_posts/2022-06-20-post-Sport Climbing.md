@@ -24,10 +24,10 @@ variant: tiptap
 in sport climbing as a CCA. This indoor form of rock climbing does not
 require ropes or harnesses, relying instead on the climbers' agility and
 strength. With guidance from their coaches, students can master the art
-of bouldering and refine their skills. The TP Sport Climbing team, which
-includes both Men’s and Women’s, competes annually in the Polytechnic-ITE
-(POL-ITE) Sport Climbing (Bouldering) Championship, giving them a chance
-to showcase their talents and earn well-deserved recognition.
+of bouldering and refine their skills. The TP Sport Climbing Teams (Men
+&amp; Women) compete annually in the Polytechnic-ITE (POL-ITE) Sport Climbing
+(Bouldering) Championship, giving them a chance to showcase their talents
+and earn well-deserved recognition.
 <br>
 <br><strong>Achievements:</strong>
 <br>POL-ITE (Invitational) Games 2024: Gold (Women's Team)
