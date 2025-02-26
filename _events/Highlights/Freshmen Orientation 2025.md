@@ -93,7 +93,7 @@ vibrant spirit that makes TP truly special. See you there!</p>
 <p>At TP, your safety and well-being is our utmost priority. We have a zero-tolerance
 policy on hazing and derogatory behaviour on campus. Should you witness
 or experience anything concerning, you are strongly encouraged to report
-them to any TP staff or contact us via our whistle blower hotline at <strong><a rel="noopener noreferrer nofollow" target="_blank">sdaa@tp.edu.sg</a></strong>.</p>
+them to any TP staff or contact us via our whistle blower hotline at <strong><a href="mailto:sdaa@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sdaa@tp.edu.sg</a></strong>.</p>
 <p></p>
 <p>We look forward welcoming you to TP!</p>
 <p></p>
@@ -120,27 +120,27 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Business</strong><a href="mailto:bushotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>deshotline@tp.edu.sg</a>
+<p><strong>Business</strong><a href="mailto:bushotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>bushotline@tp.edu.sg</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Design</strong><a href="mailto:deshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>deshotline@tp.edu.sg</a>
+<p><strong>Design</strong><a href="mailto:deshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="mailto:deshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deshotline@tp.edu.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Engineering</strong><a href="mailto:enghotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>enghotline@tp.edu.sg</a>
+<p><strong>Engineering</strong><a href="mailto:enghotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="mailto:enghotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">enghotline@tp.edu.sg</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Humanities &amp; Social Sciences</strong><a href="mailto:hsshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>hsshotline@tp.edu.sg</a>
+<p><strong>Humanities &amp; Social Sciences</strong><a href="mailto:hsshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="mailto:hsshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsshotline@tp.edu.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Informatics &amp; IT</strong><a href="mailto:iit@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>iit@tp.edu.sg</a>
+<p><strong>Informatics &amp; IT</strong><a href="mailto:iit@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="mailto:iit@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iit@tp.edu.sg</a></strong>
 </p>
 </td>
 </tr>
