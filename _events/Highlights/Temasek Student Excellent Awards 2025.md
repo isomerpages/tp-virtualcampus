@@ -122,7 +122,7 @@ CCAs over the past academic year (AY2024/2025).</p>
 <p>Submit your nominations using the designated nomination form <a href="https://for.edu.sg/ccaandcolouraward" rel="noopener nofollow" target="_blank">here</a>.
 Once completed, email your nomination(s) to the TSEA Secretariat at <a href="tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a> with the
 subject line:
-<br><strong>CCA Merit Award 2025 nomination</strong>
+<br><u>CCA Merit Award 2025 nomination</u>
 </p>
 <p><strong>2. &nbsp;&nbsp;Half Colours/Full Colours Award</strong>
 </p>
@@ -131,7 +131,12 @@ CCAs over the past academic year (AY2024/2025).</p>
 <p>Submit your nominations using the designated nomination form <a href="https://for.edu.sg/ccaandcolouraward" rel="noopener nofollow" target="_blank">here</a>.
 Once completed, email your nomination(s) to the TSEA Secretariat at <a href="tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a> with the
 subject line:
-<br><strong>Half Colours/Full Colours Award 2025 nomination</strong>
+<br><u>Half Colours/Full Colours Award 2025 nomination</u>
 </p>
-<p></p>
+<p><strong>3. &nbsp;&nbsp;Temasek CCA Gold Award</strong>
+</p>
+<p>This is awarded to an exemplary and outstanding <strong>final-year student (AY2024/2025)</strong>,
+who has been actively involved in his/her CCA throughout his/her course
+of study in TP.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFURTBFVTNNSjFPVVlGUjFESFRERlJJVDIzSi4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
