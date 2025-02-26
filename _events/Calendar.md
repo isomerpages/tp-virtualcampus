@@ -13,12 +13,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><em>17-18 April 2024</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/CCA_Banner_1920px_by_1080px_FA.jpg">
+</div>
+<p><em>23-24 April 2025</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/events/ccafair2024/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2024</a></strong>
+<p><strong><a href="/events/cca-fair-2025/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2025</a></strong>
 </p>
 <p></p>
 <p>Discover your passion. Unleash your creativity. Forge lasting friendships.
