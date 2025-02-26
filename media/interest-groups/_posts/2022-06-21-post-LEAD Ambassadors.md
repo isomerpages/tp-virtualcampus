@@ -19,7 +19,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEAD Ambassadors aims to provide various platforms for students under
+<p>The LEAD Ambassadors aims to provide various platforms for students under
 the Temasek LEADership Programme (Temasek LEAD) to lead, serve, contribute
 and share knowledge. Members value-add to the LEAD community through the
 organising of meaningful and impactful programmes. Besides these, the group
