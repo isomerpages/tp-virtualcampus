@@ -19,16 +19,23 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Engineering (ENG) Student Ambassadors aims to promote Temasek Polytechnic’s
-School of Engineering to secondary school students, as well as parents
-through outreach activities held within and outside TP. Over time, ENG
-Student Ambassadors develop good people, time management and communication
-skills through a learning journey in this interest group.
+<p>The Engineering (ENG) Student Ambassadors represent TP's School of Engineering,
+promoting it to secondary school students, parents, industry guests, and
+overseas partners through outreach activities, community events and student
+activities, both within and beyond TP. It develops ambassadors into confident
+leaders with strong skills in communication, time management and self-management.
+They serve as role models to their fellow students, exemplifying values
+such as pride, active citizenship and leadership.</p>
+<p></p>
+<p>Ambassadors support events and initiatives, engage key stakeholders and
+undergo training in outreach, community service, event management and leadership
+development.</p>
+<p></p>
+<p><strong>Meeting Day:</strong>
+</p>
+<p>Twice per month &amp; event basis
 <br>
-<br>Ambassadors take turns to support outreach activities to promote the School
-of Engineering to secondary school students.
-<br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_THAM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:Goh_Qiu_Ting@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Qiu Ting</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_THAM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:TEO_Wen_Ru@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teo Wen Ru</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpeng_sa" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
