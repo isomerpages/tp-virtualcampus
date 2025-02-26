@@ -45,7 +45,7 @@ Soccer Games and SR Nathan Challenge Trophy Soccer Tournament annually.
 </p>
 <p><strong>CCA <a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Men's Team)</strong>
 </p>
-<p><strong> <br>CCA <a href="https://www.instagram.com/tpgazelles" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Women's Team)</strong>
+<p><strong><br>CCA <a href="https://www.instagram.com/tpgazelles" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> (Women's Team)</strong>
 </p>
 </td>
 </tr>
