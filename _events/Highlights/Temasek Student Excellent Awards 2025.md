@@ -109,5 +109,5 @@ suitable candidates are identified.</p>
 <p>Have an outstanding nominee who deserves to be recognised in any of these
 award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
-all Individual Awards <u>here</u>.</p>
+all Individual Awards <a href="/files/TSEA/2025/TSEA_2025___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
