@@ -25,7 +25,7 @@ and colorful Chinese dragon heads and tails. In races, there are 20 people
 in a standard boat and 10 in a small boat, excluding the steersperson and
 drummer. The dragon boat races are the highlight of the Freshmen Orientation
 (Week Zero) activities in our annual Temasek Polytechnic Regatta. The TP
-Dragon Boat Team (Men &amp; Women) competes in the Polytechnic-ITE (POL-ITE)
+Dragon Boat Teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE)
 Dragon Boat Race and external competitions annually.
 <br>
 <br><strong>Achievements:</strong>
