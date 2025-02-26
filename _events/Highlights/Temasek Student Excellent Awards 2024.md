@@ -8,32 +8,21 @@ third_nav_title: Highlights
 <h3><strong>Temasek Student Excellence Awards 2025</strong></h3>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TSEA 2024" src="/images/TSEA_Banner_Youtube_Thumbnail.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2025_Draft_1.png">
 </div>
-<p>Heartiest congratulations to all our recipients of the <strong>Temasek Student Excellence Awards (TSEA) 2024</strong>!</p>
-<p>Organised annually, the TSEA recognises the inspiring achievements and
-myriad contributions of students in non-academic areas, such as arts,&nbsp;sports,
-leadership, service, entrepreneurship, sustainability and character.&nbsp;This
-year, we honoured <strong>378</strong> students across the Higher Award categories
-(Individual and Group/Team).<strong>&nbsp;</strong>In addition,&nbsp;<strong>1,148</strong>&nbsp;CCA
-Merit Awards (Arts/Sports/ Leadership), <strong>436</strong> Full Colours
-Awards, and <strong>118</strong> Half Colours Awards have been accorded.
-On top of these awards, <strong>4</strong> officially-appointed TP coaches
-received the Outstanding Coach Award for their contributions.</p>
-<p>Here’s a special shout-out to the recipients of our pinnacle accolades
-– <strong>Temasek CCA Gold</strong>&nbsp;<strong>and Silver Awards</strong>!
-Hear their heartfelt thoughts and memorable CCA takeaways, and discover
-what inspired them to continue the good fight while navigating their ride
-in TP.&nbsp;</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5RYbbf4cOlw?si=BOUXk7ZS6HndaQPg"></iframe>
-</div>
-<p><strong>And to all our awardees:</strong>&nbsp;A BIG thank you for your
-amazing dedication and spirit, and for your unstinting efforts in making
-TP a campus that truly throbs with vibrancy all year round!&nbsp;</p>
-<p><strong>Check out the TSEA 2024 Roll of Honour <a href="/files/TSEA/2024/TSEA_2024___Higer_Award_Recipients__List.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
-</p>
+<p></p>
+<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
+recognise the inspiring achievements and outstanding contributions of students
+in non-academic domains, such as the arts, sports, leadership, service,
+entrepreneurship and character.</p>
+<p>In the spirit of celebrating excellent student endeavours, we are happy
+to announce that nominations for the TSEA are now open!</p>
+<p>Take a moment to acknowledge your students' remarkable dedication, selfless
+commitment, and inspiring leadership by nominating them for the TSEA today.
+Let's uplift their spirits and give them the recognition they truly deserve!</p>
+<p>&nbsp;Nominate them for the TSEA today!</p>
 <hr>
 <h4><strong>Announcement</strong></h4>
 <p>Thank you to all CCA advisors/staff for your active support in recognising
