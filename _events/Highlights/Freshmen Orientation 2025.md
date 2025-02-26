@@ -133,7 +133,7 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Business</strong><a href="mailto:bushotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>bushotline@tp.edu.sg</a>
+<p><strong>Business</strong><a href="mailto:bushotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>deshotline@tp.edu.sg</a>
 </p>
 </th>
 </tr>
