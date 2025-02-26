@@ -35,6 +35,7 @@ sections:
       button: DISCOVER THE ACTION!
       url: /events/freshmen-orientation-2025/
       alt: Image alt text
+      image: /images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg
   - infopic:
       title: Temasek Olympiad x SpecTACular
       subtitle: A THRILLING FO FINALE!
