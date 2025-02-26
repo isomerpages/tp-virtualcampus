@@ -28,7 +28,9 @@ Maximise your fun.
 <br>
 <br>Life as a TP student can be as exciting, engaging and empowering as you
 want it to be! Join us at the <strong>CCA Fair 2025</strong> and dive into
-a world of thrilling opportunities offered in TP. See you there!</p>
+a world of thrilling opportunities offered in TP. Ready to embrace a wealth
+of exciting possibilities to help you achieve your full potential? Mark
+your calendar now!</p>
 <p></p>
 </td>
 </tr>
