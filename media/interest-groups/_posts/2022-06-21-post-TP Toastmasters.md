@@ -20,20 +20,13 @@ image: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Are you looking for a space where you can boost your confidence and presentation
-skills in a practical and meaningful way? Through well-organised and exuberant
-"Chapter Meetings", members of TP Toastmasters (TPTM) can test and improve
-their public speaking, impromptu thinking and evaluation skills.
-<br>
-<br>Toastmasters is a non-profit educational organisation that teaches public
-speaking and leadership skills to members. Recognised by employers as indicators
-of personal growth and excellence, completing "Levels" in the Toastmasters
-Pathways will give you an extra edge in the corporate world. Good communication
-skills are also instilled through networking opportunities with other Toastmasters
-clubs in Singapore.
-<br>
-<br>Your growth is TPTM's number one priority! Join us, step out of your comfort
-zone and experience revolutionary transformation.
+<p>The TP Toastmasters Club (TPTM) is your one-stop shop to widen your connections,
+increase your confidence, and enhance your communication skills. Through
+bi-weekly sessions known as “Chapter Meetings”, TPTM provides a safe and
+supportive environment for students to experience and improve in areas
+such as prepared speech, impromptu thinking and evaluating skills.</p>
+<p></p>
+<p>Show your personality on a stage where you can <strong>Speak</strong>, <strong>Soar</strong> and <strong>Shine</strong>!
 <br>
 <br><strong>Achievements:</strong>
 <br>
