@@ -67,14 +67,13 @@ fun!</p>
 <p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
 </p>
 <p></p>
-<p>Your freshmen onboarding experience will culminate in a fun afternoon
-out at the&nbsp;Temasek Regatta x SpecTACular! Held specially to mark the
-end of your orientation journey and the start of your Polytechnic life,
-this event also encapsulates the very best of TP’s creative energies, sporting
-excellence and artistic splendour.
-<br>
-<br>Make a splash and have fun in the sun at Temasek Regatta, and be dazzled
-by our finest arts talents at SpecTACular!</p>
+<p>Dear Freshies, your onboarding experience will culminate in a fun day
+at the&nbsp;<strong>Temasek Olympiad x SpecTACular</strong>, held specially
+to mark the end of your FO journey and the start of your polytechnic life.
+A special edition organised in celebration of TP’s 35th anniversary, this
+event also encapsulates the best of our campus’ vibrant spirit, creative
+energy, and artistic splendour – all packed into an immersive experience
+organised just for you!</p>
 <p></p>
 </td>
 </tr>
