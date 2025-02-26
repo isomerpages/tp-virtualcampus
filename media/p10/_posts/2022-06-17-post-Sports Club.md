@@ -19,7 +19,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>TP Sports Club (TPSC) is a non-academic constituent club that is committed
+<p>The TP Sports Club (TPSC) is a non-academic constituent club that is committed
 to bringing about a vibrant campus, fostering a healthy lifestyle and community
 bonding through a wide array of physical activities. TPSC believes in learning
 through sports and aims to empower all students through inclusive activities
