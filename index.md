@@ -44,7 +44,7 @@ sections:
         finale, featuring dragon boat races, team challenges, and captivating
         arts performances!
       button: BE ENTHRALLED HERE!
-      url: /events/freshmen-orientation-2025/
+      url: /events/temasek-olympiad-x-spectacular/
       alt: Image alt text
       image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
   - infopic:
