@@ -21,12 +21,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Competitive basketball is a popular team sport in which two competing
 teams of 5 players play on a rectangle court to try and outscore each other
-through the basketball hoops at opposing ends. TP Men’s and Women’s Basketball
-teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic
-(IVP) Games annually.
+through the basketball hoops at opposing ends. The TP Men’s and Women’s
+Basketball teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
+Polytechnic (IVP) Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2023: 5th Position (Men’s Team) &amp; Silver (Women's Team)
+<br>POL-ITE Games 2024: Silver (Women's Team)
 <br>
 </p>
 <p><strong>Training Days:</strong>
