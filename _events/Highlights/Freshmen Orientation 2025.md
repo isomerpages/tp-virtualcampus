@@ -59,7 +59,7 @@ needs;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg">
 </div>
 <p></p>
-<p>Gear up for an adrenaline-fueled finale at the <strong>Temasek Olympiad x SpecTACular</strong>!</p>
+<p>Gear up for an adrenaline-fueled finale at the <strong><a href="/events/temasek-olympiad-x-spectacular" rel="noopener nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>!</p>
 <p></p>
 <p>A special edition organised in celebration of TP’s 35th anniversary, this
 event encapsulates the best of our campus’ vibrant spirit, creative energy,
