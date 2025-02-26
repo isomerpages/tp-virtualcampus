@@ -23,10 +23,10 @@ variant: tiptap
 (non-contact and no intercept of passes) and reduces incidence of injuries
 while enabling people from all walks of life to enjoy the game. The sport
 is usually played on an indoor court with a trampoline goal frame at each
-end. Each team comprises 7 players and they can score at both ends of the
-court. In order to score a point, the ball must be thrown by an attacking
-player, hit the trampoline goal and bounce outside the goal zone (“D”)
-without being caught by the defending team.
+end. Each team comprises seven players and they can score at both ends
+of the court. In order to score a point, the ball must be thrown by an
+attacking player, hit the trampoline goal and bounce outside the goal zone
+(“D”) without being caught by the defending team.
 <br>
 <br><strong>Achievements:</strong>
 <br>POL-ITE Games 2023: Silver (Men's Team)
