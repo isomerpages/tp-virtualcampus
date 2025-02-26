@@ -19,13 +19,13 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peer Supporters-in-Action (PSiA) aims to equip students with the knowledge
-about mental health so that anyone can be a supporter to their fellow peers.
-PSiA also strives to provide a safe platform for all students to feel comfortable
-about sharing their stories with one another. Together with the Student
-Care team from Student Support &amp; Career Services, activities and programmes
-are carried out to create a friendlier environment in TP and to raise awareness
-about mental health.
+<p>The Peer Supporters-in-Action (PSiA) aims to equip students with the knowledge
+about mental health and peer support skills so that anyone can be a supporter
+to their fellow peers. PSiA also strives to provide a safe platform for
+all students to feel comfortable about sharing their stories with one another.
+Together with the Student Care team from Student Support &amp; Career Services,
+activities and programmes are carried out to create a supportive environment
+in TP and to raise awareness about mental health.
 <br>
 <br>Participating students can look forward to the following:
 <br>
@@ -35,8 +35,8 @@ about mental health.
 <p>Learn peer support skills to better support your friends and loved ones</p>
 </li>
 <li>
-<p>Participate in/organise events, such as Anti-bullying Campaign and World
-Mental Health Week</p>
+<p>Participate in/organise events, such as You've Got a Friend in Me Roadshow,
+Beyond the Label campaign and World Mental Health Week, etc.</p>
 </li>
 <li>
 <p>Make new friends in Friendly Friday sessions</p>
