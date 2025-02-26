@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<p>[Insert image here]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Welcome to the TP Family!</strong>
@@ -65,7 +68,9 @@ needs;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>[Insert image here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg">
+</div>
 <p></p>
 <p>Gear up for an adrenaline-fueled finale at the <strong>Temasek Olympiad x SpecTACular</strong>!</p>
 <p></p>
@@ -112,7 +117,7 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Queries? Direct them to your respective Academic Schools!</strong>
+<summary><strong>Queries? Contact your respective Academic Schools!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -124,13 +129,11 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Applied Science</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>aschotline@tp.edu.sg</a>
+<p><strong>Applied Science</strong><a href="mailto:aschotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>aschotline@tp.edu.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Business</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>bushotline@tp.edu.sg</a>
+<p><strong>Business</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>bushotline@tp.edu.sg</a>
 </p>
 </th>
 </tr>
