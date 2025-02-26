@@ -22,12 +22,12 @@ variant: tiptap
 <p>Kayak racing is a water sport growing in popularity. The first kayaks
 were made of driftwood and animal skins by the natives of Asia and North
 America. Modern kayaks are made of metal, fiberglass and rubber, making
-them stronger, more durable and portable. TP Kayak Racing team competes
-in the Polytechnic-ITE (POL-ITE) Canoe Sprints and external competitions
-annually.
+them stronger, more durable and portable. The TP Kayak Racing Teams (Men
+&amp; Women) compete in the Polytechnic-ITE (POL-ITE) Canoe Sprints and
+external competitions annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
+<br>POL-ITE Games 2024: Gold (Men’s Team) &amp; Silver (Women’s Team)
 <br>
 <br><strong>Training Days:</strong>
 </p>
