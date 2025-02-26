@@ -193,5 +193,9 @@ management skills and strong commitment to TP.</p>
 <p>Have an outstanding group of students who deserves to be recognised in
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
-all Group/Team Awards<strong> </strong><u>here</u>.</p>
+all Group/Team Awards<strong> </strong><a href="/files/TSEA/2025/TSEA_2025___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p><strong>Step 2:</strong> Submit your nominations by <strong><u>21 March 2025 (Friday), 11.59pm</u></strong>.
+(Nomination links are provided in the PDF document in <strong>Step 1</strong>.
+The links are also provided below for your convenience.)</p>
+<p></p>
 <p></p>
