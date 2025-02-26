@@ -28,10 +28,17 @@ such as prepared speech, impromptu thinking and evaluating skills.</p>
 <p></p>
 <p>Show your personality on a stage where you can <strong>Speak</strong>, <strong>Soar</strong> and <strong>Shine</strong>!
 <br>
-<br><strong>Achievements:</strong>
-<br>
+<br><strong>Achievements &amp; Events:</strong>
 </p>
+<p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Organised and hosted the TP Public Speaking Competition for all TP students
+(2024, 2023)</p>
+</li>
+<li>
+<p>Collaborated with NP Toastmasters Club (2024, 2023)</p>
+</li>
 <li>
 <p>Champion in the Area S4 Table Topics Competition (2024)</p>
 </li>
@@ -40,25 +47,18 @@ such as prepared speech, impromptu thinking and evaluating skills.</p>
 </li>
 <li>
 <p>Second runner-up in the Area S4 International Speech Competition (2024)</p>
-</li>
-<li>
-<p>Second runner-up in the Area S4 Speech Contest (2021)</p>
-</li>
-<li>
-<p>Second runner up in the S1/S4 District 80 Table Topics Contest (2020)</p>
-</li>
-<li>
-<p>Organised and hosted the TP Public Speaking Competition for all TP students
-(2023)</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p><strong>Training Day:</strong>
+<p><strong>Meeting Day:</strong>
 <br>Alternate Fridays, 6pm to 8.30pm
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charmaine_OEI@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Charmaine Oei</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tptoastmasters" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
+</p>
+<p></p>
+<p><strong>CCA <a href="https://www.linkedin.com/company/tptm1999/" rel="noopener nofollow" target="_blank">LinkedIn</a></strong>
 </p>
 </td>
 </tr>
