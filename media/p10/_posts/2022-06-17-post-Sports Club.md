@@ -19,18 +19,22 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Sports Club (TPSC) is a non-academic constituent club
-in TP that is committed to bringing about a vibrant campus, fostering a
-healthy lifestyle and community bonding through a wide array of physical
-activities. TPSC believes in learning through sports and aims to empower
-all students through inclusive activities specially curated by the club.
+<p>TP Sports Club (TPSC) is a non-academic constituent club that is committed
+to bringing about a vibrant campus, fostering a healthy lifestyle and community
+bonding through a wide array of physical activities. TPSC believes in learning
+through sports and aims to empower all students through inclusive activities
+specially curated by the club.
 <br>
-<br>An impactful event organised for the TP population in AY2023/2024 was
-the National Day Sports Carnival that embodied the theme of “Onward As
-One” through the team-based booth games. Another notable event was the
-TPSC February Sports Fest - Sports Saga &amp; TParalympia - that introduced
-the world of para-sports to the TP community and public, instilling the
-value of inclusivity. Come join us now and let's bring a change to TP together!
+<br>Collaborating with other Constituent clubs, we organised the "<strong>TP Walk for Rice 2024</strong>",
+where we featured exciting carnival games and prizes to liven up the mood
+for both students and the community. We also had a fundraiser, "<strong>Sportopia</strong>",
+in collaboration with the TP Campus Care Network to raise funds for students
+through gamified sports. Along with SENvocates, we also rolled out a service
+learning event, "<strong>SEN Awareness Campaign - TParalympia</strong>".
+We have continued its effort to introduce the world of para-sports to the
+TP community and public, instilling the value of inclusivity.</p>
+<p></p>
+<p>Come join us now and let's bring a change to TP together!
 <br>
 <br><strong>Training Day:</strong> 
 <br>Event Basis
