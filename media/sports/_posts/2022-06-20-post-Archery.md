@@ -20,7 +20,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Competitive archery involves shooting arrows at a target for accuracy
-over several set distances. TP Archery Team competes in the Polytechnic-ITE
+over several set distances. The TP Archery Team competes in the Polytechnic-ITE
 (POL-ITE) Archery Games and external competitions annually.
 <br>
 <br><strong>Achievements:</strong>
