@@ -28,8 +28,7 @@ EPM also organises community service activities such as digitalisation
 and craft workshops for non-profit organisations, and initiatives to help
 the less privileged families in Tampines.
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Janessa_THNG@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Janessa Thng</a> &amp; <a href="mailto:Rudy_SABARUDIN@TP.EDU.SG" rel="noopener nofollow" target="_blank">Dr Rudy Sabarudin</a> &amp;
-<a href="mailto:Rudy_SABARUDIN@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Rudy_SABARUDIN@TP.EDU.SG</a>)
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Janessa_THNG@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Janessa Thng</a> &amp; <a href="mailto:Rudy_SABARUDIN@TP.EDU.SG" rel="noopener nofollow" target="_blank">Dr Rudy Sabarudin</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/eng_peermentors/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
