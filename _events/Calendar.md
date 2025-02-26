@@ -81,6 +81,30 @@ organised just for you!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TSEA_2025_Draft_1.png">
+</div>
+<p><em>Nominations Open Till 21 Mar 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tsea-2025/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards</a></strong>
+</p>
+<p></p>
+<p>The <strong>Temasek Student Excellence Awards (TSEA)</strong> are presented
+annually to recognise the inspiring achievements and outstanding contributions
+of students in non-academic domains, such as the arts, sports, leadership,
+service, entrepreneurship and character.</p>
+<p></p>
+<p>In the spirit of celebrating excellent student endeavours, we are happy
+to announce that nominations for the TSEA are now open! Take a moment to
+acknowledge your students' contributions, dedication and leadership. Nominate
+them for the TSEA today!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35.png">
 </div>
 <p><em>22 March 2025</em>
