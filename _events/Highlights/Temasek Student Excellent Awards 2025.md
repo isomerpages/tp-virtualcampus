@@ -186,7 +186,7 @@ significantly to sustainability efforts over the past academic year (AY2024/2025
 <p>This is awarded to an <strong>officially-appointed TP coach or instructor</strong> who
 has performed consistently well, and who has demonstrated excellent student/team
 management skills and strong commitment to TP.</p>
-<p>Submit your nominations <a href="https://forms.office.com/r/zQMqhZafMs?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUREM2N0RBUUQzQVVLUTlQRUhFUldFODA3OS4u" rel="noopener nofollow" target="_blank">here</a>.</p>
 <hr>
 <p><strong><u>Group/Team Awards</u></strong>
 </p>
