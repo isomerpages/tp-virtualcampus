@@ -23,12 +23,12 @@ variant: tiptap
 played indoors with ’plastic’ sticks and a ball. Playing the stick above
 the waist is also against the rules, making it a relatively safe sport.
 Each game comprises three periods of 15 minutes and involves five players
-and a goalkeeper with rotating substitutions. TP Floorball teams (Men &amp;
-Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic
-(IVP) Floorball Games annually.
+and a goalkeeper with rotating substitutions. The TP Floorball Teams (Men
+&amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
+Polytechnic (IVP) Floorball Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2023: Bronze (Men’s &amp; Women’s Teams)
+<br>POL-ITE Games 2024: Bronze (Men’s Team)
 <br>
 </p>
 <p><strong>Training Days:</strong>
@@ -42,7 +42,7 @@ Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechni
 </li>
 </ul>
 <p></p>
-<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG)" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Haffiz Amin</a>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tan_Thian_Seng@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Thiang Seng</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpfloorball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
