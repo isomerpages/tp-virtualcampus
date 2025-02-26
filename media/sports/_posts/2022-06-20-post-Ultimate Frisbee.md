@@ -28,7 +28,7 @@ and agility. The TP Ultimate Frisbee Team competes in the Polytechnic-ITE
 annually.
 <br>
 <br><strong>Achievements:</strong> 
-<br>POL-ITE Games 2023: Bronze
+<br>POL-ITE Games 2024: Silver
 <br>
 <br><strong>Training Days:</strong>
 <br>Tuesday &amp; Friday, 7pm
