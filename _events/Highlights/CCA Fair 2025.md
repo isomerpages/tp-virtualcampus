@@ -49,15 +49,14 @@ out more about TP’s CCAs? Check out the links below!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Performing_Arts_copy.jpg">
 </div>
 <p><strong><a href="/cca-and-student-groups/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Sports_copy.jpg">
 </div>
@@ -67,20 +66,18 @@ out more about TP’s CCAs? Check out the links below!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/P10_Clubs___Interest_Groups_copy.jpg">
 </div>
 <p><strong><a href="/cca-and-student-groups/p10-and-interest-groups/p10-clubs/" rel="noopener noreferrer nofollow" target="_blank">P10 Clubs &amp; Interest Groups</a></strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Diploma_Interest_Groups_copy.jpg">
 </div>
 <p><strong><a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/" rel="noopener noreferrer nofollow" target="_blank">Diploma Interest Groups</a></strong> 
-<br>
 </p>
 </td>
 </tr>
