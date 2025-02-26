@@ -50,7 +50,7 @@ out more about TP’s CCAs? Check out the links below!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Performing_Arts.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Performing_Arts.jpg">
 </div>
 <p><strong><a href="/cca-and-student-groups/performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a></strong>
 </p>
@@ -58,7 +58,7 @@ out more about TP’s CCAs? Check out the links below!</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Sports.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Sports.jpg">
 </div>
 <p><strong><a href="/cca-and-student-groups/sports/" rel="noopener noreferrer nofollow" target="_blank">Sports</a></strong>
 </p>
@@ -67,7 +67,7 @@ out more about TP’s CCAs? Check out the links below!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/P10_Clubs___Interest_Groups.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/P10_Clubs___Interest_Groups.jpg">
 </div>
 <p><strong><a href="/cca-and-student-groups/p10-and-interest-groups/p10-clubs/" rel="noopener noreferrer nofollow" target="_blank">P10 Clubs &amp; Interest Groups</a></strong>
 </p>
@@ -75,7 +75,7 @@ out more about TP’s CCAs? Check out the links below!</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Diploma_Interest_Groups.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Diploma_Interest_Groups.jpg">
 </div>
 <p><strong><a href="/cca-and-student-groups/diploma-interest-groups/school-of-applied-science/" rel="noopener noreferrer nofollow" target="_blank">Diploma Interest Groups</a></strong>
 </p>
