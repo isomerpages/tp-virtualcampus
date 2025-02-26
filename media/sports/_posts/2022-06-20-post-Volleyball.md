@@ -24,21 +24,21 @@ By grounding a ball on the other team's court, each team tries to score
 points. The ball is usually played with the hands or arms, but players
 can contact the ball with any part of the body. Techniques used in volleyball
 include spiking and blocking, passing, setting, and specialised player
-positions and offensive and defensive structures. TP Volleyball (Men &amp;
-Women) teams compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
+positions and offensive and defensive structures. The TP Volleyball Teams
+(Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
 Polytechnic (IVP) Volleyball Games annually.
 <br>
 <br><strong>Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>POL-ITE Games 2023: Gold (Men’s Team) &amp; Gold (Women’s Team)</p>
+<p>IVP Games (AY2024/25): Silver (Men's Team)</p>
 </li>
 <li>
-<p>IVP Games AY2023/24: Silver (Men’s Team) &amp; Bronze (Women’s Team)</p>
+<p>POL-ITE Games 2024: Gold (Men’s Team) &amp; Silver (Women’s Team)</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Training Days:</strong>
 <br>Wednesday &amp; Friday, 6.30pm
 <br>
