@@ -19,7 +19,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Track and field events are divided into three broad categories: track
+<p>Track and Field events are divided into three broad categories: track
 events, field events and combined events. Track events include sprints,
 middle and long-distance events, hurdles and relays. Field events are grouped
 into 2 broad categories, jumps and throws. The TP Track &amp; Field Teams
