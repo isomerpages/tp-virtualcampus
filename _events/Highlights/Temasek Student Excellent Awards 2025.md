@@ -197,5 +197,50 @@ all Group/Team Awards<strong> </strong><a href="/files/TSEA/2025/TSEA_2025___gro
 <p><strong>Step 2:</strong> Submit your nominations by <strong><u>21 March 2025 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in <strong>Step 1</strong>.
 The links are also provided below for your convenience.)</p>
+<p><strong><u>Group/Team Awards: Categories</u></strong>
+</p>
+<p><strong>1.&nbsp;&nbsp; Arts Group of the Year</strong>
+</p>
+<p>This is awarded to an outstanding arts group that has displayed high artistic
+merit and contributed to the vibrancy of campus life over the past academic
+year (AY2024/2025).</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN1Y2WFgzVjk4TkQ1TDNPMVI5WEdSU1VaTC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>2.&nbsp;&nbsp; Sports Team of the Year</strong>
+</p>
+<p>This is awarded to an outstanding sports team that has met the requirements
+(refer to the eligibility criteria in the PDF document) over the past academic
+year (AY2024/2025).</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN1Y2WFgzVjk4TkQ1TDNPMVI5WEdSU1VaTC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>3.&nbsp;&nbsp; School Club of the Year</strong>
+</p>
+<p>This is applicable to the respective Studies Clubs of the six schools,
+which has contributed in an impactful way to its School as well as the
+wider community over the past academic year (AY2024/2025).</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN1Y2WFgzVjk4TkQ1TDNPMVI5WEdSU1VaTC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>4.&nbsp;&nbsp; Interest Group of the Year</strong>
+</p>
+<p>This is awarded to an outstanding Interest Group that that has met the
+requirements (refer to the eligibility criteria in the PDF document) over
+the past academic year (AY2024/2025).</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN1Y2WFgzVjk4TkQ1TDNPMVI5WEdSU1VaTC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>5. &nbsp;&nbsp;Promising Young Entrepreneur Award</strong>
+</p>
+<p>This is awarded to groups of entrepreneurial students / fresh graduates,
+whose businesses exhibit excellent growth or high potential for growth
+and scalability.</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN1Y2WFgzVjk4TkQ1TDNPMVI5WEdSU1VaTC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>6. &nbsp;&nbsp;Community Service Excellence Award</strong>
+</p>
+<p>This is awarded to groups of students who have demonstrated commitment
+to advance the welfare of their community at large, and/or who have made
+significant contributions to this community over the past academic year
+(AY2024/2025).</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN1Y2WFgzVjk4TkQ1TDNPMVI5WEdSU1VaTC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>7. &nbsp;&nbsp;Service Excellence Award</strong>
+</p>
+<p>This is awarded to groups of students who have demonstrated a high level
+of commitment to supporting TP activities, and who have made significant
+contributions to the wider TP community over the past academic year (AY2024/2025).</p>
+<p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN1Y2WFgzVjk4TkQ1TDNPMVI5WEdSU1VaTC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
