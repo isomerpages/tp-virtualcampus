@@ -20,7 +20,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Water Polo is a physically demanding team water sport played over 4 quarters,
-consisting of two teams of 6 field players and 1 goalkeeper each. Gameplay
+consisting of two teams of six field players and one goalkeeper each. Gameplay
 involves swimming, handling and passing the ball, and players score by
 throwing the ball into the goal defended by a goalkeeper. The TP Water
 Polo Team competes in the Polytechnic-ITE (POL-ITE) Water Polo Games annually.
