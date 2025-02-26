@@ -22,12 +22,12 @@ variant: tiptap
 <p>The mind sport is a board game of strategy for two players. As opposed
 to physical exercise, the competition is based on strategy and endgame
 methods. The common board games played in TP are Xiangqi and International
-Chess. TP Mind Sports team participates in external competitions annually.
+Chess. The TP Mind Sports Team participates in external competitions annually.
 <br>
 <br><strong>Training Days:</strong>
-<br>Wednesday, 7pm
+<br>Friday, 7pm
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Koh_Wen_Kiat@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Wen Kiat</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Raymond_Loh@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Loh</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tp_mindsports" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
