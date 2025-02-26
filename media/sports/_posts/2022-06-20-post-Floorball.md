@@ -21,11 +21,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Developed in Scandinavia in the 1970s, floorball is a fast-paced sport
 played indoors with ’plastic’ sticks and a ball. Playing the stick above
-the waist is also against the rules, making it a relatively safe sport.
-Each game comprises three periods of 15 minutes and involves five players
-and a goalkeeper with rotating substitutions. The TP Floorball Teams (Men
-&amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
-Polytechnic (IVP) Floorball Games annually.
+the waist is against the rules, making it a relatively safe sport. Each
+game comprises three periods of 15 minutes and involves five players and
+a goalkeeper with rotating substitutions. The TP Floorball Teams (Men &amp;
+Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic
+(IVP) Floorball Games annually.
 <br>
 <br><strong>Achievements:</strong>
 <br>POL-ITE Games 2024: Bronze (Men’s Team)
