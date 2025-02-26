@@ -49,6 +49,7 @@ expand social circle</p>
 <p>And many more!</p>
 </li>
 </ul>
+<p></p>
 <p>All students are welcome to join us in this peer support movement!
 <br>
 <br><strong>Meeting Day:</strong> 
