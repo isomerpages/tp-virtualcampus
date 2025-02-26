@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Highlights
 variant: tiptap
 ---
-<h3><strong>CCA Fair 2024</strong></h3>
+<h3><strong>CCA Fair 2025</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fFXSTxuJtHY?si=XssRfvfau48p9GSP"></iframe>
