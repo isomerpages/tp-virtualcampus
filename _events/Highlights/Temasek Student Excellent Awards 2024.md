@@ -59,6 +59,25 @@ before submitting their nominations.&nbsp;</p>
 <p><em>(*Students are allowed to nominate themselves for the Temasek Student Eco-Award. TP staff can submit nominations for this award as well.)</em>
 </p>
 <hr>
-<p></p>
+<p><strong>Selection (Award Selection)</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; All forms must clearly indicate the nominated
+award category. However, the Selection Panel will make the final decision
+for the category that is most applicable.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Selection is based on a set of pre-determined
+criteria, which includes amongst other things, standard of achievement,
+attendance, level of contribution, scale and number of projects, and demonstration
+of artistic merit, leadership skills and sportsmanship.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; The selection of nominees will be left to the
+Selection Panel and the decision of the Panel is final. Neither direct
+communication nor appeals will be entertained.</p>
+<p><strong>Conditions</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; The award may be withdrawn from the recipient,
+should inaccurate facts or information be provided at the time of nomination.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; The Polytechnic reserves the right not to award
+any of the awards if no suitable candidates are identified.</p>
+<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;here.</strong>
+</p>
 <p></p>
 <p></p>
