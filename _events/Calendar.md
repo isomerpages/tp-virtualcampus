@@ -26,10 +26,10 @@ variant: tiptap
 <p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.
 <br>
-<br>Life as a TP student can be as exciting, engaging and empowering as you
-want it to be! Join us at the <strong>CCA Fair 2025</strong> and dive into
-a world of thrilling opportunities offered in TP to realise your full potential.
-Mark your calendar now!</p>
+<br>Calling all Freshies - life as a TP student can be as exciting, engaging
+and empowering as you want it to be! Join us at the <strong>CCA Fair 2025</strong> and
+dive into a world of thrilling opportunities offered in TP to realise your
+full potential. Mark your calendar now!</p>
 <p></p>
 </td>
 </tr>
