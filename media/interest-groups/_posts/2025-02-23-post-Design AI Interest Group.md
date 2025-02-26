@@ -34,8 +34,6 @@ in the creative industry.</p>
 <p>Once a month &amp; project/event basis
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:TEO_Yah_Hoon@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teo Yah Hoon</a>
-<br>
-<br><strong>CCA <a href="https://www.instagram.com/tpbizschool/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
