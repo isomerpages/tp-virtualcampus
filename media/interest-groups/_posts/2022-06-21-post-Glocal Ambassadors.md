@@ -41,20 +41,22 @@ government initiatives.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Glocal Exchanges: Participate in physical and virtual exchanges that incorporate
-Theinternational best practices, providing a comprehensive learning experience.</p>
+<p><strong>Glocal Exchanges:</strong> Participate in physical and virtual
+exchanges that incorporate Theinternational best practices, providing a
+comprehensive learning experience.</p>
 <p></p>
 </li>
 <li>
-<p>Cultural Immersion Programmes: Engage in TP-wide activities such as Carousel
-of Cultures (formerly known as Global Community Day) to promote understanding
-and appreciation of diverse cultures, both within Singapore and globally.</p>
+<p><strong>Cultural Immersion Programmes:</strong> Engage in TP-wide activities
+such as Carousel of Cultures (formerly known as Global Community Day) to
+promote understanding and appreciation of diverse cultures, both within
+Singapore and globally.</p>
 <p></p>
 </li>
 <li>
-<p>Glocal Dialogues: Join inter-polytechnic events such as Civic Conversations
-Engagement, Workplace Integration In Action, Cross-Cultural Symposium and
-Youth Model ASEAN Conference.</p>
+<p><strong>Glocal Dialogues: </strong>Join inter-polytechnic events such
+as Civic Conversations Engagement, Workplace Integration In Action, Cross-Cultural
+Symposium and Youth Model ASEAN Conference.</p>
 </li>
 </ol>
 <p></p>
@@ -63,19 +65,20 @@ Youth Model ASEAN Conference.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Enhanced Glocal Awareness: Gain a deeper understanding of glocal issues
-and cultural diversity through various programmes and activities.</p>
+<p><strong>Enhanced Glocal Awareness: </strong>Gain a deeper understanding
+of glocal issues and cultural diversity through various programmes and
+activities.</p>
 <p></p>
 </li>
 <li>
-<p>Academic Enrichment: Complement your academic studies with practical experiences
-and insights gained from GS and SCA.</p>
+<p><strong>Academic Enrichment: </strong>Complement your academic studies
+with practical experiences and insights gained from GS and SCA.</p>
 <p></p>
 </li>
 <li>
-<p>Personal Growth: Broaden your horizons, build confidence, and become a
-well-rounded individual capable of navigating and contributing to both
-global and local contexts effectively.</p>
+<p><strong>Personal Growth: </strong>Broaden your horizons, build confidence,
+and become a well-rounded individual capable of navigating and contributing
+to both global and local contexts effectively.</p>
 </li>
 </ol>
 <p></p>
