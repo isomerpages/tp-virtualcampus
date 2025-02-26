@@ -25,19 +25,18 @@ entire body to move through water. For competition, the swimming events
 generally consists of butterfly, backstroke, breaststroke, freestyle and
 individual medley. Swimming is good for physical health as it burns lots
 of calories, is easy on the joints, supports your weight, builds muscular
-strength and endurance. TP Swimming teams (Men &amp; Women) compete in
-the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming
-Championship annually.
+strength and endurance. The TP Swimming Teams (Men &amp; Women) compete
+in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP)
+Swimming Championship annually.
 <br>
 <br><strong>Achievements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>IVP Games AY2023/24: Gold (Men’s Team), Bronze (Women’s Team) &amp; Gold
-(Team Overall)</p>
+<p>IVP Games (AY2024/25): Gold (Men’s Team) &amp; Silver (Team Overall)</p>
 </li>
 <li>
-<p>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)</p>
+<p>POL-ITE Games 2024: Gold (Men’s Team) &amp; Gold (Women’s Team)</p>
 </li>
 </ul>
 <p></p>
