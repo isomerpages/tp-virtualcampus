@@ -41,7 +41,7 @@ a world of thrilling opportunities offered in TP. See you there!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/events/freshmen-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2024</a></strong>
+<p><strong><a href="/events/freshmen-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2025</a></strong>
 </p>
 <p></p>
 <p>Hey Freshies, welcome to the TP family and get ready for an amazing <strong>Freshmen Orientation (FO)</strong>!</p>
