@@ -26,8 +26,8 @@ students by providing accessible opportunities through experiential and
 awareness activities about STEM careers. Our aim is to shape students'
 future in STEM by equipping them with the skills and confidence to pursue
 STEM careers and to make a meaningful impact to the industry.</p>
-<p>
-<br>TWIST organises a variety of events including:
+<p></p>
+<p>TWIST organises a variety of events including:
 <br>
 </p>
 <ul data-tight="true" class="tight">
