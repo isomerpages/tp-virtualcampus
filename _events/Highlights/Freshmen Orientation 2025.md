@@ -149,11 +149,11 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Humanities &amp; Social Sciences</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>hsshotline@tp.edu.sg</a>
+<p><strong>Humanities &amp; Social Sciences</strong><a href="mailto:hsshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>hsshotline@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Informatics &amp; IT</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>iit@tp.edu.sg</a>
+<p><strong>Informatics &amp; IT</strong><a href="mailto:iit@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>iit@tp.edu.sg</a>
 </p>
 </td>
 </tr>
