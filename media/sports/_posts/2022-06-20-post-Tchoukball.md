@@ -34,9 +34,7 @@ without being caught by the defending team.
 <br><strong>Training Days:</strong>
 <br>Tuesday &amp; Friday, 7pm
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tan_Thian_Seng@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Thian Seng</a> (Men's Team)
-&amp; <a href="mailto:Nur_Soleha_Kamal@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Soleha Kamal</a> (Women's
-Team)
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Jane_Yang@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Yang</a> 
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tptchouk" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
