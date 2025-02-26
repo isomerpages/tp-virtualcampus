@@ -48,12 +48,15 @@ sections:
       alt: Image alt text
       image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
   - infopic:
-      title: Infopic
+      title: CCA Fair 2025
       subtitle: EXCITE. ENGAGE. EMPOWER.
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Keen to discover your passion and make your days on campus count?
+        Check out this event to find out how you can be a part of the diverse
+        CCAs offered in TP!
+      button: CREATE YOUR JOURNEY!
       alt: Image alt text
+      url: /events/cca-fair-2025/
   - infopic:
       title: "DREAMS: Celebrating TP35"
       subtitle: KICKING OFF A SPECIAL YEAR!
