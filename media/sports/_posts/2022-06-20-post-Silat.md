@@ -21,7 +21,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Silat is a traditional martial art that originated in Southeast Asia,
 known for its dynamic combination of powerful strikes and intricate joint
-manipulation techniques. Recently, UNESCO acknowledged Silat as a significant
+manipulation techniques. Recently, UNESCO has acknowledged Silat as a significant
 part of the region's intangible cultural heritage. The TP Silat team takes
 great pride in representing this esteemed martial art in external competitions
 each year, particularly the IVP Silat competition organised by the Singapore
