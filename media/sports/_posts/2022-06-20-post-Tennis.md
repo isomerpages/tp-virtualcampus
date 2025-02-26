@@ -24,20 +24,20 @@ image: ""
 <p>Tennis is a familiar racquet sport that is usually played on outdoor courts
 between two players (singles) or between two teams of two players each
 (doubles). An Olympic sport, tennis is popular with many people of all
-ages regardless of their social background. TP Tennis Teams (Men &amp;
+ages regardless of their social background. The TP Tennis Teams (Men &amp;
 Women) compete in the Polytechnic-ITE (POL-ITE) Tennis Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2023: Bronze (Men’s &amp; Women’s Teams)
+<br>POL-ITE Games 2024: Silver (Men’s Team) &amp; Gold (Women's Team)
 <br>
 <br><strong>Training Days:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Men's: Tuesday &amp; Thursday, 7pm</p>
+<p>Tuesday &amp; Thursday, 7pm (Men's Team)</p>
 </li>
 <li>
-<p>Women's: Monday &amp; Thursday, 7pm</p>
+<p>Monday &amp; Thursday, 7pm (Women's Team)</p>
 </li>
 </ul>
 <p></p>
