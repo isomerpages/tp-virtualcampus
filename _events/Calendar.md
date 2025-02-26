@@ -23,12 +23,12 @@ variant: tiptap
 <p><strong><a href="/events/cca-fair-2025/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2025</a></strong>
 </p>
 <p></p>
-<p>Discover your passion. Unleash your creativity. Forge lasting friendships.
+<p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.
 <br>
 <br>Life as a TP student can be as exciting, engaging and empowering as you
-want it to be! Join us at the&nbsp;CCA Fair 2024 and take your pick from
-the diverse CCAs offered in TP. See you there!</p>
+want it to be! Join us at the <strong>CCA Fair 2025</strong> and dive into
+a world of thrilling opportunities offered in TP. See you there!</p>
 <p></p>
 </td>
 </tr>
@@ -44,14 +44,14 @@ the diverse CCAs offered in TP. See you there!</p>
 <p><strong><a href="/events/freshmen-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2024</a></strong>
 </p>
 <p></p>
-<p>Hey, Freshies! Congratulations on your successful admission to Temasek
-Polytechnic and here's wishing you a very warm welcome to the TP Family!
-<br>
-<br>The Freshmen Orientation occupies a special spot in TP’s calendar, as
-it celebrates a momentous milestone in your tertiary academic journey.
-Feeling jittery before the commencement of Polytechnic life? Fret not!
-TP has lined up an exciting array of activities to help you kickstart your
-journey on the right note!</p>
+<p>Hey Freshies, welcome to the TP family and get ready for an amazing <strong>Freshmen Orientation (FO)</strong>!</p>
+<p></p>
+<p>A highlight of TP’s calendar, the FO marks a momentous milestone in your
+academic journey as you progress into tertiary education. Feeling those
+first-day jitters? Fret not! TP has lined up an exciting array of activities
+to help you kickstart this new chapter of your life on the right note,
+and to support your transition into the Polytechnic with confidence and
+fun!</p>
 <p></p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ journey on the right note!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular </a></strong>
+<p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
 </p>
 <p></p>
 <p>Your freshmen onboarding experience will culminate in a fun afternoon
