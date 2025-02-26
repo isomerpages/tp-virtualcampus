@@ -20,39 +20,45 @@ image: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Global Connect Student Group (GCSG) caters to interests in:
-<br>
+<p>Glocal Ambassadors (formerly Global Connect Student Group) is an interest
+group under Temasek Polytechnic’s International Relations/Centre of Transcultural
+Studies, which oversees the fundamental subjects of Global Studies (GS)
+and Sustainability &amp; Climate Action (SCA).</p>
+<p></p>
+<p>Our dynamic community bridges the gap between global and local perspectives
+- hence glocal -aiming to cultivate globally-minded individuals who are
+deeply connected to their local communities. By integrating international
+insights with local initiatives, we create a unique platform for cultural
+exchange, global learning and community engagement.</p>
+<p></p>
+<p>Students not only participate but also help plan and host activities,
+such as below. Many programmes include visits to Singapore sites and ethnic
+enclaves, showcasing Singapore's multiculturalism and government initiatives.</p>
+<p></p>
+<p><strong>Key Benefits:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diversity and Inclusiveness</p>
-</li>
-<li>
-<p>Cultural expressions</p>
-</li>
-</ul>
 <p></p>
-<p>These areas will help hone your soft skills and prepare you for a globally-connected
-workplace and economy. Members may take on the roles of organisers, hosts,
-emcees, event helpers, gallery guides, programme co-curators with staff
-in some of our highlights:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Enhanced Glocal Awareness: Gain a deeper understanding of glocal issues
+and cultural diversity through various programmes and activities.</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Integration Council's award-winning Global Community Day (2024)</p>
 </li>
 <li>
-<p>Passage 2 ASEAN (P2A) student e-exchange programmes with ASEAN university
-students (2024)</p>
+<p>Academic Enrichment: Complement your academic studies with practical experiences
+and insights gained from GS and SCA.</p>
+<p></p>
 </li>
 <li>
-<p>Inter-polytechnic events such as Civic Conversations Engagement, Workplace
-Integration In Action and Cross-Cultural Symposium (2024)</p>
+<p>Personal Growth: Broaden your horizons, build confidence, and become a
+well-rounded individual capable of navigating and contributing to both
+global and local contexts effectively.</p>
 </li>
-<li>
-<p>Representing TP at national platforms (e.g. Harmony Champions) (2024)</p>
-</li>
-</ul>
+</ol>
+<p></p>
+<p>Joining the Glocal Ambassadors offers a unique opportunity to grow personally,
+academically and professionally, while making meaningful contributions
+to both your local community and the global society.</p>
 <p></p>
 <p><strong>Meeting Day:</strong>
 <br>Event basis
