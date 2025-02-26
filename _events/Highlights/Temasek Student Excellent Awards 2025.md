@@ -111,6 +111,6 @@ award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
 all Individual Awards <a href="/files/TSEA/2025/TSEA_2025___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p><strong>Step 2:</strong> Submit your nominations by <strong><u>21 March 2025 (Friday), 11.59pm</u></strong>.
-(Nomination links are provided in the PDF document in Step 1, and also
-reproduced below for your convenience.)</p>
+(Nomination links are provided in the PDF document in Step 1, and are also
+provided below for your convenience.)</p>
 <p></p>
