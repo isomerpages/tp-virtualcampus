@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.</p>
-<p>Life as a TP student can be as <strong>exciting</strong>, <strong>engaging </strong>and <strong>empowering</strong> as
+<p>Calling all Freshies – life as a TP student can be as <strong>exciting</strong>, <strong>engaging </strong>and <strong>empowering</strong> as
 you want it to be! As you gear up for your polytechnic adventure, do take
 time to explore our vibrant TP community beyond the academics, and build
 friendships, memories and skills that will last you a lifetime.</p>
