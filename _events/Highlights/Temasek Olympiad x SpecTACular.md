@@ -18,3 +18,27 @@ featuring dragon boat races and team challenges, alongside the captivating <stro
 event also encapsulates the best of our campus’ vibrant spirit, creative
 energy, and artistic splendour – all packed into an immersive experience
 on <strong>17 April 2025</strong>!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Temasek Olympiad: Make a Splash &amp; Have Fun in the Sun!</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>What better way is there to end your FO experience on a high note than
+by bonding with your friends, while experiencing a slice of the campus
+vibrancy that TP is known for?</p>
+<p></p>
+<p>As part of the <strong>Temasek Olympiad</strong>, you will get to paddle
+your heart out under the warm morning sun, or cheer for your friends as
+they go head-to-head in the exciting dragon boat races for your School’s
+glory! This thrilling action will unfold at TP’s picturesque backyard –
+Bedok Reservoir.</p>
+<p></p>
+<p>As the afternoon heats up, jump into an action-packed host of team challenges
+that will put your physical abilities and mental agility to the test, while
+soaking in the sporting excitement. Be stoked for your peers too as they
+perform creative cheers that epitomise your School’s spirit, camaraderie
+and values – all in the name of friendly competition and fun!</p>
+</div>
+</details>
+</div>
+<p></p>
