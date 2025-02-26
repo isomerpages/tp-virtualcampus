@@ -102,5 +102,12 @@ suitable candidates are identified.</p>
 </p>
 <p><strong>For further enquiries, please contact:&nbsp;<a href="tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
+<hr>
+<p><strong><u>Individual Awards</u></strong>
+</p>
 <p></p>
+<p>Have an outstanding nominee who deserves to be recognised in any of these
+award categories? Submit your nomination today!</p>
+<p><strong>Step 1:</strong> Download and read the eligibility criteria for
+all Individual Awards <u>here</u>.</p>
 <p></p>
