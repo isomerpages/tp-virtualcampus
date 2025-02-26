@@ -26,7 +26,7 @@ Studies, which oversees the fundamental subjects of Global Studies (GS)
 and Sustainability &amp; Climate Action (SCA).</p>
 <p></p>
 <p>Our dynamic community bridges the gap between global and local perspectives
-- hence glocal -aiming to cultivate globally-minded individuals who are
+- hence glocal - aiming to cultivate globally-minded individuals who are
 deeply connected to their local communities. By integrating international
 insights with local initiatives, we create a unique platform for cultural
 exchange, global learning and community engagement.</p>
