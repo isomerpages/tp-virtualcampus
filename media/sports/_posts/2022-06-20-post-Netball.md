@@ -28,14 +28,7 @@ Games and Institute-Varsity Polytechnic (IVP) Games annually.
 <br>
 <br><strong>Achievements:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>IVP Games 2022: 4th Position</p>
-</li>
-<li>
 <p>POL-ITE Games 2022: Bronze</p>
-</li>
-</ul>
 <p></p>
 <p><strong>Training Days:</strong>
 <br>Tuesday &amp; Thursday, 7pm
