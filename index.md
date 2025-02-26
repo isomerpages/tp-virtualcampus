@@ -26,6 +26,17 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek Student Excellence Awards 2025
+      subtitle: ANNUAL STUDENT AWARDS
+      id: infopic
+      description: Take a moment to uplift your students' spirits and acknowledge
+        their contributions, dedication and leadership. Nominate them for the
+        TSEA today!
+      button: NOMINATE NOW!
+      url: /tsea-2025/
+      image: /images/Events/Highlights/TSEA_2025_Draft_1.png
+      alt: Image alt text
+  - infopic:
       title: Freshmen Orientation 2025
       subtitle: "WELCOME TO THE #TPFAM!"
       id: infopic
