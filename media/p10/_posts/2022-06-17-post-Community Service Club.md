@@ -20,7 +20,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>"A Caring Heart &amp; Volunteering Spirit" is the motto that guides the
-purpose of activities initiated by the TP Community Service Club (CSC).
+purpose of activities initiated by the TP Community Service Club (TPCSC).
 TPCSC aims to instil the spirit of volunteerism in TP students and build
 a strong base of volunteers to serve the community. It runs both long-term
 and ad-hoc events across the following sectors: <strong>Eldercare</strong>, <strong>Children &amp; Family Services</strong>, <strong>Special Needs </strong>and <strong>Other Special Causes</strong>.
