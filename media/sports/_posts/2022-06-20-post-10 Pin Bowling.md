@@ -20,8 +20,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>In recent years, this popular sport has gained a strong following in Singapore
-among secondary and tertiary students. Similarly, the TP Bowling Team (Men
-&amp; Women) attracts all levels of bowlers, and our best bowlers compete
+among secondary and tertiary students. Similarly, the TP Bowling Teams
+(Men &amp; Women) attract all levels of bowlers, and our best bowlers compete
 in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP)
 Games annually.
 <br>
