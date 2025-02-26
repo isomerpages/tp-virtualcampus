@@ -23,7 +23,7 @@ variant: tiptap
 organisation in TP. As reflected in our motto "Managed by students for
 students", TPSU aims to create a vibrant and caring campus through meaningful
 student-initiated activities. Find out more about our initiatives and activities
-from our website or Instagram!
+from our Instagram!
 <br>
 </p>
 <p><strong>Meeting day:</strong> 
@@ -34,7 +34,7 @@ from our website or Instagram!
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpsuonline" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
-<p><strong>CCA <a href="www.tpsu.online.com" rel="noopener nofollow" target="_blank">Website</a></strong>
+<p><strong>CCA <a href="https://linktr.ee/tpsu?fbclid=PAZXh0bgNhZW0CMTEAAabjM0E8TPvyKFD4n_GAhHiYx7ohWrXqUByhrVp-hcAx-DxSzC5nIIuYJT0_aem_4XEmqIjspO9z_WLDbtdu8g" rel="noopener nofollow" target="_blank">Linktree</a></strong>
 </p>
 </td>
 </tr>
