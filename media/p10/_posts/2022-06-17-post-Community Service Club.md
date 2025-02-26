@@ -22,16 +22,15 @@ variant: tiptap
 <p>"A Caring Heart &amp; Volunteering Spirit" is the motto that guides the
 purpose of activities initiated by the TP Community Service Club (CSC).
 TPCSC aims to instil the spirit of volunteerism in TP students and build
-a strong base of volunteers to serve the community. CSC runs both long-term
-and ad-hoc events across the following sectors: Eldercare, Children &amp;
-Family Services, Special Needs and Other Special Causes. If you have a
-heart for the community and want to pay it forward, come join TP CSC as
-a member now!
+a strong base of volunteers to serve the community. It runs both long-term
+and ad-hoc events across the following sectors: <strong>Eldercare</strong>, <strong>Children &amp; Family Services</strong>, <strong>Special Needs </strong>and <strong>Other Special Causes</strong>.
+If you have a heart for the community and want to pay it forward, come
+join TPCSC as a member now!
 <br>
 <br><strong>Meeting Day:</strong> 
 <br>Event Basis
 <br>
-<br><strong>CCA Staff Advisors:</strong>  <a href="mailto:Zara_CHOO@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zara Choo</a>, <a href="mailto:NG_Qihui@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Qihui</a> 
+<br><strong>CCA Staff Advisors:</strong>  <a href="mailto:NG_Qihui@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Qihui</a> 
 <br>
 <br><strong>CSC <a href="mailto:csc@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a><br>CCA <a href="https://www.instagram.com/tp_csc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
