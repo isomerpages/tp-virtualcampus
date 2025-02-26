@@ -22,11 +22,11 @@ variant: tiptap
 <p>Taekwondo is the oldest Korean martial art and is still included in the
 Korean military training today. Taekwondo competitions involve poomsae,
 a set of defined pattern defence and attack techniques, and kyorugi, which
-involves sparring with an opponent. TP Taekwondo Team competes in the Polytechnic-ITE
-(POL-ITE) Taekwondo Games and external competitions annually.
+involves sparring with an opponent. The TP Taekwondo Team competes in the
+Polytechnic-ITE (POL-ITE) Taekwondo Games and external competitions annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2023: Gold
+<br>POL-ITE Games 2024: Gold
 <br>
 <br><strong>Training Days:</strong>
 <br>Tuesday &amp; Thursday, 7pm
