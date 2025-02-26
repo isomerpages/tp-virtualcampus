@@ -42,8 +42,8 @@ government initiatives.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Glocal Exchanges:</strong> Participate in physical and virtual
-exchanges that incorporate Theinternational best practices, providing a
-comprehensive learning experience.</p>
+exchanges that incorporate international best practices, providing a comprehensive
+learning experience.</p>
 <p></p>
 </li>
 <li>
