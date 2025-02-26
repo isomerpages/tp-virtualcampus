@@ -105,7 +105,6 @@ suitable candidates are identified.</p>
 <hr>
 <p><strong><u>Individual Awards</u></strong>
 </p>
-<p></p>
 <p>Have an outstanding nominee who deserves to be recognised in any of these
 award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
@@ -188,4 +187,11 @@ significantly to sustainability efforts over the past academic year (AY2024/2025
 has performed consistently well, and who has demonstrated excellent student/team
 management skills and strong commitment to TP.</p>
 <p>Submit your nominations <a href="https://forms.office.com/r/zQMqhZafMs?origin=lprLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<hr>
+<p><strong><u>Group/Team Awards</u></strong>
+</p>
+<p>Have an outstanding group of students who deserves to be recognised in
+any of these award categories? Submit your nomination today!</p>
+<p><strong>Step 1</strong>: Download and read the eligibility criteria for
+all Group/Team Awards<strong> </strong><u>here</u>.</p>
 <p></p>
