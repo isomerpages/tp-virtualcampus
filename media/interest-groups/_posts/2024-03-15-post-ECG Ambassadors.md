@@ -20,8 +20,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>At ECG Ambassadors Interest Group, we aim to equip ECG Ambassadors with
-the resources, tools and knowledge to help fellow TP students feel supported
+<p>At the ECG Ambassadors Interest Group, we aim to equip ECG Ambassadors
+with resources, tools and knowledge to help fellow TP students feel supported
 and confident in navigating the various post-poly pathways available.
 <br>
 <br><strong>Objectives:</strong>
@@ -38,7 +38,7 @@ and confident in navigating the various post-poly pathways available.
 students</p>
 </li>
 <li>
-<p>Encourage self-directedness of students among TP students in ECG matters</p>
+<p>Encourage self-directedness among TP students in ECG matters</p>
 </li>
 </ul>
 <p></p>
@@ -52,18 +52,16 @@ students</p>
 <p>Quarterly campus outreach activities</p>
 </li>
 <li>
-<p>TP-wide events such as TP Open House and TPOF</p>
+<p>TP-wide events such as TPOF and TP Open House</p>
 </li>
 <li>
-<p>Training to provide peers with ECG resources, tools, and information</p>
-</li>
-<li>
-<p>Mentoring by management of SSCS and ECCs</p>
+<p>Training to provide peers with ECG resources, tools and information</p>
 </li>
 </ul>
 <p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Karen_Yap@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karen Yap</a> (Main Advisor) &amp;
-<a href="mailto:Corinne_Cheng_Hong_TAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Corinne Tan</a>(Co-advisor)</p>
+<a href="mailto:Miaohua_PAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pan Miaohua<u> </u>
+</a>(Co-advisor)</p>
 <p></p>
 <p><strong>CCA <a href="https://www.instagram.com/tp_ecga/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
