@@ -119,9 +119,7 @@ The links are also provided below for your convenience.)</p>
 </p>
 <p>This is awarded to students who have been actively involved in their respective
 CCAs over the past academic year (AY2024/2025).</p>
-<p>Submit your nominations via the prescribed nomination form to the TSEA
-Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded via </em>
-<a href="https://for.edu.sg/ccaandcolouraward" rel="noopener nofollow" target="_blank">here</a><em>.)</em>
-</p>
-<p></p>
+<p>Submit your nominations using the designated nomination form <a href="https://for.edu.sg/ccaandcolouraward" rel="noopener nofollow" target="_blank">here</a>.
+Once completed, email your nomination(s) to the TSEA Secretariat at <a href="tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a> with the <strong>subject line</strong>:
+<br>CCA Merit Award, Full Colours and Half</p>
 <p></p>
