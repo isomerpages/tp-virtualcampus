@@ -100,5 +100,7 @@ suitable candidates are identified.</p>
 </ul>
 <p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs <a href="/files/TSEA/2025/2025_TSEA_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
+<p><strong>For further enquiries, please contact:&nbsp;<a href="tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
+</p>
 <p></p>
 <p></p>
