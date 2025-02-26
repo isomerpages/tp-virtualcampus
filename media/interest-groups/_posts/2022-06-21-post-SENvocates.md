@@ -19,48 +19,52 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>SENvocates is an interest group in Temasek Polytechnic (TP) dedicated
-to:
+<p>SENvocates is a student interest group in Temasek Polytechnic (TP) dedicated
+to advocating for disabilities and Special Educational Needs (SEN).
 <br>
+</p>
+<p><strong>Objectives:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Raising awareness and advocating for disabilities and Special Educational
-Needs (SEN)</p>
+<p>Advocating and raising awareness on disabilities and SEN.</p>
 </li>
 <li>
-<p>Providing peer support to fellow TP students with disabilities/SEN</p>
+<p>Creating a supportive and enriching school experience for fellow TP students
+with SEN.</p>
 </li>
 <li>
-<p>Promoting an inclusive community by organising and participating in disability/SEN-related
-events</p>
+<p>Fostering an inclusive community by organising and participating in disability/SEN-related
+events.</p>
 </li>
 <li>
-<p>Collaborating with external partners on disability/SEN-related projects
-and volunteering work</p>
+<p>Partnering with external agencies to drive meaningful disability and SEN-related
+projects.</p>
 </li>
 </ul>
 <p></p>
+<p><strong>Vision:</strong>
+</p>
 <p>Together with the SEN Support Division from Student Support &amp; Career
 Services, we aim to foster an environment that is inclusive for every TP
-student, regardless of their challenges, and to make a difference to the
-disability/SEN community beyond TP.
+student, regardless of their challenges, and positively contribute to the
+disability and SEN community.
 <br>
-<br>Some events and projects that you can look forward to organising and/or
-participating in include:</p>
+<br>Some events and projects you can look forward to organising and participating
+in include:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bi-weekly "Let’s Hang Out!" sessions</p>
 </li>
 <li>
-<p>Disability Awareness Sessions</p>
+<p>The Purple Parade Contingent March and Campaign Activation</p>
 </li>
 <li>
-<p>Purple Parade Campus Activation</p>
+<p>Instagram Projects: TP SENtre, SENorita and Common Ground</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Meeting Day:</strong> 
 <br>Event basis
 <br>
