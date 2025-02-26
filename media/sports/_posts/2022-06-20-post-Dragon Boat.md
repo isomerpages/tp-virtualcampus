@@ -33,8 +33,8 @@ Dragon Boat Race and external competitions annually.
 (Mixed Team)
 <br>
 <br><strong>Training Days:</strong>
-<br>- Tuesday, 7pm</p>
-<p>- Saturday, 8am
+<br>Tuesday, 7pm</p>
+<p>Saturday, 8am
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charis_WOO@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charis Woo</a>
 <br>
