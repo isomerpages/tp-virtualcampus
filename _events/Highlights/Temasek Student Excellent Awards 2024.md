@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>Temasek Student Excellence Awards 2024</strong></h3>
+<h3><strong>Temasek Student Excellence Awards 2025</strong></h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
