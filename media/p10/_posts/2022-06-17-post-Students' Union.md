@@ -22,17 +22,19 @@ variant: tiptap
 <p>The Temasek Polytechnic Students' Union (TPSU) is the largest student
 organisation in TP. As reflected in our motto "Managed by students for
 students", TPSU aims to create a vibrant and caring campus through meaningful
-student-initiiated activities. Find out more about our initiatives and
-activities from our website (www.tpsu.online.com) or our Instagram!
+student-initiated activities. Find out more about our initiatives and activities
+from our website or Instagram!
 <br>
 </p>
 <p><strong>Meeting day:</strong> 
 <br>Event Basis
 <br>
 </p>
-<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:ng_qihui@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Qihui</a> &amp; <a href="mailto:Desmond_CK_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Desmond Lim</a>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:ng_qihui@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Qihui</a> &amp; <a href="mailto:Ng_Ching_Siang@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Ching Siang</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpsuonline" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
+</p>
+<p><strong>CCA <a href="www.tpsu.online.com" rel="noopener nofollow" target="_blank">Website</a></strong>
 </p>
 </td>
 </tr>
