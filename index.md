@@ -62,9 +62,9 @@ sections:
       title: CCA Fair 2025
       subtitle: EXCITE. ENGAGE. EMPOWER.
       id: infopic
-      description: Keen to discover your passion and make your days on campus count?
-        Check out this event to find out how you can be a part of the diverse
-        CCAs offered in TP!
+      description: Calling all Freshies! Are you keen to discover your passion and
+        maximise your fun and learning on campus? Check out TP's diverse CCA
+        offerings at this event!
       button: CREATE YOUR JOURNEY!
       alt: Image alt text
       url: /events/cca-fair-2025/
