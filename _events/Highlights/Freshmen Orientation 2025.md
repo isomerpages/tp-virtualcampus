@@ -133,35 +133,27 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Business</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>bushotline@tp.edu.sg</a>
+<p><strong>Business</strong><a href="mailto:bushotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>bushotline@tp.edu.sg</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Design</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>deshotline@tp.edu.sg</a>
+<p><strong>Design</strong><a href="mailto:deshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>deshotline@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">Engineering</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>enghotline@tp.edu.sg</a>
+<p><strong>Engineering</strong><a href="mailto:enghotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>enghotline@tp.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Humanities &amp; Social <a rel="noopener noreferrer nofollow" target="_blank">Sciences</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>hsshotline@tp.edu.sg</a>
+<p><strong>Humanities &amp; Social Sciences</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>hsshotline@tp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Informatics &amp; <a rel="noopener noreferrer nofollow" target="_blank">IT</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">
-<br>iit@tp.edu.sg</a>
+<p><strong>Informatics &amp; IT</strong><a rel="noopener noreferrer nofollow" target="_blank"><br>iit@tp.edu.sg</a>
 </p>
 </td>
 </tr>
