@@ -113,4 +113,14 @@ all Individual Awards <a href="/files/TSEA/2025/TSEA_2025___individual_awards_el
 <p><strong>Step 2:</strong> Submit your nominations by <strong><u>21 March 2025 (Friday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in <strong>Step 1</strong>.
 The links are also provided below for your convenience.)</p>
+<p><strong><u>Individual Awards: Categories</u></strong>
+</p>
+<p><strong>1.&nbsp;&nbsp; CCA Merit Award (Arts/Sports/Leadership)</strong>
+</p>
+<p>This is awarded to students who have been actively involved in their respective
+CCAs over the past academic year (AY2024/2025).</p>
+<p>Submit your nominations via the prescribed nomination form to the TSEA
+Secretariat at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a><em> (The nomination form can be downloaded&nbsp;<u>here</u>.)</em>
+</p>
+<p></p>
 <p></p>
