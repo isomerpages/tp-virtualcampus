@@ -48,6 +48,13 @@ sections:
       alt: Image alt text
       image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
   - infopic:
+      title: Infopic
+      subtitle: EXCITE. ENGAGE. EMPOWER.
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: "DREAMS: Celebrating TP35"
       subtitle: KICKING OFF A SPECIAL YEAR!
       id: infopic
