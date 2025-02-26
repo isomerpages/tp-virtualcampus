@@ -23,7 +23,7 @@ variant: tiptap
 The objective of the game is for teams to score by shooting into the goal
 ring. Unique to the game, players are assigned specific roles and move
 around within the restricted areas on court to maintain or gain possession
-of the ball. TP Netball team competes in the Polytechnic-ITE (POL-ITE)
+of the ball. The TP Netball Team competes in the Polytechnic-ITE (POL-ITE)
 Games and Institute-Varsity Polytechnic (IVP) Games annually.
 <br>
 <br><strong>Achievements:</strong>
