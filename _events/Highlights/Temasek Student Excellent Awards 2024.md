@@ -31,7 +31,34 @@ nomination process and submission forms/links below.</p>
 <p>For enquiries, please contact:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
 <hr>
-<p></p>
+<p><strong><u>Award Information (Nomination and Selection)</u></strong>
+</p>
+<p><strong>General Information (Award Nomination)</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Nominations for the TSEA are open from now till <strong><u>21 March 2025 (Friday),11.59pm</u></strong>.
+Nominations received after the deadline will strictly not be accepted.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Unless otherwise specified, only TP CCAs registered
+with the Student Development &amp; Alumni Affairs Department are eligible
+for the TSEA.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; For the CCA Merit Award (Arts/Sports/Leadership),
+Full Colours and Half Colours Award, CCA advisors are to submit their nominations&nbsp;via
+the prescribed nomination form&nbsp;to the TSEA Secretariat at:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong> (Only
+electronic submissions will be accepted.)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; For the Individual Higher Awards, Group/Team
+Higher Awards and Outstanding Coach/Instructor Award, nominations must
+be submitted via the official online forms.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; Nominations must be submitted by TP staff for
+all the awards (with the exception of the <em>*Temasek Student Eco-Award</em>).
+Nominations sent by students are deemed to be unsupported by TP staff and
+will hence not be accepted. Students who are found to have submitted their
+nominations without the endorsement of TP staff will have their awards
+withdrawn.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; It is the TP staff’s responsibility to verify
+the accuracy of all information, including the nominees’ SEAL records,
+before submitting their nominations.&nbsp;</p>
+<p><em>(*Students are allowed to nominate themselves for the Temasek Student Eco-Award. TP staff can submit nominations for this award as well.)</em>
+</p>
+<hr>
 <p></p>
 <p></p>
 <p></p>
