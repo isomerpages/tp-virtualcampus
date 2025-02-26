@@ -33,13 +33,20 @@ Dragon Boat Race and external competitions annually.
 (Mixed Team)
 <br>
 <br><strong>Training Days:</strong>
-<br>Tuesday, 7pm</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tuesday, 7pm</p>
+</li>
+<li>
 <p>Saturday, 8am
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charis_WOO@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charis Woo</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/temasekpolydragonboat/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
