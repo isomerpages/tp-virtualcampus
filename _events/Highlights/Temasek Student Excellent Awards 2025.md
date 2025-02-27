@@ -46,7 +46,7 @@ Nominations received after the deadline will strictly not be accepted.</p>
 <li>
 <p>For the CCA Merit Award (Arts/Sports/Leadership), Full Colours and Half
 Colours Award, CCA advisors are to submit their nominations&nbsp;via the
-prescribed nomination form&nbsp;to the TSEA Secretariat at:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong> (Only
+provided nomination form&nbsp;to the TSEA Secretariat at:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong> (Only
 electronic submissions will be accepted.)</p>
 </li>
 <li>
