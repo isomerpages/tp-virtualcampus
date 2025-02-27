@@ -34,7 +34,7 @@ sections:
         TSEA today!
       button: NOMINATE NOW!
       url: /tsea-2025/
-      image: /images/Events/Highlights/TSEA_2025_Draft_1.png
+      image: /images/Banner_TSEA_2025.png
       alt: Image alt text
   - infopic:
       title: Freshmen Orientation 2025
