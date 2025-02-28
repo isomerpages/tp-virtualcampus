@@ -70,10 +70,9 @@ fun!</p>
 <p></p>
 <p>Dear Freshies, your onboarding experience will culminate in a fun day
 at the&nbsp;<strong>Temasek Olympiad x SpecTACular</strong>! A special
-edition organised in celebration of TP’s 35th anniversary, this event also
-encapsulates the best of our campus’ vibrant spirit, creative energy, and
-artistic splendour – all packed into an immersive experience organised
-just for you!</p>
+edition organised in celebration of TP’s 35th anniversary, this event encapsulates
+the best of our campus’ vibrant spirit, creative energy, and artistic splendour
+– all packed into an immersive experience organised just for you!</p>
 <p></p>
 </td>
 </tr>
