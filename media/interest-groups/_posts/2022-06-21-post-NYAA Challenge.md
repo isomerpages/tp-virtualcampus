@@ -40,8 +40,7 @@ designed to fulfill the following four components:
 initiatives by following us on Instagram and Telegram (links below)!</p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Simon_CHEW@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Simon Chew</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpnyaa" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> 
-<br>CCA <a href="https://t.me/+hSAtHDMSQGplZmI9" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpnyaa" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> <br>CCA <a href="https://t.me/+hSAtHDMSQGplZmI9" rel="noopener noreferrer nofollow" target="_blank">Telegram</a></strong>
 </p>
 </td>
 </tr>

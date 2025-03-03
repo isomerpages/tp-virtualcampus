@@ -14,23 +14,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TP Music Vox (TPMV) is a family of musicians, typically made up of vocalists,
-guitarists, bassists, keyboardists, songwriters, drummers and even producers,
-who play, record and perform assorted genres including pop, rock and indie
-of original and cover music.
+<p>Temasek Polytechnic Music Vox (TPMV) is a family of musicians, typically
+made up of vocalists, guitarists, bassists, keyboardists, songwriters,
+drummers and even producers, who play, record and perform assorted genres
+including pop, rock and indie of original and cover music.
 <br>
 <br>They are often invited to perform for events on and off campus such as
-Esplanade's "In Youthful Company" and Temasek Spectacular, having been
-recognised for their musical synergy and crowd appeal. They have released
-their EP and LP albums of original music, titled ‘Beginnings’ and 'Full
-Bloom' respectively, on Spotify and other major streaming platforms.
-<br>
-<br>
-</p>
+Esplanade's "In Youthful Company" and "Homegrown Festival" at OCBC Square,
+having been recognised for their musical synergy and crowd appeal. They
+have released their EP and LP albums of original music, titled ‘Beginnings’
+and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Music Vox" src="/images/Arts/MV/MV_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/MV/Music_Vox.png">
 </div>
 </td>
 </tr>
@@ -41,10 +38,7 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tapestry Arts Festival - 'Our Canvas' (2023)</p>
-</li>
-<li>
-<p>MOE Media Appreciation Dinner (2022)</p>
+<p>Homegrown Festival @ OCBC Square (2024)</p>
 </li>
 <li>
 <p>Backstage Pass with Music &amp; Drama Company on Power98 Love Songs (2022)</p>
@@ -56,7 +50,7 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 <p>‘Beginnings’ EP Launch on Spotify (2021)</p>
 </li>
 <li>
-<p>National Day Observance Ceremony at the MOE HQ (2019)</p>
+<p>National Day Observance Ceremony at the MOE HQ (Annually, 2019-2024)</p>
 </li>
 <li>
 <p>“In Youthful Company” at The Esplanade Outdoor Theatre (2018)</p>
@@ -65,7 +59,8 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 <h5>Achievements</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Awarded Temasek Polytechnic's Arts Group of the Year Award (2023)</p>
+<p>Awarded Temasek Polytechnic's Arts Group of the Year Award (2023 &amp;
+2024)</p>
 </li>
 <li>
 <p>Awarded Temasek Polytechnic’s Arts Group Excellence Award (2019, 2020
@@ -80,10 +75,10 @@ Bloom' respectively, on Spotify and other major streaming platforms.
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sectional Training (Once fortnightly or monthly), 6.30pm to 9pm</p>
+<p>Sectional Training (Once fortnightly or monthly), 7pm to 9pm</p>
 </li>
 <li>
-<p>Rehearsal Jamming (Daily, subject to upcoming performances/recording)</p>
+<p>Rehearsal Jamming (Two to four times a week, subject to upcoming performances/recording)</p>
 </li>
 </ul>
 <h5>Staff Advisor</h5>

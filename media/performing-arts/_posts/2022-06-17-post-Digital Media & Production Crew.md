@@ -14,22 +14,25 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Digital Media &amp; Production Crew (DMPC) enables
-all of our performing arts groups to be experienced both in-person and
-via a host of other media formats. Through event organisation, production
-management and technical support, DMPC brings ideas to life.
-<br>
-<br>Engaging in audio, lighting, staging, visual media and post-production,
-the close-knit and dedicated group makes magic happen. Members receive
-training in a multitude of areas with current industry practitioners, and
-have abundant opportunites to practice these skills in real-world situations.
-<br>
-<br>
-</p>
+<p>The Digital Media &amp; Production Crew (DMPC) is a dynamic, student-led
+CCA that offers comprehensive technical services for a wide range of events,
+both on and off campus. We specialise in key production areas such as stage
+management, lighting design, audio engineering, photography, videography
+and graphic design, ensuring that every event is brought to life with precision
+and creativity. Our team collaborates closely with event organisers to
+execute technical operations, transforming ideas and visions into polished
+productions.</p>
+<p></p>
+<p>At DMPC, members are trained in various technical disciplines by industry
+practitioners, giving them invaluable insights into the latest tools, techniques,
+and trends in media and production. Through hands-on training and real-world
+event applications, members refine their skills in a practical and fast-paced
+environment. DMPC provides a platform for members to build expertise across
+a variety of productions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DMPC" src="/images/Arts/DMPC/DMPC_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DMPC/DMPC.png">
 </div>
 </td>
 </tr>
@@ -40,31 +43,38 @@ have abundant opportunites to practice these skills in real-world situations.
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tapestry Arts Festival (2023)</p>
+<p>TP Open House (2025)</p>
 </li>
 <li>
-<p>Polytechnic Forum (2023)</p>
+<p>Alchemy (2024)</p>
 </li>
 <li>
-<p>Temasek Student Excellence Awards Ceremony (2020-2023)</p>
+<p>DREAMS (2016-2019, 2021-2022, 2024)</p>
+</li>
+<li>
+<p>Tapestry Arts Festival (2022-2024)</p>
+</li>
+<li>
+<p>Temasek Polytechnic National Day Concert (2016, 2022-2024)</p>
+</li>
+<li>
+<p>Temasek Spectacular (2016-2019, 2022, 2024)</p>
 </li>
 <li>
 <p>Temasek Regatta x Samudra (2023)</p>
 </li>
 <li>
-<p>Union Management Games (2023)</p>
+<p>Union Management Games (2023, 2024)</p>
 </li>
 <li>
-<p>National Day Concert (2022 &amp; 2023)</p>
+<p>Temasek Student Excellence Awards Ceremony (2017-2024)</p>
 </li>
 <li>
-<p>Temasek Spectacular (2022)</p>
-</li>
-<li>
-<p>DREAMS XII (2022)</p>
+<p>Polytechnic Forum (2017, 2023)</p>
 </li>
 <li>
 <p>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</p>
+<p></p>
 </li>
 </ul>
 <h5>Achievements</h5>

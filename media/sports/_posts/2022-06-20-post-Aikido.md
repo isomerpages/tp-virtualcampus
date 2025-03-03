@@ -14,9 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Aikido_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Aikido_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,9 +28,7 @@ momentum and turn them into various throws or joint locks.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:TAN_Lui_Hua@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Lui Hua</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpaikido/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
-<br>
-<br>
+<br><strong>CCA <a href="https://www.instagram.com/tpaikido/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>

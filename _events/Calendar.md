@@ -14,6 +14,95 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/CCA_Banner_1920px_by_1080px_FA.jpg">
+</div>
+<p><em>23-24 April 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/events/cca-fair-2025/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2025</a></strong>
+</p>
+<p></p>
+<p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
+Maximise your fun.
+<br>
+<br>Calling all Freshies - life as a TP student can be as exciting, engaging
+and empowering as you want it to be! Join us at the <strong>CCA Fair 2025</strong> and
+dive into a world of thrilling opportunities offered in TP to realise your
+full potential. Mark your calendar now!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg">
+</div>
+<p><em>8 &amp; 15-17 April 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/events/freshmen-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2025</a></strong>
+</p>
+<p></p>
+<p>Hey Freshies, welcome to the TP family and get ready for an amazing <strong>Freshmen Orientation (FO)</strong>!</p>
+<p></p>
+<p>A highlight of TP’s calendar, the FO marks a momentous milestone in your
+academic journey as you progress into tertiary education. Feeling those
+first-day jitters? Fret not! TP has lined up an exciting array of activities
+to help you kickstart this new chapter of your life on the right note,
+and to support your transition into the Polytechnic with confidence and
+fun!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg">
+</div>
+<p><em>17 April 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
+</p>
+<p></p>
+<p>Dear Freshies, your onboarding experience will culminate in a fun day
+at the&nbsp;<strong>Temasek Olympiad x SpecTACular</strong>! A special
+edition organised in celebration of TP’s 35th anniversary, this event encapsulates
+the best of our campus’ vibrant spirit, creative energy, and artistic splendour
+– all packed into an immersive experience organised just for you!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TSEA_2025_Draft_1.png">
+</div>
+<p><em>Nominations Open Till 21 Mar 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tsea-2025/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards</a></strong>
+</p>
+<p></p>
+<p>The <strong>Temasek Student Excellence Awards (TSEA)</strong> are presented
+annually to recognise the inspiring achievements and outstanding contributions
+of students in non-academic domains, such as the arts, sports, leadership,
+service, entrepreneurship and character.</p>
+<p></p>
+<p>In the spirit of celebrating excellent student endeavours, we are happy
+to announce that nominations for the TSEA are now open! Take a moment to
+acknowledge your students' contributions, dedication and leadership. Nominate
+them for the TSEA today!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35.png">
 </div>
 <p><em>22 March 2025</em>
@@ -182,76 +271,6 @@ exhilarating event like no other!
 run amidst the picturesque backdrop of Bedok Reservoir, there is definitely
 something for everyone. Mark your calendars and rally your friends to be
 a part of this iconic campus experience!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/CCA_Banner_1920px_by_1080px_FA_copy.jpg">
-</div>
-<p><em>17-18 April 2024</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/events/ccafair2024/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2024</a></strong>
-</p>
-<p></p>
-<p>Discover your passion. Unleash your creativity. Forge lasting friendships.
-Maximise your fun.
-<br>
-<br>Life as a TP student can be as exciting, engaging and empowering as you
-want it to be! Join us at the&nbsp;CCA Fair 2024 and take your pick from
-the diverse CCAs offered in TP. See you there!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/FOP_Page_1920_X_1080px_copy.jpg">
-</div>
-<p><em>5-12 April 2024</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/events/freshmen-orientation-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2024</a></strong>
-</p>
-<p></p>
-<p>Hey, Freshies! Congratulations on your successful admission to Temasek
-Polytechnic and here's wishing you a very warm welcome to the TP Family!
-<br>
-<br>The Freshmen Orientation occupies a special spot in TP’s calendar, as
-it celebrates a momentous milestone in your tertiary academic journey.
-Feeling jittery before the commencement of Polytechnic life? Fret not!
-TP has lined up an exciting array of activities to help you kickstart your
-journey on the right note!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Calendar/Temasek_Regatta_Page_1920_X_1080px.jpg">
-</div>
-<p><em>12 April 2024</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/events/freshmen-orientation-programme-2024/" rel="noopener noreferrer nofollow" target="_blank">Temasek Regatta x SpecTACular 2024</a></strong>
-</p>
-<p></p>
-<p>Your freshmen onboarding experience will culminate in a fun afternoon
-out at the&nbsp;Temasek Regatta x SpecTACular! Held specially to mark the
-end of your orientation journey and the start of your Polytechnic life,
-this event also encapsulates the very best of TP’s creative energies, sporting
-excellence and artistic splendour.
-<br>
-<br>Make a splash and have fun in the sun at Temasek Regatta, and be dazzled
-by our finest arts talents at SpecTACular!</p>
 <p></p>
 </td>
 </tr>

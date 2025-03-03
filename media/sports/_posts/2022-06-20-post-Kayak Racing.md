@@ -15,22 +15,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kayak racing is a water sport growing in popularity. The first kayaks
 were made of driftwood and animal skins by the natives of Asia and North
 America. Modern kayaks are made of metal, fiberglass and rubber, making
-them stronger, more durable and portable. TP Kayak Racing team competes
-in the Polytechnic-ITE (POL-ITE) Canoe Sprints and external competitions
-annually.
+them stronger, more durable and portable. The TP Kayak Racing Teams (Men
+&amp; Women) compete in the Polytechnic-ITE (POL-ITE) Canoe Sprints and
+external competitions annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)
+<br>POL-ITE Games 2024: Gold (Men’s Team) &amp; Silver (Women’s Team)
 <br>
 <br><strong>Training Days:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,9 +42,7 @@ annually.
 <p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:KOH_Wen_Kiat@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Wen Kiat</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tpkayakracingteam/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
-<br>
-<br>
+<br><strong>CCA <a href="https://www.instagram.com/tpkayakracingteam/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>

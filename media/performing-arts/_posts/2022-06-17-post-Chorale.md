@@ -14,23 +14,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Temasek Polytechnic Chorale performs choral and acappella arrangements
-in traditional as well as contemporary styles. Let the singers bring music
-to your ears with the human instrument – the voice.
-<br>
-<br>TP Chorale is a renowned choir CCA group comprising a diverse group of
-Sopranos, Altos, Tenors and Basses, led by resident conductor, Ms Choy
-Siew Woon.
-<br>
-<br>They are bonded by their strong passion for singing and endeavour to convey
-their love for choral singing through the specially curated concert repertoire.
-<br>
-<br>
-</p>
+<p>Temasek Polytechnic Chorale is a lively community comprising passionate
+singers. Guided by Resident Conductor Ms Choy Siew Woon, the choir consists
+of four sections — Sopranos, Altos, Tenors and Basses — united in their
+love for music. TP Chorale offers students an opportunity to explore the
+rich world of choral music, from contemporary and classical works to the
+dramatic flair of musicals.</p>
+<p></p>
+<p>Dedicated to achieving excellence in every endeavour, TP Chorale is a
+space that nurtures talent, celebrates creativity, and embarks on a journey
+of growth and discovery.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Chorale" src="/images/Arts/Chorale/Chorale_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale.png">
 </div>
 </td>
 </tr>
@@ -40,6 +37,12 @@ their love for choral singing through the specially curated concert repertoire.
 <h3>Recognitions</h3>
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
+<li>
+<p>Tapestry: Metamorphosis - EVOS VIII: Oasis (2024)</p>
+</li>
+<li>
+<p>Wishes In Songs &amp; Harmony (2024)</p>
+</li>
 <li>
 <p>Tapestry Arts Festival - Our Canvas - Supernova (2023)</p>
 </li>
@@ -70,7 +73,7 @@ their love for choral singing through the specially curated concert repertoire.
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday &amp; Thursday, 6.30pm to 9.30pm</p>
+<p>Tuesday &amp; Thursday, 7pm to 9pm</p>
 </li>
 </ul>
 <h5>Staff Advisor</h5>

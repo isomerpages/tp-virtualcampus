@@ -14,21 +14,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TP Malay Dance Group, also called Kesenian Si Anak Tari (Seni Nak Tari
-or SNT), takes pride in promoting the arts and providing high-quality traditional
-and contemporary performances.
+<p>Temasek Polytechnic Malay Dance Group, also called Kesenian Si Anak Tari
+(Seni Nak Tari or SNT), takes pride in promoting the arts and providing
+high-quality traditional and contemporary performances.
 <br>
 <br>Founded since the establishment of the polytechnic in 1990, SNT continues
 to nurture youth student artists and leaders through traditional and contemporary
 Malay dance movements featuring elaborate costumes and accessories, showcasing
-the rich Malay heritage of the various styles portrayed.
-<br>
-<br>
-</p>
+the rich Malay heritage of the various styles portrayed.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="MDG" src="/images/Arts/MDG/MDG_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/MDG/MDG_pic_5.jpg">
 </div>
 </td>
 </tr>
@@ -39,7 +36,22 @@ the rich Malay heritage of the various styles portrayed.
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Irama Perayaan (2023)</p>
+<p>DIAN Dancers: DINAMIKA (2024)</p>
+</li>
+<li>
+<p>Temasek Regatta x SpecTACular (2024)</p>
+</li>
+<li>
+<p>⁠Rentak Budaya (2024)</p>
+</li>
+<li>
+<p>Muara Festiva @ Esplanade (2024)</p>
+</li>
+<li>
+<p>⁠Tapestry Arts Festival (2024)</p>
+</li>
+<li>
+<p>Irama Perayaan (2024, 2023)</p>
 </li>
 <li>
 <p>NTU: Rentak Budaya (2023)</p>
@@ -49,15 +61,6 @@ the rich Malay heritage of the various styles portrayed.
 </li>
 <li>
 <p>DIAN Dancers: Cahayaloka (2023)</p>
-</li>
-<li>
-<p>Tapestry: MOVE (2022)</p>
-</li>
-<li>
-<p>Ekspresi (2021)</p>
-</li>
-<li>
-<p>Pesta Raya @ Esplanade (2019)</p>
 </li>
 </ul>
 <h5>Achievements</h5>
@@ -71,7 +74,7 @@ the rich Malay heritage of the various styles portrayed.
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday &amp; Wednesday, 6pm to 9pm (On-campus)</p>
+<p>Monday &amp; Wednesday, 6pm to 9pm</p>
 </li>
 <li>
 <p>Additional training days, nearing show day</p>

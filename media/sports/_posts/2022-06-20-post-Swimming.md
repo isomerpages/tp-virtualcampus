@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -25,20 +25,18 @@ entire body to move through water. For competition, the swimming events
 generally consists of butterfly, backstroke, breaststroke, freestyle and
 individual medley. Swimming is good for physical health as it burns lots
 of calories, is easy on the joints, supports your weight, builds muscular
-strength and endurance. TP Swimming teams (Men &amp; Women) compete in
-the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Swimming
-Championship annually.
+strength and endurance. The TP Swimming Teams (Men &amp; Women) compete
+in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP)
+Swimming Championship annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>IVP Games AY2023/24: Gold (Men’s Team), Bronze (Women’s Team) &amp; Gold
-(Team Overall)</p>
+<p>IVP Games (AY2024/25): Gold (Men’s Team) &amp; Silver (Team Overall)</p>
 </li>
 <li>
-<p>POL-ITE Games 2023: Gold (Men’s Team) &amp; Silver (Women’s Team)</p>
+<p>POL-ITE Games 2024: Gold (Men’s Team) &amp; Gold (Women’s Team)</p>
 </li>
 </ul>
 <p></p>
@@ -47,7 +45,7 @@ Championship annually.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jow Pei Jun</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tplsst" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tplsst" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>

@@ -4,26 +4,40 @@ title: Table Tennis
 permalink: /sports/table-tennis/
 date: 2022-06-20
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-    <tbody><tr>
-        <td style="width:45%"><img src="/images/Sports/TABLE TENNIS.png" style="display:block;margin-left:auto;margin-right:auto;" alt="Table Tennis"></td>
-        <td>
-            <p>
-                Table tennis, also known as ping-pong, is another familiar sport in Singapore. Play is fast and demands quick reactions and movements, making it an exciting sport to watch as well. TP Table Tennis Teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP) Table-Tennis Games annually.<br>
-                <br>
-               <b>Achievements:</b><br>
-               POL-ITE Games 2023: Bronze (Men’s Team) &amp; Silver (Women’s Team)<br>
-            </p><p></p>
-            <p>
-                <b>Training Days:</b><br>
-                Monday &amp; Wednesday, 7pm<br>
-                <br>
-                <b>CCA Staff Advisor:</b> <a href="mailto:Charis_Woo@tp.edu.sg">Ms Charis Woo</a><br>
-                <br>
-                CCA <a href="https://www.instagram.com/tptabletennis">Instagram</a>
-            </p>
-        </td>
-    </tr>
-</tbody></table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Table_Tennis.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Table tennis, also known as ping-pong, is another familiar sport in Singapore.
+Play is fast and demands quick reactions and movements, making it an exciting
+sport to watch as well. The TP Table Tennis Teams (Men &amp; Women) compete
+in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP)
+Table-Tennis Games annually.
+<br>
+<br><strong>Achievements:</strong>
+<br>POL-ITE Games 2024: Silver (Men’s Team)
+<br>
+</p>
+<p><strong>Training Days:</strong>
+<br>Monday &amp; Wednesday, 7pm
+<br>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charis_Woo@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charis Woo</a>
+<br>
+<br><strong>CCA <a href="https://www.instagram.com/tptabletennis" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

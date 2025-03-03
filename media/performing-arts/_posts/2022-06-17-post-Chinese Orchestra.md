@@ -14,21 +14,19 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Temasek Polytechnic Chinese Orchestra (TPCO) performs Chinese music
-using various Chinese instruments such as the Yangqin, Erhu and Pipa to
-explore the world of traditional and contemporary Chinese music.
-<br>
-<br>The elegant and soulful music presented by the Chinese Orchestra will
-enchant and enthral the audience. The orchestra collaborates with other
-CCAs such as Band and Music Vox, and also ventures out for public performances
-and overseas exchange programmes.
-<br>
-<br>
-</p>
+<p>Temasek Polytechnic Chinese Orchestra (TPCO) performs a wide range of
+music using well-loved Chinese instruments such as the Guzheng, Erhu and
+Pipa. It seeks to explore the world of traditional and contemporary Chinese
+music.</p>
+<p></p>
+<p>The elegant and soulful music presented by TPCO always enchants and enthrals
+every audience. The orchestra regularly collaborates with other CCAs such
+as Band and Music Vox, as well as ventures out for public performances
+and overseas exchange programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="CO" src="/images/Arts/CO/CO_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/CO/CO_pic_3.jpg">
 </div>
 </td>
 </tr>
@@ -39,19 +37,19 @@ and overseas exchange programmes.
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chinese Orchestra Concert - Echoes of Time (2024)</p>
+<p>Chinese Orchestra Concert 2025</p>
 </li>
 <li>
-<p>Magical Autumn XIII (2023)</p>
+<p>DREAMS XIV (2025)</p>
+</li>
+<li>
+<p>Magical Autumn XIV (2024)</p>
+</li>
+<li>
+<p>Temasek Polytechnic National Day (2024)</p>
 </li>
 <li>
 <p>Temasek Spectacular (2022)</p>
-</li>
-<li>
-<p>DREAMS XII (2022)</p>
-</li>
-<li>
-<p>Temasek Polytechnic National Day Virtual Concert (2021)</p>
 </li>
 <li>
 <p>NAC Arts In Your Neighbour: Music On The Move (2019)</p>

@@ -21,20 +21,20 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/tpecde/" rel="noopener noreferrer nofollow" target="_blank">Early Childhood Development &amp; Education</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="ECDE Interest Group" src="/images/HSS/ECDE_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/ECDE_Interest_Group.jpg">
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.instagram.com/t.psig/" rel="noopener noreferrer nofollow" target="_blank">Psychology Studies</a></strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Psychology Studies Interest Group" src="/images/HSS/PSYCH_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Psychology_Studies_Interest_Group.jpg">
 </div>
+<p></p>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -42,10 +42,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.instagram.com/tpgem/" rel="noopener noreferrer nofollow" target="_blank">Social Sciences in Gerontology</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="GEM Interest Group" src="/images/HSS/GEM_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Social_Sciences_in_Gerontology_Interest_Group.jpg">
 </div>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>

@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Life_Saving_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Life_Saving_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ involved in the sport, a person needs a Bronze Medallion certification.
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jow Pei Jun</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tplsst" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tplsst" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>

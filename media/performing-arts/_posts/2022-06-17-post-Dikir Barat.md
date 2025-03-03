@@ -14,21 +14,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Dikir Barat (TPDK) is a vibrant traditional Malay
-art form that involves 15 or more people doing responsorial singing, led
-by a couple of lead singers and accompanied by Malay percussions. It is
-a traditional art form anchored in the use of poetry and creative lyrics.
-<br>
-<br>TPDK takes part in numerous high-level, poly-wide and external public
-performances. TPDK has won multiple awards at the annual national competitions,
-such as "Piala Suara Serumpun" (Cluster of Voices Trophy).
-<br>
-<br>
-</p>
+<p>Temasek Polytechnic (TP) Dikir Barat is a vibrant traditional Malay art
+form involving 15 or more performers, including lead singers who engage
+in responsorial singing accompanied by Malay percussion.</p>
+<p></p>
+<p>Rooted in poetry and creative lyrics, TP Dikir actively takes part in
+numerous high profile, poly-wide and external public performances. The
+group has won earned multiple awards at the annual national competitions,
+such as "Piala Suara Serumpun" (Cluster of Voices Trophy).</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DK" src="/images/Arts/DK/DK_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DK/Dikir_Barat.png">
 </div>
 </td>
 </tr>
@@ -49,6 +46,14 @@ such as "Piala Suara Serumpun" (Cluster of Voices Trophy).
 <h5>Achievements</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p>Piala Suara Serumpun 2024 (Women’s): Third Placing, Best Senikata, Nominated
+for Best Juara and Awok-Awok</p>
+</li>
+<li>
+<p>Piala Suara Serumpun 2024 (Men’s): Third Placing, Nominated for Best Juara,
+Best Tukang Karut and Best Awok-Awok</p>
+</li>
+<li>
 <p>Piala Suara Serumpun 2023 (Women’s): Nominated for Best Tukang Karut and
 Best Awok-Awok</p>
 </li>
@@ -66,23 +71,13 @@ and Best Tukang Karut</p>
 <li>
 <p>Piala Suara Serumpun 2019 (Men’s): The Green Pen Award</p>
 </li>
-<li>
-<p>Piala Suara Serumpun 2018 (Women's): Champion, Best Lead Singer, Best
-Percussion, Best Song</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2018 (Men’s): Champion, Best Lead Singer, Best Lyrics</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2017 (Women’s): Best Lead Singer</p>
-</li>
 </ul>
 <hr>
 <h3>About CCA</h3>
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday &amp; Wednesday, 6.30pm to 9.30pm (On-Campus)</p>
+<p>Monday &amp; Thursday, 6.30pm to 9.30pm</p>
 </li>
 <li>
 <p>Additional training days, nearing show day</p>

@@ -28,7 +28,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/band" rel="noopener noreferrer nofollow" target="_blank">Band</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Band" src="/images/Arts/BAND_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Band/Band_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -47,7 +47,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/chorale" rel="noopener noreferrer nofollow" target="_blank">Chorale</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Chorale" src="/images/Arts/CHORALE_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,7 +59,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/dance-ensemble" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Dance_Ensemble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DE/Dance_Ensemble_Resized.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/dikir-barat" rel="noopener noreferrer nofollow" target="_blank">Dikir Barat</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Dikir Barat" src="/images/Arts/DK_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DK/Dikir_Barat_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -85,20 +85,10 @@ landscapes.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/performing-arts/emcees" rel="noopener noreferrer nofollow" target="_blank">TP Emcees</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="TP Emcees" src="/images/Arts/EMCEES_button-01-v2.png">
-</div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/performing-arts/fusion-percussion" rel="noopener noreferrer nofollow" target="_blank">Fusion Percussion</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Fusion Percussion" src="/images/Arts/FP_button-02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/FP/Fusion_Percussion_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -114,8 +104,6 @@ landscapes.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/performing-arts/malay-dance" rel="noopener noreferrer nofollow" target="_blank">Malay Dance</a></strong>
 </p>
@@ -125,11 +113,13 @@ landscapes.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/performing-arts/music-vox" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Music Vox" src="/images/Arts/MV_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/MV/Music_Vox_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -139,23 +129,29 @@ landscapes.</p>
 <p><strong><a href="/performing-arts/salvo-drums" rel="noopener noreferrer nofollow" target="_blank">Salvo Drums</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Salvo_Drums_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Salvo/Salvo_Drums_Resized.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/performing-arts/teatro" rel="noopener noreferrer nofollow" target="_blank">Teatro</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/TEATRO_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Teatro/Teatro_Resized.jpg">
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong><a href="/performing-arts/emcees" rel="noopener noreferrer nofollow" target="_blank">TP Emcees</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="TP Emcees" src="/images/Arts/EMCEES_button-01-v2.png">
+</div>
+<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

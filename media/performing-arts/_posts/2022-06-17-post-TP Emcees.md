@@ -15,26 +15,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TP Emcees is a fun and lively community of emcees who provide hosting
-services to the student body of Temasek Polytechnic.
-<br>
-<br>They assist with the facilitation of events through collaboration with
-the various Schools, Departments and CCA groups. Parties that they work
-with include the Arts Groups, P10 &amp; Interest Groups, the academic schools,
-as well as the Corporate Communications and Student Development and Alumni
-Affairs departments.
-<br>
-<br>TP Emcees have hosted a variety of event types, from formal ones to less
-formal community service events and also multiple online platforms. Come
-be part of the TP Emcees family if you feel at ease on stage and love meeting
-crowds of people!
-<br>
-<br>
-</p>
+<p>Temasek Polytechnic Emcees is a fun and lively community of emcees dedicated
+to providing hosting services for the student body of Temasek Polytechnic.
+They collaborate closely with various parties in TP, including the Arts
+Groups, P10 Clubs and Interest Groups, academic schools and Corporate Communications,
+to assist with the facilitation of events.</p>
+<p></p>
+<p>From formal events to community service activities and online platforms,
+TP Emcees have hosted a wide range of events. Additionally, they also work
+with external event organisers who reach out to them for hosting services.
+If you feel at ease on stage and love engaging with crowds, come join the
+TP Emcees family!</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Emcees/Emcees_pic_5.jpg">
 </div>
 </td>
 </tr>
@@ -45,40 +40,41 @@ crowds of people!
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p>TP Open House (2025)</p>
+</li>
+<li>
+<p>TP Scholarships Presentation (2025)</p>
+</li>
+<li>
+<p>TP Top Picks (2024-2025)</p>
+</li>
+<li>
+<p>NTUC Starter Awards Presentation Ceremony (2024)</p>
+</li>
+<li>
+<p>Organiser: Tapestry Insiders (2024)</p>
+</li>
+<li>
+<p>Mothership Eco Bazaar (2024)</p>
+</li>
+<li>
+<p>Temasek Regatta x SpecTACular (2024)</p>
+</li>
+<li>
 <p>Organiser: AY23/24 Arts Townhall (2023)</p>
 </li>
 <li>
 <p>Tapestry BrandUp Workshop (2023)</p>
 </li>
 <li>
-<p>Organiser: 128 Circle X TP Emcees – Meet The Stars (2022)</p>
+<p>Organiser: 128 Circle x TP Emcees – Meet The Stars (2022)</p>
 </li>
 <li>
 <p>Temasek Spectacular (2022)</p>
 </li>
 <li>
 <p>DREAMS XII (2022)</p>
-</li>
-<li>
-<p>Temasek Polytechnic National Day Virtual Concert (2021)</p>
-</li>
-<li>
-<p>Power98 X TP Emcees – Temasek Polytechnic Open House (2020)</p>
-</li>
-<li>
-<p>Organiser: Arts Townhall Gathering (2020)</p>
-</li>
-<li>
-<p>Aerospace Day 2019 (2019)</p>
-</li>
-<li>
-<p>Parental Guidance Seminar (2019)</p>
-</li>
-<li>
-<p>TP Lead Heart Conference (2019)</p>
-</li>
-<li>
-<p>Global Community Day (2019)</p>
+<p></p>
 </li>
 </ul>
 <hr>

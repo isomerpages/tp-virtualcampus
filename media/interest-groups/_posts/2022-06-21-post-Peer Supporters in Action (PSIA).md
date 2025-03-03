@@ -19,13 +19,13 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peer Supporters-in-Action (PSiA) aims to equip students with the knowledge
-about mental health so that anyone can be a supporter to their fellow peers.
-PSiA also strives to provide a safe platform for all students to feel comfortable
-about sharing their stories with one another. Together with the Student
-Care team from Student Support &amp; Career Services, activities and programmes
-are carried out to create a friendlier environment in TP and to raise awareness
-about mental health.
+<p>The Peer Supporters-in-Action (PSiA) aims to equip students with the knowledge
+about mental health and peer support skills so that anyone can be a supporter
+to their fellow peers. PSiA also strives to provide a safe platform for
+all students to feel comfortable about sharing their stories with one another.
+Together with the Student Care team from Student Support &amp; Career Services,
+activities and programmes are carried out to create a supportive environment
+in TP and to raise awareness about mental health.
 <br>
 <br>Participating students can look forward to the following:
 <br>
@@ -35,8 +35,8 @@ about mental health.
 <p>Learn peer support skills to better support your friends and loved ones</p>
 </li>
 <li>
-<p>Participate in/organise events, such as Anti-bullying Campaign and World
-Mental Health Week</p>
+<p>Participate in/organise events, such as You've Got a Friend in Me Roadshow,
+Beyond the Label campaign and World Mental Health Week, etc.</p>
 </li>
 <li>
 <p>Make new friends in Friendly Friday sessions</p>
@@ -49,6 +49,7 @@ expand social circle</p>
 <p>And many more!</p>
 </li>
 </ul>
+<p></p>
 <p>All students are welcome to join us in this peer support movement!
 <br>
 <br><strong>Meeting Day:</strong> 
@@ -56,7 +57,7 @@ expand social circle</p>
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Yap_Hui_Ting@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yap Hui Ting</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/tp.psia/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tp.psia/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>

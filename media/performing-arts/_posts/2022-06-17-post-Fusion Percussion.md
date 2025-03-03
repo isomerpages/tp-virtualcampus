@@ -23,15 +23,12 @@ Get them to liven up shows and they will deliver the party to your doorstep!
 <br>
 <br>They live by their slogan “with a burning passion, we play to the beat
 of our hearts”. Brazilian Samba forms the cornerstone of TPFP's creative
-rhythms such as Samba Temasek - a fusion of Brazilian samba and Singapore
-elements.
-<br>
-<br>
-</p>
+rhythms, such as Samba Temasek - a fusion of Brazilian samba and Singapore
+elements.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="FP" src="/images/Arts/FP/FP_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/FP/Fusion_Percussion.jpg">
 </div>
 </td>
 </tr>
@@ -41,6 +38,9 @@ elements.
 <h3>Recognitions</h3>
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
+<li>
+<p>Homegrown Festival @ OCBC Square (2024)</p>
+</li>
 <li>
 <p>Community Chest Heartstrings Walk (2022)</p>
 </li>
@@ -56,19 +56,13 @@ elements.
 <li>
 <p>"In-Youthful-Company” @ Esplanade Waterfront (2019)</p>
 </li>
-<li>
-<p>Pink Ribbon Walk Breast Cancer Foundation (2019)</p>
-</li>
-<li>
-<p>World Drum Night 4: Even When No One Sees (2018)</p>
-</li>
 </ul>
 <hr>
 <h3>About CCA</h3>
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tuesday &amp; Thursday, 6.00pm to 9.00pm</p>
+<p>Tuesday &amp; Thursday, 6pm to 9pm</p>
 </li>
 </ul>
 <h5>Staff Advisor</h5>

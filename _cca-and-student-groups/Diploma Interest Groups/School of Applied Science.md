@@ -22,7 +22,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/ascniche/" rel="noopener noreferrer nofollow" target="_blank">Chemical Engineering</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Chemical Engineering Interest Group" src="/images/ASC/NICHE_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Chemical_Engineering_Interest_Group.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,7 +32,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/ascfig/" rel="noopener noreferrer nofollow" target="_blank">Food, Nutrition &amp; Culinary Science</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Food Interest Group" src="/images/ASC/FNC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Food_Interest_Group.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/tpmbig/" rel="noopener noreferrer nofollow" target="_blank">Medical Biotechnology</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Logos_for_Web_05.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Medical_Biotechnology_Interest_Group.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,17 +54,16 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/totallyphs/" rel="noopener noreferrer nofollow" target="_blank">Pharmaceutical Science</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Pharmaceutical Science" src="/images/Interest%20Groups/UPDATED%20BUTTONS/pharmsci_button_01_ver060723-100.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Totally_Pharmaceutical_Science.jpg">
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.instagram.com/tpvwc/" rel="noopener noreferrer nofollow" target="_blank">Veterinary Technology</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Veterinary Wildlife Conservation Interest Group" src="/images/ASC/VWC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Veterinary___Wildlife_Conservation_Interest_Group.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

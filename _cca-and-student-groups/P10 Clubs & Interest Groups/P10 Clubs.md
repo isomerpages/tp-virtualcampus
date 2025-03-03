@@ -24,25 +24,23 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong>&nbsp;<a href="/p10/adventure-club" rel="noopener noreferrer nofollow" target="_blank">Adventure Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Adventure Club" src="/images/P10/TPAC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Adventure_Club_Resized.png">
 </div>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/applied-science-studies-club" rel="noopener noreferrer nofollow" target="_blank">ASC Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Applied Science Studies Club" src="/images/P10/ASSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Applied_Science_Studies_Club_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/business-studies-club" rel="noopener noreferrer nofollow" target="_blank">BUS Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Business Studies Club" src="/images/P10/BSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Business_Studies_Club_Resized.png">
 </div>
-<p>&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -50,17 +48,15 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/community-service-club" rel="noopener noreferrer nofollow" target="_blank">Community Service Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Community Service Club" src="/images/P10/CSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Community_Service_Club_Resized.png">
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/design-studies-club" rel="noopener noreferrer nofollow" target="_blank">Design Studies Club</a></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Design Studies Club" src="/images/P10/DSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Design_Studies_Club_Resized.png">
 </div>
 <p></p>
 </td>
@@ -68,9 +64,8 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/engineering-studies-club" rel="noopener noreferrer nofollow" target="_blank">Engineering Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Engineering Studies Club" src="/images/P10/ESC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club_Resized.png">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -78,14 +73,15 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/humanities-and-social-sciences-studies-club" rel="noopener noreferrer nofollow" target="_blank">HSS Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Humanities &amp; Social Sciences Studies Club" src="/images/P10/HSSSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/HSS_Studies_Club_Resized.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/p10/informatics-and-it-studies-club" rel="noopener noreferrer nofollow" target="_blank">IIT Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Informatics &amp; IT Studies Club" src="/images/P10/IITSC_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/IIT_Studies_Club_Resized.png">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -95,7 +91,7 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/sports-club" rel="noopener noreferrer nofollow" target="_blank">Sports Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Sports Club" src="/images/P10/SPORTS CLUB_button-01-v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Sports_Club_Resized.png">
 </div>
 </td>
 </tr>
@@ -104,7 +100,7 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/students-union" rel="noopener noreferrer nofollow" target="_blank">Students' Union</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Students’ Union" src="/images/P10/TPSU_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Students__Union_Resized.png">
 </div>
 <p></p>
 </td>

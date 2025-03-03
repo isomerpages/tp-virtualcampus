@@ -14,9 +14,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Temasek Polytechnic Salvo Drums brings to life any stage with their
-performances using the world’s most ancient instrument – the drum, specifically,
-the 24-season drums.
+<p>Temasek Polytechnic Salvo Drums brings to life any stage with their performances
+using the world’s most ancient instrument – the drum, specifically, the
+24-season drums.
 <br>
 <br>Teamwork, with disciplined training, plays a vital role for the drummers
 in displaying their powerful percussive strokes in choreographed synchronised
@@ -24,14 +24,11 @@ movements.
 <br>
 <br>Salvo Drums has also experimented through a variety of themes to enhance
 the vibrancy and creativity of its performances, immersing the audience
-with different experiences.
-<br>
-<br>
-</p>
+with different experiences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Salvo" src="/images/Arts/Salvo/Salvo_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Salvo/Salvo_Drums.jpg">
 </div>
 </td>
 </tr>
@@ -42,13 +39,13 @@ with different experiences.
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Temasek Polytechnic National Day Concert (2023)</p>
+<p>DREAMS XIV (2025)</p>
+</li>
+<li>
+<p>Temasek Polytechnic National Day Concert (2024 &amp; 2023)</p>
 </li>
 <li>
 <p>Temasek Spectacular (2022)</p>
-</li>
-<li>
-<p>DREAMS XII (2022)</p>
 </li>
 </ul>
 <h5>Achievements</h5>

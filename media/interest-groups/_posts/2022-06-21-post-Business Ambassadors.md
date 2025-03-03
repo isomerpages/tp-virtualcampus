@@ -28,9 +28,9 @@ for BUS' social media platforms, such as Instagram and LinkedIn. Notable
 events they participate in include TP Open House, Partners-in-Education,
 TP Graduation Ceremony, and internal/external Learning Journeys.
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Selene_GOH@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Selene Goh </a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Selene_GOH@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Selene Goh </a>&amp; <a href="mailto:teoxuan@tp.edu.sg" rel="noopener nofollow" target="_blank">Teo Xuan Xuan</a> 
 <br>
-<br>CCA <a href="https://www.instagram.com/tpbizschool/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpbizschool/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>

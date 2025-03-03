@@ -36,7 +36,7 @@ and supporters.</p>
 <p><strong><a href="/sports/aikido" rel="noopener noreferrer nofollow" target="_blank">Aikido</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Aikido.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Aikido_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ and supporters.</p>
 <p><strong><a href="/sports/dragon-boat" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Dragon Boat" src="/images/Sports/DRAGONBOAT_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Dragon_Boat_Resized_1.png">
 </div>
 </td>
 </tr>
@@ -101,7 +101,7 @@ and supporters.</p>
 <p><strong><a href="/sports/inline-skating" rel="noopener noreferrer nofollow" target="_blank">Inline Skating</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/INLINE SKATING_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inline_Skating_Resized.png">
 </div>
 <p></p>
 </td>
@@ -109,14 +109,14 @@ and supporters.</p>
 <p><strong><a href="/sports/judo" rel="noopener noreferrer nofollow" target="_blank">Judo</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/JUDO_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Judo_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/karate" rel="noopener noreferrer nofollow" target="_blank">Karate</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Karate_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Karate_Resized.png">
 </div>
 </td>
 </tr>
@@ -125,7 +125,7 @@ and supporters.</p>
 <p><strong><a href="/sports/kayak-racing/" rel="noopener noreferrer nofollow" target="_blank">Kayak Racing</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Kayak_Racing_Resized.png">
 </div>
 <p></p>
 </td>
@@ -133,7 +133,7 @@ and supporters.</p>
 <p><strong><a href="/sports/life-saving/" rel="noopener noreferrer nofollow" target="_blank">Life Saving</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Life_Saving_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Life_Saving_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,14 +157,14 @@ and supporters.</p>
 <p><strong><a href="/sports/rugby" rel="noopener noreferrer nofollow" target="_blank">Rugby</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_Resized_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/silat/" rel="noopener noreferrer nofollow" target="_blank">Silat</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Silat_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Silat_Resized.png">
 </div>
 </td>
 </tr>
@@ -173,7 +173,7 @@ and supporters.</p>
 <p><strong><a href="/sports/soccer" rel="noopener noreferrer nofollow" target="_blank">Soccer</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_Resized.png">
 </div>
 <p></p>
 </td>
@@ -181,14 +181,14 @@ and supporters.</p>
 <p><strong><a href="/sports/sport-climbing" rel="noopener noreferrer nofollow" target="_blank">Sport Climbing</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Sport Climbing" src="/images/Sports/SPORT CLIMBING_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Sport_Climbing_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/swimming" rel="noopener noreferrer nofollow" target="_blank">Swimming</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_Resized.png">
 </div>
 </td>
 </tr>
@@ -197,7 +197,7 @@ and supporters.</p>
 <p><strong><a href="/sports/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/TABLE TENNIS_button-01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Table_Tennis_Resized.png">
 </div>
 <p></p>
 </td>
@@ -205,7 +205,7 @@ and supporters.</p>
 <p><strong><a href="/sports/taekwondo" rel="noopener noreferrer nofollow" target="_blank">Taekwondo</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Taekwondo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Taekwondo_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,14 +229,14 @@ and supporters.</p>
 <p><strong><a href="/sports/touch-football" rel="noopener noreferrer nofollow" target="_blank">Touch Football</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Touch_Football_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Touch_Football_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Track___Field_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Track___Field_Resized.png">
 </div>
 </td>
 </tr>
@@ -253,17 +253,18 @@ and supporters.</p>
 <p><strong><a href="/sports/volleyball" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Volleyball_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Volleyball_Resized.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/water-polo" rel="noopener noreferrer nofollow" target="_blank">Water Polo</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Water_Polo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Water_Polo_Resized.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

@@ -97,7 +97,7 @@ individuals across different disciplines.</p>
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Thalia_Lam@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Thalia Lam</a> &amp; <a href="mailto:Huang_Tengyi@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Huang Tengyi</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/space__haus/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/space__haus/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>

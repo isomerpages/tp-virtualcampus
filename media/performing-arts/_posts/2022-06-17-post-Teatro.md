@@ -14,18 +14,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teatro, meaning Theatre in Spanish, is made up of a diverse collective
-of students who share a passion for performance, drama and ideation. Through
-high quality "live" and recorded productions as well as concert narratives,
-Teatro is always seeking to explore the unknown and push the boundaries
-of creativity.
-<br>
-<br>
-</p>
+<p>Temasek Polytechnic Teatro, meaning ‘Theatre’ in Spanish, is a vibrant
+and diverse community of students united by a passion for performance,
+drama, and creative expression. Over the years, the CCA has expanded its
+focus beyond traditional theatre, embracing script writing and hands-on
+roles in prop making, costume design, lighting and sound. Teatro is dedicated
+to exploring new artistic realms and experimenting with innovative approaches
+to performance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Teatro" src="/images/Arts/Teatro/Teatro_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Teatro/Teatro.jpg">
 </div>
 </td>
 </tr>
@@ -36,6 +35,12 @@ of creativity.
 <h5>Features</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p>"Shredded Notes" Tapestry (2024)</p>
+</li>
+<li>
+<p>"Don't Steal Happiness" (2024)</p>
+</li>
+<li>
 <p>"Threads of Connection" Tapestry (2023)</p>
 </li>
 <li>
@@ -44,46 +49,13 @@ of creativity.
 <li>
 <p>"Paraverse" (Original devised play, 2023)</p>
 </li>
-<li>
-<p>"Don't Steal Happiness" - Collaboration with Curious Thoughts Giving (2023)</p>
-</li>
-<li>
-<p>TeatroFest "Alice" (AY22/23)</p>
-</li>
-<li>
-<p>"Intramural" (Original devised play, 2022)</p>
-</li>
-<li>
-<p>TP National Day Concert 2022 (Creative Direction)</p>
-</li>
-<li>
-<p>"TeatroFest AY2020/21" (Online Triple-bill)</p>
-</li>
-<li>
-<p>"The Lift" (2019)</p>
-</li>
-<li>
-<p>"Those Who Can't, Teach" (2019)</p>
-</li>
-<li>
-<p>"Tujuh" (original devised play, 2019)</p>
-</li>
-<li>
-<p>“Land Ho!” (TP National Day Concert, 2019)</p>
-</li>
-<li>
-<p>"Caucasian Chalk Circle (2018)</p>
-</li>
-<li>
-<p>"No More Tears" (devised play, 2018)</p>
-</li>
 </ul>
 <hr>
 <h3>About CCA</h3>
 <h5>Training Days</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Monday &amp; Thursday, 6pm to 9pm</p>
+<p>Thursday &amp; Friday, 6pm to 9pm</p>
 </li>
 <li>
 <p>Additional training days as required for productions</p>

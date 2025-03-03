@@ -28,19 +28,13 @@ and the School of Engineering to our international guests.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Provide opportunities for students to develop a global mindset
-<br>
-</p>
+<p>Provide opportunities for students to develop a global mindset</p>
 </li>
 <li>
-<p>Provide opportunities for overseas exposure to ensure students are world-ready
-<br>
-</p>
+<p>Provide opportunities for overseas exposure to ensure students are world-ready</p>
 </li>
 <li>
-<p>Embrace cultural diversity and respect for others
-<br>
-</p>
+<p>Embrace cultural diversity and respect for others</p>
 </li>
 <li>
 <p>Promote Singapore and take pride in enhancing service and hospitality
@@ -51,36 +45,30 @@ to the world
 </ul>
 <p><strong>Activities we offer in Global Ambassadors (Engineering) include:</strong>
 </p>
+<p></p>
 <ul>
 <li>
-<p>Hosting exchange students from overseas
-<br>
-</p>
+<p>Hosting exchange students from overseas</p>
 </li>
 <li>
-<p>Participating and promoting overseas immersion programmes
-<br>
-</p>
+<p>Participating and promoting overseas immersion programmes</p>
 </li>
 <li>
-<p>Coordinating cultural exchange programmes physically and virtually
-<br>
-</p>
+<p>Coordinating cultural exchange programmes physically and virtually</p>
 </li>
 <li>
 <p>Promoting Singapore, Temasek Polytechnic, and School of Engineering to
-overseas students
-<br>
-<br><strong>Meeting Day:</strong> 
+overseas students</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Meeting Day:</strong> 
 <br>Event basis
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:yokemoon@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Moon</a> 
 <br>
-<br>CCA <a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
-<p></p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>

@@ -15,25 +15,25 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Water_Polo_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Water_Polo_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Water Polo is a physically demanding team water sport played over 4 quarters,
-consisting of two teams of 6 field players and 1 goalkeeper each. Gameplay
+consisting of two teams of six field players and one goalkeeper each. Gameplay
 involves swimming, handling and passing the ball, and players score by
-throwing the ball into the goal defended by a goalkeeper. TP Water Polo
-team competes in the Polytechnic-ITE (POL-ITE) Water Polo Games annually.
+throwing the ball into the goal defended by a goalkeeper. The TP Water
+Polo Team competes in the Polytechnic-ITE (POL-ITE) Water Polo Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>NUS Water Polo Challenge 2022: Bronze
+<br>NUS Water Polo Challenge 2024: Gold
 <br>
 <br><strong>Training Days:</strong>
 <br>Thursday, 7pm
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Tan_Thian_Seng@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Thian Seng</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Raymond_Loh@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Loh</a>
 <br>
-<br>CCA <a href="https://www.instagram.com/temasekwaterpolo/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
+<br><strong>CCA <a href="https://www.instagram.com/temasekwaterpolo/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
