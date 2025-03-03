@@ -24,7 +24,7 @@ Let's uplift their spirits and give them the recognition they truly deserve!</p>
 <p>Nominate them for the TSEA today!</p>
 <hr>
 <h4><strong>Announcement</strong></h4>
-<p>Nominations for the TSEA are open from now till <strong><u>21 Mar 2025 (Friday)</u></strong>.
+<p>Nominations for the TSEA are open from now till <strong><u>24 March 2025 (Monday)</u></strong>.
 Please refer to the full list of awards, as well as the eligibility criteria,
 nomination process and submission forms/links below.</p>
 <p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
