@@ -103,7 +103,7 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Keen to Find Out More? Head Over to TP Oei Now! </strong>
+<summary><strong>Keen to Find Out More? Head Over to TP Oei Now!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -116,7 +116,7 @@ the key channel for official announcements and communication within the
 TP community.</p>
 <p></p>
 <p>For more information on your FO activities and other onboarding resources,
-check out&nbsp;<a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener nofollow" target="_blank">TP Oei</a>&nbsp;now!</p>
+check out&nbsp;<strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener nofollow" target="_blank">TP Oei</a></strong>&nbsp;now!</p>
 </div>
 </details>
 </div>
