@@ -9,7 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg">
 </div>
-<p></p>
 <p>Dear Freshmen,</p>
 <p>Congratulations on your successful enrolment to Temasek Polytechnic (TP).</p>
 <p>Get ready for an amazing <strong>Freshmen Orientation (FO)</strong>! A
@@ -104,10 +103,23 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Queries? Contact your respective Academic Schools!</strong>
+<summary><strong>Keen to Find Out More? Head Over to TP Oei Now! </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>TP Oei</strong> is the official campus platform for all full-time
+students.</p>
+<p></p>
+<p>All full-time students must download the SharePoint mobile app to access
+campus information, useful resources and important contacts. It would be
+the key channel for official announcements and communication within the
+TP community.</p>
+<p></p>
+<p>For more information on your FO activities and other onboarding resources,
+check out&nbsp;<a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener nofollow" target="_blank">TP Oei</a>&nbsp;now!</p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -146,7 +158,4 @@ them to any TP staff or contact us via our whistle blower hotline at <strong><a 
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
 <p></p>
