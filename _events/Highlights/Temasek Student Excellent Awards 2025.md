@@ -36,7 +36,7 @@ nomination process and submission forms/links below.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nominations for the TSEA are open from now till <strong><u>21 March 2025 (Friday),11.59pm</u></strong>.
+<p>Nominations for the TSEA are open from now till <strong><u>24 March 2025 (Monday),11.59pm</u></strong>.
 Nominations received after the deadline will strictly not be accepted.</p>
 </li>
 <li>
@@ -112,7 +112,7 @@ suitable candidates are identified.</p>
 award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
 all Individual Awards <a href="/files/TSEA/2025/TSEA_2025___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><strong>Step 2:</strong> Submit your nominations by <strong><u>21 March 2025 (Friday), 11.59pm</u></strong>.
+<p><strong>Step 2:</strong> Submit your nominations by <strong><u>24 March 2025 (Monday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in <strong>Step 1</strong>.
 The links are also provided below for your convenience.)</p>
 <p><strong><u>Individual Awards: Categories</u></strong>
@@ -197,7 +197,7 @@ management skills and strong commitment to TP.</p>
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
 all Group/Team Awards<strong> </strong><a href="/files/TSEA/2025/TSEA_2025___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><strong>Step 2:</strong> Submit your nominations by <strong><u>21 March 2025 (Friday), 11.59pm</u></strong>.
+<p><strong>Step 2:</strong> Submit your nominations by <strong><u>24 March 2025 (Monday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in <strong>Step 1</strong>.
 The links are also provided below for your convenience.)</p>
 <p><strong><u>Group/Team Awards: Categories</u></strong>
