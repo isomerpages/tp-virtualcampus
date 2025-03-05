@@ -64,7 +64,7 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/engineering-studies-club" rel="noopener noreferrer nofollow" target="_blank">Engineering Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club_Resized_1.png">
 </div>
 </td>
 </tr>
