@@ -22,7 +22,8 @@ variant: tiptap
 <p>The Institution of Engineers, Singapore (IES) is the premier engineering
 institution in Singapore and is often called upon by the Government to
 provide feedback on professional engineering matters. As one of its 12
-student chapters in Singapore, IES-TP Student Chapter’s objectives are:
+student chapters in Singapore, the IES-TP Student Chapter’s objectives
+are:
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -41,7 +42,7 @@ or supporting overseas student exchange programmes.
 <br><strong>Meeting Day:</strong>
 <br>Once a month
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Fang_HU@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Hu Fang</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Steven_LEE@TP.EDU.SG" rel="noopener nofollow" target="_blank">Mr Steven Lee</a> &amp; <a href="mailto:Fang_HU@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hu Fang</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/iestemasekpoly" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
