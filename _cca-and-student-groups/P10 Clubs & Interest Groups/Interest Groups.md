@@ -123,6 +123,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/ies-student-chapter/" rel="noopener noreferrer nofollow" target="_blank">IES-TP Student Chapter</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/IES_TP_Student_Chapter_Resized_1.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -252,5 +255,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
