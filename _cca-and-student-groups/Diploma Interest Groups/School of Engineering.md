@@ -112,6 +112,21 @@ variant: tiptap
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.instagram.com/eng_smeclub/" rel="noopener nofollow" target="_blank">Mechatronics</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/SME_Interest_Group.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

@@ -16,56 +16,79 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Global_Ambassadors__Engineering_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Global_Ambassadors__Engineering__1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Global Ambassadors (Engineering) aims to showcase Singapore, Temasek Polytechnic,
-and the School of Engineering to our international guests.
+<p>At the Global Ambassadors (Engineering), we take immense pride in being
+the face of Singapore, Temasek Polytechnic (TP), and the School of Engineering
+to our esteemed international guests.
 <br>
-<br><strong>Our mission in Global Ambassadors (Engineering):</strong> 
+<br><strong>We are committed to the following:</strong>
 <br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Provide opportunities for students to develop a global mindset</p>
+<p>Creating opportunities that help students develop a global mindset and
+broaden their horizons.</p>
 </li>
 <li>
-<p>Provide opportunities for overseas exposure to ensure students are world-ready</p>
+<p>Offering enriching overseas experiences, ensuring our students are well-prepared
+for a globalised world.</p>
 </li>
 <li>
-<p>Embrace cultural diversity and respect for others</p>
+<p>Embracing and celebrating cultural diversity, fostering mutual respect
+and understanding.</p>
 </li>
 <li>
-<p>Promote Singapore and take pride in enhancing service and hospitality
-to the world
+<p>Showcasing the best of Singapore and enhancing our service and hospitality
+to make a positive impact on the world stage.
 <br>
 </p>
 </li>
 </ul>
-<p><strong>Activities we offer in Global Ambassadors (Engineering) include:</strong>
+<p><strong>Our activities include:</strong>
 </p>
 <p></p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Hosting exchange students from overseas</p>
+<p>Hosting exchange students from around the globe, giving them a taste of
+life at TP.</p>
 </li>
 <li>
-<p>Participating and promoting overseas immersion programmes</p>
+<p>Participating in and promoting overseas immersion programmes, creating
+unforgettable experiences for our members.</p>
 </li>
 <li>
-<p>Coordinating cultural exchange programmes physically and virtually</p>
+<p>Coordinating cultural exchange programmes, both in-person and virtually,
+to foster global friendships and understanding.</p>
 </li>
 <li>
-<p>Promoting Singapore, Temasek Polytechnic, and School of Engineering to
-overseas students</p>
-<p></p>
+<p>Showcasing Singapore, TP and the School of Engineering to students worldwide,
+spreading our pride and excellence.</p>
+</li>
+<li>
+<p>Engaging in community service projects, making a positive impact locally
+and globally.</p>
+</li>
+<li>
+<p>Collaborating with various external organisations, providing our members
+with unique opportunities and experiences.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Meeting Day:</strong> 
-<br>Event basis
-<br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:yokemoon@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Wong Yoke Moon</a> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Once a month (with Advisor)</p>
+</li>
+<li>
+<p>Main Committee meetings (vary depending on frequency of events)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Goh_Qiu_Ting@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Qiu Ting</a> &amp; <a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> (Co-Advisor)
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
