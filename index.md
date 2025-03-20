@@ -26,27 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: Temasek Student Excellence Awards 2025
-      subtitle: ANNUAL STUDENT AWARDS
+      title: CCA Fair 2025
+      subtitle: EXCITE. ENGAGE. EMPOWER.
       id: infopic
-      description: Take a moment to uplift your students' spirits and acknowledge
-        their contributions, dedication and leadership. Nominate them for the
-        TSEA today!
-      button: NOMINATE NOW!
-      url: /tsea-2025/
-      image: /images/Banner_TSEA_2025.png
+      description: Calling all Freshies! Are you keen to discover your passion and
+        maximise your fun and learning on campus? Check out TP's diverse CCA
+        offerings at this event!
+      button: CREATE YOUR JOURNEY!
       alt: Image alt text
-  - infopic:
-      title: Freshmen Orientation 2025
-      subtitle: "WELCOME TO THE #TPFAM!"
-      id: infopic
-      description: "Hey Freshies, welcome to the #TPFAM! Get ready for a series of
-        exciting and engaging FO activities to kickstart your TP journey on the
-        right note!"
-      button: DISCOVER THE ACTION!
-      url: /events/freshmen-orientation-2025/
-      alt: Image alt text
-      image: /images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg
+      url: /events/cca-fair-2025/
+      image: /images/Events/CCA_Banner_1920px_by_1080px_FA.jpg
   - infopic:
       title: Temasek Olympiad x SpecTACular
       subtitle: A THRILLING FINALE!
@@ -59,16 +48,27 @@ sections:
       alt: Image alt text
       image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
   - infopic:
-      title: CCA Fair 2025
-      subtitle: EXCITE. ENGAGE. EMPOWER.
+      title: Freshmen Orientation 2025
+      subtitle: "WELCOME TO THE #TPFAM!"
       id: infopic
-      description: Calling all Freshies! Are you keen to discover your passion and
-        maximise your fun and learning on campus? Check out TP's diverse CCA
-        offerings at this event!
-      button: CREATE YOUR JOURNEY!
+      description: "Hey Freshies, welcome to the #TPFAM! Get ready for a series of
+        exciting and engaging FO activities to kickstart your TP journey on the
+        right note!"
+      button: DISCOVER THE ACTION!
+      url: /events/freshmen-orientation-2025/
       alt: Image alt text
-      url: /events/cca-fair-2025/
-      image: /images/Events/CCA_Banner_1920px_by_1080px_FA.jpg
+      image: /images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg
+  - infopic:
+      title: Temasek Student Excellence Awards 2025
+      subtitle: ANNUAL STUDENT AWARDS
+      id: infopic
+      description: Take a moment to uplift your students' spirits and acknowledge
+        their contributions, dedication and leadership. Nominate them for the
+        TSEA today!
+      button: NOMINATE NOW!
+      url: /tsea-2025/
+      image: /images/Banner_TSEA_2025.png
+      alt: Image alt text
   - infopic:
       title: "DREAMS: Celebrating TP35"
       subtitle: KICKING OFF A SPECIAL YEAR!
