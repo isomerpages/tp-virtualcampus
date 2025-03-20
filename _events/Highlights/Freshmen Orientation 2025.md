@@ -22,9 +22,9 @@ with confidence and fun.</p>
 <p>As part of FO, you will get to explore a series of onboarding activities
 organised by your respective Academic Schools. These experiences are specially
 curated to help you assimilate into polytechnic life, while providing you
-with the chance to explore our community, people and culture. Do keep an
-eye on your <strong>TP Student email (<a rel="noopener noreferrer nofollow" target="_blank">250XXXXX@student.tp.edu.sg</a>)</strong> to
-find out more about the FO dates and activities applicable to you.</p>
+with the chance to explore our community, people and culture. Visit your
+School's Freshmen page on <strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener nofollow" target="_blank">TP Oei</a></strong> for
+more details on the upcoming orientation!</p>
 <p>Here’s a sneak peek of what you can expect during FO:</p>
 <ul data-tight="true" class="tight">
 <li>
