@@ -12,6 +12,10 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2025_Draft_1.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/TSEA_2025_banner_new.png">
+</div>
 <p>The Temasek Student Excellence Awards (TSEA) are presented annually to
 recognise the inspiring achievements and outstanding contributions of students
 in non-academic domains, such as the arts, sports, leadership, service,
