@@ -14,6 +14,9 @@ third_nav_title: Highlights
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2025_banner_new.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/TSEA_2025_banner_new.png">
 </div>
 <p>The Temasek Student Excellence Awards (TSEA) are presented annually to
