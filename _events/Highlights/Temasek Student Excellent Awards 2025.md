@@ -32,7 +32,7 @@ Let's uplift their spirits and give them the recognition they truly deserve!</p>
 Please refer to the full list of awards, as well as the eligibility criteria,
 nomination process and submission forms/links below.</p>
 <p>*In celebration of TP's 35th birthday, we have extended the TSEA nomination
-period until <strong><u>26 March 2025 (Wednesday), 2359 hrs</u></strong>.</p>
+period until <strong><u>26 March 2025 (Wednesday), 11.59pm</u></strong>.</p>
 <p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
 <hr>
@@ -118,7 +118,7 @@ suitable candidates are identified.</p>
 award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
 all Individual Awards <a href="/files/TSEA/2025/TSEA_2025___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><strong>Step 2:</strong> Submit your nominations by <strong><u>26 March 2025 (Wednesday), 2359 hrs</u></strong>.
+<p><strong>Step 2:</strong> Submit your nominations by <strong><u>26 March 2025 (Wednesday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in <strong>Step 1</strong>.
 The links are also provided below for your convenience.)</p>
 <p><strong><u>Individual Awards: Categories</u></strong>
@@ -203,7 +203,7 @@ management skills and strong commitment to TP.</p>
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
 all Group/Team Awards<strong> </strong><a href="/files/TSEA/2025/TSEA_2025___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><strong>Step 2:</strong> Submit your nominations by <strong><u>26 March 2025 (Wednesday), 2359 hrs</u></strong>.
+<p><strong>Step 2:</strong> Submit your nominations by <strong><u>26 March 2025 (Wednesday), 11.59pm</u></strong>.
 (Nomination links are provided in the PDF document in <strong>Step 1</strong>.
 The links are also provided below for your convenience.)</p>
 <p><strong><u>Group/Team Awards: Categories</u></strong>
