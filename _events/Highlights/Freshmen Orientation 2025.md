@@ -91,8 +91,9 @@ vibrant spirit that makes TP truly special. See you there!</p>
 <p></p>
 <p>At TP, your safety and well-being is our utmost priority. We have a zero-tolerance
 policy on hazing and derogatory behaviour on campus. Should you witness
-or experience anything concerning, you are strongly encouraged to report
-them to any TP staff or contact us via our whistle blower hotline at <strong><a href="mailto:sdaa@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sdaa@tp.edu.sg</a></strong>.</p>
+or experience anything concerning <strong>during the FO activities</strong>,
+you are strongly encouraged to report them to any TP staff or contact us
+via our whistle blower hotline at <strong><a href="mailto:sdaa@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sdaa@tp.edu.sg</a></strong>.</p>
 <p></p>
 <p>We look forward welcoming you to TP!</p>
 <p></p>

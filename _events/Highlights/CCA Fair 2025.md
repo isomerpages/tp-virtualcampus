@@ -35,6 +35,9 @@ your full potential? Mark your calendar now!</p>
 <p><strong>Venue: </strong>The Plaza</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W3tHfCbE8PU?si=e3yVl0NjAT3seAZ4"></iframe>
+</div>
 <hr>
 <p>Calling all Juniors and Seniors! Besides Freshmen, you are also welcome
 to explore the myriad opportunities available at this event. Keen to find
