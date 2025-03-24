@@ -6,8 +6,8 @@ third_nav_title: Highlights
 variant: tiptap
 ---
 <h3><strong>CCA Fair 2025</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/CCA_Banner_1920px_by_1080px_FA.jpg">
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W3tHfCbE8PU?si=e3yVl0NjAT3seAZ4"></iframe>
 </div>
 <p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
 Maximise your fun.</p>
@@ -35,6 +35,9 @@ your full potential? Mark your calendar now!</p>
 <p><strong>Venue: </strong>The Plaza</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/CCA_Banner_1920px_by_1080px_FA.jpg">
+</div>
 <hr>
 <p>Calling all Juniors and Seniors! Besides Freshmen, you are also welcome
 to explore the myriad opportunities available at this event. Keen to find
