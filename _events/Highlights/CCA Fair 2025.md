@@ -22,6 +22,9 @@ more, there is something for everyone. You will also get to discover what
 makes your dream CCA tick and find out if it is the perfect fit for you.
 Plus, catch enthralling performances by our talented arts groups that are
 bound to entertain!</p>
+<p>But wait - there's more! Fancy a great thirst-quenching drink to beat
+the sweltering heat? Get your fix from the friendly folks at the <strong>MILO van </strong>from <strong>11am to 2pm! </strong>
+</p>
 <p>Ready to embrace a wealth of exciting possibilities to help you achieve
 your full potential? Mark your calendar now!</p>
 <ul data-tight="true" class="tight">
