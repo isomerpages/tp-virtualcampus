@@ -13,10 +13,12 @@ handpicked through a selection process. Through high-quality concerts and
 productions, our student-artists express their creativity, hone their craft
 and aspire to be artists creating works in the local and global artistic
 landscapes.</p>
-<p><strong><em>(Successful passing of auditions is necessary for acceptance into the performing arts CCAs. You can register your interest at the annual CCA Fair, scheduled for end-April. Please contact the relevant Staff Advisor to express your interest and learn more about how to join your desired CCA.</em></strong>
-</p>
-<p><strong><em>Alternatively, )</em></strong>
-</p>
+<p>Please note that successful passing of auditions is required for acceptance
+into the performing arts CCAs. Please check out the links below and contact
+the relevant Staff Advisor to express your interest and learn more about
+how to join your desired CCA.</p>
+<p>Alternatively, you may visit the CCA's Instagram page for more details.
+Have fun exploring!</p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
