@@ -23,7 +23,7 @@ makes your dream CCA tick and find out if it is the perfect fit for you.
 Plus, catch enthralling performances by our talented arts groups that are
 bound to entertain!</p>
 <p>But wait - there's more! Fancy a great thirst-quenching drink to beat
-the sweltering heat? Get your fix from the friendly folks at the <strong>MILO van </strong>from <strong>11am to 2pm! </strong>
+the sweltering heat? Get your fix from the friendly folks at the <strong>MILO van </strong>from <strong>11am to 2pm!</strong>
 </p>
 <p>Ready to embrace a wealth of exciting possibilities to help you achieve
 your full potential? Mark your calendar now!</p>
@@ -38,15 +38,19 @@ your full potential? Mark your calendar now!</p>
 <p><strong>Venue: </strong>The Plaza</p>
 </li>
 </ul>
+<p><strong><em>(Calling all Juniors and Seniors! Besides Freshmen, you are also welcome to explore the myriad opportunities available at this event. Keen to find out more about TP’s CCAs? Check out the links below!)</em></strong>
+</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W3tHfCbE8PU?si=e3yVl0NjAT3seAZ4"></iframe>
 </div>
 <hr>
-<p>Calling all Juniors and Seniors! Besides Freshmen, you are also welcome
-to explore the myriad opportunities available at this event. Keen to find
-out more about TP’s CCAs? Check out the links below!</p>
-<p><em>(If you are unable to attend the CCA Fair, please contact the respective Staff Advisors for details on how to sign up or if you have any further enquiries.)</em>
-</p>
+<p>Please note that successful passing of trials/auditions may be required
+for admission into some CCAs. If you are unable to attend the CCA Fair,
+please check out the links below and contact the relevant Staff Advisor
+to express your interest and learn more about how to join your desired
+CCA.</p>
+<p>Alternatively, you may visit the CCA's Instagram page for more details.
+Have fun exploring!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
