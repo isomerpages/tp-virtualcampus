@@ -271,4 +271,3 @@ Have fun exploring!</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
