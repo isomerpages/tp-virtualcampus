@@ -45,7 +45,7 @@ your full potential? Mark your calendar now!</p>
 </div>
 <hr>
 <p>Please note that successful passing of trials/auditions may be required
-for admission into some CCAs. If you are unable to attend the CCA Fair,
+for acceptance into some CCAs. If you are unable to attend the CCA Fair,
 please check out the links below and contact the relevant Staff Advisor
 to express your interest and learn more about how to join your desired
 CCA.</p>
