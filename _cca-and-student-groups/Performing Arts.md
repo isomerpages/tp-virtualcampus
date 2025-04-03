@@ -14,11 +14,11 @@ productions, our student-artists express their creativity, hone their craft
 and aspire to be artists creating works in the local and global artistic
 landscapes.</p>
 <p>Please note that successful passing of auditions is required for acceptance
-into the performing arts CCAs. Please check out the links below and contact
-the relevant Staff Advisor to express your interest and learn more about
-how to join your desired CCA.</p>
-<p>Alternatively, you may visit the CCA's Instagram page for more details.
-Have fun exploring!</p>
+into the performing arts CCAs. You may visit the annual <a href="https://virtualcampus.tp.edu.sg/events/cca-fair-2025/" rel="noopener nofollow" target="_blank">CCA Fair</a> to
+express your interest, scheduled for 23-24 Apr 2025.</p>
+<p>However, if you have missed the CCA Fair, please contact the relevant
+Staff Advisor to learn more about how to join your desired CCA. Alternatively,
+you may visit the CCA's Instagram page for more details. Have fun exploring!</p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
