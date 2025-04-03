@@ -45,12 +45,11 @@ your full potential? Mark your calendar now!</p>
 </div>
 <hr>
 <p>Please note that successful passing of trials/auditions may be required
-for acceptance into some CCAs. If you are unable to attend the CCA Fair,
-please check out the links below and contact the relevant Staff Advisor
-to express your interest and learn more about how to join your desired
-CCA.</p>
-<p>Alternatively, you may visit the CCA's Instagram page for more details.
-Have fun exploring!</p>
+for acceptance into some CCAs. You may visit the CCA Fair 2025 to express
+your interest.</p>
+<p>However, if you have missed the CCA Fair, please contact the relevant
+Staff Advisor to learn more about how to join your desired CCA. Alternatively,
+you may visit the CCA's Instagram page for more details. Have fun exploring!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
