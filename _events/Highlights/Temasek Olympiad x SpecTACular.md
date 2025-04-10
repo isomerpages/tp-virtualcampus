@@ -63,8 +63,8 @@ that our student-artists bring to our vibrant campus.</p>
 <p>Don’t miss a <strong>BIG</strong> highlight of the evening, where a 45-minute
 set by the sensational <strong><a href="https://www.instagram.com/djshaisg/" rel="noopener nofollow" target="_blank">DJ Shai</a></strong> awaits!
 Known for his dynamic mix of Hip Hop, R&amp;B and Latin sounds, let DJ
-Shai’s beats end your evening on an epic high, and make this a sticky TP
-memory for many years to come!</p>
+Shai’s beats end your evening on an epic high, and make this your sticky
+TP memory for many years to come!</p>
 <p></p>
 <p>Whether you are a Freshman or not, this amazing line-up is for all our
 students – so rally your friends and let’s kick off the new academic year
