@@ -46,6 +46,11 @@ and values – all in the name of friendly competition and fun!</p>
 <summary><strong>SpecTACular – “Jam &amp; Hop”: Be Dazzled by Our Finest Arts Talents!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/SpecTACular__Jam___Hop__Web_Banners_1920px_by_1080px.jpg">
+</div>
+<p></p>
 <p>Get ready for a “SpecTACular” concert at this year’s revitalised arts
 segment of our FO finale!</p>
 <p></p>
