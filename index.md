@@ -62,8 +62,8 @@ sections:
       title: Temasek Student Excellence Awards 2025
       subtitle: ANNUAL STUDENT AWARDS
       id: infopic
-      description: TSEA nomination period has been extended until 26 March 2025
-        (Wednesday), 11.59pm.
+      description: Nominations for the TSEA 2025 are now closed. Thank you for your
+        active support! Do look out for the results announcement by May 2025.
       button: NOMINATE NOW!
       url: /tsea-2025/
       image: /images/TSEA_2025_banner_new.png
