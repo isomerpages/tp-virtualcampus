@@ -64,7 +64,7 @@ sections:
       id: infopic
       description: Nominations for the TSEA 2025 are now closed. Thank you for your
         active support! Do look out for the results announcement by May 2025.
-      button: NOMINATE NOW!
+      button: CLICK FOR MORE INFO!
       url: /tsea-2025/
       image: /images/TSEA_2025_banner_new.png
       alt: Image alt text
