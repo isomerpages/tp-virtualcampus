@@ -61,9 +61,9 @@ Known for his dynamic mix of Hip Hop, R&amp;B and Latin sounds, let DJ
 Shai’s beats end your evening on an epic high, and make this a sticky TP
 memory for many years to come!</p>
 <p></p>
-<p>Whether you are a Freshman or not, this amazing line-up is for all of
-you – so rally your friends and let’s kick off the new academic year in
-style.</p>
+<p>Whether you are a Freshman or not, this amazing line-up is for all our
+students – so rally your friends and let’s kick off the new academic year
+in style.</p>
 <p></p>
 <p>See you there!</p>
 </div>
