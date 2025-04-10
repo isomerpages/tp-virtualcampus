@@ -53,14 +53,19 @@ segment of our FO finale!</p>
 performances by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
 From pulsating beats and melodious vocals to electrifying dance moves that
 will have you on your feet, get a first-hand glimpse of the creative energy
-that our student-artists bring to our vibrant campus. Finally, wrap up
-your FO journey by dancing the night away to the hottest tracks spun by
-our guest DJ!</p>
+that our student-artists bring to our vibrant campus.</p>
 <p></p>
-<p>This riveting showcase is fully conceptualised and brought to life by
-our talented students, reflecting TP’s collective values of strength, community
-and hope. Come join us at <strong>SpecTACular – “Jam &amp; Hop”</strong> and
-be inspired!</p>
+<p>Don’t miss a <strong>BIG</strong> highlight of the evening, where a 45-minute
+set by the sensational <strong><a href="https://www.instagram.com/djshaisg/" rel="noopener nofollow" target="_blank">DJ Shai</a></strong> awaits!
+Known for his dynamic mix of Hip Hop, R&amp;B and Latin sounds, let DJ
+Shai’s beats end your evening on an epic high, and make this a sticky TP
+memory for many years to come!</p>
+<p></p>
+<p>Whether you are a Freshman or not, this amazing line-up is for all of
+you – so rally your friends and let’s kick off the new academic year in
+style.</p>
+<p></p>
+<p>See you there!</p>
 </div>
 </details>
 </div>
