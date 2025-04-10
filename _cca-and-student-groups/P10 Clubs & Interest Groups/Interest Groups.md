@@ -164,9 +164,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/senvocates/" rel="noopener noreferrer nofollow" target="_blank">SENvocates</a></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -181,8 +178,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/SpaceHaus_Resized.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/sustainability-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Interest Group</a></strong>
 </p>
@@ -191,6 +186,8 @@ variant: tiptap
 </div>
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/tp-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">TP Ambassadors</a></strong>
 </p>
@@ -205,8 +202,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debates_Resized.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/tp-international-students-group/" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a></strong>
 </p>
@@ -215,6 +210,8 @@ variant: tiptap
 </div>
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/iprs-student-chapter/" rel="noopener noreferrer nofollow" target="_blank">TP-IPRS Student Chapter</a></strong>
 </p>
@@ -229,21 +226,29 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Toastmasters_Resized.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Women In Science &amp; Technology</u></a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TWIST_Resized_1.png">
 </div>
+<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/visual-arts-and-writing-club/" rel="noopener noreferrer nofollow" target="_blank">Visual Arts &amp; Writing Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Visual_Arts___Writing_Club_Resized.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
