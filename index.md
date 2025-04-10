@@ -37,17 +37,6 @@ sections:
       url: /events/cca-fair-2025/
       image: /images/Events/CCA_Banner_1920px_by_1080px_FA.jpg
   - infopic:
-      title: Temasek Olympiad x SpecTACular
-      subtitle: A THRILLING FINALE!
-      id: infopic
-      description: Dear Freshies, wrap up your onboarding experience at this special
-        finale, featuring dragon boat races, team challenges, and captivating
-        arts performances!
-      button: BE ENTHRALLED HERE!
-      url: /events/temasek-olympiad-x-spectacular/
-      alt: Image alt text
-      image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
-  - infopic:
       title: Freshmen Orientation 2025
       subtitle: "WELCOME TO THE #TPFAM!"
       id: infopic
@@ -59,12 +48,23 @@ sections:
       alt: Image alt text
       image: /images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg
   - infopic:
+      title: Temasek Olympiad x SpecTACular
+      subtitle: A THRILLING FINALE!
+      id: infopic
+      description: Dear Freshies, wrap up your onboarding experience at this special
+        finale, featuring dragon boat races, team challenges, and captivating
+        arts performances!
+      button: BE ENTHRALLED HERE!
+      url: /events/temasek-olympiad-x-spectacular/
+      alt: Image alt text
+      image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
+  - infopic:
       title: Temasek Student Excellence Awards 2025
       subtitle: ANNUAL STUDENT AWARDS
       id: infopic
-      description: TSEA nomination period has been extended until 26 March 2025
-        (Wednesday), 11.59pm.
-      button: NOMINATE NOW!
+      description: Nominations for the TSEA 2025 are now closed. Thank you for your
+        active support! Do look out for the results announcement by May 2025.
+      button: CLICK FOR MORE INFO!
       url: /tsea-2025/
       image: /images/TSEA_2025_banner_new.png
       alt: Image alt text
