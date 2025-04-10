@@ -37,17 +37,6 @@ sections:
       url: /events/cca-fair-2025/
       image: /images/Events/CCA_Banner_1920px_by_1080px_FA.jpg
   - infopic:
-      title: Temasek Olympiad x SpecTACular
-      subtitle: A THRILLING FINALE!
-      id: infopic
-      description: Dear Freshies, wrap up your onboarding experience at this special
-        finale, featuring dragon boat races, team challenges, and captivating
-        arts performances!
-      button: BE ENTHRALLED HERE!
-      url: /events/temasek-olympiad-x-spectacular/
-      alt: Image alt text
-      image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
-  - infopic:
       title: Freshmen Orientation 2025
       subtitle: "WELCOME TO THE #TPFAM!"
       id: infopic
@@ -58,6 +47,17 @@ sections:
       url: /events/freshmen-orientation-2025/
       alt: Image alt text
       image: /images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg
+  - infopic:
+      title: Temasek Olympiad x SpecTACular
+      subtitle: A THRILLING FINALE!
+      id: infopic
+      description: Dear Freshies, wrap up your onboarding experience at this special
+        finale, featuring dragon boat races, team challenges, and captivating
+        arts performances!
+      button: BE ENTHRALLED HERE!
+      url: /events/temasek-olympiad-x-spectacular/
+      alt: Image alt text
+      image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
   - infopic:
       title: Temasek Student Excellence Awards 2025
       subtitle: ANNUAL STUDENT AWARDS
