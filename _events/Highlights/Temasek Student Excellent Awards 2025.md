@@ -7,12 +7,8 @@ third_nav_title: Highlights
 ---
 <h3><strong>Temasek Student Excellence Awards 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Banner_TSEA_2025.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2025_Draft_1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2025_banner_new.png">
 </div>
@@ -23,20 +19,13 @@ third_nav_title: Highlights
 recognise the inspiring achievements and outstanding contributions of students
 in non-academic domains, such as the arts, sports, leadership, service,
 entrepreneurship and character.</p>
-<p>In the spirit of celebrating excellent student endeavours, we are happy
-to announce that nominations for the TSEA are now open!</p>
-<p>Take a moment to acknowledge your students' remarkable dedication, selfless
-commitment, and inspiring leadership by nominating them for the TSEA today.
-Let's uplift their spirits and give them the recognition they truly deserve!</p>
-<p>Nominate them for the TSEA today!</p>
-<hr>
-<h4><strong>Announcement</strong></h4>
-<p>Nominations for the TSEA are open from now till *<strong><u>26 March 2025 (Wednesday)</u></strong>.
-Please refer to the full list of awards, as well as the eligibility criteria,
-nomination process and submission forms/links below.</p>
-<p>*In celebration of TP's 35th birthday, we have extended the TSEA nomination
-period until <strong><u>26 March 2025 (Wednesday), 11.59pm</u></strong>.</p>
-<p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
+<h4><strong>Update</strong></h4>
+<p>Nominations for the TSEA 2025 are now closed. Thank you for your active
+support in recognising deserving students who have contributed significantly
+to the vibrancy of our campus! Results will be released by May 2025, so
+do watch this space for more updates.</p>
+<p>You may refer to the following section for the full list of awards and
+eligibility criteria. For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
 <hr>
 <p><strong><u>Award Information (Nomination and Selection)</u></strong>
@@ -254,5 +243,3 @@ significant contributions to this community over the past academic year
 of commitment to supporting TP activities, and who have made significant
 contributions to the wider TP community over the past academic year (AY2024/2025).</p>
 <p>Submit your nominations <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUN1Y2WFgzVjk4TkQ1TDNPMVI5WEdSU1VaTC4u" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
-<p></p>
