@@ -67,6 +67,12 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Passport__2__Photoroom.png">
+</div>
+<p><strong><a href="mailto:NG_CHING_SIANG@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ng Ching Siang</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
