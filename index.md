@@ -81,11 +81,11 @@ sections:
       image: /images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35.png
   - infopic:
       title: Want to be featured on Virtual Campus?
-      subtitle: REACH OUT TO US!
+      subtitle: REACH OUT TO US
       image: /images/Contact-Shoutout.jpg
       description: If you have something exciting to share with the TP community
         and/or beyond, do drop us a line!
-      button: Contact us
+      button: Contact us!
       url: /contact-us/
       alt: Shoutout
 ---
