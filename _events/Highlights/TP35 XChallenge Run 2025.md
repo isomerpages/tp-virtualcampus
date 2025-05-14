@@ -129,13 +129,12 @@ your loved ones, while supporting a good cause for our students.&nbsp;</p>
 <hr>
 <h4><strong>Celebrate &amp; Give – TP Endowment Fund</strong></h4>
 <p>As TP celebrates its 35th anniversary, we reaffirm our commitment to supporting
-students’ growth through a fundraising initiative for the TP Endowment
-Fund.</p>
+students’ growth through a fundraising initiative for the <strong><a href="https://www.tp.edu.sg/about-tp/donate-and-collaborate.html" rel="noopener nofollow" target="_blank">TP Endowment Fund</a></strong>.</p>
 <p>This year, every donation will be matched <strong>1.5 times by the government</strong> and
 on a <strong>dollar-for-dollar basis by TP</strong>, amplifying the impact
 on our students.<strong>&nbsp;</strong>Your generous support will help
 unlock more opportunities and empower them to realise their full potential.</p>
-<p>Please <strong>donate</strong> today to make a make a lasting difference!</p>
+<p>Please <strong>donate</strong> today to make a lasting difference!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
