@@ -9,7 +9,7 @@ third_nav_title: Highlights
 <p>[Insert eDM here]</p>
 <h4><strong>Run for a Cause. Stay for the Vibes!</strong></h4>
 <p>This July, get ready to lace up your running shoes and gear up for an
-adrenaline-filled experience at the TP35 X-Challenge Run 2025!</p>
+adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
 <p>Returning for its second edition, this year’s run holds special significance
 as we commemorate Temasek Polytechnic’s <strong>35th anniversary (TP35)</strong>.
 We warmly invite you to be a part of this meaningful occasion, as we run
