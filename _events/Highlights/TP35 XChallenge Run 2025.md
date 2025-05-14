@@ -148,13 +148,17 @@ unlock more opportunities and empower them to realise their full potential.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/PayNow.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/paynow.png">
 </div>
+<p><strong><a href="https://form.gov.sg/67a44cc2f1d9b40634711cb3" rel="noopener nofollow" target="_blank">Donate Here</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Giving_sg.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/givingsg.png">
 </div>
+<p><strong><a href="https://www.giving.sg/organisation/profile/338578fe-e299-4bd5-a298-caff6c0637a6" rel="noopener nofollow" target="_blank">Donate Here</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
