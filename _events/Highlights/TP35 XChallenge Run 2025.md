@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP35 X-Challenge Run 2025</strong></h3>
 <p>[Insert eDM here]</p>
-<h4><strong><em>Run for a Cause. Stay for the Vibes!</em></strong></h4>
+<h4><strong>Run for a Cause. Stay for the Vibes!</strong></h4>
 <p>This July, get ready to lace up your running shoes and gear up for an
 adrenaline-filled experience at the TP35 X-Challenge Run 2025!</p>
 <p>Returning for its second edition, this year’s run holds special significance
