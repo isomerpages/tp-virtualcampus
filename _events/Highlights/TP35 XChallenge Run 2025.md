@@ -135,32 +135,22 @@ on a <strong>dollar-for-dollar basis by TP</strong>, amplifying the impact
 on our students.<strong>&nbsp;</strong>Your generous support will help
 unlock more opportunities and empower them to realise their full potential.</p>
 <p>Please <strong>donate</strong> today to make a make a lasting difference!</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p><strong>TP ENDOWMENT FUND: WAYS TO GIVE</strong>
-</p>
+<th rowspan="1" colspan="1">
+<p>TP ENDOWMENT FUND: WAYS TO GIVE</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/paynow.png">
-</div>
-<p><strong><a href="https://form.gov.sg/67a44cc2f1d9b40634711cb3" rel="noopener nofollow" target="_blank">Donate Here</a></strong>
-</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://form.gov.sg/67a44cc2f1d9b40634711cb3"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/paynow.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/givingsg.png">
-</div>
-<p><strong><a href="https://www.giving.sg/organisation/profile/338578fe-e299-4bd5-a298-caff6c0637a6" rel="noopener nofollow" target="_blank">Donate Here</a></strong>
-</p>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.giving.sg/organisation/profile/338578fe-e299-4bd5-a298-caff6c0637a6"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/givingsg.png"></a>
 </td>
 </tr>
 </tbody>
