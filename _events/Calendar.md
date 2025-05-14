@@ -21,13 +21,13 @@ variant: tiptap
 <p><strong><a href="/events/tp35-xchallenge-run-2025/" rel="noopener noreferrer nofollow" target="_blank">TP 35 X-Challenge Run 2025</a></strong>
 </p>
 <p></p>
-<p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
-Maximise your fun.
-<br>
-<br>Calling all Freshies - life as a TP student can be as exciting, engaging
-and empowering as you want it to be! Join us at the <strong>CCA Fair 2025</strong> and
-dive into a world of thrilling opportunities offered in TP to realise your
-full potential. Mark your calendar now!</p>
+<p>This July, get ready to lace up your running shoes and gear up for an
+adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
+<p></p>
+<p>Returning for its second edition, this year’s run holds special significance
+as we commemorate Temasek Polytechnic’s <strong>35th anniversary</strong>.
+Be a part of this meaningful occasion as we run for a cause, and celebrate
+35 remarkable years of shaping lives and empowering futures together!</p>
 <p></p>
 </td>
 </tr>
