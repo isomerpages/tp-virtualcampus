@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: TP35 X-Challenge Run 2025
+      subtitle: RUN FOR A CAUSE!
+      id: infopic
+      description: Lace up your running shoes and gear up for an adrenaline-filled
+        experience. Be a part of this meaningful occasion as we commemorate TP’s
+        35th anniversary!
+      button: CELEBRATE WITH US!
+      url: /events/tp35-xchallenge-run-2025/
+      alt: Image alt text
+  - infopic:
       title: CCA Fair 2025
       subtitle: EXCITE. ENGAGE. EMPOWER.
       id: infopic
