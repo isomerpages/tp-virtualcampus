@@ -126,10 +126,11 @@ in celebration of SG60 and TP35!</p>
 <p>Come embrace the thrill of running and create unforgettable memories with
 your loved ones, while supporting a good cause for our students.&nbsp;</p>
 <p>We look forward to welcoming you at the <strong>TP35 X-Challenge Run 2025</strong>!&nbsp;</p>
-<p><strong><u>Celebrate &amp; Give – TP Endowment Fund</u></strong>
-</p>
+<hr>
+<h4><strong>Celebrate &amp; Give – TP Endowment Fund</strong></h4>
 <p>As TP celebrates its 35th anniversary, we reaffirm our commitment to supporting
-students’ growth through a fundraising initiative for the <strong><a href="https://www.tp.edu.sg/about-tp/donate-and-collaborate.html" rel="noopener nofollow" target="_blank">TP Endowment Fund</a></strong>.</p>
+students’ growth through a fundraising initiative for the TP Endowment
+Fund.</p>
 <p>This year, every donation will be matched <strong>1.5 times by the government</strong> and
 on a <strong>dollar-for-dollar basis by TP</strong>, amplifying the impact
 on our students.<strong>&nbsp;</strong>Your generous support will help
