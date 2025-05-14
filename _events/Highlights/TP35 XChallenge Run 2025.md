@@ -72,7 +72,7 @@ up for any of the categories below:</p>
 to vie for the <strong>Inter-School Challenge Shield </strong>(refer to
 criteria below). Please email <strong>Ms Jow Pei Jun (<a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Pei_Jun_JOW@tp.edu.sg</a>) </strong>to
 register your interest.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -105,7 +105,7 @@ with our specially designed <strong>Finisher Tee</strong> and a trendy <strong>s
 <li>
 <p><strong>Exciting Fringe Activities: </strong>Not running? No problem!
 Come chill with your friends and family:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Satisfy your cravings with <strong>free treats</strong> at our food stations!</p>
 </li>
@@ -119,6 +119,8 @@ special guests!</p>
 <li>
 <p>Engage in a spirited sing along of the <strong>National Anthem</strong> and <strong>TP Song</strong>,
 in celebration of SG60 and TP35!</p>
+</li>
+</ul>
 </li>
 </ul>
 <p>Come embrace the thrill of running and create unforgettable memories with
