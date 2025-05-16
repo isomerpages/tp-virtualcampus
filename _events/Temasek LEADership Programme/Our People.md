@@ -43,7 +43,7 @@ trainers dedicated to developing human capital and maximising human potential.</
 </div>
 <p><strong><a href="mailto:NG_Qihui@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ng Qihui</a></strong>
 </p>
-<p>Manager/Student Clubs &amp; Service Learning</p>
+<p>Senior Manager/CCA &amp; Community Engagement</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,20 +52,10 @@ trainers dedicated to developing human capital and maximising human potential.</
 </div>
 <p><strong><a href="mailto:Simon_CHEW@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Simon Chew</a></strong>
 </p>
-<p>Manager/Temasek LEAD</p>
+<p>Manager/LEAD</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Zara_Choo.jpg">
-</div>
-<p><strong><a href="mailto:Zara_CHOO@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Zara Choo</a></strong>
-</p>
-<p>Senior Student Development Officer</p>
-<p>ENG LEAD Advisor</p>
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Heinz_Loy_2.jpg">
@@ -74,6 +64,15 @@ trainers dedicated to developing human capital and maximising human potential.</
 </p>
 <p>Senior Student Development Officer</p>
 <p>DES LEAD Advisor</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Passport__2__Photoroom.png">
+</div>
+<p><strong><a href="mailto:NG_CHING_SIANG@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ng Ching Siang</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,12 +106,7 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Choy_Wai_Fann_3.png">
-</div>
-<p><strong><a href="mailto:CHOY_Wai_Fann@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Choy Wai Fann</a></strong>
-</p>
-<p>LEAD Student Development Officer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

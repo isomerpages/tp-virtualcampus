@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Calendar.md
+      - Highlights/TP35 XChallenge Run 2025.md
       - Highlights/.keep
       - Highlights/CCA Fair 2025.md
       - Highlights/Freshmen Orientation 2025.md
@@ -13,29 +14,18 @@ collections:
       - Highlights/TP National Day Celebrations 2024.md
       - Highlights/TP National Day Concert 2024.md
       - Highlights/Temasek Tides Concert 2024.md
-      - Highlights/TP Waterfront XChallenge Run 2024.md
-      - Community Engagement/.keep
-      - Community Engagement/Campus Care Network.md
-      - Community Engagement/Caring for Community.md
-      - Community Engagement/Caring for Environment.md
-      - Clubs/.keep
-      - Clubs/TP Walk for Rice.md
-      - Sports/IVP Games (AY2024 & 2025).md
-      - Sports/POLITE Games (AY2024 & 2025).md
-      - Sports/.keep
-      - Sports/POLITE & IVP Appreciation 2024.md
       - Temasek Arts Centre/.keep
       - Temasek Arts Centre/About TAC.md
       - "Temasek Arts Centre/DREAMS: Celebrating TP35.md"
       - "Temasek Arts Centre/Tapestry Arts Festival 2024: Metamorphosis.md"
-      - Temasek Arts Centre/TP National Day Celebrations 2023.md
-      - Temasek Arts Centre/TP National Day Concert 2023.md
-      - Temasek Arts Centre/National Day Celebration 2022.md
-      - Temasek Arts Centre/Spectacular Concerts 2022.md
       - Temasek Arts Centre/DREAMS Series.md
-      - Temasek Arts Centre/In Person Series.md
-      - Temasek Arts Centre/Temasek Arts Festival 2021.md
       - Temasek Arts Centre/TP's Film & Media Talents.md
+      - Sports/.keep
+      - Sports/IVP Games (AY2024 & 2025).md
+      - Sports/POLITE Games (AY2024 & 2025).md
+      - Sports/POLITE & IVP Appreciation 2024.md
+      - Clubs/.keep
+      - Clubs/TP Walk for Rice.md
       - Temasek LEADership Programme/.keep
       - Temasek LEADership Programme/Overview of Temasek LEAD.md
       - Temasek LEADership Programme/Our People.md

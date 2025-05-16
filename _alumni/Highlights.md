@@ -20,17 +20,6 @@ available exclusively for alumni.</p>
 <p>Read on to see how our alumni have been keeping in touch with us even
 beyond graduation!</p>
 <hr>
-<h4><strong>Adulting: All About Finance</strong></h4>
-<p>We invite you to tune in to the last of Five Finds Thrift Market’s Instagram
-Live series on 24 April 2021 (Saturday) at 2.30pm! Get some great insights
-and useful tips on financial planning and literacy, ranging from savings,
-investments and lots more.</p>
-<p><strong>Check out <a href="https://www.facebook.com/temasekpolyalumni/photos/a.314919538569078/4011543955573266/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="All About Finance" src="/images/BeConnected_Highlights_AboutFinance.png">
-</div>
-<hr>
 <h4><strong>Out of Your Comfort Zone By Alumna Ms Wendy Yee</strong></h4>
 <p>Hear intimate insights on how Wendy Yee's experience in the Gobi March
 has bolstered her endurance, perseverance and confidence in overcoming
