@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>TP35 X-Challenge Run 2025</strong></h3>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_150525_FA.jpg">
+</div>
 <h4><strong>Run for a Cause. Stay for the Vibes!</strong></h4>
 <p>This July, get ready to lace up your running shoes and gear up for an
 adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
