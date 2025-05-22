@@ -35,7 +35,7 @@ sections:
       button: CELEBRATE WITH US!
       url: /events/tp35-xchallenge-run-2025/
       alt: Image alt text
-      image: /images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_150525_FA.jpg
+      image: /images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_220525_FA.jpg
   - infopic:
       title: CCA Fair 2025
       subtitle: EXCITE. ENGAGE. EMPOWER.
