@@ -29,13 +29,13 @@ sections:
       title: TP35 X-Challenge Run 2025
       subtitle: RUN FOR A CAUSE!
       id: infopic
-      description: Lace up your running shoes and gear up for an adrenaline-filled
-        experience. Be a part of this meaningful occasion as we commemorate TP’s
-        35th anniversary!
+      description: Registration for the run is now closed. Thank you for your support!
+        Non-runners can still join us for a fun evening of food, games and
+        performances. See you!
       button: CELEBRATE WITH US!
       url: /events/tp35-xchallenge-run-2025/
       alt: Image alt text
-      image: /images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_150525_FA.jpg
+      image: /images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_220525_FA.jpg
   - infopic:
       title: CCA Fair 2025
       subtitle: EXCITE. ENGAGE. EMPOWER.

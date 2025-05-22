@@ -13,15 +13,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_150525_FA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_220525_FA.jpg">
 </div>
 <p><em>11 July 2025</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/events/tp35-xchallenge-run-2025/" rel="noopener noreferrer nofollow" target="_blank">TP 35 X-Challenge Run 2025</a></strong>
+</p>
+<p></p>
+<p><strong><em>(Update: Due to overwhelming response, registration for the run is now closed. Thank you for your support! Non-runners can still join us for a fantastic evening filled with food, games and performances. Let’s celebrate together as a TP family!)</em></strong>
 </p>
 <p></p>
 <p>This July, get ready to lace up your running shoes and gear up for an
