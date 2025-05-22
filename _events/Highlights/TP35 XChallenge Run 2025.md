@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP35 X-Challenge Run 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_150525_FA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_220525_FA.jpg">
 </div>
 <h4><strong>Run for a Cause. Stay for the Vibes!</strong></h4>
 <p><strong><em>(Update: Due to overwhelming response, registration for the run is now closed. Thank you for your support! Non-runners can still join us for a fantastic evening filled with food, games and performances. Let’s celebrate together as a TP family!)</em></strong>
