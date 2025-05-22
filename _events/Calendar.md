@@ -13,9 +13,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_150525_FA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_220525_FA.jpg">
 </div>
 <p><em>11 July 2025</em>
 </p>
