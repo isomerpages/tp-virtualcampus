@@ -10,6 +10,8 @@ third_nav_title: Highlights
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_150525_FA.jpg">
 </div>
 <h4><strong>Run for a Cause. Stay for the Vibes!</strong></h4>
+<p><strong><em>(Update: Due to overwhelming response, registration for the run is now closed. Thank you for your support! Non-runners can still join us for a fantastic evening filled with food, games and performances. Let’s celebrate together as a TP family!)</em></strong>
+</p>
 <p>This July, get ready to lace up your running shoes and gear up for an
 adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
 <p>Returning for its second edition, this year’s run holds special significance
@@ -22,79 +24,6 @@ futures together.</p>
 <p><strong>📅 </strong>11 July 2025 (Friday)</p>
 <p><strong>🕐 </strong>3.30pm onwards</p>
 <p><strong>📍</strong>TP Sports Complex</p>
-<p><strong><u>Race Categories &amp; Registration</u></strong>
-</p>
-<p>Registration for the event is complimentary. Interested runners may sign
-up for any of the categories below:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Category</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Registration Link (For TP Staff &amp; Students)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Registration Link (For TP Alumni &amp; Public)</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fun Walk / Jog (2.3km)</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><a href="https://for.edu.sg/tp35xchallenge-students-staff" rel="noopener nofollow" target="_blank">https://for.edu.sg/tp35xchallenge-students-staff</a>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p><a href="https://for.edu.sg/tp35xchallenge-alumni-public" rel="noopener nofollow" target="_blank">https://for.edu.sg/tp35xchallenge-alumni-public</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fitness Challenge (5.3km)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Inter-School Challenge Shield (5.3km)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teamwork makes the dream work! Interested Schools may participate in teams
-to vie for the <strong>Inter-School Challenge Shield </strong>(refer to
-criteria below). Please email <strong>Ms Jow Pei Jun (<a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Pei_Jun_JOW@tp.edu.sg</a>) </strong>to
-register your interest.</p>
-<p></p>
-<p><strong>Criteria:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3 male students (any year of study)</p>
-</li>
-<li>
-<p>3 female students (any year of study)</p>
-</li>
-<li>
-<p>2 staff (any gender)</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nil</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Why You Should Participate</u></strong>
 </p>
 <p>Whether you are a running enthusiast or just looking to enjoy a fun evening,
