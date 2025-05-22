@@ -24,6 +24,9 @@ variant: tiptap
 <p><strong><a href="/events/tp35-xchallenge-run-2025/" rel="noopener noreferrer nofollow" target="_blank">TP 35 X-Challenge Run 2025</a></strong>
 </p>
 <p></p>
+<p><strong><em>(Update: Due to overwhelming response, registration for the run is now closed. Thank you for your support! Non-runners can still join us for a fantastic evening filled with food, games and performances. Let’s celebrate together as a TP family!)</em></strong>
+</p>
+<p></p>
 <p>This July, get ready to lace up your running shoes and gear up for an
 adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
 <p></p>
