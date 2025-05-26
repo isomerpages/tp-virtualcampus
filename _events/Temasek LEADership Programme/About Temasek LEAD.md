@@ -273,9 +273,8 @@ and interests.</p>
 </table>
 <p>Finally, Temasek LEAD offers a series of specially curated&nbsp;<strong>(3) Excel programmes</strong>&nbsp;to
 stretch our very best students, who have displayed outstanding achievements
-in the areas of academic studies, leadership roles and/or specialised talents.&nbsp;</p>
-<p>For more information, please email <strong><a href="mailto:LEAD@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LEAD@tp.edu.sg</a></strong>
-</p>
+in the areas of academic studies, leadership roles and/or specialised talents.&nbsp;Some
+of these programmes are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -284,11 +283,34 @@ in the areas of academic studies, leadership roles and/or specialised talents.&n
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Overseas_Experience_Programme__Tokyo__23.jpg">
+</div>
+<p><strong><em>Overseas Experience Programme Trip to Japan (2025)</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/GEP_Study_Trip__Finland__17.jpg">
+</div>
+<p><strong><em>Global Experience Programme Study Trip to Finland (2024)</em></strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/GEP_Study_Trip_11__Bristol_.jpg">
+</div>
+<p><em>Global Experience Programme Study Trip to the United Kingdom (2024)</em>
+</p>
+</th>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Global_Experience_Programme_Study_Trip_to_the_United_Kingdom.jpg">
 </div>
-<p><em>Global Experience Programme Study Trip to the United Kingdom</em>
+<p><em>Global Experience Programme Study Trip to the United Kingdom (2022)</em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -308,12 +330,7 @@ in the areas of academic studies, leadership roles and/or specialised talents.&n
 </tr>
 </tbody>
 </table>
-<p><strong>2022 Global Experience Programme Study Trip (United Kingdom) Video by Excel Students</strong>
+<p>Curious to find out more about Temasek LEAD? Check out its exciting events/programmes
+on <a href="https://www.youtube.com/@TemasekLEAD" rel="noopener nofollow" target="_blank"><u>YouTube</u></a>!</p>
+<p>For more information, please email <a href="mailto:LEAD@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LEAD@tp.edu.sg</a>
 </p>
-<p>Please click <a href="https://for.edu.sg/2022gepvid" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the video.</p>
-<p><strong>2024 Global Experience Programme Study Trip (United Kingdom) Video by Excel Students</strong>
-</p>
-<p>Please click <a href="https://for.edu.sg/2024gepvid" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the video.</p>
-<p></p>
