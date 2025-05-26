@@ -58,6 +58,14 @@ trainers dedicated to developing human capital and maximising human potential.</
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Untitled_design.png">
+</div>
+<p><strong><a href="mailto:Haizuruldin_GIMIN@tp.edu.sg" rel="noopener nofollow" target="_blank">Haizuruldin Gimin</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Heinz_Loy_2.jpg">
 </div>
 <p><strong><a href="mailto:Heinz_LOY@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Heinz Loy</a></strong>
@@ -84,6 +92,8 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p>Senior Student Development Officer</p>
 <p>BUS LEAD Advisor</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Farhan_Kamis.png">
@@ -93,8 +103,6 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p>Senior Student Development Officer</p>
 <p>IIT LEAD Advisor</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Wong_Si_Y.jpg">
@@ -103,9 +111,6 @@ trainers dedicated to developing human capital and maximising human potential.</
 </p>
 <p>Senior Student Development Officer</p>
 <p>ASC LEAD Advisor</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
