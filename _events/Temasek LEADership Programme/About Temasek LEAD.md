@@ -274,7 +274,7 @@ and interests.</p>
 <p>Finally, Temasek LEAD offers a series of specially curated&nbsp;<strong>(3) Excel programmes</strong>&nbsp;to
 stretch our very best students, who have displayed outstanding achievements
 in the areas of academic studies, leadership roles and/or specialised talents.&nbsp;Some
-of these programmes are as follows:</p>
+of these programmes include:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
