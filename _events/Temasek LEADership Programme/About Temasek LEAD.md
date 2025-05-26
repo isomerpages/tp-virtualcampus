@@ -332,5 +332,5 @@ of these programmes are as follows:</p>
 </table>
 <p>Curious to find out more about Temasek LEAD? Check out its exciting events/programmes
 on <a href="https://www.youtube.com/@TemasekLEAD" rel="noopener nofollow" target="_blank"><u>YouTube</u></a>!</p>
-<p>For more information, please email <a href="mailto:LEAD@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LEAD@tp.edu.sg</a>
+<p>For enquiries, please email <a href="mailto:LEAD@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LEAD@tp.edu.sg</a>
 </p>
