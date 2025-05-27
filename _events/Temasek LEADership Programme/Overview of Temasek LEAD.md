@@ -27,5 +27,5 @@ to serve others.</p>
 <p>Please click <a href="https://for.edu.sg/leadonboardingvideo" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Temasek LEAD onboarding video.</p>
 <h4><strong>Temasek LEAD through Our Students’ Lens</strong></h4>
-<p>Please click <a href="https://for.edu.sg/scholarshipleadvid" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-view the TP Scholarship LEAD video.</p>
+<p>Curious to find out more about Temasek LEAD? Check out its exciting events/programmes
+on <a href="https://www.youtube.com/@TemasekLEAD" rel="noopener nofollow" target="_blank">YouTube</a>!</p>
