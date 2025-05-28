@@ -25,8 +25,8 @@ what fuelled their passion to keep pushing forward and making a difference,
 while rocking their TP journey!</p>
 <p>[To insert YouTube link]</p>
 <p>And to all awardees from our TP family– your amazing dedication, unbridled
-creativity, and relentless passion make TP truly an unstoppable hub of
-vibrancy all year round. Keep shining!</p>
+creativity, and relentless passion make this campus truly an unstoppable
+hub of vibrancy all year round. Keep shining!</p>
 <p><strong><em>(Check out the TSEA 2025 Roll of Honour <a href="https://for.edu.sg/tsea2025rollofhonour" rel="noopener nofollow" target="_blank">here</a>!)</em></strong>
 </p>
 <hr>
