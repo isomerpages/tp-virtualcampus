@@ -28,7 +28,7 @@ and myriad contributions beyond the academics. This year, we honoured over
 2,000 deserving students and coaches/instructors across TP for excelling
 in their respective domains outside the classroom, and for their unstinting
 efforts in contributing to the vibrancy of our campus.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Check out the TSEA 2025 <strong>Roll of Honour </strong><a href="https://for.edu.sg/tsea2025rollofhonour" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
 </td>
