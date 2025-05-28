@@ -33,7 +33,7 @@ sections:
         achievements and outstanding contributions beyond the academics!
       button: VIEW THE ROLL OF HONOUR HERE!
       url: /tsea-2025/
-      image: /images/TSEA_2025_banner_new.png
+      image: /images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg
       alt: Image alt text
   - infopic:
       title: TP35 X-Challenge Run 2025
