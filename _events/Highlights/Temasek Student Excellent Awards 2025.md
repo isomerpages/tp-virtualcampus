@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>Temasek Student Excellence Awards 2025</strong></h3>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg">
+</div>
 <p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2025</strong> recipients!</p>
 <p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
 and myriad contributions beyond the academics – whether in arts, sports,
