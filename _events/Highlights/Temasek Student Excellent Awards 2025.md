@@ -6,26 +6,28 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>Temasek Student Excellence Awards 2025</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2025_Draft_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2025_banner_new.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/TSEA_2025_banner_new.png">
-</div>
-<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
-recognise the inspiring achievements and outstanding contributions of students
-in non-academic domains, such as the arts, sports, leadership, service,
-entrepreneurship and character.</p>
-<h4><strong>Update</strong></h4>
-<p>Nominations for the TSEA 2025 are now closed. Thank you for your active
-support in recognising deserving students who have contributed significantly
-to the vibrancy of our campus! Results will be released by May 2025, so
-do watch this space for more updates.</p>
-<p>You may refer to the following section for the full list of awards and
-eligibility criteria. For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
+<p>[Insert eDM here]</p>
+<p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2025</strong> recipients!</p>
+<p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
+and myriad contributions beyond the academics – whether in arts, sports,
+leadership, service, entrepreneurship, sustainability or character.</p>
+<p>This year, we celebrated <strong>377</strong> recipients across the Higher
+Award categories (Individual &amp; Group/Team), along with <strong>1,073</strong> CCA
+Merit Awards (Arts/Sports/Leadership), <strong>422</strong> Full Colours
+Awards, and <strong>147</strong> Half Colours Awards. In addition, <strong>3 </strong>sports
+teams were honoured for their fiery spirit through the Sustained Excellence
+Award, for clinching a gold podium finish in at least 70% of the past 15
+years. Plus, special recognition went to <strong>3 </strong>Outstanding
+Coaches/Instructors in TP!</p>
+<p>Here’s a massive shoutout to our top stars – the <strong>Temasek CCA Gold</strong> and <strong>Silver</strong>  <strong>Award</strong> recipients!
+Hear their heartfelt stories and memorable CCA takeaways, and discover
+what fuelled their passion to keep pushing forward and making a difference,
+while rocking their TP journey!</p>
+<p>[To insert YouTube link]</p>
+<p>And to all awardees from our TP family– your amazing dedication, unbridled
+creativity, and relentless passion make TP truly an unstoppable hub of
+vibrancy all year round. Keep shining!</p>
+<p><strong><em>(Check out the TSEA 2025 Roll of Honour <a href="https://for.edu.sg/tsea2025rollofhonour" rel="noopener nofollow" target="_blank">here</a>!)</em></strong>
 </p>
 <hr>
 <p><strong><u>Award Information (Nomination and Selection)</u></strong>
