@@ -13,7 +13,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg">
+</div>
 <p><em>31 May 2025</em>
 </p>
 </td>
