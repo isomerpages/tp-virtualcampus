@@ -33,11 +33,11 @@ hub of vibrancy all year round. Keep shining!</p>
 </p>
 <hr>
 <h3><strong>Update</strong></h3>
-<p>Thank you to all CCA advisors and staff for your active support in nurturing
-our students to be the best version of themselves! Your efforts have enabled
-us to honour those who have excelled in their respective domains beyond
-the classroom, and celebrate those who have contributed significantly to
-the vibrancy of our campus.</p>
+<p>Thank you to all CCA advisors and staff for nurturing our students to
+be the best version of themselves! Your efforts have enabled us to honour
+those who have excelled in their respective domains beyond the classroom,
+and celebrate those who have contributed significantly to the vibrancy
+of our campus.</p>
 <p>For information on the awards available for nomination annually under
 the TSEA (unless otherwise specified), as well as the eligibility criteria
 and nomination process, please refer to the links below:</p>
