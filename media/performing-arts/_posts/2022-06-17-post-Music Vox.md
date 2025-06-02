@@ -104,6 +104,10 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <h5>Newsletters</h5>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://for.edu.sg/mvnewsletter-term4-ay24-25" rel="noopener nofollow" target="_blank">AY2024/25 (Term 4)</a>
+</p>
+</li>
+<li>
 <p><a href="https://for.edu.sg/tpmvay2425term3" rel="noopener nofollow" target="_blank">AY2024/25 (Term 3)</a>
 </p>
 </li>
