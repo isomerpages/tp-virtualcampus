@@ -26,6 +26,16 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
+      title: Temasek Student Excellence Awards 2025
+      subtitle: ANNUAL STUDENT AWARDS
+      id: infopic
+      description: Congratulations to all our award recipients for their inspiring
+        achievements and outstanding contributions beyond the academics!
+      button: VIEW THE ROLL OF HONOUR HERE!
+      url: /tsea-2025/
+      image: /images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg
+      alt: Image alt text
+  - infopic:
       title: TP35 X-Challenge Run 2025
       subtitle: RUN FOR A CAUSE!
       id: infopic
@@ -69,16 +79,6 @@ sections:
       url: /events/temasek-olympiad-x-spectacular/
       alt: Image alt text
       image: /images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg
-  - infopic:
-      title: Temasek Student Excellence Awards 2025
-      subtitle: ANNUAL STUDENT AWARDS
-      id: infopic
-      description: Nominations for the TSEA 2025 are now closed. Thank you for your
-        active support! Do look out for the results announcement by May 2025.
-      button: CLICK FOR MORE INFO!
-      url: /tsea-2025/
-      image: /images/TSEA_2025_banner_new.png
-      alt: Image alt text
   - infopic:
       title: "DREAMS: Celebrating TP35"
       subtitle: KICKING OFF A SPECIAL YEAR!
