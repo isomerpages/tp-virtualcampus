@@ -25,7 +25,9 @@ Coaches/Instructors in TP!</p>
 Hear their heartfelt stories and memorable CCA takeaways, and discover
 what fuelled their passion to keep pushing forward and making a difference,
 while rocking their TP journey!</p>
-<p>[To insert YouTube link]</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_1ogDTsMXps?si=48uLn5v7ZQQuzZzj"></iframe>
+</div>
 <p>And to all awardees from our TP family – your amazing dedication, unbridled
 creativity, and fiery spirit make this campus truly an unstoppable hub
 of vibrancy all year round. Keep shining!</p>
