@@ -19,12 +19,12 @@ TPLA Newsletters. Enjoy reading and have fun participating!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/TPLA Newsletters/LA_Issue_30__Page1__AM25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/TPLA Newsletters/LA_Issue_30__Page1__AM25_v1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/TPLA Newsletters/LA_Issue_30__Page2__AM25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/TPLA Newsletters/LA_Issue_30__Page2__AM25_v1.png">
 </div>
 </th>
 </tr>
