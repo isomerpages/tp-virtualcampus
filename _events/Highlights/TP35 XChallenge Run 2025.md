@@ -50,7 +50,7 @@ your favourites while stocks last!</p>
 with attractive prizes up for grabs!</p>
 <p>⭐ <strong>Celebrate in Unity:</strong> Join in a rousing mass sing-along
 of the <strong>National Anthem</strong> and <strong>TP Song</strong>, in commemoration
-of Singapore's 60th birthday and TP35!</p>
+of <strong>Singapore's 60th birthday</strong> and <strong>TP35</strong>!</p>
 <p>Come embrace the exhilarating spirit of running and create fond memories
 with your loved ones, while supporting a good cause for our students –
 all as part of our TP family!</p>
