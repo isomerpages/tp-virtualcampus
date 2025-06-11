@@ -43,7 +43,7 @@ and today’s hottest hits!</p>
 band, <strong><a href="https://www.53aband.com/" rel="noopener noreferrer nofollow" target="_blank"><u>53A</u></a></strong>,
 who will deliver their unique vocal magic and charming musicality, along
 with a spirited <strong>National Day Song </strong>performance!</p>
-<p>⭐ <strong>Savour Delicious Treats:</strong> Enjoy <strong>free carnival-style food delights</strong> as
+<p>⭐ <strong>Savour Delicious Treats:</strong> Enjoy <strong>free carnival-style delights</strong> as
 you chill and sway to the pulsating beats of the evening. Remember to grab
 your favourites while stocks last!</p>
 <p>⭐ <strong>Game On:</strong> Flex your skills and conquer a variety of thrilling <strong>carnival-style games</strong>,
