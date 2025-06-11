@@ -46,7 +46,7 @@ with a spirited <strong>National Day Song </strong>performance!</p>
 <p>⭐ <strong>Savour Delicious Treats:</strong> Enjoy <strong>free carnival-style delights</strong> as
 you chill and sway to the pulsating beats of the evening. Remember to grab
 your favourites while stocks last!</p>
-<p>⭐ <strong>Game On:</strong> Flex your skills and conquer a variety of thrilling <strong>carnival-style games</strong>,
+<p>⭐ <strong>Game On:</strong> Flex your skills and conquer a variety of thrilling <strong>carnival games</strong>,
 with attractive prizes up for grabs!</p>
 <p>⭐ <strong>Celebrate in Unity:</strong> Join in a rousing mass sing-along
 of the <strong>National Anthem</strong> and <strong>TP Song</strong>, in commemoration
