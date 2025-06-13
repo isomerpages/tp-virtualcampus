@@ -27,10 +27,10 @@ Games) | 5.30pm onwards (Concert)</p>
 </p>
 <p>Due to overwhelming response, registration for the run is now closed.
 Thank you for your support!</p>
-<p>Come join us even if you are not hitting the track! Swing by for an action-packed
-evening, featuring electrifying activities and awesome entertainment for
-all. Rally your friends, family and loved ones, let loose, and psych up
-for a memorable celebration on campus!</p>
+<p>However, come join us even if you are not hitting the track! Swing by
+for an action-packed evening, featuring electrifying activities and awesome
+entertainment for all. Rally your friends, family and loved ones, let loose,
+and psych up for a memorable celebration on campus!</p>
 <p><strong>Catch these Exciting Highlights! 👇</strong>
 </p>
 <p>⭐ <strong>Celebrate the Arts:</strong> Brought to you by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>*,
