@@ -7,11 +7,9 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP35 X-Challenge Run 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35XChallenge_WebBanner_1920pxX1080px_220525_FA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35_X_Challenge_Run_2025__Updated__1920px_X_1080px.jpg">
 </div>
 <h4><strong>Run for a Cause. Stay for the Vibes!</strong></h4>
-<p><strong><em>(Update: Due to overwhelming response, registration for the run is now closed. Thank you for your support! Non-runners can still join us for a fantastic evening filled with food, games and performances. Let’s celebrate together as a TP family!)</em></strong>
-</p>
 <p>This July, get ready to lace up your running shoes and gear up for an
 adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
 <p>Returning for its second edition, this year’s run holds special significance
@@ -22,41 +20,41 @@ futures together.</p>
 <p><strong><u>Event Details</u></strong>
 </p>
 <p><strong>📅 </strong>11 July 2025 (Friday)</p>
-<p><strong>🕐 </strong>3.30pm onwards</p>
-<p><strong>📍</strong>TP Sports Complex</p>
-<p><strong><u>Why You Should Participate</u></strong>
+<p><strong>🕐 </strong>3.30pm onwards (Run) | 5pm onwards (Refreshments &amp;
+Games) | 5.30pm onwards (Concert)</p>
+<p><strong>📍 </strong>TP Sports Complex</p>
+<p><strong><u>Update</u></strong>
 </p>
-<p>Whether you are a running enthusiast or just looking to enjoy a fun evening,
-there is something for everyone! Here are some <strong>highlights</strong>:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Exclusive Freebies for Runners:</strong> Celebrate your participation
-with our specially designed <strong>Finisher Tee</strong> and a trendy <strong>shoe bag</strong>!</p>
-</li>
-<li>
-<p><strong>Exciting Fringe Activities: </strong>Not running? No problem!
-Come chill with your friends and family:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Satisfy your cravings with <strong>free treats</strong> at our food stations!</p>
-</li>
-<li>
-<p>Catch <strong>captivating performances</strong> by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong> and
-special guests!</p>
-</li>
-<li>
-<p>Take part in thrilling <strong>carnival games</strong> and win prizes!</p>
-</li>
-<li>
-<p>Engage in a spirited sing along of the <strong>National Anthem</strong> and <strong>TP Song</strong>,
-in celebration of SG60 and TP35!</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>Come embrace the thrill of running and create unforgettable memories with
-your loved ones, while supporting a good cause for our students.&nbsp;</p>
-<p>We look forward to welcoming you at the <strong>TP35 X-Challenge Run 2025</strong>!&nbsp;</p>
+<p>Due to overwhelming response, registration for the run is now closed.
+Thank you for your support!</p>
+<p>However, come join us even if you are not hitting the track! Swing by
+for an action-packed evening, featuring electrifying activities and awesome
+entertainment for all. Rally your friends, family and loved ones, let loose,
+and psych up for a memorable celebration on campus!</p>
+<p><strong>Catch these Exciting Highlights! 👇</strong>
+</p>
+<p>⭐ <strong>Celebrate the Arts:</strong> Brought to you by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>*,
+this hour-long concert promises an <strong>arts extravaganza</strong> showcasing
+traditional and contemporary dance favourites, vibrant band performances,
+and today’s hottest hits!</p>
+<p><em>(*Featuring our campus arts talents from <a href="https://www.instagram.com/tpdeofficial/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Dance Ensemble</a>, <a href="https://www.instagram.com/tpindiandance/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Indian Dance Group</a>, <a href="https://www.instagram.com/keseniansianaktari/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Malay Dance Group</a>, <a href="https://www.instagram.com/tpmusicvox/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a>, <a href="https://www.instagram.com/temasekpolyband/?hl=en" rel="noopener noreferrer nofollow" target="_blank">TP Band</a> &amp; <a href="https://www.instagram.com/tpemcees/?hl=en" rel="noopener noreferrer nofollow" target="_blank">TP Emcees</a>)</em>
+</p>
+<p>⭐ <strong>Special Guest Band:</strong> Be swept away by acclaimed local
+band, <strong><a href="https://www.53aband.com/" rel="noopener noreferrer nofollow" target="_blank"><u>53A</u></a></strong>,
+who will deliver their unique vocal magic and charming musicality, along
+with a spirited <strong>National Day Song </strong>performance!</p>
+<p>⭐ <strong>Savour Delicious Treats:</strong> Enjoy <strong>free carnival-style delights</strong> as
+you chill and sway to the pulsating beats of the evening. Remember to grab
+your favourites while stocks last!</p>
+<p>⭐ <strong>Game On:</strong> Flex your skills and conquer a variety of thrilling <strong>carnival games</strong>,
+with attractive prizes up for grabs!</p>
+<p>⭐ <strong>Celebrate in Unity:</strong> Join in a rousing mass sing-along
+of the <strong>National Anthem</strong> and <strong>TP Song</strong>, in commemoration
+of <strong>Singapore's 60th birthday</strong> and <strong>TP35</strong>!</p>
+<p>Come embrace the exhilarating spirit of running and create fond memories
+with your loved ones, while supporting a good cause for our students –
+all as part of our TP family!</p>
+<p>Don’t miss out – see you at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
 <hr>
 <h4><strong>Celebrate &amp; Give – TP Endowment Fund</strong></h4>
 <p>As TP celebrates its 35th anniversary, we reaffirm our commitment to supporting
@@ -66,7 +64,6 @@ on a <strong>dollar-for-dollar basis by TP</strong>, amplifying the impact
 on our students.<strong>&nbsp;</strong>Your generous support will help
 unlock more opportunities and empower them to realise their full potential.</p>
 <p>Please <strong>donate</strong> today to make a lasting difference!</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
