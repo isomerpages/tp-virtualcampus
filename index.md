@@ -26,16 +26,6 @@ sections:
       subtitle: Your one-stop hub for all Temasek Polytechnic happenings
       background: /images/Home/virtual_backgrounds-01-v3.jpg
   - infopic:
-      title: Temasek Student Excellence Awards 2025
-      subtitle: ANNUAL STUDENT AWARDS
-      id: infopic
-      description: Congratulations to all our award recipients for their inspiring
-        achievements and outstanding contributions beyond the academics!
-      button: VIEW THE ROLL OF HONOUR HERE!
-      url: /tsea-2025/
-      image: /images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg
-      alt: Image alt text
-  - infopic:
       title: TP35 X-Challenge Run 2025
       subtitle: RUN FOR A CAUSE!
       id: infopic
@@ -46,6 +36,16 @@ sections:
       url: /events/tp35-xchallenge-run-2025/
       alt: Image alt text
       image: /images/Events/Highlights/TP35_X_Challenge_Run_2025__Updated__1920px_X_1080px.jpg
+  - infopic:
+      title: Temasek Student Excellence Awards 2025
+      subtitle: ANNUAL STUDENT AWARDS
+      id: infopic
+      description: Congratulations to all our award recipients for their inspiring
+        achievements and outstanding contributions beyond the academics!
+      button: VIEW THE ROLL OF HONOUR HERE!
+      url: /tsea-2025/
+      image: /images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg
+      alt: Image alt text
   - infopic:
       title: CCA Fair 2025
       subtitle: EXCITE. ENGAGE. EMPOWER.
