@@ -31,7 +31,7 @@ while rocking their TP journey!</p>
 <p>And to all awardees from our TP family – your amazing dedication, unbridled
 creativity, and fiery spirit make this campus truly an unstoppable hub
 of vibrancy all year round. Keep shining!</p>
-<p><strong><em>(Check out the TSEA 2025 Roll of Honour <a href="https://for.edu.sg/tsea2025rollofhonour" rel="noopener nofollow" target="_blank">here</a>!)</em></strong>
+<p><strong><em>(Check out the TSEA 2025 Roll of Honour <a href="https://for.edu.sg/tsearollofhonour2025" rel="noopener nofollow" target="_blank">here</a>!)</em></strong>
 </p>
 <hr>
 <h3><strong>Update</strong></h3>
