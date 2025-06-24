@@ -35,7 +35,7 @@ sections:
       button: CELEBRATE WITH US!
       url: /events/tp35-xchallenge-run-2025/
       alt: Image alt text
-      image: /images/Events/Highlights/TP35_X_Challenge_Run_2025__Updated__1920px_X_1080px.jpg
+      image: /images/Events/Highlights/TP_Web_Banners_Web_Banner_2_1920px_X_1080px.jpg
   - infopic:
       title: Temasek Student Excellence Awards 2025
       subtitle: ANNUAL STUDENT AWARDS
