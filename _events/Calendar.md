@@ -14,31 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg">
-</div>
-<p><em>31 May 2025</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/tsea-2025/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards 2025</a></strong>
-</p>
-<p></p>
-<p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2025</strong> recipients!</p>
-<p></p>
-<p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
-and myriad contributions beyond the academics. This year, we honoured over
-2,000 deserving students and coaches/instructors across TP for excelling
-in their respective domains outside the classroom, and for their unstinting
-efforts in contributing to the vibrancy of our campus.</p>
-<p></p>
-<p>Check out the TSEA 2025 <strong>Roll of Honour </strong><a href="https://for.edu.sg/tsea2025rollofhonour" rel="noopener nofollow" target="_blank">here</a>!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35_X_Challenge_Run_2025__Updated__1920px_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banners_Web_Banner_2_1920px_X_1080px.jpg">
 </div>
 <p><em>11 July 2025</em>
 </p>
@@ -57,6 +33,30 @@ adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!<
 as we commemorate Temasek Polytechnic’s <strong>35th anniversary</strong>.
 Be a part of this meaningful occasion as we run for a cause, and celebrate
 35 remarkable years of shaping lives and empowering futures together!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg">
+</div>
+<p><em>31 May 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tsea-2025/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards 2025</a></strong>
+</p>
+<p></p>
+<p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2025</strong> recipients!</p>
+<p></p>
+<p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
+and myriad contributions beyond the academics. This year, we honoured over
+2,000 deserving students and coaches/instructors across TP for excelling
+in their respective domains outside the classroom, and for their unstinting
+efforts in contributing to the vibrancy of our campus.</p>
+<p></p>
+<p>Check out the TSEA 2025 <strong>Roll of Honour </strong><a href="https://for.edu.sg/tsea2025rollofhonour" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
 </td>
 </tr>
