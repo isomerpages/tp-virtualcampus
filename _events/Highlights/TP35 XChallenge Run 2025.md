@@ -20,8 +20,8 @@ futures together.</p>
 <p><strong><u>Event Details</u></strong>
 </p>
 <p><strong>📅 </strong>11 July 2025 (Friday)</p>
-<p><strong>🕐 </strong>3.30pm onwards (Run) | 5pm onwards (Refreshments &amp;
-Games) | 5.30pm onwards (Concert)</p>
+<p><strong>🕐 </strong>3.30pm onwards (Run) | 4.15pm onwards (Refreshments
+&amp; Games) | 5.45pm onwards (Concert)</p>
 <p><strong>📍 </strong>TP Sports Complex</p>
 <p><strong><u>Update</u></strong>
 </p>
