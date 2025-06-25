@@ -23,8 +23,9 @@ sections:
             campus!
           url: ""
       title: TP Virtual Campus
-      subtitle: Your one-stop hub for all Temasek Polytechnic happenings
+      subtitle: Your One-stop Hub for All Temasek Polytechnic Happenings!
       background: /images/Home/virtual_backgrounds-01-v3.jpg
+      variant: center
   - infopic:
       title: TP35 X-Challenge Run 2025
       subtitle: RUN FOR A CAUSE!
