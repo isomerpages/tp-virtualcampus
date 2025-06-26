@@ -4,7 +4,11 @@ title: TP Virtual Campus
 description: The TP Virtual Campus is home to student activities from all across TP!
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information on how to protect yourself against scams, please visit
+  www.scamshield.gov.sg
 sections:
   - hero:
       key_highlights:
@@ -23,8 +27,9 @@ sections:
             campus!
           url: ""
       title: TP Virtual Campus
-      subtitle: Your one-stop hub for all Temasek Polytechnic happenings
+      subtitle: Your One-stop Hub for All Temasek Polytechnic Happenings!
       background: /images/Home/virtual_backgrounds-01-v3.jpg
+      variant: center
   - infopic:
       title: TP35 X-Challenge Run 2025
       subtitle: RUN FOR A CAUSE!
