@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP35 X-Challenge Run 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP35_X_Challenge_Run_2025_1920px_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banners_Web_Banner_2_1920px_X_1080px__Updated_1_Jul_2_.jpg">
 </div>
 <h4><strong>Run for a Cause. Stay for the Vibes!</strong></h4>
 <p>This July, get ready to lace up your running shoes and gear up for an
@@ -20,7 +20,7 @@ futures together.</p>
 <p><strong><u>Event Details</u></strong>
 </p>
 <p><strong>📅 </strong>11 July 2025 (Friday)</p>
-<p><strong>🕐 </strong>3.30pm onwards (Run) | 4.45pm onwards (Refreshments
+<p><strong>🕐 </strong>3.00pm onwards (Run) | 4.30pm onwards (Refreshments
 &amp; Games) | 5.45pm onwards (Concert)</p>
 <p><strong>📍 </strong>TP Sports Complex</p>
 <p><strong><u>Update</u></strong>
