@@ -236,11 +236,20 @@ in this exciting month of unity, pride and celebration!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In celebration of National Day, a sculpture-making competition will be
-held for ASC freshmen. Students will be organised into “Houses”, where
-they will fabricate their own sculptures using recycled materials to showcase
-their vision of Singapore. These works of art will be exhibited in ASC
-throughout the month of <strong>August 2024</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ASC will organise an SG60-themed <strong>Bingo Challenge</strong> for students,
+who will form teams of four to explore different parts of Singapore. Participants
+will complete various fun and engaging activities that involve photography,
+filming, writing and interviewing, with the aim of fostering a deeper appreciation
+of Singapore’s peoples, heritage and cultures among students.</p>
+</li>
+<li>
+<p><strong>9 Aug:</strong> The <strong>top three</strong> winning teams will
+be announced on the <strong><a href="https://www.instagram.com/tp_asc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">ASC Instagram</a></strong> page,
+with each team member receiving a $10 Starbucks gift card.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
