@@ -203,9 +203,8 @@ perspective!</p>
 <p><strong>Military Defence</strong> is a pivotal pillar of our <strong>Total Defence</strong> as
 a nation. In conjunction with TP’s NDC 2025, the <strong>23rd Battalion, Singapore Artillery (23SA)</strong> is
 bringing its state-of-the-art <strong>High Mobility Artillery Rocket System (HIMARS)</strong> right
-to the Triangular Gardens. Don’t miss the incredible opportunity to view
-this spectacular display up close, capture lots of Instagram-worthy moments,
-and tag <strong><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener nofollow" target="_blank">@temasekpoly</a></strong> to
+to the Triangular Gardens. Don’t miss the opportunity to view this spectacular
+display up close, capture lots of Instagram-worthy moments, and tag <strong><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener nofollow" target="_blank">@temasekpoly</a></strong> to
 share your experience with our TP family!</p>
 <p>And that’s not all! Explore interactive exhibits featuring small arms
 and field rations at The Plaza, and try your hand at a series of activities
