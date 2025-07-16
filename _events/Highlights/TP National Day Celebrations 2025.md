@@ -25,7 +25,7 @@ entertained with a vibrant <strong>Racial Harmony Day Carnival</strong>,
 an interactive <strong>SAF60 Travelling Exhibition</strong>, an impressive <strong>military defence display </strong>by
 the 23SA, an immersive <strong>gamified showcase</strong> by the RSAF, as
 well as engaging <strong>fitness-themed challenges</strong> – and many more!</p>
-<p>TP’s NDC 2025 will culminate in our <strong>National Day Concert 2025: “Confirm Can One!”</strong>,
+<p>TP’s NDC 2025 will culminate in our <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025 - "Confirm Can One!"</a></strong>,
 specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>.
 Staged in a dynamic theatrical game show format for the first time, this
 electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
