@@ -20,7 +20,7 @@ exciting <strong>theatrical game show</strong> format, staged for the first
 time in this special SG60 and TP35 year!</p>
 <p>Experience a captivating blend of <strong>storytelling</strong>, challenge
 yourself with <strong>fun and interactive games</strong> inspired by our
-nation’s defining moments across different eras, and cheer on the <strong>vibrant performances</strong> presented
+nation’s defining moments, and cheer on the <strong>vibrant performances</strong> presented
 by our talented TP family. Cap off the festivities with a <strong>free post-concert lunch reception</strong>,
 where you will get to savour a spread of popular local hawker delicacies
 that will satisfy every craving!</p>
