@@ -216,7 +216,7 @@ resilience and fortitude together!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Celebrations in the Schools </strong>
+<summary><strong>Celebrations in the Schools</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Commemorate National Day with your respective Schools through a series
