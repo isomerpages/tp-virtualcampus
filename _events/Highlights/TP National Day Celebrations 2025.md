@@ -100,6 +100,36 @@ while stocks last!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>SAF60 Travelling Exhibition – “Defending Our Home, Securing Our Future”</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/SAF60_Travelling_Exhibition__Defence_Collective_Singapore_.png">
+</div>
+<p><em>(Photo Credit: </em><a href="https://www.defencecollectivesg.com/saf60-sdc-2025/" rel="noopener nofollow" target="_blank">Defence Collective Singapore</a><em>)</em>
+</p>
+<p>📅 4-7 August 2025</p>
+<p>🕑 10.00am to 5.00pm</p>
+<p>📍 School of Business Concourse (Entrance)</p>
+<p>In conjunction with SG60, the Singapore Armed Forces (SAF) invites you
+to celebrate the 60th anniversary of its inception with the <strong>SAF60 Travelling Exhibition</strong> –
+“<strong>Defending Our Home, Securing Our Future</strong>”!</p>
+<p>This dynamic exhibition showcases six decades of SAF’s transformative
+journey, chronicling its humble beginnings to the modern, technologically
+advanced fighting force it is today. Discover the vital role played by
+the SAF in safeguarding Singapore’s sovereignty, security and future, and
+explore how it continues to evolve and innovate amid an ever-changing and
+volatile world.</p>
+<p>Besides fascinating exhibits, you can learn more about the SAF through
+compelling human-interest stories and the personal experiences of generations
+of servicemen / women who have contributed to Singapore’s defence. Plus,
+gear up for an interesting interactive game, where you can stand a chance
+to score exclusive collectibles!</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Broadcast of National Day Songs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -132,23 +162,6 @@ Hammer. Plus, fantastic prizes are up for grabs!</p>
 <p>Bringing you a consummate blend of strength, agility and fun, this event
 invites you to break a sweat, destress before the exams, and honour 60
 years of Singapore’s resilience – all in one exhilarating heartbeat!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>PFP National Day Captain’s Ball Games (6-8 Aug 2024)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Captain’s Ball is a team sport that facilitates teamwork and inclusivity,
-as well as promotes a sense of community spirit amongst its players. As
-part of their <strong>Fitness &amp; Wellness</strong> lessons, students from
-the <strong>Polytechnic Foundation Programme </strong>will have the opportunity
-to celebrate National Day (ND) through their very own ND-themed <strong>Captain’s Ball Games</strong>!</p>
-<p></p>
-<p>Students will also be encouraged to don national colours (red/white) as
-they sweat it out on the court in the name of sporting fun, with prizes
-awarded to the top two winning classes for each day!</p>
 </div>
 </details>
 </div>
@@ -331,6 +344,7 @@ staff and students to celebrate National Day together.</p>
 </details>
 </div>
 <hr>
+<p></p>
 <h3><strong>TP National Day Concert 2024</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
