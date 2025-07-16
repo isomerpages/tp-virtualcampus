@@ -115,24 +115,23 @@ your friends grooving to the rhythm. Let’s make this celebration unforgettable
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>TD40 Exhibition (5-8 Aug 2024)</strong>
+<summary><strong>Valor in a Heartbeat</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TD40_Logo__JPEG___1_.jpg">
-</div>
-<p>This year marks 40 years of Total Defence (TD) in Singapore since its
-inception in 1984. In support of this milestone, a <strong>TD40 Exhibition</strong> will
-be displayed at the TP Library to reinforce the key messages underlying
-the importance of TD.&nbsp;</p>
-<p></p>
-<p>This exhibition invites you to take your first step on your own hero’s
-journey. Whether you are a hero to one or 100, no part played is too small.
-Unravel your response when faced with new threats and your role in the
-Singapore Story!</p>
-<p></p>
-<p><strong>📅&nbsp;</strong>5-8 Aug 2024</p>
-<p><strong>📍&nbsp;</strong>TP Library, Level 2</p>
+<p>[Insert eDM here]</p>
+<p>📅 5-6 August 2025</p>
+<p>🕑 XXXXX</p>
+<p>📍 The Plaza</p>
+<p>Join us in celebrating SG60 at this adrenaline-pumping fitness event like
+no other!</p>
+<p>Unleash your strength, passion and spirit through a series of electrifying
+game stations. Test your limits with 60-second challenges – see how many
+burpees or push-ups you can do! Take on timed events like tyre-flipping,
+or battle it out at gamified booths such as Punching Machine and King of
+Hammer. Plus, fantastic prizes are up for grabs!</p>
+<p>Bringing you a consummate blend of strength, agility and fun, this event
+invites you to break a sweat, destress before the exams, and honour 60
+years of Singapore’s resilience – all in one exhilarating heartbeat!</p>
 </div>
 </details>
 </div>
