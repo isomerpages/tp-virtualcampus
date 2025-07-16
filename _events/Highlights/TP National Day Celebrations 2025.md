@@ -34,7 +34,8 @@ history. Let’s unite in solidarity for this grand finale – both as proud
 Singaporeans and as one TP family!</p>
 <p>With endless fervour, boundless fun and unstoppable energy all round,
 come be part of the action at NDC 2025 and experience the vibrant campus
-spirit that makes TP truly special. See you there!</p>
+spirit that makes TP truly special.</p>
+<p>See you there!</p>
 <hr>
 <h3><strong>NDC 2025: Fringe Activities</strong></h3>
 <p>Dive into an exciting host of fringe activities for NDC 2025 – organised
