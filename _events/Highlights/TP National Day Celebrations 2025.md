@@ -47,6 +47,7 @@ just for you and happening right here on campus. Let’s celebrate Singapore’s
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅 July &amp; August 2025
 <br>📍 Campus-wide</p>
+<p></p>
 <p>Be a proud Singaporean on our beautiful campus! Immerse yourself in the
 National Day spirit through the stunning festive displays and colourful
 décor all around TP, as part of our heartfelt tribute to Singapore on its
@@ -79,7 +80,25 @@ décor all around TP, as part of our heartfelt tribute to Singapore on its
 </tr>
 </tbody>
 </table>
+<p>📅 16 July 2025 (Wednesday)</p>
+<p>🕑 10.00am to 4.00pm
+<br>📍 The Plaza</p>
 <p></p>
+<p>Let’s celebrate Singapore’s rich tapestry of cultures, vibrancy and spirit!
+This event is brought to you by the <strong><a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener noreferrer nofollow" target="_blank">LEAD Ambassadors</a>, </strong>in
+collaboration with the <strong><a href="https://www.instagram.com/tpsuonline" rel="noopener noreferrer nofollow" target="_blank">Students’ Union</a></strong>, <strong><a href="https://www.instagram.com/tpisg" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a></strong>, <strong><a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener noreferrer nofollow" target="_blank">Global Ambassadors (Engineering)</a></strong>, <strong><a href="https://www.instagram.com/designstudiesclub" rel="noopener noreferrer nofollow" target="_blank">Design Studies Club</a></strong>, <strong><a href="https://www.instagram.com/tpec.enspire/" rel="noopener noreferrer nofollow" target="_blank">Entrepreneurship Club</a></strong>,
+and <strong><a href="https://www.instagram.com/tp_mindsports" rel="noopener noreferrer nofollow" target="_blank">TP Mind Sports</a></strong>.</p>
+<p>&nbsp;</p>
+<p>Featuring an engaging line-up of heritage game booths curated by our talented
+student groups, be sure to try your hand at exciting activities such as
+Chinese Chess, Mancala, Henna Art, and many more. What’s more, you can
+take part in these activities while enjoying entertaining live performances
+presented by <strong><a href="https://www.instagram.com/tpmusicvox" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a></strong> and <strong><a href="https://www.instagram.com/tpchineseorchestra/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a></strong>!</p>
+<p>&nbsp;</p>
+<p>That’s not all – look forward to a delish ensemble of free snacks like
+hot dogs, Thai milk tea, popcorn, candy floss and sliced ice cream – redeemable
+after completing the booth activities. Remember to grab your favourites
+while stocks last!</p>
 </div>
 </details>
 </div>
