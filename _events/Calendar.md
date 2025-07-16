@@ -29,10 +29,9 @@ together.</p>
 <p></p>
 <p>This August, we invite you to ignite your patriotic spirit and join us
 at TP’s very own <strong>National Day Celebrations (NDC) 2025</strong>!
-Look forward to a diverse array of exciting activities, brought to life
-by our Schools, CCAs/Clubs and partners. Be entertained with an interactive <strong>SAF60 Travelling Exhibition</strong>,
-an impressive <strong>military defence display </strong>by the 23SA, an
-immersive <strong>gamified showcase</strong> by the RSAF – and many more!</p>
+Look forward to a diverse array of activities, brought to life by our Schools,
+CCAs/Clubs and partners. Come be part of the exciting action and experience
+our vibrant campus spirit!</p>
 <p></p>
 </td>
 </tr>
