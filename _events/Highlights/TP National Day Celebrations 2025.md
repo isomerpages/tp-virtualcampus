@@ -6,25 +6,35 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>TP National Day Celebrations 2025</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg">
-</div>
-<p><strong><em>(Note: Thank you so much for your enthusiastic support of the TP National Day Celebrations 2024! If you missed the National Day Concert (NDC) and our exciting fringe activities this year, don't worry! Keep an eye out for our registration call and sign up early for the NDC next year to secure your seats. We can't wait to celebrate with you again!</em></strong>
-</p>
-<p><strong><em>Can't get enough? Catch the following recap highlights:</em></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><em><a href="https://www.instagram.com/p/C-aFKuEyS4F/?hl=en" rel="noopener nofollow" target="_blank">National Day Concert 2024</a></em></strong>
-</p>
-</li>
-<li>
-<p><strong><em><a href="https://www.instagram.com/p/C-c3n66S9mP/?hl=en&amp;img_index=1" rel="noopener nofollow" target="_blank">Military Defence Display by 23SA</a></em></strong>
-</p>
-</li>
-</ul>
-<p><strong><em>See you next year!)</em></strong>
-</p>
+<p>[Insert eDM here]</p>
+<p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
+It is a monumental milestone that honours our shared journey, unites the
+nation in collective pride, and inspires us to build an even brighter future
+together.</p>
+<p>This August, we invite you to ignite your patriotic spirit and join us
+at TP’s very own <strong>National Day Celebrations (NDC) 2025</strong>!
+Inspired by this year’s NDP theme, “<strong>Majulah Singapura</strong>,”
+our celebrations will embody Singapore’s enduring legacy and a powerful
+call for progress – one that has rallied generations to rise with courage,
+stand tall with strength, and soar to greater heights with unanimous hope
+and purpose.</p>
+<p>Alongside SG60, we are also celebrating TP’s <strong>35th anniversary (TP35)</strong> this
+year! The excitement will be doubled with a diverse array of activities,
+passionately brought to life by our Schools, CCAs/Clubs and partners. Be
+entertained with a vibrant <strong>Racial Harmony Day Carnival</strong>,
+an interactive <strong>SAF60 Travelling Exhibition</strong>, an impressive <strong>military defence display</strong>,
+an immersive <strong>gamified showcase</strong> by the RSAF, as well as engaging <strong>fitness-themed challenges</strong> –
+and many more!</p>
+<p>TP’s NDC 2025 will culminate in our <strong>National Day Concert 2025: “Confirm Can One!”</strong>,
+specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>.
+Staged in a dynamic <strong>theatrical game show</strong> format for the
+first time, this electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
+promising a memorable journey for audiences through Singapore’s evolving
+history. Let’s <strong>unite in solidarity</strong> for this grand finale
+– both as proud Singaporeans and as one TP family!</p>
+<p>With endless fervour, boundless fun and unstoppable energy all round,
+come be part of the action at NDC 2025 and experience the vibrant campus
+spirit that makes TP truly special. See you there!</p>
 <hr>
 <h3><strong>NDC 2024: Fringe Activities</strong></h3>
 <p>Kickstart your celebrations on campus and engage in a rousing line-up
