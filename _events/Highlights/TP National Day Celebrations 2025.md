@@ -319,18 +319,10 @@ share on DES social media platforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>8 Aug:</strong> The ENG Studies Club will organise a National Day
-Carnival for the ENG community, featuring game booths, karaoke/broadcasting
-of National Day songs, and video dedications to showcase their well wishes
-for Singapore.</p>
-</li>
-<li>
-<p><strong>8 Aug: </strong>ENG staff/students are encouraged to celebrate
-National Day together by coming to campus in red/white attire.</p>
-</li>
-</ul>
+<p><strong>16 Jul:</strong> Students will be encouraged to participate in
+a “<strong>Harmony Hand</strong>” mural activity at the ENG concourse,
+where they can contribute handprints and/or messages as a pledge to the
+treasured values of <strong>racial harmony</strong>, <strong>teamwork </strong>and <strong>collaboration</strong>.</p>
 </td>
 </tr>
 <tr>
