@@ -293,8 +293,24 @@ local favourites will also be hosted for staff to enjoy.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 Aug: </strong>DES staff/students are encouraged to celebrate
-National Day together by coming to campus in red/white attire.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>First Week of Aug:</strong> The “<strong>DES BIG STEPS</strong>”
+will be decorated with red/white balloons to create a celebratory atmosphere
+for staff and students.</p>
+</li>
+<li>
+<p><strong>8 Aug:</strong> A <strong>red-and-white themed breakfast</strong> will
+be hosted for staff, while water-based tattoos will be distributed for
+students to enjoy.</p>
+</li>
+<li>
+<p><strong>8 Aug: </strong>The DES community will be encouraged to wear red/white
+to celebrate National Day. Student photographers / videographers will also
+capture these <strong>joyful moments</strong> and <strong>event highlights</strong> to
+share on DES social media platforms.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
