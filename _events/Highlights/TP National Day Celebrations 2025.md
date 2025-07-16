@@ -104,8 +104,8 @@ while stocks last!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅 4-8 August 2025</p>
-<p>🕑 12.00pm to 2.00pm
-<br>📍 The Plaza</p>
+<p>🕑 12.00pm to 2.00pm</p>
+<p>📍 The Plaza</p>
 <p>What’s a birthday celebration for Singapore without our timeless National
 Day classics? Sing along to your favourite songs, enjoy these iconic tunes
 echoing across campus, and get creative by filming a TikTok video with
