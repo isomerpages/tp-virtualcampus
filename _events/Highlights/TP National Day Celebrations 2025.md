@@ -104,55 +104,6 @@ while stocks last!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>TP Waterfront X-Challenge Run x Temasek Tides Concert 2024 (26 Jul 2024)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banner_2__Virtual_Campus_Homepage___Inner_Page__TP_Oei___BUS_Video_Wall__FA_copy.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Tides_EDM_01_01_01_01.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p>Get ready to lace up your running shoes and join us at the&nbsp;<strong><a href="https://virtualcampus.tp.edu.sg/tp-waterfront-xchallenge-run-2024/" rel="noopener noreferrer nofollow" target="_blank">TP Waterfront X-Challenge Run 2024</a></strong>,
-which promises an experience filled with excitement, action, and plenty
-of fun!</p>
-<p></p>
-<p><strong>📅&nbsp;</strong>26 Jul 2024 (Friday)</p>
-<p><strong>🕐&nbsp;</strong>4pm (Registration) | 5pm (Leisure Run) | 5pm
-(Competitive Run) | 6pm (Concert)</p>
-<p><strong>📍&nbsp;</strong>Temasek Polytechnic Stadium &amp; Bedok Reservoir</p>
-<p></p>
-<p>In support of this exciting event, the Temasek Arts Centre proudly presents
-a brand-new initiative – <strong><a href="https://virtualcampus.tp.edu.sg/temasek-tides-concert-2024/" rel="noopener noreferrer nofollow" target="_blank">Temasek Tides Concert 2024</a></strong>.
-Whether you are running or not, it is your ticket to a memorable evening
-of <strong>captivating performances</strong>, <strong>free hawker treats</strong>,
-and a celebratory <strong>mass sing-along session</strong> (National Anthem
-and TP Song) for everyone!</p>
-<p></p>
-<p>So grab your friends and loved ones, let loose, and psych up for an amazing
-evening on campus – the perfect way to kickstart your National Day celebrations!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Broadcast of National Day Songs on RadioActive (Aug 2024)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
