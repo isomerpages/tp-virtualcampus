@@ -31,6 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: TP National Day Celebrations 2025
+      subtitle: UNLEASH THE FESTIVITIES!
+      id: infopic
+      description: Get ready to ignite your patriotic spirit! Join us in celebration
+        of SG60 with an electrifying array of activities, happening right on
+        campus!
+      button: EXPLORE THE BUZZ!
+      url: /tp-national-day-celebrations-2025/
+      alt: Image alt text
+  - infopic:
       title: TP35 X-Challenge Run 2025
       subtitle: RUN FOR A CAUSE!
       id: infopic
