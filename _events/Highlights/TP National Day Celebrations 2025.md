@@ -216,13 +216,13 @@ resilience and fortitude together!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Celebrations in the Schools (Aug 2024)</strong>
+<summary><strong>Celebrations in the Schools </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Commemorate National Day with your respective Schools through an array
-of meaningful activities – reflecting both your distinctive <strong>School spirit</strong> and
-our <strong>collective love and aspirations for Singapore</strong> – over
-the month of August! &nbsp;</p>
+<p>Commemorate National Day with your respective Schools through a series
+of meaningful activities in August. Show off your distinctive <strong>school spirit</strong> and
+share your collective <strong>love and aspirations</strong> for Singapore
+in this exciting month of unity, pride and celebration!</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
