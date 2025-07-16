@@ -60,7 +60,26 @@ décor all around TP, as part of our heartfelt tribute to Singapore on its
 <summary><strong>Racial Harmony Day Carnival 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/RHD_IG_POST_PAGE_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/RHD_IG_POST_PAGE_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Celebrate Singapore’s vibrant tapestry of cultures with a day full of
 fun, learning and unity! This exciting event is organised by the <a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener noreferrer nofollow" target="_blank">LEAD Ambassadors</a> in
 collaboration with the <a href="https://www.instagram.com/tpsuonline/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Students' Union</a>,
