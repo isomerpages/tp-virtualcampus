@@ -331,10 +331,27 @@ treasured values of <strong>racial harmony</strong>, <strong>teamwork </strong>a
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Aug (Date TBC):</strong> Organised by the HSS Studies Club, HSS
-staff/students are encouraged to participate in the <strong>#HSSDressUpDay</strong> in
-National Day-themed colours (red/white). Photos of them in their creative
-outfits will also be shared on HSS’ social media channels (Facebook, LinkedIn).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>14-21 Jul:</strong> HSS will organise a “<strong>Racial Harmony (RH) Day</strong>  <strong>Dress-Up Challenge</strong>”
+with prizes up for grabs (<strong>16 Jul</strong>). Educational and commemorative
+RH-related content will also be shared via social media (<strong>14–21 Jul</strong>).</p>
+</li>
+<li>
+<p><strong>8 Aug: </strong>The HSS community will be encouraged to participate
+in a creative red-and-white themed “<strong>Dress-Up Challenge</strong>”,
+with prizes to be won for the best-dressed participants.</p>
+</li>
+<li>
+<p><strong>8-9 Aug:</strong> Animated banners and celebratory posts will be
+shared on HSS <strong><a href="https://www.instagram.com/tp.hss/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong> and <strong><a href="https://www.linkedin.com/company/tp-hss/about/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a></strong> pages.</p>
+</li>
+<li>
+<p><strong>8-9 Aug: </strong>The HSS community will be encouraged to share
+their <strong>National Day tributes</strong> and <strong>well wishes</strong> for
+Singapore on HSS social media platforms.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -343,9 +360,10 @@ outfits will also be shared on HSS’ social media channels (Facebook, LinkedIn)
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7 Aug:</strong> The IIT Studies Club will organise a National Day-themed <strong>“IIT Friendship Day”</strong> for
-the IIT community, featuring carnival-style games/activities, for both
-staff and students to celebrate National Day together.</p>
+<p><strong>First Week of Aug:</strong> The IIT Studies Club will organise
+its annual <strong>“IIT Friendship Day x National Day Celebration”</strong>,
+featuring nostalgic games/activities for both staff and students to enjoy
+and mark National Day together.</p>
 </td>
 </tr>
 </tbody>
