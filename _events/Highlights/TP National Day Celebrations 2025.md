@@ -36,9 +36,25 @@ Singaporeans and as one TP family!</p>
 come be part of the action at NDC 2025 and experience the vibrant campus
 spirit that makes TP truly special. See you there!</p>
 <hr>
-<h3><strong>NDC 2024: Fringe Activities</strong></h3>
-<p>Kickstart your celebrations on campus and engage in a rousing line-up
-of National Day-themed activities, organised just for you!</p>
+<h3><strong>NDC 2025: Fringe Activities</strong></h3>
+<p>Dive into an exciting host of fringe activities for NDC 2025 – organised
+just for you and happening right here on campus. Let’s celebrate Singapore’s
+60th birthday with pride and in style!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Campus National Day Decorations </strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅 July &amp; August 2025
+<br>📍 Campus-wide</p>
+<p></p>
+<p>Be a proud Singaporean on our beautiful campus! Immerse yourself in the
+National Day spirit through the stunning festive displays and colourful
+décor all around TP, as part of our heartfelt tribute to Singapore on its
+60th birthday.</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Racial Harmony Day Carnival 2024 (25 Jul 2024)</strong>
@@ -126,18 +142,6 @@ and TP Song) for everyone!</p>
 <p></p>
 <p>So grab your friends and loved ones, let loose, and psych up for an amazing
 evening on campus – the perfect way to kickstart your National Day celebrations!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Campus National Day Decorations (Aug 2024)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Be a proud Singaporean on our beautiful campus! Soak up the National Day
-vibes and be greeted by a colourful display of national flags and décor
-around The Plaza (and other locations in TP), in a special show of solidarity
-and support for our nation.</p>
 </div>
 </details>
 </div>
