@@ -19,16 +19,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/events/cca-fair-2025/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2025</a></strong>
+<p><strong><a href="/tp-national-day-celebrations-2025/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2025</a></strong>
 </p>
 <p></p>
-<p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
-Maximise your fun.
-<br>
-<br>Calling all Freshies - life as a TP student can be as exciting, engaging
-and empowering as you want it to be! Join us at the <strong>CCA Fair 2025</strong> and
-dive into a world of thrilling opportunities offered in TP to realise your
-full potential. Mark your calendar now!</p>
+<p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
+It is a monumental milestone that honours our shared journey, unites the
+nation in collective pride, and inspires us to build an even brighter future
+together.</p>
+<p></p>
+<p>This August, we invite you to ignite your patriotic spirit and join us
+at TP’s very own <strong>National Day Celebrations (NDC) 2025</strong>!
+Look forward to a diverse array of activities, brought to life by our Schools,
+CCAs/Clubs and partners. Be entertained with a vibrant <strong>Racial Harmony Day Carnival</strong>,
+an interactive <strong>SAF60 Travelling Exhibition</strong>, an impressive <strong>military defence display </strong>by
+the 23SA, an immersive <strong>gamified showcase</strong> by the RSAF, as
+well as engaging <strong>fitness-themed challenges</strong> – and many more!</p>
 <p></p>
 </td>
 </tr>
@@ -40,6 +45,16 @@ full potential. Mark your calendar now!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2025</a></strong>
+</p>
+<p></p>
+<p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
+Maximise your fun.
+<br>
+<br>Calling all Freshies - life as a TP student can be as exciting, engaging
+and empowering as you want it to be! Join us at the <strong>CCA Fair 2025</strong> and
+dive into a world of thrilling opportunities offered in TP to realise your
+full potential. Mark your calendar now!</p>
 <p></p>
 </td>
 </tr>
