@@ -47,15 +47,14 @@ immersive <strong>gamified showcase</strong> by the RSAF – and many more!</p>
 <p><strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">TP National Day Concert 2025</a></strong>
 </p>
 <p></p>
-<p>TP’s NDC 2025 will culminate in our <strong>National Day Concert 2025 – “Confirm Can One!”</strong>,
+<p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2025 – “Confirm Can One!”</strong>,
 specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
 Staged in a dynamic <strong>theatrical game show</strong> format for the
 first time, this electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
 promising a memorable journey for audiences through Singapore’s evolving
 history.</p>
 <p></p>
-<p>Let’s <strong>unite in solidarity</strong> for this grand finale – both
-as proud Singaporeans and as one TP family!</p>
+<p>Let’s unite in celebration and make unforgettable memories as a TP family!</p>
 <p></p>
 </td>
 </tr>
