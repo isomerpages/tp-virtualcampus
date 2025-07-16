@@ -47,7 +47,6 @@ just for you and happening right here on campus. Let’s celebrate Singapore’s
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅 July &amp; August 2025
 <br>📍 Campus-wide</p>
-<p></p>
 <p>Be a proud Singaporean on our beautiful campus! Immerse yourself in the
 National Day spirit through the stunning festive displays and colourful
 décor all around TP, as part of our heartfelt tribute to Singapore on its
@@ -80,36 +79,7 @@ décor all around TP, as part of our heartfelt tribute to Singapore on its
 </tr>
 </tbody>
 </table>
-<p>Celebrate Singapore’s vibrant tapestry of cultures with a day full of
-fun, learning and unity! This exciting event is organised by the <a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener noreferrer nofollow" target="_blank">LEAD Ambassadors</a> in
-collaboration with the <a href="https://www.instagram.com/tpsuonline/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Students' Union</a>,
-<a href="https://www.instagram.com/tpisg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a>, <a href="https://www.instagram.com/designstudiesclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Design Studies Club</a>,
-<a href="https://www.instagram.com/tpeng_sa/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Engineering Student Ambassadors</a>, and <a href="https://www.instagram.com/tp_mindsports/" rel="noopener noreferrer nofollow" target="_blank">TP Mind Sports</a>.</p>
 <p></p>
-<p>📅 25 Jul 2024 (Thursday)</p>
-<p>🕑 10.00am to 4.00pm</p>
-<p>📍 The Plaza</p>
-<p></p>
-<p><strong>How to Participate:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Register:</strong> Start at the registration booth to get your
-Carnival Coupon.</p>
-</li>
-<li>
-<p><strong>Play &amp; Enjoy:</strong> Visit each booth, participate in the
-activities, and collect stamps on your coupon.</p>
-</li>
-<li>
-<p><strong>Redeem:</strong> Use the stamps on your coupon to redeem free treats,
-such as sliced ice cream and candy floss!</p>
-</li>
-</ul>
-<p></p>
-<p>That’s not all – enjoy a <strong>free lunch</strong> on us right after you
-register<strong> (while stocks last)</strong>. Indulge in delicious hotdog
-buns and refreshing Thai milk tea as you partake in all the fun games!</p>
 </div>
 </details>
 </div>
