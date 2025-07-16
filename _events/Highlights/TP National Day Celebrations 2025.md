@@ -150,7 +150,6 @@ your friends grooving to the rhythm. Let’s make this celebration unforgettable
 <div data-type="detailsContent" class="isomer-details-content">
 <p>[Insert eDM here]</p>
 <p>📅 5-6 August 2025</p>
-<p>🕑 XXXXX</p>
 <p>📍 The Plaza</p>
 <p>Join us in celebrating SG60 at this adrenaline-pumping fitness event like
 no other!</p>
