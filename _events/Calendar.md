@@ -45,16 +45,18 @@ well as engaging <strong>fitness-themed challenges</strong> – and many more!</
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2025</a></strong>
+<p><strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">TP National Day Concert 2025</a></strong>
 </p>
 <p></p>
-<p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
-Maximise your fun.
-<br>
-<br>Calling all Freshies - life as a TP student can be as exciting, engaging
-and empowering as you want it to be! Join us at the <strong>CCA Fair 2025</strong> and
-dive into a world of thrilling opportunities offered in TP to realise your
-full potential. Mark your calendar now!</p>
+<p>TP’s NDC 2025 will culminate in our <strong>National Day Concert 2025 – “Confirm Can One!”</strong>,
+specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
+Staged in a dynamic <strong>theatrical game show</strong> format for the
+first time, this electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
+promising a memorable journey for audiences through Singapore’s evolving
+history.</p>
+<p></p>
+<p>Let’s <strong>unite in solidarity</strong> for this grand finale – both
+as proud Singaporeans and as one TP family!</p>
 <p></p>
 </td>
 </tr>
