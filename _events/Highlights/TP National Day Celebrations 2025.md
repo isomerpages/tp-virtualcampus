@@ -100,13 +100,16 @@ while stocks last!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Broadcast of National Day Songs on RadioActive (Aug 2024)</strong>
+<summary><strong>Broadcast of National Day Songs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>What’s a birthday celebration without the playing of evergreen National
-Day hits? Sing along to your favourite songs and be regaled with these
-tunes on campus via RadioActive, and even film a viral TikTok video of
-you and your friends grooving to the beat!</p>
+<p>📅 4-8 August 2025</p>
+<p>🕑 12.00pm to 2.00pm
+<br>📍 The Plaza</p>
+<p>What’s a birthday celebration for Singapore without our timeless National
+Day classics? Sing along to your favourite songs, enjoy these iconic tunes
+echoing across campus, and get creative by filming a TikTok video with
+your friends grooving to the rhythm. Let’s make this celebration unforgettable!</p>
 </div>
 </details>
 </div>
