@@ -194,9 +194,26 @@ perspective!</p>
 <summary><strong>Military Defence Display by 23SA</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/HIRMAS.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/487105864_1081179224054867_8949058529537291116_n.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>📅<strong>&nbsp;</strong>8 Aug 2025 (Friday)</p>
 <p>🕑 8.30am to 2pm</p>
 <p>📍<strong>&nbsp;</strong>Triangular Gardens &amp; The Plaza</p>
