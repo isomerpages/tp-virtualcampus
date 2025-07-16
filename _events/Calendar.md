@@ -28,10 +28,10 @@ nation in collective pride, and inspires us to build an even brighter future
 together.</p>
 <p></p>
 <p>This August, we invite you to ignite your patriotic spirit and join us
-at TP’s very own <strong>National Day Celebrations (NDC) 2025</strong>!
-Look forward to a diverse array of activities, brought to life by our Schools,
-CCAs/Clubs and partners. Come be part of the exciting action and experience
-our vibrant campus spirit!</p>
+at TP’s very own <strong>National Day Celebrations 2025</strong>! Look forward
+to a diverse array of activities, brought to life by our Schools, CCAs/Clubs
+and partners. Come be part of the exciting action and experience our vibrant
+campus spirit!</p>
 <p></p>
 </td>
 </tr>
