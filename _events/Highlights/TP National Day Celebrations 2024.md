@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP National Day Celebrations 2024</strong></h3>
+<h3><strong>TP National Day Celebrations 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/02_Virtual_Campus_Homepage___Inner_Page_1920_X_1080_02_02.jpg">
 </div>
