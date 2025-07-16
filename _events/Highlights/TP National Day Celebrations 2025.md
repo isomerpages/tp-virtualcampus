@@ -47,7 +47,6 @@ just for you and happening right here on campus. Let’s celebrate Singapore’s
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅 July &amp; August 2025
 <br>📍 Campus-wide</p>
-<p></p>
 <p>Be a proud Singaporean on our beautiful campus! Immerse yourself in the
 National Day spirit through the stunning festive displays and colourful
 décor all around TP, as part of our heartfelt tribute to Singapore on its
