@@ -376,8 +376,8 @@ and mark National Day together.</p>
 <p>📅 8 August 2025 (Friday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
-<p>Round up all these fantastic celebrations with TP’s very own <strong>National Day Concert 2025 – “Confirm Can One!”</strong> (include
-link to specific page on VC), specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>!</p>
+<p>Round up all these fantastic celebrations with TP’s very own <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025 - "Confirm Can One!"</a></strong>,
+specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>!</p>
 <p>Embark on a meaningful journey through the pivotal chapters of our nation’s
 60-year history. “<strong>Confirm Can One!</strong>” encapsulates the essence
 of the Singapore spirit and brings innovation to the next level with an
