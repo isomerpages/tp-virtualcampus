@@ -260,27 +260,29 @@ with each team member receiving a $10 Starbucks gift card.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Jul &amp; Aug:</strong>  <strong>“Wishes for SG”</strong> – BUS staff/students
-are encouraged to pen their well wishes for Singapore during the <strong>last two weeks of July</strong>,
-which will be displayed on the video wall located along the BUS Concourse
-throughout the month of <strong>August 2024</strong>.</p>
+<p><strong>Mid-Jul to End-Aug:</strong> The BUS concourse will be adorned
+with <strong>National Day-themed décor</strong>, complemented by a <strong>video montage</strong> featuring
+students posing with Singapore’s iconic landmarks and cultural symbols.</p>
 </li>
 <li>
-<p><strong>1-8 Aug: </strong>As a show of national pride, RadioActive will
-broadcast familiar National Day songs for the TP community’s enjoyment.</p>
+<p><strong>16 Jul:</strong> A “<strong>Makansutra</strong>” workshop will
+be held on Racial Harmony Day to promote staff bonding and celebrate Singapore’s
+rich food culture and culinary heritage.</p>
 </li>
 <li>
-<p><strong>1-8 Aug:</strong> To rally everyone’s spirits, the NDP 2024 song
-will be played on the video wall located along the BUS Concourse.</p>
+<p><strong>First Week of Aug:</strong> The NDP 2025 theme song, “<strong>Here We Are</strong>”,
+will be played on loop on the BUS concourse video wall, along with past
+NDP favourites.</p>
 </li>
 <li>
-<p><strong>7-8 Aug: </strong>BUS staff/students are encouraged to celebrate
-National Day together by coming to campus in red/white attire.</p>
+<p><strong>4-8 Aug:</strong> Red/white balloons will be distributed to staff
+and students, along with National Day-themed water tattoos, to mark Singapore’s
+60th birthday.</p>
 </li>
 <li>
-<p><strong>8 Aug:</strong> National Day-themed (red/white) helium balloons
-and removable tattoos will be distributed at the BUS Concourse to mark
-the special occasion.</p>
+<p><strong>7-8 Aug:</strong> The BUS community will be encouraged to wear
+red/white to celebrate National Day. A <strong>red-and-white themed lunch </strong>featuring
+local favourites will also be hosted for staff to enjoy.</p>
 </li>
 </ul>
 </td>
