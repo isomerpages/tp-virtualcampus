@@ -40,6 +40,7 @@ sections:
       button: EXPLORE THE BUZZ!
       url: /tp-national-day-celebrations-2025/
       alt: Image alt text
+      image: /images/Events/Highlights/NDP2025_Web_Banners_NDP_Web_Banner_1920px_X_1080px.jpg
   - infopic:
       title: "TP National Day Concert 2025: “Confirm Can One!”"
       subtitle: MAJULAH SINGAPURA!
