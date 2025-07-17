@@ -25,7 +25,7 @@ entertained with a vibrant <strong>Racial Harmony Day Carnival</strong>,
 an interactive <strong>SAF60 Travelling Exhibition</strong>, an impressive <strong>military defence display </strong>by
 the 23SA, an immersive <strong>gamified showcase</strong> by the RSAF, as
 well as engaging <strong>fitness-themed challenges</strong> – and many more!</p>
-<p>TP’s NDC 2025 will culminate in our <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025 - "Confirm Can One!"</a></strong>,
+<p>TP’s NDC 2025 will culminate in our <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025: "Confirm Can One!"</a></strong>,
 specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>.
 Staged in a dynamic theatrical game show format for the first time, this
 electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
@@ -389,14 +389,14 @@ and mark National Day together.</p>
 </details>
 </div>
 <hr>
-<h3><strong>TP National Day Concert 2025</strong></h3>
+<h3><strong>TP National Day Concert 2025: "Confirm Can One!"</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/National_Day_Concert_2025___1920px_by_1080px.png">
 </div>
 <p>📅 8 August 2025 (Friday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
-<p>Round up all these fantastic celebrations with TP’s very own <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025 - "Confirm Can One!"</a></strong>,
+<p>Round up all these fantastic celebrations with TP’s very own <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025: "Confirm Can One!"</a></strong>,
 specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>!</p>
 <p>Embark on a meaningful journey through the pivotal chapters of our nation’s
 60-year history. “<strong>Confirm Can One!</strong>” encapsulates the essence
