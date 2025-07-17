@@ -24,9 +24,9 @@ and purpose.</p>
 year! The excitement will be doubled with a diverse array of activities,
 passionately brought to life by our Schools, CCAs/Clubs and partners. Be
 entertained with a vibrant <strong>Racial Harmony Day Carnival</strong>,
-an interactive <strong>SAF60 Travelling Exhibition</strong>, an impressive <strong>military defence display </strong>by
-the 23SA, to immersive <strong>gamified missions</strong> by the RSAF – and
-many more!</p>
+an interactive <strong><a href="https://www.defencepioneer.sg/pioneer-articles/2apr25_news2" rel="noopener nofollow" target="_blank">SAF60 Travelling Exhibition</a></strong>,
+an impressive <strong>military defence display </strong>by the 23SA, to
+immersive <strong>gamified missions</strong> by the RSAF – and many more!</p>
 <p>TP’s NDC 2025 will culminate in our <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025: "Confirm Can One!"</a></strong>,
 specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>.
 Staged in a dynamic theatrical game show format for the first time, this
@@ -115,8 +115,7 @@ while stocks last!</p>
 <p>🕑 10.00am to 5.00pm</p>
 <p>📍 School of Business Concourse (Entrance)</p>
 <p>In conjunction with SG60, the Singapore Armed Forces (SAF) invites you
-to celebrate the 60th anniversary of its inception with the <strong>SAF60 Travelling Exhibition</strong> –
-“<strong>Defending Our Home, Securing Our Future</strong>”!</p>
+to celebrate the 60th anniversary of its inception with the <strong><a href="https://www.defencepioneer.sg/pioneer-articles/2apr25_news2" rel="noopener nofollow" target="_blank">SAF60 Travelling Exhibition – “Defending Our Home, Securing Our Future”</a></strong>!</p>
 <p>This dynamic exhibition showcases six decades of SAF’s transformative
 journey, chronicling its humble beginnings to the modern, technologically
 advanced fighting force it is today. Discover the vital role played by
