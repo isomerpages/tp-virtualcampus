@@ -37,7 +37,9 @@ campus spirit!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/National_Day_Concert_2025___1920px_by_1080px.png">
+</div>
 <p><em>8 August 2025</em>
 </p>
 <p></p>
