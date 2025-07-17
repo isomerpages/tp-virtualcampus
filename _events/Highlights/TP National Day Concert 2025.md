@@ -12,6 +12,8 @@ third_nav_title: Highlights
 <p>📅 8 August 2025 (Friday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
+<p>🎟️ Grab your tickets NOW: <strong><a href="https://for.edu.sg/ndc25staffstudents" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ndc25staffstudents</a></strong>
+</p>
 <p>Hey #TPFAM! Be a guest at our biggest party of the year and join us at
 TP’s very own <strong>National Day Concert 2025: “Confirm Can One!”</strong>,<strong> </strong>specially
 presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>!</p>
