@@ -41,7 +41,7 @@ sections:
       url: /tp-national-day-celebrations-2025/
       alt: Image alt text
   - infopic:
-      title: TP National Day Concert 2025 – “Confirm Can One!”
+      title: "TP National Day Concert 2025: “Confirm Can One!”"
       subtitle: MAJULAH SINGAPURA!
       id: infopic
       description: Be a guest at TP’s biggest concert, staged in a theatrical game
@@ -50,6 +50,7 @@ sections:
       button: GET READY!
       url: /tp-national-day-concert-2025/
       alt: Image alt text
+      image: /images/Events/National_Day_Concert_2025___1920px_by_1080px.png
   - infopic:
       title: TP35 X-Challenge Run 2025
       subtitle: RUN FOR A CAUSE!
