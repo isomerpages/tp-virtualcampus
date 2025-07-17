@@ -13,7 +13,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/NDP2025_Web_Banners_NDP_Web_Banner_1920px_X_1080px.jpg">
+</div>
 <p><em>July &amp; August 2025</em>
 </p>
 <p></p>
