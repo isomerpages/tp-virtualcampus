@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP National Day Concert 2025</strong></h3>
+<h3><strong>TP National Day Concert 2025: "Confirm Can One!"</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/National_Day_Concert_2025___1920px_by_1080px.png">
 </div>
@@ -13,7 +13,7 @@ third_nav_title: Highlights
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
 <p>Hey #TPFAM! Be a guest at our biggest party of the year and join us at
-TP’s very own <strong>National Day Concert 2025 – “Confirm Can One!”</strong>,<strong> </strong>specially
+TP’s very own <strong>National Day Concert 2025: “Confirm Can One!”</strong>,<strong> </strong>specially
 presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>!</p>
 <p>Embark on a meaningful journey through the pivotal chapters of our nation’s
 60-year history. “<strong>Confirm Can One!</strong>” encapsulates the essence
