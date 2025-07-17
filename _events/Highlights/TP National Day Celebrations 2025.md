@@ -134,7 +134,7 @@ to score exclusive collectibles!</p>
 <summary><strong>Broadcast of National Day Songs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>📅 4-8 August 2025</p>
+<p>📅 1-15 August 2025</p>
 <p>🕑 12.00pm to 2.00pm</p>
 <p>📍 The Plaza</p>
 <p>What’s a birthday celebration for Singapore without our timeless National
