@@ -32,9 +32,8 @@ specially presented by the <strong><a href="https://www.instagram.com/temasekart
 Staged in a dynamic theatrical game show format for the first time, this
 electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
 promising a memorable journey for audiences through Singapore’s evolving
-history. Enjoy your favourite local themes and songs, experience nostalgic
-moments, soak up the laughter, and feel all the good vibes you simply cannot
-miss!</p>
+history. Enjoy your favourite local themes and songs, soak up the nostalgic
+moments, and feel all the good vibes you simply cannot miss!</p>
 <p>With endless fervour, boundless fun and unstoppable energy all round,
 come be part of the action at NDC 2025 and catch the vibrant campus spirit
 that makes TP truly special.</p>
