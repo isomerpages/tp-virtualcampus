@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>TP National Day Concert 2025</strong></h3>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/National_Day_Concert_2025___1920px_by_1080px.png">
+</div>
 <p>📅 8 August 2025 (Friday)</p>
 <p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
