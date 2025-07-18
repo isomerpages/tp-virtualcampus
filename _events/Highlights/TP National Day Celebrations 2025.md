@@ -116,7 +116,7 @@ while stocks last!</p>
 <p>📍 School of Business Concourse (Entrance)</p>
 <p>In conjunction with SG60, the Singapore Armed Forces (SAF) invites you
 to celebrate the 60th anniversary of its inception with the <strong><a href="https://www.defencepioneer.sg/pioneer-articles/2apr25_news2" rel="noopener nofollow" target="_blank">SAF60 Travelling Exhibition – “Defending Our Home, Securing Our Future”</a></strong>!</p>
-<p>This dynamic exhibition showcases six decades of SAF’s transformative
+<p>This dynamic exhibition showcases six decades of the SAF’s transformative
 journey, chronicling its humble beginnings to the modern, technologically
 advanced fighting force it is today. Discover the vital role played by
 the SAF in safeguarding Singapore’s sovereignty, security and future, and
