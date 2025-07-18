@@ -225,10 +225,10 @@ bringing its state-of-the-art <strong>High Mobility Artillery Rocket System (HIM
 to the Triangular Gardens. Don’t miss the opportunity to view this spectacular
 display up close, capture lots of Instagram-worthy moments, and tag <strong><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener nofollow" target="_blank">@temasekpoly</a></strong> to
 share your experience with our TP family!</p>
-<p>And that’s not all! Explore interactive exhibits featuring small arms
-and field rations at The Plaza, and try your hand at a series of activities
-designed to engage and educate. Let’s honour Singapore’s military defence,
-resilience and fortitude together!</p>
+<p>And that’s not all! Explore exhibits featuring small arms and field rations
+at The Plaza, and interactive stations where you can try your hand at a
+series of engaging and educational activities. Let’s honour Singapore’s
+military defence and resilience together!</p>
 </div>
 </details>
 </div>
