@@ -226,8 +226,8 @@ to the Triangular Gardens. Don’t miss the opportunity to view this spectacular
 display up close, capture lots of Instagram-worthy moments, and tag <strong><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener nofollow" target="_blank">@temasekpoly</a></strong> to
 share your experience with our TP family!</p>
 <p>And that’s not all! Explore exhibits featuring small arms and field rations
-at The Plaza, and interactive stations where you can try your hand at a
-series of engaging and educational activities. Let’s honour Singapore’s
+at The Plaza, and visit interactive stations where you can try your hand
+at a series of engaging and educational activities. Let’s honour Singapore’s
 military defence and resilience together!</p>
 </div>
 </details>
