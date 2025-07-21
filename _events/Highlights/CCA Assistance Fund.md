@@ -197,12 +197,16 @@ the <strong>higher education government bursary</strong>.</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Qualifying, Application &amp; Disbursement Windows</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Qualifying, Application &amp; Disbursement Windows</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>First Window</u></strong>
 </p>
 <p></p>
@@ -234,10 +238,6 @@ between <strong>16 July to October 2025</strong>.</p>
 <p><strong>Disbursement Period:</strong> Around end-February 2026</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
