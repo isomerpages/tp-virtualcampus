@@ -13,7 +13,56 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/NDC_2025__General____1920px_by_1080px_V3.jpg">
+</div>
+<p><em>July &amp; August 2025</em>
+</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tp-national-day-celebrations-2025/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2025</a></strong>
+</p>
+<p></p>
+<p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
+It is a monumental milestone that honours our shared journey, unites the
+nation in collective pride, and inspires us to build an even brighter future
+together.</p>
+<p></p>
+<p>This August, we invite you to ignite your patriotic spirit and join us
+at TP’s very own <strong>National Day Celebrations 2025</strong>! Look forward
+to a diverse array of activities, brought to life by our Schools, CCAs/Clubs
+and partners. Come be part of the exciting action and experience our vibrant
+campus spirit!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/National_Day_Concert_2025___1920px_by_1080px.png">
+</div>
+<p><em>8 August 2025</em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">TP National Day Concert 2025: "Confirm Can One!"</a></strong>
+</p>
+<p></p>
+<p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2025: “Confirm Can One!”</strong>,
+specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
+Staged in a dynamic <strong>theatrical game show</strong> format for the
+first time, this electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
+promising a memorable journey for audiences through Singapore’s evolving
+history.</p>
+<p></p>
+<p>Let’s unite in celebration and make unforgettable memories as a TP family!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banners_Web_Banner_2_1920px_X_1080px__Updated_1_Jul_2_.jpg">
 </div>
