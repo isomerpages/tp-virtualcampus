@@ -254,8 +254,8 @@ the closing date for each window.</p>
 <li>
 <p>Staff advisors may also nominate deserving students who meet the funding
 eligibility criteria <strong><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUQUlJOEkyNVZVRklFVzQ5MTVXQUxaNktBSC4u" rel="noopener nofollow" target="_blank">here</a></strong>.
-The CCA AF Secretariat will then contact these students to encourage them
-to apply.</p>
+The CCA AF Secretariat will contact these students to encourage them to
+apply.</p>
 </li>
 </ul>
 </div>
