@@ -54,9 +54,11 @@ sections:
       image: /images/Events/National_Day_Concert_2025___1920px_by_1080px.png
   - infopic:
       title: CCA Assistance Fund
-      subtitle: KEEP YOUR CCA DREAMS ALIVE!
+      subtitle: PURSUE YOUR PASSION!
       id: infopic
-      description: Infopic description
+      description: This fund provides financial support for students to continue
+        meaningful CCA involvement at TP. Apply now to fuel your passion and
+        keep your CCA dreams alive!
       button: Apply Now!
       url: /cca-assistance-fund/
       image: /images/Events/Highlights/CCA_Assistance_Fund___1920px_by_1080px.png
