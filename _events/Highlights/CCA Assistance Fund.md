@@ -32,8 +32,8 @@ AF today!</p>
 vouchers, coaching fees, medical fees, and subscription fees.</p>
 </li>
 <li>
-<p>Two application periods per AY (end-Jul to early-Aug &amp; end-Oct to
-early-Nov)</p>
+<p>Two application periods per AY (end-July to early-August and end-October
+to early-November)</p>
 </li>
 <li>
 <p>$320 disbursed per student/AY</p>
@@ -214,13 +214,13 @@ the <strong>higher education government bursary</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Qualifying Period: </strong>Events/competitions should happen
-between <strong>15 April to 15 July 2024</strong>.</p>
+between<strong> April to 15 July 2025</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>8-15 August 2024</p>
+<p><strong>Application Period: </strong>28 July to 8 August 2025</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-November 2024</p>
+<p><strong>Disbursement Period:</strong> Around end-November 2025</p>
 </li>
 </ul>
 <p></p>
@@ -230,13 +230,13 @@ between <strong>15 April to 15 July 2024</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Qualifying Period: </strong>Events/competitions should happen
-between <strong>15 July to 10 November 2024</strong>.</p>
+between <strong>16 July to October 2025</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>14-24 November 2024</p>
+<p><strong>Application Period: </strong>27 October to 7 November 2025</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-February 2024</p>
+<p><strong>Disbursement Period:</strong> Around end-February 2026</p>
 </li>
 </ul>
 </td>
