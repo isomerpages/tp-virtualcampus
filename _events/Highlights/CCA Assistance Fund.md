@@ -115,13 +115,9 @@ to early-November).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
 <p>Students who contributed to their CCAs through <strong>School/Department-initiated TP-wide or external events</strong> (e.g.
 CCA Fair, Sports Clinics &amp; Workshops, National Day Concert, CCN Day)
 - including but not limited to the roles listed below:</p>
-</li>
-</ol>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
