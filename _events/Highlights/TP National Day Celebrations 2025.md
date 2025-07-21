@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP National Day Celebrations 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/NDC_2025__General____1920px_by_1080px_V2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/NDC_2025__General____1920px_by_1080px_V3.jpg">
 </div>
 <p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
 It is a monumental milestone that honours our shared journey, unites the
@@ -179,7 +179,7 @@ years of Singapore’s resilience – all in one exhilarating heartbeat!</p>
 <p>📅 7-8 August 2025</p>
 <p>🕑 10.00am to 5.00pm</p>
 <p>📍 Auditorium 1 &amp; 2 Foyer</p>
-<p>Celebrate SG60 and the <strong>Republic of Singapore Air Force’s</strong>  <strong>(RSAF)</strong> 60th
+<p>Celebrate SG60 and the <strong>Republic of Singapore Air Force’s</strong>  <strong>(RSAF)</strong> 57th
 anniversary with an immersive on-ground activation at TP!</p>
 <p>Look forward to an adrenaline-fueled experience that puts you right in
 the cockpit! Dive into the action with interactive gaming consoles that
