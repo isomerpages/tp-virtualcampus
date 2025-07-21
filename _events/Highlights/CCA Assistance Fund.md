@@ -248,8 +248,8 @@ between <strong>16 July to October 2025</strong>.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>All students must submit their applications for the CCA AF <strong><a href="https://for.edu.sg/ccaaf" rel="noopener nofollow" target="_blank">here </a></strong>by
-the closing date for each application window..</p>
+<p>All students must submit your applications <strong><a href="https://for.edu.sg/ccaaf" rel="noopener nofollow" target="_blank">here </a></strong>by
+the closing date for each window..</p>
 </li>
 <li>
 <p>Staff advisors may also nominate deserving students who meet the funding
