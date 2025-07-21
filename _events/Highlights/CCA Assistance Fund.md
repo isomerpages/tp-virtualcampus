@@ -106,8 +106,7 @@ to early-November).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students with good character and conduct with <strong>no disciplinary record</strong>
-</p>
+<p>Students with good character and conduct with <strong>no disciplinary record</strong>.</p>
 </td>
 </tr>
 <tr>
