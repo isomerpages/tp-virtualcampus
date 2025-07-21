@@ -253,15 +253,14 @@ between <strong>16 July to October 2025</strong>.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff Advisors will nominate students who meet the funding eligibility
-criteria.</p>
+<p>All students must submit their applications for the CCA AF <strong><a href="https://for.edu.sg/ccaaf" rel="noopener nofollow" target="_blank">here </a></strong>by
+the closing date for each application window..</p>
 </li>
 <li>
-<p>Thereafter, students will receive invitations to apply for the CCA AF.</p>
-</li>
-<li>
-<p>Submit your application form <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2F7ajZntS0WW&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7Cd66bc7f95fa045c8bcd508dcb5cf2430%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638585148485128044%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=bwqfZ9iTI7ItjpBOrjvSniv8vuHjbBv4LR0t4D50JJk%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> by
-the closing date for each application window.</p>
+<p>Staff advisors may also nominate deserving students who meet the funding
+eligibility criteria <strong><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUQUlJOEkyNVZVRklFVzQ5MTVXQUxaNktBSC4u" rel="noopener nofollow" target="_blank">here</a></strong>.
+The CCA AF Secretariat will then contact these students to encourage them
+to apply.</p>
 </li>
 </ul>
 </div>
