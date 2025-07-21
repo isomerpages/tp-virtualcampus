@@ -25,7 +25,7 @@ AF today!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Supports students involved in CCAs who require financial assistance</p>
+<p>Supports students involved in CCAs who require financial assistance.</p>
 </li>
 <li>
 <p>Covers CCA-related expenses such as attire and equipment costs, transport
@@ -33,10 +33,10 @@ vouchers, coaching fees, medical fees, and subscription fees.</p>
 </li>
 <li>
 <p>Two application periods per AY (end-July to early-August and end-October
-to early-November)</p>
+to early-November).</p>
 </li>
 <li>
-<p>$320 disbursed per student/AY</p>
+<p>$320 disbursed per student/AY.</p>
 </li>
 </ul>
 </div>
