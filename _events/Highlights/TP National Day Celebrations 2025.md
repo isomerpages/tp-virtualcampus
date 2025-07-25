@@ -147,7 +147,7 @@ your friends grooving to the rhythm. Let’s make this celebration unforgettable
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Valor in a Heartbeat</strong>
+<summary><strong>Valour in a Heartbeat</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>📅 5-6 August 2025</p>
