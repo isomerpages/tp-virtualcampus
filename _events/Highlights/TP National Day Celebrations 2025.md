@@ -171,11 +171,8 @@ years of Singapore’s resilience – all in one exhilarating heartbeat!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/WhatsApp_Image_2025_07_25_at_5_55_00_PM.jpg">
 </div>
-<p><em>(Photo for illustration purposes only)</em>
-</p>
-<p></p>
 <p>📅 7-8 August 2025</p>
 <p>🕑 10.00am to 5.00pm</p>
 <p>📍 Auditorium 1 &amp; 2 Foyer</p>
