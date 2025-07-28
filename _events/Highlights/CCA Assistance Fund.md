@@ -7,15 +7,15 @@ third_nav_title: Highlights
 ---
 <h3><strong>CCA Assistance Fund</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/CCA_Banner_1920_X_1080px_01_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/CCA_Assistance_Fund___1920px_by_1080px.png">
 </div>
 <p>The<strong> CCA Assistance Fund (CCA AF) </strong>is established to support
-students facing financial challenges, who have significantly contributed
-to TP through their respective CCAs. Eligible students can receive <strong>$300 per Academic Year (AY)</strong>,
-and <strong>up to 500 students</strong> may potentially be awarded every
+students who require financial assistance to continue meaningful CCA involvement
+at TP. Eligible students can receive <strong>$320 per Academic Year (AY)</strong>,
+and <strong>up to 400 students</strong> may potentially be awarded every
 AY.</p>
-<p>Since its inception in AY2022/23, <strong>close to 300 students</strong> have
-benefitted from the CCA AF.</p>
+<p>Since its inception in 2022, <strong>over 500 students</strong> have benefitted
+from the CCA AF.</p>
 <p>Keep your dreams alive while pursuing your passion. Apply for the CCA
 AF today!</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -25,17 +25,18 @@ AF today!</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Helps significant CCA contributors, who may be facing financial challenges/difficulties</p>
+<p>Supports students involved in CCAs who require financial assistance.</p>
 </li>
 <li>
-<p>Covers CCA-related expenses (e.g. equipment, subscription fees, coaching
-fees, training courses)</p>
+<p>Covers CCA-related expenses such as attire and equipment costs, transport
+vouchers, coaching fees, medical fees, and subscription fees.</p>
 </li>
 <li>
-<p>Two application periods per AY (August &amp; November)</p>
+<p>Two application periods per AY (end-July to early-August and end-October
+to early-November).</p>
 </li>
 <li>
-<p>$300 disbursed per student/AY</p>
+<p>$320 disbursed per student/AY.</p>
 </li>
 </ul>
 </div>
@@ -75,7 +76,7 @@ fees, training courses)</p>
 <p>Physiology/TCM treatment</p>
 </li>
 <li>
-<p>Transport</p>
+<p>Transport vouchers</p>
 </li>
 <li>
 <p>Food</p>
@@ -92,6 +93,7 @@ fees, training courses)</p>
 <summary><strong>Criteria</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -104,8 +106,7 @@ fees, training courses)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students with good character and conduct with <strong>no disciplinary record</strong>
-</p>
+<p>Students with good character and conduct with <strong>no disciplinary record</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -114,55 +115,35 @@ fees, training courses)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Students who have played a key role in organising<strong> School/Department-initiated TP-wide </strong>or <strong>external events </strong>(e.g.
-CCA Fair, Sports Clinics &amp; Workshops, National Day Concert, CCN Day),
-in the role(s) of:</p>
-</li>
-</ol>
+<p>Students who have contributed to their CCAs through <strong>School/Department-initiated TP-wide or external events</strong> (e.g.
+CCA Fair, Sports Clinics &amp; Workshops, National Day Concert, CCN Day)
+- including but not limited to the roles listed below:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Organiser</p>
+<p>Organising Committee Member</p>
 </li>
 <li>
-<p>Assistant Organiser</p>
+<p>Coordinator / Active Team Member</p>
 </li>
 <li>
-<p>Coordinator</p>
+<p>Project Leader</p>
 </li>
 <li>
-<p>Assistant Coordinator</p>
+<p>Composer / Choreographer / Performer / Musician / Artist</p>
 </li>
 <li>
-<p>Admin Coordinator</p>
+<p>Photographer / Designer / Videographer</p>
 </li>
 <li>
-<p>Logistics Coordinator</p>
-</li>
-<li>
-<p>Publicity Coordinator</p>
-</li>
-<li>
-<p>Welfare Coordinator</p>
+<p>Student Instructor</p>
 </li>
 </ul>
-<p></p>
-<p><em>(Guide for event organising – 1 organising role: 12 to 15 participants.</em>
-</p>
-<p></p>
-<p><em>For more than 8 roles, the Staff Advisor will need to justify based on the event size and/or complexity of event organisation.)</em>
-</p>
 <p></p>
 <p><strong>OR</strong>
 </p>
 <p></p>
-<ol start="2" data-tight="true" class="tight">
-<li>
 <p>Students who have <strong>represented TP </strong>in <strong>endorsed CCA-related competitions</strong>.</p>
-</li>
-</ol>
 </td>
 </tr>
 <tr>
@@ -194,7 +175,9 @@ in the role(s) of:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Financially deserving students who meet the<strong> income eligibility criteria</strong> ​of
-the <strong>higher education government bursary</strong>
+the <strong>higher education government bursary</strong>.</p>
+<p></p>
+<p><strong><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters.html" rel="noopener nofollow" target="_blank">Click here for more information on bursary matters.</a></strong>
 </p>
 </td>
 </tr>
@@ -214,25 +197,29 @@ the <strong>higher education government bursary</strong>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Qualifying, Application &amp; Disbursement Windows</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Qualifying, Application &amp; Disbursement Windows</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><u>First Window</u></strong>
 </p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Qualifying Period: </strong>Events/competitions should happen
-between <strong>15 April to 15 July 2024</strong>.</p>
+between<strong> April to 15 July 2025</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>8-15 August 2024</p>
+<p><strong>Application Period: </strong>28 July to 8 August 2025</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-November 2024</p>
+<p><strong>Disbursement Period:</strong> Around end-November 2025</p>
 </li>
 </ul>
 <p></p>
@@ -242,19 +229,15 @@ between <strong>15 April to 15 July 2024</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Qualifying Period: </strong>Events/competitions should happen
-between <strong>15 July to 10 November 2024</strong>.</p>
+between <strong>16 July to October 2025</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>14-24 November 2024</p>
+<p><strong>Application Period: </strong>27 October to 7 November 2025</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-February 2024</p>
+<p><strong>Disbursement Period:</strong> Around end-February 2026</p>
 </li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -265,15 +248,14 @@ between <strong>15 July to 10 November 2024</strong>.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff Advisors will nominate students who meet the funding eligibility
-criteria.</p>
+<p>All students must submit your applications <strong><a href="https://for.edu.sg/ccaaf" rel="noopener nofollow" target="_blank">here </a></strong>by
+the closing date for each window.</p>
 </li>
 <li>
-<p>Thereafter, students will receive invitations to apply for the CCA AF.</p>
-</li>
-<li>
-<p>Submit your application form <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fr%2F7ajZntS0WW&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7Cd66bc7f95fa045c8bcd508dcb5cf2430%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638585148485128044%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=bwqfZ9iTI7ItjpBOrjvSniv8vuHjbBv4LR0t4D50JJk%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> by
-the closing date for each application window.</p>
+<p>Staff advisors may also nominate deserving students who meet the funding
+eligibility criteria <strong><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=8JupJXKOKkeuUK373w328dsxNSkpEzVOp1jKSYRi0yFUQUlJOEkyNVZVRklFVzQ5MTVXQUxaNktBSC4u" rel="noopener nofollow" target="_blank">here</a></strong>.
+The CCA AF Secretariat will contact these students to encourage them to
+apply.</p>
 </li>
 </ul>
 </div>
