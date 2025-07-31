@@ -399,6 +399,7 @@ and mark National Day together.</p>
 </p>
 <p><strong>TP Alumni </strong>- <strong><a href="https://for.edu.sg/ndc25alumni" rel="noopener nofollow" target="_blank">https://for.edu.sg/ndc25alumni</a></strong>
 </p>
+<hr>
 <p>Round up all these fantastic celebrations with TP’s very own <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025: "Confirm Can One!"</a></strong>,
 specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>!</p>
 <p>Embark on a meaningful journey through the pivotal chapters of our nation’s
