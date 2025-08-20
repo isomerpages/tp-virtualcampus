@@ -9,8 +9,9 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_CCA_Scholarship_2025v1.png">
 </div>
-<p>The annual <strong>TP CCA Scholarships</strong> are awarded to students
-who have contributed significantly to CCAs in Temasek Polytechnic (TP).</p>
+<p>The annual <strong>TP CCA Scholarship</strong> is awarded to deserving students
+who have contributed significantly to their respective CCAs in Temasek
+Polytechnic (TP).</p>
 <p>We are happy to announce that applications for the <strong>TP CCA Scholarships 2025</strong> are
 now open and will close on <strong>19 September 2025 (Friday), 11.59pm</strong>.
 Apply <strong><a href="https://for.edu.sg/ccasform" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> now!</p>
