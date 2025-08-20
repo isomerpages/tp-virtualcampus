@@ -31,6 +31,17 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: TP CCA Scholarships 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: This annual Scholarship is awarded to deserving students who have
+        contributed significantly to their respective CCAs in TP. Applications
+        are now open!
+      button: APPLY NOW!
+      url: /tp-cca-scholarships-2025/
+      image: /images/Events/Highlights/1920px__W__by_1080px__H_.png
+      alt: Image alt text
+  - infopic:
       title: TP National Day Celebrations 2025
       subtitle: UNLEASH THE FESTIVITIES!
       id: infopic
