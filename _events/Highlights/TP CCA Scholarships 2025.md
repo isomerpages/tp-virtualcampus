@@ -141,16 +141,29 @@ of their family financial situation.</p>
 </div>
 </details>
 </div>
-<p><strong>Selection</strong>
-</p>
-<p>• Selection is based on a set of pre-determined criteria, which includes
-amongst other things, standard of achievement, attendance, level of contribution,
-scale and impact of projects, and demonstration of character, leadership
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Selection</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Selection is based on a set of pre-determined criteria that includes,
+among other things, standard of achievement, attendance, level of contribution,
+scale and impact of projects; as well as demonstration of character, leadership
 skills, sportsmanship and values.</p>
-<p>• Shortlisted applicants may be invited for interviews by the Selection
+</li>
+<li>
+<p>Shortlisted applicants may be invited for interviews by the Selection
 Committee.</p>
-<p>• The selection of applicants will be left to the Selection Committee,
-and the decision of the Committee is final.</p>
+</li>
+<li>
+<p>The selection of applicants will be left to the Selection Committee, and
+the decision of the Committee is final.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p><strong>Conditions</strong>
 </p>
 <p>• The scholarship may be withdrawn from the recipient, should inaccurate
