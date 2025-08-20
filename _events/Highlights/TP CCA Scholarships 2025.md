@@ -16,7 +16,7 @@ now open and will close on <strong>19 September 2025 (Friday), 11.59pm</strong>.
 Apply for it <strong><a href="https://for.edu.sg/ccasform" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Eligibility Criteria </strong>
+<summary><strong>Eligibility Criteria</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
@@ -82,10 +82,16 @@ conduct in their respective CCAs</p>
 </div>
 </details>
 </div>
-<p><strong>Tenure &amp; Value</strong>
-</p>
-<p>The value of a scholarship is $3,000.00, which will cover a large part
-of the full tuition fee for one academic year.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Tenure &amp; Value</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The value of each TP CCA Scholarship is $3,000.00, which will cover a
+large part of a student's full tuition fee for one academic year.</p>
+</div>
+</details>
+</div>
 <p><strong>Application</strong>
 </p>
 <p>• Applications are to be submitted by the students via the online application
