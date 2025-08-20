@@ -89,8 +89,9 @@ conduct in their respective CCAs</p>
 <summary><strong>Tenure &amp; Value</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The value of each TP CCA Scholarship is $3,000.00, which will cover a
-large part of a student's full tuition fee for one academic year.</p>
+<p>The value of each TP CCA Scholarship is <strong>$3,000.00</strong>, which
+will cover a large part of a student's full tuition fee for one academic
+year.</p>
 </div>
 </details>
 </div>
