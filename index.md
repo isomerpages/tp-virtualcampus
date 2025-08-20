@@ -32,7 +32,7 @@ sections:
       variant: center
   - infopic:
       title: TP CCA Scholarships 2025
-      subtitle: Add an image and text
+      subtitle: RECOGNISE YOUR ACHIEVEMENTS!
       id: infopic
       description: This annual Scholarship is awarded to deserving students who have
         contributed significantly to their respective CCAs in TP. Applications
