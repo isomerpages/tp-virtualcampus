@@ -5,45 +5,85 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<p></p>
+<h3><strong>TP CCA Scholarships 2025</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_CCA_Scholarship_2025v1.png">
 </div>
-<p></p>
-<p>The annual TP CCA Scholarships are awarded to students who have contributed
-significantly to CCAs in the Polytechnic.</p>
+<p>The annual <strong>TP CCA Scholarships</strong> are awarded to students
+who have contributed significantly to CCAs in the Polytechnic.</p>
 <p>We are happy to announce that applications for TP CCA Scholarships 2025
-are now open!</p>
-<p>Apply for TP CCA Scholarships 2025 <strong><a href="https://for.edu.sg/ccasform" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>!</p>
-<p>The application period for the TP CCA Scholarships 2025 is now open and
-will close on <strong>19 September 2025 (Friday)</strong>, 11.59pm.</p>
-<p><strong>Eligibility Criteria for Temasek Polytechnic CCA Scholarship</strong>
-</p>
-<p>• All Full-Time students of Temasek Polytechnic</p>
-<p>• All nationalities</p>
-<p>• cGPA ≥ 3.00</p>
-<p>• <strong>Not currently in receipt</strong> of any other scholarships or
+are now open and will close on <strong>19 September 2025 (Friday), 11.59pm</strong>.
+Apply for it <strong><a href="https://for.edu.sg/ccasform" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Eligibility Criteria for Temasek Polytechnic CCA Scholarship</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>All full-time students of Temasek Polytechnic</p>
+</li>
+<li>
+<p>All nationalities</p>
+</li>
+<li>
+<p>cGPA ≥ 3.00</p>
+</li>
+<li>
+<p><strong>Not currently in receipt</strong> of any other scholarships or
 bursaries for the academic year of award, <u>except the following</u>:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Government bursaries, such as Higher
-Education Community Bursary and</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Education Bursary</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Olympic Foundation-Peter
-Lim Scholarship</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tertiary Tuition Fee Subsidy (TTFS)
-from Yayasan Mendaki</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CDAC YEAP Grant</p>
-<p>• Not currently financially sponsored by employers</p>
-<p>• No academic and/or disciplinary warning</p>
-<p>• No disciplinary record (category 1) or serious academic-related offence
+</li>
+</ul>
+<ol data-tight="true" class="tight">
+<li>
+<p>Government bursaries, such as Higher Education Community Bursary and</p>
+</li>
+<li>
+<p>Higher Education Bursary</p>
+</li>
+<li>
+<p>Singapore Olympic Foundation-Peter Lim Scholarship</p>
+</li>
+<li>
+<p>Tertiary Tuition Fee Subsidy (TTFS) from Yayasan Mendaki</p>
+</li>
+<li>
+<p>CDAC YEAP Grant</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Not currently financially sponsored by employers</p>
+</li>
+<li>
+<p>No academic and/or disciplinary warning</p>
+</li>
+<li>
+<p>No disciplinary record (category 1) or serious academic-related offence
 for the year of application (ie: AY2025/2026) and year of assessment (ie:
 AY2024/2025).</p>
-<p>• Have been actively involved in their CCAs for AY2024/2025, and have
-made significant contributions in their respective CCAs</p>
-<p>• Have displayed exemplary sportsmanship/artistic merit/leadership and
-conduct in their respective CCAs</p>
-<p>• Have maintained a good level of attendance/involvement for the year</p>
-<p>• Have preferably been recipients of a CCA Award</p>
-<p>• Show potential in performance and leadership excellence</p>
+</li>
+<li>
+<p>Have been actively involved in their CCAs for AY2024/2025, and have made
+significant contributions in their respective CCAs</p>
+</li>
+<li>
+<p>Have displayed exemplary sportsmanship/artistic merit/leadership and conduct
+in their respective CCAs</p>
+</li>
+<li>
+<p>Have maintained a good level of attendance/involvement for the year</p>
+</li>
+<li>
+<p>Have preferably been recipients of a CCA Award</p>
+</li>
+<li>
+<p>Show potential in performance and leadership excellence</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p><strong>Tenure &amp; Value</strong>
 </p>
 <p>The value of a scholarship is $3,000.00, which will cover a large part
