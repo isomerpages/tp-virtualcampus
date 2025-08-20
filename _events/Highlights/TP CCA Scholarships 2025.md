@@ -92,27 +92,55 @@ large part of a student's full tuition fee for one academic year.</p>
 </div>
 </details>
 </div>
-<p><strong>Application</strong>
-</p>
-<p>• Applications are to be submitted by the students via the online application
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Application</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Applications are to be submitted by the students via the online application
 form <strong><a href="https://for.edu.sg/ccasform" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
-<p>• Forms that are submitted late or incomplete will not be processed.</p>
-<p>• Please submit the completed form by 19 September 2025 (Friday), 11.59pm.
+</li>
+<li>
+<p>Forms that are submitted late or incomplete will not be processed.</p>
+</li>
+<li>
+<p>Please submit the completed form by <strong>19 September 2025 (Friday), 11.59pm</strong>.
 The completed applications will be forwarded to the staff-in-charge of
 the CCA for endorsement.</p>
-<p>• Applicants are required to submit relevant documents in support of their
+</li>
+<li>
+<p>Applicants are required to submit relevant documents in support of their
 applications.</p>
-<p>• Applicants should ensure that the information in the application forms
+</li>
+<li>
+<p>Applicants should ensure that the information in the application forms
 and the supporting documents is accurate.</p>
-<p>• Applicants are allowed to submit updated information before application
+</li>
+<li>
+<p>Applicants are allowed to submit updated information before the application
 closing date.</p>
-<p>• In the event of duplicate submissions, only the latest form will be
-taken into consideration.</p>
-<p>• Please ensure that your email and mobile number are up to date.</p>
-<p>• Applicants may be contacted for clarifications or requested to submit
+</li>
+<li>
+<p>In the event of duplicate submissions, only the latest form will be taken
+into consideration.</p>
+</li>
+<li>
+<p>Please ensure that your email and mobile number are up to date.</p>
+</li>
+<li>
+<p>Applicants may be contacted for clarifications or requested to submit
 a personal write-up.</p>
-<p>• Applicants may be invited to submit family income documents for assessment
-of family financial situation.</p>
+</li>
+<li>
+<p>Applicants may be invited to submit family income documents for assessment
+of their family financial situation.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p><strong>Selection</strong>
 </p>
 <p>• Selection is based on a set of pre-determined criteria, which includes
