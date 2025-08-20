@@ -10,18 +10,18 @@ third_nav_title: Highlights
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_CCA_Scholarship_2025v1.png">
 </div>
 <p>The annual <strong>TP CCA Scholarships</strong> are awarded to students
-who have contributed significantly to CCAs in the Polytechnic.</p>
-<p>We are happy to announce that applications for TP CCA Scholarships 2025
-are now open and will close on <strong>19 September 2025 (Friday), 11.59pm</strong>.
+who have contributed significantly to CCAs in Temasek Polytechnic (TP).</p>
+<p>We are happy to announce that applications for <strong>TP CCA Scholarships 2025</strong> are
+now open and will close on <strong>19 September 2025 (Friday), 11.59pm</strong>.
 Apply for it <strong><a href="https://for.edu.sg/ccasform" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Eligibility Criteria for Temasek Polytechnic CCA Scholarship</strong>
+<summary><strong>Eligibility Criteria </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>All full-time students of Temasek Polytechnic</p>
+<p>All full-time students of TP</p>
 </li>
 <li>
 <p>All nationalities</p>
@@ -36,10 +36,8 @@ bursaries for the academic year of award, <u>except the following</u>:</p>
 </ul>
 <ol data-tight="true" class="tight">
 <li>
-<p>Government bursaries, such as Higher Education Community Bursary and</p>
-</li>
-<li>
-<p>Higher Education Bursary</p>
+<p>Government bursaries, such as Higher Education Community Bursary and Higher
+Education Bursary</p>
 </li>
 <li>
 <p>Singapore Olympic Foundation-Peter Lim Scholarship</p>
@@ -59,20 +57,20 @@ bursaries for the academic year of award, <u>except the following</u>:</p>
 <p>No academic and/or disciplinary warning</p>
 </li>
 <li>
-<p>No disciplinary record (category 1) or serious academic-related offence
-for the year of application (ie: AY2025/2026) and year of assessment (ie:
-AY2024/2025).</p>
+<p>No disciplinary record (Category 1) or serious academic-related offence
+for the year of application (i.e. AY2025/2026) and year of assessment (i.e.
+AY2024/2025)</p>
 </li>
 <li>
 <p>Have been actively involved in their CCAs for AY2024/2025, and have made
 significant contributions in their respective CCAs</p>
 </li>
 <li>
-<p>Have displayed exemplary sportsmanship/artistic merit/leadership and conduct
-in their respective CCAs</p>
+<p>Have displayed exemplary sportsmanship / artistic merit / leadership and
+conduct in their respective CCAs</p>
 </li>
 <li>
-<p>Have maintained a good level of attendance/involvement for the year</p>
+<p>Have maintained a good level of attendance / involvement for the year</p>
 </li>
 <li>
 <p>Have preferably been recipients of a CCA Award</p>
