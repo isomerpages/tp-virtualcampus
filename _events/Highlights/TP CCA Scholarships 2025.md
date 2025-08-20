@@ -164,13 +164,26 @@ the decision of the Committee is final.</p>
 </div>
 </details>
 </div>
-<p><strong>Conditions</strong>
-</p>
-<p>• The scholarship may be withdrawn from the recipient, should inaccurate
-facts or information be given at the time of application.</p>
-<p>• Temasek Polytechnic reserves the right not to award any of the scholarships
-if no suitable applicants are identified.</p>
-<p>• Scholarship recipients are expected to fulfil the obligations of the
-Scholarship.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Conditions</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>The Scholarship may be withdrawn from the recipient, should inaccurate
+facts or information be provided at the time of application.</p>
+</li>
+<li>
+<p>TP reserves the right not to award any of the scholarships if no suitable
+applicants are identified.</p>
+</li>
+<li>
+<p>Recipients are expected to fulfil the obligations of the Scholarship.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p>For enquiries, please contact the TP TSEA &amp; CCA Scholarships Secretariat
 at <a rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>.</p>
