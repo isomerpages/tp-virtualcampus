@@ -148,7 +148,8 @@ of their family financial situation.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Selection</summary>
+<summary><strong>Selection</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
