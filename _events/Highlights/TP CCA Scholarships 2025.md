@@ -75,7 +75,7 @@ conduct in their respective CCAs</p>
 <p>Have maintained a good level of attendance / involvement for the year</p>
 </li>
 <li>
-<p>Have preferably been recipients of a CCA Award</p>
+<p>Have preferably been a recipient of a CCA Award</p>
 </li>
 <li>
 <p>Show potential in performance and leadership excellence</p>
