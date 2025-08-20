@@ -130,7 +130,8 @@ closing date.</p>
 into consideration.</p>
 </li>
 <li>
-<p>Please ensure that your email address and mobile number are up to date.</p>
+<p>Applicants should ensure that their email address and mobile number are
+up to date.</p>
 </li>
 <li>
 <p>Applicants may be contacted for clarifications or requested to submit
