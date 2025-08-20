@@ -99,7 +99,7 @@ large part of a student's full tuition fee for one academic year.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Applications are to be submitted by the students via the online application
+<p>Applications are to be submitted by students via the online application
 form <strong><a href="https://for.edu.sg/ccasform" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </li>
 <li>
@@ -115,8 +115,8 @@ the CCA for endorsement.</p>
 applications.</p>
 </li>
 <li>
-<p>Applicants should ensure that the information in the application forms
-and the supporting documents is accurate.</p>
+<p>Applicants should ensure that the information submitted in the application
+forms and the supporting documents is accurate.</p>
 </li>
 <li>
 <p>Applicants are allowed to submit updated information before the application
@@ -127,7 +127,7 @@ closing date.</p>
 into consideration.</p>
 </li>
 <li>
-<p>Please ensure that your email and mobile number are up to date.</p>
+<p>Please ensure that your email address and mobile number are up to date.</p>
 </li>
 <li>
 <p>Applicants may be contacted for clarifications or requested to submit
