@@ -23,8 +23,7 @@ will close on <strong>19 September 2025 (Friday)</strong>, 11.59pm.</p>
 <p>• All nationalities</p>
 <p>• cGPA ≥ 3.00</p>
 <p>• <strong>Not currently in receipt</strong> of any other scholarships or
-bursaries for the academic year of</p>
-<p>award, <u>except the following</u>:</p>
+bursaries for the academic year of award, <u>except the following</u>:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Government bursaries, such as Higher
 Education Community Bursary and</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Higher Education Bursary</p>
