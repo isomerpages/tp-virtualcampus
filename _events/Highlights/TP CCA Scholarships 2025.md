@@ -38,8 +38,8 @@ bursaries for the academic year of award, <u>except the following</u>:</p>
 </ul>
 <ol data-tight="true" class="tight">
 <li>
-<p>Government bursaries, such as Higher Education Community Bursary and Higher
-Education Bursary</p>
+<p>Government bursaries, such as the Higher Education Community Bursary and
+Higher Education Bursary</p>
 </li>
 <li>
 <p>Singapore Olympic Foundation-Peter Lim Scholarship</p>
