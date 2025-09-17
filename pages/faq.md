@@ -317,24 +317,31 @@ Portal.</p>
 <h4>Sports Facilities</h4>
 <p><strong>1. What are the opening hours of Sports Facilities?</strong>
 </p>
-<p><em>1. Swimming Complex</em>
+<p><strong><em>1. Swimming Complex</em></strong>
 </p>
 <p>Blk 31A
-<br>Mon to Fri: 9 am to 9 pm
-<br>Sat, Sun &amp; Public Holidays: 8.30 am to 6 pm</p>
-<p><em>2. Gym</em>
+<br>Mon to Fri: 9am to 9pm
+<br>Sat, Sun &amp; Public Holidays: 8.30am to 6pm</p>
+<p><strong><em>2. Gym (Till 30 September 2025)</em></strong>
 </p>
 <p>Blk 29 Sports Complex
-<br>Mon to Fri: 9 am to 9 pm
-<br>Sat: 9 am to 5 pm
+<br>Mon to Thurs: 10.30am to 9.30pm
+<br>Fri: 8.30am to 7.30pm
+<br>Sat: 10.30am to 3pm
 <br>Closed on Sun &amp; Public Holidays</p>
-<p><em>3. Outdoor Sports Facilities (Basketball, Futsal and Tennis Courts)</em>
+<p><strong><em>3. Gym (From 1 October 2025 onwards)</em></strong>
+</p>
+<p>Blk 29 Sports Complex
+<br>Mon to Fri: 9am to 9pm
+<br>Sat: 9am to 1pm
+<br>Closed on Sun &amp; Public Holidays</p>
+<p><strong><em>4. Outdoor Sports Facilities (Basketball, Futsal and Tennis Courts)</em></strong>
 </p>
 <p>Blk 26A
 <br>Mon to Fri: 9am to 9pm
 <br>Sat: 9am to 5pm
 <br>Closed on Sun &amp; Public Holidays</p>
-<p><em>4. Sports Hall 2 (Badminton Courts and Table Tennis Tables)</em>
+<p><strong><em>5. Sports Hall 2 (Badminton Courts and Table Tennis Tables)</em></strong>
 </p>
 <p>Blk 26A
 <br>Mon to Fri: 9am to 9pm
