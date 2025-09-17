@@ -326,15 +326,15 @@ Portal.</p>
 </p>
 <p>Blk 29 Sports Complex
 <br>Mon to Thurs: 10.30am to 9.30pm
-<br>Fri: 8.30am to 7.30pm</p>
-<p>Sat: 10.30am to 3pm
+<br>Fri: 8.30am to 7.30pm
+<br>Sat: 10.30am to 3pm
 <br>Closed on Sun &amp; Public Holidays</p>
 <p><strong><em>3. Gym (From 1 Oct 2025 onwards)</em></strong>
 </p>
-<p>Blk 29 Sports Complex</p>
-<p>Mon to Fri: 9am to 9pm
-<br>Sat: 9am to 1pm</p>
-<p>Closed on Sun &amp; Public Holidays</p>
+<p>Blk 29 Sports Complex
+<br>Mon to Fri: 9am to 9pm
+<br>Sat: 9am to 1pm
+<br>Closed on Sun &amp; Public Holidays</p>
 <p><strong><em>4. Outdoor Sports Facilities (Basketball, Futsal and Tennis Courts)</em></strong>
 </p>
 <p>Blk 26A
