@@ -320,8 +320,8 @@ Portal.</p>
 <p><strong><em>1. Swimming Complex</em></strong>
 </p>
 <p>Blk 31A
-<br>Mon to Fri: 9 am to 9 pm
-<br>Sat, Sun &amp; Public Holidays: 8.30 am to 6 pm</p>
+<br>Mon to Fri: 9am to 9pm
+<br>Sat, Sun &amp; Public Holidays: 8.30am to 6pm</p>
 <p><strong><em>2. Gym (Till 30 September 2025)</em></strong>
 </p>
 <p>Blk 29 Sports Complex
