@@ -74,7 +74,7 @@ leader and an active contributor to our community.</p>
 <p>This episode features Isabelle, Assistant Vice President of TPCSC's Eldercare
 Cluster, known for her dedication, compassion and the way she is always
 guiding the team forward.</p>
-<p><strong><br></strong><a href="https://www.instagram.com/reel/DN42mZEj6o4/?igsh=c2R3bmx3aTIxNGFw" rel="noopener nofollow" target="_blank">View it here!</a>
+<p><strong><br></strong><a href="https://www.instagram.com/p/DOduMZRgRDY/?igsh=MXN0ODg0MXg1OGV4Mg%3D%3D" rel="noopener nofollow" target="_blank">View it here!</a>
 </p>
 <p></p>
 <p></p>
