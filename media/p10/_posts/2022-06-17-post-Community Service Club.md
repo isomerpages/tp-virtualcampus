@@ -45,8 +45,7 @@ this is your chance.</p>
 </tr>
 </tbody>
 </table>
-<h4>Latest Happenings</h4>
-<p></p>
+<h4><strong>TP35: Stories of Service, Spirit &amp; Impact</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/p/C9OnAVky6e8/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/P10/CSC_AGM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TP CSC Annual General Meeting 2024</div><div class="isomer-card-link">View the AGM Highlights Here!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/p/CzTSEllxgP5/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" class="isomer-card">
 <div class="isomer-card-image">
