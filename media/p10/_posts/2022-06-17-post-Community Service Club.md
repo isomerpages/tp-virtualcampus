@@ -19,18 +19,25 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>"A Caring Heart &amp; Volunteering Spirit" is the motto that guides the
-purpose of activities initiated by the TP Community Service Club (TPCSC).
-TPCSC aims to instil the spirit of volunteerism in TP students and build
-a strong base of volunteers to serve the community. It runs both long-term
-and ad-hoc events across the following sectors: <strong>Eldercare</strong>, <strong>Children &amp; Family Services</strong>, <strong>Special Needs </strong>and <strong>Other Special Causes</strong>.
-If you have a heart for the community and want to pay it forward, come
-join TPCSC as a member now!
+<p>"<strong>A Caring Heart &amp; Volunteering Spirit</strong>"</p>
+<p></p>
+<p>This isn’t just a motto, it’s the heartbeat of the TP Community Service
+Club (TPCSC).</p>
+<p></p>
+<p>At TPCSC, we believe every TP student can make a difference. From eldercare
+to children &amp; family services, special needs, and other meaningful
+causes, our volunteers bring energy, compassion, and purpose to both long-term
+and ad-hoc projects.</p>
+<p></p>
+<p>If you have got a heart for the community and a desire to pay it forward,
+this is your chance.</p>
+<p></p>
+<p>Join TPCSC and be part of something bigger from today!
 <br>
 <br><strong>Meeting Day:</strong> 
-<br>Event Basis
+<br>Event &amp; Monthly Basis
 <br>
-<br><strong>CCA Staff Advisors:</strong>  <a href="mailto:NG_Qihui@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Qihui</a> 
+<br><strong>CCA Staff Advisors:</strong>  <a href="mailto:Haizuruldin_GIMIN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Haizuruldin Gimin</a> 
 <br>
 <br><strong>CSC <a href="mailto:csc@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a><br>CCA <a href="https://www.instagram.com/tp_csc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
