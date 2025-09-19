@@ -19,18 +19,25 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>"A Caring Heart &amp; Volunteering Spirit" is the motto that guides the
-purpose of activities initiated by the TP Community Service Club (TPCSC).
-TPCSC aims to instil the spirit of volunteerism in TP students and build
-a strong base of volunteers to serve the community. It runs both long-term
-and ad-hoc events across the following sectors: <strong>Eldercare</strong>, <strong>Children &amp; Family Services</strong>, <strong>Special Needs </strong>and <strong>Other Special Causes</strong>.
-If you have a heart for the community and want to pay it forward, come
-join TPCSC as a member now!
+<p>"<strong>A Caring Heart &amp; Volunteering Spirit</strong>"</p>
+<p></p>
+<p>This is not just a motto - it is the heartbeat of the TP Community Service
+Club (TPCSC).</p>
+<p></p>
+<p>At TPCSC, we believe every TP student can make a difference. From eldercare
+to children and family services, special needs, and other meaningful causes,
+our volunteers bring energy, compassion and purpose to both long-term and
+ad-hoc projects.</p>
+<p></p>
+<p>If you have got a heart for the community and a desire to pay it forward,
+this is your chance.</p>
+<p></p>
+<p>Join TPCSC and be part of something bigger from today!
 <br>
 <br><strong>Meeting Day:</strong> 
-<br>Event Basis
+<br>Event &amp; Monthly Basis
 <br>
-<br><strong>CCA Staff Advisors:</strong>  <a href="mailto:NG_Qihui@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Qihui</a> 
+<br><strong>CCA Staff Advisors:</strong>  <a href="mailto:Haizuruldin_GIMIN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Haizuruldin Gimin</a> 
 <br>
 <br><strong>CSC <a href="mailto:csc@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a><br>CCA <a href="https://www.instagram.com/tp_csc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
@@ -38,19 +45,42 @@ join TPCSC as a member now!
 </tr>
 </tbody>
 </table>
-<h4>Latest Happenings</h4>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/p/C9OnAVky6e8/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/P10/CSC_AGM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TP CSC Annual General Meeting 2024</div><div class="isomer-card-link">View the AGM Highlights Here!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/p/CzTSEllxgP5/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" class="isomer-card">
-<div class="isomer-card-image">
+<h4><strong>TP35: Stories of Service, Spirit &amp; Impact</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/P10/WFR.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Ayuni.jpg">
 </div>
+<p><strong>Welcome to Episode 1 of this special series, sharing 35 inspiring stories of those in our community, in celebration of 35 years of Temasek Polytechnic!<br></strong>
+</p>
+<p>This episode features Ayuni, President of TPCSC — a dedicated student
+leader and an active contributor to our community.</p>
+<p><strong><br></strong><a href="https://www.instagram.com/reel/DN42mZEj6o4/?igsh=c2R3bmx3aTIxNGFw" rel="noopener nofollow" target="_blank">View it here!</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Isabelle.jpg">
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Walk for Rice 2023</div>
-<div class="isomer-card-link">Keep Fit &amp; Walk for a Good Cause!</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/p/CyHl2gVSi7M/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/P10/CSC_Outreach.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CSC Outreach Programme</div><div class="isomer-card-link">Check Out the Volunteering Opportunities Available!</div></div></a>
-</div>
+<p><strong>Welcome to Episode 2 of this special series, sharing 35 inspiring stories of those in our community, in celebration of 35 years of Temasek Polytechnic!</strong>
+</p>
+<p></p>
+<p>This episode features Isabelle, Assistant Vice President of TPCSC's Eldercare
+Cluster, known for her dedication, compassion and the way she is always
+guiding the team forward.</p>
+<p><strong><br></strong><a href="https://www.instagram.com/p/DOduMZRgRDY/?igsh=MXN0ODg0MXg1OGV4Mg%3D%3D" rel="noopener nofollow" target="_blank">View it here!</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
