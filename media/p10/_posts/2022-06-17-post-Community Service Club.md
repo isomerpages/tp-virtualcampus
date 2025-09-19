@@ -21,13 +21,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>"<strong>A Caring Heart &amp; Volunteering Spirit</strong>"</p>
 <p></p>
-<p>This isn’t just a motto, it’s the heartbeat of the TP Community Service
+<p>This is not just a motto - it is the heartbeat of the TP Community Service
 Club (TPCSC).</p>
 <p></p>
 <p>At TPCSC, we believe every TP student can make a difference. From eldercare
-to children &amp; family services, special needs, and other meaningful
-causes, our volunteers bring energy, compassion, and purpose to both long-term
-and ad-hoc projects.</p>
+to children and family services, special needs, and other meaningful causes,
+our volunteers bring energy, compassion and purpose to both long-term and
+ad-hoc projects.</p>
 <p></p>
 <p>If you have got a heart for the community and a desire to pay it forward,
 this is your chance.</p>
