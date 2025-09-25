@@ -37,7 +37,7 @@ this is your chance.</p>
 <br><strong>Meeting Day:</strong> 
 <br>Event &amp; Monthly Basis
 <br>
-<br><strong>CCA Staff Advisors:</strong>  <a href="mailto:Haizuruldin_GIMIN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Haizuruldin Gimin</a> 
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Haizuruldin_GIMIN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Haizuruldin Gimin</a> 
 <br>
 <br><strong>CSC <a href="mailto:csc@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Email</a><br>CCA <a href="https://www.instagram.com/tp_csc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
