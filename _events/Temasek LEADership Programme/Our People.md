@@ -10,10 +10,8 @@ third_nav_title: Temasek LEADership Programme
 if people set their sails according to the compass of life, they will be
 on the course to success. We are a team of values-driven educators and
 trainers dedicated to developing human capital and maximising human potential.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -26,13 +24,6 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p><strong><a href="mailto:Desmond_CK_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Desmond Lim</a></strong>
 </p>
 <p>Acting Director/Student Development &amp; Alumni Affairs</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -46,7 +37,6 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p><strong><a href="mailto:NG_Qihui@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ng Qihui</a></strong>
 </p>
 <p>Senior Manager/CCA &amp; Community Engagement</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -55,12 +45,6 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p><strong><a href="mailto:Simon_CHEW@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Simon Chew</a></strong>
 </p>
 <p>Manager/Temasek LEAD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -74,35 +58,6 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p>ASC LEAD Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Untitled_design.png">
-</div>
-<p><strong><a href="mailto:Haizuruldin_GIMIN@tp.edu.sg" rel="noopener nofollow" target="_blank">Haizuruldin Gimin</a></strong>
-</p>
-<p>Senior Student Development Officer</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Passport__2__Photoroom.png">
-</div>
-<p><strong><a href="mailto:NG_CHING_SIANG@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ng Ching Siang</a></strong>
-</p>
-<p>Senior Student Development Officer</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Terence_Lin_1.png">
 </div>
@@ -111,11 +66,37 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p>Senior Student Development Officer</p>
 <p>BUS LEAD Advisor</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Wong_Si_Y.jpg">
+</div>
+<p><strong><a href="mailto:WONG_Si-Y@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Wong Si-Y</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
+<p>DES LEAD Advisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Untitled_design.png">
+</div>
+<p><strong><a href="mailto:Haizuruldin_GIMIN@tp.edu.sg" rel="noopener nofollow" target="_blank">Haizuruldin Gimin</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
+<p>ENG LEAD Advisor</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Passport__2__Photoroom.png">
+</div>
+<p><strong><a href="mailto:NG_CHING_SIANG@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ng Ching Siang</a></strong>
+</p>
+<p>Senior Student Development Officer</p>
+<p>HSS LEAD Advisor</p>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Farhan_Kamis.png">
@@ -124,22 +105,6 @@ trainers dedicated to developing human capital and maximising human potential.</
 </p>
 <p>Senior Student Development Officer</p>
 <p>IIT LEAD Advisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/Wong_Si_Y.jpg">
-</div>
-<p><strong><a href="mailto:WONG_Si-Y@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Wong Si-Y</a></strong>
-</p>
-<p>Senior Student Development Officer</p>
-<p>ASC LEAD Advisor</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
