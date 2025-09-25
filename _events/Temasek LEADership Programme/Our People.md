@@ -10,8 +10,9 @@ third_nav_title: Temasek LEADership Programme
 if people set their sails according to the compass of life, they will be
 on the course to success. We are a team of values-driven educators and
 trainers dedicated to developing human capital and maximising human potential.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -24,6 +25,9 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p><strong><a href="mailto:Desmond_CK_LIM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Desmond Lim</a></strong>
 </p>
 <p>Acting Director/Student Development &amp; Alumni Affairs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -46,6 +50,9 @@ trainers dedicated to developing human capital and maximising human potential.</
 </p>
 <p>Manager/Temasek LEAD</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,6 +72,9 @@ trainers dedicated to developing human capital and maximising human potential.</
 </p>
 <p>Senior Student Development Officer</p>
 <p>BUS LEAD Advisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -86,6 +96,9 @@ trainers dedicated to developing human capital and maximising human potential.</
 <p>Senior Student Development Officer</p>
 <p>ENG LEAD Advisor</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,6 +118,9 @@ trainers dedicated to developing human capital and maximising human potential.</
 </p>
 <p>Senior Student Development Officer</p>
 <p>IIT LEAD Advisor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
