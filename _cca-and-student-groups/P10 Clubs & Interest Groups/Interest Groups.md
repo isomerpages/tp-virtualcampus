@@ -79,7 +79,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/entrepreneurship-club/" rel="noopener noreferrer nofollow" target="_blank">Entrepreneurship Club</a></strong>
+<p><strong><a href="/interest-groups//interest-groups/entrepreneurship-catalyst//" rel="noopener noreferrer nofollow" target="_blank">TP Entrepreneurship Catalyst</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Club_Resized.png">
