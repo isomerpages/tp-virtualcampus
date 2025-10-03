@@ -9,269 +9,20 @@ third_nav_title: Sports
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/eDM_2__1920_X_1080px.jpg">
 </div>
-<p>Heartiest congratulations to all our student-athletes, who have flown
-the TP flag high with their spirited performances at the <strong>Polytechnic-ITE (POL-ITE) Games 2024</strong>!</p>
-<p>Throughout the challenging but rewarding season, Team Temasek recorded
-a commendable haul of&nbsp;<strong>12 Gold</strong>,<strong> 11 Silver </strong>and<strong> 2 Bronze</strong> medals.
-Well done to our sporting warriors for their teamwork, resilience and fortitude!
-Huge props to our dedicated coaches and staff advisors for their expert
-guidance and unwavering commitment too, as well as fervent supporters from
-our TP family for their strong backing all the way!</p>
-<p>The POL-ITE Games 2024 was also a meaningful season, uniting our diverse
-student-athletes on an inspiring journey to represent TP in their respective
-sports. Here are some highlights of this season:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>We commend the <strong>Rugby</strong> and <strong>Touch Football</strong> teams
-for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
-</li>
-<li>
-<p>Congratulations to the <strong>Dragon Boat (Men, Women &amp; Mixed)</strong>, <strong>Swimming (Men)</strong>, <strong>Taekwondo</strong>, <strong>Touch Football</strong>,
-and <strong>Volleyball (Men)</strong> teams for successfully defending their
-championship titles.</p>
-</li>
-<li>
-<p>We applaud the <strong>Rugby</strong>, <strong>Swimming (Women)</strong> and <strong>Hockey (Men)</strong> teams
-for reclaiming the top spot after last year’s silver finish, and the <strong>Hockey (Women)</strong> team
-for their proud return to the podium after an absence.</p>
-</li>
-<li>
-<p>A special mention to the <strong>Tennis (Women)</strong> team for capturing
-the championship for the first time in 12 years.</p>
-</li>
-<li>
-<p>Lastly, we celebrate the teams that have achieved <strong>consecutive POL-ITE championship victories</strong>,
-demonstrating years of dedicated effort and unwavering discipline. (Please
-see the table below for details.)</p>
-</li>
-</ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Team</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Number of Years of Championship</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dragon Boat (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 (since 2017)*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dragon Boat (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 (since 2021)*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dragon Boat (Mixed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 (since 2017)^</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Swimming (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 (since 2017)*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Taekwondo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 (since inception)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 (since 2013)*</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>*No games in 2020 due to COVID-19.</em>
-</p>
-<p><em>^No games in 2020 &amp; 2021 due to COVID-19.</em>
-</p>
-<p></p>
-<p>We are so, so proud of all of you. Keep reaching for the stars!</p>
-<hr>
-<h4><strong>POL-ITE Games 2024 - Medal Tally</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Gold</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Silver</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Bronze</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dragon Boat (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10-Pin Bowling (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hockey (Women)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dragon Boat (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Archery (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Floorball (Men)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dragon Boat (Mixed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Badminton (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hockey (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basketball (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kayak Racing (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kayak Racing (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rugby</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Soccer (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Swimming (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Table Tennis (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Swimming (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tennis (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Taekwondo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Track &amp; Field (men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tennis (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ultimate Frisbee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Touch Football</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Volleyball (Women)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Volleyball (Men)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
+<p>The heat is on! This season, get ready for some thrilling action as we
+cheer on <strong>Team Temasek</strong>, who are standing tall and all set
+to give their best for TP at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p>Let’s rally behind our sports warriors as they vie for institutional glory
+and team pride. Your cheers will fuel their dreams, your passion will uplift
+their spirits, and together, we will blaze a trail of honour and excellence
+in this annual showdown!</p>
+<p>Keen to soak up the electrifying atmosphere in person? Come support Team
+Temasek and experience the adrenaline live in TP, as well as across various
+venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
+for updates on the epic battles and exciting matchups for your favourite
+sports in the coming weeks.</p>
+<p>One spirit, one dream, one team. Let’s unite and make TP truly a home
+of the champions!</p>
 <h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -411,7 +162,7 @@ see the table below for details.)</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Floorball</strong>
 </summary>
@@ -436,6 +187,13 @@ see the table below for details.)</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Handball</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
