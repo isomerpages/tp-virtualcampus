@@ -317,7 +317,26 @@ in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
 <summary><strong>Tennis</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games_2025___Social_Media_Campaign__Tennis__Men__.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games_2025___Social_Media_Campaign__Tennis__Women__.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
