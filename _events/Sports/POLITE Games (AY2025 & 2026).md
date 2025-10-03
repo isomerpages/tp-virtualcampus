@@ -23,6 +23,12 @@ for updates on the epic battles and exciting matchups for your favourite
 sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
+<hr>
+<h4><strong>Game Fixtures</strong></h4>
+<p>Click <strong><u>here</u></strong> to view the POL-ITE Games 2025 fixtures.</p>
+<p>No registration is needed – simply come by to catch your favourite teams
+in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
+<hr>
 <h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
