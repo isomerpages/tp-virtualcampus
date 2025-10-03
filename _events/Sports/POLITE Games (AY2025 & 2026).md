@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sports
 ---
-<h3><strong>Polytechnic-ITE Games (AY2024/25)</strong></h3>
+<h3><strong>Polytechnic-ITE Games (AY2025/26)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games__Medal_Tele__2024_1920_X_1080.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/eDM_2__1920_X_1080px.jpg">
 </div>
 <p>Heartiest congratulations to all our student-athletes, who have flown
 the TP flag high with their spirited performances at the <strong>Polytechnic-ITE (POL-ITE) Games 2024</strong>!</p>
