@@ -39,6 +39,7 @@ sections:
       button: DISCOVER THE ACTION!
       url: /polite-games-2025/
       alt: Image alt text
+      image: /images/Events/Sports/eDM_2__1920_X_1080px.jpg
   - infopic:
       title: TP National Day Celebrations 2025
       subtitle: UNLEASH THE FESTIVITIES!
