@@ -44,12 +44,12 @@ in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___10_Pin_Bowling__Men_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games_2025___Social_Media_Campaign__10_Pin_Bowling__Men__.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___10_Pin_Bowling__Women_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games_2025___Social_Media_Campaign__10_Pin_Bowling__Women__.jpg">
 </div>
 </th>
 </tr>
@@ -72,7 +72,7 @@ in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Archery__Men___Women_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games_2025___Social_Media_Campaign__Archery_M_W_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
