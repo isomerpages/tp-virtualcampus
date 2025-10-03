@@ -162,33 +162,16 @@ of the champions!</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Floorball</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Floorball__Men_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Floorball__Women_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 </div>
 </details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Handball</strong>
 </summary>
@@ -202,26 +185,7 @@ of the champions!</p>
 <summary><strong>Hockey</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Hockey__Men_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Hockey__Women_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 </div>
 </details>
 </div>
@@ -230,26 +194,7 @@ of the champions!</p>
 <summary><strong>Kayak Racing</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Kayak_Racing__Men_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Kayak_Racing__Women_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 </div>
 </details>
 </div>
@@ -258,24 +203,7 @@ of the champions!</p>
 <summary><strong>Netball</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Netball.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -284,24 +212,7 @@ of the champions!</p>
 <summary><strong>Road Race</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Road_Race__Men___Women_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -310,24 +221,7 @@ of the champions!</p>
 <summary><strong>Rugby</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Rugby.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -336,52 +230,7 @@ of the champions!</p>
 <summary><strong>Soccer</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Soccer__Men_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Soccer__Women_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Sport Climbing</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Sport_Climbing__Men___Women_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -390,26 +239,7 @@ of the champions!</p>
 <summary><strong>Swimming</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Swimming__Men_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Swimming__Women_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 </div>
 </details>
 </div>
@@ -418,26 +248,7 @@ of the champions!</p>
 <summary><strong>Table Tennis</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Table_Tennis__Men_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Table_Tennis__Women_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 </div>
 </details>
 </div>
@@ -446,24 +257,7 @@ of the champions!</p>
 <summary><strong>Taekwondo</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Taekwondo__Men___Women_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -472,24 +266,7 @@ of the champions!</p>
 <summary><strong>Tchoukball</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Tchoukball__Men____Tchoukball__Women_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -498,26 +275,7 @@ of the champions!</p>
 <summary><strong>Tennis</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Tennis__Men_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Tennis__Women_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 </div>
 </details>
 </div>
@@ -526,24 +284,7 @@ of the champions!</p>
 <summary><strong>Touch Football</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Touch_Football.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -552,24 +293,7 @@ of the champions!</p>
 <summary><strong>Track &amp; Field</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Track___Field__Men___Women_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -578,24 +302,7 @@ of the champions!</p>
 <summary><strong>Ultimate Frisbee</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Ultimate_Frisbee.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 </div>
@@ -604,26 +311,7 @@ of the champions!</p>
 <summary><strong>Volleyball</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Volleyball__Men_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Volleyball__Women_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
+<p></p>
 </div>
 </details>
 </div>
