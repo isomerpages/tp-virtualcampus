@@ -31,15 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
-      title: POL-ITE Games (AY2025/26)
+      title: Polytechnic-ITE Games (AY2025/26)
       subtitle: THE HEAT IS ON!
       id: infopic
-      description: Feel the spirit, fever and excitement. Cheer on Team Temasek as our
-        athletes contest for sporting glory at the annual Polytechnic-ITE Games!
+      description: Celebrate the spirit, embrace the vibe, and feel the excitement.
+        Cheer on Team Temasek as our athletes contest for sporting glory at the
+        annual POL-ITE Games!
       button: DISCOVER THE ACTION!
       url: /polite-games-2025/
-      alt: Image alt text
       image: /images/Events/Sports/eDM_2__1920_X_1080px.jpg
+      alt: Image alt text
   - infopic:
       title: TP National Day Celebrations 2025
       subtitle: UNLEASH THE FESTIVITIES!
