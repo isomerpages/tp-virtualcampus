@@ -31,15 +31,13 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
-      title: TP CCA Scholarships 2025
-      subtitle: RECOGNISE YOUR ACHIEVEMENTS!
+      title: POL-ITE Games (AY2025/26)
+      subtitle: THE HEAT IS ON!
       id: infopic
-      description: This annual Scholarship is awarded to deserving students who have
-        contributed significantly to their respective CCAs in TP. Applications
-        are now open!
-      button: APPLY NOW!
-      url: /tp-cca-scholarships-2025/
-      image: /images/Events/Highlights/1920px__W__by_1080px__H_.png
+      description: Feel the spirit, fever and excitement. Cheer on Team Temasek as our
+        athletes contest for sporting glory at the annual Polytechnic-ITE Games!
+      button: DISCOVER THE ACTION!
+      url: /polite-games-2025/
       alt: Image alt text
   - infopic:
       title: TP National Day Celebrations 2025
@@ -63,17 +61,6 @@ sections:
       url: /tp-national-day-concert-2025/
       alt: Image alt text
       image: /images/Events/National_Day_Concert_2025___1920px_by_1080px.png
-  - infopic:
-      title: CCA Assistance Fund
-      subtitle: PURSUE YOUR PASSION!
-      id: infopic
-      description: This fund provides financial support for students to continue
-        meaningful CCA involvement at TP. Apply now to fuel your passion and
-        keep your CCA dreams alive!
-      button: Apply Now!
-      url: /cca-assistance-fund/
-      image: /images/Events/Highlights/CCA_Assistance_Fund___1920px_by_1080px.png
-      alt: Image alt text
   - infopic:
       title: TP35 X-Challenge Run 2025
       subtitle: RUN FOR A CAUSE!
