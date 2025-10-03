@@ -154,13 +154,11 @@ in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Dragon_Boat__Men_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/POL_ITE_Games_2025___Social_Media_Campaign__Dragon_Boat_M_W_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/POL_ITE_Games_2024___Dragon_Boat__Women_.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
