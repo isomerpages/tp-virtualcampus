@@ -27,13 +27,13 @@ variant: tiptap
 <p>The heat is on! This season, get ready for some thrilling action as we
 cheer on <strong>Team Temasek</strong>, who are standing tall and all set
 to give their best for TP at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Keen to soak up the electrifying atmosphere in person? Come support Team
 Temasek and experience the adrenaline live in TP, as well as across various
 venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
 for updates on the epic battles and exciting matchups for your favourite
 sports in the coming weeks.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
 <p></p>
