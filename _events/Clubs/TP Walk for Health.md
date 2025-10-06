@@ -77,7 +77,7 @@ See you there!&nbsp;</p>
 </p>
 </li>
 <li>
-<p><strong>TPSU:</strong>  <a href="https://www.instagram.com/tpsuonline/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpsuonline</a>
+<p><strong>TPSU:</strong>  <a href="https://www.instagram.com/tp.studentsunion/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp.studentsunion</a>
 </p>
 </li>
 </ul>
