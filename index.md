@@ -31,6 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: TP Walk for Health
+      subtitle: TURNING STEPS INTO SUPPORT!
+      id: infopic
+      description: Our annual community initiative is back – bigger and bolder than
+        ever! Learn how you can step up to make a difference and win attractive
+        prizes!
+      button: JOIN THE CAUSE!
+      url: /tp-walk-for-health
+      alt: Image alt text
+  - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
       subtitle: THE HEAT IS ON!
       id: infopic
