@@ -14,12 +14,11 @@ dream. Introducing the <strong>TP Walk for Health (WFH)</strong>, proudly
 organised by the P4 Clubs in support of the South East Community Development
 Council’s annual campaign!&nbsp;</p>
 <p>Imagine being able to contribute to a good cause just through walking,
-so get ready to make a real difference. Transform every <strong>1km</strong> you
-walk into <strong>$1 worth of supermarket vouchers</strong> for needy families
-residing in the South East District, courtesy of the FairPrice Foundation!
-And since it is <strong>TP’s 35th anniversary</strong>, let’s rally together
-and hit <strong>3,500 participants</strong> and<strong> 35 hours of walking – </strong>one
-for every amazing year we are celebrating!&nbsp;</p>
+so get ready to make a real difference. Transform <strong>every kilometre</strong> you
+walk into <strong>$1 in vouchers</strong> for needy families residing in
+the South East District, courtesy of the FairPrice Foundation! And since
+it is <strong>TP’s 35th anniversary</strong>, let’s rally together and hit <strong>3,500 participants</strong> for
+every amazing year we are celebrating!&nbsp;</p>
 <h4><strong>Where Fun Meets Purpose – Come Be Part of It!&nbsp;&nbsp;</strong></h4>
 <p>Get ready for our action-packed event with both <strong>Outdoor</strong> and <strong>Indoor Walk</strong> segments.
 Rack up those steps to stand a chance to win attractive prizes!&nbsp;Clock
