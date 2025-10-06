@@ -66,19 +66,19 @@ See you there!&nbsp;</p>
 <h4><strong>Follow the Buzz on Instagram Below! 👇</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>TPAC: <a href="https://www.instagram.com/tpadventureclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpadventureclub</a>
+<p><strong>TPAC: </strong><a href="https://www.instagram.com/tpadventureclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpadventureclub</a>
 </p>
 </li>
 <li>
-<p>TPCSC: <a href="https://www.instagram.com/tp_csc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_csc</a>
+<p><strong>TPCSC:</strong>  <a href="https://www.instagram.com/tp_csc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_csc</a>
 </p>
 </li>
 <li>
-<p>TPSC: <a href="https://www.instagram.com/tp_sportsclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_sportsclub</a>
+<p><strong>TPSC: </strong><a href="https://www.instagram.com/tp_sportsclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_sportsclub</a>
 </p>
 </li>
 <li>
-<p>TPSU: <a href="https://www.instagram.com/tpsuonline/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpsuonline</a>
+<p><strong>TPSU:</strong>  <a href="https://www.instagram.com/tpsuonline/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpsuonline</a>
 </p>
 </li>
 </ul>
