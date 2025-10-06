@@ -35,7 +35,7 @@ sections:
       subtitle: TURNING STEPS INTO SUPPORT!
       id: infopic
       description: Our annual community initiative is back – bigger and bolder than
-        ever! Learn how you can step up to make a difference and win attractive
+        ever. Learn how you can step up to make a difference and win attractive
         prizes!
       button: JOIN THE CAUSE!
       url: /events/clubs/tp-walk-for-health/
