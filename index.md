@@ -38,7 +38,7 @@ sections:
         ever! Learn how you can step up to make a difference and win attractive
         prizes!
       button: JOIN THE CAUSE!
-      url: /tp-walk-for-health
+      url: /events/clubs/tp-walk-for-health/
       alt: Image alt text
   - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
