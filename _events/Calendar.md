@@ -21,18 +21,17 @@ variant: tiptap
 <p><strong><a href="/events/clubs/tp-walk-for-health/" rel="noopener nofollow" target="_blank">TP Walk for Health</a></strong>
 </p>
 <p></p>
-<p>The heat is on! This season, get ready for some thrilling action as we
-cheer on <strong>Team Temasek</strong>, who are standing tall and all set
-to give their best for TP at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p>Hey #TPFAM! It is that time of the year to lace up once again – only this
+time, we are taking it up a notch! From the well-loved TP Walk for Rice,
+we are back with a bigger and bolder dream.</p>
 <p></p>
-<p>Keen to soak up the electrifying atmosphere in person? Come support Team
-Temasek and experience the adrenaline live in TP, as well as across various
-venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
-for updates on the epic battles and exciting matchups for your favourite
-sports in the coming weeks.</p>
-<p></p>
-<p>One spirit, one dream, one team. Let’s unite and make TP truly a home
-of the champions!</p>
+<p>Introducing the <strong>TP Walk for Health (WFH)</strong>, proudly organised
+by the P4 Clubs in support of the South East Community Development Council’s
+annual campaign!&nbsp;Transform <strong>every kilometre</strong> you walk
+into <strong>$1 in vouchers</strong> for needy families residing in the South
+East District, courtesy of the FairPrice Foundation! And since it is <strong>TP’s 35th anniversary</strong>,
+let’s rally together and hit <strong>3,500 participants</strong> for every
+amazing year we are celebrating. See you there!</p>
 <p></p>
 </td>
 </tr>
