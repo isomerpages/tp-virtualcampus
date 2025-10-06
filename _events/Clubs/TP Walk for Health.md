@@ -37,7 +37,7 @@ See you there!&nbsp;</p>
 <p>📅 28-30 October 2025</p>
 <p>🕑 8am to 8pm</p>
 <p>📍 Temasek Polytechnic Triangular Gardens &amp; Auditorium Foyer&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>👉 Register Now: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/tpwalkforhealth</a>
+<p><strong>👉 Register Now: <a href="https://for.edu.sg/tpwalkforhealth" rel="noopener nofollow" target="_blank">https://for.edu.sg/tpwalkforhealth</a></strong>
 </p>
 <h4><strong>Participation Categories</strong></h4>
 <p><strong>Individuals:</strong>
@@ -61,6 +61,25 @@ See you there!&nbsp;</p>
 </li>
 <li>
 <p>Interest Groups</p>
+</li>
+</ul>
+<h4><strong>Follow the Buzz on Instagram Below! 👇</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>TPAC: <a href="https://www.instagram.com/tpadventureclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpadventureclub</a>
+</p>
+</li>
+<li>
+<p>TPCSC: <a href="https://www.instagram.com/tp_csc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_csc</a>
+</p>
+</li>
+<li>
+<p>TPSC: <a href="https://www.instagram.com/tp_sportsclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_sportsclub</a>
+</p>
+</li>
+<li>
+<p>TPSU: <a href="https://www.instagram.com/tpsuonline/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpsuonline</a>
+</p>
 </li>
 </ul>
 <p></p>
