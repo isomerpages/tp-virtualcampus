@@ -25,12 +25,12 @@ Rack up those steps to stand a chance to win attractive prizes!&nbsp;Clock
 a minimum of 3.5km and unlock an exclusive memento just for you!</p>
 <h4><strong>Join the Carnival Craze – Food &amp; Festivities Awaits!&nbsp;&nbsp;</strong></h4>
 <p>Explore our exciting line-up of <strong>day and night fringe activities</strong> filled
-with delicious <strong>food booths</strong>, thrilling <strong>carnival games</strong>,
+with free delicious <strong>food treats </strong>(whilst stocks last), thrilling <strong>carnival games</strong>,
 a <strong>photo booth</strong> to capture all your best memories, and more!
 Catch the beat and feel the vibe, as our TP talents and community partners
-light up the stage with vibrant <strong>performances</strong> that celebrate
-inclusivity. And don’t miss our <strong>lucky draw</strong>, featuring awesome
-prizes you will not want to miss!&nbsp;</p>
+light up the stage with their vibrant <strong>performances</strong>. And
+don’t miss our <strong>lucky draw</strong>, featuring awesome prizes you
+will not want to miss!&nbsp;</p>
 <p>Ready to step up and join the WFH cause? Mark your calendars this October.
 See you there!&nbsp;</p>
 <p>📅 28-30 October 2025</p>
