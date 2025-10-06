@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/polite-games-2025/" rel="noopener nofollow" target="_blank">Polytechnic-ITE Games (AY2025/26)</a></strong>
+<p><strong><a href="/events/clubs/tp-walk-for-health/" rel="noopener nofollow" target="_blank">TP Walk for Health</a></strong>
 </p>
 <p></p>
 <p>The heat is on! This season, get ready for some thrilling action as we
@@ -33,6 +33,7 @@ sports in the coming weeks.</p>
 <p></p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
+<p></p>
 </td>
 </tr>
 <tr>
