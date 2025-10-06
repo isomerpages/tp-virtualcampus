@@ -34,7 +34,7 @@ will not want to miss!&nbsp;</p>
 <p>Ready to step up and join the WFH cause? Mark your calendars this October.
 See you there!&nbsp;</p>
 <p>📅 28-30 October 2025</p>
-<p>🕑 8am to 8pm</p>
+<p>🕑 9am to 8pm</p>
 <p>📍 Temasek Polytechnic Triangular Gardens &amp; Auditorium Foyer&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>👉 Register Now: <a href="https://for.edu.sg/tpwalkforhealth" rel="noopener nofollow" target="_blank">https://for.edu.sg/tpwalkforhealth</a></strong>
 </p>
