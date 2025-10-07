@@ -11,8 +11,8 @@ variant: tiptap
 time, we are taking it up a notch!</p>
 <p>From the well-loved TP Walk for Rice, we are back with a bigger and bolder
 dream. Introducing the <strong>TP Walk for Health (WFH)</strong>, proudly
-organised by the P4 Clubs in support of the South East Community Development
-Council’s annual campaign!&nbsp;</p>
+organised by the <strong>P4 Clubs</strong> in support of the South East Community
+Development Council’s annual campaign!&nbsp;</p>
 <p>Imagine being able to contribute to a good cause just through walking,
 so get ready to make a real difference. Transform <strong>every kilometre</strong> you
 walk into <strong>$1 in vouchers</strong> for needy families residing in
