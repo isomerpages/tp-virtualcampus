@@ -19,10 +19,12 @@ walk into <strong>$1 in vouchers</strong> for needy families residing in
 the South East District, courtesy of the FairPrice Foundation! And since
 it is <strong>TP’s 35th anniversary</strong>, let’s rally together and hit <strong>3,500 participants</strong> for
 every amazing year we are celebrating!&nbsp;</p>
+<hr>
 <h4><strong>Where Fun Meets Purpose – Come Be Part of It!&nbsp;&nbsp;</strong></h4>
 <p>Get ready for our action-packed event with both <strong>Outdoor</strong> and <strong>Indoor Walk</strong> segments.
 Rack up those steps to stand a chance to win attractive prizes, and clock
 a minimum of 3.5km to unlock an exclusive memento just for you!</p>
+<hr>
 <h4><strong>Join the Carnival Craze – Food &amp; Festivities Awaits!&nbsp;&nbsp;</strong></h4>
 <p>Explore our exciting line-up of <strong>day and night fringe activities</strong> filled
 with free delicious <strong>food treats </strong>(whilst stocks last), thrilling <strong>carnival games</strong>,
@@ -38,6 +40,7 @@ See you there!&nbsp;</p>
 <p>📍 Temasek Polytechnic Triangular Gardens &amp; Auditorium Foyer&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>👉 Register Now: <a href="https://for.edu.sg/tpwalkforhealth" rel="noopener nofollow" target="_blank">https://for.edu.sg/tpwalkforhealth</a></strong>
 </p>
+<hr>
 <h4><strong>Participation Categories</strong></h4>
 <p><strong>Individuals:</strong>
 </p>
@@ -62,6 +65,7 @@ See you there!&nbsp;</p>
 <p>Interest Groups</p>
 </li>
 </ul>
+<hr>
 <h4><strong>Follow the Buzz on Instagram Below! 👇</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
