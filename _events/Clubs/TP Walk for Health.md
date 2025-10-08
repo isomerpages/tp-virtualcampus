@@ -71,19 +71,19 @@ See you there!&nbsp;</p>
 <h4><strong>Follow the Buzz on Instagram Below! 👇</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>TPAC: </strong><a href="https://www.instagram.com/tpadventureclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpadventureclub</a>
+<p><strong>TP Adventure Club: </strong><a href="https://www.instagram.com/tpadventureclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tpadventureclub</a>
 </p>
 </li>
 <li>
-<p><strong>TPCSC:</strong>  <a href="https://www.instagram.com/tp_csc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_csc</a>
+<p><strong>TP Community Service Club:</strong>  <a href="https://www.instagram.com/tp_csc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_csc</a>
 </p>
 </li>
 <li>
-<p><strong>TPSC: </strong><a href="https://www.instagram.com/tp_sportsclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_sportsclub</a>
+<p><strong>TP Sports Club: </strong><a href="https://www.instagram.com/tp_sportsclub/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp_sportsclub</a>
 </p>
 </li>
 <li>
-<p><strong>TPSU:</strong>  <a href="https://www.instagram.com/tp.studentsunion/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp.studentsunion</a>
+<p><strong>TP Students' Union:</strong>  <a href="https://www.instagram.com/tp.studentsunion/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@tp.studentsunion</a>
 </p>
 </li>
 </ul>
