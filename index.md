@@ -40,6 +40,7 @@ sections:
       button: JOIN THE CAUSE!
       url: /events/clubs/tp-walk-for-health/
       alt: Image alt text
+      image: /images/Events/Clubs/TP_WFH__1920px_by_1080px_.png
   - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
       subtitle: THE HEAT IS ON!
