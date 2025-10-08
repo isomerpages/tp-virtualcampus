@@ -6,7 +6,9 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h3><strong>TP Walk for Health</strong></h3>
-<p>[Insert image here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Clubs/TP_WFH__1920px_by_1080px_.png">
+</div>
 <p>Hey #TPFAM! It is that time of the year to lace up once again – only this
 time, we are taking it up a notch!</p>
 <p>From the well-loved TP Walk for Rice, we are back with a bigger and bolder
