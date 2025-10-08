@@ -13,7 +13,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert image here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Clubs/TP_WFH__1920px_by_1080px_.png">
+</div>
 <p><em>28-30 October 2025</em>
 </p>
 </td>
