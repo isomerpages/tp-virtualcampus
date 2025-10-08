@@ -33,8 +33,8 @@ with free delicious <strong>food treats </strong>(whilst stocks last), thrilling
 a <strong>photo booth</strong> to capture all your best memories, and more!
 Catch the beat and feel the vibe, as our TP talents and community partners
 light up the stage with their vibrant <strong>performances</strong>. And
-don’t miss our <strong>lucky draw</strong>, featuring awesome prizes you
-will not want to miss!&nbsp;</p>
+stay for our <strong>lucky draw</strong>, featuring awesome prizes you will
+not want to miss!&nbsp;</p>
 <p>Ready to step up and join the WFH cause? Mark your calendars this October.
 See you there!&nbsp;</p>
 <p>📅 28-30 October 2025</p>
