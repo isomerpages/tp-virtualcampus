@@ -30,6 +30,7 @@ TPLA Newsletters. Enjoy reading and have fun participating!</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>July 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
