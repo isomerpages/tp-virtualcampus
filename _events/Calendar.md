@@ -14,6 +14,44 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/TPOF_2025.png">
+</div>
+<p><em>19 &amp; 20 November 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="tp.edu.sg/tpof" rel="noopener nofollow" target="_blank">Temasek Polytechnic Opportunity Fest 2025</a></strong> 
+</p>
+<p></p>
+<p>Experience two days of opportunities at TPOF 2025!</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Meet universities and employers at 50 booths daily</p>
+</li>
+<li>
+<p>Attend admissions and scholarship talks by top universities</p>
+</li>
+<li>
+<p>Explore career and internship opportunities across over 15 sectors</p>
+</li>
+<li>
+<p>Enjoy exciting activities like a FREE professional photoshoot, Human Library
+by NTUC Youth, SIA Cabin Crew Interview, and more!</p>
+</li>
+<li>
+<p>Plus: Exciting giveaways from BrightSparks, ICA, NTUC Youth and others!</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Register Now</strong> - <a href="http://tp.edu.sg/tpof" rel="noopener noreferrer nofollow" target="_blank">tp.edu.sg/tpof</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Clubs/TP_WFH__1920px_by_1080px_.png">
 </div>
 <p><em>28-30 October 2025</em>
