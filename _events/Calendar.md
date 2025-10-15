@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="tp.edu.sg/tpof" rel="noopener nofollow" target="_blank">Temasek Polytechnic Opportunity Fest 2025</a></strong> 
+<p><strong><a href="http://tp.edu.sg/tpof" rel="noopener nofollow" target="_blank">Temasek Polytechnic Opportunity Fest 2025</a></strong>
 </p>
 <p></p>
 <p>Experience two days of opportunities at TPOF 2025!</p>
