@@ -31,6 +31,14 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: "Tapestry Arts Festival 2025: FLUX"
+      subtitle: ANNUAL ARTS FESTIVAL
+      id: infopic
+      description: XXXXXXXXXX
+      button: BE CAPTIVATED HERE!
+      url: /tapestry-arts-festival-2025-flux/
+      alt: Image alt text
+  - infopic:
       title: TP Walk for Health
       subtitle: TURNING STEPS INTO SUPPORT!
       id: infopic
