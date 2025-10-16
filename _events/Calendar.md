@@ -13,6 +13,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>[Insert image here]</p>
+<p><em>12 November to 5 December 2025</em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tapestry-arts-festival-2025-flux/" rel="noopener nofollow" target="_blank">Tapestry Arts Festival 2025: FLUX</a></strong>
+</p>
+<p></p>
+<p>XXXXXXXXXX</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/TPOF_2025.png">
 </div>
