@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Temasek Arts Centre
 ---
-<h3><strong>Tapestry Arts Festival 2024: Metamorphosis</strong></h3>
+<h3><strong>Tapestry Arts Festival 2025: FLUX</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/1920x1080px_Banner.png">
 </div>
