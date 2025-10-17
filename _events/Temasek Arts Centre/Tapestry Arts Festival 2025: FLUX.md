@@ -23,7 +23,7 @@ enjoy!</p>
 and inspiration flows. See you at the Festival!</p>
 <p>📅 12 November to 5 December 2025</p>
 <p>👀 For information on the Festival events and ticketing details, visit
-the official website at: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://tapestryartsfestiv.wixsite.com/tapestry-flux</a></strong>
+the official website at: <strong><a href="https://tapestryartsfestiv.wixsite.com/tapestry-flux" rel="noopener nofollow" target="_blank">https://tapestryartsfestiv.wixsite.com/tapestry-flux</a></strong>
 </p>
 <p>👉 Follow us on Instagram: <strong><a href="https://www.instagram.com/tapestryartsfest/" rel="noopener noreferrer nofollow" target="_blank">@tapestryartsfest</a></strong>
 </p>
