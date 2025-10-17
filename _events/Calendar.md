@@ -30,7 +30,7 @@ and captivate your senses. The 2025 edition features <strong>nine</strong>  <str
 offering a captivating mix of performances, workshops and creative collaborations
 across multiple art forms – and all promising something for everyone to
 enjoy!</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Come ride the current of creativity as ideas shift, boundaries dissolve,
 and inspiration flows. See you at the Festival!</p>
 <p></p>
