@@ -22,7 +22,17 @@ variant: tiptap
 <p><strong><a href="/tapestry-arts-festival-2025-flux/" rel="noopener nofollow" target="_blank">Tapestry Arts Festival 2025: FLUX</a></strong>
 </p>
 <p></p>
-<p>XXXXXXXXXX</p>
+<p>The <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong> proudly
+presents its annual flagship festival, happening from <strong>12 November to 5 December 2025</strong>!
+Take your pick from an enthralling line-up of events featuring the best
+of TP’s performing arts groups, as they take to the stage to engage, excite
+and captivate your senses. The 2025 edition features <strong>nine</strong>  <strong>exciting events</strong> –
+offering a captivating mix of performances, workshops and creative collaborations
+across multiple art forms – and all promising something for everyone to
+enjoy!</p>
+<p>&nbsp;</p>
+<p>Come ride the current of creativity as ideas shift, boundaries dissolve,
+and inspiration flows. See you at the Festival!</p>
 <p></p>
 </td>
 </tr>
