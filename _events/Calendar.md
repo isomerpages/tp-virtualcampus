@@ -26,7 +26,7 @@ to support students who require financial assistance to continue meaningful
 CCA involvement at TP. Eligible students can receive&nbsp;<strong>$320 per Academic Year (AY)</strong>,
 and&nbsp;<strong>up to 400 students</strong>&nbsp;may potentially be awarded
 every AY.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Keep your dreams alive while pursuing your passion. Apply for the CCA
 AF today!</p>
 <p></p>
