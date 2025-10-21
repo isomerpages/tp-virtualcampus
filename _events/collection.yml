@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Calendar.md
-      - Highlights/TP CCA Scholarships 2025.md
       - Highlights/.keep
+      - Highlights/CCA Assistance Fund.md
+      - Highlights/TP CCA Scholarships 2025.md
       - Highlights/TP National Day Celebrations 2025.md
       - Highlights/TP National Day Concert 2025.md
-      - Highlights/CCA Assistance Fund.md
       - Highlights/TP35 XChallenge Run 2025.md
       - Highlights/Temasek Student Excellent Awards 2025.md
       - Highlights/CCA Fair 2025.md
@@ -16,8 +16,8 @@ collections:
       - Highlights/Temasek Polytechnic Scholarships Presentation.md
       - Temasek Arts Centre/.keep
       - Temasek Arts Centre/About TAC.md
+      - "Temasek Arts Centre/Tapestry Arts Festival 2025: FLUX.md"
       - "Temasek Arts Centre/DREAMS: Celebrating TP35.md"
-      - "Temasek Arts Centre/Tapestry Arts Festival 2024: Metamorphosis.md"
       - Temasek Arts Centre/DREAMS Series.md
       - Temasek Arts Centre/TP's Film & Media Talents.md
       - Sports/.keep

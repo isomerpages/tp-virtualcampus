@@ -31,6 +31,17 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: "Tapestry Arts Festival 2025: FLUX"
+      subtitle: ANNUAL ARTS FESTIVAL
+      id: infopic
+      description: The Temasek Arts Centre proudly presents its annual flagship
+        festival, featuring a line-up of events that showcases the best of TP’s
+        performing arts groups!
+      button: BE CAPTIVATED HERE!
+      url: /tapestry-arts-festival-2025-flux/
+      alt: Image alt text
+      image: /images/Events/Highlights/TP_Happenings__1920_x_1080_px_.png
+  - infopic:
       title: TP Walk for Health
       subtitle: TURNING STEPS INTO SUPPORT!
       id: infopic
