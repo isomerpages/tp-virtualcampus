@@ -13,6 +13,27 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>[Insert image here]</p>
+<p><em>Application Period: 27 October to 7 November 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/cca-assistance-fund/" rel="noopener nofollow" target="_blank">CCA Assistance Fund</a></strong>
+</p>
+<p></p>
+<p>The<strong>&nbsp;CCA Assistance Fund (CCA AF)&nbsp;</strong>is established
+to support students who require financial assistance to continue meaningful
+CCA involvement at TP. Eligible students can receive&nbsp;<strong>$320 per Academic Year (AY)</strong>,
+and&nbsp;<strong>up to 400 students</strong>&nbsp;may potentially be awarded
+every AY.</p>
+<p>&nbsp;</p>
+<p>Keep your dreams alive while pursuing your passion. Apply for the CCA
+AF today!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Happenings__1920_x_1080_px_.png">
 </div>
