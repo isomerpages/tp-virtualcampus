@@ -40,6 +40,7 @@ sections:
       button: BE CAPTIVATED HERE!
       url: /tapestry-arts-festival-2025-flux/
       alt: Image alt text
+      image: /images/Events/Highlights/TP_Happenings__1920_x_1080_px_.png
   - infopic:
       title: TP Walk for Health
       subtitle: TURNING STEPS INTO SUPPORT!
