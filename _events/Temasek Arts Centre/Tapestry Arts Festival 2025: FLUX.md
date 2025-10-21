@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Temasek Arts Centre
 ---
 <h3><strong>Tapestry Arts Festival 2025: FLUX</strong></h3>
-<p>[Insert image here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Happenings__1920_x_1080_px_.png">
+</div>
 <p>The <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong> proudly
 presents its annual flagship event – “<strong>Tapestry Arts Festival 2025: FLUX</strong>”!</p>
 <p>Since its inception in 2022, “Tapestry” has been a student-led platform
