@@ -13,8 +13,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert image here]</p>
-<p><em>Application Period: 27 October to 7 November 2025</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Assistance_Fund_2025.png">
+</div>
+<p><em>Application Period: 24 October to 7 November 2025</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
