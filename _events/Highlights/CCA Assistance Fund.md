@@ -219,7 +219,7 @@ between<strong> April to 15 July 2025</strong>.</p>
 <p><strong>Application Period: </strong>28 July to 8 August 2025</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-November 2025</p>
+<p><strong>Disbursement Period:</strong> Around Mid-December 2025</p>
 </li>
 </ul>
 <p></p>
@@ -232,7 +232,7 @@ between<strong> April to 15 July 2025</strong>.</p>
 between <strong>16 July to October 2025</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>27 October to 7 November 2025</p>
+<p><strong>Application Period: </strong>24 October to 7 November 2025</p>
 </li>
 <li>
 <p><strong>Disbursement Period:</strong> Around end-February 2026</p>
