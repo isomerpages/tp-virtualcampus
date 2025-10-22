@@ -39,6 +39,7 @@ sections:
       button: FIND OUT HERE!
       url: /cca-assistance-fund/
       alt: Image alt text
+      image: /images/CCA_Assistance_Fund_2025.png
   - infopic:
       title: "Tapestry Arts Festival 2025: FLUX"
       subtitle: ANNUAL ARTS FESTIVAL
