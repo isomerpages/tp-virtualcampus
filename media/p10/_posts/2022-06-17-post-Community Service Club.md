@@ -47,15 +47,47 @@ this is your chance.</p>
 </table>
 <hr>
 <h4><strong>Care in Motion</strong></h4>
-<p>At the heart of every CSC event is a simple belief, that care grows stronger
-when it’s shared. TP students have shown how small acts of kindness can
-create ripples of real change.</p>
-<p>Now, we are keeping that <em>Care in Motion</em> and you are invited to
-be part of it! Whether you have a passion for giving back, connecting with
-the community, or simply want to make your time in TP more meaningful,
-CSC offers a space where your heart meets purpose.</p>
+<p>At the heart of every TPCSC event is a simple belief, that care grows
+stronger when it is shared. TP students have shown how small acts of kindness
+can create ripples of real change.</p>
+<p>Now, we are keeping that <strong><em>Care in Motion</em></strong> and you
+are invited to be part of it! Whether you have a passion for giving back,
+connecting with the community, or simply want to make your time in TP more
+meaningful, TPCSC offers a space where your heart meets purpose.</p>
 <p>Join us in our upcoming projects, and together, let’s keep the spirit
-of care moving forward; one act, one smile, one community at a time.</p>
+of care moving forward; one act, one smile, one community at a time!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h4><strong>TP35: Stories of Service, Spirit &amp; Impact</strong></h4>
 <table style="minWidth: 75px">
