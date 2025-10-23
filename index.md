@@ -35,7 +35,7 @@ sections:
       subtitle: KEEP YOUR DREAMS ALIVE!
       id: infopic
       description: Don’t let financial constraints hold you back. Tap on the CCA
-        Assistance Fund to pursue your passion. Apply today!
+        Assistance Fund to pursue your passion. Apply for it today!
       button: FIND OUT HERE!
       url: /cca-assistance-fund/
       alt: Image alt text
