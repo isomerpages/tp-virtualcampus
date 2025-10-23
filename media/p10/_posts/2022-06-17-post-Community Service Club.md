@@ -56,9 +56,8 @@ connecting with the community, or simply want to make your time in TP more
 meaningful, TPCSC offers a space where your heart meets purpose.</p>
 <p>Join us in our upcoming projects, and together, let’s keep the spirit
 of care moving forward; one act, one smile, one community at a time!</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -68,11 +67,13 @@ of care moving forward; one act, one smile, one community at a time!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/1.png">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/2.png">
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -80,6 +81,8 @@ of care moving forward; one act, one smile, one community at a time!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/3.png">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/4.png">
