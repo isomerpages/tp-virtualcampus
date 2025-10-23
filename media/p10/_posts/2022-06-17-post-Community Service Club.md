@@ -54,21 +54,20 @@ this is your chance.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Ayuni.jpg">
 </div>
 <p>Welcome to Episode 1 of this special series, sharing 35 inspiring stories
-of those in our community, in celebration of 35 years of Temasek Polytechnic!
-<br>
-</p>
+of those in our community, in celebration of 35 years of Temasek Polytechnic!</p>
+<p></p>
 <p>This episode features Ayuni, President of TPCSC — a dedicated student
 leader and an active contributor to our community.</p>
 <p></p>
-<p><a href="https://www.instagram.com/reel/DN42mZEj6o4/?igsh=c2R3bmx3aTIxNGFw" rel="noopener nofollow" target="_blank">View it here!</a>
+<p><strong><a href="https://www.instagram.com/reel/DN42mZEj6o4/?igsh=c2R3bmx3aTIxNGFw" rel="noopener nofollow" target="_blank">View it here!</a></strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Isabelle.jpg">
 </div>
@@ -79,19 +78,20 @@ of those in our community, in celebration of 35 years of Temasek Polytechnic!</p
 Cluster, known for her dedication, compassion and the way she is always
 guiding the team forward.</p>
 <p></p>
-<p><a href="https://www.instagram.com/p/DOduMZRgRDY/?igsh=MXN0ODg0MXg1OGV4Mg%3D%3D" rel="noopener nofollow" target="_blank">View it here!</a>
+<p><strong><a href="https://www.instagram.com/p/DOduMZRgRDY/?igsh=MXN0ODg0MXg1OGV4Mg%3D%3D" rel="noopener nofollow" target="_blank">View it here!</a></strong>
 </p>
-<p></p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Sheralyn_TPCSC.png">
 </div>
-<p><strong>Welcome to Episode 3 of this special series, sharing 35 inspiring stories of those in our community, in celebration of 35 years of Temasek Polytechnic!</strong>
-</p>
+<p>Welcome to Episode 3 of this special series, sharing 35 inspiring stories
+of those in our community, in celebration of 35 years of Temasek Polytechnic!</p>
 <p></p>
-<p><strong>This episode features Sheralyn, a TP alumna from the Class of 2022, who is now pursuing marketing in the Singapore Management University. From past to present, she is always proud to be part of the TP family and continues to carry the TP spirit with pride and joy!</strong>
-</p>
+<p>This episode features Sheralyn, a TP alumna from the Class of 2022, who
+is now pursuing marketing in the Singapore Management University. From
+past to present, she is always proud to be part of the TP family and continues
+to carry the TP spirit with pride and joy!</p>
 <p></p>
 <p><strong><a href="https://www.instagram.com/reel/DQDUdFGD4Wy/?igsh=NzRyNjhzeWszNzB3" rel="noopener nofollow" target="_blank">View it here!</a></strong>
 </p>
