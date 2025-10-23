@@ -45,6 +45,18 @@ this is your chance.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>Care in Motion</strong></h4>
+<p>At the heart of every CSC event is a simple belief, that care grows stronger
+when it’s shared. TP students have shown how small acts of kindness can
+create ripples of real change.</p>
+<p>Now, we are keeping that <em>Care in Motion</em> and you are invited to
+be part of it! Whether you have a passion for giving back, connecting with
+the community, or simply want to make your time in TP more meaningful,
+CSC offers a space where your heart meets purpose.</p>
+<p>Join us in our upcoming projects, and together, let’s keep the spirit
+of care moving forward; one act, one smile, one community at a time.</p>
+<hr>
 <h4><strong>TP35: Stories of Service, Spirit &amp; Impact</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
