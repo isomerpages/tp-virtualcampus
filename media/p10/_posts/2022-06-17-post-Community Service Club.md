@@ -57,7 +57,9 @@ this is your chance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Ayuni.jpg">
 </div>
-<p><strong>Welcome to Episode 1 of this special series, sharing 35 inspiring stories of those in our community, in celebration of 35 years of Temasek Polytechnic!<br></strong>
+<p>Welcome to Episode 1 of this special series, sharing 35 inspiring stories
+of those in our community, in celebration of 35 years of Temasek Polytechnic!
+<br>
 </p>
 <p>This episode features Ayuni, President of TPCSC — a dedicated student
 leader and an active contributor to our community.</p>
@@ -68,8 +70,8 @@ leader and an active contributor to our community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Isabelle.jpg">
 </div>
-<p><strong>Welcome to Episode 2 of this special series, sharing 35 inspiring stories of those in our community, in celebration of 35 years of Temasek Polytechnic!</strong>
-</p>
+<p>Welcome to Episode 2 of this special series, sharing 35 inspiring stories
+of those in our community, in celebration of 35 years of Temasek Polytechnic!</p>
 <p></p>
 <p>This episode features Isabelle, Assistant Vice President of TPCSC's Eldercare
 Cluster, known for her dedication, compassion and the way she is always
