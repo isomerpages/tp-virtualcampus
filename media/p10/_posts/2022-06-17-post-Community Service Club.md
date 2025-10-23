@@ -46,8 +46,9 @@ this is your chance.</p>
 </tbody>
 </table>
 <h4><strong>TP35: Stories of Service, Spirit &amp; Impact</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -79,9 +80,20 @@ guiding the team forward.</p>
 <p><strong><br></strong><a href="https://www.instagram.com/p/DOduMZRgRDY/?igsh=MXN0ODg0MXg1OGV4Mg%3D%3D" rel="noopener nofollow" target="_blank">View it here!</a>
 </p>
 <p></p>
-<p></p>
-<p></p>
 </th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Sheralyn_TPCSC.png">
+</div>
+<p><strong>Welcome to Episode 3 of this special series, sharing 35 inspiring stories of those in our community, in celebration of 35 years of Temasek Polytechnic!</strong>
+</p>
+<p></p>
+<p><strong>This episode features Sheralyn, a TP alumna from the Class of 2022, who is now pursuing marketing in the Singapore Management University. From past to present, she is always proud to be part of the TP family and continues to carry the TP spirit with pride and joy! </strong>
+</p>
+<p></p>
+<p><strong><a href="https://www.instagram.com/reel/DQDUdFGD4Wy/?igsh=NzRyNjhzeWszNzB3" rel="noopener nofollow" target="_blank">View it here!</a></strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
