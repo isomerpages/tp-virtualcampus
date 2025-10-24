@@ -31,6 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: CCA Assistance Fund
+      subtitle: KEEP YOUR DREAMS ALIVE!
+      id: infopic
+      description: Don’t let financial constraints hold you back. Tap on the CCA
+        Assistance Fund to pursue your passion. Apply for it today!
+      button: FIND OUT HERE!
+      url: /cca-assistance-fund/
+      alt: Image alt text
+      image: /images/CCA_Assistance_Fund_2025.png
+  - infopic:
       title: "Tapestry Arts Festival 2025: FLUX"
       subtitle: ANNUAL ARTS FESTIVAL
       id: infopic

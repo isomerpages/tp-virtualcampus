@@ -45,41 +45,104 @@ this is your chance.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>TP35: Stories of Service, Spirit &amp; Impact</strong></h4>
-<table style="minWidth: 50px">
+<hr>
+<h4><strong>Care in Motion</strong></h4>
+<p>At the heart of every TPCSC event is a simple belief, that care grows
+stronger when it is shared. TP students have shown how small acts of kindness
+can create ripples of real change.</p>
+<p>Now, we are keeping that <strong><em>Care in Motion</em></strong> and you
+are invited to be part of it! Whether you have a passion for giving back,
+connecting with the community, or simply want to make your time in TP more
+meaningful, TPCSC offers a space where your heart meets purpose.</p>
+<p>Join us in our upcoming projects, and together, let’s keep the spirit
+of care moving forward; one act, one smile, one community at a time!</p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/1.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/3.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>TP35: Stories of Service, Spirit &amp; Impact</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Ayuni.jpg">
 </div>
-<p><strong>Welcome to Episode 1 of this special series, sharing 35 inspiring stories of those in our community, in celebration of 35 years of Temasek Polytechnic!<br></strong>
-</p>
+<p>Welcome to Episode 1 of this special series, sharing 35 inspiring stories
+of those in our community, in celebration of 35 years of Temasek Polytechnic!</p>
+<p></p>
 <p>This episode features Ayuni, President of TPCSC — a dedicated student
 leader and an active contributor to our community.</p>
-<p><strong><br></strong><a href="https://www.instagram.com/reel/DN42mZEj6o4/?igsh=c2R3bmx3aTIxNGFw" rel="noopener nofollow" target="_blank">View it here!</a>
+<p></p>
+<p><strong><a href="https://www.instagram.com/reel/DN42mZEj6o4/?igsh=c2R3bmx3aTIxNGFw" rel="noopener nofollow" target="_blank">View it here!</a></strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Isabelle.jpg">
 </div>
-<p><strong>Welcome to Episode 2 of this special series, sharing 35 inspiring stories of those in our community, in celebration of 35 years of Temasek Polytechnic!</strong>
-</p>
+<p>Welcome to Episode 2 of this special series, sharing 35 inspiring stories
+of those in our community, in celebration of 35 years of Temasek Polytechnic!</p>
 <p></p>
 <p>This episode features Isabelle, Assistant Vice President of TPCSC's Eldercare
 Cluster, known for her dedication, compassion and the way she is always
 guiding the team forward.</p>
-<p><strong><br></strong><a href="https://www.instagram.com/p/DOduMZRgRDY/?igsh=MXN0ODg0MXg1OGV4Mg%3D%3D" rel="noopener nofollow" target="_blank">View it here!</a>
+<p></p>
+<p><strong><a href="https://www.instagram.com/p/DOduMZRgRDY/?igsh=MXN0ODg0MXg1OGV4Mg%3D%3D" rel="noopener nofollow" target="_blank">View it here!</a></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Sheralyn_TPCSC.png">
+</div>
+<p>Welcome to Episode 3 of this special series, sharing 35 inspiring stories
+of those in our community, in celebration of 35 years of Temasek Polytechnic!</p>
 <p></p>
+<p>This episode features Sheralyn, a TP alumna from the Class of 2022, who
+is now pursuing marketing in the Singapore Management University. From
+past to present, she is always proud to be part of the TP family and continues
+to carry the TP spirit with pride and joy!</p>
 <p></p>
-<p></p>
-</th>
+<p><strong><a href="https://www.instagram.com/reel/DQDUdFGD4Wy/?igsh=NzRyNjhzeWszNzB3" rel="noopener nofollow" target="_blank">View it here!</a></strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
