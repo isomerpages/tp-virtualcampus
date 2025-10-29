@@ -24,7 +24,7 @@ sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
 <hr>
-<h4><strong>ForzaTP - Let’s Support Team Temasek (Soccer) at the POL-ITE Games 2025!</strong></h4>
+<h4><strong>ForzaTP - Let’s Support Team Temasek (Soccer) at the POL-ITE Games!</strong></h4>
 <p>Hey #TPFAM! Are you ready for an adrenaline rush right here on campus?</p>
 <p>This November, let’s unite and cheer on our <strong>TP Soccer</strong> teams
 at “<strong>ForzaTP</strong>”, and catch them dominate the <strong>POL-ITE Soccer Finals</strong>!
