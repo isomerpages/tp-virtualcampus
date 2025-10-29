@@ -26,7 +26,7 @@ of the champions!</p>
 <hr>
 <h4><strong>Game Fixtures</strong></h4>
 <p>Click <strong><a href="https://for.edu.sg/politegames2025fixtures" rel="noopener nofollow" target="_blank">here</a></strong> to
-view the POL-ITE Games 2025 fixtures*.</p>
+view the full POL-ITE Games 2025 fixtures*.</p>
 <p>No registration is needed – simply come by to catch your favourite teams
 in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
 <p><em>(*Fixtures may be subjected to change without prior notice.)</em>
