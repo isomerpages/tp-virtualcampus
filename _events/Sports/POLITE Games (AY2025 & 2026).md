@@ -69,7 +69,7 @@ soccer action live in TP!</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>18 Nov 2025</p>
+<p>18 Nov 2025 (Tuesday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30pm</p>
@@ -78,7 +78,7 @@ soccer action live in TP!</p>
 <p>Soccer (W) / TP vs. NP</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Blk 29, Sports Complex</p>
+<p>Blk 29, TP Sports Complex</p>
 </td>
 </tr>
 <tr>
