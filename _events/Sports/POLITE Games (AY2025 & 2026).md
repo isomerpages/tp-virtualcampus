@@ -76,7 +76,7 @@ soccer action live in TP!</p>
 <p>6.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soccer (W) / TP vs. NP</p>
+<p>Soccer (Women) / TP vs. NP</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Blk 29, TP Sports Complex</p>
@@ -87,7 +87,7 @@ soccer action live in TP!</p>
 <p>8.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soccer (M) / TP vs. NP</p>
+<p>Soccer (Men) / TP vs. NP</p>
 </td>
 </tr>
 </tbody>
