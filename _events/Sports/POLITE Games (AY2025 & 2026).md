@@ -69,7 +69,7 @@ soccer action live in TP!</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>18 Nov 2025 (Tuesday)</p>
+<p>18 November 2025 (Tuesday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.30pm</p>
