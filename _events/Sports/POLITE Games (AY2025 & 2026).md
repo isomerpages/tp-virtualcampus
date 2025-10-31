@@ -94,7 +94,7 @@ soccer action live in TP!</p>
 </tr>
 </tbody>
 </table>
-<p><strong><em>(*No registration required – just drop by and join the fun as you cheer for our TP Soccer teams!)</em></strong>
+<p><strong><em>(*No registration required – just drop by and join in the fun as you cheer for Team Temasek!)</em></strong>
 </p>
 <hr>
 <h4><strong>Game Fixtures</strong></h4>
