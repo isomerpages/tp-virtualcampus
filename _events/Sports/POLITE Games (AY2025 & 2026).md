@@ -24,9 +24,84 @@ sports in the coming weeks.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
 <hr>
+<h4><strong>ForzaTP - Let’s Support Team Temasek (Soccer) at the POL-ITE Games!</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/ForzaTP___POL_ITE_Games_2025__1920px_by_1080px_.jpg">
+</div>
+<p>Hey #TPFAM! Are you ready for an adrenaline rush right here on campus?</p>
+<p>This November, let’s unite and cheer on our <strong>TP Soccer</strong> teams
+at “<strong>ForzaTP</strong>”, and catch them dominate the <strong>POL-ITE Soccer Finals</strong>!
+“<strong>Forza</strong>” (meaning “strength” in Italian) symbolises unity,
+passion and determination – the core values that we are proud to carry
+as we back <strong>Team Temasek</strong> all the way, both on and off the
+field!</p>
+<p>Join us in rallying behind our teams as they give their all, compete with
+their fiercest spirit, and pour their hearts into every play. Bring your
+unbridled energy, unlock your loudest cheers, and experience the exciting
+soccer action live in TP!</p>
+<p><strong>Don’t miss these exciting highlights:</strong>
+</p>
+<p>✨ Celebrate our campus spirit and unleash your TP pride!</p>
+<p>✨ Grab free cheer packs and tasty treats at our live food stations!</p>
+<p>✨ Spot our cute mascots and snap fun moments with them!</p>
+<p>✨ Enjoy electrifying half-time performances by TP’s arts groups!</p>
+<p>Let’s make some noise and bring home the victory for TP. See you there!</p>
+<p><strong><u>POL-ITE Games 2025 (Soccer) – Schedule*</u></strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Match</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>18 November 2025 (Tuesday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soccer (Women) /</p>
+<p>TP vs. NP</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Blk 29, TP Sports Complex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soccer (Men) /</p>
+<p>TP vs. NP</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>(*No registration required – just drop by and join in the fun as you cheer for Team Temasek!)</em></strong>
+</p>
+<hr>
 <h4><strong>Game Fixtures</strong></h4>
 <p>Click <strong><a href="https://for.edu.sg/politegames2025fixtures" rel="noopener nofollow" target="_blank">here</a></strong> to
-view the POL-ITE Games 2025 fixtures*.</p>
+view the full POL-ITE Games 2025 fixtures*.</p>
 <p>No registration is needed – simply come by to catch your favourite teams
 in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
 <p><em>(*Fixtures may be subjected to change without prior notice.)</em>
