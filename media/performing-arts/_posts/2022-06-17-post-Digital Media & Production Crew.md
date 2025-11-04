@@ -109,7 +109,8 @@ a variety of productions.</p>
 <h5>Staff Advisors</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:Giles_RAQUIZA@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Giles Raquiza</a>
+<p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Leong</a> &amp;
+<a href="mailto:nigel_tan@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Nigel Tan</a>
 </p>
 </li>
 </ul>
