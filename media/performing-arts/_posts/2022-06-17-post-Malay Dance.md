@@ -83,7 +83,7 @@ the rich Malay heritage of the various styles portrayed.</p>
 <h5>Staff Advisor</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:Giles_RAQUIZA@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Giles Raquiza</a> 
+<p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Leong</a>
 <br>
 </p>
 </li>
