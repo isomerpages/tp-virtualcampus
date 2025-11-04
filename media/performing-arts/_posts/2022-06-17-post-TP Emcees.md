@@ -88,7 +88,7 @@ TP Emcees family!</p>
 <h5>Staff Advisor</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:Giles_RAQUIZA@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Giles Raquiza</a>
+<p><a href="mailto:mark_spencer@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Mark Spencer</a>
 <br>
 </p>
 </li>
