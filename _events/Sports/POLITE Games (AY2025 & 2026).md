@@ -26,7 +26,7 @@ of the champions!</p>
 <hr>
 <h4><strong>ForzaTP - Let’s Support Team Temasek (Soccer) at the POL-ITE Games!</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/ForzaTP___POL_ITE_Games_2025__1920px_by_1080px_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/ForzaTP___POL_ITE_Games_2025__1920px_by_1080px__Updated.jpg">
 </div>
 <p>Hey #TPFAM! Are you ready for an adrenaline rush right here on campus?</p>
 <p>This November, let’s unite and cheer on our <strong>TP Soccer</strong> teams
