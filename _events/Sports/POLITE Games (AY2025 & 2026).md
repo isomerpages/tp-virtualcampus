@@ -44,7 +44,6 @@ soccer action live in TP!</p>
 <p>✨ Celebrate our campus spirit and unleash your TP pride!</p>
 <p>✨ Grab free cheer packs and tasty treats at our live food stations!</p>
 <p>✨ Spot our cute mascots and snap fun moments with them!</p>
-<p>✨ Enjoy electrifying half-time performances by TP’s arts groups!</p>
 <p>Let’s make some noise and bring home the victory for TP. See you there!</p>
 <p><strong><u>POL-ITE Games 2025 (Soccer) – Schedule*</u></strong>
 </p>
