@@ -110,14 +110,22 @@ soccer action live in TP!</p>
 </div>
 </details>
 </div>
-<hr>
-<h4><strong>Game Fixtures</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Game Fixtures</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Click <strong><a href="https://for.edu.sg/politegames2025fixtures" rel="noopener nofollow" target="_blank">here</a></strong> to
 view the full POL-ITE Games 2025 fixtures*.</p>
+<p></p>
 <p>No registration is needed – simply come by to catch your favourite teams
 in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
+<p></p>
 <p><em>(*Fixtures may be subjected to change without prior notice.)</em>
 </p>
+</div>
+</details>
+</div>
 <hr>
 <h4><strong>List of POL-ITE Sports Participated By TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
