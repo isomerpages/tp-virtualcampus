@@ -25,6 +25,22 @@ sports in the coming weeks.</p>
 of the champions!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Game Fixtures</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Click <strong><a href="https://for.edu.sg/politegames2025fixtures" rel="noopener nofollow" target="_blank">here</a></strong> to
+view the full POL-ITE Games 2025 fixtures*.</p>
+<p></p>
+<p>No registration is needed – simply come by to catch your favourite teams
+in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
+<p></p>
+<p><em>(*Fixtures may be subjected to change without prior notice.)</em>
+</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>ForzaTP - Let’s Support Team Temasek (Soccer) at the POL-ITE Games!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -106,22 +122,6 @@ soccer action live in TP!</p>
 </table>
 <p></p>
 <p><strong><em>(*No registration required – just drop by and join in the fun as you cheer for Team Temasek!)</em></strong>
-</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Game Fixtures</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Click <strong><a href="https://for.edu.sg/politegames2025fixtures" rel="noopener nofollow" target="_blank">here</a></strong> to
-view the full POL-ITE Games 2025 fixtures*.</p>
-<p></p>
-<p>No registration is needed – simply come by to catch your favourite teams
-in action, and have fun as you cheer for Team Temasek. See you at the games!</p>
-<p></p>
-<p><em>(*Fixtures may be subjected to change without prior notice.)</em>
 </p>
 </div>
 </details>
