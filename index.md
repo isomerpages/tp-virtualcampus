@@ -53,16 +53,6 @@ sections:
       alt: Image alt text
       image: /images/Events/Highlights/TP_Happenings__1920_x_1080_px_.png
   - infopic:
-      title: CCA Assistance Fund
-      subtitle: KEEP YOUR DREAMS ALIVE!
-      id: infopic
-      description: Don’t let financial constraints hold you back. Tap on the CCA
-        Assistance Fund to pursue your passion. Apply for it today!
-      button: FIND OUT HERE!
-      url: /cca-assistance-fund/
-      alt: Image alt text
-      image: /images/CCA_Assistance_Fund_2025.png
-  - infopic:
       title: TP Walk for Health
       subtitle: TURNING STEPS INTO SUPPORT!
       id: infopic
