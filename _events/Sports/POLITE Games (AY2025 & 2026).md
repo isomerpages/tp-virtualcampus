@@ -6,23 +6,34 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2025/26)</strong></h3>
+<p>The heat is on!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The Heat Is On!</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/eDM_2__1920_X_1080px.jpg">
 </div>
-<p>The heat is on! This season, get ready for some thrilling action as we
-cheer on <strong>Team Temasek</strong>, who are standing tall and all set
-to give their best for TP at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p>This season, get ready for some thrilling action as we cheer on <strong>Team Temasek</strong>,
+who are standing tall and all set to give their best for TP at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p></p>
 <p>Let’s rally behind our sports warriors as they vie for institutional glory
 and team pride. Your cheers will fuel their dreams, your passion will uplift
 their spirits, and together, we will blaze a trail of honour and excellence
 in this annual showdown!</p>
+<p></p>
 <p>Keen to soak up the electrifying atmosphere in person? Come support Team
 Temasek and experience the adrenaline live in TP, as well as across various
 venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
 for updates on the epic battles and exciting matchups for your favourite
 sports in the coming weeks.</p>
+<p></p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Game Fixtures</strong>
