@@ -6,7 +6,41 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2025/26)</strong></h3>
-<p>The heat is on!</p>
+<p>[Insert eDM here]</p>
+<p>Heartiest congratulations to <strong>Team Temasek</strong> for proudly flying
+the TP flag high at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p>Throughout a challenging but rewarding season, TP recorded a commendable
+haul of&nbsp;<strong>XX Gold</strong>,<strong> XX Silver </strong>and<strong> XX Bronze</strong> medals.
+A big round of applause to all our student-athletes for their resilience,
+teamwork and spirit! Special thanks to our team coaches and staff advisors
+for their expert guidance and unwavering dedication too, and cheers to
+passionate supporters from our TP family for their steadfast backing all
+the way!</p>
+<p>The POL-ITE Games was also a meaningful season, bringing together our
+student-athletes on an inspiring and collective journey to represent TP
+in their respective sports. Here are some notable highlights:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We commend the <strong>Hockey (Men)</strong>, <strong>Rugby</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football </strong>and <strong>Volleyball (Men)</strong> teams
+for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
+</li>
+<li>
+<p>Congratulations to the <strong>Dragon Boat (Men, Women &amp; Mixed)</strong>, <strong>Hockey</strong>, <strong>Rugby</strong>, <strong>Swimming (Men)</strong>, <strong>Taekwondo</strong>, <strong>Touch Football</strong>,
+and <strong>Volleyball (Men)</strong> teams for successfully defending their
+championship titles.</p>
+</li>
+<li>
+<p>We applaud the <strong>Tennis (Men)</strong> team for claiming the gold
+medal after last year’s silver finish, and the <strong>10-Pin Bowling (Men)</strong>, <strong>Table Tennis (Women) </strong>and <strong>Tchoukball (Men &amp; Women)</strong> teams
+for their proud return to the podium after an absence.</p>
+</li>
+<li>
+<p>We also celebrate the teams that have achieved <strong>consecutive POL-ITE championship titles</strong>,
+demonstrating years of dedicated effort and strict discipline. (Please
+see the table below for details.)</p>
+</li>
+</ul>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The Heat Is On!</strong>
