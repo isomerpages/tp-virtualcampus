@@ -31,7 +31,7 @@ championship titles.</p>
 <li>
 <p>We applaud the <strong>Tennis (Men)</strong> team for claiming the gold
 medal after last year’s silver finish, and the <strong>10-Pin Bowling (Men)</strong>, <strong>Table Tennis (Women) </strong>and <strong>Tchoukball (Men &amp; Women)</strong> teams
-for their proud return to the podium after an absence.</p>
+for their proud return to the podium after a hiatus.</p>
 </li>
 <li>
 <p>We also celebrate the teams that have achieved <strong>consecutive POL-ITE championship titles</strong>,
