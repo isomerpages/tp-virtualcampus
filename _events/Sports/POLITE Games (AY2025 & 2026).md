@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2025/26)</strong></h3>
-<p>[Insert eDM here]</p>
 <p>Heartiest congratulations to <strong>Team Temasek</strong> for proudly flying
 the TP flag high at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
 <p>Throughout a challenging but rewarding season, TP recorded a commendable
@@ -48,66 +47,66 @@ see the table below for details.)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Team</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Number of Yeas of Championship</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dragon Boat (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>8 (since 2017)*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dragon Boat (Women)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>5 (since 2021)*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dragon Boat (Mixed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>7 (since 2017)^</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Swimming (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8 (since 2017)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 (since inception)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Touch Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 (since 2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 (since 2013)*</p>
 </td>
 </tr>
 </tbody>
@@ -122,7 +121,7 @@ hard, and keep reaching for the stars!</p>
 </p>
 <hr>
 <h4><strong>POL-TE Games (AY2025/26) – Medal Tally</strong></h4>
-<p></p>
+<p>[Insert eDM here]</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The Heat Is On!</strong>
