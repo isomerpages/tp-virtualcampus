@@ -40,6 +40,88 @@ demonstrating years of dedicated effort and strict discipline. (Please
 see the table below for details.)</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*No games in 2020 due to COVID-19.</em>
+</p>
+<p><em>^No games in 2020 &amp; 2021 due to COVID-19.</em>
+</p>
+<p>We are incredibly proud of all our sports warriors. Dream big, strive
+hard, and keep reaching for the stars!</p>
+<p><strong><em>(Get ready! Team Temasek is gearing up for the Institute-Varsity-Polytechnic Games in January 2026, where we will be challenging the tertiary institutions in a variety of sports. Don’t miss the action – stay tuned to this space for updates!)</em></strong>
+</p>
+<hr>
+<h4><strong>POL-TE Games (AY2025/26) – Medal Tally</strong></h4>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
