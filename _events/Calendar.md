@@ -23,6 +23,14 @@ variant: tiptap
 <p><strong><a href="/polite-games-2025/" rel="noopener nofollow" target="_blank">Polytechnic-ITE Games (AY2025/26)</a></strong>
 </p>
 <p></p>
+<p>Heartiest congratulations to <strong>Team Temasek</strong> for proudly flying
+the TP flag high at the annual <strong>POL-ITE Games (AY2025/26)</strong>!
+Throughout a challenging but rewarding season, TP recorded a commendable
+haul of&nbsp;<strong>XX Gold</strong>,<strong> XX Silver</strong> and<strong> XX Bronze</strong> medals.
+Check out our full medal tally <strong><a href="/polite-games-2025/" rel="noopener nofollow" target="_blank">here</a></strong>!</p>
+<p></p>
+<p>We are incredibly proud of all our sports warriors. Dream big, strive
+hard, and keep reaching for the stars!</p>
 <p></p>
 </td>
 </tr>
