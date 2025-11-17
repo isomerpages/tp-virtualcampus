@@ -50,7 +50,7 @@ see the table below for details.)</p>
 <p>Team</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Number of Yeas of Championship</p>
+<p>Number of Years of Championship</p>
 </th>
 </tr>
 <tr>
