@@ -31,16 +31,6 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
-      title: CCA Assistance Fund
-      subtitle: KEEP YOUR DREAMS ALIVE!
-      id: infopic
-      description: Don’t let financial constraints hold you back. Tap on the CCA
-        Assistance Fund to pursue your passion. Apply for it today!
-      button: FIND OUT HERE!
-      url: /cca-assistance-fund/
-      alt: Image alt text
-      image: /images/CCA_Assistance_Fund_2025.png
-  - infopic:
       title: "Tapestry Arts Festival 2025: FLUX"
       subtitle: ANNUAL ARTS FESTIVAL
       id: infopic
@@ -52,17 +42,6 @@ sections:
       alt: Image alt text
       image: /images/Events/Highlights/TP_Happenings__1920_x_1080_px_.png
   - infopic:
-      title: TP Walk for Health
-      subtitle: TURNING STEPS INTO SUPPORT!
-      id: infopic
-      description: Our annual community initiative is back – bigger and bolder than
-        ever. Learn how you can step up to make a difference and win attractive
-        prizes!
-      button: JOIN THE CAUSE!
-      url: /events/clubs/tp-walk-for-health/
-      alt: Image alt text
-      image: /images/Events/Clubs/TP_WFH__1920px_by_1080px_.png
-  - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
       subtitle: THE HEAT IS ON!
       id: infopic
@@ -73,6 +52,27 @@ sections:
       url: /polite-games-2025/
       image: /images/Events/Sports/eDM_2__1920_X_1080px.jpg
       alt: Image alt text
+  - infopic:
+      title: CCA Assistance Fund
+      subtitle: KEEP YOUR DREAMS ALIVE!
+      id: infopic
+      description: Don’t let financial constraints hold you back. Tap on the CCA
+        Assistance Fund to pursue your passion. Apply for it today!
+      button: FIND OUT HERE!
+      url: /cca-assistance-fund/
+      alt: Image alt text
+      image: /images/CCA_Assistance_Fund_2025.png
+  - infopic:
+      title: TP Walk for Health
+      subtitle: TURNING STEPS INTO SUPPORT!
+      id: infopic
+      description: Our annual community initiative is back – bigger and bolder than
+        ever. Learn how you can step up to make a difference and win attractive
+        prizes!
+      button: JOIN THE CAUSE!
+      url: /events/clubs/tp-walk-for-health/
+      alt: Image alt text
+      image: /images/Events/Clubs/TP_WFH__1920px_by_1080px_.png
   - infopic:
       title: TP National Day Celebrations 2025
       subtitle: UNLEASH THE FESTIVITIES!
