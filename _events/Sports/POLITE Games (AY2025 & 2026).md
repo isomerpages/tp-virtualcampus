@@ -18,8 +18,9 @@ teamwork and spirit! Special thanks to our team coaches and staff advisors
 for their expert guidance and unwavering dedication too, and cheers to
 passionate supporters from our TP family for their steadfast backing all
 the way!</p>
-<p>The POL-ITE Games also brought together our student-athletes on an inspiring
-cause to represent TP in their respective sports. Here are some highlights:</p>
+<p>The POL-ITE Games not only showcased our sporting prowess, but also brought
+our diverse student-athletes together on an inspiring journey towards TP
+pride and unity. Here are some highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>We commend the <strong>Hockey (Men)</strong>, <strong>Rugby</strong>, <strong>Soccer (Men)</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football </strong>and <strong>Volleyball (Men)</strong> teams
