@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2025/26)</strong></h3>
-<p>Heartiest congratulations to <strong>Team Temasek</strong> for proudly flying
-the TP flag high at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p>We extend our heartfelt appreciation to <strong>Team Temasek</strong> for
+proudly flying the TP flag high at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
 <p>Throughout a challenging yet rewarding season, TP recorded a commendable
 haul of&nbsp;<strong>XX Gold</strong>,<strong> XX Silver </strong>and<strong> XX Bronze</strong> medals.
 Their collective efforts have contributed to our total tally of <strong>XX</strong> medals,
