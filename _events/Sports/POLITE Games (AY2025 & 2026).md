@@ -22,7 +22,7 @@ the way!</p>
 cause to represent TP in their respective sports. Here are some highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>We commend the <strong>Hockey (Men)</strong>, <strong>Rugby</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football </strong>and <strong>Volleyball (Men)</strong> teams
+<p>We commend the <strong>Hockey (Men)</strong>, <strong>Rugby</strong>, <strong>Soccer (Men)</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football </strong>and <strong>Volleyball (Men)</strong> teams
 for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
 </li>
 <li>
