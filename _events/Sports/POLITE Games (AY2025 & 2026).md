@@ -18,7 +18,7 @@ teamwork and spirit! Special thanks to our team coaches and staff advisors
 for their expert guidance and unwavering dedication too, and cheers to
 passionate supporters from our TP family for their steadfast backing all
 the way!</p>
-<p>The POL-ITE Games not only showcased our sporting prowess, but also brought
+<p>The POL-ITE Games not only showcased our sporting prowess, it also brought
 our diverse student-athletes together on an inspiring journey towards TP
 pride and excellence. Here are some highlights:</p>
 <ul data-tight="true" class="tight">
