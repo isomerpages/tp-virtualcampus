@@ -23,7 +23,7 @@ our diverse student-athletes together on an inspiring journey towards TP
 pride and excellence. Here are some highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>We commend the <strong>Hockey (Men)</strong>, <strong>Rugby</strong>, <strong>Soccer (Men)</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football</strong>,<strong> </strong>and <strong>Volleyball (Men)</strong> teams
+<p>We commend the <strong><a href="https://www.instagram.com/tphockey_rays/?hl=en" rel="noopener nofollow" target="_blank">Hockey (Men)</a></strong>, <strong><a href="https://www.instagram.com/temasekpolyrugby/?hl=en" rel="noopener nofollow" target="_blank">Rugby</a></strong>, <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong>, <strong><a href="https://www.instagram.com/tp_tennis/" rel="noopener nofollow" target="_blank">Tennis (Men)</a></strong>, <strong>Touch Football</strong>,<strong> </strong>and <strong>Volleyball (Men)</strong> teams
 for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
 </li>
 <li>
