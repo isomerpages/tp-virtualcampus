@@ -23,11 +23,11 @@ our diverse student-athletes together on an inspiring journey towards TP
 pride and excellence. Here are some highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>We commend the <strong>Hockey (Men)</strong>, <strong>Kayak Racing (Men)</strong>, <strong>Rugby</strong>, <strong>Soccer (Men)</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football</strong>,<strong> </strong>and <strong>Volleyball (Men)</strong> teams
+<p>We commend the <strong>Hockey (Men)</strong>, <strong>Rugby</strong>, <strong>Soccer (Men)</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football</strong>,<strong> </strong>and <strong>Volleyball (Men)</strong> teams
 for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
 </li>
 <li>
-<p>Congratulations to the <strong>Dragon Boat (Men, Women &amp; Mixed)</strong>, <strong>Hockey (Men)</strong>, <strong>Rugby</strong>, <strong>Swimming (Men)</strong>, <strong>Taekwondo</strong>, <strong>Touch Football</strong>,
+<p>Congratulations to the <strong>Dragon Boat (Men, Women &amp; Mixed)</strong>, <strong>Hockey (Men)</strong>, <strong>Kayak Racing (Men)</strong>, <strong>Rugby</strong>, <strong>Swimming (Men)</strong>, <strong>Taekwondo</strong>, <strong>Touch Football</strong>,
 and <strong>Volleyball (Men)</strong> teams for successfully defending their
 championship titles.</p>
 </li>
