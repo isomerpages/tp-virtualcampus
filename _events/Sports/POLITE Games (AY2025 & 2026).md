@@ -32,11 +32,11 @@ and <strong><a href="https://www.instagram.com/tp.volleyball/" rel="noopener nof
 for successfully defending their championship titles.</p>
 </li>
 <li>
-<p>A special mention to the <strong>Soccer (Men)</strong> team for recapturing
-the championship after a five-year hiatus.</p>
+<p>A special mention to the <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong> team
+for recapturing the championship after a five-year hiatus.</p>
 </li>
 <li>
-<p>We applaud the <strong>Soccer (Men)</strong> and <strong>Tennis (Men)</strong> team
+<p>We applaud the <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong> and <strong><a href="https://www.instagram.com/tp_tennis/" rel="noopener nofollow" target="_blank">Tennis (Men)</a></strong> team
 for claiming the gold medal after last year’s silver finish.</p>
 </li>
 <li>
