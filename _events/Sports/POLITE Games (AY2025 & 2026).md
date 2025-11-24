@@ -40,7 +40,7 @@ for recapturing the championship after a five-year hiatus.</p>
 for claiming the gold medal after last year’s silver finish.</p>
 </li>
 <li>
-<p>Kudos to the <strong>10-Pin Bowling (Men)</strong>, <strong>Floorball (Women)</strong>, <strong>Soccer (Women)</strong>, <strong>Table Tennis (Women)</strong>,<strong> </strong>and <strong>Tchoukball (Men &amp; Women)</strong> teams
+<p>Kudos to the <strong><a href="https://www.instagram.com/tp.bowling/" rel="noopener nofollow" target="_blank">10-Pin Bowling (Men)</a></strong>, <strong><a href="https://www.instagram.com/tpfloorball/?hl=en" rel="noopener nofollow" target="_blank">Floorball (Women)</a></strong>, <strong><a href="https://www.instagram.com/tpgazelles/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Women)</a></strong>, <strong><a href="https://www.instagram.com/tptabletennis/?hl=en" rel="noopener nofollow" target="_blank">Table Tennis (Women)</a></strong>,<strong> </strong>and <strong><a href="https://www.instagram.com/tptchouk/?hl=en" rel="noopener nofollow" target="_blank">Tchoukball (Men &amp; Women)</a> </strong>teams
 for their proud return to the podium after an absence.</p>
 </li>
 </ul>
