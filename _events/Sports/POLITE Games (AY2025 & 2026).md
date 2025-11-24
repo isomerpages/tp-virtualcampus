@@ -23,7 +23,7 @@ our diverse student-athletes together on an inspiring journey towards TP
 pride and excellence. Here are some highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>We commend the <strong>Hockey (Men)</strong>, <strong>Rugby</strong>, <strong>Soccer (Men)</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football</strong>,<strong> </strong>and <strong>Volleyball (Men)</strong> teams
+<p>We commend the <strong>Hockey (Men)</strong>, <strong>Kayak Racing (Men)</strong>, <strong>Rugby</strong>, <strong>Soccer (Men)</strong>, <strong>Tennis (Men)</strong>, <strong>Touch Football</strong>,<strong> </strong>and <strong>Volleyball (Men)</strong> teams
 for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
 </li>
 <li>
@@ -36,8 +36,8 @@ championship titles.</p>
 the championship after a five-year hiatus.</p>
 </li>
 <li>
-<p>We applaud the <strong>Tennis (Men)</strong> team for claiming the gold
-medal after last year’s silver finish.</p>
+<p>We applaud the <strong>Soccer (Men)</strong> and <strong>Tennis (Men)</strong> team
+for claiming the gold medal after last year’s silver finish.</p>
 </li>
 <li>
 <p>Kudos to the <strong>10-Pin Bowling (Men)</strong>, <strong>Floorball (Women)</strong>, <strong>Soccer (Women)</strong>, <strong>Table Tennis (Women)</strong>,<strong> </strong>and <strong>Tchoukball (Men &amp; Women)</strong> teams
