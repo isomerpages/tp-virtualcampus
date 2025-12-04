@@ -9,8 +9,8 @@ third_nav_title: Sports
 <p>We extend our heartfelt appreciation to <strong>Team Temasek</strong> for
 proudly flying the TP flag high at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
 <p>Throughout a challenging yet rewarding season, TP recorded a commendable
-haul of&nbsp;<strong>XX Gold</strong>,<strong> XX Silver </strong>and<strong> XX Bronze</strong> medals.
-Their collective efforts have contributed to our total tally of <strong>XX</strong> medals,
+haul of&nbsp;<strong>16 Gold</strong>,<strong> 9 Silver </strong>and<strong> 4 Bronze</strong> medals.
+Their collective efforts have contributed to our total tally of <strong>29</strong> medals,
 once again making us the top-performing institution at the POL-ITE Games
 – a distinction we have proudly upheld since 2010. What a phenomenal journey!</p>
 <p>Here's a big round of applause to all our student-athletes for their resilience,
@@ -23,7 +23,8 @@ our diverse student-athletes together on an inspiring journey towards TP
 pride and excellence. Here are some highlights:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>We commend the <strong><a href="https://www.instagram.com/tphockey_rays/?hl=en" rel="noopener nofollow" target="_blank">Hockey (Men)</a></strong>, <strong><a href="https://www.instagram.com/temasekpolyrugby/?hl=en" rel="noopener nofollow" target="_blank">Rugby</a></strong>, <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong>, <strong><a href="https://www.instagram.com/tp_tennis/" rel="noopener nofollow" target="_blank">Tennis (Men)</a></strong>, <strong><a href="https://www.instagram.com/tpiranhas/" rel="noopener nofollow" target="_blank">Touch Football</a></strong>,<strong> </strong>and <strong><a href="https://www.instagram.com/tp.volleyball/" rel="noopener nofollow" target="_blank">Volleyball (Men)</a></strong> teams
+<p>We commend the <strong><a href="https://www.instagram.com/tp.bball/?hl=en" rel="noopener nofollow" target="_blank">Basketball (Women)</a></strong>
+<a href="https://www.instagram.com/tp.bball/?hl=en" rel="noopener noreferrer nofollow" target="_blank">,</a> <strong><a href="https://www.instagram.com/tphockey_rays/?hl=en" rel="noopener nofollow" target="_blank">Hockey (Men)</a></strong>, <strong><a href="https://www.instagram.com/temasekpolyrugby/?hl=en" rel="noopener nofollow" target="_blank">Rugby</a></strong>, <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong>, <strong><a href="https://www.instagram.com/tp_tennis/" rel="noopener nofollow" target="_blank">Tennis (Men)</a></strong>, <strong><a href="https://www.instagram.com/tpiranhas/" rel="noopener nofollow" target="_blank">Touch Football</a></strong>,<strong> </strong>and <strong><a href="https://www.instagram.com/tp.volleyball/" rel="noopener nofollow" target="_blank">Volleyball (Men)</a></strong> teams
 for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
 </li>
 <li>
