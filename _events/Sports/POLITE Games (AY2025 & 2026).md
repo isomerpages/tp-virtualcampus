@@ -7,7 +7,7 @@ third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2025/26)</strong></h3>
 <p>We extend our heartfelt appreciation to <strong>Team Temasek</strong> for
-proudly flying the TP flag high at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+flying the TP flag high at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
 <p>Throughout a challenging yet rewarding season, TP recorded a commendable
 haul of&nbsp;<strong>16 Gold</strong>,<strong> 9 Silver </strong>and<strong> 4 Bronze</strong> medals.
 Their collective efforts have contributed to our total tally of <strong>29</strong> medals,
