@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/eDM_2__1920_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Polite_eDM_2__1920_X_1080px.jpg">
 </div>
 <p><em>October &amp; November 2025</em>
 </p>
