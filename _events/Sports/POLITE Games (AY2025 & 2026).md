@@ -6,23 +6,161 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Polytechnic-ITE Games (AY2025/26)</strong></h3>
+<p>We extend our heartfelt appreciation to <strong>Team Temasek</strong> for
+flying the TP flag high at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p>Throughout a challenging yet rewarding season, TP recorded a commendable
+haul of&nbsp;<strong>16 Gold</strong>,<strong> 9 Silver </strong>and<strong> 4 Bronze</strong> medals.
+Their collective efforts have contributed to our total tally of <strong>29</strong> medals,
+once again making us the top-performing institution at the POL-ITE Games
+– a distinction we have proudly upheld since 2010. What a phenomenal journey!</p>
+<p>Here's a big round of applause to all our student-athletes for their resilience,
+teamwork and spirit! Special thanks to our team coaches and staff advisors
+for their expert guidance and unwavering dedication too, and cheers to
+passionate supporters from our TP family for their steadfast backing all
+the way!</p>
+<p>The POL-ITE Games not only showcased our sporting prowess, it also brought
+our diverse student-athletes together on an inspiring journey towards TP
+pride and excellence. Here are some highlights:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We commend the <strong><a href="https://www.instagram.com/tp.bball/?hl=en" rel="noopener nofollow" target="_blank">Basketball (Women)</a></strong>
+<a href="https://www.instagram.com/tp.bball/?hl=en" rel="noopener noreferrer nofollow" target="_blank">,</a> <strong><a href="https://www.instagram.com/tphockey_rays/?hl=en" rel="noopener nofollow" target="_blank">Hockey (Men)</a></strong>, <strong><a href="https://www.instagram.com/temasekpolyrugby/?hl=en" rel="noopener nofollow" target="_blank">Rugby</a></strong>, <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong>, <strong><a href="https://www.instagram.com/tp_tennis/" rel="noopener nofollow" target="_blank">Tennis (Men)</a></strong>, <strong><a href="https://www.instagram.com/tpiranhas/" rel="noopener nofollow" target="_blank">Touch Football</a></strong>,<strong> </strong>and <strong><a href="https://www.instagram.com/tp.volleyball/" rel="noopener nofollow" target="_blank">Volleyball (Men)</a></strong> teams
+for maintaining an undefeated streak throughout their POL-ITE campaigns.</p>
+</li>
+<li>
+<p>Congratulations to the <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Ftemasekpolydragonboat%2F%3Fhl%3Den&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7Cfaa4ea4320a34c76685408dd0d4b1e69%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C638681338471204699%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=Mn9RzJruXtqmhLQarQvb28WZAk9Qz84OghAcoUxkIKU%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Dragon Boat (Men, Women &amp; Mixed)</a></strong>, <strong><a href="https://www.instagram.com/tphockey_rays/?hl=en" rel="noopener nofollow" target="_blank">Hockey (Men)</a></strong>, <strong><a href="https://www.instagram.com/tpkayakracingteam/?hl=en" rel="noopener nofollow" target="_blank">Kayak Racing (Men)</a></strong>, <strong><a href="https://www.instagram.com/temasekpolyrugby/?hl=en" rel="noopener nofollow" target="_blank">Rugby</a></strong>, <strong><a href="https://www.instagram.com/tplsst/" rel="noopener nofollow" target="_blank">Swimming (Men)</a></strong>, <strong><a href="https://www.instagram.com/tp_taekwondo/?hl=en" rel="noopener nofollow" target="_blank">Taekwondo</a></strong>, <strong><a href="https://www.instagram.com/tpiranhas/" rel="noopener nofollow" target="_blank">Touch Football</a></strong>,
+and <strong><a href="https://www.instagram.com/tp.volleyball/" rel="noopener nofollow" target="_blank">Volleyball (Men)</a></strong> teams
+for successfully defending their championship titles.</p>
+</li>
+<li>
+<p>A special mention to the <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong> team
+for recapturing the championship after a five-year hiatus.</p>
+</li>
+<li>
+<p>We applaud the <strong><a href="https://www.instagram.com/tp.bball/?hl=en" rel="noopener nofollow" target="_blank">Basketball (Women)</a></strong>
+<a href="https://www.instagram.com/tp.bball/?hl=en" rel="noopener nofollow" target="_blank">,</a> <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong> and <strong><a href="https://www.instagram.com/tp_tennis/" rel="noopener nofollow" target="_blank">Tennis (Men)</a></strong> teams
+for claiming the gold medal after last year’s silver finish.</p>
+</li>
+<li>
+<p>Kudos to the <strong><a href="https://www.instagram.com/tp.bowling/" rel="noopener nofollow" target="_blank">10-Pin Bowling (Men)</a></strong>, <strong><a href="https://www.instagram.com/tpfloorball/?hl=en" rel="noopener nofollow" target="_blank">Floorball (Women)</a></strong>, <strong><a href="https://www.instagram.com/tpgazelles/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Women)</a></strong>, <strong><a href="https://www.instagram.com/tptabletennis/?hl=en" rel="noopener nofollow" target="_blank">Table Tennis (Women)</a></strong>,<strong> </strong>and <strong><a href="https://www.instagram.com/tptchouk/?hl=en" rel="noopener nofollow" target="_blank">Tchoukball (Men &amp; Women)</a> </strong>teams
+for their proud return to the podium after an absence.</p>
+</li>
+</ul>
+<p>In addition, we celebrate the teams that have achieved <strong>consecutive POL-ITE championship titles</strong>,
+demonstrating years of dedicated effort and strict discipline. (Please
+see the table below for details.)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Team</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Number of Years of Championship</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Boat (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 (since 2017)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Boat (Women)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 (since 2021)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dragon Boat (Mixed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 (since 2017)^</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swimming (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 (since 2017)*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Taekwondo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 (since inception)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Touch Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 (since 2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball (Men)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 (since 2013)*</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*No games in 2020 due to COVID-19.</em>
+</p>
+<p><em>^No games in 2020 &amp; 2021 due to COVID-19.</em>
+</p>
+<p>We are incredibly proud of all our sports warriors. Dream big, strive
+hard, and keep reaching for the stars!</p>
+<p><strong><em>(Get ready! Team Temasek is gearing up for the Institute-Varsity-Polytechnic Games in January 2026, where we will be challenging the tertiary institutions in a variety of sports. Don’t miss the action – stay tuned to this space for updates!)</em></strong>
+</p>
+<hr>
+<h4><strong>POL-TE Games (AY2025/26) – Medal Tally</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Polite_eDM_2__1920_X_1080px.jpg">
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The Heat Is On!</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/eDM_2__1920_X_1080px.jpg">
 </div>
-<p>The heat is on! This season, get ready for some thrilling action as we
-cheer on <strong>Team Temasek</strong>, who are standing tall and all set
-to give their best for TP at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p>This season, get ready for some thrilling action as we cheer on <strong>Team Temasek</strong>,
+who are standing tall and all set to give their best for TP at the annual <strong>Polytechnic-ITE (POL-ITE) Games</strong>!</p>
+<p></p>
 <p>Let’s rally behind our sports warriors as they vie for institutional glory
 and team pride. Your cheers will fuel their dreams, your passion will uplift
 their spirits, and together, we will blaze a trail of honour and excellence
 in this annual showdown!</p>
+<p></p>
 <p>Keen to soak up the electrifying atmosphere in person? Come support Team
 Temasek and experience the adrenaline live in TP, as well as across various
 venues in the Institutes of Higher Learning<strong>. </strong>Stay tuned
 for updates on the epic battles and exciting matchups for your favourite
 sports in the coming weeks.</p>
+<p></p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Game Fixtures</strong>

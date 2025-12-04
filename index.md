@@ -31,15 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
-      title: CCA Assistance Fund
-      subtitle: KEEP YOUR DREAMS ALIVE!
+      title: Polytechnic-ITE Games (AY2025/26)
+      subtitle: BIG APPLAUSE to TEAM TEMASEK!
       id: infopic
-      description: Don’t let financial constraints hold you back. Tap on the CCA
-        Assistance Fund to pursue your passion. Apply for it today!
-      button: FIND OUT HERE!
-      url: /cca-assistance-fund/
+      description: After two months of intense sporting action, Team Temasek has
+        truly  exemplified the power of unity, passion and resilience. Congrats
+        on an outstanding season!
+      button: VIEW OUR MEDAL TALLY HERE!
+      url: /polite-games-2025/
+      image: /images/Sports/Polite_eDM_2__1920_X_1080px.jpg
       alt: Image alt text
-      image: /images/CCA_Assistance_Fund_2025.png
   - infopic:
       title: "Tapestry Arts Festival 2025: FLUX"
       subtitle: ANNUAL ARTS FESTIVAL
@@ -62,17 +63,6 @@ sections:
       url: /events/clubs/tp-walk-for-health/
       alt: Image alt text
       image: /images/Events/Clubs/TP_WFH__1920px_by_1080px_.png
-  - infopic:
-      title: Polytechnic-ITE Games (AY2025/26)
-      subtitle: THE HEAT IS ON!
-      id: infopic
-      description: Celebrate the spirit, embrace the vibe, and feel the excitement.
-        Cheer on Team Temasek as our athletes contest for sporting glory at the
-        annual POL-ITE Games!
-      button: DISCOVER THE ACTION!
-      url: /polite-games-2025/
-      image: /images/Events/Sports/eDM_2__1920_X_1080px.jpg
-      alt: Image alt text
   - infopic:
       title: TP National Day Celebrations 2025
       subtitle: UNLEASH THE FESTIVITIES!
