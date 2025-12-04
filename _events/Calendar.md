@@ -25,7 +25,7 @@ variant: tiptap
 <p></p>
 <p>Heartiest congratulations to <strong>Team Temasek</strong> for proudly flying
 the TP flag high at the annual <strong>POL-ITE Games (AY2025/26)</strong>!
-Throughout a challenging but rewarding season, TP recorded a commendable
+Throughout a challenging yet rewarding season, TP recorded a commendable
 haul of&nbsp;<strong>16 Gold</strong>,<strong> 9 Silver</strong> and<strong> 4 Bronze</strong> medals.
 Check out our full medal tally <strong><a href="/polite-games-2025/" rel="noopener nofollow" target="_blank">here</a></strong>!</p>
 <p></p>
