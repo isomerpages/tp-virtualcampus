@@ -39,7 +39,7 @@ sections:
         on an outstanding season!
       button: VIEW OUR MEDAL TALLY HERE!
       url: /polite-games-2025/
-      image: /images/Events/Sports/eDM_2__1920_X_1080px.jpg
+      image: /images/Sports/Polite_eDM_2__1920_X_1080px.jpg
       alt: Image alt text
   - infopic:
       title: "Tapestry Arts Festival 2025: FLUX"
