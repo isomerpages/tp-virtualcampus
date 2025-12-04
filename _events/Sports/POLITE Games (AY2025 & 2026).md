@@ -37,7 +37,8 @@ for successfully defending their championship titles.</p>
 for recapturing the championship after a five-year hiatus.</p>
 </li>
 <li>
-<p>We applaud the <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong> and <strong><a href="https://www.instagram.com/tp_tennis/" rel="noopener nofollow" target="_blank">Tennis (Men)</a></strong> team
+<p>We applaud the <strong><a href="https://www.instagram.com/tp.bball/?hl=en" rel="noopener nofollow" target="_blank">Basketball (Women)</a></strong>
+<a href="https://www.instagram.com/tp.bball/?hl=en" rel="noopener nofollow" target="_blank">,</a> <strong><a href="https://www.instagram.com/tpmensfootball/?hl=en" rel="noopener nofollow" target="_blank">Soccer (Men)</a></strong> and <strong><a href="https://www.instagram.com/tp_tennis/" rel="noopener nofollow" target="_blank">Tennis (Men)</a></strong> teams
 for claiming the gold medal after last year’s silver finish.</p>
 </li>
 <li>
