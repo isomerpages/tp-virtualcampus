@@ -131,7 +131,9 @@ hard, and keep reaching for the stars!</p>
 </p>
 <hr>
 <h4><strong>POL-TE Games (AY2025/26) – Medal Tally</strong></h4>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Polite_eDM_2__1920_X_1080px.jpg">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The Heat Is On!</strong>
