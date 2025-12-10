@@ -21,3 +21,11 @@ for upcoming updates on the epic battles and exciting matchups in your
 favourite sports.</p>
 <p>One spirit, one dream, one team. Let’s unite and make TP truly a home
 of the champions!</p>
+<hr>
+<h4><strong>Game Fixtures</strong></h4>
+<p>Click <strong><u>here</u></strong> to view the IVP Games (AY2025/26) fixtures*.</p>
+<p>No registration is needed – simply come by to catch your favourite teams
+in action, and have fun as you cheer on Team Temasek. See you at the games!</p>
+<p><em>(*Fixtures may be subjected to change without prior notice.)</em>
+</p>
+<p></p>
