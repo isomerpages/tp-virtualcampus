@@ -40,6 +40,7 @@ sections:
       button: DISCOVER THE ACTION!
       url: /ivp-games-2026/
       alt: Image alt text
+      image: /images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg
   - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
       subtitle: BIG APPLAUSE to TEAM TEMASEK!
