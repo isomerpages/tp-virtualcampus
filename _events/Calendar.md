@@ -13,6 +13,30 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>[Insert eDM here]</p>
+<p><em>January &amp; February 2026</em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/ivp-games-2026/" rel="noopener nofollow" target="_blank">Institute-Varsity-Polytechnic Games (AY2025/26)</a></strong>
+</p>
+<p></p>
+<p>The heat is on! This season, get ready for plenty of exhilarating action
+as we cheer for <strong>Team Temasek</strong>, who are standing proud and
+all prepared to give their best for TP at the annual <strong>Institute-Varsity-Polytechnic (IVP) Games</strong>!</p>
+<p></p>
+<p>Join us in supporting Team Temasek and feel the adrenaline live in TP,
+as well as across various venues in the Institutes of Higher Learning.
+Watch this space for upcoming updates on the epic battles and exciting
+matchups in your favourite sports.</p>
+<p></p>
+<p>One spirit, one dream, one team. Let’s unite and make TP truly a home
+of the champions!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Polite_eDM_2__1920_X_1080px.jpg">
 </div>
@@ -59,44 +83,6 @@ enjoy!</p>
 <p>Come ride the current of creativity as ideas shift, boundaries dissolve,
 and inspiration flows. See you at the Festival!</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/TPOF_2025.png">
-</div>
-<p><em>19 &amp; 20 November 2025</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="http://tp.edu.sg/tpof" rel="noopener nofollow" target="_blank">Temasek Polytechnic Opportunity Fest 2025</a></strong>
-</p>
-<p></p>
-<p>Experience two days of opportunities at TPOF 2025!</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Meet universities and employers at 50 booths daily</p>
-</li>
-<li>
-<p>Attend admissions and scholarship talks by top universities</p>
-</li>
-<li>
-<p>Explore career and internship opportunities across over 15 sectors</p>
-</li>
-<li>
-<p>Enjoy exciting activities like a FREE professional photoshoot, Human Library
-by NTUC Youth, SIA Cabin Crew Interview, and more!</p>
-</li>
-<li>
-<p>Plus: Exciting giveaways from BrightSparks, ICA, NTUC Youth and others!</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Register Now</strong> - <a href="http://tp.edu.sg/tpof" rel="noopener noreferrer nofollow" target="_blank">tp.edu.sg/tpof</a>
-</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
