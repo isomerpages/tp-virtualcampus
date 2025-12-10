@@ -13,7 +13,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg">
+</div>
 <p><em>January &amp; February 2026</em>
 </p>
 <p></p>
