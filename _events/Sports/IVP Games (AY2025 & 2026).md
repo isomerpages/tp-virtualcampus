@@ -132,7 +132,8 @@ in action, and have fun as you cheer on Team Temasek. See you at the games!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Table Tennis (Men &amp; Women)</summary>
+<summary><strong>Table Tennis (Men &amp; Women)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
