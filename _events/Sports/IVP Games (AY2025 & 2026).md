@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Institute-Varsity-Polytechnic Games (AY2025/26)</strong></h3>
-<p>[Insert general eDM]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg">
+</div>
 <p>The heat is on! This season, get ready for plenty of exhilarating action
 as we cheer for <strong>Team Temasek</strong>, who are standing proud and
 all prepared to give their best for TP at the annual <strong>Institute-Varsity-Polytechnic (IVP) Games</strong>!</p>
