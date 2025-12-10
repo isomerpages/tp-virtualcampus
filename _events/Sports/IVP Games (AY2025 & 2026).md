@@ -28,4 +28,7 @@ of the champions!</p>
 in action, and have fun as you cheer on Team Temasek. See you at the games!</p>
 <p><em>(*Fixtures may be subjected to change without prior notice.)</em>
 </p>
+<hr>
+<h4><strong>List of IVP Sports Participated By TP</strong></h4>
+<p></p>
 <p></p>
