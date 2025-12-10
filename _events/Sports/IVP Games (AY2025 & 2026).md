@@ -219,4 +219,15 @@ in action, and have fun as you cheer on Team Temasek. See you at the games!</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Road Race (Men &amp; Women)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/Road_Race__Men___Women_.jpg">
+</div>
+</div>
+</details>
+</div>
 <p></p>
