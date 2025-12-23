@@ -31,7 +31,7 @@ all prepared to give their best for TP at the annual <strong>Institute-Varsity-P
 <p>Join us in supporting Team Temasek and feel the adrenaline live in TP,
 as well as across various venues in the Institutes of Higher Learning.
 Watch this space for upcoming updates on the epic battles and exciting
-matchups in your favourite sports!</p>
+matchups in your favourite sports. See you at the games!</p>
 <p></p>
 </td>
 </tr>
