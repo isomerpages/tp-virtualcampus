@@ -31,6 +31,17 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: Institute-Varsity-Polytechnic Games (AY2025/26)
+      subtitle: THE HEAT IS ON!
+      id: infopic
+      description: Celebrate the spirit, embrace the vibe, and feel the excitement.
+        Let’s cheer on Team Temasek as they contest for sporting glory at the
+        annual IVP Games!
+      button: DISCOVER THE ACTION!
+      url: /ivp-games-2026/
+      alt: Image alt text
+      image: /images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg
+  - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
       subtitle: BIG APPLAUSE to TEAM TEMASEK!
       id: infopic
@@ -85,27 +96,6 @@ sections:
       url: /tp-national-day-concert-2025/
       alt: Image alt text
       image: /images/Events/National_Day_Concert_2025___1920px_by_1080px.png
-  - infopic:
-      title: TP35 X-Challenge Run 2025
-      subtitle: RUN FOR A CAUSE!
-      id: infopic
-      description: Registration for the run is now closed. Thank you for your support!
-        Non-runners can still join us for a fun evening of food, games and
-        performances. See you!
-      button: CELEBRATE WITH US!
-      url: /events/tp35-xchallenge-run-2025/
-      alt: Image alt text
-      image: /images/Events/Highlights/TP_Web_Banners_Web_Banner_2_1920px_X_1080px__Updated_1_Jul_2_.jpg
-  - infopic:
-      title: Temasek Student Excellence Awards 2025
-      subtitle: ANNUAL STUDENT AWARDS
-      id: infopic
-      description: Congratulations to all our award recipients for their inspiring
-        achievements and outstanding contributions beyond the academics!
-      button: VIEW THE ROLL OF HONOUR HERE!
-      url: /tsea-2025/
-      image: /images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg
-      alt: Image alt text
   - infopic:
       title: Want to be featured on Virtual Campus?
       subtitle: REACH OUT TO US
