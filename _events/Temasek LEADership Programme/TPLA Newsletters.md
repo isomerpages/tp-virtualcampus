@@ -30,6 +30,7 @@ TPLA Newsletters. Enjoy reading and have fun participating!</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>October 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -501,5 +502,4 @@ TPLA Newsletters. Enjoy reading and have fun participating!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek%20LEAD/TPLA%20Newsletters/la%20issue%201_oct22.png">
 </div>
 <hr>
-<p></p>
 <p></p>
