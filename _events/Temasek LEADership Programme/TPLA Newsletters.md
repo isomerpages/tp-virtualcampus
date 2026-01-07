@@ -9,6 +9,27 @@ variant: tiptap
 <p>Check out our past and upcoming Temasek LEAD events through the monthly
 TPLA Newsletters. Enjoy reading and have fun participating!</p>
 <hr>
+<h4><strong>November/December 2025</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/TPLA Newsletters/LA__NovDec_2025__1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek LEAD/TPLA Newsletters/LA__NovDec_2025__2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>October 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
