@@ -9,7 +9,7 @@ third_nav_title: Highlights
 <p>[Insert eDM here]</p>
 <p>Huge congratulations to our scholars who were celebrated at a heartfelt
 ceremony on <strong>27 January 2026</strong>, graced by our <strong>Principal &amp; CEO</strong>, <strong>Mr Patrice Choong</strong>!&nbsp;&nbsp;</p>
-<p><strong>80 Year 1 scholars</strong> were presented with the <strong>TP Scholarship and TP Scholarship (Engineering)</strong> in
+<p><strong>80 Year 1 scholars</strong> were presented with the <strong>Temasek Polytechnic (TP) Scholarship and TP Scholarship (Engineering)</strong> in
 recognition of their outstanding academic results, stellar CCA achievements,
 and exceptional leadership and potential.&nbsp;<strong>30 Year 2 and 3 student leaders</strong> were
 awarded <strong>the Daisy Phay-TP Foundation CCA Scholarship and TP CCA Scholarship</strong> for
@@ -36,10 +36,9 @@ as well as good leadership qualities and potential, as demonstrated during
 their first semester in TP.</p>
 <p></p>
 <p>This year, 40 scholars from ASC, BUS, DES, HSS and IIT are awarded the
-Temasek Polytechnic (TP) Scholarship, and another 40 scholars from ENG
-are awarded the TP Scholarship (Engineering). The scholars will receive
-$3,000 each per AY, subject to meeting the renewal criteria for the subsequent
-AYs.</p>
+TP Scholarship, and another 40 scholars from ENG are awarded the TP Scholarship
+(Engineering). The scholars will receive $3,000 each per AY, subject to
+meeting the renewal criteria for the subsequent AYs.</p>
 <p></p>
 <p>In addition, the scholars will be able to participate in an Overseas Experience
 Programme in their second or final year of study. The Overseas Experience
