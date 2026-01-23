@@ -34,19 +34,52 @@ in meaningful ways.&nbsp;</p>
 with outstanding academic results and good co-curricular activities achievements,
 as well as good leadership qualities and potential, as demonstrated during
 their first semester in TP.</p>
+<p></p>
 <p>This year, 40 scholars from ASC, BUS, DES, HSS and IIT are awarded the
 Temasek Polytechnic (TP) Scholarship, and another 40 scholars from ENG
 are awarded the TP Scholarship (Engineering). The scholars will receive
 $3,000 each per AY, subject to meeting the renewal criteria for the subsequent
 AYs.</p>
+<p></p>
 <p>In addition, the scholars will be able to participate in an Overseas Experience
 Programme in their second or final year of study. The Overseas Experience
 Programme will be thematic in nature and aims to expose students to diverse
 socio-cultural-economic environments, or to various fields of engineering
 and technology in the regional countries.</p>
+<p></p>
+<p><strong>For more information, please visit:</strong>
+</p>
+<p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-scholarship.html" rel="noopener noreferrer nofollow" target="_blank">TP Scholarship</a>
+</p>
+<p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/temasek-polytechnic-engineering-scholarship.html" rel="noopener noreferrer nofollow" target="_blank">TP Scholarship (Engineering)</a>
+</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Daisy Phay-TP Foundation CCA Scholarship &amp; TP CCA Scholarship</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The scholarships recognise and reward students who have made outstanding
+contributions to TP through their CCAs. This year, 12 Daisy Phay TP Foundation-funded
+CCA Scholarships and 18 TP-funded CCA Scholarships are awarded to a total
+of 30 scholars.</p>
 <p></p>
+<p>Both scholarships come under the TP CCA Scholarships programme, reflecting
+TP’s commitment to nurturing talent and supporting the academic and co-curricular
+pursuits of our outstanding students.</p>
 <p></p>
+<p>The scholars consisted of outstanding Year Two and Three student leaders
+and exemplary CCA achievers from a diversity of Schools/Diplomas, and across
+the domains of Arts, Sports and Leadership. Under the programme, the scholars
+will receive $3,000 each for this AY.</p>
+<p>&nbsp;</p>
+<p><strong>For more information, please visit:</strong>
+</p>
+<p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/co-curricular-activities-scholarship.html" rel="noopener noreferrer nofollow" target="_blank">TP CCA Scholarship</a>
+</p>
+</div>
+</details>
+</div>
 <p></p>
