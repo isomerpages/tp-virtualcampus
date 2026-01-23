@@ -73,7 +73,7 @@ pursuits of our outstanding students.</p>
 and exemplary CCA achievers from a diversity of Schools/Diplomas, and across
 the domains of Arts, Sports and Leadership. Under the programme, the scholars
 will receive $3,000 each for this AY.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>For more information, please visit:</strong>
 </p>
 <p><a href="https://www.tp.edu.sg/admissions-and-finance/fees-financial-matters/co-curricular-activities-scholarship.html" rel="noopener noreferrer nofollow" target="_blank">TP CCA Scholarship</a>
