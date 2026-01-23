@@ -25,7 +25,28 @@ in meaningful ways.&nbsp;</p>
 <p>[Insert ceremony photos here]</p>
 <hr>
 <h4><strong>Background of Scholarships</strong></h4>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>TP Scholarship &amp; TP Scholarship (Engineering)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>These are three-year premier scholarships awarded to Year One students
+with outstanding academic results and good co-curricular activities achievements,
+as well as good leadership qualities and potential, as demonstrated during
+their first semester in TP.</p>
+<p>This year, 40 scholars from ASC, BUS, DES, HSS and IIT are awarded the
+Temasek Polytechnic (TP) Scholarship, and another 40 scholars from ENG
+are awarded the TP Scholarship (Engineering). The scholars will receive
+$3,000 each per AY, subject to meeting the renewal criteria for the subsequent
+AYs.</p>
+<p>In addition, the scholars will be able to participate in an Overseas Experience
+Programme in their second or final year of study. The Overseas Experience
+Programme will be thematic in nature and aims to expose students to diverse
+socio-cultural-economic environments, or to various fields of engineering
+and technology in the regional countries.</p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
