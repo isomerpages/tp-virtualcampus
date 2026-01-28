@@ -40,6 +40,7 @@ sections:
       button: FIND OUT MORE!
       url: /tp-scholarships-presentation/
       alt: Image alt text
+      image: /images/Events/Highlights/TP_Scholarship_Presentation__2026__Without_Text.jpg
   - infopic:
       title: Institute-Varsity-Polytechnic Games (AY2025/26)
       subtitle: THE HEAT IS ON!
