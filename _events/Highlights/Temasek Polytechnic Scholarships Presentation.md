@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>Temasek Polytechnic Scholarships Presentation</strong></h3>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Scholarship_Presentation__2026__Without_Text.jpg">
+</div>
 <p>Huge congratulations to our scholars who were celebrated at a heartfelt
 ceremony on <strong>27 January 2026</strong>, graced by our <strong>Principal &amp; CEO</strong>, <strong>Mr Patrice Choong</strong>!&nbsp;&nbsp;</p>
 <p><strong>80 Year 1 scholars</strong> were presented with the <strong>Temasek Polytechnic (TP) Scholarship and TP Scholarship (Engineering)</strong> in
