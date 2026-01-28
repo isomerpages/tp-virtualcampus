@@ -82,6 +82,8 @@ will receive $3,000 each for this AY.</p>
 </div>
 <hr>
 <h4><strong>Ceremony Photos</strong></h4>
+<p><em>(Photo Credit: CCD)</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -198,4 +200,5 @@ will receive $3,000 each for this AY.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
