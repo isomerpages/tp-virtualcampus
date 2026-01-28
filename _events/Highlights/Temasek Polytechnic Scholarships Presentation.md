@@ -60,7 +60,7 @@ and technology in the regional countries.</p>
 <summary><strong>Daisy Phay-TP Foundation CCA Scholarship &amp; TP CCA Scholarship</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The scholarships recognise and reward students who have made outstanding
+<p>These scholarships recognise and reward students who have made outstanding
 contributions to TP through their CCAs. This year, 12 Daisy Phay TP Foundation-funded
 CCA Scholarships and 18 TP-funded CCA Scholarships are awarded to a total
 of 30 scholars.</p>
