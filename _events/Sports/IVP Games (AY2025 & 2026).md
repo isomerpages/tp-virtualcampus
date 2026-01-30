@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Sports
 ---
 <h3><strong>Institute-Varsity-Polytechnic Games (AY2025/26)</strong></h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The Heat Is On!</strong>
 </summary>
@@ -33,15 +33,21 @@ favourite sports.</p>
 of the champions!</p>
 </div>
 </details>
-</div>
-<hr>
-<h4><strong>Game Fixtures</strong></h4>
-<p>Click <a href="https://for.edu.sg/ivpgames25-26fixtures" rel="noopener nofollow" target="_blank">here</a> to
+<details class="isomer-details">
+<summary><strong>Game Fixtures</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Click<strong> <a href="https://for.edu.sg/ivpgames25-26fixtures" rel="noopener nofollow" target="_blank">here</a></strong> to
 view the IVP Games (AY2025/26) fixtures*.</p>
+<p></p>
 <p>No registration is needed – simply come by to catch your favourite teams
 in action, and have fun as you cheer on Team Temasek. See you at the games!</p>
+<p></p>
 <p><em>(*Fixtures may be subjected to change without prior notice.)</em>
 </p>
+</div>
+</details>
+</div>
 <hr>
 <h4><strong>List of IVP Sports Participated By TP</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
