@@ -23,7 +23,7 @@ for storming into the IVP finals for the first time in over seven years,
 smashing expectations and finishing high with second place.</p>
 </li>
 <li>
-<p>Kudos to the <strong><a href="https://www.instagram.com/tp.bowling/?hl=en" rel="noopener noreferrer nofollow" target="_blank">10-Pin Bowling (Women)</a></strong> and <strong><a href="https://www.instagram.com/tpgazelles/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Soccer (Women)</a></strong> teams
+<p>Props to the <strong><a href="https://www.instagram.com/tp.bowling/?hl=en" rel="noopener noreferrer nofollow" target="_blank">10-Pin Bowling (Women)</a></strong> and <strong><a href="https://www.instagram.com/tpgazelles/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Soccer (Women)</a></strong> teams
 for their proud return to the podium after an absence.</p>
 </li>
 </ul>
