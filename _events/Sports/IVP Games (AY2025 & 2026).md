@@ -32,6 +32,7 @@ hard, and never stop chasing those stars!</p>
 <hr>
 <h4><strong>IVP Games (AY2025/26) – Medal Tally</strong></h4>
 <p>[Insert edm here]</p>
+<hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The Heat Is On!</strong>
