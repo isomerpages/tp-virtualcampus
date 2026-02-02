@@ -9,7 +9,7 @@ third_nav_title: Sports
 <p>A big shout-out to all our amazing student-athletes for proudly representing
 TP at the annual <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2025/26)</strong>!</p>
 <p>This season has been nothing short of challenging, but <strong>Team Temasek</strong> rose
-to the occasion, bringing home a commendable total of <strong>XX Silver</strong> and <strong>XX Bronze</strong> medals.
+to the occasion, bringing home a commendable total of <strong>3 Silver</strong> and <strong>XX Bronze</strong> medals.
 Kudos for this stellar display of teamwork, resilience and spirit!</p>
 <p>A heartfelt thank you to our fantastic coaches and dedicated staff advisors
 for their guidance and support too, and to passionate supporters from our
