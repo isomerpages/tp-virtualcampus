@@ -18,9 +18,9 @@ of what student life can be like, when community and well-being converge
 for a greater purpose!</p>
 <p></p>
 <p>Organised by the P4 Clubs, TP WFH saw enthusiastic supporters from myriad
-walks of life clocking an incredible 12,170 kilometers over the three days
-of action. Beyond the figures, however, it conveyed a more profound tale
-of cooperation, inclusivity and practical learning.</p>
+walks of life clocking an incredible <strong>12,170 kilometers</strong> over
+the three days of action. Beyond the figures, however, it conveyed a more
+profound tale of cooperation, inclusivity and practical learning.</p>
 <p></p>
 <p><strong>A Collective Effort &amp; A Shared Vision</strong>
 </p>
