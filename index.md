@@ -31,17 +31,6 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
-      title: Temasek Polytechnic Scholarships Presentation
-      subtitle: HEARTIEST CONGRATULATIONS!
-      id: infopic
-      description: A massive shout-out to our amazing scholars! From impressive
-        academics to stellar CCA achievements, you are all shining stars of our
-        vibrant campus community.
-      button: FIND OUT MORE!
-      url: /tp-scholarships-presentation/
-      alt: Image alt text
-      image: /images/Events/Highlights/TP_Scholarship_Presentation__2026__Without_Text.jpg
-  - infopic:
       title: Institute-Varsity-Polytechnic Games (AY2025/26)
       subtitle: BIG APPLAUSE TO TEAM TEMASEK!
       id: infopic
@@ -52,6 +41,17 @@ sections:
       url: /ivp-games-2026/
       alt: Image alt text
       image: /images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg
+  - infopic:
+      title: Temasek Polytechnic Scholarships Presentation
+      subtitle: HEARTIEST CONGRATULATIONS!
+      id: infopic
+      description: A massive shout-out to our amazing scholars! From impressive
+        academics to stellar CCA achievements, you are all shining stars of our
+        vibrant campus community.
+      button: FIND OUT MORE!
+      url: /tp-scholarships-presentation/
+      alt: Image alt text
+      image: /images/Events/Highlights/TP_Scholarship_Presentation__2026__Without_Text.jpg
   - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
       subtitle: BIG APPLAUSE to TEAM TEMASEK!
