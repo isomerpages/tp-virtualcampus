@@ -103,7 +103,7 @@ a minimum of 3.5km to unlock an exclusive memento just for you!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Join the Carnival Craze – Food &amp; Festivities Awaits!&nbsp;</strong>
+<summary><strong>Join the Carnival Craze – Food &amp; Festivities Await!&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Explore our exciting line-up of <strong>day and night fringe activities</strong> filled
