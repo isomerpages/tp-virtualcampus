@@ -6,7 +6,7 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h3><strong>TP Walk for Health</strong></h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Putting Our Best Foot Forward: A Recap of TP Walk for Health</strong>
 </summary>
@@ -21,12 +21,12 @@ for a greater purpose!</p>
 walks of life clocking an incredible 12,170 kilometers over the three days
 of action. Beyond the figures, however, it conveyed a more profound tale
 of cooperation, inclusivity and practical learning.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>A Collective Effort &amp; A Shared Vision</strong>
 </p>
 <p>One of the defining strengths of TP WFH was the way each P4 Club leaned
 into its unique strengths while working towards a shared goal.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The core walk operations were organised by the <strong><a href="https://www.instagram.com/tp_csc/?hl=en" rel="noopener nofollow" target="_blank">TP Community Service Club</a></strong>,
 which hosted beneficiaries from APSN, MINDS and Sunlove Chai Chee to walk
 with student volunteers. Schools and organisations used live leaderboards
@@ -39,7 +39,7 @@ as jagua painting, live caricatures, food stations and lucky draws. While
 collaborations with social enterprises reaffirmed the event's goal of doing
 good, these options encouraged students to stay, interact and enjoy campus
 life.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>With an exciting host of gaming booths and inflatables, the <strong><a href="https://www.instagram.com/tp_sportsclub/?hl=en" rel="noopener nofollow" target="_blank">TP Sports Club</a></strong> fueled
 the carnival, creating lively areas and opportunities for the beneficiaries,
 general public and students to interact via shared enjoyment.</p>
@@ -48,20 +48,27 @@ general public and students to interact via shared enjoyment.</p>
 and <strong>Mr Desmond Lim, Acting Director, SDAA</strong> respectively.
 The <strong><a href="https://www.instagram.com/tpadventureclub/?hl=en" rel="noopener nofollow" target="_blank">TP Adventure Club</a></strong> served
 as the focal point of both the ceremonies and evening programmes.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Looking Ahead</strong>
 </p>
 <p>TP WFH remains a strong and meaningful platform. The three-day format
 with both indoor and outdoor walking proved effective, and thematic night
 walks continued to be a strong and attractive draw for the participants.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Most importantly, this event reminded the community that well-being is
 not a static concept, but a fluid notion that is built through movement,
 relationships and shared purpose. When the community walks together, they
 do more than just clocking mileage - but also fostering understanding,
 compassion and a campus culture that values both health and heart.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>And at its heart, it is simple: <strong>people walking together, for each other</strong>!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Event Photos</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
