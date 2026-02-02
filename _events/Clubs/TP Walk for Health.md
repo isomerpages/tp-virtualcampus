@@ -58,10 +58,10 @@ walks continued to be a strong and attractive draw for the participants.</p>
 <p>Most importantly, this event reminded the community that well-being is
 not a static concept, but a fluid notion that is built through movement,
 relationships and shared purpose. When the community walks together, they
-do more than just clocking mileage - but fostering understanding, compassion,
-and a campus culture that values both health and heart.</p>
+do more than just clocking mileage - but also fostering understanding,
+compassion and a campus culture that values both health and heart.</p>
 <p>&nbsp;</p>
-<p>And at its heart, it’s simple: people walking together, for each other!</p>
+<p>And at its heart, it is simple: <strong>people walking together, for each other</strong>!</p>
 </div>
 </details>
 </div>
