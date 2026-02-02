@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>TP Walk for Health</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Putting Our Best Foot Forward: A Recap</strong>
+<summary><strong>Putting Our Best Foot Forward: A Recap of TP Walk for Health</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The <strong>TP Walk for Health (WFH)</strong> brought students, staff, community
@@ -159,7 +159,7 @@ See you there!&nbsp;</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Follow the Buzz on Instagram Below! </strong>
+<summary><strong>Follow the Buzz on Instagram Below!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
