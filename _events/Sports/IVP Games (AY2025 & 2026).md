@@ -9,7 +9,7 @@ third_nav_title: Sports
 <p>A big shout-out to all our amazing student-athletes for proudly representing
 TP at the annual <strong>Institute-Varsity-Polytechnic (IVP) Games (AY2025/26)</strong>!</p>
 <p>This season has been nothing short of challenging, but <strong>Team Temasek</strong> rose
-to the occasion, bringing home a commendable total of <strong>3 Silver</strong> and <strong>XX Bronze</strong> medals.
+to the occasion, bringing home a commendable total of <strong>3 Silver</strong> and <strong>3 Bronze</strong> medals.
 Kudos for this stellar display of teamwork, resilience and spirit!</p>
 <p>A heartfelt thank you to our fantastic coaches and dedicated staff advisors
 for their guidance and support too, and to passionate supporters from our
@@ -20,7 +20,7 @@ inspiring journey towards TP pride and excellence. Here are some highlights:</p>
 <li>
 <p>Congratulations to the <strong><a href="https://www.instagram.com/tpbadminton/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Badminton (Women)</a></strong> team
 for storming into the IVP finals for the first time in over seven years,
-smashing expectations and finishing high with second place.</p>
+smashing expectations and finishing with second place.</p>
 </li>
 <li>
 <p>Props to the <strong><a href="https://www.instagram.com/tp.bowling/?hl=en" rel="noopener noreferrer nofollow" target="_blank">10-Pin Bowling (Women)</a></strong> and <strong><a href="https://www.instagram.com/tpgazelles/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Soccer (Women)</a></strong> teams
@@ -31,7 +31,9 @@ for their proud return to the podium after an absence.</p>
 hard, and never stop chasing those stars!</p>
 <hr>
 <h4><strong>IVP Games (AY2025/26) – Medal Tally</strong></h4>
-<p>[Insert edm here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/IVP_Web_Banners__2026__Banner_1920_X_1080pxpx.jpg">
+</div>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
