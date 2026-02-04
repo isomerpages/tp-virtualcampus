@@ -40,7 +40,7 @@ sections:
       button: VIEW OUR MEDAL TALLY HERE!
       url: /ivp-games-2026/
       alt: Image alt text
-      image: /images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg
+      image: /images/Events/Sports/IVP_Web_Banners__2026__Banner_1920_X_1080pxpx.jpg
   - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: HEARTIEST CONGRATULATIONS!
