@@ -31,6 +31,17 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: Institute-Varsity-Polytechnic Games (AY2025/26)
+      subtitle: BIG APPLAUSE TO TEAM TEMASEK!
+      id: infopic
+      description: After a spirited run, Team Temasek wrapped up the IVP season with
+        an inspiring display of teamwork, heart and resilience. Kudos on a
+        fulfilling campaign!
+      button: VIEW OUR MEDAL TALLY HERE!
+      url: /ivp-games-2026/
+      alt: Image alt text
+      image: /images/Events/Sports/IVP_Web_Banners__2026__Banner_1920_X_1080pxpx.jpg
+  - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: HEARTIEST CONGRATULATIONS!
       id: infopic
@@ -41,17 +52,6 @@ sections:
       url: /tp-scholarships-presentation/
       alt: Image alt text
       image: /images/Events/Highlights/TP_Scholarship_Presentation__2026__Without_Text.jpg
-  - infopic:
-      title: Institute-Varsity-Polytechnic Games (AY2025/26)
-      subtitle: THE HEAT IS ON!
-      id: infopic
-      description: Celebrate the spirit, embrace the vibe, and feel the excitement.
-        Let’s cheer on Team Temasek as they contest for sporting glory at the
-        annual IVP Games!
-      button: DISCOVER THE ACTION!
-      url: /ivp-games-2026/
-      alt: Image alt text
-      image: /images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg
   - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
       subtitle: BIG APPLAUSE to TEAM TEMASEK!
