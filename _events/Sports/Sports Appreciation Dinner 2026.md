@@ -15,7 +15,7 @@ the <strong>Student Development &amp; Alumni Affairs Department</strong> in
 TP.</p>
 <p>AY2025/26 also marked an exciting sporting calendar for TP, where we were
 given so many reasons to cheer and unite as an institution! Our athletes
-exemplified what the Team Temasek spirit is all about with these stellar
+exemplified what the Team Temasek spirit was all about with these stellar
 achievements:</p>
 <p>🏆 <strong>POL-ITE Games:</strong> 16 Gold, 9 Silver 4 Bronze medals
 <br>🥈🥉 <strong>IVP Games:</strong> 3 Silver and 3 Bronze medals</p>
