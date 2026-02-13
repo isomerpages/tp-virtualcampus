@@ -23,7 +23,7 @@ achievements:</p>
 alumni, <strong>Kingsley Tay</strong> and <strong>Ardi Azman</strong>, who
 brought their sporting journeys to life with candid stories of challenges,
 breakthroughs and proud moments. Most importantly, they showed our athletes
-that it is not only possible – but incredibly rewarding—to pursue sporting
+that it is not only possible – but incredibly rewarding – to pursue sporting
 passion with academics well.</p>
 <p>Beyond the medals, we also honoured the unsung heroes behind the scenes
 – our entire village of team coaches, staff advisors and fervent supporters
