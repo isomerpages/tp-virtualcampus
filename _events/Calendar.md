@@ -46,11 +46,14 @@ confident and fun as possible!</p>
 <p><strong><a href="/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
 </p>
 <p></p>
-<p>Dear Freshies, your onboarding experience will culminate in a fun day
-at the&nbsp;<strong>Temasek Olympiad x SpecTACular</strong>! A special
-edition organised in celebration of TP’s 35th anniversary, this event encapsulates
-the best of our campus’ vibrant spirit, creative energy, and artistic splendour
-– all packed into an immersive experience organised just for you!</p>
+<p>Gear up for an adrenaline-fuelled <strong>Freshmen Orientation Finale</strong>!
+Themed “<strong>One TP: Rise, Rally &amp; Radiate</strong>”, this annual
+event is a signature campus tradition that celebrates the unifying bonds,
+vibrant spirit and dynamic energy that will define your TP experience.</p>
+<p></p>
+<p>Come immerse yourself in the electrifying vibe and mark a befitting end
+to your onboarding journey – packed with endless fun, and one you will
+remember for a lifetime!</p>
 <p></p>
 </td>
 </tr>
