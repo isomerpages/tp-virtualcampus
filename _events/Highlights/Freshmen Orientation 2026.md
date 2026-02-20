@@ -106,36 +106,44 @@ and start exploring!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Applied Science</strong><a href="mailto:aschotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>aschotline@tp.edu.sg</a>
+<p><strong>Applied Science</strong>
+<br><a href="mailto:aschotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aschotline@tp.edu.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Business</strong><a href="mailto:bushotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br>bushotline@tp.edu.sg</a>
+<p><strong>Business</strong>
+<br><a href="mailto:bushotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bushotline@tp.edu.sg</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Design</strong><a href="mailto:deshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="mailto:deshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deshotline@tp.edu.sg</a></strong>
+<p><strong>Design</strong>
+<br><strong><a href="mailto:deshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deshotline@tp.edu.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Engineering</strong><a href="mailto:enghotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="mailto:enghotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">enghotline@tp.edu.sg</a></strong>
+<p><strong>Engineering</strong>
+<br><strong><a href="mailto:enghotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">enghotline@tp.edu.sg</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Humanities &amp; Social Sciences</strong><a href="mailto:hsshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="mailto:hsshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsshotline@tp.edu.sg</a></strong>
+<p><strong>Humanities &amp; Social Sciences</strong>
+<br><strong><a href="mailto:hsshotline@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsshotline@tp.edu.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Informatics &amp; IT</strong><a href="mailto:iit@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="mailto:iit@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iit@tp.edu.sg</a></strong>
+<p><strong>Informatics &amp; IT</strong>
+<br><strong><a href="mailto:iit@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iit@tp.edu.sg</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong><em>(This page is constantly being refreshed with new information. Please remember to visit again nearer to April 2026.)</em></strong>
+</p>
 </div>
 </details>
 </div>
