@@ -27,10 +27,12 @@ variant: tiptap
 <p></p>
 <p>Get ready for an amazing <strong>Freshmen Orientation (FO)</strong>! A
 key highlight of our student life calendar, FO marks an important milestone
-in your TP journey as you enter tertiary education. We have got you covered
-with a smorgasbord of exciting activities to help you dive into this new
-chapter on the right note, and to make your transition into TP as smooth,
-confident and fun as possible!</p>
+in your TP journey as you enter tertiary education.</p>
+<p></p>
+<p>Feeling those first day jitters? Fret not! We have got you covered with
+a smorgasbord of exciting activities to help you dive into this new chapter
+on the right note, and to make your transition into TP as smooth, confident
+and fun as possible!</p>
 <p></p>
 </td>
 </tr>
