@@ -68,11 +68,10 @@ truly special. See you at “SpecTACular – “Jam &amp; Hop”!</p>
 <summary><strong>Go Green with TP!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>At TP, we are dedicated to promoting and supporting the sustainability
-cause. We strongly encourage you to bring your own bottles for this fun
-day at the <strong>Temasek Olympiad x SpecTACular</strong>, where you can
-conveniently refill your bottles at the designated water points at the
-TP Stadium to stay hydrated.</p>
+<p>At TP, we are committed to supporting the sustainability cause. For this
+fun-filled day, we strongly encourage you to bring your own bottles, where
+you can refill them conveniently at the designated water points around
+the TP Sports Complex to stay refreshed and hydrated.</p>
 </div>
 </details>
 </div>
