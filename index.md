@@ -31,16 +31,27 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
-      title: Institute-Varsity-Polytechnic Games (AY2025/26)
-      subtitle: BIG APPLAUSE TO TEAM TEMASEK!
+      title: Freshmen Orientation 2026
+      subtitle: WELCOME TO TP!
       id: infopic
-      description: After a spirited run, Team Temasek wrapped up the IVP season with
-        an inspiring display of teamwork, heart and resilience. Kudos on a
-        fulfilling campaign!
-      button: VIEW OUR MEDAL TALLY HERE!
-      url: /ivp-games-2026/
+      description: "Hey Freshies, welcome to the #TPFAM! Get ready for a whirlwind of
+        fun, thrills and excitement to kickstart your TP journey on the right
+        note!"
+      button: DISCOVER THE ACTION!
+      url: /freshmen-orientation-2026/
+      image: /images/Events/Highlights/F_Web_Banner__3___1920px__W__X_1080px__H_.jpg
       alt: Image alt text
-      image: /images/Events/Sports/IVP_Web_Banners__2026__Banner_1920_X_1080pxpx.jpg
+  - infopic:
+      title: Temasek Olympiad x SpecTACular
+      subtitle: AN EPIC FINALE!
+      id: infopic
+      description: Dear Freshies, end your onboarding on a high at this special finale
+        featuring dragon boat races, dynamic team challenges, and a captivating
+        arts concert!
+      button: BE ENTHRALLED HERE!
+      url: /temasek-olympiad-x-spectacular/
+      image: /images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg
+      alt: Image alt text
   - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: HEARTIEST CONGRATULATIONS!
@@ -53,6 +64,17 @@ sections:
       alt: Image alt text
       image: /images/Events/Highlights/TP_Scholarship_Presentation__2026__Without_Text.jpg
   - infopic:
+      title: Institute-Varsity-Polytechnic Games (AY2025/26)
+      subtitle: BIG APPLAUSE TO TEAM TEMASEK!
+      id: infopic
+      description: After a spirited run, Team Temasek wrapped up the IVP season with
+        an inspiring display of teamwork, heart and resilience. Kudos on a
+        fulfilling campaign!
+      button: VIEW OUR MEDAL TALLY HERE!
+      url: /ivp-games-2026/
+      alt: Image alt text
+      image: /images/Events/Sports/IVP_Web_Banners__2026__Banner_1920_X_1080pxpx.jpg
+  - infopic:
       title: Polytechnic-ITE Games (AY2025/26)
       subtitle: BIG APPLAUSE to TEAM TEMASEK!
       id: infopic
@@ -63,50 +85,6 @@ sections:
       url: /polite-games-2025/
       image: /images/Sports/Polite_eDM_2__1920_X_1080px.jpg
       alt: Image alt text
-  - infopic:
-      title: "Tapestry Arts Festival 2025: FLUX"
-      subtitle: ANNUAL ARTS FESTIVAL
-      id: infopic
-      description: The Temasek Arts Centre proudly presents its annual flagship
-        festival, featuring a line-up of events that showcases the best of TP’s
-        performing arts groups!
-      button: BE CAPTIVATED HERE!
-      url: /tapestry-arts-festival-2025-flux/
-      alt: Image alt text
-      image: /images/Events/Highlights/TP_Happenings__1920_x_1080_px_.png
-  - infopic:
-      title: TP Walk for Health
-      subtitle: TURNING STEPS INTO SUPPORT!
-      id: infopic
-      description: Our annual community initiative is back – bigger and bolder than
-        ever. Learn how you can step up to make a difference and win attractive
-        prizes!
-      button: JOIN THE CAUSE!
-      url: /events/clubs/tp-walk-for-health/
-      alt: Image alt text
-      image: /images/Events/Clubs/TP_WFH__1920px_by_1080px_.png
-  - infopic:
-      title: TP National Day Celebrations 2025
-      subtitle: UNLEASH THE FESTIVITIES!
-      id: infopic
-      description: Get ready to ignite your patriotic spirit! Join us in celebration
-        of SG60 with an electrifying array of activities, happening right on
-        campus!
-      button: EXPLORE THE BUZZ!
-      url: /tp-national-day-celebrations-2025/
-      alt: Image alt text
-      image: /images/Events/Highlights/NDC_2025__General____1920px_by_1080px_V3.jpg
-  - infopic:
-      title: "TP National Day Concert 2025: “Confirm Can One!”"
-      subtitle: MAJULAH SINGAPURA!
-      id: infopic
-      description: Be a guest at TP’s biggest concert, staged in a theatrical game
-        show format for the first time. Catch enthralling performances and play
-        exciting games!
-      button: GET READY!
-      url: /tp-national-day-concert-2025/
-      alt: Image alt text
-      image: /images/Events/National_Day_Concert_2025___1920px_by_1080px.png
   - infopic:
       title: Want to be featured on Virtual Campus?
       subtitle: REACH OUT TO US
