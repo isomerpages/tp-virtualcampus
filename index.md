@@ -42,6 +42,17 @@ sections:
       image: /images/Events/Highlights/F_Web_Banner__3___1920px__W__X_1080px__H_.jpg
       alt: Image alt text
   - infopic:
+      title: Temasek Olympiad x SpecTACular
+      subtitle: AN EPIC FINALE!
+      id: infopic
+      description: Dear Freshies, end your onboarding on a high at this special finale
+        featuring dragon boat races, dynamic team challenges, and a captivating
+        arts concert!
+      button: BE ENTHRALLED HERE!
+      url: /temasek-olympiad-x-spectacular/
+      image: /images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg
+      alt: Image alt text
+  - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: HEARTIEST CONGRATULATIONS!
       id: infopic
