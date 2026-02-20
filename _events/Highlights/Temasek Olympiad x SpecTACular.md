@@ -15,30 +15,29 @@ and marks a symbolic start to your polytechnic adventure. Buckle up for
 a dynamic three-part programme – including thrilling <strong>dragon boat races</strong>,
 action-packed <strong>team challenges</strong>, and a pulsating <strong>arts concert</strong> that
 will have you dancing under the stars!</p>
-<p>A special edition organised in celebration of TP’s 35th anniversary, this
-event also encapsulates the best of our campus’ vibrant spirit, creative
-energy, and artistic splendour – all packed into an immersive experience
-on <strong>17 April 2025</strong>!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Temasek Olympiad: Make a Splash &amp; Have Fun in the Sun!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>What better way is there to end your FO experience on a high note than
-by bonding with your friends, while experiencing a slice of the campus
-vibrancy that TP is known for?</p>
-<p></p>
-<p>As part of the <strong>Temasek Olympiad</strong>, you will get to paddle
-your heart out under the warm morning sun, or cheer for your friends as
-they go head-to-head in the exciting dragon boat races for your School’s
-glory! This thrilling action will unfold at TP’s picturesque backyard –
-Bedok Reservoir.</p>
-<p></p>
-<p>As the afternoon heats up, jump into an action-packed host of team challenges
-that will put your physical abilities and mental agility to the test, while
-soaking in the sporting excitement. Be stoked for your peers too as they
-perform creative cheers that epitomise your School’s spirit, camaraderie
-and values – all in the name of friendly competition and fun!</p>
+<p>What better way to cap off your FO experience than by coming together
+with your new friends, while diving headfirst into the vibrant campus spirit
+that TP is known for?</p>
+<p>As part of the <strong>Temasek Olympiad</strong>, get ready to paddle your
+heart out beneath the warm morning sun, or rally behind your friends as
+they battle for your school’s pride and glory in the exciting dragon boat
+races! The morning action will unfold against the picturesque backdrop
+of TP’s very own waterfront gem – <strong>Bedok Reservoir</strong>.</p>
+<p>As the afternoon heats up, brace yourself for a series of high-energy
+Olympiad-style team challenges at the <strong>TP Sports Complex</strong> –
+designed to put your physical prowess, mental fortitude and collaboration
+to the test. Or, simply soak in the electrifying atmosphere as you root
+spiritedly for your peers!</p>
+<p>What’s more, you will get to be part of a one-of-a-kind body percussion
+showcase – creating a medley of synchronised beats, rhythms and sounds
+– using nothing but your own body as an instrument. Plus, unite with your
+friends through creative cheers that epitomise your school’s camaraderie,
+values and spirit – all in the name of fun, friendship and friendly competition!</p>
 </div>
 </details>
 </div>
