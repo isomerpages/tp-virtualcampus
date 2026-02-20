@@ -9,11 +9,12 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg">
 </div>
-<p>Psych yourself up for an epic celebration at the <strong>Temasek Olympiad x SpecTACular</strong>!</p>
-<p>This exciting finale marks the conclusion of your <strong><a href="/events/freshmen-orientation-2025/" rel="noopener nofollow" target="_blank">Freshmen Orientation</a></strong> journey
-and the commencement of your polytechnic life. You will get to experience
-a dynamic three-part programme including the exhilarating <strong>Temasek Olympiad</strong>,
-featuring dragon boat races and team challenges, alongside the captivating <strong>SpecTACular – “Jam &amp; Hop” </strong>concert.</p>
+<p>Psych up for an epic celebration at the <strong>FO Finale: “Temasek Olympiad x SpecTACular</strong>”!</p>
+<p>Held on <strong>16 April 2026</strong>, this exciting event concludes your <strong><a href="/freshmen-orientation-2026/" rel="noopener nofollow" target="_blank">Freshmen Orientation</a></strong> journey
+and marks a symbolic start to your polytechnic adventure. Buckle up for
+a dynamic three-part programme – including thrilling <strong>dragon boat races</strong>,
+action-packed <strong>team challenges</strong>, and a pulsating <strong>arts concert</strong> that
+will have you dancing under the stars!</p>
 <p>A special edition organised in celebration of TP’s 35th anniversary, this
 event also encapsulates the best of our campus’ vibrant spirit, creative
 energy, and artistic splendour – all packed into an immersive experience
