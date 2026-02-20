@@ -73,17 +73,11 @@ remember for a lifetime.</p>
 <summary><strong>TP: A Safe &amp; Fun Place to Study &amp; Play</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>At TP, your safety and well-being is our utmost priority. We have a zero-tolerance
+<p>At TP, your safety and well-being are our utmost priority. We have a zero-tolerance
 policy on hazing and derogatory behaviour on campus. Should you witness
 or experience anything concerning <strong>during the FO activities</strong>,
 you are strongly encouraged to report them to any TP staff or contact us
 via our whistle blower hotline at <strong><a href="mailto:sdaa@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sdaa@tp.edu.sg</a></strong>.</p>
-<p></p>
-<p>We look forward welcoming you to TP!</p>
-<p></p>
-<p><strong><em>(This page is constantly being updated with new information. Please remember to visit again nearer to April 2025.)</em></strong>
-</p>
 </div>
 </details>
 </div>
