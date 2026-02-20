@@ -13,6 +13,43 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p><em>8 &amp; 15-17 April 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/events/freshmen-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2025</a></strong>
+</p>
+<p></p>
+<p>Hey Freshies, welcome to the TP family and get ready for an amazing <strong>Freshmen Orientation (FO)</strong>!</p>
+<p></p>
+<p>A highlight of TP’s calendar, the FO marks a momentous milestone in your
+academic journey as you progress into tertiary education. Feeling those
+first-day jitters? Fret not! TP has lined up an exciting array of activities
+to help you kickstart this new chapter of your life on the right note,
+and to support your transition into the Polytechnic with confidence and
+fun!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
+</p>
+<p></p>
+<p>Dear Freshies, your onboarding experience will culminate in a fun day
+at the&nbsp;<strong>Temasek Olympiad x SpecTACular</strong>! A special
+edition organised in celebration of TP’s 35th anniversary, this event encapsulates
+the best of our campus’ vibrant spirit, creative energy, and artistic splendour
+– all packed into an immersive experience organised just for you!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg">
 </div>
@@ -229,71 +266,6 @@ Maximise your fun.
 and empowering as you want it to be! Join us at the <strong>CCA Fair 2025</strong> and
 dive into a world of thrilling opportunities offered in TP to realise your
 full potential. Mark your calendar now!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg">
-</div>
-<p><em>8 &amp; 15-17 April 2025</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/events/freshmen-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2025</a></strong>
-</p>
-<p></p>
-<p>Hey Freshies, welcome to the TP family and get ready for an amazing <strong>Freshmen Orientation (FO)</strong>!</p>
-<p></p>
-<p>A highlight of TP’s calendar, the FO marks a momentous milestone in your
-academic journey as you progress into tertiary education. Feeling those
-first-day jitters? Fret not! TP has lined up an exciting array of activities
-to help you kickstart this new chapter of your life on the right note,
-and to support your transition into the Polytechnic with confidence and
-fun!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg">
-</div>
-<p><em>17 April 2025</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
-</p>
-<p></p>
-<p>Dear Freshies, your onboarding experience will culminate in a fun day
-at the&nbsp;<strong>Temasek Olympiad x SpecTACular</strong>! A special
-edition organised in celebration of TP’s 35th anniversary, this event encapsulates
-the best of our campus’ vibrant spirit, creative energy, and artistic splendour
-– all packed into an immersive experience organised just for you!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek Arts Centre/DREAMS___Celebrating_TP35.png">
-</div>
-<p><em>22 March 2025</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/dreams-celebrating-tp35/" rel="noopener nofollow" target="_blank">DREAMS: Celebrating TP35</a></strong>
-</p>
-<p></p>
-<p>This year’s edition of <strong>“DREAMS” </strong>kicks off an exciting
-year for TP, as we celebrate <strong>35 years </strong>with this special
-concert featuring our talented performing artists – both present and past.
-Look forward to an enthralling line-up of performances showcasing the very
-best of our arts groups, where they take to the stage to engage, excite
-and captivate your senses!</p>
 <p></p>
 </td>
 </tr>
