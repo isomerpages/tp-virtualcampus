@@ -7,44 +7,44 @@ variant: tiptap
 ---
 <h3><strong>Welcome to the TP Family!</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Freshmen_Orientation_2025___1920px_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/F_Web_Banner__3___1920px__W__X_1080px__H_.jpg">
 </div>
 <p>Dear Freshmen,</p>
 <p>Congratulations on your successful enrolment to Temasek Polytechnic (TP).</p>
 <p>Get ready for an amazing <strong>Freshmen Orientation (FO)</strong>! A
-highlight of TP’s calendar, the FO marks a momentous milestone in your
-academic journey as you progress into tertiary education. It is the perfect
-launchpad for your thrilling adventure of growth and discovery in TP.</p>
-<p>Feeling those first-day jitters? Fret not! TP has lined up an exciting
-array of activities to help you kickstart this new chapter of your life
-on the right note, and to support your transition into the Polytechnic
-with confidence and fun.</p>
-<p>As part of FO, you will get to explore a series of onboarding activities
-organised by your respective Academic Schools. These experiences are specially
-curated to help you assimilate into polytechnic life, while providing you
-with the chance to explore our community, people and culture. Visit your
-School's Freshmen page on <strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener nofollow" target="_blank">TP Oei</a></strong> for
-more details on the upcoming orientation!</p>
+key highlight of our student life calendar, FO marks an important milestone
+in your TP journey as you enter tertiary education. It is the perfect launchpad
+for your thrilling era of growth and discovery at TP.</p>
+<p>Feeling those first-day jitters? Fret not! We have got you covered with
+a smorgasbord of exciting activities to help you dive into this new chapter
+on the right note, and to make your transition into TP as smooth, confident
+and fun as possible.</p>
+<p>As part of FO, you will get to experience a series of onboarding activities
+organised by your respective Academic Schools. These activities are specially
+curated to help you assimilate into polytechnic life, while getting to
+know our vibrant community, friendly people and unique culture.</p>
+<p>Don't forget to check your <strong>TP Student email (<a href="mailto:260XXXXX@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">260XXXXX@student.tp.edu.sg</a>)</strong> and <strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener noreferrer nofollow" target="_blank">TP Oei</a> </strong>for
+important details about your FO dates and activities. You will not want
+to miss out on any of the fun!</p>
 <p>Here’s a sneak peek of what you can expect during FO:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Meet your Care Persons and classmates from the same course of study;&nbsp;&nbsp;</p>
+<p>Meet your Care Persons and connect with your school/classmates – your
+new squad in TP;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Understand about your course and its structure, rigours and requirements;&nbsp;</p>
+<p>Get the inside scoop on your course of study – structure, rigours and
+requirements;&nbsp;</p>
 </li>
 <li>
 <p>Receive your student matriculation card and learn how to read your timetable;</p>
 </li>
 <li>
-<p>Discover how to use TP’s e-services for all your lecture and tutorial
-needs;</p>
+<p>Discover how to use TP’s e-services for all your academic needs;</p>
 </li>
 <li>
-<p>Enjoy tours of our vibrant campus, including your School’s facilities;</p>
-</li>
-<li>
-<p>And many more!</p>
+<p>Explore our beautiful campus, including your Academic School’s facilities
+and many more!</p>
 <p></p>
 </li>
 </ul>
