@@ -83,29 +83,21 @@ via our whistle blower hotline at <strong><a href="mailto:sdaa@tp.edu.sg" rel="n
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Keen to Find Out More? Head Over to TP Oei Now!</strong>
+<summary><strong>Stay Connected through TP Oei</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p><strong>TP Oei</strong> is the official campus platform for all full-time
-students.</p>
-<p></p>
-<p>All full-time students must download the SharePoint mobile app to access
-campus information, useful resources and important contacts. It would be
-the key channel for official announcements and communication within the
-TP community.</p>
-<p></p>
-<p>For more information on your FO activities and other onboarding resources,
-check out&nbsp;<strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener nofollow" target="_blank">TP Oei</a></strong>&nbsp;now!</p>
+<p>TP Oei is the official campus communication platform for all full-time
+students. For more information on your FO activities and other useful onboarding
+resources, <strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener noreferrer nofollow" target="_blank">log in</a></strong> now
+and start exploring!</p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Questions? Contact Your Respective Academic Schools!</strong>
+<summary><strong>Contact Information</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
