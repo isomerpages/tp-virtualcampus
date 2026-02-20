@@ -35,6 +35,8 @@ fun!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><em>16 April 2026</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
