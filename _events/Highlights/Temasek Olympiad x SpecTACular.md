@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>Temasek Olympiad x SpecTACular</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg">
 </div>
 <p>Psych yourself up for an epic celebration at the <strong>Temasek Olympiad x SpecTACular</strong>!</p>
 <p>This exciting finale marks the conclusion of your <strong><a href="/events/freshmen-orientation-2025/" rel="noopener nofollow" target="_blank">Freshmen Orientation</a></strong> journey
