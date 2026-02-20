@@ -43,34 +43,23 @@ values and spirit – all in the name of fun, friendship and friendly competitio
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>SpecTACular – “Jam &amp; Hop”: Be Dazzled by Our Finest Arts Talents!</strong>
+<summary><strong>SpecTACular – “Jam &amp; Hop”: Groove Under the Stars &amp; Be Dazzled by Our Finest Arts Talents!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/SpecTACular__Jam___Hop__Web_Banners_1920px_by_1080px.jpg">
-</div>
-<p></p>
-<p>Get ready for a “SpecTACular” concert at this year’s revitalised arts
-segment of our FO finale!</p>
-<p></p>
-<p>As the evening falls, kick back under the stars and enjoy captivating
-performances by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
-From pulsating beats and melodious vocals to electrifying dance moves that
-will have you on your feet, get a first-hand glimpse of the creative energy
-that our student-artists bring to our vibrant campus.</p>
-<p></p>
-<p>Don’t miss a <strong>BIG</strong> highlight of the evening, where a 45-minute
-set by the sensational <strong><a href="https://www.instagram.com/djshaisg/" rel="noopener nofollow" target="_blank">DJ Shai</a></strong> awaits!
-Known for his dynamic mix of Hip Hop, R&amp;B and Latin sounds, let DJ
-Shai’s beats end your evening on an epic high, and make this your sticky
-TP memory for many years to come!</p>
-<p></p>
-<p>Whether you are a Freshman or not, this amazing line-up is for all our
-students – so rally your friends and let’s kick off the new academic year
-in style.</p>
-<p></p>
-<p>See you there!</p>
+<p>As twilight descends, prepare to be regaled by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong> at
+the “<strong>SpecTACular</strong>” concert. From melodious vocals, pulsating
+beats to sizzling dance moves, feel the rhythm pulse through your veins
+as our student-artists unleash their talents at this captivating arts extravaganza!</p>
+<p>This is not just any concert; it is a student-powered showcase that embodies
+TP’s collective values of strength, unity and hope. Here, you will get
+to witness firsthand the creative spirit and vibrant energy that keep our
+campus buzzing at every turn.</p>
+<p>But wait, there’s more! End your FO journey on a high by dancing under
+the star-filled sky, as our guest artist (<strong><a href="https://www.instagram.com/djshaisg/?hl=en" rel="noopener noreferrer nofollow" target="_blank">DJ Shai</a></strong>)
+spins the hottest tracks and sets the perfect vibe for you to let loose,
+groove and make new friends.</p>
+<p>Don't miss this chance to make sticky memories and be part of something
+truly special. See you at “SpecTACular – “Jam &amp; Hop”!</p>
 </div>
 </details>
 </div>
