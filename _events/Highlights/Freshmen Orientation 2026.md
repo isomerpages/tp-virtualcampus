@@ -53,33 +53,18 @@ and many more!</p>
 <summary><strong>Mark Your Calendar for the Grand Finale!</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Temasek_Olympiad_x_SpecTACular___1920px_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg">
 </div>
-<p></p>
-<p>Gear up for an adrenaline-fueled finale at the <strong><a href="/events/temasek-olympiad-x-spectacular" rel="noopener nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>!</p>
-<p></p>
-<p>A special edition organised in celebration of TP’s 35th anniversary, this
-event encapsulates the best of our campus’ vibrant spirit, creative energy,
-and artistic splendour – all packed into an immersive experience on <strong>17 April 2025</strong>!</p>
-<p></p>
-<p>As part of this finale, you will get to paddle or cheer on your friends
-in the thrilling dragon boat races, happening in the morning at our stunning
-waterfront backyard – Bedok Reservoir. In the afternoon, an exciting host
-of <strong>Olympiad-style</strong> team challenges will await you. In the
-spirit of friendly competition, get ready to put your physical skills and
-mental prowess to the test, or root for your peers along with a dash of
-sporting fun!</p>
-<p></p>
-<p>As the sun sets, unwind under the evening stars at our <strong>SpecTACular – “Jam &amp; Hop”</strong> concert,
-while catching electrifying arts performances by TP’s finest talents. Finally,
-grab your friends and end this memorable day with a bang by grooving to
-the hottest tracks spun by our guest DJ!</p>
-<p></p>
-<p>Packed with boundless energy and endless fun, this is one epic finale
-you will not want to miss. Come experience and immerse yourself in the
-vibrant spirit that makes TP truly special. See you there!</p>
+<p>Gear up for an adrenaline-fuelled FO Finale at the “<strong><a href="/temasek-olympiad-x-spectacular/" rel="noopener nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>”,
+organised specially for you<strong> </strong>on <strong>16 April 2026</strong>!</p>
+<p>Themed “<strong>One TP: Rise, Rally &amp; Radiate</strong>”, this annual
+event is a signature campus tradition that celebrates the unifying bonds,
+vibrant spirit and dynamic energy that will define your TP experience.
+Come immerse yourself in the electrifying vibe and mark a befitting end
+to your onboarding journey – packed with endless fun, and one you will
+remember for a lifetime.</p>
+<p>We look forward welcoming you to TP!</p>
 </div>
 </details>
 </div>
