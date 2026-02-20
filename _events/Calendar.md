@@ -13,15 +13,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><em>8 &amp; 15-17 April 2025</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/F_Web_Banner__3___1920px__W__X_1080px__H_.jpg">
+</div>
+<p><em>10-17 April 2026</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/events/freshmen-orientation-2025/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2025</a></strong>
+<p><strong><a href="/freshmen-orientation-2026/" rel="noopener noreferrer nofollow" target="_blank">Freshmen Orientation 2026</a></strong>
 </p>
 <p></p>
-<p>Hey Freshies, welcome to the TP family and get ready for an amazing <strong>Freshmen Orientation (FO)</strong>!</p>
+<p>Hey Freshies, welcome to the TP family!</p>
 <p></p>
 <p>A highlight of TP’s calendar, the FO marks a momentous milestone in your
 academic journey as you progress into tertiary education. Feeling those
@@ -34,12 +36,14 @@ fun!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg">
+</div>
 <p><em>16 April 2026</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/events/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
+<p><strong><a href="/temasek-olympiad-x-spectacular/" rel="noopener noreferrer nofollow" target="_blank">Temasek Olympiad x SpecTACular</a></strong>
 </p>
 <p></p>
 <p>Dear Freshies, your onboarding experience will culminate in a fun day
