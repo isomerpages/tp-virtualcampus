@@ -248,7 +248,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Bizinfluencers</strong>
+</p>
 </td>
 </tr>
 </tbody>
