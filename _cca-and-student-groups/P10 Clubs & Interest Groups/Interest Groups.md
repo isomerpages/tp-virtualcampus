@@ -162,10 +162,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/spacehaus/" rel="noopener noreferrer nofollow" target="_blank">SpaceHaus</a></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -180,14 +176,17 @@ variant: tiptap
 </div>
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/tp-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">TP Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Ambassadors_Resized.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/tp-debate-club/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Debate Club</u></a></strong>
