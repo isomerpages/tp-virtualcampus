@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Diploma Interest Groups
 variant: tiptap
 ---
-<h2>School of Informatics &amp; IT</h2>
+<h3><strong>School of Informatics &amp; IT</strong></h3>
 <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/tp.aaisig/" rel="noopener noreferrer nofollow" target="_blank">Applied Artificial Intelligence</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Applied_Artificial_Intelligence_Student_Interest_Group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Applied_Artificial_Intelligence_SIG_2026.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -32,7 +32,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/tpcdfsig/" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity &amp; Digital Forensics</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/AISP___ISACA_Student_Chapters.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/AISP___ISACA_Student_Chapters_2026.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,7 +54,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/tp.itsig/" rel="noopener noreferrer nofollow" target="_blank">Information Technology</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Information_Technology_Student_Interest_Group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Information_Technology_Student_Interest_Group_2026.jpg">
 </div>
 <p></p>
 </td>
@@ -62,7 +62,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/igd_sig/" rel="noopener noreferrer nofollow" target="_blank">Immersive Media &amp; Game Development</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Immersive_Media___Game_Development_Student_Interest_Group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Immersive_Media___Game_Development_SIG_2026.jpg">
 </div>
 <p></p>
 </td>
