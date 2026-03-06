@@ -247,10 +247,19 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/touch-football" rel="noopener noreferrer nofollow" target="_blank">Touch Football</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Touch_Football.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a></strong>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/ultimate-frisbee" rel="noopener noreferrer nofollow" target="_blank">Ultimate Frisbee</a></strong>
