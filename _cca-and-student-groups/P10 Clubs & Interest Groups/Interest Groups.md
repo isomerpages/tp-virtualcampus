@@ -88,21 +88,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/entrepreneurship-catalyst/" rel="noopener noreferrer nofollow" target="_blank">TP Entrepreneurship Catalyst</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Club_Resized.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/fitness-through-science/" rel="noopener noreferrer nofollow" target="_blank">Fitness Through Science</a></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -116,6 +101,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Global_Ambassadors__Engineering__Resized_1.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/glocal-ambassadors/" rel="noopener noreferrer nofollow" target="_blank"><u>Glocal Ambassadors</u></a></strong>
@@ -255,8 +251,11 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p><strong><a href="/interest-groups/entrepreneurship-catalyst/" rel="noopener noreferrer nofollow" target="_blank">TP Entrepreneurship Catalyst</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Club_Resized.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
