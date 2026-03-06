@@ -195,7 +195,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Astronomy.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/tp-debate-club/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Debate Club</u></a></strong>
