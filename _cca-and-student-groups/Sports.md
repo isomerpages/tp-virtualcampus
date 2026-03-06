@@ -165,7 +165,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/rugby" rel="noopener noreferrer nofollow" target="_blank">Rugby</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_2026.png">
+</div>
 <p></p>
 <p></p>
 </td>
@@ -179,7 +181,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/soccer" rel="noopener noreferrer nofollow" target="_blank">Soccer</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
