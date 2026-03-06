@@ -235,12 +235,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/twist/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Women In Science &amp; Technology</u></a></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -248,8 +242,6 @@ variant: tiptap
 </div>
 <p></p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/visual-arts-and-writing-club/" rel="noopener noreferrer nofollow" target="_blank">Visual Arts &amp; Writing Club</a></strong>
 </p>
@@ -259,11 +251,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
