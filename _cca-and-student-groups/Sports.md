@@ -191,28 +191,23 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/sports/taekwondo" rel="noopener noreferrer nofollow" target="_blank">Taekwondo</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Taekwondo_Resized.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/tchoukball" rel="noopener noreferrer nofollow" target="_blank">Tchoukball</a></strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/tennis" rel="noopener noreferrer nofollow" target="_blank">Tennis</a></strong>
 </p>
-<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/touch-football" rel="noopener noreferrer nofollow" target="_blank">Touch Football</a></strong>
 </p>
@@ -221,16 +216,22 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <p><strong><a href="/sports/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a></strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/ultimate-frisbee" rel="noopener noreferrer nofollow" target="_blank">Ultimate Frisbee</a></strong>
 </p>
 <p></p>
+<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/volleyball" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a></strong>
 </p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
