@@ -13,22 +13,24 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Web_Banner_3__Virtual_Campus__Happenings__TP_Oei__BUS_Video_Wall___Staff_Portal_Announcements__FA_pathed_lowres.jpg">
+</div>
+<p><em>22-23 April 2026</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/cca-fair-2026/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2026</a></strong>
 </p>
 <p></p>
-<p>Hey Freshies, welcome to the TP family!</p>
+<p>Calling all Freshies – get ready to supercharge your TP experience! As
+you gear up for your polytechnic adventure, do take time to dive beyond
+the academics and immerse yourself in our vibrant TP community. Don't miss
+the <strong>CCA Fair 2026</strong> – your gateway to a world of thrilling
+opportunities!</p>
 <p></p>
-<p>Get ready for an amazing <strong>Freshmen Orientation (FO)</strong>! A
-key highlight of our student life calendar, FO marks an important milestone
-in your TP journey as you enter tertiary education.</p>
-<p></p>
-<p>Feeling those first day jitters? Fret not! We have got you covered with
-a smorgasbord of exciting activities to help you dive into this new chapter
-on the right note, and to make your transition into TP as smooth, confident
-and fun as possible!</p>
+<p>Ready to unlock your full potential and embrace a future in TP brimming
+with exciting possibilities? Mark your calendar now!</p>
 <p></p>
 </td>
 </tr>
