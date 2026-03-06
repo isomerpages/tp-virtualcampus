@@ -70,7 +70,7 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <p><strong><a href="/p10/engineering-studies-club" rel="noopener noreferrer nofollow" target="_blank">Engineering Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club_Resized_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club.png">
 </div>
 </td>
 </tr>
