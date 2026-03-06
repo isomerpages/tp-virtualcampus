@@ -45,9 +45,11 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/archery" rel="noopener noreferrer nofollow" target="_blank">Archery</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Archery" src="/images/Sports/ARCHERY_button-01.png">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -55,41 +57,35 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/badminton" rel="noopener noreferrer nofollow" target="_blank">Badminton</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Badminton" src="/images/Sports/BADMINTON_button-01.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/basketball" rel="noopener noreferrer nofollow" target="_blank">Basketball</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Basketball_2.jpg">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/dragon-boat" rel="noopener noreferrer nofollow" target="_blank">Dragon Boat</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Dragon_Boat_Resized_1.png">
-</div>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/field-hockey" rel="noopener noreferrer nofollow" target="_blank">Field Hockey</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/FIELD HOCKEY_button-01.png">
-</div>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/floorball" rel="noopener noreferrer nofollow" target="_blank">Floorball</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Floorball" src="/images/Sports/FLOORBALL_button-01.png">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/handball" rel="noopener noreferrer nofollow" target="_blank">Handball</a></strong>
@@ -133,35 +129,24 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/sports/life-saving/" rel="noopener noreferrer nofollow" target="_blank">Life Saving</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Life_Saving_Resized.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/sports/mind-sports" rel="noopener noreferrer nofollow" target="_blank">Mind Sports</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Mind Sports" src="/images/Sports/MIND SPORTS_button-01.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/netball" rel="noopener noreferrer nofollow" target="_blank">Netball</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/NETBALL_button-01.png">
-</div>
-<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/rugby" rel="noopener noreferrer nofollow" target="_blank">Rugby</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_Resized_1.png">
-</div>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/silat/" rel="noopener noreferrer nofollow" target="_blank">Silat</a></strong>
@@ -170,16 +155,18 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Silat_Resized.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/soccer" rel="noopener noreferrer nofollow" target="_blank">Soccer</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_Resized.png">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/sport-climbing" rel="noopener noreferrer nofollow" target="_blank">Sport Climbing</a></strong>
 </p>
@@ -190,18 +177,22 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/swimming" rel="noopener noreferrer nofollow" target="_blank">Swimming</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_Resized.png">
-</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/sports/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/sports/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Table_Tennis_Resized.png">
-</div>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,57 +205,35 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/tchoukball" rel="noopener noreferrer nofollow" target="_blank">Tchoukball</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Tchoukball" src="/images/Sports/TCHOUKBALL_button-01.png">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/tennis" rel="noopener noreferrer nofollow" target="_blank">Tennis</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/TENNIS_button-01.png">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/touch-football" rel="noopener noreferrer nofollow" target="_blank">Touch Football</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Touch_Football_Resized.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Track___Field_Resized.png">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/ultimate-frisbee" rel="noopener noreferrer nofollow" target="_blank">Ultimate Frisbee</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/ULTIMATE FRISBEE_button-01.png">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/volleyball" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Volleyball_Resized.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/sports/water-polo" rel="noopener noreferrer nofollow" target="_blank">Water Polo</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Water_Polo_Resized.png">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
