@@ -82,7 +82,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/engineering-student-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">ENG Student Ambassadors</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Studen_Ambassadors_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Student_Ambassadors.png">
 </div>
 </td>
 </tr>
