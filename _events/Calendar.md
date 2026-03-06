@@ -13,6 +13,27 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/cca-fair-2026/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2026</a></strong>
+</p>
+<p></p>
+<p>Hey Freshies, welcome to the TP family!</p>
+<p></p>
+<p>Get ready for an amazing <strong>Freshmen Orientation (FO)</strong>! A
+key highlight of our student life calendar, FO marks an important milestone
+in your TP journey as you enter tertiary education.</p>
+<p></p>
+<p>Feeling those first day jitters? Fret not! We have got you covered with
+a smorgasbord of exciting activities to help you dive into this new chapter
+on the right note, and to make your transition into TP as smooth, confident
+and fun as possible!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/F_Web_Banner__3___1920px__W__X_1080px__H_.jpg">
 </div>
