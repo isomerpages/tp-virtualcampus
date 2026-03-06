@@ -17,7 +17,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/bizinfluencers/" rel="noopener noreferrer nofollow" target="_blank">Bizinfluencers</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Bizinfluencers.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/business-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">BUS Ambassadors</a></strong>
@@ -28,26 +30,33 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/cd-lionhearters/" rel="noopener noreferrer nofollow" target="_blank">CD Lionhearters</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/CD_Lionhearters_Resized.png">
 </div>
+<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/design-ai-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Design AI Interest Group</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Design_AI_Interest_Group_Resized.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -205,7 +214,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/tp-debates/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Debates</u></a></strong>
+<p><strong><a href="/interest-groups/tp-debate-club/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Debate Club</u></a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debates_Resized.png">
@@ -253,16 +262,14 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TP Astronomy</strong>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Bizinfluencers</strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
