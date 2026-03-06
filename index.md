@@ -53,6 +53,17 @@ sections:
       image: /images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg
       alt: Image alt text
   - infopic:
+      title: CCA Fair 2026
+      subtitle: A VIBRANT CAMPUS LIFE AWAITS!
+      id: infopic
+      description: Hey Freshies, this one’s for you! Discover your passion and
+        maximise your fun and learning on campus through our CCAs. Come on down
+        and join in the action!
+      button: CREATE YOUR JOURNEY!
+      url: /cca-fair-2026/
+      image: /images/Events/Highlights/Web_Banner_3__Virtual_Campus__Happenings__TP_Oei__BUS_Video_Wall___Staff_Portal_Announcements__FA_pathed_lowres.jpg
+      alt: Image alt text
+  - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: HEARTIEST CONGRATULATIONS!
       id: infopic
