@@ -231,10 +231,16 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/tchoukball" rel="noopener noreferrer nofollow" target="_blank">Tchoukball</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Tchoukball.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/tennis" rel="noopener noreferrer nofollow" target="_blank">Tennis</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Tennis.png">
+</div>
 </td>
 </tr>
 <tr>
