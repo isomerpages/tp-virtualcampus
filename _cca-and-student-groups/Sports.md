@@ -202,7 +202,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/swimming" rel="noopener noreferrer nofollow" target="_blank">Swimming</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
@@ -212,6 +214,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/table-tennis" rel="noopener noreferrer nofollow" target="_blank">Table Tennis</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Table_Tennis_2026.png">
+</div>
 </td>
 </tr>
 <tr>
