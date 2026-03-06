@@ -225,7 +225,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/iprs-student-chapter/" rel="noopener noreferrer nofollow" target="_blank">TP-IPRS Student Chapter</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_IPRS_Student_Chapter_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_INS_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
