@@ -254,7 +254,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/track-and-field" rel="noopener noreferrer nofollow" target="_blank">Track &amp; Field</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Track___Field.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
@@ -264,7 +266,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/ultimate-frisbee" rel="noopener noreferrer nofollow" target="_blank">Ultimate Frisbee</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Ultimate_Frisbee.png">
+</div>
 <p></p>
 </td>
 </tr>
@@ -272,7 +276,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/sports/volleyball" rel="noopener noreferrer nofollow" target="_blank">Volleyball</a></strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Volleyball.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
