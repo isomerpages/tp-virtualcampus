@@ -16,7 +16,7 @@ image: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="TP Debates" src="/images/Interest Groups/TP Debates.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Inner Page Photos (No Titles)/TP_Debate_Club_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,6 +50,55 @@ in competitions featuring high level debaters.</p>
 <p>
 <br><strong>CCA <a href="https://www.instagram.com/tpdebates" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3>Gallery</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_1.png">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_3.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_5.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_6.png">
+</div>
 </td>
 </tr>
 </tbody>
