@@ -200,7 +200,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/tp-debate-club/" rel="noopener noreferrer nofollow" target="_blank"><u>TP Debate Club</u></a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debates_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Debate_Club.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
