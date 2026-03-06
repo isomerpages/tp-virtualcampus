@@ -261,7 +261,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>TP Astronomy</strong>
+</p>
 </td>
 </tr>
 </tbody>
