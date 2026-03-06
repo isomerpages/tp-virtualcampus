@@ -53,8 +53,8 @@ the CCA.</p>
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Shaun_PHANG@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shaun Phang</a>
 </p>
-<p>
-<br><strong>CCA <a href="https://www.instagram.com/tpdebates" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
+<p></p>
+<p><strong>CCA <a href="https://www.instagram.com/tpdebates" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
