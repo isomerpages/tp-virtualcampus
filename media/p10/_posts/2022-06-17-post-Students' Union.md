@@ -30,7 +30,9 @@ from our Instagram!
 <br>Event Basis
 <br>
 </p>
-<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:ng_qihui@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Qihui</a> &amp; <a href="mailto:Ng_Ching_Siang@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Ching Siang</a>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Ng_Ching_Siang@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Ching Siang</a>
+</p>
+<p><strong>Email:</strong>  <a href="mailto:tpsu@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tpsu@student.tp.edu.sg</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tp.studentsunion/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
