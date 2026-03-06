@@ -122,6 +122,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/performing-arts/music-vox" rel="noopener noreferrer nofollow" target="_blank">Music Vox</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Music_Vox.png">
+</div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -129,6 +132,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/performing-arts/salvo-drums" rel="noopener noreferrer nofollow" target="_blank">Salvo Drums</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Salvo_Drums.png">
+</div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -136,6 +142,9 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/performing-arts/teatro" rel="noopener noreferrer nofollow" target="_blank">Teatro</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Teatro.png">
+</div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 </tr>
@@ -143,7 +152,10 @@ the CCA's Instagram page for more details. Have fun exploring!</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<strong><a href="/performing-arts/emcees" rel="noopener noreferrer nofollow" target="_blank">TP Emcees</a></strong>
 </p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/TP_Emcees.png">
+</div>
+<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
