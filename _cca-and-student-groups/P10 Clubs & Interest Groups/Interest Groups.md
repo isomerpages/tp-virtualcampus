@@ -64,20 +64,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/engineering-makers-club/" rel="noopener noreferrer nofollow" target="_blank">Engineering Makers Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Makers_Club_Resized.png">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/engineering-peer-mentors/" rel="noopener noreferrer nofollow" target="_blank">Engineering Peer Mentors</a></strong>
 </p>
@@ -92,6 +84,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Engineering_Studen_Ambassadors_Resized.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/entrepreneurship-catalyst/" rel="noopener noreferrer nofollow" target="_blank">TP Entrepreneurship Catalyst</a></strong>
