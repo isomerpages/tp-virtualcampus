@@ -14,20 +14,25 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Chorale is a lively community comprising passionate
-singers. Guided by Resident Conductor Ms Choy Siew Woon, the choir consists
-of four sections — Sopranos, Altos, Tenors and Basses — united in their
-love for music. TP Chorale offers students an opportunity to explore the
-rich world of choral music, from contemporary and classical works to the
-dramatic flair of musicals.</p>
+<p>Temasek Polytechnic Chorale (TP Chorale) is a vibrant ensemble of student
+singers dedicated to expressive, high-quality choral performance across
+campus and community platforms. The choir is led by Resident Conductor
+Ms Choy Siew Woon, a Singaporean choral director and music educator, and
+a recipient of the National Arts Council Arts Scholarship, with postgraduate
+training in choral conducting and music education.</p>
 <p></p>
-<p>Dedicated to achieving excellence in every endeavour, TP Chorale is a
-space that nurtures talent, celebrates creativity, and embarks on a journey
-of growth and discovery.</p>
+<p>Spanning contemporary and classical repertoire to musical theatre and
+concert works, TP Chorale develops strong vocal technique, musical sensitivity
+and ensemble blend through structured rehearsals and performance projects.
+The choir has represented TP at major institutional and public showcases,
+and has also attained two Gold Diplomas at the International Copernicus
+Choir Festival &amp; Competition in Poland (2025) - reflecting its artistic
+standards and growing international presence.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Chorale_NT.png">
 </div>
 </td>
 </tr>
