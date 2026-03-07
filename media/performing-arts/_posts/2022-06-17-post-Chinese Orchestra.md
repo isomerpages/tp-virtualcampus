@@ -43,50 +43,41 @@ performances in settings such as the Institute of Mental Health (IMH).</p>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chinese Orchestra Concert 2025</p>
+<p>Annual Concerts</p>
 </li>
 <li>
-<p>DREAMS XIV (2025)</p>
+<p>Magical Autumn Festival</p>
 </li>
 <li>
-<p>Magical Autumn XIV (2024)</p>
+<p>IMH Mid-Autumn Annual Performance</p>
 </li>
 <li>
-<p>Temasek Polytechnic National Day (2024)</p>
-</li>
-<li>
-<p>Temasek Spectacular (2022)</p>
-</li>
-<li>
-<p>NAC Arts In Your Neighbour: Music On The Move (2019)</p>
-</li>
-<li>
-<p>HKCO Singapore Tour Campus Concert (2018)</p>
+<p>DREAMS: Celebrating TP35 (2025)</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Wednesday (Combined), 7pm to 9pm</p>
+<p>Wednesdays, 7pm to 9pm</p>
 </li>
 <li>
-<p>Thursday &amp; Friday (Sectionals), 7pm to 9pm</p>
+<p>Thursdays &amp; Fridays, 7pm to 9pm (Sectionals)</p>
 </li>
 </ul>
-<h5>Staff Advisor</h5>
+<h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:Fayanne_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fayanne Tan</a>
+<p><a href="mailto:Fayanne_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fayanne Tan:</a>
 </p>
 </li>
 </ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpchineseorchestra" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
