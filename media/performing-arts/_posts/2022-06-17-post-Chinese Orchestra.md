@@ -44,7 +44,7 @@ performances in settings such as the Institute of Mental Health (IMH).</p>
 </table>
 <hr>
 <h3><strong>Recognitions</strong></h3>
-<h5><strong>Features:</strong></h5>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Annual Concerts</p>
