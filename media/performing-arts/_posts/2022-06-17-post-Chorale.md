@@ -85,7 +85,7 @@ Singing” &amp; “Folklore" Categories, 2016)</p>
 </li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,36 +95,39 @@ Singing” &amp; “Folklore" Categories, 2016)</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_1.png">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_2.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_3.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_4.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_5.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_6.png">
 </div>
 </td>
 </tr>
