@@ -39,38 +39,23 @@ standards and growing international presence.</p>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tapestry: Metamorphosis - EVOS VIII: Oasis (2024)</p>
+<p>Tapestry: Flux - EVOS IX: Go the Distance (2025)</p>
 </li>
 <li>
-<p>Wishes In Songs &amp; Harmony (2024)</p>
+<p>Project Red Dot - SG60 Celebrations @ Gardens by the Bay (2025)</p>
 </li>
 <li>
-<p>Tapestry Arts Festival - Our Canvas - Supernova (2023)</p>
+<p>Per Musicam Ad Astra 11th International Copernicus Choir Festival &amp;
+Competition: Gold Diploma ("Mixed Choirs” &amp; “Folklore” Categories,
+2025)</p>
 </li>
 <li>
-<p>Tapestry: MELODY Music Festival - EVOS VII - Reflection (2023)</p>
-</li>
-<li>
-<p>A Renaissance by Singapore Lyric Opera Youth Chorus (2022)</p>
-</li>
-<li>
-<p>Community Chest Christmas On A Great Street Light-Up Ceremony (2022)</p>
-</li>
-<li>
-<p>North East Community Give Back Golf &amp; Appreciation Dinner (2022)</p>
-</li>
-<li>
-<p>Temasek Polytechnic National Day Virtual Concert (2021)</p>
-</li>
-</ul>
-<h5>Achievements</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>First &amp; Second Prize at Golden Voices at Montserrat, Spain (2016)</p>
+<p>Golden Voices of Montserrat: Gold Diploma &amp; Silver Diploma (“Academic
+Singing” &amp; “Folklore" Categories, 2016)</p>
 </li>
 </ul>
 <hr>
