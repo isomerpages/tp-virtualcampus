@@ -26,7 +26,7 @@ and overseas exchange programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/CO/CO_pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Chinese_Orchestra_NT.png">
 </div>
 </td>
 </tr>
