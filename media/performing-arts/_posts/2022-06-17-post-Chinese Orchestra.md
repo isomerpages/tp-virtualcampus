@@ -14,15 +14,25 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Chinese Orchestra (TPCO) performs a wide range of
-music using well-loved Chinese instruments such as the Guzheng, Erhu and
-Pipa. It seeks to explore the world of traditional and contemporary Chinese
-music.</p>
+<p>Temasek Polytechnic Chinese Orchestra (TPCO) is a dedicated performing
+ensemble of student musicians who bring Chinese orchestral music to life
+through expressive, audience-ready performances. From well-loved traditional
+repertoire to contemporary Chinese works, TPCO blends cultural storytelling
+with refined ensemble craft, and collaborates regularly with fellow CCAs
+such as TP Band and Music Vox. The orchestra is led by Mr Wong De Li Dedric,
+a National Arts Council Arts Scholarship recipient, Resident Conductor
+of Ding Yi Music Company, and Music Director of the Asian Cultural Symphony
+Orchestra and Nanyang Collective.</p>
 <p></p>
-<p>The elegant and soulful music presented by TPCO always enchants and enthrals
-every audience. The orchestra regularly collaborates with other CCAs such
-as Band and Music Vox, as well as ventures out for public performances
-and overseas exchange programmes.</p>
+<p>Beyond the stage, TPCO plays an active role in building meaningful platforms
+for cultural engagement. The orchestra initiated and co-leads Magical Autumn
+with the TP Community Service Club - an annual signature Mid-Autumn outreach
+event - bringing seniors and students together through themed performances
+and interactive festivities. TPCO also supports high-profile partner platforms
+and community institutions, such as a gala performance for the Singapore-China
+Business Association (SCBA) at the Shangri-La Hotel, as well as outreach
+performances in settings such as the Institute of Mental Health (IMH).</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
