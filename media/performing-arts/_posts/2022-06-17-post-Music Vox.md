@@ -27,15 +27,15 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/MV/Music_Vox.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Music_Vox_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Homegrown Festival @ OCBC Square (2024)</p>
@@ -56,23 +56,9 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <p>“In Youthful Company” at The Esplanade Outdoor Theatre (2018)</p>
 </li>
 </ul>
-<h5>Achievements</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Awarded Temasek Polytechnic's Arts Group of the Year Award (2023 &amp;
-2024)</p>
-</li>
-<li>
-<p>Awarded Temasek Polytechnic’s Arts Group Excellence Award (2019, 2020
-&amp; 2022)</p>
-</li>
-<li>
-<p>Awarded Temasek Polytechnic's Arts Group of the Year Award (2016)</p>
-</li>
-</ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sectional Training (Once fortnightly or monthly), 7pm to 9pm</p>
@@ -81,15 +67,14 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <p>Rehearsal Jamming (Two to four times a week, subject to upcoming performances/recording)</p>
 </li>
 </ul>
-<h5>Staff Advisor</h5>
+<h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a> 
-<br>
 </p>
 </li>
 </ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpmusicvox" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
@@ -100,8 +85,7 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 </p>
 </li>
 </ul>
-<p></p>
-<h5>Newsletters</h5>
+<h5><strong>Newsletters:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://for.edu.sg/mvnewsletter-term4-ay24-25" rel="noopener nofollow" target="_blank">AY2024/25 (Term 4)</a>
@@ -149,7 +133,7 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 </li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
