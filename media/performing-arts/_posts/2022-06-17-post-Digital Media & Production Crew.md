@@ -14,79 +14,48 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Digital Media &amp; Production Crew (DMPC) is a dynamic, student-led
-CCA that offers comprehensive technical services for a wide range of events,
-both on and off campus. We specialise in key production areas such as stage
-management, lighting design, audio engineering, photography, videography
-and graphic design, ensuring that every event is brought to life with precision
-and creativity. Our team collaborates closely with event organisers to
-execute technical operations, transforming ideas and visions into polished
-productions.</p>
+<p>The Digital Media &amp; Production Crew (DMPC) specialises in stage management,
+lighting design, audio engineering, photography, videography and graphic
+design — working closely with event organisers to execute technical operations
+and translate ideas into polished, show-ready productions.</p>
 <p></p>
-<p>At DMPC, members are trained in various technical disciplines by industry
-practitioners, giving them invaluable insights into the latest tools, techniques,
-and trends in media and production. Through hands-on training and real-world
-event applications, members refine their skills in a practical and fast-paced
-environment. DMPC provides a platform for members to build expertise across
-a variety of productions.</p>
+<p>Members are trained through hands-on, real-world event applications, with
+coaching by leading industry practitioners who bring current professional
+workflows, tools and standards into every discipline. Through structured
+training and live production exposure, DMPC members build strong technical
+competence, teamwork and on-the-ground confidence in a fast-paced production
+environment — equipping them to support everything from major institutional
+ceremonies to large-scale arts showcases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DMPC/DMPC.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Digital_Media___Production_Crew_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>TP Open House (2025)</p>
+<p>TP Open House (Annually)</p>
 </li>
 <li>
-<p>Alchemy (2024)</p>
+<p>DREAMS Concert (2016-2019, 2021-2022, 2024-2025)</p>
 </li>
 <li>
-<p>DREAMS (2016-2019, 2021-2022, 2024)</p>
+<p>Tapestry Arts Festival (2022-2025)</p>
 </li>
 <li>
-<p>Tapestry Arts Festival (2022-2024)</p>
+<p>TP National Day Concert (2016, 2022-2025)</p>
 </li>
 <li>
-<p>Temasek Polytechnic National Day Concert (2016, 2022-2024)</p>
+<p>Temasek Olympiad x SpecTACular (2025)</p>
 </li>
 <li>
-<p>Temasek Spectacular (2016-2019, 2022, 2024)</p>
-</li>
-<li>
-<p>Temasek Regatta x Samudra (2023)</p>
-</li>
-<li>
-<p>Union Management Games (2023, 2024)</p>
-</li>
-<li>
-<p>Temasek Student Excellence Awards Ceremony (2017-2024)</p>
-</li>
-<li>
-<p>Polytechnic Forum (2017, 2023)</p>
-</li>
-<li>
-<p>Chinese Orchestra Virtual Concert - 樂, the Highlight (2022)</p>
-<p></p>
-</li>
-</ul>
-<h5>Achievements</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Canon Photomarathon 2020 - 2nd place for the student category</p>
-</li>
-<li>
-<p>Canon Photomarathon 2019 - 3rd place for the student category</p>
-</li>
-<li>
-<p>NSMen Video Competition 2019 - Merit</p>
+<p>Temasek Student Excellence Awards Ceremony (2017-2025)</p>
 </li>
 </ul>
 <hr>
