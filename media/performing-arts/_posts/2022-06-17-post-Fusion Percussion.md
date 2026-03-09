@@ -14,17 +14,22 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Fusion Percussion (TPFP) is a highly-spirited group
-of passionate individuals with a deep interest for percussive music.
-<br>
-<br>A collective of vibrant, creative and talented drummers come together
-in an explosive ensemble. Their shows are always exciting and full of energy.
-Get them to liven up shows and they will deliver the party to your doorstep!
-<br>
-<br>They live by their slogan “with a burning passion, we play to the beat
-of our hearts”. Brazilian Samba forms the cornerstone of TPFP's creative
-rhythms, such as Samba Temasek - a fusion of Brazilian samba and Singapore
-elements.</p>
+<p>Temasek Polytechnic Fusion Percussion (TPFP) is a high-energy percussion
+ensemble known for powerful rhythms, tight ensemble work and crowd-hyping
+stage presence. True to its name, TPFP explores a fusion of percussive
+styles and influences — blending groove, movement and musical creativity
+to deliver performances that are exciting, contemporary and instantly engaging.
+The group is guided by instructor Mr Sharanpal Singh Gill, an experienced
+percussion educator and artist, who has composed and choreographed drumming
+segments for major national platforms - including the Youth Olympic Games
+(2010) and the National Day Parade (2022).</p>
+<p></p>
+<p>Highly sought-after for campus and external showcases, TPFP’s members
+train through structured rehearsals that build timing, stamina, precision
+and showmanship, guided by industry practitioners who bring professional
+standards into the rehearsal room. The group lives by its motto - “With
+a burning passion, we play to the beat of our hearts” - and consistently
+brings that signature passion and energy to every stage they step on.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -39,32 +44,25 @@ elements.</p>
 <h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
+<p>Fusion Percussion: EVO Concert (2026)</p>
+</li>
+<li>
+<p>Pelancaran Bulan Bahasa (2025)</p>
+</li>
+<li>
+<p>Charity Transparency and Governance Awards (2024)</p>
+</li>
+<li>
+<p>Singa Drum Gaia Fiesta (2024)</p>
+</li>
+<li>
 <p>Homegrown Festival @ OCBC Square (2024)</p>
-</li>
-<li>
-<p>Community Chest Heartstrings Walk (2022)</p>
-</li>
-<li>
-<p>Kaki Bukit Youth Carnival (2022 &amp; 2023)</p>
-</li>
-<li>
-<p>Reflections Arts Festival 2022: World Drum Night V (2022)</p>
-</li>
-<li>
-<p>Tampines Changkat CC Golf Tournament &amp; Appreciation Dinner (2022)</p>
-</li>
-<li>
-<p>"In-Youthful-Company” @ Esplanade Waterfront (2019)</p>
 </li>
 </ul>
 <hr>
 <h3><strong>About CCA</strong></h3>
 <h5><strong>Training Days:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesday &amp; Thursday, 6pm to 9pm</p>
-</li>
-</ul>
+<p>Tuesdays &amp; Thursdays, 6pm to 9pm</p>
 <h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
