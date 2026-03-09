@@ -14,14 +14,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Malay Dance Group, also called Kesenian Si Anak Tari
-(Seni Nak Tari or SNT), takes pride in promoting the arts and providing
-high-quality traditional and contemporary performances.
-<br>
-<br>Founded since the establishment of the polytechnic in 1990, SNT continues
-to nurture youth student artists and leaders through traditional and contemporary
-Malay dance movements featuring elaborate costumes and accessories, showcasing
-the rich Malay heritage of the various styles portrayed.</p>
+<p>Temasek Polytechnic Malay Dance Group, also known as "Kesenian Si Anak
+Tari (Seni Nak Tari / SNT)", is a long-standing performing ensemble that
+presents high-quality traditional and contemporary Malay dance. Established
+in 1990, SNT nurtures student-artists through disciplined training, expressive
+artistry and culturally rooted performance works — showcasing the richness
+and diversity of Malay dance styles through dynamic movement, music and
+strong stage presentation.</p>
+<p></p>
+<p>In 2025, SNT marked a major milestone with its 35th Anniversary production,
+“Meraki, Jati Si Anak Tari” — a full-scale concert that brought together
+current members and alumni in an inter-generational celebration of the
+group’s legacy and identity.</p>
+<p></p>
+<p>Guided by instructors Ms Sharifah Shafiyyah Binti Syed Ali Alhinduan and
+Ms Hani Insyirah Binte Ismad, members are mentored with strong artistic
+standards and performance discipline, building confidence, polish and cultural
+grounding for the stage. Beyond campus, SNT remains active on prominent
+platforms such as "Muara Festival @ Esplanade" and key institutional showcases,
+reflecting its continued relevance and presence in Singapore’s Malay arts
+community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -36,31 +48,22 @@ the rich Malay heritage of the various styles portrayed.</p>
 <h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>DIAN Dancers: DINAMIKA (2024)</p>
+<p>35th Anniversary Concert: Meraki – Jati Si Anak Tari (2025)</p>
 </li>
 <li>
-<p>Temasek Regatta x SpecTACular (2024)</p>
+<p>Temasek Polytechnic National Day Concert (2025)</p>
+</li>
+<li>
+<p>Tapestry Arts Festival: FLUX - Jom Jom SNT (2025)</p>
+</li>
+<li>
+<p>DIAN Dancers: DINAMIKA (2024)</p>
 </li>
 <li>
 <p>⁠Rentak Budaya (2024)</p>
 </li>
 <li>
-<p>Muara Festiva @ Esplanade (2024)</p>
-</li>
-<li>
-<p>⁠Tapestry Arts Festival (2024)</p>
-</li>
-<li>
-<p>Irama Perayaan (2024, 2023)</p>
-</li>
-<li>
-<p>NTU: Rentak Budaya (2023)</p>
-</li>
-<li>
-<p>Muara Festival @ Esplanade (2023)</p>
-</li>
-<li>
-<p>DIAN Dancers: Cahayaloka (2023)</p>
+<p>Muara Festival @ Esplanade (2024-2025)</p>
 </li>
 </ul>
 <hr>
