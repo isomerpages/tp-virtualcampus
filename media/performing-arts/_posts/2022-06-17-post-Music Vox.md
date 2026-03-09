@@ -70,7 +70,7 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a> 
+<p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a>
 </p>
 </li>
 </ul>
@@ -143,36 +143,39 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_1.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_3.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_5.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_6.png">
 </div>
 </td>
 </tr>
