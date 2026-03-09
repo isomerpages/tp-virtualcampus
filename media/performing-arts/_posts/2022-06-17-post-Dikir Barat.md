@@ -14,14 +14,22 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic (TP) Dikir Barat is a vibrant traditional Malay art
-form involving 15 or more performers, including lead singers who engage
-in responsorial singing accompanied by Malay percussion.</p>
+<p>Temasek Polytechnic (TP) Dikir Barat is a vibrant Malay performing arts
+ensemble that brings together strong vocals, rhythmic percussion and poetic
+storytelling in a high-energy, team-based format. Anchored in pantun and
+lyrical creativity, the group features coordinated choral responses, lead
+vocalists and traditional percussion — delivering performances that are
+dynamic, engaging and culturally rooted.</p>
 <p></p>
-<p>Rooted in poetry and creative lyrics, TP Dikir actively takes part in
-numerous high profile, poly-wide and external public performances. The
-group has won earned multiple awards at the annual national competitions,
-such as "Piala Suara Serumpun" (Cluster of Voices Trophy).</p>
+<p>TP Dikir Barat is an active presence at major campus and public platforms,
+and is also a recognised award-winning contender at national-level competitions
+such as “Piala Suara Serumpun” (Cluster of Voices Trophy). Beyond competitive
+performances, the group also explores creative production work — such as
+“Berani Berubah” (2022) — a student-led video and music production that
+presents contemporary themes through original lyrical storytelling and
+a polished, modern presentation, while retaining the core dikir barat elements
+of responsorial vocals and percussion for broad audience appeal.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -36,24 +44,30 @@ such as "Piala Suara Serumpun" (Cluster of Voices Trophy).</p>
 <h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Istana Open House Performance (2023)</p>
+<p>Tapestry Arts Festival: FLUX - Jom Berdikir with TPDK (2025)</p>
 </li>
 <li>
-<p>Dreams XII - TPDK-driven video and music production, “Berani Berubah”
-(2022)</p>
+<p>Piala Suara Serumpun 2025 (Women’s): Best Awak-Awak, Best Paluan, Best
+Costumes</p>
+</li>
+<li>
+<p>Piala Suara Serumpun 2024 (Women’s): Third Placing, Best Senikata, Nominated
+for Best Juara and Awok-Awok</p>
+</li>
+<li>
+<p>Piala Suara Serumpun 2024 (Men’s): Third Placing, Nominated for Best Juara,
+Best Tukang Karut and Best Awok-Awok</p>
+</li>
+<li>
+<p>Piala Suara Serumpun 2023 (Women’s): Nominated for Best Tukang Karut and
+Best Awok-Awok</p>
+<p></p>
 </li>
 </ul>
 <hr>
 <h3><strong>About CCA</strong></h3>
 <h5><strong>Training Days:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday &amp; Thursday, 6.30pm to 9.30pm</p>
-</li>
-<li>
-<p>Additional training days, nearing show day</p>
-</li>
-</ul>
+<p>Mondays &amp; Thursdays, 6.30pm to 9.30pm</p>
 <h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
