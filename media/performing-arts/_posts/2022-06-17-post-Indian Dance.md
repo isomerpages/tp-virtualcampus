@@ -32,15 +32,15 @@ every step tells a story, and every movement resonates with passion.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/IDG/IDG_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Indian_Dance_Group_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Harmony Fest (2024)</p>
@@ -69,8 +69,8 @@ in Singapore" (13 July 2024)</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tuesday &amp; Friday, 6pm to 9pm</p>
@@ -79,7 +79,7 @@ in Singapore" (13 July 2024)</p>
 <p>Additional training days, nearing show day</p>
 </li>
 </ul>
-<h5>Staff Advisor</h5>
+<h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Leong</a>
@@ -87,7 +87,7 @@ in Singapore" (13 July 2024)</p>
 </p>
 </li>
 </ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpindiandance" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
@@ -95,7 +95,7 @@ in Singapore" (13 July 2024)</p>
 </li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -104,38 +104,29 @@ in Singapore" (13 July 2024)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_1.jpg">
-</div>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_2.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_3.jpg">
-</div>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_4.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_5.jpg">
-</div>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_6.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
