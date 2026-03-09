@@ -16,9 +16,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Temasek Polytechnic Dance Ensemble (TPDE) is a high-performance dance
 collective specialising in Hip Hop, Modern Dance and Breakin’, where rigorous
-training meets bold choreography and strong stagecraft. Known for versatility
-across both competitive and performance platforms, TPDE also creates site-specific
-works that bring dance beyond the conventional stage.</p>
+training meets bold choreography and strong stagecraft. Known for their
+versatility across both competitive and performance platforms, TPDE also
+creates site-specific works that bring dance beyond the conventional stage.</p>
 <p></p>
 <p>The CCA is guided by an accomplished instructor team as follows:</p>
 <p></p>
