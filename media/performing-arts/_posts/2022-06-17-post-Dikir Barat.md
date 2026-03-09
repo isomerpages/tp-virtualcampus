@@ -82,6 +82,10 @@ Best Awok-Awok</p>
 <p><a href="https://www.instagram.com/tpdikir" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
 </li>
+<li>
+<p><a href="https://linktr.ee/temasekpolydikirbarat?utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn2a-lGHH4g-zIZx-QT17s3Sf5CzST14qp3Cn6Oa5ZHk3P9gTjy_h1QAWq1xY_aem_zu69ID-j792Sw8U4IFVHkQ" rel="noopener nofollow" target="_blank">Linktree</a>
+</p>
+</li>
 </ul>
 <hr>
 <h3><strong>Gallery</strong></h3>
