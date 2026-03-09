@@ -69,14 +69,7 @@ community.</p>
 <hr>
 <h3><strong>About CCA</strong></h3>
 <h5><strong>Training Days:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday &amp; Wednesday, 6pm to 9pm</p>
-</li>
-<li>
-<p>Additional training days, nearing show day</p>
-</li>
-</ul>
+<p>Mondays &amp; Wednesdays, 6pm to 9pm</p>
 <h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
