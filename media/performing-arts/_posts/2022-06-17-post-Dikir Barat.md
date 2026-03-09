@@ -25,15 +25,15 @@ such as "Piala Suara Serumpun" (Cluster of Voices Trophy).</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DK/Dikir_Barat.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Dikir_Barat_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Istana Open House Performance (2023)</p>
@@ -43,38 +43,9 @@ such as "Piala Suara Serumpun" (Cluster of Voices Trophy).</p>
 (2022)</p>
 </li>
 </ul>
-<h5>Achievements</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Piala Suara Serumpun 2024 (Women’s): Third Placing, Best Senikata, Nominated
-for Best Juara and Awok-Awok</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2024 (Men’s): Third Placing, Nominated for Best Juara,
-Best Tukang Karut and Best Awok-Awok</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2023 (Women’s): Nominated for Best Tukang Karut and
-Best Awok-Awok</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2022 (Women's): Second Placing, Best Percussionists,
-Nominated for Best Lyrics, Best Tukang Karut and Best Awok-Awok</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2022 (Men's): Third Placing, Nominated for Best Lyrics
-and Best Tukang Karut</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2019 (Women's): Champion, Best Lyrics</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2019 (Men’s): The Green Pen Award</p>
-</li>
-</ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Monday &amp; Thursday, 6.30pm to 9.30pm</p>
@@ -83,7 +54,7 @@ and Best Tukang Karut</p>
 <p>Additional training days, nearing show day</p>
 </li>
 </ul>
-<h5>Staff Advisor</h5>
+<h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Leong</a> 
@@ -91,7 +62,7 @@ and Best Tukang Karut</p>
 </p>
 </li>
 </ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpdikir" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
