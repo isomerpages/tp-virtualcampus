@@ -14,20 +14,47 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Dance Ensemble (TPDE) comprises three main dance genres;
-Hip Hop, Modern Dance and Breakin’.
-<br>
-<br>Modern Dance is a dance form developed from classical ballet in the early
-20th century, shedding the classical ballet technique, costume and shoes.
-Hip Hop is a popular dance style involving energetic and funky street dance.
-Breakin’ includes a multitude of different floorwork and explosive movements.
-<br>
-<br>TPDE's Hip Hop, Modern Dance &amp; Breakin’ are under the tutelage of
-Ahmad Kamil, Nikki Chan and Gerald Chan respectively.</p>
+<p>Temasek Polytechnic Dance Ensemble (TPDE) is a high-performance dance
+collective specialising in Hip Hop, Modern Dance and Breakin’, where rigorous
+training meets bold choreography and strong stagecraft. Known for versatility
+across both competitive and performance platforms, TPDE also creates site-specific
+works that bring dance beyond the conventional stage.</p>
+<p></p>
+<p>The CCA is guided by an accomplished instructor team as follows:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Hip Hop: </strong>Ahmad Kamil is the Artistic Director of Six.5
+and an experienced choreographer/coach, who works across major institutions
+and productions.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Modern Dance: </strong>Nikki Chan is a contemporary dance choreographer
+and educator, with strong formal training foundations and extensive experience
+mentoring tertiary dancers.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Breakin’: </strong>Gerald Chan has been a long-time resident instructor
+with TPDE. He is a TPDE alumnus and the founder of Artistate, as well as
+an internationally representing breaker and mentor who has developed many
+top local dancers.</p>
+</li>
+</ul>
+<p></p>
+<p>TPDE has built a strong reputation through consistent results at major
+platforms, such as POL-ITE: "Off The Ground", "Super 24" and "World Supremacy
+Battlegrounds", alongside a strong competitive track record across genres.
+It also maintains strong public visibility through major institutional
+showcases and national platforms, including appearances connected to the
+National Day Parade and live Mediacorp broadcast productions, and is recognised
+for creative excellence with multiple "Arts Group of the Year" accolades
+at the Temasek Student Excellence Awards.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DE/Dance_Ensemble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Dance_Ensemble_NT.png">
 </div>
 </td>
 </tr>
