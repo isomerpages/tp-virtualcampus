@@ -59,23 +59,24 @@ ceremonies to large-scale arts showcases.</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Audio: Monday, 7pm to 9pm</p>
+<p>Live Sound: Mondays, 7pm to 9pm</p>
 </li>
 <li>
-<p>Lights: Wednesday, 7pm to 9pm</p>
+<p>Production Lighting: Wednesdays, 7pm to 9pm</p>
 </li>
 <li>
-<p>Photo/Video: Thursday, 7pm to 9pm</p>
+<p>Photography &amp; Videography: Thursdays, 7pm to 9pm</p>
 </li>
 <li>
 <p>Graphics: Alternate Fridays, 7pm to 9pm</p>
+<p></p>
 </li>
 </ul>
-<h5>Staff Advisors</h5>
+<h5><strong>CCA Staff Advisors:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Leong</a> &amp;
@@ -83,7 +84,7 @@ ceremonies to large-scale arts showcases.</p>
 </p>
 </li>
 </ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tp.dmpc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
@@ -99,7 +100,7 @@ ceremonies to large-scale arts showcases.</p>
 </li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -108,38 +109,26 @@ ceremonies to large-scale arts showcases.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DMPC" src="/images/Arts/DMPC/DMPC_pic_1.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DMPC" src="/images/Arts/DMPC/DMPC_pic_2.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DMPC" src="/images/Arts/DMPC/DMPC_pic_3.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DMPC" src="/images/Arts/DMPC/DMPC_pic_4.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DMPC" src="/images/Arts/DMPC/DMPC_pic_5.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DMPC" src="/images/Arts/DMPC/DMPC_pic_6.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
