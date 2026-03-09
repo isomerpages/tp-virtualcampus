@@ -23,9 +23,9 @@ develop strong technique, musicality and performance presence while learning
 to honour tradition with contemporary stagecraft.</p>
 <p></p>
 <p>TPIDG has performed across major institutional and public platforms, and
-achieved notable milestones — most prominently, participating in the Largest
-Mass Indian Traditional Folk Arts performance in Singapore, which set two
-national records (Singapore Book of Records, 13 July 2024).</p>
+achieved notable milestones — most prominently, participating in the "Largest
+Mass Indian Traditional Folk Arts" performance in Singapore, which set
+two national records (Singapore Book of Records, 13 July 2024).</p>
 <p></p>
 <p>With a consistent presence at festivals and showcases such as "DREAMS",
 "Harmony Fest", "RP Momentum" and "Indian Heritage Arts Fiesta", TPIDG
