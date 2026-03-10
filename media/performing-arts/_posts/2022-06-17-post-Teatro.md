@@ -24,15 +24,15 @@ to performance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Teatro/Teatro.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Teatro_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>"Shredded Notes" Tapestry (2024)</p>
@@ -51,8 +51,8 @@ to performance.</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Thursday &amp; Friday, 6pm to 9pm</p>
@@ -61,15 +61,11 @@ to performance.</p>
 <p>Additional training days as required for productions</p>
 </li>
 </ul>
-<h5>Staff Advisor</h5>
-<ul data-tight="true" class="tight">
-<li>
+<h5><strong>Staff Advisor:</strong></h5>
 <p><a href="mailto:Denise_CABALTERA@tp.edu.sg>" rel="noopener noreferrer nofollow" target="_blank">Ms Denise Cabaltera</a> 
 <br>
 </p>
-</li>
-</ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpteatro/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
@@ -81,7 +77,7 @@ to performance.</p>
 </li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
