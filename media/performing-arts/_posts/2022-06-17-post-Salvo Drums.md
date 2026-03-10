@@ -89,20 +89,12 @@ combine tradition, creativity and powerful collective expression.</p>
 </li>
 </ul>
 <h5><strong>CCA Staff Advisor:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="mailto:fayanne_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fayanne Tan</a> 
 <br>
 </p>
-</li>
-</ul>
 <h5><strong>Pages:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="https://www.instagram.com/tpsalvo/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
-</li>
-</ul>
 <hr>
 <h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
