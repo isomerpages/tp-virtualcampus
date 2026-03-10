@@ -29,7 +29,6 @@ performances, the group also explores creative production work — such as
 presents contemporary themes through original lyrical storytelling and
 a polished, modern presentation, while retaining the core dikir barat elements
 of responsorial vocals and percussion for broad audience appeal.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
