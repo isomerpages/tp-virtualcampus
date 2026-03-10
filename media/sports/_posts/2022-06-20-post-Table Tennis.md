@@ -26,7 +26,7 @@ in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP)
 Table-Tennis Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2025: Silver (Men’s Team) &amp; Silver (Women's Tea)
+<br>POL-ITE Games 2025: Silver (Men’s Team) &amp; Silver (Women's Team)
 <br>
 </p>
 <p><strong>Training Days:</strong>
