@@ -32,7 +32,6 @@ and interactive festivities. TPCO also supports high-profile partner platforms
 and community institutions, such as a gala performance for the Singapore-China
 Business Association (SCBA) at the Shangri-La Hotel, as well as outreach
 performances in settings such as the Institute of Mental Health (IMH).</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
