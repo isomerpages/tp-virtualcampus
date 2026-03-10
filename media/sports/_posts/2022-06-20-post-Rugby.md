@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Rugby_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Rugby_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,7 +28,7 @@ to the game. Each year, the TP Rugby Team competes in the Polytechnic-ITE
 and strategic play, rugby is truly a thrilling sport to watch and play.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Gold
+<br>POL-ITE Games 2025: Gold
 <br>
 <br><strong>Training Days:</strong>
 <br>Tuesday &amp; Thursday, 7pm
