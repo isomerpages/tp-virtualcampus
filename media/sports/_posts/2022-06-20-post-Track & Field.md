@@ -28,17 +28,9 @@ Polytechnic (IVP) Track &amp; Field Championships annually.
 <br>
 <br><strong>Achievements:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>IVP Games (AY2024/25): 3rd Position (Men's Team) &amp; 3rd Position (Combined
-Men's &amp; Women's)</p>
-</li>
-<li>
-<p>POL-ITE Games 2024: 2nd Position (Men's Team)
+<p>POL-ITE Games 2025: 2nd Position (Men's &amp; Women's Teams)
 <br>
 </p>
-</li>
-</ul>
 <p><strong>Training Days:</strong>
 <br>Monday &amp; Wednesday, 6.30pm
 <br>
