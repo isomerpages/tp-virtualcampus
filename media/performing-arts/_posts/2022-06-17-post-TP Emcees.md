@@ -49,41 +49,19 @@ through purposeful and wholesome storytelling.</p>
 <h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>TP Open House (2025)</p>
+<p>"Re:Temasek" Student Engagement Series (2026)</p>
 </li>
 <li>
-<p>TP Scholarships Presentation (2025)</p>
+<p>TP Open House (2025 &amp; 2026)</p>
 </li>
 <li>
-<p>TP Top Picks (2024-2025)</p>
+<p>TP Scholarships Presentation (2025 &amp; 2026)</p>
 </li>
 <li>
-<p>NTUC Starter Awards Presentation Ceremony (2024)</p>
+<p>Temasek Polytechnic National Day Concert (2025)</p>
 </li>
 <li>
-<p>Organiser: Tapestry Insiders (2024)</p>
-</li>
-<li>
-<p>Mothership Eco Bazaar (2024)</p>
-</li>
-<li>
-<p>Temasek Regatta x SpecTACular (2024)</p>
-</li>
-<li>
-<p>Organiser: AY23/24 Arts Townhall (2023)</p>
-</li>
-<li>
-<p>Tapestry BrandUp Workshop (2023)</p>
-</li>
-<li>
-<p>Organiser: 128 Circle x TP Emcees – Meet The Stars (2022)</p>
-</li>
-<li>
-<p>Temasek Spectacular (2022)</p>
-</li>
-<li>
-<p>DREAMS XII (2022)</p>
-<p></p>
+<p>DREAMS: Celebrating TP35 (2025)</p>
 </li>
 </ul>
 <hr>
