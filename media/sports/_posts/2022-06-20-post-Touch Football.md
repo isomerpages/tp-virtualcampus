@@ -33,7 +33,7 @@ and Institute-Varsity Polytechnic (IVP) Touch Football Games.
 <p>POL-ITE Games 2025: Gold</p>
 <p></p>
 <p><strong>Training Days:</strong>
-<br>Monday &amp; Wednesday, 6.30pm
+<br>Monday &amp; Thursday, 6.30pm
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Haffiz Amin</a>
 <br>
