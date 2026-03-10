@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Soccer_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Soccer_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -27,7 +27,14 @@ Soccer Games and SR Nathan Challenge Trophy Soccer Tournament annually.
 <br>
 <br><strong>Achievements:</strong>
 </p>
-<p>POL-ITE Games 2024: Silver (Men's Team)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>POL-ITE Games 2025: Gold (Men's Team) &amp; Silver (Women's Team)</p>
+</li>
+<li>
+<p>IVP Games (AY2025/26): Bronze (Women's Team)</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Training Days:</strong>
 </p>
