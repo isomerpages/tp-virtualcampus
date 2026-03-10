@@ -61,18 +61,10 @@ Singing” &amp; “Folklore" Categories, 2016)</p>
 <hr>
 <h3><strong>About CCA</strong></h3>
 <h5><strong>Training Days:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p>Tuesdays &amp; Thursdays, 7pm to 9pm</p>
-</li>
-</ul>
 <h5><strong>CCA Staff Advisor:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="mailto:Denise_CABALTERA@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Denise Cabaltera</a>
 </p>
-</li>
-</ul>
 <h5><strong>Pages</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
