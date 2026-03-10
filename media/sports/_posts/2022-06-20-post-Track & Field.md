@@ -15,16 +15,16 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Track___Field_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Track___Field_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Track and Field events are divided into three broad categories: track
-events, field events and combined events. Track events include sprints,
+<p>Track and field events are divided into three broad categories: track
+events, field events, and combined events. Track events include sprints,
 middle and long-distance events, hurdles and relays. Field events are grouped
-into 2 broad categories, jumps and throws. The TP Track &amp; Field Teams
-(Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
-Polytechnic (IVP) Track &amp; Field Championship annually.
+into two broad categories - jumps and throws. The TP Track &amp; Field
+Team (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
+Polytechnic (IVP) Track &amp; Field Championships annually.
 <br>
 <br><strong>Achievements:</strong>
 </p>
