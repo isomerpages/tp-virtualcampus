@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Volleyball_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Volleyball_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,10 +32,10 @@ Polytechnic (IVP) Volleyball Games annually.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>IVP Games (AY2024/25): Silver (Men's Team)</p>
+<p>POL-ITE Games 2025: Gold (Men’s Team), Silver (Women’s Team)</p>
 </li>
 <li>
-<p>POL-ITE Games 2024: Gold (Men’s Team) &amp; Silver (Women’s Team)</p>
+<p>IVP Games (AY2025/26): Silver (Men’s Team)</p>
 <p></p>
 </li>
 </ul>
