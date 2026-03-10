@@ -28,7 +28,6 @@ The choir has represented TP at major institutional and public showcases,
 and has also attained two Gold Diplomas at the International Copernicus
 Choir Festival &amp; Competition in Poland (2025) - reflecting its artistic
 standards and growing international presence.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
