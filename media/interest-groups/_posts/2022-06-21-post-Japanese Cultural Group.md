@@ -59,8 +59,8 @@ in Ishikawa Prefecture (KINSHO) (2025-2026)</p>
 <p><strong>Meeting Day:</strong>
 <br>Event basis</p>
 <p></p>
-<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:LEE_Siang_Jin@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Siang Jin</a>, <a href="mailto:Joachim_LAI@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leslie Chan </a>&amp;
-<a href="mailto:LIM_Lin_Da@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Joachim Lai</a>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:LEE_Siang_Jin@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Siang Jin</a>, <a href="mailto:Leslie_CHAN@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Leslie Chan </a>&amp;
+<a href="mailto:Joachim_LAI@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joachim Lai</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpjcg" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
