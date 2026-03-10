@@ -29,15 +29,15 @@ TP Emcees family!</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Emcees/Emcees_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/TP_Emcees_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>TP Open House (2025)</p>
@@ -78,30 +78,34 @@ TP Emcees family!</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Wednesday, 6.30pm to 9.30pm</p>
 </li>
 </ul>
-<h5>Staff Advisor</h5>
+<h5><strong>CCA Staff Advisor:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:mark_spencer@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Mark Spencer</a>
+<p><a href="mailto:Denise_CABALTERA@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Denise Cabaltera</a>
 <br>
 </p>
 </li>
 </ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpemcees" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
 </li>
+<li>
+<p><a href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Ftpemcees2526%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGny62-xZ3rfMZPYAVwWkFHgjOr5V99JrLp_arGDPVs38HaHeue9RdjPTFLMr4_aem_SgZxzcM7dJc7lPzVaTMTCA&amp;e=AT4-Aow-86uCnBwQhLvdsvhLsvtrf8DeSQhVeQCyDU0PWbA39jcsNme2fgjHST0HN_WqGiv7qgtKJWsc_lhz0yajHp7ojyRdGBBV0BQrkg" rel="noopener nofollow" target="_blank">Linktree</a>
+</p>
+</li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,36 +115,39 @@ TP Emcees family!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_1-v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_1.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_2-v2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_3.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_5.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_6.jpg">
 </div>
 </td>
 </tr>
