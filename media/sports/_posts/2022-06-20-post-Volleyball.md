@@ -32,7 +32,7 @@ Polytechnic (IVP) Volleyball Games annually.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>POL-ITE Games 2025: Gold (Men’s Team), Silver (Women’s Team)</p>
+<p>POL-ITE Games 2025: Gold (Men’s Team) &amp; Silver (Women’s Team)</p>
 </li>
 <li>
 <p>IVP Games (AY2025/26): Silver (Men’s Team)</p>
