@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Floorball" src="/images/Sports/FLOORBALL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Floorball_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,7 +28,7 @@ Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechni
 (IVP) Floorball Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Bronze (Men’s Team)
+<br>POL-ITE Games 2025: Bronze (Men’s Team)
 <br>
 </p>
 <p><strong>Training Days:</strong>
