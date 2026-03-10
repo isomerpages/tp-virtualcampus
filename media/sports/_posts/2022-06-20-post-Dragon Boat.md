@@ -50,10 +50,12 @@ in the Polytechnic-ITE (POL-ITE) Dragon Boat Race as well as external competitio
 <li>
 <p>Tuesday, 7pm</p>
 </li>
+<li>
+<p>Saturday, 8am</p>
+<p></p>
+</li>
 </ul>
-<p>Saturday, 8am
-<br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charis_WOO@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charis Woo</a>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charis_WOO@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charis Woo</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/temasekpolydragonboat/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
