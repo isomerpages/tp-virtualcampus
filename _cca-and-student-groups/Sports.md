@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>Over many years of discipline, diligence and doggedness, many of TP’s
-high performing sports teams have achieved sustained results at the <strong>Polytechnic-ITE (POL-ITE)</strong> and <strong>Institute-Varsity-Polytechnic (IVP) Games</strong>.
+high performing sports teams have achieved sustained results at the&nbsp;<strong>Polytechnic-ITE (POL-ITE)</strong> and <strong>Institute-Varsity-Polytechnic (IVP) Games</strong>.
 They have brought much honour and pride to TP. In addition, TP has a wide
 range of sports facilities that serve as venues for sports competitions
 and friendlies. The close proximity to the scenic and idyllic Bedok Reservoir
@@ -14,8 +14,8 @@ to be engaged in trail running or water sports activities. Sports in TP
 will surely provide plenty of excitement and spectacle for athletes, fans
 and supporters.</p>
 <p>Please note that successful passing of trials is required for acceptance
-into the sports CCAs. You may visit the annual <strong><a href="/cca-fair-2026/" rel="noopener nofollow" target="_blank">CCA Fair</a></strong> to
-express your interest, scheduled for <strong>22-23</strong>  <strong>April 2026</strong>.</p>
+into the sports CCAs. You may visit the annual&nbsp;<strong><a href="/cca-fair-2026/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair</a></strong>&nbsp;to
+express your interest, scheduled for <strong>22-23 April 2026</strong>.</p>
 <p>If you have missed the CCA Fair, please contact the relevant Staff Advisor
 to find out how to join your desired CCA. Alternatively, you may visit
 the CCA's Instagram page for more details. Have fun exploring!</p>
