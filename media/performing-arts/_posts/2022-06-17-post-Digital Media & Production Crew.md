@@ -79,8 +79,11 @@ ceremonies to large-scale arts showcases.</p>
 <h5><strong>CCA Staff Advisors:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Leong</a> &amp;
-<a href="mailto:nigel_tan@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Nigel Tan</a>
+<p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Leong</a> 
+</p>
+</li>
+<li>
+<p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Nigel Tan</a>
 </p>
 </li>
 </ul>
