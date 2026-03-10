@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Tchoukball" src="/images/Sports/TCHOUKBALL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Tchoukball_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,12 +29,20 @@ attacking player, hit the trampoline goal and bounce outside the goal zone
 (“D”) without being caught by the defending team.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2023: Silver (Men's Team)
+<br>POL-ITE Games 2025: Gold (Men's &amp; Women's Teams)
 <br>
 <br><strong>Training Days:</strong>
-<br>Tuesday &amp; Friday, 7pm
-<br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Jane_Yang@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Jane Yang</a> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday &amp; Friday, 7pm (Women's Team)</p>
+</li>
+<li>
+<p>Tuesday &amp; Friday, 7pm (Men's Team)</p>
+<p></p>
+</li>
+</ul>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Aubrey_KOH@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Aubrey Koh</a> 
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tptchouk" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
