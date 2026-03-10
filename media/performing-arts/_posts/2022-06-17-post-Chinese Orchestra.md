@@ -71,19 +71,11 @@ performances in settings such as the Institute of Mental Health (IMH).</p>
 </li>
 </ul>
 <h5><strong>CCA Staff Advisor:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="mailto:Fayanne_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fayanne Tan:</a>
 </p>
-</li>
-</ul>
 <h5><strong>Pages:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="https://www.instagram.com/tpchineseorchestra" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
-</li>
-</ul>
 <hr>
 <h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
