@@ -71,13 +71,9 @@ community.</p>
 <h5><strong>Training Days:</strong></h5>
 <p>Mondays &amp; Wednesdays, 6pm to 9pm</p>
 <h5><strong>CCA Staff Advisor:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="mailto:Denise_CABALTERA@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Denise Cabaltera</a>
 <br>
 </p>
-</li>
-</ul>
 <h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
