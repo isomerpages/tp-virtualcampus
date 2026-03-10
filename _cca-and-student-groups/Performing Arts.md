@@ -13,7 +13,7 @@ a selection process. Through high-quality concerts and productions, our
 student-artists express their creativity, hone their craft and aspire to
 be artists creating works in the local and global artistic landscapes.</p>
 <p>Please note that successful passing of auditions is required for acceptance
-into the performing arts CCAs. You may visit the annual <strong><a href="/cca-fair-2026/" rel="noopener nofollow" target="_blank">CCA Fair</a></strong> to
+into the performing arts CCAs. You may visit the annual&nbsp;<strong><a href="/cca-fair-2026/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair</a></strong>&nbsp;to
 express your interest, scheduled for <strong>22-23 April 2026</strong>.</p>
 <p>If you have missed the CCA Fair, please contact the relevant Staff Advisor
 to find out how to join your desired CCA. Alternatively, you may visit
