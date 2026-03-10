@@ -15,7 +15,7 @@ will surely provide plenty of excitement and spectacle for athletes, fans
 and supporters.</p>
 <p>Please note that successful passing of trials is required for acceptance
 into the sports CCAs. You may visit the annual <strong><a href="/cca-fair-2026/" rel="noopener nofollow" target="_blank">CCA Fair</a></strong> to
-express your interest, scheduled for <strong>22-23 April 2026</strong>.</p>
+express your interest, scheduled for <strong>22-23</strong>  <strong>April 2026</strong>.</p>
 <p>If you have missed the CCA Fair, please contact the relevant Staff Advisor
 to find out how to join your desired CCA. Alternatively, you may visit
 the CCA's Instagram page for more details. Have fun exploring!</p>
