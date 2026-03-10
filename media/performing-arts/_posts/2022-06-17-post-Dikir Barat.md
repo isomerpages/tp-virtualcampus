@@ -69,13 +69,9 @@ Best Awok-Awok</p>
 <h5><strong>Training Days:</strong></h5>
 <p>Mondays &amp; Thursdays, 6.30pm to 9.30pm</p>
 <h5><strong>CCA Staff Advisor:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Leong</a> 
 <br>
 </p>
-</li>
-</ul>
 <h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
