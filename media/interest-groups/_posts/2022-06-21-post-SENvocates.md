@@ -52,7 +52,6 @@ student, regardless of their challenges, and positively contribute to the
 disability and SEN community.</p>
 <p></p>
 <p>What you can look forward to:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Collaborating with external partners supporting people with disabilities</p>
