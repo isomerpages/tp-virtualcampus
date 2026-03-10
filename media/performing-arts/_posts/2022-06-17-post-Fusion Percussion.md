@@ -64,13 +64,9 @@ brings that signature passion and energy to every stage they step on.</p>
 <h5><strong>Training Days:</strong></h5>
 <p>Tuesdays &amp; Thursdays, 6pm to 9pm</p>
 <h5><strong>CCA Staff Advisor:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a> 
 <br>
 </p>
-</li>
-</ul>
 <h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
