@@ -101,12 +101,8 @@ at the Temasek Student Excellence Awards.</p>
 </li>
 </ul>
 <h5><strong>CCA Staff Advisor:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="mailto:Fayanne_Tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fayanne Tan</a>
 </p>
-</li>
-</ul>
 <h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
