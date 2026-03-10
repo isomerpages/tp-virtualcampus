@@ -37,7 +37,6 @@ songwriting, music production, recording and screen performance, and culminated
 in a professionally released music video featured on national platforms
 — exemplifying TPMV’s role as an applied-learning music collective embedded
 in real-world creative production and industry workflows.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -82,12 +81,8 @@ in real-world creative production and industry workflows.</p>
 </li>
 </ul>
 <h5><strong>CCA Staff Advisor:</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a>
 </p>
-</li>
-</ul>
 <h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
