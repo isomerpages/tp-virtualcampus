@@ -35,15 +35,13 @@ Polytechnic (IVP) Games annually.
 <li>
 <p>Monday &amp; Wednesday, 7pm (Women's Team)</p>
 </li>
-<li>
+</ul>
 <p>Tuesday &amp; Thursday, 7pm (Men's Team)
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jow Pei Jun</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tp.bball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
