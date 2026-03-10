@@ -19,8 +19,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>SENvocates is a student interest group in Temasek Polytechnic (TP) dedicated
-to advocating for disabilities and Special Educational Needs (SEN).
+<p><strong>SENvocates</strong> is a student interest group in Temasek Polytechnic
+(TP) dedicated to advocating for disabilities and Special Educational Needs
+(SEN).
 <br>
 </p>
 <p><strong>Objectives:</strong>
@@ -48,23 +49,22 @@ projects.</p>
 <p>Together with the SEN Support Division from Student Support &amp; Career
 Services, we aim to foster an environment that is inclusive for every TP
 student, regardless of their challenges, and positively contribute to the
-disability and SEN community.
-<br>
-<br>Some events and projects you can look forward to organising and participating
-in include:</p>
+disability and SEN community.</p>
+<p></p>
+<p>What you can look forward to:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bi-weekly "Let’s Hang Out!" sessions</p>
+<p>Collaborating with external partners supporting people with disabilities</p>
 </li>
 <li>
-<p>The Purple Parade Contingent March and Campaign Activation</p>
+<p>Instagram projects</p>
 </li>
 <li>
-<p>Instagram Projects: TP SENtre, SENorita and Common Ground</p>
-<p></p>
+<p>The Purple Parade Contingent March and on-campus Campaign Activation</p>
 </li>
 </ul>
+<p></p>
 <p><strong>Meeting Day:</strong> 
 <br>Event basis
 <br>
