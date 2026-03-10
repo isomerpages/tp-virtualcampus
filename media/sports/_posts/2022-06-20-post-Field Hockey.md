@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Field Hockey" src="/images/Sports/FIELD HOCKEY.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Hockey.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -27,7 +27,7 @@ Teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) Hockey
 Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Gold (Men’s Team) &amp; Bronze (Women's Team)
+<br>POL-ITE Games 2025: Gold (Men’s Team) &amp; Silver (Women's Team)
 <br>
 <br><strong>Training Days:</strong>
 </p>
