@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Swimming_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Swimming_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,10 +33,10 @@ Swimming Championship annually.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>IVP Games (AY2024/25): Gold (Men’s Team) &amp; Silver (Team Overall)</p>
+<p>POL-ITE Games 2025: Gold (Men’s Team) &amp; Silver (Women’s Team)</p>
 </li>
 <li>
-<p>POL-ITE Games 2024: Gold (Men’s Team) &amp; Gold (Women’s Team)</p>
+<p>IVP Games (AY2025/26): Silver (Men's Team) &amp; Bronze (Team Overall)</p>
 </li>
 </ul>
 <p></p>
