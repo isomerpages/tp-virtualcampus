@@ -15,17 +15,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Emcees is a fun and lively community of emcees dedicated
-to providing hosting services for the student body of Temasek Polytechnic.
-They collaborate closely with various parties in TP, including the Arts
-Groups, P10 Clubs and Interest Groups, academic schools and Corporate Communications,
-to assist with the facilitation of events.</p>
+<p>Temasek Polytechnic Emcees is a student hosting and communications ensemble
+that supports a wide range of campus events with professional stagecraft,
+clear articulation and strong audience engagement. Working closely with
+TP’s Arts Groups, Clubs and Interest Groups, and academic schools, members
+are trained in key hosting competencies such as programme flow, protocol,
+script interpretation, cueing and on-ground coordination — enabling them
+to facilitate both formal ceremonies and large-scale student events with
+confidence and composure. The CCA is guided by instructor Mr Benjamin Choo,
+a seasoned professional emcee and communication lecturer whose extensive
+on-stage and on-camera experience strengthens members’ delivery, presence
+and audience engagement across both live and digital platforms.</p>
 <p></p>
-<p>From formal events to community service activities and online platforms,
-TP Emcees have hosted a wide range of events. Additionally, they also work
-with external event organisers who reach out to them for hosting services.
-If you feel at ease on stage and love engaging with crowds, come join the
-TP Emcees family!</p>
+<p>Beyond live hosting, TP Emcees has evolved into a platform for storytelling
+and content creation, developing members as communicators who discover,
+shape and share meaningful human narratives from within the TP community.
+This is reflected in initiatives such as the "Re:Temasek" engagement series,
+where members conceptualise, script, host and produce short-form digital
+content that spotlights student experiences, campus life and authentic
+voices — contributing to a more connected and inclusive student community
+through purposeful and wholesome storytelling.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
