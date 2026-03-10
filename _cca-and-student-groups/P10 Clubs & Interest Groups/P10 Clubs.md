@@ -6,9 +6,9 @@ third_nav_title: P10 Clubs & Interest Groups
 variant: tiptap
 ---
 <p>TP offers our students exciting opportunities for leadership development
-through the P10 Clubs, CCAs and Interest Groups. Serve, lead, <em>(insert comma here) </em>and
-make a positive impact to the student community. In the process, stretch
-and hone your leadership skills and develop competencies in the non-academic
+through the P10 Clubs, CCAs and Interest Groups. Serve, lead, and make
+a positive impact to the student community. In the process, stretch and
+hone your leadership skills and develop competencies in the non-academic
 domains, as you create a fun, caring and vibrant campus that you will be
 proud of.</p>
 <p>Interested in joining any of our Clubs or Interest Groups? You may visit
