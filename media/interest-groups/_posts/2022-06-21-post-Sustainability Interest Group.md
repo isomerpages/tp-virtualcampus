@@ -20,9 +20,10 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start Your Journey for Climate Action. Join the Sustainability Interest
-Group (SUSTIG) at Temasek Polytechnic — a vibrant student community driving
-sustainability through climate awareness, action and meaningful projects.</p>
+<p><strong>Start Your Journey for Climate Action. </strong>Join the Sustainability
+Interest Group (SUSTIG) at Temasek Polytechnic — a vibrant student community
+driving sustainability through climate awareness, action and meaningful
+projects.</p>
 <p></p>
 <p>SUSTIG organises and delivers initiatives to champion environmental protection,
 social impact, and the circular economy. Here’s what to expect as a member:</p>
