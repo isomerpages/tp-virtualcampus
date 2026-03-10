@@ -23,7 +23,7 @@ and fun as possible.</p>
 organised by your respective Academic Schools. These activities are specially
 curated to help you assimilate into polytechnic life, while getting to
 know our vibrant community, friendly people and unique culture.</p>
-<p>Don't forget to check your <strong>TP Student email (<a href="mailto:260XXXXX@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">260XXXXX@student.tp.edu.sg</a>)</strong> and <strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener noreferrer nofollow" target="_blank">TP Oei</a> </strong>for
+<p>Don't forget to check your <strong>TP Student email (<a href="mailto:260XXXXX@student.tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">260XXXXX@student.tp.edu.sg</a>)</strong> and <strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202026.aspx" rel="noopener noreferrer nofollow" target="_blank">TP Oei</a> </strong>for
 important details about your FO dates and activities. You will not want
 to miss out on any of the fun!</p>
 <p>Here’s a sneak peek of what you can expect during FO:</p>
