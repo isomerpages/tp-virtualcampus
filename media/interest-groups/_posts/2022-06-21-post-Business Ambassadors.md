@@ -23,14 +23,13 @@ variant: tiptap
 Business diplomas at the TP School of Business (BUS). Trained to deliver
 exceptional service, they serve as exemplary hosts for both internal and
 external visitors. From emceeing to event hosting, they represent BUS at
-various functions and gatherings. The BAs are also adept content creators
-for BUS' social media platforms, such as Instagram and LinkedIn. Notable
-events they participate in include TP Open House, Partners-in-Education,
-TP Graduation Ceremony, and internal/external Learning Journeys.
+various functions and gatherings. Notable events they participate in include
+outreach programmes, TP Open House, Partners-in-Education, TP Graduation
+Ceremony, and internal/external Learning Journeys.
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Selene_GOH@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Selene Goh </a>&amp; <a href="mailto:teoxuan@tp.edu.sg" rel="noopener nofollow" target="_blank">Teo Xuan Xuan</a> 
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Amelia_Nadia_Ghazali_MARICAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Amelia Marican</a>
 <br>
-<br><strong>CCA <a href="https://www.instagram.com/tpbizschool/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
+<br><strong>CCA <a href="https://www.instagram.com/tpbizambassadors" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
