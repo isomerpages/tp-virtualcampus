@@ -214,7 +214,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/entrepreneurship-catalyst/" rel="noopener noreferrer nofollow" target="_blank">TP Entrepreneurship Catalyst</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Entrepreneurship_Club_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Entrepreneurship_Catalyst.png">
 </div>
 <p></p>
 </td>
