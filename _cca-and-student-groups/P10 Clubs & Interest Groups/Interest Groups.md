@@ -180,7 +180,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/sustainability-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Sustainability Interest Group</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Sustainability_Interest_Group.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Sustainability_Interest_Group_New.png">
 </div>
 </td>
 </tr>
@@ -226,23 +226,26 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/iprs-student-chapter/" rel="noopener noreferrer nofollow" target="_blank">TP-IPRS Student Chapter</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_INS_1.png">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
+<p><strong><a href="/interest-groups/tp-model-united-nations/" rel="noopener noreferrer nofollow" target="_blank">TP Model United Nations</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_Model_United_Nations.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <p><strong><a href="/interest-groups/tp-toastmasters/" rel="noopener noreferrer nofollow" target="_blank">TP Toastmasters</a></strong>
 </p>
 <div class="isomer-image-wrapper">
