@@ -77,7 +77,7 @@ with unique opportunities and experiences.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Meeting Day:</strong> 
+<p><strong>Meeting Day:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -88,7 +88,8 @@ with unique opportunities and experiences.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Goh_Qiu_Ting@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Qiu Ting</a> &amp; <a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> (Co-Advisor)
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:CHUA_Chiang_Heng@TP.EDU.SG" rel="noopener nofollow" target="_blank">Mr Chua Chiang Heng</a> &amp;
+<a href="mailto:Andrew_Tham@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a>(Co-Advisor)
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
