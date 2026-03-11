@@ -29,8 +29,8 @@ the well-being and holistic development of the students.
 academic year. On average, BSC runs about 20 activities and events per
 academic year.
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Murray_HO@TP.EDU.SG" rel="noopener nofollow" target="_blank">Ms Murray Ho</a>, <a href="mailto: Amelia_Nadia_Ghazali_MARICAN@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Amelia Nadia Ghazali M</a> &amp;
-<a href="mailto:Sebastian_SOONG@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Sebastian Soong</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto: Amelia_Nadia_Ghazali_MARICAN@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Amelia Nadia Ghazali M</a> &amp;
+<a href="mailto:Simon_LEE@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Simon Lee</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpbsc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
