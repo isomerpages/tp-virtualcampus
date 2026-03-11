@@ -75,8 +75,7 @@ following:</p>
 <p><strong>Meeting Day:</strong> 
 <br>Once a month
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:LIM_Chinn_Lynette@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Chinn Lynette</a> &amp;
-<a href="mailto:Emil_Cheong@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Emil Cheong</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:LIM_Chinn_Lynette@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lynette Lim</a> &amp; <a href="mailto:Emil_Cheong@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Emil Cheong</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/hss_sc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
