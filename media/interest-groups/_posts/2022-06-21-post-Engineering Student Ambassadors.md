@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Engineering Student Ambassadors" src="/images/CCA_engineering_ambassadors.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Inner Page Photos (No Titles)/Engineering_Student_Ambassadors_NT.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,10 +33,10 @@ development.</p>
 <p></p>
 <p><strong>Meeting Day:</strong>
 </p>
-<p>Twice per month &amp; event basis
+<p>Once a month &amp; event basis
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_THAM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:TEO_Wen_Ru@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teo Wen Ru</a>
-<br>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_THAM@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a> &amp; <a href="mailto:Chenzhou_WU@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wu Chenzhou</a> (Co-Advisor)</p>
+<p>
 <br><strong>CCA <a href="https://www.instagram.com/tpeng_sa" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
