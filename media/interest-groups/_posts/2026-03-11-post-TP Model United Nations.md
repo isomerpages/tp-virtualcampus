@@ -20,19 +20,30 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Bizfluencers are a group of students from various diplomas from the
-TP School of Business (BUS). They are focused on content creation for BUS
-ranging from Instagram / social media video or image posts, stories as
-well as writen articles published on the school newsletter - "Stories and
-co". The aim is to showcase life and perspective as a student in BUS and
-to encourage creativity through content creation.</p>
+<p>Model United Nations (MUN) is a simulation of real-world political bodies,
+where delegates come together to debate and make decisions on major global
+issues — from the environment and economics, to human rights and beyond.
+At TP Model United Nations (TPMUN), we think the world needs young people
+who are not just aware of what is happening, but ready to engage with it
+meaningfully.</p>
 <p></p>
-<p><strong>Meeting Day:</strong>
+<p>TPMUN hopes to provide a space where critical thinkers, communicators
+and globally curious individuals come together to grow. Whether you are
+walking into your first committee room or building on experience from past
+conferences, we are here to help you find your footing and your voice.</p>
+<p></p>
+<p><strong>What to Expect:</strong>
 </p>
-<p>Once a month</p>
+<p>TPMUN offers a structured yet energising experience, from foundational
+training in Rules of Procedure and public speaking, to participation in
+MUN conferences across Singapore. As a member, you will develop research
+skills, sharpen your political awareness and learn to hold your own in
+a room full of passionate, like-minded peers. No prior experience is needed!</p>
 <p></p>
-<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:LONG_Li_Yann@TP.EDU.SG" rel="noopener nofollow" target="_blank">Ms Long Li Yann</a>, <a href="mailto:TEO_Xuan_Xuan@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Teo Xuan Xuan</a> &amp;
-<a href="mailto:Elliott_DANKER@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Elliott Danker</a>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Charmaine_KOH@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Charmaine Koh</a> &amp; <a href="mailto:Allen_ROCHE@TP.EDU.SG" rel="noopener nofollow" target="_blank">Mr Allen Roche</a>
+</p>
+<p></p>
+<p><strong>CCA <a href="https://www.instagram.com/tp.modelun/?hl=en" rel="noopener nofollow" target="_blank">Instagram</a></strong>
 </p>
 </td>
 </tr>
