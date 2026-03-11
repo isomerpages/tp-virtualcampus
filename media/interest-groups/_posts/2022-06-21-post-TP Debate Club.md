@@ -61,7 +61,7 @@ the CCA.</p>
 </tbody>
 </table>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
