@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Diploma Interest Groups
 variant: tiptap
 ---
-<h2>School of Design</h2>
+<h3><strong>School of Design</strong></h3>
 <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -21,7 +21,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/tp.des.cmd/" rel="noopener noreferrer nofollow" target="_blank">Communication Design</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Communication_Design.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Content_Makers___Designers_Interest_Group.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,10 +35,10 @@ variant: tiptap
 &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.instagram.com/tp.des.iad/" rel="noopener noreferrer nofollow" target="_blank">Interior Architecture &amp; Design</a></strong>
+<p><strong><a href="https://www.instagram.com/tp.des.fmd/" rel="noopener nofollow" target="_blank">Fashion Management &amp; Design</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Interior_Architecture___Design_Interest_Group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Fashion_Management___Design_Interest_Group.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,16 +47,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.instagram.com/tp.des.ped/" rel="noopener noreferrer nofollow" target="_blank">Product Experience &amp; Design</a></strong>
+<p><strong><a href="https://www.instagram.com/tp.des.iad/" rel="noopener noreferrer nofollow" target="_blank">Interior Architecture &amp; Design</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Product_Experience___Design_Interest_Group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Interior_Architecture___Design_Interest_Group.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://www.instagram.com/tp.des.ped/" rel="noopener noreferrer nofollow" target="_blank">Product Experience &amp; Design</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Product_Experience___Design_Interest_Group.jpg">
+</div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>

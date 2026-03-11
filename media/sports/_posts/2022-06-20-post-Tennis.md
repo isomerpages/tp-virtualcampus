@@ -17,7 +17,7 @@ image: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Tennis" src="/images/Sports/TENNIS.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Tennis_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,18 +28,11 @@ ages regardless of their social background. The TP Tennis Teams (Men &amp;
 Women) compete in the Polytechnic-ITE (POL-ITE) Tennis Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Silver (Men’s Team) &amp; Gold (Women's Team)
+<br>POL-ITE Games 2025: Gold (Men’s Team) &amp; Bronze (Women's Team)
 <br>
 <br><strong>Training Days:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesday &amp; Thursday, 7pm (Men's Team)</p>
-</li>
-<li>
-<p>Monday &amp; Thursday, 7pm (Women's Team)</p>
-</li>
-</ul>
+<p>Monday &amp; Thursday, 7pm</p>
 <p></p>
 <p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Sheena_WANG@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sheena Wang</a>
 <br>

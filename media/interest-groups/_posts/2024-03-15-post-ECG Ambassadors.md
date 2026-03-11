@@ -16,7 +16,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/ECGA_Group_Pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Inner Page Photos (No Titles)/ECG_Ambassadors_NT.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,9 +59,9 @@ students</p>
 </li>
 </ul>
 <p></p>
-<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Karen_Yap@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karen Yap</a> (Main Advisor) &amp;
-<a href="mailto:Miaohua_PAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pan Miaohua<u> </u>
-</a>(Co-advisor)</p>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Miaohua_PAN@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pan Miaohua<u> </u></a>(Main Advisor)
+&amp; <a href="mailto:Jo-anne_LOH@TP.EDU.SG" rel="noopener nofollow" target="_blank">Ms Jo-anne Loh</a>)
+(Co-Advisor)</p>
 <p></p>
 <p><strong>CCA <a href="https://www.instagram.com/tp_ecga/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>

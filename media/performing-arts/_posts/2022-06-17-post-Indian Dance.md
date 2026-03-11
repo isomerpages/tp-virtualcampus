@@ -14,54 +14,56 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Indian Dance Group (TPIDG) passionately explores a
-diverse range of Indian dance styles, from the grace of Bharatanatyam to
-the vibrant energy of Bollywood. Under the esteemed guidance of Mrs Premela
-Balakrishnan, Director of Rudram Arts, our dedicated dancers seamlessly
-blend tradition with innovation, captivating audiences both within our
-school community and on grander stages.</p>
+<p>Temasek Polytechnic Indian Dance Group (TPIDG) celebrates the richness
+and diversity of Indian dance through a vibrant repertoire that spans classical
+forms (such as Bharatanatyam) to high-energy folk and Bollywood styles.
+Under the guidance of Mrs Premela Balakrishnan, Director of Rudram Arts
+and an MOE-registered CCA Performing Arts (Indian Dance) instructor, members
+develop strong technique, musicality and performance presence while learning
+to honour tradition with contemporary stagecraft.</p>
 <p></p>
-<p>Our journey is marked by remarkable performances at prestigious events,
-including the Largest Mass Performance of Indian Traditional Folk Arts
-in Singapore (13 July 2024), setting two new national records.</p>
+<p>TPIDG has performed across major institutional and public platforms, and
+achieved notable milestones — most prominently, participating in the "Largest
+Mass Indian Traditional Folk Arts Performance in Singapore", which set
+two national records (Singapore Book of Records, 13 July 2024).</p>
 <p></p>
-<p>From school functions to nationwide celebrations, TPIDG remains committed
-to excellence in performance and the rich heritage of Indian dance. Join
-us on this journey of cultural celebration and artistic expression - where
-every step tells a story, and every movement resonates with passion.</p>
+<p>With a consistent presence at festivals and showcases such as "DREAMS",
+"Harmony Fest", "RP Momentum" and "Indian Heritage Arts Fiesta", TPIDG
+continues to grow as a confident, culturally-rooted ensemble, where every
+performance carries story, rhythm and pride.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/IDG/IDG_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Indian_Dance_Group_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Harmony Fest (2024)</p>
+<p>TP X-Challenge Run (2024-2025)</p>
 </li>
 <li>
-<p>DREAMS (2024)</p>
+<p>Temasek Polytechnic National Day Concert (2023-2025)</p>
 </li>
 <li>
-<p>RP Momentum (2024)</p>
+<p>APSN Tanglin Deepavali Celebrations (2025)</p>
 </li>
 <li>
-<p>TP Waterfront X-Challenge Run x Temasek Tides Concert (2024)</p>
+<p>Tapestry Arts Festival: FLUX - Echoes of Tradition (2025)</p>
 </li>
 <li>
-<p>Indian Heritage Arts Fiesta (2024)</p>
+<p>DREAMS Concert (2024-2025)</p>
 </li>
 <li>
-<p>Parai Workshop (2024)</p>
+<p>RP Momentum (2023-2024)</p>
 </li>
 <li>
-<p>Tapestry: Lit 2.0 (2024)</p>
+<p>Tapestry Arts Festival: Metamorphosis - Lit 2.0 (2024)</p>
 </li>
 <li>
 <p>Performed at "Largest Mass Performance of Indian Traditional Folk Arts
@@ -69,33 +71,18 @@ in Singapore" (13 July 2024)</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesday &amp; Friday, 6pm to 9pm</p>
-</li>
-<li>
-<p>Additional training days, nearing show day</p>
-</li>
-</ul>
-<h5>Staff Advisor</h5>
-<ul data-tight="true" class="tight">
-<li>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
+<p>Tuesdays &amp; Fridays, 6pm to 9pm</p>
+<h5><strong>CCA Staff Advisor:</strong></h5>
 <p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasmine Leong</a>
 <br>
 </p>
-</li>
-</ul>
-<h5>Pages</h5>
-<ul data-tight="true" class="tight">
-<li>
+<h5><strong>Pages:</strong></h5>
 <p><a href="https://www.instagram.com/tpindiandance" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
-</li>
-</ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -105,36 +92,39 @@ in Singapore" (13 July 2024)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Indian_Dance_Group_1.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Indian_Dance_Group_2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Indian_Dance_Group_3.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="IDG" src="/images/Arts/IDG/IDG_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Indian_Dance_Group_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Indian_Dance_Group_5.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Indian_Dance_Group_6.png">
 </div>
 </td>
 </tr>

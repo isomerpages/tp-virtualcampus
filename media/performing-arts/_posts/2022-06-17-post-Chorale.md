@@ -14,76 +14,57 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Chorale is a lively community comprising passionate
-singers. Guided by Resident Conductor Ms Choy Siew Woon, the choir consists
-of four sections — Sopranos, Altos, Tenors and Basses — united in their
-love for music. TP Chorale offers students an opportunity to explore the
-rich world of choral music, from contemporary and classical works to the
-dramatic flair of musicals.</p>
+<p>Temasek Polytechnic Chorale (TP Chorale) is a vibrant ensemble of student
+singers dedicated to expressive, high-quality choral performance across
+campus and community platforms. The choir is led by Resident Conductor
+Ms Choy Siew Woon, a Singaporean choral director and music educator, and
+a recipient of the National Arts Council Arts Scholarship, with postgraduate
+training in choral conducting and music education.</p>
 <p></p>
-<p>Dedicated to achieving excellence in every endeavour, TP Chorale is a
-space that nurtures talent, celebrates creativity, and embarks on a journey
-of growth and discovery.</p>
+<p>Spanning contemporary and classical repertoire to musical theatre and
+concert works, TP Chorale develops strong vocal technique, musical sensitivity
+and ensemble blend through structured rehearsals and performance projects.
+The choir has represented TP at major institutional and public showcases,
+and has also attained two Gold Diplomas at the International Copernicus
+Choir Festival &amp; Competition in Poland (2025) - reflecting its artistic
+standards and growing international presence.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Chorale_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Tapestry: Metamorphosis - EVOS VIII: Oasis (2024)</p>
+<p>Tapestry: Flux - EVOS IX: Go the Distance (2025)</p>
 </li>
 <li>
-<p>Wishes In Songs &amp; Harmony (2024)</p>
+<p>Project Red Dot - SG60 Celebrations @ Gardens by the Bay (2025)</p>
 </li>
 <li>
-<p>Tapestry Arts Festival - Our Canvas - Supernova (2023)</p>
+<p>Per Musicam Ad Astra 11th International Copernicus Choir Festival &amp;
+Competition: Gold Diploma ("Mixed Choirs” &amp; “Folklore” Categories,
+2025)</p>
 </li>
 <li>
-<p>Tapestry: MELODY Music Festival - EVOS VII - Reflection (2023)</p>
-</li>
-<li>
-<p>A Renaissance by Singapore Lyric Opera Youth Chorus (2022)</p>
-</li>
-<li>
-<p>Community Chest Christmas On A Great Street Light-Up Ceremony (2022)</p>
-</li>
-<li>
-<p>North East Community Give Back Golf &amp; Appreciation Dinner (2022)</p>
-</li>
-<li>
-<p>Temasek Polytechnic National Day Virtual Concert (2021)</p>
-</li>
-</ul>
-<h5>Achievements</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>First &amp; Second Prize at Golden Voices at Montserrat, Spain (2016)</p>
+<p>Golden Voices of Montserrat: Gold Diploma &amp; Silver Diploma (“Academic
+Singing” &amp; “Folklore" Categories, 2016)</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesday &amp; Thursday, 7pm to 9pm</p>
-</li>
-</ul>
-<h5>Staff Advisor</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
+<p>Tuesdays &amp; Thursdays, 7pm to 9pm</p>
+<h5><strong>CCA Staff Advisor:</strong></h5>
+<p><a href="mailto:Denise_CABALTERA@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Denise Cabaltera</a>
 </p>
-</li>
-</ul>
-<h5>Pages</h5>
+<h5><strong>Pages</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpchorale" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
@@ -95,7 +76,7 @@ of growth and discovery.</p>
 </li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -105,36 +86,39 @@ of growth and discovery.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_1.png">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_2.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_3.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_4.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_5.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Chorale/Chorale_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Chorale_6.png">
 </div>
 </td>
 </tr>

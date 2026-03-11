@@ -26,7 +26,7 @@ techniques such as knife-hands, palm-heel hands and spear hands. The TP
 Karate Team competes in external competitions annually.
 <br>
 <br><strong>Training Days:</strong>
-<br>Wednesday, 7pm
+<br>Wednesday, 7pm to 9pm
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Raymond_Loh@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Raymond Loh</a>
 <br>

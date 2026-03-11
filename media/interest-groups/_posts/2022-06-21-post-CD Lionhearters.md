@@ -46,7 +46,7 @@ forward to include:</p>
 <p><strong>Training Day:</strong>
 <br>Event basis
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:LYE_Khim_Fatt@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Lye Khim Fatt</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Gary_TEE@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Gary Tee</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpcdlionhearters" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>

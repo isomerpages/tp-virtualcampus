@@ -26,7 +26,7 @@ involves sparring with an opponent. The TP Taekwondo Team competes in the
 Polytechnic-ITE (POL-ITE) Taekwondo Games and external competitions annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Gold
+<br>POL-ITE Games 2025: Gold (14 consecutive years)
 <br>
 <br><strong>Training Days:</strong>
 <br>Tuesday &amp; Thursday, 7pm

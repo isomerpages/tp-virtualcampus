@@ -23,14 +23,13 @@ variant: tiptap
 <p><strong>Find Your Space at SpaceHaus!</strong>
 </p>
 <p></p>
-<p>Unleash your inner innovator with us at SpaceHaus, where creativity knows
-no bounds! Dive into the exciting world of 3D printing, laser cutting,
-sewing, and crocheting, and <strong>bring your ideas to life. </strong>Whether
-you are crafting your next big invention or exploring new hobbies, our
-club offers endless possibilities to innovate and create. Join us to master
-cutting-edge skills and be part of a community that sparks inspirations
-and collaboration. Don't just dream – make it happen with us and let your
-imagination soar!</p>
+<p>A space for curious minds, SpaceHaus brings together students with a shared
+passion for creating and innovating. Here, members explore new skill sets,
+exchange ideas, and turn imagination into reality through hands-on projects
+and collaborative experiences. We believe innovation thrives on experimentation,
+teamwork and the courage to try. SpaceHaus empowers students to transform
+ideas into meaningful solutions while building creativity, confidence and
+a future-ready mindset.</p>
 <p></p>
 <p><strong>Join Us for Additional Perks:</strong>
 </p>
@@ -48,17 +47,6 @@ through opportunities to visit different industries and learn from industry
 experts.</p>
 </li>
 <li>
-<p><strong>SpaceHaus E-commerce:</strong> Have a great idea or product to
-launch? Sell your creations through our SpaceHaus E-commerce, reaching
-over 15,000 students and staff! Terms and conditions apply.</p>
-</li>
-<li>
-<p><strong>Earn SEAL Points:</strong> Participate in our activities and earn
-SEAL points. If you have the drive and leadership potential, apply for
-Sub-committee positions and get elected to the EXCO, where you are entitled
-to Leadership points.</p>
-</li>
-<li>
 <p><strong>Network and Make Friends Beyond Your Cohort: </strong>Take the
 opportunity to network and connect with students from other schools. Share
 your interests, expand your understanding, and seek help from other talented
@@ -68,34 +56,11 @@ individuals across different disciplines.</p>
 <p></p>
 <p>Join us now! Sign in with your TP Student account. Click <a href="https://for.edu.sg/spacehaus" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
-<br><strong>Achievements:</strong>
-<br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Samsung Answer for Tomorrow Top 10</p>
-</li>
-<li>
-<p>NTU Young Innovators Challenge</p>
-</li>
-<li>
-<p>TP Innovation Program - Seed Funding</p>
-</li>
-<li>
-<p>AI Singapore Media Trusted Challenge</p>
-</li>
-<li>
-<p>ASEAN Big Data Competition</p>
-</li>
-<li>
-<p>River Valley Irregular Youth Program</p>
-<p></p>
-</li>
-</ul>
 <p><strong>Meeting Day:</strong>
-<br>Event &amp; Project basis
+<br>Event &amp; project basis
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Thalia_Lam@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Thalia Lam</a> &amp; <a href="mailto:Huang_Tengyi@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Huang Tengyi</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Thalia_Lam@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Thalia Lam</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/space__haus/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>

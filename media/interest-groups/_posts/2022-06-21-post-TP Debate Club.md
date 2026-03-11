@@ -1,0 +1,112 @@
+---
+layout: post
+title: TP Debate Club
+permalink: /interest-groups/tp-debate-club/
+date: 2022-06-21
+description: ""
+variant: tiptap
+image: ""
+---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Inner Page Photos (No Titles)/TP_Debate_Club_NT.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ever wished you could be more confident in speaking and in persuading
+others to your point of view? If yes, join the TP Debate Club!
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn the art of logic and rhetoric through thrilling, parliamentary-style
+debating</p>
+</li>
+<li>
+<p>Expand your knowledge and view of the world as we debate major topics
+and current affairs</p>
+</li>
+<li>
+<p>Participate in competitions to face off against other like-minded debaters</p>
+</li>
+</ul>
+<p></p>
+<p>TP Debate Club clinched the championship title in the Inter-Polytechnic
+Debate Championships 2025, organised an introduction workshop for PFP students,
+and participated in competitions featuring high level debaters.</p>
+<p></p>
+<p><strong>Achievements:</strong>
+</p>
+<p>Our past Presidents, Priscilla Chang and Mark Chow, were awarded the prestigious
+TP CCA Scholarship for their outstanding leadership and contributions to
+the CCA.</p>
+<p></p>
+<p><strong>Training Days:</strong>
+<br>Monday &amp; Thursday, 7pm to 9pm
+<br>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Shaun_PHANG@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shaun Phang</a>
+</p>
+<p></p>
+<p><strong>CCA <a href="https://www.instagram.com/tpdebates" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3><strong>Gallery</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_1.png">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_3.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_5.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Gallery Photos (2026)/TPDC_6.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

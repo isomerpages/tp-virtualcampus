@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Basketball_New.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Basketball_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -26,13 +26,21 @@ Teams (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-V
 Polytechnic (IVP) Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Silver (Women's Team)
+<br>POL-ITE Games 2025: Gold (Women's Team)
 <br>
 </p>
 <p><strong>Training Days:</strong>
-<br>Monday &amp; Wednesday, 7pm
-<br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jow Pei Jun</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday &amp; Wednesday, 7pm (Women's Team)</p>
+</li>
+<li>
+<p>Tuesday &amp; Thursday, 7pm (Men's Team)</p>
+</li>
+</ul>
+<p></p>
+<p><strong>CCA Staff Advisor:</strong>  <a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jow Pei Jun</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tp.bball/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>

@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Touch_Football_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Touch_Football_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,10 +30,10 @@ and Institute-Varsity Polytechnic (IVP) Touch Football Games.
 <br>
 <br><strong>Achievements:</strong>
 </p>
-<p>POL-ITE Games 2024: Gold</p>
+<p>POL-ITE Games 2025: Gold</p>
 <p></p>
 <p><strong>Training Days:</strong>
-<br>Monday &amp; Wednesday, 6.30pm
+<br>Monday &amp; Thursday, 6.30pm
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Muhammad_Haffiz_AMIN@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Haffiz Amin</a>
 <br>

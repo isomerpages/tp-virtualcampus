@@ -15,30 +15,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Track___Field_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Track___Field_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Track and Field events are divided into three broad categories: track
-events, field events and combined events. Track events include sprints,
+<p>Track and field events are divided into three broad categories: track
+events, field events, and combined events. Track events include sprints,
 middle and long-distance events, hurdles and relays. Field events are grouped
-into 2 broad categories, jumps and throws. The TP Track &amp; Field Teams
-(Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
-Polytechnic (IVP) Track &amp; Field Championship annually.
+into two broad categories - jumps and throws. The TP Track &amp; Field
+Team (Men &amp; Women) compete in the Polytechnic-ITE (POL-ITE) and Institute-Varsity
+Polytechnic (IVP) Track &amp; Field Championships annually.
 <br>
 <br><strong>Achievements:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>IVP Games (AY2024/25): 3rd Position (Men's Team) &amp; 3rd Position (Combined
-Men's &amp; Women's)</p>
-</li>
-<li>
-<p>POL-ITE Games 2024: 2nd Position (Men's Team)
+<p>POL-ITE Games 2025: 2nd Position (Men's &amp; Women's Teams)
 <br>
 </p>
-</li>
-</ul>
 <p><strong>Training Days:</strong>
 <br>Monday &amp; Wednesday, 6.30pm
 <br>

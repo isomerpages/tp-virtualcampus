@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Diploma Interest Groups
 variant: tiptap
 ---
-<h2>School of Business</h2>
+<h3><strong>School of Business</strong></h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@ variant: tiptap
 <p><strong><a href="https://www.instagram.com/tp.cbp/" rel="noopener noreferrer nofollow" target="_blank">Common Business Programme</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Common_Business_Programme_Student_Interest_Group.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Common_Business_Programme_Student_Interest_Group_2026.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;</p>
@@ -61,10 +61,10 @@ variant: tiptap
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.instagram.com/tp_ccm/" rel="noopener noreferrer nofollow" target="_blank">Culinary &amp; Catering Management</a></strong>
+<p><strong><a href="https://www.instagram.com/tp_ccm/" rel="noopener noreferrer nofollow" target="_blank">Culinary Arts &amp; Management</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Culinary___Catering_Management.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Culinary_Arts___Management.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

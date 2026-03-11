@@ -27,7 +27,7 @@ them stronger, more durable and portable. The TP Kayak Racing Teams (Men
 external competitions annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Gold (Men’s Team) &amp; Silver (Women’s Team)
+<br>POL-ITE Games 2025: Gold (Men’s Team) &amp; Bronze (Women’s Team)
 <br>
 <br><strong>Training Days:</strong>
 </p>

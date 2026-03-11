@@ -14,37 +14,41 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic (TP) Dikir Barat is a vibrant traditional Malay art
-form involving 15 or more performers, including lead singers who engage
-in responsorial singing accompanied by Malay percussion.</p>
+<p>Temasek Polytechnic (TP) Dikir Barat is a vibrant Malay performing arts
+ensemble that brings together strong vocals, rhythmic percussion and poetic
+storytelling in a high-energy, team-based format. Anchored in pantun and
+lyrical creativity, the group features coordinated choral responses, lead
+vocalists and traditional percussion — delivering performances that are
+dynamic, engaging and culturally rooted.</p>
 <p></p>
-<p>Rooted in poetry and creative lyrics, TP Dikir actively takes part in
-numerous high profile, poly-wide and external public performances. The
-group has won earned multiple awards at the annual national competitions,
-such as "Piala Suara Serumpun" (Cluster of Voices Trophy).</p>
+<p>TP Dikir Barat is an active presence at major campus and public platforms,
+and is also a recognised award-winning contender at national-level competitions
+such as “Piala Suara Serumpun” (Cluster of Voices Trophy). Beyond competitive
+performances, the group also explores creative production work — such as
+“Berani Berubah” (2022) — a student-led video and music production that
+presents contemporary themes through original lyrical storytelling and
+a polished, modern presentation, while retaining the core dikir barat elements
+of responsorial vocals and percussion for broad audience appeal.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/DK/Dikir_Barat.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Dikir_Barat_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Istana Open House Performance (2023)</p>
+<p>Tapestry Arts Festival: FLUX - Jom Berdikir with TPDK (2025)</p>
 </li>
 <li>
-<p>Dreams XII - TPDK-driven video and music production, “Berani Berubah”
-(2022)</p>
+<p>Piala Suara Serumpun 2025 (Women’s): Best Awak-Awak, Best Paluan, Best
+Costumes</p>
 </li>
-</ul>
-<h5>Achievements</h5>
-<ul data-tight="true" class="tight">
 <li>
 <p>Piala Suara Serumpun 2024 (Women’s): Third Placing, Best Senikata, Nominated
 for Best Juara and Awok-Awok</p>
@@ -56,50 +60,30 @@ Best Tukang Karut and Best Awok-Awok</p>
 <li>
 <p>Piala Suara Serumpun 2023 (Women’s): Nominated for Best Tukang Karut and
 Best Awok-Awok</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2022 (Women's): Second Placing, Best Percussionists,
-Nominated for Best Lyrics, Best Tukang Karut and Best Awok-Awok</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2022 (Men's): Third Placing, Nominated for Best Lyrics
-and Best Tukang Karut</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2019 (Women's): Champion, Best Lyrics</p>
-</li>
-<li>
-<p>Piala Suara Serumpun 2019 (Men’s): The Green Pen Award</p>
+<p></p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday &amp; Thursday, 6.30pm to 9.30pm</p>
-</li>
-<li>
-<p>Additional training days, nearing show day</p>
-</li>
-</ul>
-<h5>Staff Advisor</h5>
-<ul data-tight="true" class="tight">
-<li>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
+<p>Mondays &amp; Thursdays, 6.30pm to 9.30pm</p>
+<h5><strong>CCA Staff Advisor:</strong></h5>
 <p><a href="mailto:jasmine_leong@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Leong</a> 
 <br>
 </p>
-</li>
-</ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpdikir" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
 </li>
+<li>
+<p><a href="https://linktr.ee/temasekpolydikirbarat?utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn2a-lGHH4g-zIZx-QT17s3Sf5CzST14qp3Cn6Oa5ZHk3P9gTjy_h1QAWq1xY_aem_zu69ID-j792Sw8U4IFVHkQ" rel="noopener nofollow" target="_blank">Linktree</a>
+</p>
+</li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -109,38 +93,40 @@ and Best Tukang Karut</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DK" src="/images/Arts/DK/DK_pic_1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DK" src="/images/Arts/DK/DK_pic_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DK" src="/images/Arts/DK/DK_pic_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DK" src="/images/Arts/DK/DK_pic_4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DK" src="/images/Arts/DK/DK_pic_5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="DK" src="/images/Arts/DK/DK_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Dikir_Barat_1.png">
 </div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Dikir_Barat_2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Dikir_Barat_3.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Dikir_Barat_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Dikir_Barat_5.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Dikir_Barat_6.jpg">
+</div>
 </td>
 </tr>
 </tbody>

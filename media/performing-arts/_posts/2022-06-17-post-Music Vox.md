@@ -14,82 +14,76 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Music Vox (TPMV) is a family of musicians, typically
-made up of vocalists, guitarists, bassists, keyboardists, songwriters,
-drummers and even producers, who play, record and perform assorted genres
-including pop, rock and indie of original and cover music.
-<br>
-<br>They are often invited to perform for events on and off campus such as
-Esplanade's "In Youthful Company" and "Homegrown Festival" at OCBC Square,
-having been recognised for their musical synergy and crowd appeal. They
-have released their EP and LP albums of original music, titled ‘Beginnings’
-and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</p>
+<p>Temasek Polytechnic Music Vox (MV) is a vibrant collective of musicians,
+songwriters and performers who create, record and stage a wide range of
+pop, rock and indie music — spanning both original works and curated covers.
+Recognised for strong musical synergy and crowd appeal, TPMV is regularly
+invited to perform at major on- and off-campus platforms, such as "In Youthful
+Company" at the Esplanade Outdoor Theatre and "Homegrown Festival" at OCBC
+Square. Members also gain authentic industry exposure by working closely
+with partners such as the Music and Drama Company and Ann Siang Sounds,
+strengthening their craft through professional mentorship and real-world
+production standards. Many TPMV alumni have gone on to pursue music at
+higher levels — including progression to the Yong Siew Toh Conservatory
+of Music — and into the local scene as artistes such as Bakers in Space
+and Marian Carmel, reflecting the group’s role as a meaningful launchpad
+for emerging talent.</p>
+<p></p>
+<p>In a significant national collaboration, TPMV was commissioned by the
+Ministry of Health (Singapore) to write, produce and record an original
+song and music video for Mindline 1771, a nationwide mental well-being
+initiative. The project provided end-to-end creative experience across
+songwriting, music production, recording and screen performance, and culminated
+in a professionally released music video featured on national platforms
+— exemplifying TPMV’s role as an applied-learning music collective embedded
+in real-world creative production and industry workflows.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/MV/Music_Vox.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/Music_Vox_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Homegrown Festival @ OCBC Square (2024)</p>
+<p>“In Youthful Company” at Esplanade Concourse (2026)</p>
+</li>
+<li>
+<p>Music Vox Annual Concert: Echo @ *SCAPE Ground Theatre (2026)</p>
+</li>
+<li>
+<p>X <em>SCAPE @ </em>SCAPE Playspace (2025)</p>
+</li>
+<li>
+<p>Homegrown Festival @ OCBC Square (2024 &amp; 2025)</p>
 </li>
 <li>
 <p>Backstage Pass with Music &amp; Drama Company on Power98 Love Songs (2022)</p>
 </li>
 <li>
-<p>'Full Bloom' LP Launch on Spotify (2022)</p>
-</li>
-<li>
-<p>‘Beginnings’ EP Launch on Spotify (2021)</p>
-</li>
-<li>
-<p>National Day Observance Ceremony at the MOE HQ (Annually, 2019-2024)</p>
-</li>
-<li>
-<p>“In Youthful Company” at The Esplanade Outdoor Theatre (2018)</p>
-</li>
-</ul>
-<h5>Achievements</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Awarded Temasek Polytechnic's Arts Group of the Year Award (2023 &amp;
-2024)</p>
-</li>
-<li>
-<p>Awarded Temasek Polytechnic’s Arts Group Excellence Award (2019, 2020
-&amp; 2022)</p>
-</li>
-<li>
-<p>Awarded Temasek Polytechnic's Arts Group of the Year Award (2016)</p>
+<p>'Full Bloom' LP (2022)</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sectional Training (Once fortnightly or monthly), 7pm to 9pm</p>
 </li>
 <li>
-<p>Rehearsal Jamming (Two to four times a week, subject to upcoming performances/recording)</p>
+<p>Rehearsal Jamming (subject to upcoming events)</p>
 </li>
 </ul>
-<h5>Staff Advisor</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a> 
-<br>
+<h5><strong>CCA Staff Advisor:</strong></h5>
+<p><a href="mailto:nigel_tan@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nigel Tan</a>
 </p>
-</li>
-</ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpmusicvox" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
@@ -100,8 +94,7 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 </p>
 </li>
 </ul>
-<p></p>
-<h5>Newsletters</h5>
+<h5><strong>Newsletters:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://for.edu.sg/mvnewsletter-term4-ay24-25" rel="noopener nofollow" target="_blank">AY2024/25 (Term 4)</a>
@@ -149,7 +142,7 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 </li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -159,36 +152,39 @@ and 'Full Bloom' respectively, on Spotify and other major streaming platforms.</
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_1.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_3.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Musicvox" src="/images/Arts/MV/MV_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_5.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/Music_Vox_6.png">
 </div>
 </td>
 </tr>

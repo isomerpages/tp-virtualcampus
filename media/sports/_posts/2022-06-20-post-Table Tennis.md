@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Table_Tennis.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports/Inner Page Photos (No Titles)/Table_Tennis_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -26,7 +26,7 @@ in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP)
 Table-Tennis Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Silver (Men’s Team)
+<br>POL-ITE Games 2025: Silver (Men’s Team) &amp; Silver (Women's Team)
 <br>
 </p>
 <p><strong>Training Days:</strong>

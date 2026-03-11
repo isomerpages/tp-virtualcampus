@@ -14,6 +14,29 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Web_Banner_3__Virtual_Campus__Happenings__TP_Oei__BUS_Video_Wall___Staff_Portal_Announcements__FA_pathed_lowres.jpg">
+</div>
+<p><em>22-23 April 2026</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/cca-fair-2026/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2026</a></strong>
+</p>
+<p></p>
+<p>Calling all Freshies – get ready to supercharge your TP experience! As
+you gear up for your polytechnic adventure, do take time to dive beyond
+the academics and immerse yourself in our vibrant TP community. Don't miss
+the <strong>CCA Fair 2026</strong> – your gateway to a world of thrilling
+opportunities!</p>
+<p></p>
+<p>Ready to unlock your full potential and embrace a future in TP brimming
+with exciting possibilities? Mark your calendar now!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/F_Web_Banner__3___1920px__W__X_1080px__H_.jpg">
 </div>
 <p><em>10-17 April 2026</em>

@@ -26,9 +26,16 @@ in the Polytechnic-ITE (POL-ITE) and Institute-Varsity Polytechnic (IVP)
 Games annually.
 <br>
 <br><strong>Achievements:</strong>
-<br>POL-ITE Games 2024: Silver (Women’s Team)
-<br>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>POLITE Games 2025: Gold (Men's Team) &amp; Silver (Women's Team)</p>
+</li>
+<li>
+<p>IVP Games (AY2025/26): Bronze (Women's Team)</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Training Days:</strong>
 <br>Tuesday &amp; Wednesday, 8pm
 <br>

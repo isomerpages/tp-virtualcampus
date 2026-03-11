@@ -5,12 +5,18 @@ description: ""
 third_nav_title: P10 Clubs & Interest Groups
 variant: tiptap
 ---
-<p>Temasek Polytechnic offers our students exciting opportunities for leadership
-development through our P10 Clubs (Students' Union and 9 Constituent Clubs),
-CCAs and Interest Groups. Serve, lead and make a positive impact to the
-student community, and in the process stretch and hone your leadership
-skills and develop competencies in the non-academic domains, as you create
-a fun, caring and vibrant campus that you will be proud of.</p>
+<p>TP offers our students exciting opportunities for leadership development
+through the P10 Clubs, CCAs and Interest Groups. Serve, lead, and make
+a positive impact to the student community. In the process, stretch and
+hone your leadership skills and develop competencies in the non-academic
+domains, as you create a fun, caring and vibrant campus that you will be
+proud of.</p>
+<p>Interested in joining any of our Clubs or Interest Groups? You may visit
+the annual&nbsp;<strong><a href="/cca-fair-2026/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair</a></strong>&nbsp;to
+express your interest, scheduled for <strong>22-23 April 2026</strong>.</p>
+<p>If you have missed the CCA Fair, please contact the relevant Staff Advisor
+to find out how to join your desired CCA. Alternatively, you may visit
+the CCA's Instagram page for more details. Have fun exploring!</p>
 <hr>
 <table style="minWidth: 75px">
 <colgroup>
@@ -64,7 +70,7 @@ a fun, caring and vibrant campus that you will be proud of.</p>
 <p><strong><a href="/p10/engineering-studies-club" rel="noopener noreferrer nofollow" target="_blank">Engineering Studies Club</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club_Resized_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club.png">
 </div>
 </td>
 </tr>

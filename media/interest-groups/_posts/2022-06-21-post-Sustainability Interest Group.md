@@ -16,74 +16,46 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Sustainability_Interest_Group_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Inner Page Photos (No Titles)/Sustainability_Interest_Group_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join our Sustainability Interest Group (SUSTIG)!</p>
+<p><strong>Start Your Journey for Climate Action. </strong>Join the Sustainability
+Interest Group (SUSTIG) at Temasek Polytechnic — a vibrant student community
+driving sustainability through climate awareness, action and meaningful
+projects.</p>
 <p></p>
-<p>Are you passionate about making a positive impact on the planet and connecting
-with like-minded individuals? Want to be part of a vibrant community that
-is dedicated to creating a more sustainable, eco-friendly and socially
-conscious future? Look no further, SUSTIG is the perfect place for you!</p>
-<p></p>
-<p>At SUSTIG, we believe that sustainability is about more than just the
-environment - it is about fostering a holistic approach to social, economic
-and ecological well-being. Whether you are an experienced environmental
-advocate or just beginning your journey, there’s a spot for you.</p>
-<p></p>
-<p>Here’s what you can expect as a member:</p>
+<p>SUSTIG organises and delivers initiatives to champion environmental protection,
+social impact, and the circular economy. Here’s what to expect as a member:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>TP Eco Events:</strong> Dive into a variety of fun, hands-on events
-on campus that combine sustainability with social activities! From sustainability
-workshops and green tech showcases to eco-friendly fashion shows and plant-based
-cooking classes, you will learn and grow while meeting new people who share
-your values.</p>
-<p></p>
+<p><strong>TP Eco Events: </strong>Sustainability workshops, green tech showcases,
+hands-on activities like Fabric Upcycling, Fan Repair, and Self-watering
+Planters. You will be directly involved in driving the 6Rs that promote
+reuse, repair, and responsible consumption. Our members also get involved
+in major events such as TP's &amp; Tampines West Community Club’s EcoFest.</p>
 </li>
 <li>
-<p><strong>Overseas Exchange Trips:</strong> Expand your perspectives with
-overseas trips that explore sustainability efforts around the globe. Engage
-with international communities and gain firsthand experience of cultural
-approaches to sustainability, while also having the chance to network and
-make lifelong friends.</p>
-<p></p>
+<p><strong>Overseas Exchange Trips: </strong>Gain exposure to diverse sustainability
+practices beyond Singapore. The overseas learning experiences let students
+learn how migation strategies are applied in real-world contexts, as well
+as gain broader perspectives of climate impact and adaptation solutions.</p>
 </li>
 <li>
-<p><strong>Community Activities:</strong> Roll up your sleeves and participate
-in impactful environmental and social projects, like beach and urban cleanups,
-that help you give back to your community. These events also foster a sense
-of belonging, as you collaborate with fellow members who share your commitment
-to making a difference.</p>
-<p></p>
-</li>
-<li>
-<p><strong>Social &amp; Networking Opportunities:</strong> Sustainability
-is not just about the planet - it is about creating lasting relationships
-and a sense of community. SUSTIG provides numerous opportunities to socialise,
-attend networking events, and form connections with people who share your
-interests and goals. Whether through team-building activities, eco-themed
-hangouts, or our informal meetups, you will find friends, collaborators
-and mentors.</p>
+<p><strong>Community Activities: </strong>Participate in community events
+with real impact, such as Beach Clean-Ups, Waste Audits, and Tree-Plantings.
+Members translate awareness into action, building a shared sense of purpose
+to strengthen the community spirit. Our activities help to form bonds between
+like-minded individuals and youth groups who wish to make a difference
+to the environment, enabling you to find friends, collaborators and mentors.</p>
 </li>
 </ul>
 <p></p>
-<p>Joining our group is not just about attending events; it is about becoming
-part of a supportive and inclusive community committed to positive change.
-Together, we will create a more sustainable world, not just for the environment,
-but for all of us.</p>
-<p></p>
-<p>Ready to make a difference and connect with others who care about sustainability
-as much as you do? Sign up with SUSTIG today and be part of something bigger.
-Let’s build a better future together!
-<br>
-</p>
 <p><strong>Meeting Day:</strong>
 <br>Event basis
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Yu_Zhang@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Yu </a>&amp; <a href="mailto:Nurdiyanah_KAMSAN@TP.EDU.SG" rel="noopener nofollow" target="_blank">Nurdiyanah Kamsan</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Yu_Zhang@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Yu </a>&amp; <a href="mailto:Kelvin_LIM@TP.EDU.SG" rel="noopener nofollow" target="_blank">Mr Kelvin Lim</a>
 </p>
 <p>
 <br><strong>CCA <a href="https://www.instagram.com/tpsustig/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>

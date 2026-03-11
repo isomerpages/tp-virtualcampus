@@ -15,93 +15,76 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Temasek Polytechnic Emcees is a fun and lively community of emcees dedicated
-to providing hosting services for the student body of Temasek Polytechnic.
-They collaborate closely with various parties in TP, including the Arts
-Groups, P10 Clubs and Interest Groups, academic schools and Corporate Communications,
-to assist with the facilitation of events.</p>
+<p>Temasek Polytechnic Emcees is a student hosting and communications ensemble
+that supports a wide range of campus events with professional stagecraft,
+clear articulation and strong audience engagement. Working closely with
+TP’s Arts Groups, Clubs and Interest Groups, and academic schools, members
+are trained in key hosting competencies such as programme flow, protocol,
+script interpretation, cueing and on-ground coordination — enabling them
+to facilitate both formal ceremonies and large-scale student events with
+confidence and composure. The CCA is guided by instructor Mr Benjamin Choo,
+a seasoned professional emcee and communication lecturer whose extensive
+on-stage and on-camera experience strengthens members’ delivery, presence
+and audience engagement across both live and digital platforms.</p>
 <p></p>
-<p>From formal events to community service activities and online platforms,
-TP Emcees have hosted a wide range of events. Additionally, they also work
-with external event organisers who reach out to them for hosting services.
-If you feel at ease on stage and love engaging with crowds, come join the
-TP Emcees family!</p>
+<p>Beyond live hosting, TP Emcees has evolved into a platform for storytelling
+and content creation, developing members as communicators who discover,
+shape and share meaningful human narratives from within the TP community.
+This is reflected in initiatives such as the "Re:Temasek" engagement series,
+where members conceptualise, script, host and produce short-form digital
+content that spotlights student experiences, campus life and authentic
+voices — contributing to a more connected and inclusive student community
+through purposeful and wholesome storytelling.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Emcees/Emcees_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Inner Page Photos (No Titles)/TP_Emcees_NT.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3>Recognitions</h3>
-<h5>Features</h5>
+<h3><strong>Recognitions</strong></h3>
+<h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>TP Open House (2025)</p>
+<p>"Re:Temasek" Student Engagement Series (2026)</p>
 </li>
 <li>
-<p>TP Scholarships Presentation (2025)</p>
+<p>TP Open House (2025 &amp; 2026)</p>
 </li>
 <li>
-<p>TP Top Picks (2024-2025)</p>
+<p>TP Scholarships Presentation (2025 &amp; 2026)</p>
 </li>
 <li>
-<p>NTUC Starter Awards Presentation Ceremony (2024)</p>
+<p>Temasek Polytechnic National Day Concert (2025)</p>
 </li>
 <li>
-<p>Organiser: Tapestry Insiders (2024)</p>
-</li>
-<li>
-<p>Mothership Eco Bazaar (2024)</p>
-</li>
-<li>
-<p>Temasek Regatta x SpecTACular (2024)</p>
-</li>
-<li>
-<p>Organiser: AY23/24 Arts Townhall (2023)</p>
-</li>
-<li>
-<p>Tapestry BrandUp Workshop (2023)</p>
-</li>
-<li>
-<p>Organiser: 128 Circle x TP Emcees – Meet The Stars (2022)</p>
-</li>
-<li>
-<p>Temasek Spectacular (2022)</p>
-</li>
-<li>
-<p>DREAMS XII (2022)</p>
-<p></p>
+<p>DREAMS: Celebrating TP35 (2025)</p>
 </li>
 </ul>
 <hr>
-<h3>About CCA</h3>
-<h5>Training Days</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Wednesday, 6.30pm to 9.30pm</p>
-</li>
-</ul>
-<h5>Staff Advisor</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="mailto:mark_spencer@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Mark Spencer</a>
+<h3><strong>About CCA</strong></h3>
+<h5><strong>Training Days:</strong></h5>
+<p>Wednesdays, 6.30pm to 9.30pm</p>
+<h5><strong>CCA Staff Advisor:</strong></h5>
+<p><a href="mailto:Denise_CABALTERA@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Denise Cabaltera</a>
 <br>
 </p>
-</li>
-</ul>
-<h5>Pages</h5>
+<h5><strong>Pages:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.instagram.com/tpemcees" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>
 </p>
 </li>
+<li>
+<p><a href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Ftpemcees2526%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGny62-xZ3rfMZPYAVwWkFHgjOr5V99JrLp_arGDPVs38HaHeue9RdjPTFLMr4_aem_SgZxzcM7dJc7lPzVaTMTCA&amp;e=AT4-Aow-86uCnBwQhLvdsvhLsvtrf8DeSQhVeQCyDU0PWbA39jcsNme2fgjHST0HN_WqGiv7qgtKJWsc_lhz0yajHp7ojyRdGBBV0BQrkg" rel="noopener nofollow" target="_blank">Linktree</a>
+</p>
+</li>
 </ul>
 <hr>
-<h3>Gallery</h3>
+<h3><strong>Gallery</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,36 +94,39 @@ TP Emcees family!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_1-v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_1.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_2-v2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_3.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="display:block;margin-left:auto;margin-right:auto;" height="auto" width="100%" alt="Emcees" src="/images/Arts/Emcees/Emcees_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_5.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts/Gallery Photos (2026)/TP_Emcees_6.jpg">
 </div>
 </td>
 </tr>
