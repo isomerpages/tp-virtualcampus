@@ -16,7 +16,7 @@ image: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/TP_IPRS_Student_Chapter.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Inner Page Photos (No Titles)/TP_IPRSStudent_Chapter_NT.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
