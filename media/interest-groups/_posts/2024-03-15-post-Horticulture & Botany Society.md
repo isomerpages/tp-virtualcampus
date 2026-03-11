@@ -21,31 +21,27 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Interested in gardening and plant care? The Horticulture &amp; Botany
-society is the perfect fit you for you!</p>
+Society (HnBSoc) is the perfect fit for you!</p>
 <p></p>
-<p>The Horticulture and Botany society aims to nuture our students' love
-for plants and nature, teaching horticulture, the botanical sciences and
-related areas to our student body and community.</p>
+<p>HnBSoc aims to nuture students' love for plants and nature through horticulture-based
+activities like workshops, gardening sessions and field outings. These
+sessions are open to members of the club, where everyone can gain hands-on
+experience and help out in our community garden on campus, or through facilitation
+of events. As a member, these sessions will allow you to pick up skills
+such as seed germination, plant care / maintenance and propagation. They
+cover areas such as terrarium-making, kokedama, microgreens and isopod
+care, and more.</p>
 <p></p>
-<p>We regularly host workshops and sessions where members can gain hands-on
-experience and help out in our community garden on campus. As a member,
-these sessions will allow you to pick up skills such as seed germination,
-plant propagation and composting. The workshops we organise also cover
-areas such as terrarium-making, kokedama, microgreens and isopod care.</p>
-<p></p>
-<p>Additionally, we also offer many opportunities for members to participate
-in outreach programmes outside of campus to get to know people from various
-walks of life, under organisations such as the National Parks Board, People's
-Association and other grassroots organisations.</p>
-<p></p>
-<p>Regardless of your skill level, there is a place for you in this interest
-group!</p>
+<p>Additionally, HnBSoc hosts outreach and educational programmes both in
+and outside of campus, interacting with people from various walks of life.
+The club also engages in collaboration with organisations such as the People's
+Association and community groups with similar interests.</p>
 <p>
 <br><strong>Meeting Day:</strong>
-<br>Wednesday, 6pm (Once every 3 weeks)
+<br>Once a month / Event basis
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Shruti_PILARE@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Shruti Pilare</a>, <a href="mailto:Kadamb_PATEL@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Dr Kadamb Patel</a> &amp;
-<a href="mailto:Lily_SING@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Ms Lily Sing</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Kadamb_PATEL@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Dr Kadamb Patel</a>, <a href="mailto:CHAN_Kit_Lun@TP.EDU.SG" rel="noopener nofollow" target="_blank">Mr Chan Kit Lun</a>,
+<a href="mailto:Marie_TAN@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie Tan</a>&amp; Ms <a href="mailto:TAN_Kay_Yee@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Kay Yee</a>
 </p>
 <p>
 <br><strong>CCA <a href="https://www.instagram.com/hnbsoc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
