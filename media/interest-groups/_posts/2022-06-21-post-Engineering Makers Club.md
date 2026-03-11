@@ -32,7 +32,7 @@ and printing, as well as microbit programming. These skills will be helpful
 in students' project work and even through their internship in their final
 year.
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Pasan_Bhashitha_DE_SILVA@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Pasan De Silva</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Nicolas_LEOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nicholas Leow</a>
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tpemc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
