@@ -15,7 +15,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P10/Engineering_Studies_Club_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Inner Page Photos (No Titles)/Engineering_Studies_Club_NT.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,13 +39,10 @@ to showcase their talents and an incubator for new ideas.
 <p>Student Welfare Week</p>
 </li>
 <li>
-<p>Wish Upon a Tree</p>
+<p>Halloween-themed carnival</p>
 </li>
 <li>
-<p>Community Services</p>
-</li>
-<li>
-<p>IGTV Series</p>
+<p>National Day Celebration</p>
 </li>
 <li>
 <p>Talent Show</p>
@@ -64,7 +61,7 @@ average, ESC runs about 15-20 events or activities per academic year.</p>
 <p><strong>Meeting Day:</strong> 
 <br>Event Basis
 <br>
-<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Andrew_Tham@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham</a>
+<br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Adrian_CHIA@tp.edu.sg" rel="noopener nofollow" target="_blank">Mr Adrian Chia</a> &amp; <a href="mailto:Andrew_Tham@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Andrew Tham </a>(Co-Advisor)
 <br>
 <br><strong>CCA <a href="https://www.instagram.com/tp_esc" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
 </p>
