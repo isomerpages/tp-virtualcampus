@@ -41,7 +41,7 @@ Association and community groups with similar interests.</p>
 <br>Once a month / Event basis
 <br>
 <br><strong>CCA Staff Advisor:</strong>  <a href="mailto:Kadamb_PATEL@TP.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">Dr Kadamb Patel</a>, <a href="mailto:CHAN_Kit_Lun@TP.EDU.SG" rel="noopener nofollow" target="_blank">Mr Chan Kit Lun</a>,
-<a href="mailto:Marie_TAN@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie Tan</a>&amp; Ms <a href="mailto:TAN_Kay_Yee@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Kay Yee</a>
+<a href="mailto:Marie_TAN@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Marie Tan</a>&amp; <a href="mailto:TAN_Kay_Yee@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Tan Kay Yee</a>
 </p>
 <p>
 <br><strong>CCA <a href="https://www.instagram.com/hnbsoc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
