@@ -34,7 +34,7 @@ community.</p>
 <a href="mailto:Joyce_WOON@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Joyce Woon</a>
 </p>
 <p></p>
-<p><strong>CCA <a href="https://www.instagram.com/tpastronomy/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>
+<p><strong>CCA <a href="https://www.instagram.com/tpastronomy/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> &amp; <a href="https://www.tiktok.com/@temasekpfp" rel="noopener nofollow" target="_blank">TikTok</a></strong>
 </p>
 </td>
 </tr>
