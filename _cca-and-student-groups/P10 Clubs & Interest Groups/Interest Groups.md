@@ -153,11 +153,27 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><a href="/interest-groups/pfp-ambassadors/" rel="noopener nofollow" target="_blank">PFP Ambassadors</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/PFP_Ambassadors.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><a href="/interest-groups/senvocates/" rel="noopener noreferrer nofollow" target="_blank">SENvocates</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/SENvocates_Resized.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -249,11 +265,18 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/interest-groups/pfp-ambassadors/" rel="noopener nofollow" target="_blank">PFP Ambassadors</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/PFP_Ambassadors.png">
-</div>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
