@@ -88,7 +88,7 @@ via our whistle blower hotline at <strong><a href="mailto:sdaa@tp.edu.sg" rel="n
 <div data-type="detailsContent" class="isomer-details-content">
 <p>TP Oei is the official campus communication platform for all full-time
 students. For more information on your FO activities and other useful onboarding
-resources, <strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202025.aspx" rel="noopener noreferrer nofollow" target="_blank">log in</a></strong> now
+resources, <strong><a href="https://studenttpedu.sharepoint.com/sites/tpoei/SitePages/Freshmen%202026.aspx" rel="noopener noreferrer nofollow" target="_blank">log in</a></strong> now
 and start exploring!</p>
 </div>
 </details>
