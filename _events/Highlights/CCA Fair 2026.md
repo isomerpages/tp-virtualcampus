@@ -29,7 +29,7 @@ with exciting possibilities? Mark your calendar now!</p>
 <p><strong>Dates:</strong> 22-23 April 2026</p>
 </li>
 <li>
-<p><strong>Time: </strong>10am to 4pm</p>
+<p><strong>Time: </strong>11am to 5pm</p>
 </li>
 <li>
 <p><strong>Venue: </strong>The Plaza</p>
