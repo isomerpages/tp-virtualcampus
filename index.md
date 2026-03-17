@@ -105,4 +105,13 @@ sections:
       button: Contact us!
       url: /contact-us/
       alt: Shoutout
+  - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: Celebrate your students’ contributions, passion and spirit. Inspire
+        them to continue the good fight. Nominate them for the TSEA today!
+      button: Button Text
+      image: /images/TSEA_2026_Draft_1.png
+      alt: Image alt text
 ---
