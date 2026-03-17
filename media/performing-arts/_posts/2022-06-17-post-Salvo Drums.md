@@ -47,6 +47,9 @@ combine tradition, creativity and powerful collective expression.</p>
 <h5><strong>Achievements/Features:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
+<p>Gima Band x Salvo Drums Music Video (2025)</p>
+</li>
+<li>
 <p>Salvo Drums BBT Series: Stories Beneath the Beats (2026)</p>
 </li>
 <li>
@@ -57,9 +60,6 @@ combine tradition, creativity and powerful collective expression.</p>
 </li>
 <li>
 <p>Singa Drum Gaia Fiesta (2025)</p>
-</li>
-<li>
-<p>Gima Band x Salvo Drums Music Video (2025)</p>
 </li>
 <li>
 <p>Tampines West Eco Fest (2025)</p>
