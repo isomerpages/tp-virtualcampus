@@ -5,56 +5,64 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>Temasek Student Excellence Awards 2025</strong></h3>
+<h3><strong>Temasek Student Excellence Awards 2026</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TSEA 2026 Banner" src="/images/TSEA_2026_Draft_1.png">
 </div>
-<p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2025</strong> recipients!</p>
-<p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
-and myriad contributions beyond the academics – whether in arts, sports,
-leadership, service, entrepreneurship, sustainability or character.</p>
-<p>This year, we celebrated <strong>377</strong> recipients across the Higher
-Award categories (Individual &amp; Group/Team), along with <strong>1,073</strong> CCA
-Merit Awards (Arts/Sports/Leadership), <strong>422</strong> Full Colours
-Awards, and <strong>147</strong> Half Colours Awards. In addition, <strong>3 </strong>sports
-teams were honoured through the Sustained Excellence Award, presented to
-teams that have achieved at least 70% gold podium finishes over the past
-15 years. Plus, special recognition went to <strong>3 </strong>Outstanding
-Coaches/Instructors in TP!</p>
-<p>Here’s a massive shoutout to our top stars – the <strong>Temasek CCA Gold</strong> and <strong>Silver</strong>  <strong>Award</strong> recipients!
-Hear their heartfelt stories and memorable CCA takeaways, and discover
-what fuelled their passion to keep pushing forward and making a difference,
-while rocking their TP journey!</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_1ogDTsMXps?si=48uLn5v7ZQQuzZzj"></iframe>
-</div>
-<p>And to all awardees from our TP family – your amazing dedication, unbridled
-creativity, and fiery spirit make this campus truly an unstoppable hub
-of vibrancy all year round. Keep shining!</p>
-<p><strong><em>(Check out the TSEA 2025 Roll of Honour <a href="https://for.edu.sg/tsearollofhonour2025" rel="noopener nofollow" target="_blank">here</a>!)</em></strong>
+<p><strong>Temasek Student Excellence Awards (TSEA) 2026</strong>
+</p>
+<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
+recognise the inspiring achievements and outstanding contributions of students
+in non-academic domains, such as the arts, sports, leadership, service,
+entrepreneurship and character.</p>
+<p>&nbsp;In the spirit of celebrating excellent student endeavours, we are
+happy to announce that nominations for the TSEA are now open!</p>
+<p>&nbsp;Take a moment to acknowledge your students' remarkable dedication,
+selfless commitment, and inspiring leadership by nominating them for the
+TSEA today. Let's uplift their spirits and give them the recognition they
+truly deserve!</p>
+<p>&nbsp;Nominate them for the TSEA today!</p>
+<p><strong>Announcement</strong>
+<br>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.
+Please refer to the full list of awards, as well as the eligibility criteria,
+nomination process and submission forms/links below.</p>
+<p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
 <hr>
-<h3><strong>Update</strong></h3>
-<p>Thank you to all CCA advisors and staff for nurturing our students to
-be the best version of themselves! Your efforts have enabled us to honour
-those who have excelled in their respective domains beyond the classroom,
-and celebrate those who have contributed significantly to the vibrancy
-of our campus.</p>
-<p>For information on the awards available for nomination annually under
-the TSEA (unless otherwise specified), as well as the eligibility criteria
-and nomination process, please refer to the links below:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2025/TSEA_2025___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the full list of Individual Awards.</p>
-</li>
-<li>
-<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2025/TSEA_2025___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the full list of Group/Team Awards.</p>
-</li>
-</ul>
-<p>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;
-<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2025/2025_TSEA_FAQ.pdf" rel="noopener nofollow" target="_blank">here</a>!</p>
+<h4><strong><u>Award Information </u></strong></h4>
+<p><strong>General Information (Award Nomination)</strong>
+</p>
+<p>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.
+Nominations received after the deadline will strictly not be accepted.</p>
+<p>Unless otherwise specified, only TP CCAs registered with the Student Development
+&amp; Alumni Affairs Department are eligible for the TSEA.</p>
+<p>Nominations must be submitted by TP staff for all the awards (with the
+exception of the <em>*Sustainability Award</em>). Nominations sent by students
+are deemed to be unsupported by TP staff and will hence not be accepted.
+Students who are found to have submitted their nominations without the
+endorsement of TP staff will have their awards withdrawn.</p>
+<p>It is the TP staff’s responsibility to verify the accuracy of all information,
+including the nominees’ SEAL records, before submitting their nominations.&nbsp;</p>
+<p><em>(*Students are allowed to nominate themselves for the Sustainability Award. TP staff can submit nominations for this award as well.)</em>
+</p>
+<p><strong>Selection (Award Selection)</strong>
+</p>
+<p>All forms must clearly indicate the nominated award category. However,
+the Selection Panel will make the final decision for the category that
+is most applicable.</p>
+<p>Selection is based on a set of pre-determined criteria, which includes
+amongst other things, standard of achievement, level of contribution, scale
+and number of projects, and demonstration of artistic merit, leadership
+skills and sportsmanship.</p>
+<p>The selection of nominees will be left to the Selection Panel and the
+decision of the Panel is final. Neither direct communication nor appeals
+will be entertained.</p>
+<p><strong>Conditions</strong>
+</p>
+<p>The award may be withdrawn from the recipient, should inaccurate facts
+or information be provided at the time of nomination.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp; The Polytechnic reserves the right not to award
+any of the awards if no suitable candidates are identified.</p>
 <p>For enquiries on the TSEA, please contact:&nbsp;<a href="mailto:tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a>
 </p>
 <p>See you next year!</p>
