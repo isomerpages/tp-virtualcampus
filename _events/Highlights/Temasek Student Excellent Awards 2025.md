@@ -29,7 +29,7 @@ nomination process and submission forms/links below.</p>
 <p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
 <hr>
-<h4><strong><u>Award Information </u></strong></h4>
+<h4><strong><u>Award Information</u></strong></h4>
 <p><strong>General Information (Award Nomination)</strong>
 </p>
 <p>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.
@@ -61,8 +61,9 @@ will be entertained.</p>
 </p>
 <p>The award may be withdrawn from the recipient, should inaccurate facts
 or information be provided at the time of nomination.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp; The Polytechnic reserves the right not to award
-any of the awards if no suitable candidates are identified.</p>
+<p>The Polytechnic reserves the right not to award any of the awards if no
+suitable candidates are identified.</p>
 <p>For enquiries on the TSEA, please contact:&nbsp;<a href="mailto:tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a>
 </p>
-<p>See you next year!</p>
+<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;<u>here</u>!</strong>
+</p>
