@@ -65,5 +65,24 @@ or information be provided at the time of nomination.</p>
 suitable candidates are identified.</p>
 <p>For enquiries on the TSEA, please contact:&nbsp;<a href="mailto:tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a>
 </p>
-<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;<u>here</u>!</strong>
+<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;</strong>
+<a href="/files/TSEA/2026/FAQ.pdf" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
 </p>
+<hr>
+<h4><strong><u>Individual Awards</u></strong></h4>
+<p>Have an outstanding nominee who deserves to be recognised in any of these
+award categories? Submit your nomination today!</p>
+<p><strong>Step 1:</strong> Download and read the eligibility criteria for
+all Individual Awards <a href="/files/TSEA/2026/TSEA_2026___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p><strong>Step 2: </strong>Submit your nominations by <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
+<p>(Nomination links are provided in the PDF document in Step 1. The links
+are also provided below for your convenience.)</p>
+<hr>
+<h4><strong><u>Group/Team Awards</u></strong></h4>
+<p>Have an outstanding group of students who deserves to be recognised in
+any of these award categories? Submit your nomination today!</p>
+<p><strong>Step 1</strong>: Download and read the eligibility criteria for
+all Group/Team Awards<strong> </strong><a href="/files/TSEA/2026/TSEA_2026___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p><strong>&nbsp;Step 2</strong>: Submit your nominations by <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
+<p>(Nomination links are provided in the PDF document in Step 1, and also
+reproduced below for your convenience.)</p>
