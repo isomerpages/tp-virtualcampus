@@ -9,8 +9,6 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TSEA 2026 Banner" src="/images/TSEA_2026_Draft_1.png">
 </div>
-<p><strong>Temasek Student Excellence Awards (TSEA) 2026</strong>
-</p>
 <p>The Temasek Student Excellence Awards (TSEA) are presented annually to
 recognise the inspiring achievements and outstanding contributions of students
 in non-academic domains, such as the arts, sports, leadership, service,
@@ -23,14 +21,12 @@ TSEA today. Let's uplift their spirits and give them the recognition they
 truly deserve!</p>
 <p>&nbsp;Nominate them for the TSEA today!</p>
 <p><strong>Announcement</strong>
-<br>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.
-Please refer to the full list of awards, as well as the eligibility criteria,
-nomination process and submission forms/links below.</p>
+<br>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
 <p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
 <hr>
 <h4><strong><u>Award Information</u></strong></h4>
-<p><strong>General Information (Award Nomination)</strong>
+<p><strong>Award Nomination</strong>
 </p>
 <p>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.
 Nominations received after the deadline will strictly not be accepted.</p>
@@ -45,7 +41,7 @@ endorsement of TP staff will have their awards withdrawn.</p>
 including the nominees’ SEAL records, before submitting their nominations.&nbsp;</p>
 <p><em>(*Students are allowed to nominate themselves for the Sustainability Award. TP staff can submit nominations for this award as well.)</em>
 </p>
-<p><strong>Selection (Award Selection)</strong>
+<p><strong>Award Selection</strong>
 </p>
 <p>All forms must clearly indicate the nominated award category. However,
 the Selection Panel will make the final decision for the category that
@@ -73,16 +69,16 @@ suitable candidates are identified.</p>
 <p>Have an outstanding nominee who deserves to be recognised in any of these
 award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
-all Individual Awards <a href="/files/TSEA/2026/TSEA_2026___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+all Individual Awards <a href="/files/TSEA/2026/TSEA_2026___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The nomination form links are included in the file.</p>
 <p><strong>Step 2: </strong>Submit your nominations by <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
-<p>(Nomination links are provided in the PDF document in Step 1. The links
-are also provided below for your convenience.)</p>
+<p></p>
 <hr>
 <h4><strong><u>Group/Team Awards</u></strong></h4>
 <p>Have an outstanding group of students who deserves to be recognised in
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
-all Group/Team Awards<strong> </strong><a href="/files/TSEA/2026/TSEA_2026___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+all Group/Team Awards<strong> </strong><a href="/files/TSEA/2026/TSEA_2026___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The nomination form links are included in the file.</p>
 <p><strong>&nbsp;Step 2</strong>: Submit your nominations by <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
-<p>(Nomination links are provided in the PDF document in Step 1, and also
-reproduced below for your convenience.)</p>
+<p></p>
