@@ -31,6 +31,17 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: CCA Fair 2026
+      subtitle: A VIBRANT CAMPUS LIFE AWAITS!
+      id: infopic
+      description: Hey Freshies, this one’s for you! Discover your passion and
+        maximise your fun and learning on campus through our CCAs. Come on down
+        and join in the action!
+      button: CREATE YOUR JOURNEY!
+      url: /cca-fair-2026/
+      image: /images/Events/Highlights/Web_Banner_3__Virtual_Campus__Happenings__TP_Oei__BUS_Video_Wall___Staff_Portal_Announcements__FA_pathed_lowres.jpg
+      alt: Image alt text
+  - infopic:
       title: Freshmen Orientation 2026
       subtitle: WELCOME TO TP!
       id: infopic
@@ -53,16 +64,15 @@ sections:
       image: /images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg
       alt: Image alt text
   - infopic:
-      title: CCA Fair 2026
-      subtitle: A VIBRANT CAMPUS LIFE AWAITS!
+      title: Temasek Student Excellence Awards (TSEA) 2026
+      subtitle: Recognise. Celebrate. Inspire.
       id: infopic
-      description: Hey Freshies, this one’s for you! Discover your passion and
-        maximise your fun and learning on campus through our CCAs. Come on down
-        and join in the action!
-      button: CREATE YOUR JOURNEY!
-      url: /cca-fair-2026/
-      image: /images/Events/Highlights/Web_Banner_3__Virtual_Campus__Happenings__TP_Oei__BUS_Video_Wall___Staff_Portal_Announcements__FA_pathed_lowres.jpg
+      description: Celebrate your students’ contributions, passion and spirit. Inspire
+        them to continue the good fight. Nominate them for the TSEA today!
+      button: NOMINATE NOW!
+      image: /images/TSEA_2026_Draft_1.png
       alt: Image alt text
+      url: /tsea-2026/
   - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: HEARTIEST CONGRATULATIONS!
@@ -105,13 +115,4 @@ sections:
       button: Contact us!
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2026
-      subtitle: Add an image and text
-      id: infopic
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
-      button: Button Text
-      image: /images/TSEA_2026_Draft_1.png
-      alt: Image alt text
 ---

@@ -13,13 +13,12 @@ third_nav_title: Highlights
 recognise the inspiring achievements and outstanding contributions of students
 in non-academic domains, such as the arts, sports, leadership, service,
 entrepreneurship and character.</p>
-<p>&nbsp;In the spirit of celebrating excellent student endeavours, we are
-happy to announce that nominations for the TSEA are now open!</p>
-<p>&nbsp;Take a moment to acknowledge your students' remarkable dedication,
-selfless commitment, and inspiring leadership by nominating them for the
-TSEA today. Let's uplift their spirits and give them the recognition they
-truly deserve!</p>
-<p>&nbsp;Nominate them for the TSEA today!</p>
+<p>In the spirit of celebrating excellent student endeavours, we are happy
+to announce that nominations for the TSEA 2026 are now open!</p>
+<p>Do take a moment to acknowledge your students' remarkable dedication,
+selfless commitment, and inspiring leadership. Let's uplift their spirits
+and give them the recognition they truly deserve.</p>
+<p>Nominate them for the TSEA today!</p>
 <p><strong>Announcement</strong>
 <br>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
 <p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
@@ -59,10 +58,9 @@ will be entertained.</p>
 or information be provided at the time of nomination.</p>
 <p>The Polytechnic reserves the right not to award any of the awards if no
 suitable candidates are identified.</p>
-<p>For enquiries on the TSEA, please contact:&nbsp;<a href="mailto:tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a>
+<p>For enquiries on the TSEA, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
 </p>
-<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;</strong>
-<a href="/files/TSEA/2026/FAQ.pdf" rel="noopener nofollow" target="_blank">here</a><strong>!</strong>
+<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;<a href="/files/TSEA/2026/FAQ.pdf" rel="noopener nofollow" target="_blank">here</a>!</strong>
 </p>
 <hr>
 <h4><strong><u>Individual Awards</u></strong></h4>
@@ -72,7 +70,6 @@ award categories? Submit your nomination today!</p>
 all Individual Awards <a href="/files/TSEA/2026/TSEA_2026___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 The nomination form links are included in the file.</p>
 <p><strong>Step 2: </strong>Submit your nominations by <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
-<p></p>
 <hr>
 <h4><strong><u>Group/Team Awards</u></strong></h4>
 <p>Have an outstanding group of students who deserves to be recognised in
