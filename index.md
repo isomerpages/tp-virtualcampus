@@ -107,7 +107,7 @@ sections:
       alt: Shoutout
   - infopic:
       title: Temasek Student Excellence Awards (TSEA) 2026
-      subtitle: Add an image and text
+      subtitle: Recognise. Celebrate. Inspire.
       id: infopic
       description: Celebrate your students’ contributions, passion and spirit. Inspire
         them to continue the good fight. Nominate them for the TSEA today!
