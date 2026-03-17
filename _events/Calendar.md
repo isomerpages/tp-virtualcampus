@@ -14,6 +14,28 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2026_Draft_1.png">
+</div>
+<p><em>Nominations open from now till 6 April 2026</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tsea-2026/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards 2026</a></strong>
+</p>
+<p></p>
+<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
+recognise the inspiring achievements and outstanding contributions of students
+in non-academic domains.</p>
+<p></p>
+<p>We are happy to announce that nominations for the TSEA 2026 are now open.
+Do take a moment to acknowledge your students' remarkable dedication, selfless
+commitment, and inspiring leadership.&nbsp;Nominate them for the TSEA today!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Web_Banner_3__Virtual_Campus__Happenings__TP_Oei__BUS_Video_Wall___Staff_Portal_Announcements__FA_pathed_lowres.jpg">
 </div>
 <p><em>22-23 April 2026</em>
@@ -254,52 +276,6 @@ adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!<
 as we commemorate Temasek Polytechnic’s <strong>35th anniversary</strong>.
 Be a part of this meaningful occasion as we run for a cause, and celebrate
 35 remarkable years of shaping lives and empowering futures together!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Excellence_Award_Congrats_1920_X_1080.jpg">
-</div>
-<p><em>31 May 2025</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/tsea-2025/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards 2025</a></strong>
-</p>
-<p></p>
-<p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2025</strong> recipients!</p>
-<p></p>
-<p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
-and myriad contributions beyond the academics. This year, we honoured over
-2,000 deserving students and coaches/instructors across TP for excelling
-in their respective domains outside the classroom, and for their unstinting
-efforts in contributing to the vibrancy of our campus.</p>
-<p></p>
-<p>Check out the TSEA 2025 <strong>Roll of Honour </strong><a href="https://for.edu.sg/tsea2025rollofhonour" rel="noopener nofollow" target="_blank">here</a>!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/CCA_Banner_1920px_by_1080px_FA.jpg">
-</div>
-<p><em>23-24 April 2025</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/events/cca-fair-2025/" rel="noopener noreferrer nofollow" target="_blank">CCA Fair 2025</a></strong>
-</p>
-<p></p>
-<p>Ignite your passion. Unleash your creativity. Forge lasting friendships.
-Maximise your fun.
-<br>
-<br>Calling all Freshies - life as a TP student can be as exciting, engaging
-and empowering as you want it to be! Join us at the <strong>CCA Fair 2025</strong> and
-dive into a world of thrilling opportunities offered in TP to realise your
-full potential. Mark your calendar now!</p>
 <p></p>
 </td>
 </tr>
