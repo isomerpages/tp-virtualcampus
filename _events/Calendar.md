@@ -107,7 +107,7 @@ remember for a lifetime!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/IVP_Games__AY25_26____1920px_by_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Sports/IVP_Web_Banners__2026__Banner_1920_X_1080pxpx.jpg">
 </div>
 <p><em>January &amp; February 2026</em>
 </p>
@@ -117,14 +117,12 @@ remember for a lifetime!</p>
 <p><strong><a href="/ivp-games-2026/" rel="noopener nofollow" target="_blank">Institute-Varsity-Polytechnic Games (AY2025/26)</a></strong>
 </p>
 <p></p>
-<p>The heat is on! This season, get ready for plenty of exhilarating action
-as we cheer for <strong>Team Temasek</strong>, who are standing proud and
-all prepared to give their best for TP at the annual <strong>Institute-Varsity-Polytechnic (IVP) Games</strong>!</p>
+<p>After a spirited run, <strong>Team Temasek</strong> wrapped up the <strong>IVP Games (AY2025/26) </strong>season
+with an inspiring display of teamwork, heart and resilience. Their campaign
+has been nothing short of challenging but our student-athletes rose to
+the occasion, bringing home a total of <strong>3 Silver</strong> and <strong>3 Bronze</strong> medals.</p>
 <p></p>
-<p>Join us in supporting Team Temasek and feel the adrenaline live in TP,
-as well as across various venues in the Institutes of Higher Learning.
-Watch this space for upcoming updates on the epic battles and exciting
-matchups in your favourite sports. See you at the games!</p>
+<p>Kudos on a fulfilling campaign!</p>
 <p></p>
 </td>
 </tr>
