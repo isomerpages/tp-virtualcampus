@@ -111,7 +111,8 @@ sections:
       id: infopic
       description: Celebrate your students’ contributions, passion and spirit. Inspire
         them to continue the good fight. Nominate them for the TSEA today!
-      button: Button Text
+      button: NOMINATE NOW!
       image: /images/TSEA_2026_Draft_1.png
       alt: Image alt text
+      url: /tsea-2026/
 ---
