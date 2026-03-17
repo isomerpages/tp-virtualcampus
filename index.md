@@ -64,6 +64,16 @@ sections:
       image: /images/Events/Highlights/Web_Banner_3__Virtual_Campus__Happenings__TP_Oei__BUS_Video_Wall___Staff_Portal_Announcements__FA_pathed_lowres.jpg
       alt: Image alt text
   - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2026
+      subtitle: Recognise. Celebrate. Inspire.
+      id: infopic
+      description: Celebrate your students’ contributions, passion and spirit. Inspire
+        them to continue the good fight. Nominate them for the TSEA today!
+      button: NOMINATE NOW!
+      image: /images/TSEA_2026_Draft_1.png
+      alt: Image alt text
+      url: /tsea-2026/
+  - infopic:
       title: Temasek Polytechnic Scholarships Presentation
       subtitle: HEARTIEST CONGRATULATIONS!
       id: infopic
@@ -105,14 +115,4 @@ sections:
       button: Contact us!
       url: /contact-us/
       alt: Shoutout
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2026
-      subtitle: Recognise. Celebrate. Inspire.
-      id: infopic
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
-      button: NOMINATE NOW!
-      image: /images/TSEA_2026_Draft_1.png
-      alt: Image alt text
-      url: /tsea-2026/
 ---
