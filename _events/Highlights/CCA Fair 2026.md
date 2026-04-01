@@ -37,6 +37,9 @@ with exciting possibilities? Mark your calendar now!</p>
 </ul>
 <p><strong><em>(Hey Juniors and Seniors, this is your call too! Beyond our Freshmen, you are also welcome to explore the myriad opportunities available at this event. Curious about TP’s CCAs? Check out the links below!)</em></strong>
 </p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ER_CRgjOtBU?si=CrQYo2yDWZCu7XU9"></iframe>
+</div>
 <hr>
 <p>Please note that successful passing of trials/auditions is required for
 acceptance into some CCAs. If you are unable to attend the CCA Fair, please
