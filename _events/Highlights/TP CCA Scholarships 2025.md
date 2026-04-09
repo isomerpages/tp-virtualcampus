@@ -5,18 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP CCA Scholarships 2025</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_CCA_Scholarship_2025v1.png">
-</div>
-<p>The annual <strong>TP CCA Scholarship</strong> is awarded to deserving students
-who have contributed significantly to their respective CCAs in Temasek
-Polytechnic (TP).</p>
-<p>We are happy to announce that applications for the <strong>TP CCA Scholarships 2025</strong> are
-now open and will close on <strong>19 September 2025 (Friday), 11.59pm</strong>.
-Apply <strong><a href="https://for.edu.sg/ccasform" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> now!</p>
+<h3><strong>TP CCA Scholarships </strong></h3>
+<p>Unlock your potential with the&nbsp;TP CCA Scholarships! Whether you excel
+in the arts, sports or leadership domain, this is your chance to be recognised
+and supported.</p>
+<p>Applications for the TP CCA Scholarships (AY2026/27) will open in the
+second half of 2026. Do watch this space for more updates on the call for
+applications!</p>
+<p>For information on the&nbsp;eligibility criteria, tenure and value, selection
+process and conditions of the TP CCA Scholarships, please refer to the
+sections below.</p>
 <p>For enquiries, please contact the TSEA &amp; CCA Scholarships Secretariat
-at <strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>.</p>
+at&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Eligibility Criteria</strong>
