@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - be-involved/.keep
-      - be-involved/Freshmen Orientation Programme 2022.md
       - be-involved/Open House 2022.md
       - be-involved/performing-arts.md
       - be-involved/sports.md
