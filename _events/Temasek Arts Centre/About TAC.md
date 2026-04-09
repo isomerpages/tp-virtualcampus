@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Temasek Arts Centre
 variant: markdown
 ---
-[**Temasek Arts Centre (TAC)**](https://virtualcampus.tp.edu.sg/be-entertained/temasek-arts-centre/), the arts and culture wing of TP’s Student Development &amp; Alumni Affairs Department (SDAA), believes in cultivating the arts on campus and in nurturing our student-artists through talent and leadership development, performance opportunities and platforms for artistic expression. All our members are handpicked through a selection process. Through high-quality concerts and productions, our student-artists express their creativity, hone their craft and aspire to be artists creating works in the local and global artistic landscapes.
+**Temasek Arts Centre (TAC)**, the arts and culture wing of TP’s Student Development &amp; Alumni Affairs Department (SDAA), believes in cultivating the arts on campus and in nurturing our student-artists through talent and leadership development, performance opportunities and platforms for artistic expression. All our members are handpicked through a selection process. Through high-quality concerts and productions, our student-artists express their creativity, hone their craft and aspire to be artists creating works in the local and global artistic landscapes.
 
 ---
 ### Arts Attack! - Watch these Arts CCA Online Performances
