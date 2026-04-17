@@ -22,6 +22,10 @@ adrenaline junkie, community champion, aspiring entrepreneur, eco-warrior,
 or anything in between – we have got the perfect fit for you. Plus, you
 will get to find out what makes your dream CCA tick and enjoy captivating
 arts performances that are bound to entertain.</p>
+<p>Also, craving something cool? Grab <strong>XXX</strong>’s signature fruit-infused
+tea from <strong>XXam</strong> to <strong>XXpm</strong> (while stocks last)
+– perfect to beat the sweltering heat! Plus, swing by to catch the vibe
+and see some Mediacorp radio DJs in action, who will be on campus from <strong>XXpm</strong> to <strong>XXpm</strong>!</p>
 <p>Ready to unlock your full potential and embrace a future in TP brimming
 with exciting possibilities? Mark your calendar now!</p>
 <ul data-tight="true" class="tight">
