@@ -22,6 +22,9 @@ adrenaline junkie, community champion, aspiring entrepreneur, eco-warrior,
 or anything in between – we have got the perfect fit for you. Plus, you
 will get to find out what makes your dream CCA tick and enjoy captivating
 arts performances that are bound to entertain.</p>
+<p>Also, craving something cool (and free!) to beat the sweltering heat?
+Grab and chill out with <strong><a href="https://www.instagram.com/nongfuspring_official/" rel="noopener nofollow" target="_blank">Cha Pai</a> </strong>tea
+beverages, available from <strong>11am to 5pm </strong>(while stocks last)!</p>
 <p>Ready to unlock your full potential and embrace a future in TP brimming
 with exciting possibilities? Mark your calendar now!</p>
 <ul data-tight="true" class="tight">
