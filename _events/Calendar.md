@@ -22,9 +22,13 @@ variant: tiptap
 <p><strong><a href="/tp-x-challenge-run-2026/" rel="noopener noreferrer nofollow" target="_blank">TP X-Challenge Run 2026</a></strong>
 </p>
 <p></p>
-<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
-recognise the inspiring achievements and outstanding contributions of students
-in non-academic domains.</p>
+<p>This July, get ready to lace up and lock in for an adrenaline-filled experience
+at the <strong>TP X-Challenge Run 2026</strong>! Returning for its third
+edition, we warmly invite your participation – whether you are conquering
+the run through our scenic campus and its lush surroundings, or simply
+enjoying a memorable evening as one TP family.</p>
+<p></p>
+<p>Tag your running buddies and secure your spot now!</p>
 <p></p>
 </td>
 </tr>
@@ -40,9 +44,9 @@ in non-academic domains.</p>
 <p><strong><a href="/tsea-2026/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards 2026</a></strong>
 </p>
 <p></p>
-<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
-recognise the inspiring achievements and outstanding contributions of students
-in non-academic domains.</p>
+<p>The <strong>Temasek Student Excellence Awards (TSEA) </strong>are presented
+annually to recognise the inspiring achievements and outstanding contributions
+of students in non-academic domains.</p>
 <p></p>
 <p>We are happy to announce that nominations for the TSEA 2026 are now open.
 Do take a moment to acknowledge your students' remarkable dedication, selfless
