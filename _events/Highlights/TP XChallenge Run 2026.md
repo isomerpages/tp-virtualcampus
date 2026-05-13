@@ -94,4 +94,39 @@ to register your interest.</p>
 </tr>
 </tbody>
 </table>
-<p>Whjy</p>
+<p><strong><u>Why You Should Participate</u></strong>
+</p>
+<p>Whether you are a running enthusiast or just looking forward to chill
+under the evening stars, there is something for everyone! Here are some
+highlights:</p>
+<p><strong>⭐ Exclusive Post-run Freebies: </strong>Everyone is a winner!
+Cross the finish line and celebrate your participation with our specially
+designed <strong>finisher tee</strong> and a <strong>towel</strong>.</p>
+<p><strong>⭐ Exciting Fringe Activities: </strong>Not running? No worries
+– just come and catch the vibes together!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy <strong>captivating performances</strong> by <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong> and
+special guests</p>
+</li>
+<li>
+<p>Take on <strong>fitness challenge stations</strong> and put your physical
+prowess to the test</p>
+</li>
+<li>
+<p>Stand a chance to win <strong>lucky draw prizes</strong>, specially for
+runners and fitness challenge station participants</p>
+</li>
+<li>
+<p>Close the night with a mass sing-along of the <strong>National Anthem</strong> and <strong>TP Song</strong>,
+in celebration of Singapore’s 61st birthday</p>
+</li>
+</ul>
+<p><strong><u>Register Now</u></strong>
+</p>
+<p>Packed with boundless energy and endless fun, the <strong>TP X-Challenge Run 2026</strong> is
+truly not to be missed. Come experience an invigorating run, bask in the
+vibrant campus spirit that makes TP truly special, and do encourage your
+friends to join in too.</p>
+<p>See you at the start line!</p>
+<p>See you at the start line!</p>
