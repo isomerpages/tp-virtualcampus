@@ -13,9 +13,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>[Insert eDM here]</p>
+<p><em>17 July 2026</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><a href="/tp-x-challenge-run-2026/" rel="noopener noreferrer nofollow" target="_blank">TP X-Challenge Run 2026</a></strong>
+</p>
+<p></p>
+<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
+recognise the inspiring achievements and outstanding contributions of students
+in non-academic domains.</p>
 <p></p>
 </td>
 </tr>
