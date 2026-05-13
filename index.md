@@ -31,6 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: TP X-Challenge Run 2026
+      subtitle: CHASE THE RUN. CATCH THE FUN!
+      id: infopic
+      description: This July, get ready to lace up for an adrenaline-filled
+        experience. Come on down to conquer the run or simply enjoy a memorable
+        evening as one TP family!
+      button: LOCK IN NOW!
+      url: /tp-x-challenge-run-2026/
+      alt: Image alt text
+  - infopic:
       title: CCA Fair 2026
       subtitle: A VIBRANT CAMPUS LIFE AWAITS!
       id: infopic
