@@ -16,13 +16,11 @@ as a key platform to promote wellness, inclusivity and campus vibrancy.
 On this meaningful occasion, we warmly invite your participation – whether
 you are conquering the run through our scenic campus and its lush surroundings,
 or simply enjoying a memorable evening as one TP family.</p>
-<p><strong><u>Event Details</u></strong>
-</p>
+<h4><strong>Event Details</strong></h4>
 <p><strong>📅 </strong>17 July 2026 (Friday)</p>
 <p><strong>🕐 </strong>3.30pm onwards</p>
 <p><strong>📍 </strong>TP Sports Complex &amp; Bedok Reservoir</p>
-<p><strong><u>Race Categories &amp; Registration Details</u></strong>
-</p>
+<h4><strong>Race Categories &amp; Registration Details</strong></h4>
 <p>Registration for the race is complimentary. Interested runners may sign
 up for any of the categories below:</p>
 <table style="minWidth: 75px">
@@ -94,8 +92,7 @@ to register your interest.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Why You Should Participate</u></strong>
-</p>
+<h4><strong>Why You Should Participate</strong></h4>
 <p>Whether you are a running enthusiast or just looking forward to chill
 under the evening stars, there is something for everyone! Here are some
 highlights:</p>
@@ -122,11 +119,9 @@ runners and fitness challenge station participants</p>
 in celebration of Singapore’s 61st birthday</p>
 </li>
 </ul>
-<p><strong><u>Register Now</u></strong>
-</p>
+<h4><strong>Register Now</strong></h4>
 <p>Packed with boundless energy and endless fun, the <strong>TP X-Challenge Run 2026</strong> is
 truly not to be missed. Come experience an invigorating run, bask in the
 vibrant campus spirit that makes TP truly special, and do encourage your
 friends to join in too.</p>
-<p>See you at the start line!</p>
 <p>See you at the start line!</p>
