@@ -13,6 +13,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2026_Draft_1.png">
 </div>
@@ -249,31 +257,6 @@ promising a memorable journey for audiences through Singapore’s evolving
 history.</p>
 <p></p>
 <p>Let’s unite in celebration and make unforgettable memories as a TP family!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banners_Web_Banner_2_1920px_X_1080px__Updated_1_Jul_2_.jpg">
-</div>
-<p><em>11 July 2025</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/events/tp35-xchallenge-run-2025/" rel="noopener noreferrer nofollow" target="_blank">TP 35 X-Challenge Run 2025</a></strong>
-</p>
-<p></p>
-<p><strong><em>(Update: Due to overwhelming response, registration for the run is now closed. Thank you for your support! Non-runners can still join us for a fantastic evening filled with food, games and performances. Let’s celebrate together as a TP family!)</em></strong>
-</p>
-<p></p>
-<p>This July, get ready to lace up your running shoes and gear up for an
-adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
-<p></p>
-<p>Returning for its second edition, this year’s run holds special significance
-as we commemorate Temasek Polytechnic’s <strong>35th anniversary</strong>.
-Be a part of this meaningful occasion as we run for a cause, and celebrate
-35 remarkable years of shaping lives and empowering futures together!</p>
 <p></p>
 </td>
 </tr>
