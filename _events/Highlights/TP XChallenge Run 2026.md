@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>TP X-Challenge Run 2026</strong></h3>
-<p>[Insert eDM here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_X_Challenge_Run_2026__1920px_X_1080px_.jpg">
+</div>
 <h4><strong>Chase the Run. Catch the Fun!</strong></h4>
 <p>This July, get ready to lace up and lock in for an adrenaline-filled experience
 at the <strong>TP X-Challenge Run 2026</strong>!</p>
@@ -18,7 +20,7 @@ you are conquering the run through our scenic campus and its lush surroundings,
 or simply enjoying a memorable evening as one TP family.</p>
 <h4><strong>Event Details</strong></h4>
 <p><strong>📅 </strong>17 July 2026 (Friday)</p>
-<p><strong>🕐 </strong>3.30pm onwards</p>
+<p><strong>🕐 </strong>3.00pm onwards</p>
 <p><strong>📍 </strong>TP Sports Complex &amp; Bedok Reservoir</p>
 <h4><strong>Race Categories &amp; Registration Details</strong></h4>
 <p>Registration for the race is complimentary. Interested runners may sign
@@ -69,7 +71,7 @@ up for any of the categories below:</p>
 <td rowspan="1" colspan="1">
 <p>Teamwork makes the dream work! Interested schools are also welcome to
 send <strong>up to three teams</strong> to compete for the <strong>Inter-School Challenge Shield</strong>.
-Please write in to <strong>Ms Charis Woo</strong> (<strong><a href="mailto:Charis_WOO@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Charis_WOO@tp.edu.sg</a></strong>)
+Please write in to <strong>Ms Jow Pei Jun</strong> (<strong><a href="mailto:Pei_Jun_JOW@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Pei_Jun_JOW@tp.edu.sg</a></strong>)
 to register your interest.</p>
 <p></p>
 <p><strong>Criteria:</strong>
@@ -111,8 +113,12 @@ special guests</p>
 prowess to the test</p>
 </li>
 <li>
-<p>Stand a chance to win <strong>lucky draw prizes</strong>, specially for
-runners and fitness challenge station participants</p>
+<p>Indulge in a variety of<strong> free carnival-style treats</strong> at
+live food stations</p>
+</li>
+<li>
+<p>Stand a chance to win <strong>lucky draw prizes</strong> (for runners and
+fitness challenge station participants)</p>
 </li>
 <li>
 <p>Close the night with a mass sing-along of the <strong>National Anthem</strong> and <strong>TP Song</strong>,
