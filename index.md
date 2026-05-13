@@ -40,6 +40,7 @@ sections:
       button: LOCK IN NOW!
       url: /tp-x-challenge-run-2026/
       alt: Image alt text
+      image: /images/TP_X_Challenge_Run_2026__1920px_X_1080px_.jpg
   - infopic:
       title: CCA Fair 2026
       subtitle: A VIBRANT CAMPUS LIFE AWAITS!
