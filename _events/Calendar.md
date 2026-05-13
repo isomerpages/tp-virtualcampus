@@ -28,7 +28,8 @@ edition, we warmly invite your participation – whether you are conquering
 the run through our scenic campus and its lush surroundings, or simply
 enjoying a memorable evening as one TP family.</p>
 <p></p>
-<p>Tag your running buddies and secure your spot now!</p>
+<p>Tag your running buddies and secure your spot now. See you at the start
+line!</p>
 <p></p>
 </td>
 </tr>
