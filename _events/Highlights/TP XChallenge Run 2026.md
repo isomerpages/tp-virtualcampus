@@ -45,7 +45,7 @@ up for any of the categories below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Leisure Run (2.3km)</strong>
+<p><strong>Leisure Run (2.4km)</strong>
 </p>
 </td>
 <td rowspan="2" colspan="1">
