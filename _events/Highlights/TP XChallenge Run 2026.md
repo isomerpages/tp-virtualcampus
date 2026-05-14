@@ -105,8 +105,8 @@ designed <strong>finisher tee</strong> and a <strong>towel</strong>.</p>
 – just come and catch the vibes together!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Enjoy <strong>captivating performances</strong> by <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong> and
-special guests</p>
+<p>Enjoy <strong>captivating performances</strong> by by acclaimed local band, <strong><a href="https://www.instagram.com/53aband/?hl=en" rel="noopener noreferrer nofollow" target="_blank">53A</a></strong>
+</p>
 </li>
 <li>
 <p>Take on <strong>fitness challenge stations</strong> and put your physical
@@ -122,7 +122,8 @@ fitness challenge station participants)</p>
 </li>
 <li>
 <p>Close the night with a mass sing-along of the <strong>National Anthem</strong> and <strong>TP Song</strong>,
-in celebration of Singapore’s 61st birthday</p>
+in celebration of <strong>Singapore’s 61st birthday</strong>
+</p>
 </li>
 </ul>
 <h4><strong>Register Now</strong></h4>
