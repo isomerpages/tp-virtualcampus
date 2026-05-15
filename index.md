@@ -37,7 +37,7 @@ sections:
       description: This July, get ready to lace up for an adrenaline-filled
         experience. Come on down to conquer the run or simply enjoy a memorable
         evening as one TP family!
-      button: LOCK IN NOW!
+      button: SIGN UP NOW!
       url: /tp-x-challenge-run-2026/
       alt: Image alt text
       image: /images/TP_X_Challenge_Run_2026__1920px_X_1080px_.jpg
