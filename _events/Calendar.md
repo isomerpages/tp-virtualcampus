@@ -14,6 +14,30 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_X_Challenge_Run_2026__1920px_X_1080px_.jpg">
+</div>
+<p><em>17 July 2026</em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tp-x-challenge-run-2026/" rel="noopener noreferrer nofollow" target="_blank">TP X-Challenge Run 2026</a></strong>
+</p>
+<p></p>
+<p>This July, get ready to lace up and lock in for an adrenaline-filled experience
+at the <strong>TP X-Challenge Run 2026</strong>! Returning for its third
+edition, we warmly invite your participation – whether you are conquering
+the run through our scenic campus and its lush surroundings, or simply
+enjoying a memorable evening as one TP family.</p>
+<p></p>
+<p>Tag your running buddies and secure your spot now. See you at the start
+line!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2026_Draft_1.png">
 </div>
 <p><em>Nominations open from now till 6 April 2026</em>
@@ -23,9 +47,9 @@ variant: tiptap
 <p><strong><a href="/tsea-2026/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards 2026</a></strong>
 </p>
 <p></p>
-<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
-recognise the inspiring achievements and outstanding contributions of students
-in non-academic domains.</p>
+<p>The <strong>Temasek Student Excellence Awards (TSEA) </strong>are presented
+annually to recognise the inspiring achievements and outstanding contributions
+of students in non-academic domains.</p>
 <p></p>
 <p>We are happy to announce that nominations for the TSEA 2026 are now open.
 Do take a moment to acknowledge your students' remarkable dedication, selfless
@@ -249,31 +273,6 @@ promising a memorable journey for audiences through Singapore’s evolving
 history.</p>
 <p></p>
 <p>Let’s unite in celebration and make unforgettable memories as a TP family!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_Web_Banners_Web_Banner_2_1920px_X_1080px__Updated_1_Jul_2_.jpg">
-</div>
-<p><em>11 July 2025</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/events/tp35-xchallenge-run-2025/" rel="noopener noreferrer nofollow" target="_blank">TP 35 X-Challenge Run 2025</a></strong>
-</p>
-<p></p>
-<p><strong><em>(Update: Due to overwhelming response, registration for the run is now closed. Thank you for your support! Non-runners can still join us for a fantastic evening filled with food, games and performances. Let’s celebrate together as a TP family!)</em></strong>
-</p>
-<p></p>
-<p>This July, get ready to lace up your running shoes and gear up for an
-adrenaline-filled experience at the <strong>TP35 X-Challenge Run 2025</strong>!</p>
-<p></p>
-<p>Returning for its second edition, this year’s run holds special significance
-as we commemorate Temasek Polytechnic’s <strong>35th anniversary</strong>.
-Be a part of this meaningful occasion as we run for a cause, and celebrate
-35 remarkable years of shaping lives and empowering futures together!</p>
 <p></p>
 </td>
 </tr>
