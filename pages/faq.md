@@ -322,21 +322,21 @@ Portal.</p>
 <p>Blk 31A
 <br>(Update: Please be informed that the Swimming Complex is currently closed
 for renovation works till October 2027.)</p>
-<p><strong>2. Student Gym </strong>
+<p><strong>2. Student Gym</strong>
 </p>
 <p>Blk 29, Sports Complex
 <br>Monday to Friday: 9am to 9pm
 <br>Saturday: 9am to 1pm
 <br>Closed on Sundays &amp; Public Holidays</p>
-<p><strong>4. Outdoor Sports Facilities (Basketball, Futsal &amp; Tennis Courts)</strong>
+<p><strong>3. Outdoor Sports Facilities (Basketball, Futsal &amp; Tennis Courts)</strong>
 </p>
 <p>Blk 26A, Sports &amp; Arts Centre
 <br>Monday to Friday: 9am to 9pm
 <br>Saturday: 9am to 5pm
 <br>Closed on Sundays &amp; Public Holidays</p>
-<p><strong><em>5. Sports Hall 2 (Badminton &amp; Table Tennis Courts)</em></strong>
+<p><strong>4. Sports Hall 2 (Badminton &amp; Table Tennis Courts)</strong>
 </p>
 <p>Blk 26A, Sports &amp; Arts Centre
 <br>Monday to Friday: 9am to 9pm
-<br>Saturday: 9am to 5pm</p>
-<p>Closed on Sundays &amp; Public Holidays</p>
+<br>Saturday: 9am to 5pm
+<br>Closed on Sundays &amp; Public Holidays</p>
