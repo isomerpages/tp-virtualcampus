@@ -334,7 +334,7 @@ for renovation works till October 2027.)</p>
 <br>Monday to Friday: 9am to 9pm
 <br>Saturday: 9am to 5pm
 <br>Closed on Sundays &amp; Public Holidays</p>
-<p><strong>4. Sports Hall 2 (Badminton &amp; Table Tennis Courts)</strong>
+<p><strong>4. Sports Hall 2 (Badminton Courts &amp; Table Tennis Tables)</strong>
 </p>
 <p>Blk 26A, Sports &amp; Arts Centre
 <br>Monday to Friday: 9am to 9pm
