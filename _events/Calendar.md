@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_X_Challenge_Run_2026__1920px_X_1080px_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__Closure_of_Registration____1920px_X_1080px.jpg">
 </div>
 <p><em>17 July 2026</em>
 </p>
@@ -30,8 +30,8 @@ edition, we warmly invite your participation – whether you are conquering
 the run through our scenic campus and its lush surroundings, or simply
 enjoying a memorable evening as one TP family.</p>
 <p></p>
-<p>Tag your running buddies and secure your spot now. See you at the start
-line!</p>
+<p><strong><em>(Update: Due to overwhelming response, registration for the TP X-Challenge Run 2026 is now closed. Thank you for your support!)</em></strong>
+</p>
 <p></p>
 </td>
 </tr>
