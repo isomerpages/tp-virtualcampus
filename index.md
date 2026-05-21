@@ -37,10 +37,10 @@ sections:
       description: This July, get ready to lace up for an adrenaline-filled
         experience. Come on down to conquer the run or simply enjoy a memorable
         evening as one TP family!
-      button: SIGN UP NOW!
+      button: FIND OUT MORE!
       url: /tp-x-challenge-run-2026/
       alt: Image alt text
-      image: /images/TP_X_Challenge_Run_2026__1920px_X_1080px_.jpg
+      image: /images/Events/Highlights/TP_X_Challenge_Run_2026__Closure_of_Registration____1920px_X_1080px.jpg
   - infopic:
       title: CCA Fair 2026
       subtitle: A VIBRANT CAMPUS LIFE AWAITS!
