@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP X-Challenge Run 2026</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__Closure_of_Registration____1920px_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg">
 </div>
 <h4><strong>Chase the Run. Catch the Fun!</strong></h4>
 <p><strong><em>(Update: Due to overwhelming response, registration for the TP X-Challenge Run 2026 is now closed. Thank you for your support!</em></strong>
