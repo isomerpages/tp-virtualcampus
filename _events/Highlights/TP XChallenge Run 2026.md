@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP X-Challenge Run 2026</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__Closure_of_Registration____1920px_X_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg">
 </div>
 <h4><strong>Chase the Run. Catch the Fun!</strong></h4>
 <p><strong><em>(Update: Due to overwhelming response, registration for the TP X-Challenge Run 2026 is now closed. Thank you for your support!</em></strong>
@@ -24,7 +24,8 @@ you are conquering the run through our scenic campus and its lush surroundings,
 or simply enjoying a memorable evening as one TP family.</p>
 <h4><strong>Event Details</strong></h4>
 <p><strong>📅 </strong>17 July 2026 (Friday)</p>
-<p><strong>🕐 </strong>3.00pm onwards</p>
+<p>🕐<strong> </strong>3.00pm onwards (Run) | 4.45pm onwards (Refreshments)
+| 5.45pm onwards (Performances &amp; Fitness Stations)</p>
 <p><strong>📍 </strong>TP Sports Complex &amp; Bedok Reservoir</p>
 <h4><strong>Catch These Exciting Highlights:</strong></h4>
 <p>⭐ <strong>Special Guest:</strong> Be swept away by acclaimed local band, <strong><a href="https://www.53aband.com/" rel="noopener noreferrer nofollow" target="_blank">53A</a></strong>,
