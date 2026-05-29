@@ -24,7 +24,8 @@ you are conquering the run through our scenic campus and its lush surroundings,
 or simply enjoying a memorable evening as one TP family.</p>
 <h4><strong>Event Details</strong></h4>
 <p><strong>📅 </strong>17 July 2026 (Friday)</p>
-<p><strong>🕐 </strong>3.00pm onwards</p>
+<p>🕐<strong> </strong>3.00pm onwards (Run) | 4.45pm onwards (Refreshments)
+| 5.45pm onwards (Performances &amp; Fitness Stations)</p>
 <p><strong>📍 </strong>TP Sports Complex &amp; Bedok Reservoir</p>
 <h4><strong>Catch These Exciting Highlights:</strong></h4>
 <p>⭐ <strong>Special Guest:</strong> Be swept away by acclaimed local band, <strong><a href="https://www.53aband.com/" rel="noopener noreferrer nofollow" target="_blank">53A</a></strong>,
