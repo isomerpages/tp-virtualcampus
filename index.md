@@ -40,7 +40,7 @@ sections:
       button: FIND OUT MORE!
       url: /tp-x-challenge-run-2026/
       alt: Image alt text
-      image: /images/Events/Highlights/TP_X_Challenge_Run_2026__Closure_of_Registration____1920px_X_1080px.jpg
+      image: /images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg
   - infopic:
       title: CCA Fair 2026
       subtitle: A VIBRANT CAMPUS LIFE AWAITS!
