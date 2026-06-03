@@ -43,7 +43,7 @@ variant: tiptap
 <p><strong><a href="/interest-groups/creative-tech-interest-group/" rel="noopener nofollow" target="_blank">Creative Tech Interest Group</a></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Design_AI_Interest_Group_Resized.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interest Groups/Creative_Tech_Interest_Group.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
