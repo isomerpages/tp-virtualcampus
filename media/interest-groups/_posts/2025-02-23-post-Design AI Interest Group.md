@@ -20,16 +20,16 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Design AI Interest Group aims to create a community of creative leaders
-to spearhead the exploration of Generative AI in design, fostering cross-disciplinary
-collaboration across five diploma courses - Communication Design, Digital
-Film &amp; Television, Fashion Management &amp; Design, Interior Architecture,
-and Product Experience Design. Through creative projects and knowledge
-sharing, these future designers push the boundaries of creativity, integrating
-AI-driven innovation into design practices, and inspiring their peers to
-reimagine the future of design. This platform also serves as a creative
-hive for experimentation, collaboration, and the advancement of AI applications
-in the creative industry.</p>
+<p>The Creative Tech Interest Group aims to create a community of creative
+leaders to spearhead the exploration of Generative AI in design, fostering
+cross-disciplinary collaboration across five diploma courses - Communication
+Design, Digital Film &amp; Television, Fashion Management &amp; Design,
+Interior Architecture, and Product Experience Design. Through creative
+projects and knowledge sharing, these future designers push the boundaries
+of creativity, integrating AI-driven innovation into design practices,
+and inspiring their peers to reimagine the future of design. This platform
+also serves as a creative hive for experimentation, collaboration, and
+the advancement of AI applications in the creative industry.</p>
 <p></p>
 <p><strong>Meeting Day:</strong>
 </p>
