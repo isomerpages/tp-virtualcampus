@@ -28,4 +28,29 @@ hub of vibrancy all year round.</p>
 <p>Keep shining bright and blazing your own trail!</p>
 <p><strong><em>(Check out the TSEA 2026 Roll of Honour <a href="https://for.edu.sg/tsea2026-rollofhonour" rel="noopener nofollow" target="_blank">here</a>!)</em></strong>
 </p>
+<hr>
+<h4><strong>Update</strong></h4>
+<p>Thank you to all CCA advisors and staff for nurturing our students to
+be the best version of themselves! Your efforts have enabled us to honour
+those who have excelled in their respective domains beyond the classroom,
+and celebrate those who have contributed significantly to the vibrancy
+of our campus.</p>
+<p>For information on the awards available for nomination annually under
+the TSEA (unless otherwise specified), as well as the eligibility criteria
+and nomination process, please refer to the links below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2026/TSEA_2026___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the full list of <strong>Individual Awards</strong>.</p>
+</li>
+<li>
+<p>Click&nbsp;<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2026/TSEA_2026___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the full list of <strong>Group/Team Awards</strong>.</p>
+</li>
+</ul>
+<p>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;
+<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2026/FAQ.pdf" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>For enquiries, please contact:&nbsp;<a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>
+</p>
+<p>See you next year!</p>
 <p></p>
