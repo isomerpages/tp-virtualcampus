@@ -31,6 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2026
+      subtitle: Recognise. Celebrate. Inspire.
+      id: infopic
+      description: Celebrate your students’ contributions, passion and spirit. Inspire
+        them to continue the good fight. Nominate them for the TSEA today!
+      button: NOMINATE NOW!
+      image: /images/TSEA_2026_Draft_1.png
+      alt: Image alt text
+      url: /tsea-2026/
+  - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
       id: infopic
@@ -74,27 +84,6 @@ sections:
       url: /temasek-olympiad-x-spectacular/
       image: /images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg
       alt: Image alt text
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2026
-      subtitle: Recognise. Celebrate. Inspire.
-      id: infopic
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
-      button: NOMINATE NOW!
-      image: /images/TSEA_2026_Draft_1.png
-      alt: Image alt text
-      url: /tsea-2026/
-  - infopic:
-      title: Temasek Polytechnic Scholarships Presentation
-      subtitle: HEARTIEST CONGRATULATIONS!
-      id: infopic
-      description: A massive shout-out to our amazing scholars! From impressive
-        academics to stellar CCA achievements, you are all shining stars of our
-        vibrant campus community.
-      button: FIND OUT MORE!
-      url: /tp-scholarships-presentation/
-      alt: Image alt text
-      image: /images/Events/Highlights/TP_Scholarship_Presentation__2026__Without_Text.jpg
   - infopic:
       title: Institute-Varsity-Polytechnic Games (AY2025/26)
       subtitle: BIG APPLAUSE TO TEAM TEMASEK!
