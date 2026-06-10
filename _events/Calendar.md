@@ -37,23 +37,23 @@ enjoying a memorable evening as one TP family.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2026_Draft_1.png">
-</div>
-<p><em>Nominations open from now till 6 April 2026</em>
+<p>[Insert image here]</p>
+<p><em>26 June 2026</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/tsea-2026/" rel="noopener noreferrer nofollow" target="_blank">Temasek Student Excellence Awards 2026</a></strong>
 </p>
 <p></p>
-<p>The <strong>Temasek Student Excellence Awards (TSEA) </strong>are presented
-annually to recognise the inspiring achievements and outstanding contributions
-of students in non-academic domains.</p>
+<p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2026</strong> recipients!</p>
 <p></p>
-<p>We are happy to announce that nominations for the TSEA 2026 are now open.
-Do take a moment to acknowledge your students' remarkable dedication, selfless
-commitment, and inspiring leadership.&nbsp;Nominate them for the TSEA today!</p>
+<p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
+and myriad contributions beyond the academics. This year, we honoured over
+1,600 deserving students and coaches across TP for excelling in their respective
+domains outside the classroom, and for their unstinting efforts in contributing
+to the vibrancy of our campus.</p>
+<p></p>
+<p>Check out the TSEA 2026 <strong><a href="https://for.edu.sg/tsea2026-rollofhonour" rel="noopener nofollow" target="_blank">Roll of Honour</a></strong> here!</p>
 <p></p>
 </td>
 </tr>
