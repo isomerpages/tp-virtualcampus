@@ -34,9 +34,9 @@ sections:
       title: Temasek Student Excellence Awards (TSEA) 2026
       subtitle: Recognise. Celebrate. Inspire.
       id: infopic
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
-      button: NOMINATE NOW!
+      description: Congratulations to all our award recipients for their inspiring
+        achievements and outstanding contributions beyond the academics!
+      button: VIEW THE ROLL OF HONOUR HERE!
       image: /images/TSEA_2026_Draft_1.png
       alt: Image alt text
       url: /tsea-2026/
