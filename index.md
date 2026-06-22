@@ -40,6 +40,7 @@ sections:
       button: GET INVOLVED!
       url: /seeds-of-good-fair-2026
       alt: Image alt text
+      image: /images/Events/Highlights/Seeds_of_Good_Fair_2026___1920px_by_1080px.png
   - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
