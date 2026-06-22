@@ -40,5 +40,4 @@ to real conversations, every moment is a step towards impact.</p>
 </p>
 <p>🏷️Tag your people, lock it in now, and let’s feel that giving campus
 energy that only TP can bring.</p>
-<p>See you at Seeds of Good Fair 2026!</p>
-<p></p>
+<p>See you at the <strong>Seeds of Good Fair 2026</strong>!</p>
