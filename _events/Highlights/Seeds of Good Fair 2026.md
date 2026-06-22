@@ -11,9 +11,9 @@ third_nav_title: Highlights
 <p>Hey #TPFAM, this is your sign to get involved!</p>
 <p>The inaugural <strong>Seeds of Good Fair</strong> brings together opportunities
 to learn, contribute, and take action in meaningful ways, right here in
-Temasek Polytechnic!</p>
-<p>From interactive booths, community impact workshops, befriending sessions
-to real conversations, every moment is a step towards impact.</p>
+Temasek Polytechnic. From interactive booths, community impact workshops,
+befriending sessions to real conversations, every moment is a step towards
+impact.</p>
 <p>Come down, explore, and be part of something bigger.</p>
 <p>🗓️ 15 &amp; 16 July 2026 (Friday)</p>
 <p>🕐 10.00am to 7pm</p>
