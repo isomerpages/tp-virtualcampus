@@ -37,7 +37,7 @@ sections:
       description: If you have been waiting for a sign to do something meaningful,
         this is it. Seeds of Good Fair is where good vibes meet real impact.
         Step into the action now!
-      button: GET INVOLVED
+      button: GET INVOLVED!
       url: /seeds-of-good-fair-2026
       alt: Image alt text
   - infopic:
