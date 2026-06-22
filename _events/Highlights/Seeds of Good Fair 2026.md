@@ -10,7 +10,7 @@ third_nav_title: Highlights
 <h4><strong>Where Action Meets Community!</strong></h4>
 <p>Hey #TPFAM, this is your sign to get involved!</p>
 <p>The inaugural <strong>Seeds of Good Fair</strong> brings together opportunities
-to learn, contribute, and take action in meaningful ways, right here in
+to learn, contribute, and take action in meaningful ways – right here in
 Temasek Polytechnic. From interactive booths, community impact workshops,
 befriending sessions to real conversations, every moment is a step towards
 impact.</p>
