@@ -13,7 +13,9 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Insert image here]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Seeds_of_Good_Fair_2026___1920px_by_1080px.png">
+</div>
 <p><em>15-16 July 2026</em>
 </p>
 <p></p>
