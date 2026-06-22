@@ -16,7 +16,7 @@ befriending sessions to real conversations, every moment is a step towards
 impact.</p>
 <p>Come down, explore, and be part of something bigger.</p>
 <p>🗓️ 15 &amp; 16 July 2026 (Friday)</p>
-<p>🕐 10.00am to 7pm</p>
+<p>🕐 10.00am to 7.00pm</p>
 <p>📍 TP Plaza</p>
 <p><strong>Registration is FREE! Pick your journey:</strong>
 </p>
