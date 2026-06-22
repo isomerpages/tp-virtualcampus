@@ -31,6 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: Seeds of Good Fair 2026
+      subtitle: WHERE ACTION MEETS COMMUNITY
+      id: infopic
+      description: If you have been waiting for a sign to do something meaningful,
+        this is it. Seeds of Good Fair is where good vibes meet real impact.
+        Step into the action now!
+      button: GET INVOLVED
+      url: /seeds-of-good-fair-2026
+      alt: Image alt text
+  - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
       id: infopic
@@ -84,28 +94,6 @@ sections:
       image: /images/TSEA_2026_Draft_1.png
       alt: Image alt text
       url: /tsea-2026/
-  - infopic:
-      title: Institute-Varsity-Polytechnic Games (AY2025/26)
-      subtitle: BIG APPLAUSE TO TEAM TEMASEK!
-      id: infopic
-      description: After a spirited run, Team Temasek wrapped up the IVP season with
-        an inspiring display of teamwork, heart and resilience. Kudos on a
-        fulfilling campaign!
-      button: VIEW OUR MEDAL TALLY HERE!
-      url: /ivp-games-2026/
-      alt: Image alt text
-      image: /images/Events/Sports/IVP_Web_Banners__2026__Banner_1920_X_1080pxpx.jpg
-  - infopic:
-      title: Polytechnic-ITE Games (AY2025/26)
-      subtitle: BIG APPLAUSE to TEAM TEMASEK!
-      id: infopic
-      description: After two months of intense sporting action, Team Temasek has
-        truly  exemplified the power of unity, passion and resilience. Congrats
-        on an outstanding season!
-      button: VIEW OUR MEDAL TALLY HERE!
-      url: /polite-games-2025/
-      image: /images/Sports/Polite_eDM_2__1920_X_1080px.jpg
-      alt: Image alt text
   - infopic:
       title: Want to be featured on Virtual Campus?
       subtitle: REACH OUT TO US
