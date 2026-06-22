@@ -17,7 +17,7 @@ impact.</p>
 <p>Come down, explore, and be part of something bigger.</p>
 <p>🗓️ 15 &amp; 16 July 2026 (Friday)</p>
 <p>🕐 10.00am to 7.00pm</p>
-<p>📍 TP Plaza</p>
+<p>📍 The Plaza</p>
 <p><strong>Registration is FREE! Pick your journey:</strong>
 </p>
 <ul data-tight="true" class="tight">
