@@ -32,7 +32,7 @@ and myriad contributions beyond the academics. This year, we honoured over
 domains outside the classroom, and for their unstinting efforts in contributing
 to the vibrancy of our campus.</p>
 <p></p>
-<p>Check out the TSEA 2026 <strong>Roll of Honour </strong><u>here</u>!</p>
+<p>Check out the TSEA 2026 <strong>Roll of Honour </strong><a href="https://for.edu.sg/tsea2026-rollofhonour" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
 </td>
 </tr>
