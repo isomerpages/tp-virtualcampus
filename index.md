@@ -31,6 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: Temasek Student Excellence Awards (TSEA) 2026
+      subtitle: Recognise. Celebrate. Inspire.
+      id: infopic
+      description: Congratulations to all our award recipients for their inspiring
+        achievements and outstanding contributions beyond the academics!
+      button: VIEW THE ROLL OF HONOUR HERE!
+      image: /images/Events/Highlights/Temasek_Student_Excellence_Awards_2026___Congrats_eDM_1920_X_1080.jpg
+      alt: Image alt text
+      url: /tsea-2026/
+  - infopic:
       title: Seeds of Good Fair 2026
       subtitle: WHERE ACTION MEETS COMMUNITY
       id: infopic
@@ -85,16 +95,6 @@ sections:
       url: /temasek-olympiad-x-spectacular/
       image: /images/Events/Highlights/G_Web_Banner__3___1920px__W__X_1080px__H_.jpg
       alt: Image alt text
-  - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2026
-      subtitle: Recognise. Celebrate. Inspire.
-      id: infopic
-      description: Celebrate your students’ contributions, passion and spirit. Inspire
-        them to continue the good fight. Nominate them for the TSEA today!
-      button: NOMINATE NOW!
-      image: /images/TSEA_2026_Draft_1.png
-      alt: Image alt text
-      url: /tsea-2026/
   - infopic:
       title: Want to be featured on Virtual Campus?
       subtitle: REACH OUT TO US
