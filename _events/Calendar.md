@@ -14,6 +14,32 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Seeds_of_Good_Fair_2026___1920px_by_1080px.png">
+</div>
+<p><em>15-16 July 2026</em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/seeds-of-good-fair-2026" rel="noopener nofollow" target="_blank">Seeds of Good Fair 2026</a></strong>
+</p>
+<p></p>
+<p>The inaugural <strong>Seeds of Good Fair</strong> is an opportunity to experience
+community in action!</p>
+<p></p>
+<p>This event brings together curated experiences for staff and students
+to learn, connect, and contribute meaningfully within TP. You can engage
+with community partners and participate in activities such as Community
+Booths, Human Libraries, Befriending Sessions, and Brown Bag Workshops.</p>
+<p></p>
+<p>Registration is free. Come explore the various journeys available and
+join us in this collective effort to serve and contribute!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg">
 </div>
 <p><em>17 July 2026</em>

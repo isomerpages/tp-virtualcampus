@@ -7,24 +7,25 @@ third_nav_title: Highlights
 ---
 <h3><strong>Temasek Student Excellence Awards 2026</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TSEA 2026 Banner" src="/images/TSEA_2026_Draft_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TSEA_2026_Draft_1.png">
 </div>
-<p>The Temasek Student Excellence Awards (TSEA) are presented annually to
-recognise the inspiring achievements and outstanding contributions of students
-in non-academic domains, such as the arts, sports, leadership, service,
-entrepreneurship and character.</p>
+<p>The <strong>Temasek Student Excellence Awards (TSEA)</strong> are presented
+annually to recognise the inspiring achievements and outstanding contributions
+of students in non-academic domains, such as the arts, sports, leadership,
+service, entrepreneurship and character.</p>
 <p>In the spirit of celebrating excellent student endeavours, we are happy
 to announce that nominations for the TSEA 2026 are now open!</p>
 <p>Do take a moment to acknowledge your students' remarkable dedication,
 selfless commitment, and inspiring leadership. Let's uplift their spirits
 and give them the recognition they truly deserve.</p>
 <p>Nominate them for the TSEA today!</p>
-<p><strong>Announcement</strong>
-<br>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
-<p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
+<hr>
+<h4><strong>Announcement</strong></h4>
+<p>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
+<p>For enquiries, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tsea@tp.edu.sg</u></a></strong>
 </p>
 <hr>
-<h4><strong><u>Award Information</u></strong></h4>
+<h4><strong>Award Information</strong></h4>
 <p><strong>Award Nomination</strong>
 </p>
 <p>Nominations for the TSEA are open from now till <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.
@@ -58,24 +59,25 @@ will be entertained.</p>
 or information be provided at the time of nomination.</p>
 <p>The Polytechnic reserves the right not to award any of the awards if no
 suitable candidates are identified.</p>
-<p>For enquiries on the TSEA, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener nofollow" target="_blank">tsea@tp.edu.sg</a></strong>
+<p>For enquiries on the TSEA, please contact:&nbsp;<strong><a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tsea@tp.edu.sg</u></a></strong>
 </p>
-<p><strong>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;<a href="/files/TSEA/2026/FAQ.pdf" rel="noopener nofollow" target="_blank">here</a>!</strong>
-</p>
+<p>Didn’t manage to find what you were looking for? Refer to a list of FAQs&nbsp;
+<a href="https://virtualcampus.tp.edu.sg/files/TSEA/2026/FAQ.pdf" rel="noopener nofollow" target="_blank"><u>here</u>
+</a>!</p>
 <hr>
-<h4><strong><u>Individual Awards</u></strong></h4>
+<h4><strong>Individual Awards</strong></h4>
 <p>Have an outstanding nominee who deserves to be recognised in any of these
 award categories? Submit your nomination today!</p>
 <p><strong>Step 1:</strong> Download and read the eligibility criteria for
-all Individual Awards <a href="/files/TSEA/2026/TSEA_2026___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+all Individual Awards <a href="https://virtualcampus.tp.edu.sg/files/TSEA/2026/TSEA_2026___individual_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 The nomination form links are included in the file.</p>
 <p><strong>Step 2: </strong>Submit your nominations by <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
 <hr>
-<h4><strong><u>Group/Team Awards</u></strong></h4>
+<h4><strong>Group/Team Awards</strong></h4>
 <p>Have an outstanding group of students who deserves to be recognised in
 any of these award categories? Submit your nomination today!</p>
 <p><strong>Step 1</strong>: Download and read the eligibility criteria for
-all Group/Team Awards<strong> </strong><a href="/files/TSEA/2026/TSEA_2026___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+all Group/Team Awards<strong> </strong><a href="https://virtualcampus.tp.edu.sg/files/TSEA/2026/TSEA_2026___group_team_awards_eligibility_criteria_and_nomination_links.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 The nomination form links are included in the file.</p>
-<p><strong>&nbsp;Step 2</strong>: Submit your nominations by <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
+<p><strong>Step 2</strong>: Submit your nominations by <strong><u>06 April 2026 (Monday),11.59pm</u></strong>.</p>
 <p></p>
