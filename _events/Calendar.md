@@ -13,7 +13,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Student_Excellence_Awards_2026___Congrats_eDM_1920_X_1080.jpg">
+</div>
+<p><em>26 June 2026</em>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
