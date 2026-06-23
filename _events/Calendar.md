@@ -24,8 +24,8 @@ variant: tiptap
 <p><strong><a href="/seeds-of-good-fair-2026" rel="noopener nofollow" target="_blank">Seeds of Good Fair 2026</a></strong>
 </p>
 <p></p>
-<p>Hello #TPFAM, the inaugural <strong>Seeds of Good Fair</strong> is an opportunity
-to experience community in action!</p>
+<p>The inaugural <strong>Seeds of Good Fair</strong> is an opportunity to experience
+community in action!</p>
 <p></p>
 <p>This event brings together curated experiences for staff and students
 to learn, connect, and contribute meaningfully within TP. You can engage
