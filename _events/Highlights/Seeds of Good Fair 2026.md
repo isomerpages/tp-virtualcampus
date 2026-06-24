@@ -21,7 +21,7 @@ community service for the first time or looking for deeper involvement,
 there will be platforms to learn, connect and contribute.</p>
 <p><strong>Event Details:</strong>
 </p>
-<p>🗓️ 15 &amp; 16 July 2026 (Friday)</p>
+<p>🗓️ 15 &amp; 16 July 2026</p>
 <p>🕐 10.00am to 7.00pm</p>
 <p>📍 The Plaza</p>
 <p><strong>Beyond the booths, staff and students can look forward to:</strong>
