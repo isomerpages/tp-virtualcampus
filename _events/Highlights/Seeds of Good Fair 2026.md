@@ -60,6 +60,6 @@ available.</p>
 </ol>
 <p>The fair also introduces a gamified experience, where participants collect
 stamps by engaging in different activities and interactions. Completed
-stamp cards can be redeemed for a limited selection of limited giveaways,
-while stocks last.</p>
+stamp cards can be redeemed for a limited selection of giveaways, while
+stocks last.</p>
 <p>Together, let’s sow the seeds for impact that endures. See you at the <strong>Seeds of Good Fair 2026</strong>!</p>
