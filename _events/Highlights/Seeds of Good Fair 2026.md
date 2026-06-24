@@ -62,4 +62,5 @@ available.</p>
 stamps by engaging in different activities and interactions. Completed
 stamp cards can be redeemed for a limited selection of giveaways, while
 stocks last.</p>
-<p>Together, let’s sow the seeds for impact that endures. See you at the <strong>Seeds of Good Fair 2026</strong>!</p>
+<p>Together, let’s sow the seeds for impact that endures.</p>
+<p>See you at the <strong>Seeds of Good Fair 2026</strong>!</p>
