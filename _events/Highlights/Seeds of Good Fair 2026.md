@@ -9,7 +9,7 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Seeds_of_Good_Fair_2026___1920px_by_1080px.png">
 </div>
-<h4><strong>Where Action Meets Community!</strong></h4>
+<h4><strong>Where Action Meets Community</strong></h4>
 <p>Hey #TPFAM, this is your sign to get involved!</p>
 <p>Jointly organised by <strong>Student Development &amp; Alumni Affairs (SDAA)</strong> and
 supported by <strong>TP's CSR team</strong>, the inaugural <strong>Seeds of Good Fair</strong> brings
