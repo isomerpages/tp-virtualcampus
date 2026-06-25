@@ -19,10 +19,9 @@ various categories. On top of these awards, <strong>494</strong>  <strong>CCA Re
 and <strong>144</strong>  <strong>Half Colours Awards</strong> have also been
 accorded. Plus, <strong>4 </strong>coaches received the <strong>Outstanding Coach Award</strong> for
 their contributions to TP!</p>
-<p>Here’s a massive shoutout to our top star – <strong>CCA Pinnacle Award </strong>recipient, <strong>Aiman Raedyn Lim Jen</strong>!
-Hear his heartfelt experiences and memorable CCA takeaways, and discover
-what has fuelled his passion to keep pushing forward and making a difference,
-while rocking his TP journey!</p>
+<p>Here’s a huge shoutout to our top star – <strong>CCA Pinnacle Award</strong> recipient, <strong>Aiman Raedyn Lim Jen</strong>!
+Catch his heartfelt reflections and unforgettable CCA moments, and discover
+what fuels his passion to keep pushing ahead in his TP and sporting journey!</p>
 <p>[To pull YouTube video from this link and place it here: <strong><u>XXXXX</u></strong>]</p>
 <p>And to all the awardees from our TP family – your amazing dedication,
 unbridled passion, and fiery spirit make this campus truly an unstoppable
