@@ -68,7 +68,9 @@ and the impact they hope to create!</p>
 <p>&lt;embed link to popup&gt;</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Janessa Thng</strong>
+</p>
+<p>&lt;embed link to popup&gt;</p>
 </th>
 </tr>
 <tr>
