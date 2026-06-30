@@ -59,7 +59,7 @@ and the impact they hope to create!</p>
 <th rowspan="1" colspan="1">
 <p><strong>Joshua Michael Nayar</strong>
 </p>
-<p>&lt;embed link to popup&gt;</p>
+<p>&lt;Embed link to pop-up&gt;</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -75,13 +75,25 @@ and the impact they hope to create!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SITI NUR SORFINA ADAWIYAH BINTE MUHAMED ASHIQ &amp; BERNICE CHEE XIN YEE</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Siti Nur Sorfina Adawiyah Binte Muhamed Ashiq </strong>
+</p>
+</li>
+<li>
+<p><strong>BerniceChee Xin Yee</strong>
+</p>
+</li>
+</ol>
+<p>&lt;Embed link to pop-up&gt;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>&lt;Embed link to pop-up&gt;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>&lt;Embed link to pop-up&gt;</p>
 </td>
 </tr>
 </tbody>
