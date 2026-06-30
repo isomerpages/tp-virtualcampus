@@ -60,7 +60,6 @@ and the impact they hope to create!</p>
 <p><strong>Joshua Michael Nayar</strong>
 </p>
 <p>&lt;Embed link to pop-up&gt;</p>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Catherine Emelia Dermawan</strong>
