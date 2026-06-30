@@ -51,12 +51,12 @@ and the impact they hope to create!</p>
 <th rowspan="1" colspan="1">
 <p><strong>Catherine Emelia Dermawan</strong>
 </p>
-<p>&lt;embed link to popup&gt;</p>
+<p>&lt;Embed link to pop-up&gt;</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Janessa Thng</strong>
 </p>
-<p>&lt;embed link to popup&gt;</p>
+<p>&lt;Embed link to pop-up&gt;</p>
 </th>
 </tr>
 <tr>
