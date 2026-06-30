@@ -181,7 +181,7 @@ and structured student leadership development.</p>
 engagement in sensitive care environments.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hug.org.sg%2Fvolunteer&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922952685%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=KueUCd5T6ZjcRLs3BthygXAQSmGqMuwOPB730Dbnav0%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">HUG Community Services</a></strong>
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftampines-changkat.pa.gov.sg%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923038381%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=M7u7KqCkv9S6sjhQtcBYrMJp6Xb8DqcB34KnJjlibic%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Tampines Changkat CC</a></strong>
 </p>
 <p>Focus on embedded community partnerships, sustained service learning pipelines,
 and structured student leadership development.</p>
