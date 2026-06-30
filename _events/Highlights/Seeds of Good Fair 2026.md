@@ -156,6 +156,9 @@ therapeutic engagement as a well-being enabler.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fpfacsg%2F%3Fhl%3Den&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922969814%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=bxP%2BI1%2FtCcnOtAejMcjek3lX3gGHqqXse6459evJRpU%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Pause for a Cause (PFAC)</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Pause_for_A_Cause.jpg">
+</div>
 <p>Focus on youth-led engagement models, identity-based communities, and
 creative expression as a gateway to civic participation.</p>
 </td>
