@@ -42,7 +42,7 @@ available.</p>
 </li>
 </ol>
 <hr>
-<h4><strong>Every Person has a Story Worth Hearing.</strong></h4>
+<h4><strong>Every Person Has a Story Worth Hearing.</strong></h4>
 <p>Meet our <strong>Human Library </strong>speakers at the Seeds of Good Fair
 2026, and discover the experiences, challenges and moments that shaped
 their journeys. Even beyond the event, you can continue exploring their
@@ -116,4 +116,7 @@ and the impact they hope to create!</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>Connect With Organisations Creating Impact in Our Communities.</strong></h4>
+<p></p>
 <p></p>
