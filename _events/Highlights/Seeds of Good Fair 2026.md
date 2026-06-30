@@ -198,7 +198,7 @@ and friendships.</p>
 <h4><strong>Stories Beyond First Impressions</strong></h4>
 <p>Meet persons with intellectual disabilities and hear about their experiences,
 interests, and aspirations through conversations that promote inclusion,
-empathy and understanding.</p>
+empathy, and understanding.</p>
 <hr>
 <h4><strong>Continue The Journey</strong></h4>
 <p>The Seeds of Good Fair is more than an event. It is an invitation to learn,
