@@ -122,4 +122,50 @@ and the impact they hope to create!</p>
 and youth development, our community partners offer a wide range of volunteering
 opportunities for those looking to make a meaningful contribution.</p>
 <p>Explore their profiles to learn more and discover how you can get involved!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>MindSG Ltd</strong>
+</p>
+<p>&nbsp;</p>
+<p>Focus on disability inclusion, independent living, and empowerment through
+structured engagement and adaptive support programmes.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
