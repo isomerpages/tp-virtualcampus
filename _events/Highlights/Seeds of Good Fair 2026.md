@@ -119,11 +119,17 @@ opportunities for those looking to make a meaningful contribution.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.minds.org.sg%2Fvolunteer%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922867229%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=exfFgGCeJggLXDxeSiE0S7KDCPwUnX73we%2FaL%2BnMvdc%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">MindSG Ltd</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/MINDS.png">
+</div>
 <p>Focus on disability inclusion, independent living, and empowerment through
 structured engagement and adaptive support programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Frdasingapore.org%2Fsupport-us%2Fbe-a-volunteer%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922911193%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=ZdwwVJ7H%2BBuCkcZo3S1OltSvSwUC69krVpc9g%2B3iHo4%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Riding for the Disabled Association of Singapore (RDA)</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Frdasingapore.org%2Fsupport-us%2Fbe-a-volunteer%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922911193%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=ZdwwVJ7H%2BBuCkcZo3S1OltSvSwUC69krVpc9g%2B3iHo4%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Riding for the Disabled Association of Singapore (RDA)</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/RDA.jpg">
+</div>
 <p>Focus on disability inclusion, independent living, and empowerment through
 structured engagement and adaptive support programmes.</p>
 </td>
