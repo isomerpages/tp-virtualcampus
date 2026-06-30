@@ -101,7 +101,16 @@ and the impact they hope to create!</p>
 <p>&lt;Embed link to pop-up&gt;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Leong Bao Yu Elizabeth Ofalza</strong>
+</p>
+</li>
+<li>
+<p><strong>Jonna Chia Zu Na</strong>
+</p>
+</li>
+</ul>
 <p>&lt;Embed link to pop-up&gt;</p>
 </td>
 </tr>
