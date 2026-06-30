@@ -118,5 +118,8 @@ and the impact they hope to create!</p>
 </table>
 <hr>
 <h4><strong>Connect With Organisations Creating Impact In Our Communities.</strong></h4>
-<p></p>
+<p>From supporting seniors and persons with disabilities to advancing sustainability
+and youth development, our community partners offer a wide range of volunteering
+opportunities for those looking to make a meaningful contribution.</p>
+<p>Explore their profiles to learn more and discover how you can get involved!</p>
 <p></p>
