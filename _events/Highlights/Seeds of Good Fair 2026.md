@@ -176,18 +176,27 @@ structured engagement and adaptive support programmes.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvirtualcampus.tp.edu.sg%2Fp10%2Fcommunity-service-club%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923003456%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=E5vf8Mw2ugKmFm8ek8%2B4sCK60b7RyPl7faNsmB3lVH8%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">TP Community Service Club</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TPCSC.png">
+</div>
 <p>Focus on embedded community partnerships, sustained service learning pipelines,
 and structured student leadership development.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.doverpark.org.sg%2Fsupporting-us%2Fvolunteers%2F%23volunteer-application&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923020353%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=Nh1xX5xoeQ7p%2FLVGhxJnWLYxZNcTNnkWnXY6JXym3FY%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Dover Park Hospice</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Dover_Park_Hospice.png">
+</div>
 <p>Focus on compassionate care, ageing population challenges, and values-based
 engagement in sensitive care environments.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftampines-changkat.pa.gov.sg%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923038381%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=M7u7KqCkv9S6sjhQtcBYrMJp6Xb8DqcB34KnJjlibic%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Tampines Changkat CC</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/PA_x_Tampines_Changkat_CC.jpg">
+</div>
 <p>Focus on embedded community partnerships, sustained service learning pipelines,
 and structured student leadership development.</p>
 </td>
@@ -196,6 +205,9 @@ and structured student leadership development.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvibe.shadee.care%2Fjoin-a-shadee-care-project%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923057377%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=HEyb9c8TvN6e3nnyloE53IK5UFl2seUQ5TzFF67%2BvBk%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Shadee.Care</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Shadee_Care.png">
+</div>
 <p>Focus on youth-led engagement models, identity-based communities, and
 creative expression as a gateway to civic participation.</p>
 </td>
