@@ -136,6 +136,9 @@ structured engagement and adaptive support programmes.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.yong-en.org.sg%2Fget-involved%2Fvolunteer%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922934527%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=zjPI4OcLovdEvs2LgYc9itBAa4V6mI7wLH%2FICU2C9%2Fk%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Yong-en Care Centre</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Yong_En_Care_Centre.png">
+</div>
 <p>Focus on compassionate care, ageing population challenges, and values-based
 engagement in sensitive care environments.</p>
 </td>
