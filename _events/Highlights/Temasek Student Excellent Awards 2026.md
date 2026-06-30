@@ -23,7 +23,7 @@ their contributions to TP!</p>
 Catch his heartfelt reflections and unforgettable CCA moments, and discover
 what fuels his passion to keep pushing ahead in his TP and sporting journey!</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mbz9za0gdIk?si=0r_WI0UeQYeyytlJ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mbz9za0gdIk?si=TCxOJ6bUuWnDjYDi"></iframe>
 </div>
 <p>And to all the awardees from our TP family – your amazing dedication,
 unbridled passion, and fiery spirit make this campus truly an unstoppable
@@ -54,4 +54,3 @@ the full list of Group/Team Awards.</p>
 <p>For enquiries, please contact:&nbsp;<a href="mailto:tsea@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tsea@tp.edu.sg</a>
 </p>
 <p>See you next year!</p>
-<p></p>
