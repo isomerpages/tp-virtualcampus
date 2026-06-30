@@ -75,7 +75,7 @@ and the impact they hope to create!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Siti Nur Sorfina Adawiyah Binte Muhamed Ashiq</strong>
 </p>
@@ -84,11 +84,20 @@ and the impact they hope to create!</p>
 <p><strong>Bernice Chee Xin Yee</strong>
 </p>
 </li>
-</ol>
+</ul>
 <p>&lt;Embed link to pop-up&gt;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Briana Sabreena Chua Wong</strong>
+</p>
+</li>
+<li>
+<p><strong>Huda Binte Abdullah</strong>
+</p>
+</li>
+</ul>
 <p>&lt;Embed link to pop-up&gt;</p>
 </td>
 <td rowspan="1" colspan="1">
