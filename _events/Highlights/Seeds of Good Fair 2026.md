@@ -220,5 +220,4 @@ connect, and contribute.</p>
 staff and student leaders to make use of the resources available here <strong>&lt;insert link&gt;</strong>,
 adapting them to create meaningful experiences for their own communities.</p>
 <p>Every project, partnership, and act of service begins with a single idea.
-The next one could be yours.</p>
-<p></p>
+The next one could be yours!</p>
