@@ -42,7 +42,7 @@ available.</p>
 </li>
 </ol>
 <hr>
-<h4><strong>Every Person Has A Story Worth Hearing.</strong></h4>
+<h4><strong>Every Person Has A Story Worth Hearing</strong></h4>
 <p>Meet our <strong>Human Library </strong>speakers at the Seeds of Good Fair
 2026, and discover the experiences, challenges and moments that shaped
 their journeys. Even beyond the event, you can continue exploring their
@@ -116,7 +116,7 @@ and the impact they hope to create!</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Connect With Organisations Creating Impact In Our Communities.</strong></h4>
+<h4><strong>Connect With Organisations Creating Impact In Our Communities</strong></h4>
 <p>From supporting seniors and persons with disabilities to advancing sustainability
 and youth development, our community partners offer a wide range of volunteering
 opportunities for those looking to make a meaningful contribution.</p>
@@ -213,5 +213,12 @@ and friendships.</p>
 interests, and aspirations through conversations that promote inclusion,
 empathy and understanding.</p>
 <hr>
-<p></p>
+<h4><strong>Continue The Journey</strong></h4>
+<p>The Seeds of Good Fair is more than an event. It is an invitation to learn,
+connect, and contribute.</p>
+<p>As you explore opportunities and stories across this platform, we invite
+staff and student leaders to make use of the resources available here <strong>&lt;insert link&gt;</strong>,
+adapting them to create meaningful experiences for their own communities.</p>
+<p>Every project, partnership, and act of service begins with a single idea.
+The next one could be yours.</p>
 <p></p>
