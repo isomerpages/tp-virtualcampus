@@ -22,7 +22,9 @@ their contributions to TP!</p>
 <p>Here’s a huge shoutout to our top star – <strong>CCA Pinnacle Award</strong> recipient, <strong>Aiman Raedyn Lim Jen</strong>!
 Catch his heartfelt reflections and unforgettable CCA moments, and discover
 what fuels his passion to keep pushing ahead in his TP and sporting journey!</p>
-<p>[To pull YouTube video from this link and place it here: <strong><u>XXXXX</u></strong>]</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mbz9za0gdIk?si=0r_WI0UeQYeyytlJ"></iframe>
+</div>
 <p>And to all the awardees from our TP family – your amazing dedication,
 unbridled passion, and fiery spirit make this campus truly an unstoppable
 hub of vibrancy all year round.</p>
