@@ -77,11 +77,11 @@ and the impact they hope to create!</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Siti Nur Sorfina Adawiyah Binte Muhamed Ashiq </strong>
+<p><strong>Siti Nur Sorfina Adawiyah Binte Muhamed Ashiq</strong>
 </p>
 </li>
 <li>
-<p><strong>BerniceChee Xin Yee</strong>
+<p><strong>Bernice Chee Xin Yee</strong>
 </p>
 </li>
 </ol>
