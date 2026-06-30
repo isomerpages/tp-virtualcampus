@@ -27,7 +27,7 @@ together to help you discover how you can make a difference!</p>
 <p>🗓️ 15 &amp; 16 July 2026</p>
 <p>🕐 10.00am to 7.00pm</p>
 <p>📍 The Plaza</p>
-<p>Save the date and <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https://forms.office.com/r/YuuVi7JnFg&amp;data=05%7c02%7cTracy_NG%40TP.EDU.SG%7c49164e0ac9f849f8218a08ded19d3abd%7c25a99bf08e72472aae50adfbdf0df6f1%7c0%7c0%7c639178670602835507%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&amp;sdata=Z6ckIjBXJI2mYa8noOei2ZUOGMnhQ5CckVcdBFVkFL0%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">join us</a></strong> now!</p>
+<p>👉 Save the date and <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https://forms.office.com/r/YuuVi7JnFg&amp;data=05%7c02%7cTracy_NG%40TP.EDU.SG%7c49164e0ac9f849f8218a08ded19d3abd%7c25a99bf08e72472aae50adfbdf0df6f1%7c0%7c0%7c639178670602835507%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&amp;sdata=Z6ckIjBXJI2mYa8noOei2ZUOGMnhQ5CckVcdBFVkFL0%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">join us</a></strong> now!</p>
 <hr>
 <h4><strong>Every Person Has A Story Worth Hearing</strong></h4>
 <p>Meet our <strong>Human Library </strong>speakers at the Seeds of Good Fair
