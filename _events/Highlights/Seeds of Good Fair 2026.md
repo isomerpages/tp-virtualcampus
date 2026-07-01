@@ -63,6 +63,8 @@ and the impact they hope to create!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Janessa Thng</strong>
 </p>
+<p>Staff</p>
+<p>School of Engineering, TP</p>
 <p><em><a href="https://for.edu.sg/seedsofgood2026-janessa" rel="noopener nofollow" target="_blank">Read her story here!</a></em>
 </p>
 </td>
