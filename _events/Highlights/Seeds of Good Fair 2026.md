@@ -46,7 +46,7 @@ and the impact they hope to create!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Joshua Michael Nayar</strong>
 </p>
-<p><em>Read his story here!</em>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-joshua" rel="noopener nofollow" target="_blank">Read his story here!</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
