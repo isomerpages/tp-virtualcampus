@@ -48,6 +48,7 @@ and the impact they hope to create!</p>
 </p>
 <p><em><a href="https://for.edu.sg/seedsofgood2026-joshua" rel="noopener nofollow" target="_blank">Read his story here!</a></em>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Catherine Emelia Dermawan</strong>
