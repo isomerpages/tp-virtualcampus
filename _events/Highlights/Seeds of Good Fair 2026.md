@@ -9,7 +9,7 @@ third_nav_title: Highlights
 <p>Every act of service starts with a seed. Discover how <strong>Service Learning</strong> can
 help you grow your skills while contributing to causes that matter.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1206054918?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1206054918?h=49cbfd4bb4"></iframe>
 </div>
 <p>Service Learning is more than volunteering – it is learning through meaningful
 action. Explore how our community service initiatives apply these principles
