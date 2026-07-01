@@ -16,7 +16,7 @@ action. Explore how our community service initiatives apply these principles
 to create positive impact, while fostering personal growth, civic responsibility,
 and community engagement.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1206055859?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1206055859?h=82cb1d89de"></iframe>
 </div>
 <p>Take the next step at the <strong>Seeds of Good Fair 2026</strong> – where
 community partners, volunteering opportunities, and inspiring stories come
