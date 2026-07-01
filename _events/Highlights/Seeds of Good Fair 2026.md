@@ -43,21 +43,24 @@ and the impact they hope to create!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Joshua Michael Nayar</strong>
 </p>
-<p>&lt;Embed link to pop-up&gt;</p>
-</th>
-<th rowspan="1" colspan="1">
+<p><em>Read his story here!</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Catherine Emelia Dermawan</strong>
 </p>
-<p>&lt;Embed link to pop-up&gt;</p>
-</th>
-<th rowspan="1" colspan="1">
+<p><em>Read her story here!</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Janessa Thng</strong>
 </p>
-<p>&lt;Embed link to pop-up&gt;</p>
-</th>
+<p><em>Read her story here!</em>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -71,7 +74,8 @@ and the impact they hope to create!</p>
 </p>
 </li>
 </ul>
-<p>&lt;Embed link to pop-up&gt;</p>
+<p><em>Read their stories here!</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -84,7 +88,8 @@ and the impact they hope to create!</p>
 </p>
 </li>
 </ul>
-<p>&lt;Embed link to pop-up&gt;</p>
+<p><em>Read their stories here!</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -97,7 +102,8 @@ and the impact they hope to create!</p>
 </p>
 </li>
 </ul>
-<p>&lt;Embed link to pop-up&gt;</p>
+<p><em>Read their stories here!</em>
+</p>
 </td>
 </tr>
 </tbody>
