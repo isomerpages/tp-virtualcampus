@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>Seeds of Good Fair 2026</strong></h3>
-<p><strong>&lt;Insert video&gt; filename: Service Learning Intro</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1206054918?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479"></iframe>
+</div>
 <p>Every act of service starts with a seed. Discover how <strong>Service Learning</strong> can
 help you grow your skills while contributing to causes that matter.</p>
 <p><strong>&lt;insert video&gt; filename: Seeds of Good Video 18.06</strong>
