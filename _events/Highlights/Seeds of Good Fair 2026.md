@@ -52,7 +52,7 @@ and the impact they hope to create!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Catherine Emelia Dermawan</strong>
 </p>
-<p><em>Read her story here!</em>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-catherine" rel="noopener nofollow" target="_blank">Read her story here!</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
