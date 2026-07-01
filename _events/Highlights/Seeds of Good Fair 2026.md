@@ -46,8 +46,6 @@ and the impact they hope to create!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Joshua Michael Nayar</strong>
 </p>
-<p>Student</p>
-<p>School of Humanities &amp; Social Sciences, TP</p>
 <p><em><a href="https://for.edu.sg/seedsofgood2026-joshua" rel="noopener nofollow" target="_blank">Read his story here!</a></em>
 </p>
 <p></p>
@@ -55,16 +53,12 @@ and the impact they hope to create!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Catherine Emelia Dermawan</strong>
 </p>
-<p>Student</p>
-<p>School of Engineering, TP</p>
 <p><em><a href="https://for.edu.sg/seedsofgood2026-catherine" rel="noopener nofollow" target="_blank">Read her story here!</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Janessa Thng</strong>
 </p>
-<p>Staff</p>
-<p>School of Engineering, TP</p>
 <p><em><a href="https://for.edu.sg/seedsofgood2026-janessa" rel="noopener nofollow" target="_blank">Read her story here!</a></em>
 </p>
 </td>
@@ -111,6 +105,7 @@ and the impact they hope to create!</p>
 </ul>
 <p><em>Read their stories here!</em>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
