@@ -115,6 +115,7 @@ and the impact they hope to create!</p>
 and youth development, our community partners offer a wide range of volunteering
 opportunities for those looking to make a meaningful contribution.</p>
 <p>Explore their profiles to learn more and discover how you can get involved!</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
