@@ -31,15 +31,16 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
-      title: Temasek Student Excellence Awards (TSEA) 2026
-      subtitle: Recognise. Celebrate. Inspire.
+      title: TP X-Challenge Run 2026
+      subtitle: CHASE THE RUN. CATCH THE FUN!
       id: infopic
-      description: Congratulations to all our award recipients for their inspiring
-        achievements and outstanding contributions beyond the academics!
-      button: VIEW THE ROLL OF HONOUR HERE!
-      image: /images/Events/Highlights/Temasek_Student_Excellence_Awards_2026___Congrats_eDM_1920_X_1080.jpg
+      description: This July, get ready to lace up for an adrenaline-filled
+        experience. Come on down to conquer the run or simply enjoy a memorable
+        evening as one TP family!
+      button: FIND OUT MORE!
+      url: /tp-x-challenge-run-2026/
       alt: Image alt text
-      url: /tsea-2026/
+      image: /images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg
   - infopic:
       title: Seeds of Good Fair 2026
       subtitle: WHERE ACTION MEETS COMMUNITY
@@ -52,16 +53,15 @@ sections:
       alt: Image alt text
       image: /images/Events/Highlights/Seeds_of_Good_Fair_2026___1920px_by_1080px.png
   - infopic:
-      title: TP X-Challenge Run 2026
-      subtitle: CHASE THE RUN. CATCH THE FUN!
+      title: Temasek Student Excellence Awards (TSEA) 2026
+      subtitle: Recognise. Celebrate. Inspire.
       id: infopic
-      description: This July, get ready to lace up for an adrenaline-filled
-        experience. Come on down to conquer the run or simply enjoy a memorable
-        evening as one TP family!
-      button: FIND OUT MORE!
-      url: /tp-x-challenge-run-2026/
+      description: Congratulations to all our award recipients for their inspiring
+        achievements and outstanding contributions beyond the academics!
+      button: VIEW THE ROLL OF HONOUR HERE!
+      image: /images/Events/Highlights/Temasek_Student_Excellence_Awards_2026___Congrats_eDM_1920_X_1080.jpg
       alt: Image alt text
-      image: /images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg
+      url: /tsea-2026/
   - infopic:
       title: CCA Fair 2026
       subtitle: A VIBRANT CAMPUS LIFE AWAITS!
