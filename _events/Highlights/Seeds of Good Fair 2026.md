@@ -247,7 +247,8 @@ empathy, and understanding.</p>
 <p>The Seeds of Good Fair is more than an event. It is an invitation to learn,
 connect, and contribute.</p>
 <p>As you explore opportunities and stories across this platform, we invite
-staff and student leaders to make use of the resources available here <strong>&lt;insert link&gt;</strong>,
-adapting them to create meaningful experiences for their own communities.</p>
+staff and student leaders to make use of the resources available in this
+<a href="https://studenttpedu-my.sharepoint.com/:f:/g/personal/giminhai_tp_edu_sg/IgBoht2bK8goR7fDRKJcvKAmAVhrlyLcnkzXQrhRNfjfDdE?e=EwcCPd" rel="noopener nofollow" target="_blank">link</a>, adapting them to create meaningful experiences for their own
+communities.</p>
 <p>Every project, partnership, and act of service begins with a single idea.
 The next one could be yours!</p>
