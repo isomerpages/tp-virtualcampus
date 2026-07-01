@@ -23,7 +23,7 @@ their contributions to TP!</p>
 Catch his heartfelt reflections and unforgettable CCA moments, and discover
 what fuels his passion to keep pushing ahead in his TP and sporting journey!</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mbz9za0gdIk?si=TCxOJ6bUuWnDjYDi"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mbz9za0gdIk?si=s2srW8fvqU8ilSRq"></iframe>
 </div>
 <p>And to all the awardees from our TP family – your amazing dedication,
 unbridled passion, and fiery spirit make this campus truly an unstoppable
