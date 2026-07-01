@@ -14,25 +14,24 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Student_Excellence_Awards_2026___Congrats_eDM_1920_X_1080.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg">
 </div>
-<p><em>26 June 2026</em>
+<p><em>17 July 2026</em>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tsea-2026" rel="noopener nofollow" target="_blank">Temasek Student Excellence Awards 2026</a></strong>
+<p><strong><a href="/tp-x-challenge-run-2026/" rel="noopener noreferrer nofollow" target="_blank">TP X-Challenge Run 2026</a></strong>
 </p>
 <p></p>
-<p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2026</strong> recipients!</p>
+<p>This July, get ready to lace up and lock in for an adrenaline-filled experience
+at the <strong>TP X-Challenge Run 2026</strong>! Returning for its third
+edition, we warmly invite your participation – whether you are conquering
+the run through our scenic campus and its lush surroundings, or simply
+enjoying a memorable evening as one TP family.</p>
 <p></p>
-<p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
-and myriad contributions beyond the academics. This year, we honoured over
-1,600 deserving students and coaches across TP for excelling in their respective
-domains outside the classroom, and for their unstinting efforts in contributing
-to the vibrancy of our campus.</p>
-<p></p>
-<p>Check out the TSEA 2026 <strong>Roll of Honour </strong><a href="https://for.edu.sg/tsea2026-rollofhonour" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p><strong><em>(Update: Due to overwhelming response, registration for the TP X-Challenge Run 2026 is now closed. Thank you for your support!)</em></strong>
+</p>
 <p></p>
 </td>
 </tr>
@@ -65,24 +64,25 @@ join us in this collective effort to serve and contribute!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Temasek_Student_Excellence_Awards_2026___Congrats_eDM_1920_X_1080.jpg">
 </div>
-<p><em>17 July 2026</em>
+<p><em>26 June 2026</em>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tp-x-challenge-run-2026/" rel="noopener noreferrer nofollow" target="_blank">TP X-Challenge Run 2026</a></strong>
+<p><strong><a href="/tsea-2026" rel="noopener nofollow" target="_blank">Temasek Student Excellence Awards 2026</a></strong>
 </p>
 <p></p>
-<p>This July, get ready to lace up and lock in for an adrenaline-filled experience
-at the <strong>TP X-Challenge Run 2026</strong>! Returning for its third
-edition, we warmly invite your participation – whether you are conquering
-the run through our scenic campus and its lush surroundings, or simply
-enjoying a memorable evening as one TP family.</p>
+<p>Big cheers and heartiest congratulations to all our <strong>Temasek Student Excellence Awards (TSEA) 2026</strong> recipients!</p>
 <p></p>
-<p><strong><em>(Update: Due to overwhelming response, registration for the TP X-Challenge Run 2026 is now closed. Thank you for your support!)</em></strong>
-</p>
+<p>Annually, the TSEA shines a spotlight on our students’ inspiring achievements
+and myriad contributions beyond the academics. This year, we honoured over
+1,600 deserving students and coaches across TP for excelling in their respective
+domains outside the classroom, and for their unstinting efforts in contributing
+to the vibrancy of our campus.</p>
+<p></p>
+<p>Check out the TSEA 2026 <strong>Roll of Honour </strong><a href="https://for.edu.sg/tsea2026-rollofhonour" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
 </td>
 </tr>
