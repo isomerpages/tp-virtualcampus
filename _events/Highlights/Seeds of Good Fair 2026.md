@@ -105,7 +105,6 @@ and the impact they hope to create!</p>
 </ul>
 <p><em>Read their stories here!</em>
 </p>
-<p></p>
 </td>
 </tr>
 </tbody>
