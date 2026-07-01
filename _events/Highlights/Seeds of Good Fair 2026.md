@@ -48,7 +48,6 @@ and the impact they hope to create!</p>
 </p>
 <p>Student</p>
 <p>School of Humanities &amp; Social Sciences, TP</p>
-<p></p>
 <p><em><a href="https://for.edu.sg/seedsofgood2026-joshua" rel="noopener nofollow" target="_blank">Read his story here!</a></em>
 </p>
 <p></p>
@@ -58,7 +57,6 @@ and the impact they hope to create!</p>
 </p>
 <p>Student</p>
 <p>School of Engineering, TP</p>
-<p></p>
 <p><em><a href="https://for.edu.sg/seedsofgood2026-catherine" rel="noopener nofollow" target="_blank">Read her story here!</a></em>
 </p>
 </td>
