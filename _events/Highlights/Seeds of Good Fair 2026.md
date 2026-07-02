@@ -77,7 +77,7 @@ and the impact they hope to create!</p>
 </p>
 </li>
 </ul>
-<p><em>Read their stories here!</em>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-bernicesorfina" rel="noopener nofollow" target="_blank">Read their stories here!</a></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
