@@ -6,40 +6,249 @@ description: ""
 third_nav_title: Highlights
 ---
 <h3><strong>Seeds of Good Fair 2026</strong></h3>
+<p>Every act of service starts with a seed. Discover how <strong>Service Learning</strong> can
+help you grow your skills while contributing to causes that matter.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1206054918?h=49cbfd4bb4"></iframe>
+</div>
+<p>Service Learning is more than volunteering – it is learning through meaningful
+action. Explore how our community service initiatives apply these principles
+to create positive impact, while fostering personal growth, civic responsibility,
+and community engagement.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="360" width="640" allowfullscreen="true" frameborder="0" src="https://player.vimeo.com/video/1206055859?h=82cb1d89de"></iframe>
+</div>
+<p>Take the next step at the <strong>Seeds of Good Fair 2026</strong> – where
+community partners, volunteering opportunities, and inspiring stories come
+together to help you discover how you can make a difference!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Seeds_of_Good_Fair_2026___1920px_by_1080px.png">
 </div>
-<h4><strong>Where Action Meets Community!</strong></h4>
-<p>Hey #TPFAM, this is your sign to get involved!</p>
-<p>The inaugural <strong>Seeds of Good Fair</strong> brings together opportunities
-to learn, contribute, and take action in meaningful ways – right here in
-Temasek Polytechnic. From interactive booths, community impact workshops,
-befriending sessions to real conversations, every moment is a step towards
-impact.</p>
-<p>Come down, explore, and be part of something bigger.</p>
-<p>🗓️ 15 &amp; 16 July 2026 (Friday)</p>
+<p><strong>Event Details:</strong>
+</p>
+<p>🗓️ 15 &amp; 16 July 2026</p>
 <p>🕐 10.00am to 7.00pm</p>
 <p>📍 The Plaza</p>
-<p><strong>Registration is FREE! Pick your journey:</strong>
+<p>👉 Save the date and <strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https://forms.office.com/r/YuuVi7JnFg&amp;data=05%7c02%7cTracy_NG%40TP.EDU.SG%7c49164e0ac9f849f8218a08ded19d3abd%7c25a99bf08e72472aae50adfbdf0df6f1%7c0%7c0%7c639178670602835507%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&amp;sdata=Z6ckIjBXJI2mYa8noOei2ZUOGMnhQ5CckVcdBFVkFL0%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">join us</a></strong> now!</p>
+<hr>
+<h4><strong>Every Person Has A Story Worth Hearing</strong></h4>
+<p>Meet our <strong>Human Library </strong>speakers at the Seeds of Good Fair
+2026, and discover the experiences, challenges and moments that shaped
+their journeys. Even beyond the event, you can continue exploring their
+stories – simply click on their profiles to find out what inspires them
+and the impact they hope to create!</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Joshua Michael Nayar</strong>
 </p>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-joshua" rel="noopener nofollow" target="_blank">Read his story here!</a></em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Catherine Emelia Dermawan</strong>
+</p>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-catherine" rel="noopener nofollow" target="_blank">Read her story here!</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Janessa Thng</strong>
+</p>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-janessa" rel="noopener nofollow" target="_blank">Read her story here!</a></em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Community Partner Booths</p>
+<p><strong>Siti Nur Sorfina Adawiyah Binte Muhamed Ashiq</strong>
+</p>
 </li>
 <li>
-<p>Human Libraries</p>
-</li>
-<li>
-<p>Befriending Session</p>
-</li>
-<li>
-<p>Brown Bag Workshop</p>
+<p><strong>Bernice Chee Xin Yee</strong>
+</p>
 </li>
 </ul>
-<p><strong>Sign up now:</strong>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-bernicesorfina" rel="noopener nofollow" target="_blank">Read their stories here!</a></em>
 </p>
-<p><strong>👉 TP Staff &amp; Students </strong>– <a href="https://for.edu.sg/seedsofgoodfair2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/seedsofgoodfair2026</a>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Briana Sabreena Chua Wong</strong>
 </p>
-<p>🏷️Tag your people, lock it in now, and let’s feel that giving campus
-energy that only TP can bring.</p>
-<p>See you at the <strong>Seeds of Good Fair 2026</strong>!</p>
+</li>
+<li>
+<p><strong>Huda Binte Abdullah</strong>
+</p>
+</li>
+</ul>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-brianahuda" rel="noopener nofollow" target="_blank">Read their stories here!</a></em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Leong Bao Yu Elizabeth Ofalza</strong>
+</p>
+</li>
+<li>
+<p><strong>Jonna Chia Zu Na</strong>
+</p>
+</li>
+</ul>
+<p><em><a href="https://for.edu.sg/seedsofgood2026-baoyujonna" rel="noopener nofollow" target="_blank">Read their stories here!</a></em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>Connect With Organisations Creating Impact In Our Communities</strong></h4>
+<p>From supporting seniors and persons with disabilities to advancing sustainability
+and youth development, our community partners offer a wide range of volunteering
+opportunities for those looking to make a meaningful contribution.</p>
+<p>Explore their profiles to learn more and discover how you can get involved!</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.minds.org.sg%2Fvolunteer%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922867229%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=exfFgGCeJggLXDxeSiE0S7KDCPwUnX73we%2FaL%2BnMvdc%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">MindSG Ltd</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/MINDS.png">
+</div>
+<p>Focus on disability inclusion, independent living, and empowerment through
+structured engagement and adaptive support programmes.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Frdasingapore.org%2Fsupport-us%2Fbe-a-volunteer%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922911193%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=ZdwwVJ7H%2BBuCkcZo3S1OltSvSwUC69krVpc9g%2B3iHo4%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Riding for the Disabled Association of Singapore (RDA)</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/RDA.jpg">
+</div>
+<p>Focus on disability inclusion, independent living, and empowerment through
+structured engagement and adaptive support programmes.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.yong-en.org.sg%2Fget-involved%2Fvolunteer%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922934527%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=zjPI4OcLovdEvs2LgYc9itBAa4V6mI7wLH%2FICU2C9%2Fk%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Yong-en Care Centre</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Yong_En_Care_Centre.png">
+</div>
+<p>Focus on compassionate care, ageing population challenges, and values-based
+engagement in sensitive care environments.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hug.org.sg%2Fvolunteer&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922952685%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=KueUCd5T6ZjcRLs3BthygXAQSmGqMuwOPB730Dbnav0%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">HUG Community Services</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/HUG_Community_Services.png">
+</div>
+<p>Focus on mental wellness, emotional support interventions, and animal-assisted
+therapeutic engagement as a well-being enabler.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fpfacsg%2F%3Fhl%3Den&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922969814%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=bxP%2BI1%2FtCcnOtAejMcjek3lX3gGHqqXse6459evJRpU%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Pause for a Cause (PFAC)</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Pause_for_A_Cause.jpg">
+</div>
+<p>Focus on youth-led engagement models, identity-based communities, and
+creative expression as a gateway to civic participation.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.apsn.org.sg%2Fvolunteer-with-us%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025922986696%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=ccJ5UmaMCjWHFYi3NoMajgvxvTkoqH2rJbvC3UF1vOI%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">The Association for Persons with Special Needs (APSN)</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/APSN.png">
+</div>
+<p>Focus on disability inclusion, independent living, and empowerment through
+structured engagement and adaptive support programmes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvirtualcampus.tp.edu.sg%2Fp10%2Fcommunity-service-club%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923003456%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=E5vf8Mw2ugKmFm8ek8%2B4sCK60b7RyPl7faNsmB3lVH8%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">TP Community Service Club</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TPCSC.png">
+</div>
+<p>Focus on embedded community partnerships, sustained service learning pipelines,
+and structured student leadership development.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.doverpark.org.sg%2Fsupporting-us%2Fvolunteers%2F%23volunteer-application&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923020353%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=Nh1xX5xoeQ7p%2FLVGhxJnWLYxZNcTNnkWnXY6JXym3FY%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Dover Park Hospice</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Dover_Park_Hospice.png">
+</div>
+<p>Focus on compassionate care, ageing population challenges, and values-based
+engagement in sensitive care environments.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftampines-changkat.pa.gov.sg%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923038381%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=M7u7KqCkv9S6sjhQtcBYrMJp6Xb8DqcB34KnJjlibic%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Tampines Changkat CC</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/PA_x_Tampines_Changkat_CC.jpg">
+</div>
+<p>Focus on embedded community partnerships, sustained service learning pipelines,
+and structured student leadership development.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvibe.shadee.care%2Fjoin-a-shadee-care-project%2F&amp;data=05%7C02%7CTracy_NG%40TP.EDU.SG%7C88f7f022a5464b74b83108ded4aa6e12%7C25a99bf08e72472aae50adfbdf0df6f1%7C0%7C0%7C639182025923057377%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=HEyb9c8TvN6e3nnyloE53IK5UFl2seUQ5TzFF67%2BvBk%3D&amp;reserved=0" rel="noopener nofollow" target="_blank">Shadee.Care</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Shadee_Care.png">
+</div>
+<p>Focus on youth-led engagement models, identity-based communities, and
+creative expression as a gateway to civic participation.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>Community Conversations</strong></h4>
+<p>Connect with seniors from the community through meaningful conversations
+over food and refreshments, while building intergenerational understanding
+and friendships.</p>
+<h4><strong>Stories Beyond First Impressions</strong></h4>
+<p>Meet persons with intellectual disabilities and hear about their experiences,
+interests, and aspirations through conversations that promote inclusion,
+empathy, and understanding.</p>
+<hr>
+<h4><strong>Continue The Journey</strong></h4>
+<p>The Seeds of Good Fair is more than an event. It is an invitation to learn,
+connect, and contribute.</p>
+<p>As you explore opportunities and stories across this platform, we invite
+staff and student leaders to make use of the resources available in this
+<a href="https://studenttpedu-my.sharepoint.com/:f:/g/personal/giminhai_tp_edu_sg/IgBoht2bK8goR7fDRKJcvKAmAVhrlyLcnkzXQrhRNfjfDdE?e=EwcCPd" rel="noopener nofollow" target="_blank">link</a>, adapting them to create meaningful experiences for their own
+communities.</p>
+<p>Every project, partnership, and act of service begins with a single idea.
+The next one could be yours!</p>
