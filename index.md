@@ -31,6 +31,17 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: TP National Day Celebrations 2026
+      subtitle: UNLEASH THE FESTIVITIES!
+      id: infopic
+      description: Get ready to ignite your patriotic spirit. Come celebrate
+        Singapore’s 61st birthday with an electrifying array of activities,
+        happening right on campus!
+      button: EXPLORE THE BUZZ!
+      url: /tp-national-day-celebrations-2026/
+      image: /images/Events/Highlights/TP_National_Day_Celebrations_2026__1920px_x_1080px_.jpg
+      alt: TP National Day Celebrations
+  - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
       id: infopic
