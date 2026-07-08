@@ -244,10 +244,10 @@ exciting month of unity and celebration!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong>ASC Studies Club</strong> will roll out a fun-filled initiative
-that sends students in teams of four on a <strong>heritage adventure </strong>across
-Singapore – with the perfect mix of discovery, creativity, and national
-pride!</p>
+<p>The <strong><a href="https://www.instagram.com/ascstudiesclub/?hl=en" rel="noopener nofollow" target="_blank">ASC Studies Club</a></strong> will
+roll out a fun-filled initiative that sends students in teams of four on
+a <strong>heritage adventure </strong>across Singapore – with the perfect
+mix of discovery, creativity, and national pride!</p>
 <p>Participants will take on a series of <strong>SG61-themed bingo challenges</strong> to
 uncover hidden stories and nostalgic gems. Along the way, they will put
 their photography, filming and interviewing skills to the test – from capturing
