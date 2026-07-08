@@ -338,7 +338,7 @@ make our community so special.</p>
 </details>
 </div>
 <hr>
-<h3><strong>TP National Day Concert 2025: "Confirm Can One!"</strong></h3>
+<h3><strong>TP National Day Concert 2026: “Semangat ke Hadapan” (<em>The Spirit of Moving Forward</em>)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/National_Day_Concert_2025___1920px_by_1080px.png">
 </div>
