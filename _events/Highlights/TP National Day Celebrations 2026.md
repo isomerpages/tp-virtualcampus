@@ -228,7 +228,7 @@ together!</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Commemorate National Day with your schools through a line-up of meaningful
-activities this August. Show off your distinctive school spirit and finesse,
+activities this August. Show off your distinctive school spirit and flair,
 and come together to express your collective love for Singapore in this
 exciting month of unity and celebration!</p>
 <p></p>
