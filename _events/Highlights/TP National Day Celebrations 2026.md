@@ -268,6 +268,7 @@ where staff are encouraged to come decked out in their best Batik attire.</p>
 decorations, fun photo props, popcorn stations, and a digital video wall
 looping iconic National Day songs to welcome students and staff in true
 celebratory style.</p>
+<p></p>
 </td>
 </tr>
 <tr>
