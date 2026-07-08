@@ -183,32 +183,42 @@ up the volume and make this celebration unforgettable!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/HIRMAS.jpg">
 </div>
-</th>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/487105864_1081179224054867_8949058529537291116_n.jpg">
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/Physical_Training_Booths.jpg">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
-<p>📅<strong>&nbsp;</strong>8 Aug 2025 (Friday)</p>
-<p>🕑 8.30am to 2pm</p>
+<p>📅<strong>&nbsp;</strong>7 August 2026 (Friday)</p>
+<p>🕑 8.30am to 2.00pm</p>
 <p>📍<strong>&nbsp;</strong>Triangular Gardens &amp; The Plaza</p>
-<p><strong>Military Defence</strong> is a pivotal pillar of our <strong>Total Defence</strong> as
-a nation. In conjunction with TP’s NDC 2025, the <strong>23rd Battalion, Singapore Artillery (23SA)</strong> is
-bringing its state-of-the-art <strong>High Mobility Artillery Rocket System (HIMARS)</strong> right
-to the Triangular Gardens. Don’t miss the opportunity to view this spectacular
-display up close, capture lots of Instagram-worthy moments, and tag <strong><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener nofollow" target="_blank">@temasekpoly</a></strong> to
-share your experience with our TP family!</p>
-<p>And that’s not all! Explore exhibits featuring small arms and field rations
-at The Plaza, and visit interactive stations where you can try your hand
-at a series of engaging and educational activities. Let’s honour Singapore’s
-military defence and resilience together!</p>
+<p><strong>Military Defence</strong> is a pivotal pillar of our <strong>Total Defence </strong>as
+a nation. In conjunction with TP’s NDC 2026, the <strong>23rd Battalion, Singapore Artillery (23SA)</strong> will
+be deploying its state-of-the-art <strong>High Mobility Artillery Rocket System (HIMARS)</strong> and
+the iconic <strong>25-pounder Howitzer </strong>right to the Triangular
+Gardens. Don’t miss this opportunity to get up close to these impressive
+artillery giants, snap loads of Instagram-worthy shots, and tag <strong><a href="https://www.instagram.com/temasekpoly/?hl=en" rel="noopener noreferrer nofollow" target="_blank">@temasekpoly</a></strong> to
+share your excitement with our TP family!</p>
+<p>Also, do remember to head over to The Plaza to explore small arms and
+field rations exhibits, and check out interactive stations such as Physical
+Training booths, where you can jump into fun and exciting activities to
+challenge your physical abilities.</p>
+<p>Come discover, experience, and celebrate Singapore’s military defence
+together!</p>
 </div>
 </details>
 </div>
