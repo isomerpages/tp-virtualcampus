@@ -244,20 +244,16 @@ exciting month of unity and celebration!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>ASC will organise an SG60-themed <strong>Bingo Challenge</strong> for students,
-who will form teams of four to explore different parts of Singapore. Participants
-will complete various fun and engaging activities that involve photography,
-filming, writing and interviewing, with the aim of fostering a deeper appreciation
-of Singapore’s peoples, heritage and cultures among students.</p>
-</li>
-<li>
-<p><strong>9 Aug:</strong> The <strong>top three</strong> winning teams will
-be announced on the <strong><a href="https://www.instagram.com/tp_asc/?hl=en" rel="noopener noreferrer nofollow" target="_blank">ASC Instagram</a></strong> page,
-with each team member receiving a $10 Starbucks gift card.</p>
-</li>
-</ul>
+<p>The <strong>ASC Studies Club</strong> will roll out a fun-filled initiative
+that sends students in teams of four on a <strong>heritage adventure </strong>across
+Singapore – with the perfect mix of discovery, creativity, and national
+pride!</p>
+<p>Participants will take on a series of <strong>SG61-themed bingo challenges</strong> to
+uncover hidden stories and nostalgic gems. Along the way, they will put
+their photography, filming and interviewing skills to the test – from capturing
+unique sounds on our public transport, chatting with seniors about “old
+Singapore”, to reviewing delicious local cultural fusion food.</p>
+<p></p>
 </td>
 </tr>
 <tr>
