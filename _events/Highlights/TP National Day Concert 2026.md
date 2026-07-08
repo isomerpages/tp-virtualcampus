@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP National Day Concert 2026: “Semangat ke Hadapan” (<em>The Spirit of Moving Forward</em>)</strong></h3>
+<h3><strong>TP National Day Concert 2026: “Semangat ke Hadapan” <em>(The Spirit of Moving Forward)</em></strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg">
 </div>
@@ -19,8 +19,8 @@ third_nav_title: Highlights
 <p><strong>TP Alumni&nbsp;</strong>– <a href="https://for.edu.sg/ndc2026-alumni" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ndc2026-alumni</a>
 </p>
 <p>This August, be a guest at TP’s biggest party and join us at our very
-own <strong>National Day Concert 2026: </strong>“<strong>Semangat ke Hadapan</strong>”<strong> (<em>The Spirit of Moving Forward</em>)</strong> [Insert
-link to specific page on VC] – a special showcase proudly presented by <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>  <strong>(TAC)</strong>!</p>
+own <strong>National Day Concert 2026: </strong>“<strong>Semangat ke Hadapan</strong>”<strong> <em>(The Spirit of Moving Forward)</em></strong> –
+a special showcase proudly presented by <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>  <strong>(TAC)</strong>!</p>
 <p>Follow a young content creator and her grandfather on a heartwarming intergenerational
 journey, as they rediscover the iconic sights, defining moments, and heartfelt
 stories that make Singapore home. Watch their adventure come alive through
