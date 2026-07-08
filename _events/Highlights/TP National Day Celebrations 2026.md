@@ -9,34 +9,32 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Celebrations_2026__1920px_x_1080px_.jpg">
 </div>
-<p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
-It is a monumental milestone that honours our shared journey, unites the
-nation in collective pride, and inspires us to build an even brighter future
-together.</p>
-<p>This August, we invite you to ignite your patriotic spirit and join us
-at TP’s very own <strong>National Day Celebrations (NDC) 2025</strong>!
-Inspired by this year’s NDP theme, “<strong>Majulah Singapura</strong>,”
-our celebrations will embody Singapore’s enduring legacy and a powerful
-call for progress – one that has rallied generations to rise with courage,
-stand tall with strength, and soar to greater heights with unanimous hope
-and purpose.</p>
-<p>Alongside SG60, we are also celebrating TP’s <strong>35th anniversary (TP35)</strong> this
-year! The excitement will be doubled with a diverse array of activities,
-passionately brought to life by our Schools, CCAs/Clubs and partners. Be
-entertained with a vibrant <strong>Racial Harmony Day Carnival</strong>,
-an interactive <strong><a href="https://www.defencepioneer.sg/pioneer-articles/2apr25_news2" rel="noopener nofollow" target="_blank">SAF60 Travelling Exhibition</a></strong>,
-an impressive <strong>military defence display </strong>by the 23SA, to
-immersive <strong>gamified missions</strong> by the RSAF – and many more!</p>
-<p>TP’s NDC 2025 will culminate in our <strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">National Day Concert 2025: "Confirm Can One!"</a></strong>,
-specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>.
-Staged in a dynamic theatrical game show format for the first time, this
-electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
-promising a memorable journey for audiences through Singapore’s evolving
-history. Enjoy your favourite local themes and songs, soak up the nostalgic
-moments, and feel all the good vibes you simply cannot miss!</p>
-<p>With endless fervour, boundless fun and unstoppable energy all round,
-come be part of the action at NDC 2025 and catch the vibrant campus spirit
-that makes TP truly special.</p>
+<p>This August, get ready to ignite your patriotic spirit as we mark <strong>Singapore’s 61st birthday</strong> at
+TP’s very own <strong>National Day Celebrations (NDC) 2026</strong>!</p>
+<p>Inspired by this year’s National Day Parade theme, “<strong>Majulah Singapura, Go Beyond!</strong>”,
+our celebrations honour the Singapore Spirit and our shared aspirations
+to grow and progress as a nation – while standing together in care, support,
+and solidarity with one another and our wider community.</p>
+<p>In this month of unity, watch our campus come alive with an electrifying
+array of activities presented by our schools, CCAs/Clubs and partners.
+Immerse yourself in a rich tapestry of cultures at the <strong>SU Harmony Fest: “Project Rojak”</strong> for
+Racial Harmony Day, be inspired by the <strong>“We Pledge: 60 Years of Us” Travelling Exhibition</strong>,
+be wowed by a <strong>Military Defence Display by 23SA</strong>, jump into
+a whole host of <strong>school-based celebrations</strong> – and many more!</p>
+<p>Cap off the celebrations with a spirited finale at our <strong>National Day Concert 2026: “Semangat ke Hadapan” (<em>The Spirit of Moving Forward</em>)</strong> –
+proudly brought to life by <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>!
+Follow a young content creator and her grandfather on a heartwarming intergenerational
+journey, as they rediscover the iconic sights, defining moments, and heartfelt
+stories that make Singapore home.</p>
+<p>On top of that, get hyped for vibrant performances<strong> </strong>by
+the <strong>TP Staff Band</strong>, alongside special guest acts <strong>Lion City Brass Band</strong> and
+perennial crowd favourites – the adorable kids from <strong>Little Skool-House</strong>.
+Plus, dive into <strong>exciting stage games</strong> and stand a chance
+to score attractive prizes, and enjoy a <strong>post-concert reception</strong> featuring
+local hawker delights!</p>
+<p>Packed with boundless fun and unstoppable energy, NDC 2026 is where you
+will want to be. Let’s join in the action and unite in celebration as one
+TP.</p>
 <p>See you there!</p>
 <hr>
 <h3><strong>NDC 2025: Fringe Activities</strong></h3>
