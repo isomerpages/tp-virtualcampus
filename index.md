@@ -49,9 +49,9 @@ sections:
         vibrant performances, play fun games, and let’s unite in celebration as
         one TP!
       button: GET READY!
-      url: TP National Day Concert
+      url: /tp-national-day-concert-2026/
       image: /images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg
-      alt: Image alt text
+      alt: TP National Day Concert
   - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
