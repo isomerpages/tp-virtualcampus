@@ -240,7 +240,7 @@ exciting month of unity and celebration!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School of Applied Science</strong>
+<p><strong>School of Applied Science (ASC)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -262,7 +262,7 @@ with each team member receiving a $10 Starbucks gift card.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School of Business</strong>
+<p><strong>School of Business (BUS)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,7 +297,7 @@ local favourites will also be hosted for staff to enjoy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School of Design</strong>
+<p><strong>School of Design (DES)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,7 +323,7 @@ share on DES social media platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School of Engineering</strong>
+<p><strong>School of Engineering (ENG)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,7 +335,7 @@ treasured values of <strong>racial harmony</strong>, <strong>teamwork </strong>a
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School of Humanities &amp; Social Sciences</strong>
+<p><strong>School of Humanities &amp; Social Sciences (HSS)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -364,7 +364,7 @@ Singapore on HSS social media platforms.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School of Informatics &amp; IT</strong>
+<p><strong>School of Informatics &amp; IT (IIT)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
