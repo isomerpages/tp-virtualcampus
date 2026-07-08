@@ -24,11 +24,12 @@ variant: tiptap
 </p>
 <p></p>
 <p>This August, get ready to ignite your patriotic spirit as we mark Singapore’s
-61st birthday at TP’s very own <strong>National Day Celebrations 2026</strong>!</p>
+61st birthday at TP’s very own <strong>National Day Celebrations 2026</strong>.</p>
 <p></p>
-<p>Look forward to an electrifying array of activities, brought to life by
-our Schools, CCAs/Clubs, and partners. Come be part of the exciting action
-and experience our vibrant campus spirit on this special occasion!</p>
+<p>Look forward to an electrifying array of activities brought to life by
+our Schools, CCAs/Clubs, and partners. Come experience our vibrant campus
+spirit on this meaningful occasion and let's join in the exciting action
+as one TP!</p>
 <p></p>
 </td>
 </tr>
@@ -47,9 +48,9 @@ and experience our vibrant campus spirit on this special occasion!</p>
 <p></p>
 <p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2026</strong>,
 specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>  <strong>(TAC)</strong>.
-Enjoy vibrant performances by our talented student-artists and the <strong>TP Staff Band</strong>,
-alongside special guest acts <strong>Lion City Brass Band</strong> and perennial
-crowd favourites – the adorable kids from <strong>Little Skool-House</strong>.</p>
+Enjoy vibrant performances by our talented student-artists and the TP Staff
+Band, alongside special guest Lion City Brass Band and perennial crowd
+favourites – the adorable kids from Little Skool-House.</p>
 <p></p>
 <p>Let’s unite in celebration and make unforgettable memories as a TP family!</p>
 <p></p>
