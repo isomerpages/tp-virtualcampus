@@ -76,8 +76,8 @@ significant occasion.</p>
 </tbody>
 </table>
 <p>📅 16 July 2026 (Thursday)</p>
-<p>🕑 11.00am to 5.00pm
-<br>📍 The Plaza (Outside Library &amp; School of Business Concourse)</p>
+<p>🕑 11.00am to 5.00pm</p>
+<p>📍 The Plaza (Outside Library &amp; School of Business Concourse)</p>
 <p>This Racial Harmony Day, come celebrate Singapore’s vibrant tapestry of
 cultures, immerse yourself in the rich diversity that unites us, and embrace
 the spirit of harmony that makes Singapore truly home!</p>
