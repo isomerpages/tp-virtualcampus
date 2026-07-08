@@ -374,6 +374,6 @@ campus in red and white, and turn this into an epic celebration to remember.</p>
 <p>Catch you at the party!</p>
 <p><strong>Bonus:</strong>
 </p>
-<p>⭐ <strong>SEAL points</strong> will be awarded to students for <strong>full concert participation</strong>.</p>
+<p>⭐ <strong>SEAL points</strong> will be awarded to students for <strong>full concert participation</strong>!</p>
 <p>⭐ Enjoy a <strong>free post-concert lunch reception</strong>, featuring
-a spread of popular local hawker delicacies to satisfy every craving.</p>
+a spread of popular local hawker delicacies to satisfy every craving!</p>
