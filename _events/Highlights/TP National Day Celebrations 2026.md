@@ -323,6 +323,11 @@ Joo Chiat – complete with a museum visit and a hands-on popiah-making session
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>IIT will bring the National Day vibes to The Plaza and IIT Concourse with
+a combined <strong>Racial Harmony Day </strong>and<strong> International Friendship Day</strong> celebration!
+Students can look forward to nostalgic game booths and interactive challenges,
+while celebrating the rich diversity and cross-cultural friendships that
+make our community so special.</p>
 <p></p>
 </td>
 </tr>
