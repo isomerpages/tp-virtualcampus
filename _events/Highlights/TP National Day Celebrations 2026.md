@@ -88,7 +88,6 @@ free snacks (redeemable when you complete the activities), strike fun poses
 at the photo booth, and stand a chance to win attractive prizes for the
 best-dressed cultural outfits on the day.</p>
 <p>This event is brought to you by the following student groups:</p>
-<p>&nbsp;</p>
 <p>⭐&nbsp;<a href="https://www.instagram.com/tp.studentsunion/?hl=en" rel="noopener noreferrer nofollow" target="_blank">TP Students’ Union</a>
 </p>
 <p>⭐&nbsp;<a href="https://www.instagram.com/tpbsc" rel="noopener noreferrer nofollow" target="_blank">Business Studies Club</a>
