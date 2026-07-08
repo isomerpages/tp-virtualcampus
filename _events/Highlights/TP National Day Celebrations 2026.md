@@ -46,12 +46,12 @@ NDC 2026 – happening right here on campus. Let’s celebrate Singapore’s
 <summary><strong>Campus National Day Decorations</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>📅 July &amp; August 2025
-<br>📍 Campus-wide</p>
+<p>📅 July to August 2026</p>
+<p>📍 Campus-wide</p>
 <p>Be a proud Singaporean on our beautiful campus! Immerse yourself in the
-National Day spirit through the stunning festive displays and colourful
-décor all around TP, as part of our heartfelt tribute to Singapore on its
-60th birthday.</p>
+National Day spirit through the vibrant festive displays and colourful
+décor all around TP, as part of our heartfelt tribute to Singapore on this
+significant occasion.</p>
 </div>
 </details>
 </div>
@@ -101,35 +101,6 @@ while stocks last!</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>SAF60 Travelling Exhibition – “Defending Our Home, Securing Our Future”</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/SAF60_Travelling_Exhibition__Defence_Collective_Singapore_.png">
-</div>
-<p><em>(Photo Credit: </em><a href="https://www.defencecollectivesg.com/saf60-sdc-2025/" rel="noopener nofollow" target="_blank">Defence Collective Singapore</a><em>)</em>
-</p>
-<p>📅 4-7 August 2025</p>
-<p>🕑 10.00am to 5.00pm</p>
-<p>📍 School of Business Concourse (Entrance)</p>
-<p>In conjunction with SG60, the Singapore Armed Forces (SAF) invites you
-to celebrate the 60th anniversary of its inception with the <strong><a href="https://www.defencepioneer.sg/pioneer-articles/2apr25_news2" rel="noopener nofollow" target="_blank">SAF60 Travelling Exhibition – “Defending Our Home, Securing Our Future”</a></strong>!</p>
-<p>This dynamic exhibition showcases six decades of the SAF’s transformative
-journey, chronicling its humble beginnings to the modern, technologically
-advanced fighting force it is today. Discover the vital role played by
-the SAF in safeguarding Singapore’s sovereignty, security and future, and
-explore how it continues to evolve and innovate amid an ever-changing and
-volatile world.</p>
-<p>Besides fascinating exhibits, you can learn more about the SAF through
-compelling human-interest stories and the personal experiences of generations
-of servicemen / women who have contributed to Singapore’s defence. Plus,
-gear up for an interesting interactive game, where you can stand a chance
-to score exclusive collectibles!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Broadcast of National Day Songs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -140,49 +111,6 @@ to score exclusive collectibles!</p>
 Day classics? Sing along to your favourite songs, enjoy these iconic tunes
 echoing across campus, and get creative by filming a TikTok video with
 your friends grooving to the rhythm. Let’s make this celebration unforgettable!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Valour in a Heartbeat</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>📅 5-6 August 2025</p>
-<p>📍 The Plaza</p>
-<p>Join us in celebrating SG60 at this adrenaline-pumping fitness event like
-no other!</p>
-<p>Unleash your strength, passion and spirit through a series of electrifying
-game stations. Test your limits with 60-second challenges – see how many
-burpees or push-ups you can do! Take on timed events like tyre-flipping,
-or battle it out at gamified booths such as Punching Machine and King of
-Hammer. Plus, fantastic prizes are up for grabs!</p>
-<p>Bringing you a consummate blend of strength, agility and fun, this event
-invites you to break a sweat, destress before the exams, and honour 60
-years of Singapore’s resilience – all in one exhilarating heartbeat!</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Republic of Singapore Air Force On-Ground Activation (Gamified Missions)</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/WhatsApp_Image_2025_07_25_at_5_55_00_PM.jpg">
-</div>
-<p>📅 7-8 August 2025</p>
-<p>🕑 10.00am to 5.00pm</p>
-<p>📍 Auditorium 1 &amp; 2 Foyer</p>
-<p>Celebrate SG60 and the <strong>Republic of Singapore Air Force’s</strong>  <strong>(RSAF)</strong> 57th
-anniversary with an immersive on-ground activation at TP!</p>
-<p>Look forward to an adrenaline-fueled experience that puts you right in
-the cockpit! Dive into the action with interactive gaming consoles that
-simulate real-life RSAF missions, and discover the excitement of air operations
-firsthand while deepening your understanding of the vital role played by
-the RSAF in our national security.</p>
-<p>Don’t miss this thrilling adventure to see the skies through a whole new
-perspective!</p>
 </div>
 </details>
 </div>
