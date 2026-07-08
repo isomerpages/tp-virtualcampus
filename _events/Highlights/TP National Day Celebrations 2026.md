@@ -227,10 +227,10 @@ together!</p>
 <summary><strong>Celebrations in the Schools</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Commemorate National Day with your respective Schools through a series
-of meaningful activities in August. Show off your distinctive <strong>school spirit</strong> and
-share your collective <strong>love and aspirations</strong> for Singapore
-in this exciting month of unity, pride and celebration!</p>
+<p>Commemorate National Day with your schools through a line-up of meaningful
+activities this August. Show off your distinctive school spirit and finesse,
+and come together to express your collective love for Singapore in this
+exciting month of unity and celebration!</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
