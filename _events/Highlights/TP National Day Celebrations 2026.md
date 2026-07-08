@@ -311,7 +311,6 @@ where the HSS community can come attired in their most creative red-and-white
 outfits and stand a chance to win exciting prizes. The <strong>HSS Studies Club</strong> will
 also be running a <strong>National Day-themed</strong>  <strong>treasure hunt</strong> for
 students to explore, strategise, and compete with their friends.</p>
-<p>&nbsp;</p>
 <p>Staff will embark on a <strong>Peranakan heritage learning journey</strong> to
 Joo Chiat – complete with a museum visit and a hands-on popiah-making session
 – for a truly immersive cultural experience.</p>
