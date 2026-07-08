@@ -110,8 +110,8 @@ best-dressed cultural outfits on the day.</p>
 <p>📅 3-4 August 2026</p>
 <p>📍 The Plaza (Outside Library &amp; School of Business Concourse)</p>
 <p>As Singapore marks its 61st birthday, <strong>NTUC Youth</strong> is also
-marking 21 years of walking alongside youths as they transition into the
-working world – and you are invited to join in the celebrations!</p>
+commemorating 21 years of walking alongside youths as they transition into
+the working world – and you are invited to join in the celebrations!</p>
 <p>Be part of their on-campus activation at TP, packed with exciting and
 meaningful activities that reaffirm their commitment to empower youths
 with the support, opportunities, and connections to start strong, as well
