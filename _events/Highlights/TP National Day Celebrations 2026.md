@@ -28,7 +28,7 @@ Follow a young content creator and her grandfather on a heartwarming intergenera
 journey, as they rediscover the iconic sights, defining moments, and heartfelt
 stories that make Singapore home.</p>
 <p>On top of that, get hyped for vibrant performances<strong> </strong>by
-the <strong>TP Staff Band</strong>, alongside special guest acts <strong>Lion City Brass Band</strong> and
+the <strong>TP Staff Band</strong>, alongside special guest <strong>Lion City Brass Band</strong> and
 perennial crowd favourites – the adorable kids from <strong>Little Skool-House</strong>.
 Plus, dive into <strong>exciting stage games</strong> and stand a chance
 to score attractive prizes, and enjoy a <strong>post-concert reception</strong> featuring
