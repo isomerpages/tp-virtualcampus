@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP National Day Celebrations 2025</strong></h3>
+<h3><strong>TP National Day Celebrations 2026</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/NDC_2025__General____1920px_by_1080px_V3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Celebrations_2026__1920px_x_1080px_.jpg">
 </div>
 <p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
 It is a monumental milestone that honours our shared journey, unites the
