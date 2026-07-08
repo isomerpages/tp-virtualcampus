@@ -281,8 +281,9 @@ celebratory style.</p>
 <p>DES will turn up the creativity with “<strong>BYO Let’s Tie Dye SG Red Socks</strong>”
 – a hands-on art workshop for the DES community to celebrate National Day
 through their own artistic designs.</p>
-<p>Adding to the festive vibes, the school will also be adorned with striking <strong>s</strong>tudent-designed
-SG61 wall installations, showcasing national pride in true DES style.</p>
+<p>Adding to the festive vibes, the school will also be adorned with striking
+student-designed SG61 wall installations, showcasing national pride in
+true DES style.</p>
 <p></p>
 </td>
 </tr>
