@@ -103,6 +103,23 @@ best-dressed cultural outfits on the day.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>NTUC Youth Celebrations @ TP</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>📅 3-4 August 2026</p>
+<p>📍 The Plaza (Outside Library &amp; School of Business Concourse)</p>
+<p>As Singapore celebrates its 61st birthday, <strong>NTUC Youth</strong> is
+also marking 21 years of walking alongside youths as they transition into
+the working world – and you are invited to join in the celebrations!</p>
+<p>Be part of their on-campus activation at TP, packed with exciting and
+meaningful activities that reaffirm their commitment to empower youths
+with the support, opportunities, and connections to start strong, as well
+as to progress confidently in their careers.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Broadcast of National Day Songs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -311,15 +328,6 @@ and mark National Day together.</p>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
 </div>
 </details>
 </div>
