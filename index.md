@@ -44,13 +44,14 @@ sections:
   - infopic:
       title: TP National Day Concert 2026
       id: infopic
-      description: Rediscover the iconic stories that make Singapore home. Catch
-        vibrant performances, play fun games, and let’s unite in celebration as
-        one TP!
+      description: Rediscover the iconic stories that make Singapore home at this
+        concert. Catch vibrant performances, play fun games, and let’s unite in
+        celebration as one TP!
       button: GET READY!
       url: /tp-national-day-concert-2026/
       image: /images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg
       alt: TP National Day Concert
+      subtitle: Semangat ke Hadapan
   - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
