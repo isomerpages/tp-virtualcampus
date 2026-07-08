@@ -308,7 +308,7 @@ while helping them to stay connected in an increasingly digitalised world.</p>
 <td rowspan="1" colspan="1">
 <p>HSS will drum up the festive fun with a “<strong>National Day Dress Up Challenge</strong>”,
 where the HSS community can come attired in their most creative red-and-white
-outfits and stand a chance to win exciting prizes. The <strong>HSS Studies Club</strong> will
+outfits and stand a chance to win exciting prizes. The <strong><a href="https://www.instagram.com/hss_sc/" rel="noopener nofollow" target="_blank">HSS Studies Club</a></strong> will
 also be running a <strong>National Day-themed</strong>  <strong>treasure hunt</strong> for
 students to explore, strategise, and compete with their friends.</p>
 <p>Staff will embark on a <strong>Peranakan heritage learning journey</strong> to
