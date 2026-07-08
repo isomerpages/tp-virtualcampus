@@ -23,16 +23,12 @@ variant: tiptap
 <p><strong><a href="/tp-national-day-celebrations-2026/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2026</a></strong>
 </p>
 <p></p>
-<p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
-It is a monumental milestone that honours our shared journey, unites the
-nation in collective pride, and inspires us to build an even brighter future
-together.</p>
+<p>This August, get ready to ignite your patriotic spirit as we mark Singapore’s
+61st birthday at TP’s very own <strong>National Day Celebrations 2026</strong>!</p>
 <p></p>
-<p>This August, we invite you to ignite your patriotic spirit and join us
-at TP’s very own <strong>National Day Celebrations 2025</strong>! Look forward
-to a diverse array of activities, brought to life by our Schools, CCAs/Clubs
-and partners. Come be part of the exciting action and experience our vibrant
-campus spirit!</p>
+<p>Look forward to an electrifying array of activities, brought to life by
+our Schools, CCAs/Clubs, and partners. Come be part of the exciting action
+and experience our vibrant campus spirit on this special occasion!</p>
 <p></p>
 </td>
 </tr>
