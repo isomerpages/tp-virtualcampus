@@ -120,9 +120,37 @@ as to progress confidently in their careers.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>“We Pledge: 60 Years of Us” Travelling Exhibition</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/National_Pledge.jpg">
+</div>
+<p><em>(Photo Credit: Ministry of Digital Development and Information (2013))</em>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p>📅 3-7 August 2026</p>
+<p>📍 The Plaza (Outside Library)</p>
+<p>This August not only marks Singapore’s 61st National Day, but also 60
+years since the National Pledge was first recited in schools on 24 August
+1966.</p>
+<p>Organised by <strong>Defence Collective Singapore</strong>, the <strong>“We Pledge: 60 Years of Us” Travelling Exhibition</strong> pays
+tribute to six decades of the National Pledge. Step into an immersive journey
+through the stories, defining moments, and shared values that have shaped
+our national identity. As you explore, take a moment to reflect on what
+our National Pledge meant in the past, reaffirm its significance today,
+and be inspired to carry its spirit forward into the future.</p>
 </div>
 </details>
 </div>
