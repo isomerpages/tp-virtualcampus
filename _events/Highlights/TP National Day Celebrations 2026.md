@@ -16,7 +16,7 @@ our celebrations honour the Singapore Spirit and our shared aspirations
 to grow and progress as a nation – while standing together in care, support,
 and solidarity with one another and our wider community.</p>
 <p>In this month of unity, watch our campus come alive with an electrifying
-array of activities presented by our schools, CCAs/Clubs and partners.
+array of activities presented by our schools, CCAs/Clubs, and partners.
 Immerse yourself in a rich tapestry of cultures at the <strong>SU Harmony Fest: “Project Rojak”</strong> for
 Racial Harmony Day, be inspired by the <strong>“We Pledge: 60 Years of Us” Travelling Exhibition</strong>,
 be wowed by a <strong>Military Defence Display by 23SA</strong>, jump into
