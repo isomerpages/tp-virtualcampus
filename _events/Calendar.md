@@ -49,12 +49,11 @@ campus spirit!</p>
 <p><strong><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">TP National Day Concert 2025: "Semangat ke Hadapan” </a><em><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">(The Spirit of Moving Forward)</a></em></strong>
 </p>
 <p></p>
-<p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2025: “Confirm Can One!”</strong>,
-specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
-Staged in a dynamic <strong>theatrical game show</strong> format for the
-first time, this electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
-promising a memorable journey for audiences through Singapore’s evolving
-history.</p>
+<p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2026</strong>,
+specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>  <strong>(TAC)</strong>.
+Enjoy vibrant performances by our talented student-artists from TAC and
+the <strong>TP Staff Band</strong>, alongside special guest acts <strong>Lion City Brass Band</strong> and
+perennial crowd favourites – the adorable kids from <strong>Little Skool-House</strong>.</p>
 <p></p>
 <p>Let’s unite in celebration and make unforgettable memories as a TP family!</p>
 <p></p>
