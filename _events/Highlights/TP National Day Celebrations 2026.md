@@ -37,10 +37,10 @@ will want to be. Let’s join in the action and unite in celebration as one
 TP.</p>
 <p>See you there!</p>
 <hr>
-<h3><strong>NDC 2025: Fringe Activities</strong></h3>
-<p>Dive into an exciting host of fringe activities for NDC 2025 – organised
-just for you and happening right here on campus. Let’s celebrate Singapore’s
-60th birthday with pride and in style!</p>
+<h3><strong>NDC 2026: Fringe Activities</strong></h3>
+<p>Dive into an exciting array of fringe activities organised as part of
+NDC 2026 – happening right here on campus. Let’s celebrate Singapore’s
+61st birthday with pride, energy and style!</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Campus National Day Decorations</strong>
