@@ -42,6 +42,17 @@ sections:
       image: /images/Events/Highlights/TP_National_Day_Celebrations_2026__1920px_x_1080px_.jpg
       alt: TP National Day Celebrations
   - infopic:
+      title: TP National Day Concert 2026
+      subtitle: MAJULAH SINGAPURA, GO BEYOND!
+      id: infopic
+      description: Rediscover the iconic stories that make Singapore home. Catch
+        vibrant performances, play fun games, and let’s unite in celebration as
+        one TP!
+      button: GET READY!
+      url: TP National Day Concert
+      image: /images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg
+      alt: Image alt text
+  - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
       id: infopic
