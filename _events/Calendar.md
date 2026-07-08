@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tp-national-day-celebrations-2025/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2025</a></strong>
+<p><strong><a href="/tp-national-day-celebrations-2026/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2026</a></strong>
 </p>
 <p></p>
 <p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
@@ -46,7 +46,7 @@ campus spirit!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">TP National Day Concert 2025: "Confirm Can One!"</a></strong>
+<p><strong><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">TP National Day Concert 2025: "Semangat ke Hadapan” </a><em><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">(The Spirit of Moving Forward)</a></em></strong>
 </p>
 <p></p>
 <p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2025: “Confirm Can One!”</strong>,
