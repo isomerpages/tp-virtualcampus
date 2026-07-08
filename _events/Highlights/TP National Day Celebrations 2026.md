@@ -57,7 +57,7 @@ significant occasion.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Racial Harmony Day Carnival 2025</strong>
+<summary><strong>SU Harmony Fest: “Project Rojak”</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -67,35 +67,38 @@ significant occasion.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/RHD_IG_POST_PAGE_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/RHD_IG_POST_PAGE_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/RHD_EDM.png">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
-<p>📅 16 July 2025 (Wednesday)</p>
-<p>🕑 10.00am to 4.00pm</p>
-<p>📍 The Plaza</p>
-<p>Let’s celebrate Singapore’s rich tapestry of cultures, vibrancy and spirit!
-This event is brought to you by the <strong><a href="https://www.instagram.com/tp.lead/?hl=en" rel="noopener nofollow" target="_blank">LEAD Ambassadors</a>, </strong>in
-collaboration with the <strong><a href="https://www.instagram.com/tpsuonline" rel="noopener nofollow" target="_blank">Students' Union</a></strong>, <strong><a href="https://www.instagram.com/tpisg" rel="noopener nofollow" target="_blank">TP International Students Group</a></strong>, <strong><a href="https://www.instagram.com/tpeng.ga?igsh=MXV0NzBnc3drOHZzdg%3D%3D&amp;utm_source=qr" rel="noopener nofollow" target="_blank">Global Ambassadors (Engineering)</a></strong>, <strong><a href="https://www.instagram.com/designstudiesclub" rel="noopener nofollow" target="_blank">Design Studies Club</a></strong>, <strong><a href="https://www.instagram.com/tpec.enspire/" rel="noopener nofollow" target="_blank">Entrepreneurship Club</a></strong>,
-and <strong><a href="https://www.instagram.com/tp_mindsports" rel="noopener nofollow" target="_blank">TP Mind Sports</a></strong>.</p>
-<p>Featuring an engaging line-up of heritage game booths curated by our talented
-student groups, be sure to try your hand at exciting activities such as
-Chinese Chess, Mancala, Henna Art, and many more. What’s more, you can
-take part in these activities while enjoying entertaining live performances
-presented by <strong><a href="https://www.instagram.com/tpmusicvox" rel="noopener nofollow" target="_blank">Music Vox</a></strong> and <strong><a href="https://www.instagram.com/tpchineseorchestra/?hl=en" rel="noopener nofollow" target="_blank">Chinese Orchestra</a></strong>!</p>
-<p>That’s not all – look forward to a delish ensemble of free snacks like
-hot dogs, Thai milk tea, popcorn, candy floss and sliced ice cream – redeemable
-after completing the booth activities. Remember to grab your favourites
-while stocks last!</p>
+<p>📅 16 July 2026 (Thursday)</p>
+<p>🕑 11.00am to 5.00pm
+<br>📍 The Plaza (Outside Library &amp; School of Business Concourse)</p>
+<p>This Racial Harmony Day, come celebrate Singapore’s vibrant tapestry of
+cultures, immerse yourself in the rich diversity that unites us, and embrace
+the spirit of harmony that makes Singapore truly home!</p>
+<p>Led by the TP Students’ Union, the <strong>SU Harmony Fest: “Project Rojak”</strong> invites
+you to experience unity in harmony through fun cultural dress-ups, traditional
+game booths, and hands-on cultural art activities. Indulge in delicious
+free snacks (redeemable when you complete the activities), strike fun poses
+at the photo booth, and stand a chance to win attractive prizes for the
+best-dressed cultural outfits on the day.</p>
+<p>This event is brought to you by the following student groups:</p>
+<p>&nbsp;</p>
+<p>⭐&nbsp;<a href="https://www.instagram.com/tp.studentsunion/?hl=en" rel="noopener noreferrer nofollow" target="_blank">TP Students’ Union</a>
+</p>
+<p>⭐&nbsp;<a href="https://www.instagram.com/tpbsc" rel="noopener noreferrer nofollow" target="_blank">Business Studies Club</a>
+</p>
+<p>⭐&nbsp;<a href="https://www.instagram.com/designstudiesclub" rel="noopener noreferrer nofollow" target="_blank">Design Studies Club</a>
+</p>
+<p>⭐&nbsp;<a href="https://www.instagram.com/tp.glocal/" rel="noopener noreferrer nofollow" target="_blank">Glocal Ambassadors</a>
+</p>
+<p>⭐&nbsp;<a href="https://www.instagram.com/tpisg" rel="noopener noreferrer nofollow" target="_blank">TP International Students Group</a>
+</p>
 </div>
 </details>
 </div>
