@@ -262,33 +262,12 @@ Singapore”, to reviewing delicious local cultural fusion food.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Mid-Jul to End-Aug:</strong> The BUS concourse will be adorned
-with <strong>National Day-themed décor</strong>, complemented by a <strong>video montage</strong> featuring
-students posing with Singapore’s iconic landmarks and cultural symbols.</p>
-</li>
-<li>
-<p><strong>16 Jul:</strong> A “<strong>Makansutra</strong>” workshop will
-be held on Racial Harmony Day to promote staff bonding and celebrate Singapore’s
-rich food culture and culinary heritage.</p>
-</li>
-<li>
-<p><strong>First Week of Aug:</strong> The NDP 2025 theme song, “<strong>Here We Are</strong>”,
-will be played on loop on the BUS concourse video wall, along with past
-NDP favourites.</p>
-</li>
-<li>
-<p><strong>4-8 Aug:</strong> Red/white balloons will be distributed to staff
-and students, along with National Day-themed water tattoos, to mark Singapore’s
-60th birthday.</p>
-</li>
-<li>
-<p><strong>7-8 Aug:</strong> The BUS community will be encouraged to wear
-red/white to celebrate National Day. A <strong>red-and-white themed lunch </strong>featuring
-local favourites will also be hosted for staff to enjoy.</p>
-</li>
-</ul>
+<p>BUS will turn National Day into a feast for the senses with a “<strong>Hawker Stall-themed” Staff Lunch</strong>,
+where staff are encouraged to come decked out in their best Batik attire.</p>
+<p>The BUS Concourse (Level 2) will also be transformed with vibrant Batik-inspired
+decorations, fun photo props, popcorn stations, and a digital video wall
+looping iconic National Day songs to welcome students and staff in true
+celebratory style.</p>
 </td>
 </tr>
 <tr>
@@ -297,24 +276,7 @@ local favourites will also be hosted for staff to enjoy.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>First Week of Aug:</strong> The “<strong>DES BIG STEPS</strong>”
-will be decorated with red/white balloons to create a celebratory atmosphere
-for staff and students.</p>
-</li>
-<li>
-<p><strong>8 Aug:</strong> A <strong>red-and-white themed breakfast</strong> will
-be hosted for staff, while water-based tattoos will be distributed for
-students to enjoy.</p>
-</li>
-<li>
-<p><strong>8 Aug: </strong>The DES community will be encouraged to wear red/white
-to celebrate National Day. Student photographers / videographers will also
-capture these <strong>joyful moments</strong> and <strong>event highlights</strong> to
-share on DES social media platforms.</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -323,10 +285,7 @@ share on DES social media platforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16 Jul:</strong> Students will be encouraged to participate in
-a “<strong>Harmony Hand</strong>” mural activity at the ENG concourse,
-where they can contribute handprints and/or messages as a pledge to the
-treasured values of <strong>racial harmony</strong>, <strong>teamwork </strong>and <strong>collaboration</strong>.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -335,27 +294,7 @@ treasured values of <strong>racial harmony</strong>, <strong>teamwork </strong>a
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>14-21 Jul:</strong> HSS will organise a “<strong>Racial Harmony (RH) Day</strong>  <strong>Dress-Up Challenge</strong>”
-with prizes up for grabs (<strong>16 Jul</strong>). Educational and commemorative
-RH-related content will also be shared via social media (<strong>14–21 Jul</strong>).</p>
-</li>
-<li>
-<p><strong>8 Aug: </strong>The HSS community will be encouraged to participate
-in a creative red-and-white themed “<strong>Dress-Up Challenge</strong>”,
-with prizes to be won for the best-dressed participants.</p>
-</li>
-<li>
-<p><strong>8-9 Aug:</strong> Animated banners and celebratory posts will be
-shared on HSS <strong><a href="https://www.instagram.com/tp.hss/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong> and <strong><a href="https://www.linkedin.com/company/tp-hss/about/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a></strong> pages.</p>
-</li>
-<li>
-<p><strong>8-9 Aug: </strong>The HSS community will be encouraged to share
-their <strong>National Day tributes</strong> and <strong>well wishes</strong> for
-Singapore on HSS social media platforms.</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -364,10 +303,7 @@ Singapore on HSS social media platforms.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>First Week of Aug:</strong> The IIT Studies Club will organise
-its annual <strong>“IIT Friendship Day x National Day Celebration”</strong>,
-featuring nostalgic games/activities for both staff and students to enjoy
-and mark National Day together.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
