@@ -20,7 +20,8 @@ array of activities presented by our schools, CCAs/Clubs, and partners.
 Immerse yourself in a rich tapestry of cultures at the <strong>SU Harmony Fest: “Project Rojak”</strong> for
 Racial Harmony Day, be inspired by the <strong>“We Pledge: 60 Years of Us” Travelling Exhibition</strong>,
 be wowed by a <strong>Military Defence Display by 23SA</strong>, jump into
-a whole host of <strong>school-based celebrations</strong> – and many more!</p>
+a colourful variety of <strong>school-based celebrations</strong> – and many
+more!</p>
 <p>Cap off the celebrations with a spirited finale at our <strong>National Day Concert 2026: “Semangat ke Hadapan” (<em>The Spirit of Moving Forward</em>)</strong> –
 proudly brought to life by <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>!
 Follow a young content creator and her grandfather on a heartwarming intergenerational
