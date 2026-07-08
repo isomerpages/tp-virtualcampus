@@ -32,7 +32,7 @@ sections:
       variant: center
   - infopic:
       title: TP National Day Celebrations 2026
-      subtitle: UNLEASH THE FESTIVITIES!
+      subtitle: MAJULAH SINGAPURA, GO BEYOND!
       id: infopic
       description: Get ready to ignite your patriotic spirit. Come celebrate
         Singapore’s 61st birthday with an electrifying array of activities,
@@ -43,7 +43,6 @@ sections:
       alt: TP National Day Celebrations
   - infopic:
       title: TP National Day Concert 2026
-      subtitle: MAJULAH SINGAPURA, GO BEYOND!
       id: infopic
       description: Rediscover the iconic stories that make Singapore home. Catch
         vibrant performances, play fun games, and let’s unite in celebration as
