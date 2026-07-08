@@ -156,16 +156,18 @@ and be inspired to carry its spirit forward into the future.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Broadcast of National Day Songs</strong>
+<summary><strong>Lunchtime Broadcast of National Day Songs</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>📅 1-15 August 2025</p>
+<p>📅 August 2026</p>
 <p>🕑 12.00pm to 2.00pm</p>
 <p>📍 The Plaza</p>
-<p>What’s a birthday celebration for Singapore without our timeless National
-Day classics? Sing along to your favourite songs, enjoy these iconic tunes
-echoing across campus, and get creative by filming a TikTok video with
-your friends grooving to the rhythm. Let’s make this celebration unforgettable!</p>
+<p>What’s a birthday bash for Singapore without our timeless National Day
+songs setting the mood right on campus?</p>
+<p>This August, sing along to your favourite National Day hits, soak in those
+iconic tunes pulsating through campus, and level up the fun by filming
+a TikTok video with your friends as you groove to the beat. Let’s turn
+up the volume and make this celebration unforgettable!</p>
 </div>
 </details>
 </div>
