@@ -47,7 +47,7 @@ as one TP!</p>
 </p>
 <p></p>
 <p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2026</strong>,
-specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>  <strong>(TAC)</strong>.
+specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
 Enjoy vibrant performances by our talented student-artists and the TP Staff
 Band, alongside special guest Lion City Brass Band and perennial crowd
 favourites – the adorable kids from Little Skool-House.</p>
