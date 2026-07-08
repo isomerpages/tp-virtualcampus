@@ -340,7 +340,7 @@ make our community so special.</p>
 </details>
 </div>
 <hr>
-<h3><strong>TP National Day Concert 2026: “Semangat ke Hadapan” (<em>The Spirit of Moving Forward</em>)</strong></h3>
+<h3><strong>TP National Day Concert 2026: “Semangat ke Hadapan” <em>(The Spirit of Moving Forward)</em></strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg">
 </div>
@@ -353,7 +353,7 @@ make our community so special.</p>
 </p>
 <p><strong>TP Alumni&nbsp;</strong>– <a href="https://for.edu.sg/ndc2026-alumni" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ndc2026-alumni</a>
 </p>
-<p>Round off the celebrations across TP at our very own <strong><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">National Day Concert 2026: “Semangat ke Hadapan” (</a><em><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">The Spirit of Moving Forward</a></em><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">)</a></strong> –
+<p>Round off the celebrations across TP at our very own <strong><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">National Day Concert 2026: “Semangat ke Hadapan” </a><em><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">(The Spirit of Moving Forward)</a></em></strong> –
 a spirited finale proudly presented by <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>  <strong>(TAC)</strong>!</p>
 <p>Follow a young content creator and her grandfather on a heartwarming intergenerational
 journey, as they rediscover the iconic sights, defining moments, and heartfelt
