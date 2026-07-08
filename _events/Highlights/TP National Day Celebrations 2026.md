@@ -293,7 +293,6 @@ SG61 wall installations, showcasing national pride in true DES style.</p>
 <td rowspan="1" colspan="1">
 <p>The <strong>ENG Studies Club </strong>will bring the buzz to the “<strong>Annual Changkat Community Club National Day Carnival</strong>”
 with nine interactive booths packed with fun, hands-on activities.</p>
-<p>&nbsp;</p>
 <p>In addition, the <strong><a href="https://www.instagram.com/tpeng_sa/" rel="noopener noreferrer nofollow" target="_blank">Engineering Student Ambassadors</a></strong> will
 partner with <strong>SG Digital</strong> to run <strong>digital literacy workshops</strong> –
 where they will introduce seniors to technology at community wellness centres,
@@ -307,6 +306,15 @@ while helping them to stay connected in an increasingly digitalised world.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>HSS will drum up the festive fun with a “<strong>National Day Dress Up Challenge</strong>”,
+where the HSS community can come attired in their most creative red-and-white
+outfits and stand a chance to win exciting prizes. The <strong>HSS Studies Club</strong> will
+also be running a <strong>National Day-themed</strong>  <strong>treasure hunt</strong> for
+students to explore, strategise, and compete with their friends.</p>
+<p>&nbsp;</p>
+<p>Staff will embark on a <strong>Peranakan heritage learning journey</strong> to
+Joo Chiat – complete with a museum visit and a hands-on popiah-making session
+– for a truly immersive cultural experience.</p>
 <p></p>
 </td>
 </tr>
