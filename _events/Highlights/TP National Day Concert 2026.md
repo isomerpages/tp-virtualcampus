@@ -27,7 +27,7 @@ stories that make Singapore home. Watch their adventure come alive through
 a captivating blend of theatre, music, dance and multimedia, showcasing
 TAC’s finest artistic talents at their best.</p>
 <p>And that’s not all! Enjoy vibrant performances by the <strong>TP Staff Band</strong>,
-alongside special guest acts <strong>Lion City Brass Band</strong> and perennial
+alongside special guest <strong>Lion City Brass Band</strong> and perennial
 crowd favourites – the adorable kids from <strong>Little Skool-House</strong>.
 Plus, dive into <strong>exciting stage games</strong> and stand a chance
 to score attractive prizes along the way!</p>
