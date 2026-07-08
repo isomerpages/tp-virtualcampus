@@ -291,6 +291,13 @@ SG61 wall installations, showcasing national pride in true DES style.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>The <strong>ENG Studies Club </strong>will bring the buzz to the “<strong>Annual Changkat Community Club National Day Carnival</strong>”
+with nine interactive booths packed with fun, hands-on activities.</p>
+<p>&nbsp;</p>
+<p>In addition, the <strong><a href="https://www.instagram.com/tpeng_sa/" rel="noopener noreferrer nofollow" target="_blank">Engineering Student Ambassadors</a></strong> will
+partner with <strong>SG Digital</strong> to run <strong>digital literacy workshops</strong> –
+where they will introduce seniors to technology at community wellness centres,
+while helping them to stay connected in an increasingly digitalised world.</p>
 <p></p>
 </td>
 </tr>
