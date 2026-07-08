@@ -34,8 +34,8 @@ to score attractive prizes along the way!</p>
 <p>This year, we also commemorate the <strong>60th anniversary</strong> of
 our <strong>National Pledge</strong>. To mark this significant milestone,
 there will be a meaningful moment of celebration and reflection – where
-we reaffirm the shared values that have defined us as a nation, and be
-inspired to carry the spirit of our National Pledge into the future.</p>
+we will reaffirm the shared values that have defined us as a nation, and
+be inspired to carry the spirit of our National Pledge into the future.</p>
 <p>Bursting with fun, energy and all the vibes, this is one electrifying
 concert you simply cannot miss. Let’s come together as one TP, paint the
 campus in red and white, and turn this into an epic celebration to remember.</p>
