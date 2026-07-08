@@ -5,48 +5,44 @@ variant: tiptap
 description: ""
 third_nav_title: Highlights
 ---
-<h3><strong>TP National Day Concert 2025: "Confirm Can One!"</strong></h3>
+<h3><strong>TP National Day Concert 2026: “Semangat ke Hadapan” (<em>The Spirit of Moving Forward</em>)</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/National_Day_Concert_2025___1920px_by_1080px.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg">
 </div>
-<p>📅 8 August 2025 (Friday)</p>
-<p>🕑 11.00am to 12.00pm (Doors open at 10.30am)</p>
+<p>📅 7 August 2026 (Friday)</p>
+<p>🕑 11.00am to 12.00pm (Doors Open: 10.30am)</p>
 <p>📍 Temasek Convention Centre</p>
-<p>🎟️ Grab your tickets NOW:</p>
-<p><strong>TP Staff &amp; Students</strong> - <strong><a href="https://for.edu.sg/ndc25staffstudents" rel="noopener nofollow" target="_blank">https://for.edu.sg/ndc25staffstudents</a></strong>
+<p>👉 <strong>Grab Your Seats Now:</strong>
 </p>
-<p><strong>TP Alumni </strong>- <strong><a href="https://for.edu.sg/ndc25alumni" rel="noopener nofollow" target="_blank">https://for.edu.sg/ndc25alumni</a></strong>
+<p><strong>TP Staff &amp; Students</strong>&nbsp;– <a href="https://for.edu.sg/ndc2026-staffstudents" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ndc2026-staffstudents</a>
 </p>
-<hr>
-<p>Hey #TPFAM! Be a guest at our biggest party of the year and join us at
-TP’s very own <strong>National Day Concert 2025: “Confirm Can One!”</strong>,<strong> </strong>specially
-presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener nofollow" target="_blank">Temasek Arts Centre</a></strong>!</p>
-<p>Embark on a meaningful journey through the pivotal chapters of our nation’s
-60-year history. “<strong>Confirm Can One!</strong>” encapsulates the essence
-of the Singapore spirit and brings innovation to the next level with an
-exciting <strong>theatrical game show</strong> format, staged for the first
-time in this special SG60 and TP35 year!</p>
-<p>Experience a captivating blend of <strong>storytelling</strong>, challenge
-yourself with <strong>fun and interactive games</strong> inspired by our
-nation’s defining moments, and cheer on the <strong>vibrant performances</strong> presented
-by our talented TP family. Cap off the festivities with a <strong>free post-concert lunch reception</strong>,
-where you will get to savour a spread of popular local hawker delicacies
-that will satisfy every craving!</p>
-<p>Promising a fresh and dynamic experience that embodies our collective
-love for Singapore, this is one electrifying concert not to be missed.
-Let’s unite in celebration, show our pride and solidarity, and make unforgettable
-memories as a TP family!</p>
-<p><strong>Things to Note:</strong>
+<p><strong>TP Alumni&nbsp;</strong>– <a href="https://for.edu.sg/ndc2026-alumni" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/ndc2026-alumni</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Registration</strong> – SEAL points will be awarded to students
-for full concert participation.</p>
-</li>
-<li>
-<p><strong>Celebrate in Style</strong> – Express your love for Singapore with
-your style. Come dressed in your best red/white ensemble and let your patriotic
-fervour shine through your fashion!</p>
-</li>
-</ul>
+<p>This August, be a guest at TP’s biggest party and join us at our very
+own <strong>National Day Concert 2026: </strong>“<strong>Semangat ke Hadapan</strong>”<strong> (<em>The Spirit of Moving Forward</em>)</strong> [Insert
+link to specific page on VC] – a special showcase proudly presented by <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>  <strong>(TAC)</strong>!</p>
+<p>Follow a young content creator and her grandfather on a heartwarming intergenerational
+journey, as they rediscover the iconic sights, defining moments, and heartfelt
+stories that make Singapore home. Watch their adventure come alive through
+a captivating blend of theatre, music, dance and multimedia, showcasing
+TAC’s finest artistic talents at their best.</p>
+<p>And that’s not all! Enjoy vibrant performances by the <strong>TP Staff Band</strong>,
+alongside special guest acts <strong>Lion City Brass Band</strong> and perennial
+crowd favourites – the adorable kids from <strong>Little Skool-House</strong>.
+Plus, dive into <strong>exciting stage games</strong> and stand a chance
+to score attractive prizes along the way!</p>
+<p>This year, we also commemorate the <strong>60th anniversary</strong> of
+our <strong>National Pledge</strong>. To mark this significant milestone,
+there will be a meaningful moment of celebration and reflection – where
+we reaffirm the shared values that have defined us as a nation, and be
+inspired to carry the spirit of our National Pledge into the future.</p>
+<p>Bursting with fun, energy and all the vibes, this is one electrifying
+concert you simply cannot miss. Let’s come together as one TP, paint the
+campus in red and white, and turn this into an epic celebration to remember.</p>
+<p>Catch you at the party!</p>
+<p><strong>Bonus:</strong>
+</p>
+<p>⭐ <strong>SEAL points</strong> will be awarded to students for <strong>full concert participation</strong>!</p>
+<p>⭐ Enjoy a <strong>free post-concert lunch reception</strong>, featuring
+a spread of popular local hawker delicacies to satisfy every craving!</p>
 <p></p>
