@@ -51,7 +51,7 @@ sections:
       url: /tp-national-day-concert-2026/
       image: /images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg
       alt: TP National Day Concert
-      subtitle: Semangat ke Hadapan
+      subtitle: UNLEASH THE FESTIVITIES!
   - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
