@@ -49,7 +49,7 @@ sections:
         celebration as one TP!
       button: GET READY!
       url: /tp-national-day-concert-2026/
-      image: /images/Events/Highlights/TP_National_Day_Concert_2026___Web_Banners__Final__Web_Banner_01_1920_X_1080.jpg
+      image: /images/Events/Highlights/TP_National_Day_Concert_2026.jpg
       alt: TP National Day Concert
       subtitle: UNLEASH THE FESTIVITIES!
   - infopic:
