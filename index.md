@@ -39,7 +39,7 @@ sections:
         happening right on campus!
       button: EXPLORE THE BUZZ!
       url: /tp-national-day-celebrations-2026/
-      image: /images/Events/Highlights/TP_National_Day_Celebrations_2026__1920px_x_1080px_.jpg
+      image: /images/Events/Highlights/TP_National_Day_Celebrations_2026__Updated_.jpg
       alt: TP National Day Celebrations
   - infopic:
       title: TP National Day Concert 2026
@@ -49,7 +49,7 @@ sections:
         celebration as one TP!
       button: GET READY!
       url: /tp-national-day-concert-2026/
-      image: /images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg
+      image: /images/Events/Highlights/TP_National_Day_Concert_2026___Web_Banners__Final__Web_Banner_01_1920_X_1080.jpg
       alt: TP National Day Concert
       subtitle: UNLEASH THE FESTIVITIES!
   - infopic:
