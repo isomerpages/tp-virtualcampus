@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP National Day Celebrations 2026</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Celebrations_2026__1920px_x_1080px_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Celebrations_2026__Updated_.jpg">
 </div>
 <p>This August, get ready to ignite your patriotic spirit as we mark <strong>Singapore’s 61st birthday</strong> at
 TP’s very own <strong>National Day Celebrations (NDC) 2026</strong>!</p>
@@ -342,7 +342,7 @@ make our community so special.</p>
 <hr>
 <h3><strong>TP National Day Concert 2026: “Semangat ke Hadapan” <em>(The Spirit of Moving Forward)</em></strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026__1920px_x_1080px____Final.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026___Web_Banners__Final__Web_Banner_01_1920_X_1080.jpg">
 </div>
 <p>📅 7 August 2026 (Friday)</p>
 <p>🕑 11.00am to 12.00pm (Doors Open: 10.30am)</p>
