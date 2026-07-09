@@ -36,7 +36,7 @@ as one TP!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026___Web_Banners__Final__Web_Banner_01_1920_X_1080.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026.jpg">
 </div>
 <p><em>7 August 2026</em>
 </p>
