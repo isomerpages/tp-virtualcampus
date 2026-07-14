@@ -31,6 +31,28 @@ sections:
       background: /images/Home/virtual_backgrounds-01-v3.jpg
       variant: center
   - infopic:
+      title: TP National Day Celebrations 2026
+      subtitle: MAJULAH SINGAPURA, GO BEYOND!
+      id: infopic
+      description: Get ready to ignite your patriotic spirit. Come celebrate
+        Singapore’s 61st birthday with an electrifying array of activities,
+        happening right on campus!
+      button: EXPLORE THE BUZZ!
+      url: /tp-national-day-celebrations-2026/
+      image: /images/Events/Highlights/TP_National_Day_Celebrations_2026___1920px_x_1080px.jpg
+      alt: TP National Day Celebrations
+  - infopic:
+      title: TP National Day Concert 2026
+      id: infopic
+      description: Rediscover the iconic stories that make Singapore home at this
+        concert. Catch vibrant performances, play fun games, and let’s unite in
+        celebration as one TP!
+      button: GET READY!
+      url: /tp-national-day-concert-2026/
+      image: /images/Events/Highlights/TP_National_Day_Concert_2026___1920px_x_1080px.jpg
+      alt: TP National Day Concert
+      subtitle: UNLEASH THE FESTIVITIES!
+  - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
       id: infopic

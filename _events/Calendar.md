@@ -14,6 +14,51 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Celebrations_2026___1920px_x_1080px.jpg">
+</div>
+<p><em>July &amp; August 2026</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tp-national-day-celebrations-2026/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2026</a></strong>
+</p>
+<p></p>
+<p>This August, get ready to ignite your patriotic spirit as we mark Singapore’s
+61st birthday at TP’s very own <strong>National Day Celebrations 2026</strong>.</p>
+<p></p>
+<p>Look forward to an electrifying array of activities brought to life by
+our Schools, CCAs/Clubs, and partners. Come experience our vibrant campus
+spirit on this meaningful occasion and let's join in the exciting action
+as one TP!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026___1920px_x_1080px.jpg">
+</div>
+<p><em>7 August 2026</em>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">TP National Day Concert 2025: "Semangat ke Hadapan” </a><em><a href="/tp-national-day-concert-2026/" rel="noopener nofollow" target="_blank">(The Spirit of Moving Forward)</a></em></strong>
+</p>
+<p></p>
+<p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2026</strong>,
+specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
+Enjoy vibrant performances by our talented student-artists and the TP Staff
+Band, alongside special guest Lion City Brass Band and perennial crowd
+favourites – the adorable kids from Little Skool-House.</p>
+<p></p>
+<p>Let’s unite in celebration and make unforgettable memories as a TP family!</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_X_Challenge_Run_2026__1920px_x_1080px_.jpg">
 </div>
 <p><em>17 July 2026</em>
@@ -252,56 +297,6 @@ needy families residing in the South East District, courtesy of the FairPrice
 Foundation. And since it is <strong>TP’s 35th anniversary</strong>, let’s
 rally together and hit <strong>3,500 participants</strong> for every amazing
 year we are celebrating. See you there!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/NDC_2025__General____1920px_by_1080px_V3.jpg">
-</div>
-<p><em>July &amp; August 2025</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/tp-national-day-celebrations-2025/" rel="noopener nofollow" target="_blank">TP National Day Celebrations 2025</a></strong>
-</p>
-<p></p>
-<p>Singapore marks 60 years of independence (<strong>SG60</strong>) in 2025!
-It is a monumental milestone that honours our shared journey, unites the
-nation in collective pride, and inspires us to build an even brighter future
-together.</p>
-<p></p>
-<p>This August, we invite you to ignite your patriotic spirit and join us
-at TP’s very own <strong>National Day Celebrations 2025</strong>! Look forward
-to a diverse array of activities, brought to life by our Schools, CCAs/Clubs
-and partners. Come be part of the exciting action and experience our vibrant
-campus spirit!</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/National_Day_Concert_2025___1920px_by_1080px.png">
-</div>
-<p><em>8 August 2025</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/tp-national-day-concert-2025/" rel="noopener nofollow" target="_blank">TP National Day Concert 2025: "Confirm Can One!"</a></strong>
-</p>
-<p></p>
-<p>Be a guest at TP's biggest party and join us at our very own <strong>National Day Concert 2025: “Confirm Can One!”</strong>,
-specially presented by the <strong><a href="https://www.instagram.com/temasekartscentre/?hl=en" rel="noopener noreferrer nofollow" target="_blank">Temasek Arts Centre</a></strong>.
-Staged in a dynamic <strong>theatrical game show</strong> format for the
-first time, this electrifying concert celebrates both <strong>SG60</strong> and <strong>TP35</strong>,
-promising a memorable journey for audiences through Singapore’s evolving
-history.</p>
-<p></p>
-<p>Let’s unite in celebration and make unforgettable memories as a TP family!</p>
 <p></p>
 </td>
 </tr>
