@@ -7,7 +7,7 @@ third_nav_title: Highlights
 ---
 <h3><strong>TP National Day Concert 2026: “Semangat ke Hadapan” <em>(The Spirit of Moving Forward)</em></strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/TP_National_Day_Concert_2026___1920px_x_1080px.jpg">
 </div>
 <p>📅 7 August 2026 (Friday)</p>
 <p>🕑 11.00am to 12.00pm (Doors Open: 10.30am)</p>
