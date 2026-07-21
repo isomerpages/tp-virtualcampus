@@ -9,6 +9,10 @@ third_nav_title: Highlights
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/CCA_Assistance_Fund___1920px_by_1080px.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Assistance_Fund__1920px_by_1080px_.png">
+</div>
 <p>The<strong> CCA Assistance Fund (CCA AF) </strong>is established to support
 students who require financial assistance to continue meaningful CCA involvement
 at TP. Eligible students can receive <strong>$320 per Academic Year (AY)</strong>,
