@@ -219,7 +219,7 @@ in <strong>AY 2025/2026 Semester 1 </strong>and <strong>2</strong>.</p>
 <p><strong>Application Period: </strong>Now to 10 August 2026</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> End November 2026</p>
+<p><strong>Disbursement Period:</strong> Around end November 2026</p>
 </li>
 </ul>
 <p></p>
@@ -236,7 +236,7 @@ in <strong>AY 2025/26 Semester 2 </strong>and <strong>AY 2026/27 Semester 1.</st
 <p><strong>Application Period: </strong>End October to November 2026</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-February 2027</p>
+<p><strong>Disbursement Period:</strong> Around end February 2027</p>
 </li>
 </ul>
 </div>
