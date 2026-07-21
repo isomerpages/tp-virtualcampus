@@ -7,10 +7,6 @@ third_nav_title: Highlights
 ---
 <h3><strong>CCA Assistance Fund</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/CCA_Assistance_Fund___1920px_by_1080px.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Assistance_Fund__1920px_by_1080px_.png">
 </div>
 <p>The<strong> CCA Assistance Fund (CCA AF) </strong>is established to support
@@ -18,7 +14,7 @@ students who require financial assistance to continue meaningful CCA involvement
 at TP. Eligible students can receive <strong>$320 per Academic Year (AY)</strong>,
 and <strong>up to 400 students</strong> may potentially be awarded every
 AY.</p>
-<p>Since its inception in 2022, <strong>over 500 students</strong> have benefitted
+<p>Since its inception in 2022, <strong>over 600 students</strong> have benefitted
 from the CCA AF.</p>
 <p>Keep your dreams alive while pursuing your passion. Apply for the CCA
 AF today!</p>
@@ -217,13 +213,13 @@ the <strong>higher education government bursary</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Qualifying Period: </strong>Events/competitions should happen
-between<strong> April to 15 July 2025</strong>.</p>
+in <strong>AY 2025/2026 Semester 1 </strong>and <strong>2</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>28 July to 8 August 2025</p>
+<p><strong>Application Period: </strong>Now to 10 August 2026</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around Mid-December 2025</p>
+<p><strong>Disbursement Period:</strong> End November 2026</p>
 </li>
 </ul>
 <p></p>
@@ -233,13 +229,14 @@ between<strong> April to 15 July 2025</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Qualifying Period: </strong>Events/competitions should happen
-between <strong>16 July to October 2025</strong>.</p>
+in <strong>AY 2025/26 Semester 2 </strong>and <strong>AY 2026/27 Semester 1.</strong>
+</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>24 October to 7 November 2025</p>
+<p><strong>Application Period: </strong>End October to November 2026</p>
 </li>
 <li>
-<p><strong>Disbursement Period:</strong> Around end-February 2026</p>
+<p><strong>Disbursement Period:</strong> Around end-February 2027</p>
 </li>
 </ul>
 </div>
