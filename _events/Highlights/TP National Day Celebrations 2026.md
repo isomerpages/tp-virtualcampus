@@ -133,10 +133,8 @@ as to progress confidently in their careers.</p>
 <tr>
 <th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/National_Pledge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Highlights/We_Pledge___60_Years_of_Us_Exhibition.png">
 </div>
-<p><em>(Photo Credit: Ministry of Digital Development and Information (2013))</em>
-</p>
 </th>
 </tr>
 </tbody>

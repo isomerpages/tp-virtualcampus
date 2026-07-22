@@ -53,6 +53,15 @@ sections:
       alt: TP National Day Concert
       subtitle: UNLEASH THE FESTIVITIES!
   - infopic:
+      title: CCA Assistance Fund
+      subtitle: Keep pursuing your passion.
+      id: infopic
+      description: Eligible students can receive $320 per Academic Year (AY)
+      button: Apply Now
+      url: https://virtualcampus.tp.edu.sg/cca-assistance-fund/
+      image: /images/CCA_Assistance_Fund__1920px_by_1080px_.png
+      alt: Image alt text
+  - infopic:
       title: TP X-Challenge Run 2026
       subtitle: CHASE THE RUN. CATCH THE FUN!
       id: infopic
