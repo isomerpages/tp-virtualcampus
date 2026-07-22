@@ -216,7 +216,7 @@ the <strong>higher education government bursary</strong>.</p>
 in <strong>AY 2025/2026 Semester 1 </strong>and <strong>2</strong>.</p>
 </li>
 <li>
-<p><strong>Application Period: </strong>Now to 10 August 2026</p>
+<p><strong>Application Period: </strong>Now to 12 August 2026</p>
 </li>
 <li>
 <p><strong>Disbursement Period:</strong> Around end November 2026</p>
